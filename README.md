@@ -1,2 +1,4 @@
-# Space-Weather
-Space weather app, which takes data from NASA and NOAA to build a space weather report every 24 hours.
+# Space Weather App
+## Astronomical Picture of the Day
+![Image Desc](Astro_Images/image_log.txt)
+![Image](Astro_Images/image.jpg)
