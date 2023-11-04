@@ -46,20 +46,20 @@ Scale | Description | Effect
 **G1** | **Minor** | **Power systems:** Weak power grid fluctuations can occur. **Spacecraft operations:** Minor impact on satellite operations possible. **Other systems:** Migratory animals are affected at this and higher levels; aurora is commonly visible at high latitudes (northern Michigan and Maine).
 
 ## 3-day Forecast
-:Product: 3-Day Forecast  
-:Issued: 2023 Nov 04 1230 UTC  
- Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center  
+:Product:&ensp;3-Day&ensp;Forecast  
+:Issued:&ensp;2023&ensp;Nov&ensp;04&ensp;1230&ensp;UTC  
+&ensp;Prepared&ensp;by&ensp;the&ensp;U.S.&ensp;Dept.&ensp;of&ensp;Commerce,&ensp;NOAA,&ensp;Space&ensp;Weather&ensp;Prediction&ensp;Center  
   
-A. NOAA Geomagnetic Activity Observation and Forecast  
+A.&ensp;NOAA&ensp;Geomagnetic&ensp;Activity&ensp;Observation&ensp;and&ensp;Forecast  
   
-The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA  
-Scale levels).  
-The greatest expected 3 hr Kp for Nov 04-Nov 06 2023 is 4.00 (below NOAA  
-Scale levels).  
+The&ensp;greatest&ensp;observed&ensp;3&ensp;hr&ensp;Kp&ensp;over&ensp;the&ensp;past&ensp;24&ensp;hours&ensp;was&ensp;2&ensp;(below&ensp;NOAA  
+Scale&ensp;levels).  
+The&ensp;greatest&ensp;expected&ensp;3&ensp;hr&ensp;Kp&ensp;for&ensp;Nov&ensp;04-Nov&ensp;06&ensp;2023&ensp;is&ensp;4.00&ensp;(below&ensp;NOAA  
+Scale&ensp;levels).  
   
-NOAA Kp index breakdown Nov 04-Nov 06 2023  
+NOAA&ensp;Kp&ensp;index&ensp;breakdown&ensp;Nov&ensp;04-Nov&ensp;06&ensp;2023  
   
-&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Nov 04&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Nov 05&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Nov 06  
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Nov&ensp;04&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Nov&ensp;05&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Nov&ensp;06  
 00-03UT&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;1.00&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;3.00&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;4.00&ensp;&ensp;&ensp;&ensp;&ensp;  
 03-06UT&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;1.00&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;2.00&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;4.00&ensp;&ensp;&ensp;&ensp;&ensp;  
 06-09UT&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;2.00&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;2.00&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;3.00&ensp;&ensp;&ensp;&ensp;&ensp;  
@@ -69,31 +69,31 @@ NOAA Kp index breakdown Nov 04-Nov 06 2023
 18-21UT&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;2.67&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;3.00&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;3.00&ensp;&ensp;&ensp;&ensp;&ensp;  
 21-00UT&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;3.00&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;3.67&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;2.67&ensp;&ensp;&ensp;&ensp;&ensp;  
   
-Rationale: No G1 (Minor) or greater geomagnetic storms are forecast.   
+Rationale:&ensp;No&ensp;G1&ensp;(Minor)&ensp;or&ensp;greater&ensp;geomagnetic&ensp;storms&ensp;are&ensp;forecast.&ensp;  
   
-B. NOAA Solar Radiation Activity Observation and Forecast  
+B.&ensp;NOAA&ensp;Solar&ensp;Radiation&ensp;Activity&ensp;Observation&ensp;and&ensp;Forecast  
   
-Solar radiation, as observed by NOAA GOES-16 over the past 24 hours, was  
-below S-scale storm level thresholds.  
+Solar&ensp;radiation,&ensp;as&ensp;observed&ensp;by&ensp;NOAA&ensp;GOES-16&ensp;over&ensp;the&ensp;past&ensp;24&ensp;hours,&ensp;was  
+below&ensp;S-scale&ensp;storm&ensp;level&ensp;thresholds.  
   
-Solar Radiation Storm Forecast for Nov 04-Nov 06 2023  
+Solar&ensp;Radiation&ensp;Storm&ensp;Forecast&ensp;for&ensp;Nov&ensp;04-Nov&ensp;06&ensp;2023  
   
-&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Nov 04  Nov 05  Nov 06  
-S1 or greater&ensp;&ensp;&ensp;&ensp;1%&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;1%&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;1%  
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Nov&ensp;04&ensp;&ensp;Nov&ensp;05&ensp;&ensp;Nov&ensp;06  
+S1&ensp;or&ensp;greater&ensp;&ensp;&ensp;&ensp;1%&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;1%&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;1%  
   
-Rationale: No S1 (Minor) or greater solar radiation storms are expected.  
-No significant active region activity favorable for radiation storm  
-production is forecast.  
+Rationale:&ensp;No&ensp;S1&ensp;(Minor)&ensp;or&ensp;greater&ensp;solar&ensp;radiation&ensp;storms&ensp;are&ensp;expected.  
+No&ensp;significant&ensp;active&ensp;region&ensp;activity&ensp;favorable&ensp;for&ensp;radiation&ensp;storm  
+production&ensp;is&ensp;forecast.  
   
-C. NOAA Radio Blackout Activity and Forecast  
+C.&ensp;NOAA&ensp;Radio&ensp;Blackout&ensp;Activity&ensp;and&ensp;Forecast  
   
-No radio blackouts were observed over the past 24 hours.  
+No&ensp;radio&ensp;blackouts&ensp;were&ensp;observed&ensp;over&ensp;the&ensp;past&ensp;24&ensp;hours.  
   
-Radio Blackout Forecast for Nov 04-Nov 06 2023  
+Radio&ensp;Blackout&ensp;Forecast&ensp;for&ensp;Nov&ensp;04-Nov&ensp;06&ensp;2023  
   
-&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Nov 04&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Nov 05&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Nov 06  
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Nov&ensp;04&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Nov&ensp;05&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Nov&ensp;06  
 R1-R2&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;25%&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;25%&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;25%  
-R3 or greater&ensp;&ensp;&ensp;&ensp;5%&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;5%&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;5%  
+R3&ensp;or&ensp;greater&ensp;&ensp;&ensp;&ensp;5%&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;5%&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;5%  
   
-Rationale: There exists a chance for R1-R2 (Minor-Moderate) radio  
-blackouts over 04-06 Nov.  
+Rationale:&ensp;There&ensp;exists&ensp;a&ensp;chance&ensp;for&ensp;R1-R2&ensp;(Minor-Moderate)&ensp;radio  
+blackouts&ensp;over&ensp;04-06&ensp;Nov.  
