@@ -4,3 +4,6 @@ pandas-datareader==0.10.0
 pandas-gbq==0.17.9
 pandas-stubs==1.5.3.230304
 pytz==2023.3.post1
+matplotlib==3.7.1
+matplotlib-inline==0.1.6
+matplotlib-venn==0.11.9
