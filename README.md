@@ -46,53 +46,54 @@ Scale | Description | Effect
 **G1** | **Minor** | **Power systems:** Weak power grid fluctuations can occur. **Spacecraft operations:** Minor impact on satellite operations possible. **Other systems:** Migratory animals are affected at this and higher levels; aurora is commonly visible at high latitudes (northern Michigan and Maine).
 
 ## 3-day Forecast/n:Product:&ensp;3-Day&ensp;Forecast  
-:Issued:&ensp;2023&ensp;Nov&ensp;04&ensp;1230&ensp;UTC  
-:Prepared&ensp;by&ensp;the&ensp;U.S.&ensp;Dept.&ensp;of&ensp;Commerce,&ensp;NOAA,&ensp;Space&ensp;Weather&ensp;Prediction&ensp;Center  
+:Product:&emsp;3-Day&emsp;Forecast  
+:Issued:&emsp;2023&emsp;Nov&emsp;04&emsp;1230&emsp;UTC  
+:Prepared&emsp;by&emsp;the&emsp;U.S.&emsp;Dept.&emsp;of&emsp;Commerce,&emsp;NOAA,&emsp;Space&emsp;Weather&emsp;Prediction&emsp;Center  
 #  
-A.&ensp;NOAA&ensp;Geomagnetic&ensp;Activity&ensp;Observation&ensp;and&ensp;Forecast  
+A.&emsp;NOAA&emsp;Geomagnetic&emsp;Activity&emsp;Observation&emsp;and&emsp;Forecast  
   
-The&ensp;greatest&ensp;observed&ensp;3&ensp;hr&ensp;Kp&ensp;over&ensp;the&ensp;past&ensp;24&ensp;hours&ensp;was&ensp;2&ensp;(below&ensp;NOAA  
-Scale&ensp;levels).  
-The&ensp;greatest&ensp;expected&ensp;3&ensp;hr&ensp;Kp&ensp;for&ensp;Nov&ensp;04-Nov&ensp;06&ensp;2023&ensp;is&ensp;4.00&ensp;(below&ensp;NOAA  
-Scale&ensp;levels).  
+The&emsp;greatest&emsp;observed&emsp;3&emsp;hr&emsp;Kp&emsp;over&emsp;the&emsp;past&emsp;24&emsp;hours&emsp;was&emsp;2&emsp;(below&emsp;NOAA  
+Scale&emsp;levels).  
+The&emsp;greatest&emsp;expected&emsp;3&emsp;hr&emsp;Kp&emsp;for&emsp;Nov&emsp;04-Nov&emsp;06&emsp;2023&emsp;is&emsp;4.00&emsp;(below&emsp;NOAA  
+Scale&emsp;levels).  
   
-NOAA&ensp;Kp&ensp;index&ensp;breakdown&ensp;Nov&ensp;04-Nov&ensp;06&ensp;2023  
+NOAA&emsp;Kp&emsp;index&emsp;breakdown&emsp;Nov&emsp;04-Nov&emsp;06&emsp;2023  
   
-&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Nov&ensp;04&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Nov&ensp;05&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Nov&ensp;06  
-00-03UT&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;1.00&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;3.00&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;4.00&ensp;&ensp;&ensp;&ensp;&ensp;  
-03-06UT&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;1.00&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;2.00&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;4.00&ensp;&ensp;&ensp;&ensp;&ensp;  
-06-09UT&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;2.00&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;2.00&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;3.00&ensp;&ensp;&ensp;&ensp;&ensp;  
-09-12UT&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;1.00&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;2.00&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;2.67&ensp;&ensp;&ensp;&ensp;&ensp;  
-12-15UT&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;1.33&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;2.33&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;3.00&ensp;&ensp;&ensp;&ensp;&ensp;  
-15-18UT&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;2.00&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;2.67&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;3.67&ensp;&ensp;&ensp;&ensp;&ensp;  
-18-21UT&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;2.67&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;3.00&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;3.00&ensp;&ensp;&ensp;&ensp;&ensp;  
-21-00UT&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;3.00&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;3.67&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;2.67&ensp;&ensp;&ensp;&ensp;&ensp;  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Nov&emsp;04&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Nov&emsp;05&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Nov&emsp;06  
+00-03UT&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;1.00&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;3.00&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;4.00&emsp;&emsp;&emsp;&emsp;&emsp;  
+03-06UT&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;1.00&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2.00&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;4.00&emsp;&emsp;&emsp;&emsp;&emsp;  
+06-09UT&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2.00&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2.00&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;3.00&emsp;&emsp;&emsp;&emsp;&emsp;  
+09-12UT&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;1.00&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2.00&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2.67&emsp;&emsp;&emsp;&emsp;&emsp;  
+12-15UT&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;1.33&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2.33&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;3.00&emsp;&emsp;&emsp;&emsp;&emsp;  
+15-18UT&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2.00&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2.67&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;3.67&emsp;&emsp;&emsp;&emsp;&emsp;  
+18-21UT&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2.67&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;3.00&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;3.00&emsp;&emsp;&emsp;&emsp;&emsp;  
+21-00UT&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;3.00&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;3.67&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2.67&emsp;&emsp;&emsp;&emsp;&emsp;  
   
-Rationale:&ensp;No&ensp;G1&ensp;(Minor)&ensp;or&ensp;greater&ensp;geomagnetic&ensp;storms&ensp;are&ensp;forecast.&ensp;  
+Rationale:&emsp;No&emsp;G1&emsp;(Minor)&emsp;or&emsp;greater&emsp;geomagnetic&emsp;storms&emsp;are&emsp;forecast.&emsp;  
   
-B.&ensp;NOAA&ensp;Solar&ensp;Radiation&ensp;Activity&ensp;Observation&ensp;and&ensp;Forecast  
+B.&emsp;NOAA&emsp;Solar&emsp;Radiation&emsp;Activity&emsp;Observation&emsp;and&emsp;Forecast  
   
-Solar&ensp;radiation,&ensp;as&ensp;observed&ensp;by&ensp;NOAA&ensp;GOES-16&ensp;over&ensp;the&ensp;past&ensp;24&ensp;hours,&ensp;was  
-below&ensp;S-scale&ensp;storm&ensp;level&ensp;thresholds.  
+Solar&emsp;radiation,&emsp;as&emsp;observed&emsp;by&emsp;NOAA&emsp;GOES-16&emsp;over&emsp;the&emsp;past&emsp;24&emsp;hours,&emsp;was  
+below&emsp;S-scale&emsp;storm&emsp;level&emsp;thresholds.  
   
-Solar&ensp;Radiation&ensp;Storm&ensp;Forecast&ensp;for&ensp;Nov&ensp;04-Nov&ensp;06&ensp;2023  
+Solar&emsp;Radiation&emsp;Storm&emsp;Forecast&emsp;for&emsp;Nov&emsp;04-Nov&emsp;06&emsp;2023  
   
-&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Nov&ensp;04&ensp;&ensp;Nov&ensp;05&ensp;&ensp;Nov&ensp;06  
-S1&ensp;or&ensp;greater&ensp;&ensp;&ensp;&ensp;1%&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;1%&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;1%  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Nov&emsp;04&emsp;&emsp;Nov&emsp;05&emsp;&emsp;Nov&emsp;06  
+S1&emsp;or&emsp;greater&emsp;&emsp;&emsp;&emsp;1%&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;1%&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;1%  
   
-Rationale:&ensp;No&ensp;S1&ensp;(Minor)&ensp;or&ensp;greater&ensp;solar&ensp;radiation&ensp;storms&ensp;are&ensp;expected.  
-No&ensp;significant&ensp;active&ensp;region&ensp;activity&ensp;favorable&ensp;for&ensp;radiation&ensp;storm  
-production&ensp;is&ensp;forecast.  
+Rationale:&emsp;No&emsp;S1&emsp;(Minor)&emsp;or&emsp;greater&emsp;solar&emsp;radiation&emsp;storms&emsp;are&emsp;expected.  
+No&emsp;significant&emsp;active&emsp;region&emsp;activity&emsp;favorable&emsp;for&emsp;radiation&emsp;storm  
+production&emsp;is&emsp;forecast.  
   
-C.&ensp;NOAA&ensp;Radio&ensp;Blackout&ensp;Activity&ensp;and&ensp;Forecast  
+C.&emsp;NOAA&emsp;Radio&emsp;Blackout&emsp;Activity&emsp;and&emsp;Forecast  
   
-No&ensp;radio&ensp;blackouts&ensp;were&ensp;observed&ensp;over&ensp;the&ensp;past&ensp;24&ensp;hours.  
+No&emsp;radio&emsp;blackouts&emsp;were&emsp;observed&emsp;over&emsp;the&emsp;past&emsp;24&emsp;hours.  
   
-Radio&ensp;Blackout&ensp;Forecast&ensp;for&ensp;Nov&ensp;04-Nov&ensp;06&ensp;2023  
+Radio&emsp;Blackout&emsp;Forecast&emsp;for&emsp;Nov&emsp;04-Nov&emsp;06&emsp;2023  
   
-&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Nov&ensp;04&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Nov&ensp;05&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Nov&ensp;06  
-R1-R2&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;25%&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;25%&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;25%  
-R3&ensp;or&ensp;greater&ensp;&ensp;&ensp;&ensp;5%&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;5%&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;5%  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Nov&emsp;04&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Nov&emsp;05&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Nov&emsp;06  
+R1-R2&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;25%&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;25%&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;25%  
+R3&emsp;or&emsp;greater&emsp;&emsp;&emsp;&emsp;5%&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;5%&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;5%  
   
-Rationale:&ensp;There&ensp;exists&ensp;a&ensp;chance&ensp;for&ensp;R1-R2&ensp;(Minor-Moderate)&ensp;radio  
-blackouts&ensp;over&ensp;04-06&ensp;Nov.  
+Rationale:&emsp;There&emsp;exists&emsp;a&emsp;chance&emsp;for&emsp;R1-R2&emsp;(Minor-Moderate)&emsp;radio  
+blackouts&emsp;over&emsp;04-06&emsp;Nov.  
