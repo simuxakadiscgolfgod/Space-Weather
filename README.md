@@ -48,8 +48,8 @@ Scale | Description | Effect
 ## 3-day Forecast
 :Product:&ensp;3-Day&ensp;Forecast  
 :Issued:&ensp;2023&ensp;Nov&ensp;04&ensp;1230&ensp;UTC  
--&ensp;Prepared&ensp;by&ensp;the&ensp;U.S.&ensp;Dept.&ensp;of&ensp;Commerce,&ensp;NOAA,&ensp;Space&ensp;Weather&ensp;Prediction&ensp;Center  
--  
+:Prepared&ensp;by&ensp;the&ensp;U.S.&ensp;Dept.&ensp;of&ensp;Commerce,&ensp;NOAA,&ensp;Space&ensp;Weather&ensp;Prediction&ensp;Center  
+#  
 A.&ensp;NOAA&ensp;Geomagnetic&ensp;Activity&ensp;Observation&ensp;and&ensp;Forecast  
   
 The&ensp;greatest&ensp;observed&ensp;3&ensp;hr&ensp;Kp&ensp;over&ensp;the&ensp;past&ensp;24&ensp;hours&ensp;was&ensp;2&ensp;(below&ensp;NOAA  
