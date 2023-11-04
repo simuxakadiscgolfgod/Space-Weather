@@ -46,54 +46,54 @@ Scale | Description | Effect
 **G1** | **Minor** | **Power systems:** Weak power grid fluctuations can occur. **Spacecraft operations:** Minor impact on satellite operations possible. **Other systems:** Migratory animals are affected at this and higher levels; aurora is commonly visible at high latitudes (northern Michigan and Maine).
 
 ## 3-day Forecast
-:Product: 3-Day Forecast  
-:Issued: 2023 Nov 04 1230 UTC  
- Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center  
-  
-A. NOAA Geomagnetic Activity Observation and Forecast  
-  
-The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA  
-Scale levels).  
-The greatest expected 3 hr Kp for Nov 04-Nov 06 2023 is 4.00 (below NOAA  
-Scale levels).  
-  
-NOAA Kp index breakdown Nov 04-Nov 06 2023  
-  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Nov 04       Nov 05       Nov 06  
-00-03UT       1.00         3.00         4.00       
-03-06UT       1.00         2.00         4.00       
-06-09UT       2.00         2.00         3.00       
-09-12UT       1.00         2.00         2.67       
-12-15UT       1.33         2.33         3.00       
-15-18UT       2.00         2.67         3.67       
-18-21UT       2.67         3.00         3.00       
-21-00UT       3.00         3.67         2.67       
-  
-Rationale: No G1 (Minor) or greater geomagnetic storms are forecast.   
-  
-B. NOAA Solar Radiation Activity Observation and Forecast  
-  
-Solar radiation, as observed by NOAA GOES-16 over the past 24 hours, was  
-below S-scale storm level thresholds.  
-  
-Solar Radiation Storm Forecast for Nov 04-Nov 06 2023  
-  
-              Nov 04  Nov 05  Nov 06  
-S1 or greater    1%      1%      1%  
-  
-Rationale: No S1 (Minor) or greater solar radiation storms are expected.  
-No significant active region activity favorable for radiation storm  
-production is forecast.  
-  
-C. NOAA Radio Blackout Activity and Forecast  
-  
-No radio blackouts were observed over the past 24 hours.  
-  
-Radio Blackout Forecast for Nov 04-Nov 06 2023  
-  
-              Nov 04        Nov 05        Nov 06  
-R1-R2           25%           25%           25%  
-R3 or greater    5%            5%            5%  
-  
-Rationale: There exists a chance for R1-R2 (Minor-Moderate) radio  
-blackouts over 04-06 Nov.  
+:Product: 3-Day Forecast
+:Issued: 2023 Nov 04 1230 UTC
+ Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+
+A. NOAA Geomagnetic Activity Observation and Forecast
+
+The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
+Scale levels).
+The greatest expected 3 hr Kp for Nov 04-Nov 06 2023 is 4.00 (below NOAA
+Scale levels).
+
+NOAA Kp index breakdown Nov 04-Nov 06 2023
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Nov 04&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Nov 05&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Nov 06
+00-03UT&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;1.00&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;3.00&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;4.00&emsp;&emsp;&emsp;&emsp;&emsp;
+03-06UT&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;1.00&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2.00&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;4.00&emsp;&emsp;&emsp;&emsp;&emsp;
+06-09UT&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2.00&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2.00&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;3.00&emsp;&emsp;&emsp;&emsp;&emsp;
+09-12UT&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;1.00&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2.00&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2.67&emsp;&emsp;&emsp;&emsp;&emsp;
+12-15UT&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;1.33&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2.33&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;3.00&emsp;&emsp;&emsp;&emsp;&emsp;
+15-18UT&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2.00&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2.67&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;3.67&emsp;&emsp;&emsp;&emsp;&emsp;
+18-21UT&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2.67&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;3.00&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;3.00&emsp;&emsp;&emsp;&emsp;&emsp;
+21-00UT&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;3.00&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;3.67&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2.67&emsp;&emsp;&emsp;&emsp;&emsp;
+
+Rationale: No G1 (Minor) or greater geomagnetic storms are forecast. 
+
+B. NOAA Solar Radiation Activity Observation and Forecast
+
+Solar radiation, as observed by NOAA GOES-16 over the past 24 hours, was
+below S-scale storm level thresholds.
+
+Solar Radiation Storm Forecast for Nov 04-Nov 06 2023
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Nov 04  Nov 05  Nov 06
+S1 or greater&emsp;&emsp;&emsp;&emsp;1%&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;1%&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;1%__
+
+Rationale: No S1 (Minor) or greater solar radiation storms are expected.
+No significant active region activity favorable for radiation storm
+production is forecast.
+
+C. NOAA Radio Blackout Activity and Forecast
+
+No radio blackouts were observed over the past 24 hours.
+
+Radio Blackout Forecast for Nov 04-Nov 06 2023
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Nov 04&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Nov 05&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Nov 06
+R1-R2&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;25%&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;25%&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;25%__
+R3 or greater&emsp;&emsp;&emsp;&emsp;5%&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;5%&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;5%__
+
+Rationale: There exists a chance for R1-R2 (Minor-Moderate) radio
+blackouts over 04-06 Nov.
