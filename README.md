@@ -58,7 +58,7 @@ Scale levels).
 
 NOAA Kp index breakdown Nov 04-Nov 06 2023
 
-             Nov 04       Nov 05       Nov 06
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nov 04       Nov 05       Nov 06
 00-03UT       1.00         3.00         4.00     
 03-06UT       1.00         2.00         4.00     
 06-09UT       2.00         2.00         3.00     
