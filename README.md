@@ -58,8 +58,9 @@ The greatest expected 3 hr Kp for Nov 04-Nov 06 2023 is 4.00 (below NOAA
 Scale levels).  
   
 NOAA Kp index breakdown Nov 04-Nov 06 2023  
-  
-<pre>           Nov 04       Nov 05       Nov 06</pre>    
+<pre>  
+           Nov 04       Nov 05       Nov 06  
+</pre>
 00-03UT       1.00         3.00         4.00       
 03-06UT       1.00         2.00         4.00       
 06-09UT       2.00         2.00         3.00       
