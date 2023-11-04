@@ -1,7 +1,7 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-https://github.com/simuxakadiscgolfgod/Space-Weather/blob/221e84a39d6d1277165373f87eb82361bf8758de/Astro_Images/image_log.txt#L1-L5
+![Press here to see the image description.](Astro_Images/image_log.txt)
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -43,4 +43,4 @@ Scale | Description | Effect
 **G1** | **Minor** | **Power systems:** Weak power grid fluctuations can occur. **Spacecraft operations:** Minor impact on satellite operations possible. **Other systems:** Migratory animals are affected at this and higher levels; aurora is commonly visible at high latitudes (northern Michigan and Maine).
 
 ## 3-day Forecast
-https://github.com/simuxakadiscgolfgod/Space-Weather/blob/aead919fcc3f598ee382e5ab7d2d62465f4359fd/Forecast/forecast.txt#L1-L52
+![Press here to see the forecast.](Forecast/forecast.txt)
