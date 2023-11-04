@@ -2,7 +2,7 @@ name: daily update
 
 on:
   schedule:
-    - cron: '*/5 * * * *' # Once everyday at 06:00 UTC
+    - cron: '0 6 * * *' # Once everyday at 06:00 UTC
 
 jobs:
   build:
