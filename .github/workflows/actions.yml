@@ -1,8 +1,8 @@
-name: run apod.py
+name: daily update
 
 on:
   schedule:
-    - cron: '0 0 * * *' # Once everyday at 00:00
+    - cron: '*/5 * * * *' # Once everyday at 00:00
 
 jobs:
   build:
@@ -22,10 +22,22 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
           
-      - name: execute py script # run main.py
+      - name: execute apod script 
         env:
           SOME_SECRET: ${{ secrets.SOME_SECRET }}
         run: python apod.py
+
+      - name: execute xray script
+        run: python x_ray.py
+        
+      - name: execute proton script
+        run: python proton.py
+        
+      - name: execute geo script
+        run: python geo.py
+
+      - name: execute forecast script
+        run: python get_forecast.py
         
       - name: commit and force push
         run: |
