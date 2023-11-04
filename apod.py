@@ -52,15 +52,15 @@ if(apod["media_type"] == "image"):
     #Writing in log
     with open("Astro_Images/image_log.txt", "a") as f:
       if("date" in apod.keys()):
-        print("Date image released: ", apod["date"], file=f)
+        print("<br />**Date image released:** ", apod["date"], file=f)
       if("copyright" in apod.keys()):
-        print("This image is owned by: ", apod["copyright"], file=f)
+        print("<br />**This image is owned by:** ", apod["copyright"], file=f)
       if("title" in apod.keys()):
-        print("Title of the image: ", apod["title"], file=f)
+        print("<br />**Title of the image:** ", apod["title"], file=f)
       if("explanation" in apod.keys()):
-        print("Description for the image: ", apod["explanation"], file=f)
+        print("<br />**Description for the image:** ", apod["explanation"], file=f)
       if("hdurl" in apod.keys()):
-        print("URL for this image: ", apod["hdurl"], file=f)
+        print("<br />**URL for this image:** ", apod["hdurl"], file=f)
 
     #Saving the image:
     urllib.request.urlretrieve(url = apod["hdurl"], filename = os.path.join(image_dir, title))
