@@ -2,6 +2,7 @@ import nasapy
 import os
 from datetime import datetime
 import urllib.request
+import pytz
 
 #For API
 try:
@@ -12,8 +13,11 @@ except KeyError:
 #Initialize nasa class by creating an object:
 nasa = nasapy.Nasa(key=SOME_SECRET)
 
-#Get today's date
-d = datetime.today().strftime('%Y-%m-%d')
+#Specify US east coast timezone
+eastern_timezone = pytz.timezone('US/Eastern')
+
+# Get the current time in the specified timezone
+d = datetime.now(eastern_timezone).strftime('%Y-%m-%d')
 
 #Get information
 apod = nasa.picture_of_the_day(date=d, hd=True)
