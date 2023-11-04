@@ -59,7 +59,7 @@ Scale levels).
   
 NOAA Kp index breakdown Nov 04-Nov 06 2023  
   
-             Nov 04       Nov 05       Nov 06 <br />  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Nov 04       Nov 05       Nov 06  
 00-03UT       1.00         3.00         4.00       
 03-06UT       1.00         2.00         4.00       
 06-09UT       2.00         2.00         3.00       
@@ -97,8 +97,3 @@ R3 or greater    5%            5%            5%
   
 Rationale: There exists a chance for R1-R2 (Minor-Moderate) radio  
 blackouts over 04-06 Nov.  
-
-The action of every agent <br />
-  into the world <br />
-starts <br />
-  from their physical selves. <br />
