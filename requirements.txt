@@ -3,3 +3,4 @@ pandas==1.5.3
 pandas-datareader==0.10.0
 pandas-gbq==0.17.9
 pandas-stubs==1.5.3.230304
+pytz==2023.3.post1
