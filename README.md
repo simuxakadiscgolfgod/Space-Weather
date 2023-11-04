@@ -45,8 +45,7 @@ Scale | Description | Effect
 **G2** | **Moderate** | **Power systems:** High-latitude power systems may experience voltage alarms, long-duration storms may cause transformer damage. **Spacecraft operations:** Corrective actions to orientation may be required by ground control; possible changes in drag affect orbit predictions. **Other systems:** HF radio propagation can fade at higher latitudes, and aurora has been seen as low as New York and Idaho (typically 55° geomagnetic lat.).
 **G1** | **Minor** | **Power systems:** Weak power grid fluctuations can occur. **Spacecraft operations:** Minor impact on satellite operations possible. **Other systems:** Migratory animals are affected at this and higher levels; aurora is commonly visible at high latitudes (northern Michigan and Maine).
 
-## 3-day Forecast
-:Product:&ensp;3-Day&ensp;Forecast  
+## 3-day Forecast/n:Product:&ensp;3-Day&ensp;Forecast  
 :Issued:&ensp;2023&ensp;Nov&ensp;04&ensp;1230&ensp;UTC  
 :Prepared&ensp;by&ensp;the&ensp;U.S.&ensp;Dept.&ensp;of&ensp;Commerce,&ensp;NOAA,&ensp;Space&ensp;Weather&ensp;Prediction&ensp;Center  
 #  
