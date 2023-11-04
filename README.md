@@ -43,4 +43,4 @@ Scale | Description | Effect
 **G1** | **Minor** | **Power systems:** Weak power grid fluctuations can occur. **Spacecraft operations:** Minor impact on satellite operations possible. **Other systems:** Migratory animals are affected at this and higher levels; aurora is commonly visible at high latitudes (northern Michigan and Maine).
 
 ## 3-day Forecast
-https://github.com/simuxakadiscgolfgod/Space-Weather/blob/aead919fcc3f598ee382e5ab7d2d62465f4359fd/Forecast/forecast.txt#L1-L100
+https://github.com/simuxakadiscgolfgod/Space-Weather/blob/aead919fcc3f598ee382e5ab7d2d62465f4359fd/Forecast/forecast.txt#L1-L52
