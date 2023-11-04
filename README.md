@@ -45,55 +45,55 @@ Scale | Description | Effect
 **G2** | **Moderate** | **Power systems:** High-latitude power systems may experience voltage alarms, long-duration storms may cause transformer damage. **Spacecraft operations:** Corrective actions to orientation may be required by ground control; possible changes in drag affect orbit predictions. **Other systems:** HF radio propagation can fade at higher latitudes, and aurora has been seen as low as New York and Idaho (typically 55° geomagnetic lat.).
 **G1** | **Minor** | **Power systems:** Weak power grid fluctuations can occur. **Spacecraft operations:** Minor impact on satellite operations possible. **Other systems:** Migratory animals are affected at this and higher levels; aurora is commonly visible at high latitudes (northern Michigan and Maine).
 
-## 3-day Forecast:Product: 3-Day Forecast
-:Product: 3-Day Forecast
-:Issued: 2023 Nov 04 1230 UTC
- Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
-
-A. NOAA Geomagnetic Activity Observation and Forecast
-
-The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
-Scale levels).
-The greatest expected 3 hr Kp for Nov 04-Nov 06 2023 is 4.00 (below NOAA
-Scale levels).
-
-NOAA Kp index breakdown Nov 04-Nov 06 2023
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nov 04&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nov 05&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nov 06
-00-03UT&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.00&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.00&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.00&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-03-06UT&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.00&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.00&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.00&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-06-09UT&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.00&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.00&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.00&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-09-12UT&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.00&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.00&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.67&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-12-15UT&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.33&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.33&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.00&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-15-18UT&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.00&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.67&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.67&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-18-21UT&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.67&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.00&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.00&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-21-00UT&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.00&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.67&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.67&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-Rationale: No G1 (Minor) or greater geomagnetic storms are forecast. 
-
-B. NOAA Solar Radiation Activity Observation and Forecast
-
-Solar radiation, as observed by NOAA GOES-16 over the past 24 hours, was
-below S-scale storm level thresholds.
-
-Solar Radiation Storm Forecast for Nov 04-Nov 06 2023
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nov 04  Nov 05  Nov 06
-S1 or greater&nbsp;&nbsp;&nbsp;&nbsp;1%&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1%&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1%__
-
-Rationale: No S1 (Minor) or greater solar radiation storms are expected.
-No significant active region activity favorable for radiation storm
-production is forecast.
-
-C. NOAA Radio Blackout Activity and Forecast
-
-No radio blackouts were observed over the past 24 hours.
-
-Radio Blackout Forecast for Nov 04-Nov 06 2023
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nov 04&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nov 05&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nov 06
-R1-R2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;25%&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;25%&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;25%__
-R3 or greater&nbsp;&nbsp;&nbsp;&nbsp;5%&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5%&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5%__
-
-Rationale: There exists a chance for R1-R2 (Minor-Moderate) radio
-blackouts over 04-06 Nov.
+## 3-day Forecast
+:Product: 3-Day Forecast  
+:Issued: 2023 Nov 04 1230 UTC  
+ Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center  
+  
+A. NOAA Geomagnetic Activity Observation and Forecast  
+  
+The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA  
+Scale levels).  
+The greatest expected 3 hr Kp for Nov 04-Nov 06 2023 is 4.00 (below NOAA  
+Scale levels).  
+  
+NOAA Kp index breakdown Nov 04-Nov 06 2023  
+  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nov 04&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nov 05&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nov 06  
+00-03UT&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.00&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.00&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.00&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
+03-06UT&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.00&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.00&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.00&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
+06-09UT&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.00&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.00&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.00&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
+09-12UT&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.00&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.00&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.67&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
+12-15UT&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.33&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.33&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.00&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
+15-18UT&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.00&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.67&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.67&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
+18-21UT&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.67&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.00&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.00&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
+21-00UT&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.00&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.67&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.67&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
+  
+Rationale: No G1 (Minor) or greater geomagnetic storms are forecast.   
+  
+B. NOAA Solar Radiation Activity Observation and Forecast  
+  
+Solar radiation, as observed by NOAA GOES-16 over the past 24 hours, was  
+below S-scale storm level thresholds.  
+  
+Solar Radiation Storm Forecast for Nov 04-Nov 06 2023  
+  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nov 04  Nov 05  Nov 06  
+S1 or greater&nbsp;&nbsp;&nbsp;&nbsp;1%&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1%&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1%  
+  
+Rationale: No S1 (Minor) or greater solar radiation storms are expected.  
+No significant active region activity favorable for radiation storm  
+production is forecast.  
+  
+C. NOAA Radio Blackout Activity and Forecast  
+  
+No radio blackouts were observed over the past 24 hours.  
+  
+Radio Blackout Forecast for Nov 04-Nov 06 2023  
+  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nov 04&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nov 05&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nov 06  
+R1-R2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;25%&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;25%&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;25%  
+R3 or greater&nbsp;&nbsp;&nbsp;&nbsp;5%&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5%&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5%  
+  
+Rationale: There exists a chance for R1-R2 (Minor-Moderate) radio  
+blackouts over 04-06 Nov.  
