@@ -2,7 +2,7 @@ name: run apod.py
 
 on:
   schedule:
-    - cron: '*/5 * * * *' # Every 5min
+    - cron: '* * 5* * 3*' # Every 5min
 
 jobs:
   build:
