@@ -58,9 +58,8 @@ The greatest expected 3 hr Kp for Nov 04-Nov 06 2023 is 4.00 (below NOAA
 Scale levels).  
   
 NOAA Kp index breakdown Nov 04-Nov 06 2023  
-<pre>  
-           Nov 04       Nov 05       Nov 06  
-</pre>
+  
+             Nov 04       Nov 05       Nov 06  <br />
 00-03UT       1.00         3.00         4.00       
 03-06UT       1.00         2.00         4.00       
 06-09UT       2.00         2.00         3.00       
@@ -79,7 +78,7 @@ below S-scale storm level thresholds.
   
 Solar Radiation Storm Forecast for Nov 04-Nov 06 2023  
   
-<pre>              Nov 04  Nov 05  Nov 06</pre>     
+              Nov 04  Nov 05  Nov 06  
 S1 or greater    1%      1%      1%  
   
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.  
@@ -92,7 +91,7 @@ No radio blackouts were observed over the past 24 hours.
   
 Radio Blackout Forecast for Nov 04-Nov 06 2023  
   
-<pre>              Nov 04        Nov 05        Nov 06</pre>  
+              Nov 04        Nov 05        Nov 06  
 R1-R2           25%           25%           25%  
 R3 or greater    5%            5%            5%  
   
