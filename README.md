@@ -1,7 +1,10 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-[Press here to see the image description.](Astro_Images/image_log.txt)
+Date image released:  2023-11-04
+Title of the image:  Dinkinesh Moonrise
+Description for the image:  Last Wednesday the voyaging Lucy spacecraft encountered its first asteroid, 152830 Dinkinesh, and discovered the inner-main belt asteroid has a moon. From a distance of just over 400 kilometers, Lucy's Long-Range Reconnaissance Imager captured this close-up of the binary system during a flyby at 4.5 kilometer per second or around 10,000 miles per hour. A marvelous world, Dinkinesh itself is small, less than 800 meters (about 0.5 miles) across at its widest. Its satellite is seen from the spacecraft's perspective to emerge from behind the primary asteroid. The asteroid moon is estimated to be only about 220 meters wide.
+URL for this image:  https://apod.nasa.gov/apod/image/2311/dinkinesh-firstlook-llorri.png
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -42,5 +45,54 @@ Scale | Description | Effect
 **G2** | **Moderate** | **Power systems:** High-latitude power systems may experience voltage alarms, long-duration storms may cause transformer damage. **Spacecraft operations:** Corrective actions to orientation may be required by ground control; possible changes in drag affect orbit predictions. **Other systems:** HF radio propagation can fade at higher latitudes, and aurora has been seen as low as New York and Idaho (typically 55° geomagnetic lat.).
 **G1** | **Minor** | **Power systems:** Weak power grid fluctuations can occur. **Spacecraft operations:** Minor impact on satellite operations possible. **Other systems:** Migratory animals are affected at this and higher levels; aurora is commonly visible at high latitudes (northern Michigan and Maine).
 
-## 3-day Forecast
-[Press here to see the forecast.](Forecast/forecast.txt)
+## 3-day Forecast:Product: 3-Day Forecast
+:Issued: 2023 Nov 04 1230 UTC
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+#
+A. NOAA Geomagnetic Activity Observation and Forecast
+
+The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
+Scale levels).
+The greatest expected 3 hr Kp for Nov 04-Nov 06 2023 is 4.00 (below NOAA
+Scale levels).
+
+NOAA Kp index breakdown Nov 04-Nov 06 2023
+
+             Nov 04       Nov 05       Nov 06
+00-03UT       1.00         3.00         4.00     
+03-06UT       1.00         2.00         4.00     
+06-09UT       2.00         2.00         3.00     
+09-12UT       1.00         2.00         2.67     
+12-15UT       1.33         2.33         3.00     
+15-18UT       2.00         2.67         3.67     
+18-21UT       2.67         3.00         3.00     
+21-00UT       3.00         3.67         2.67     
+
+Rationale: No G1 (Minor) or greater geomagnetic storms are forecast. 
+
+B. NOAA Solar Radiation Activity Observation and Forecast
+
+Solar radiation, as observed by NOAA GOES-16 over the past 24 hours, was
+below S-scale storm level thresholds.
+
+Solar Radiation Storm Forecast for Nov 04-Nov 06 2023
+
+              Nov 04  Nov 05  Nov 06
+S1 or greater    1%      1%      1%
+
+Rationale: No S1 (Minor) or greater solar radiation storms are expected.
+No significant active region activity favorable for radiation storm
+production is forecast.
+
+C. NOAA Radio Blackout Activity and Forecast
+
+No radio blackouts were observed over the past 24 hours.
+
+Radio Blackout Forecast for Nov 04-Nov 06 2023
+
+              Nov 04        Nov 05        Nov 06
+R1-R2           25%           25%           25%
+R3 or greater    5%            5%            5%
+
+Rationale: There exists a chance for R1-R2 (Minor-Moderate) radio
+blackouts over 04-06 Nov.
