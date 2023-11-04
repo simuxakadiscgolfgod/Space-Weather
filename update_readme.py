@@ -47,7 +47,7 @@ if forecast_position != -1:
         forecast_content = forecast_file.read()
 
     # Replace the content starting from the marker till the end of the file
-    new_content = new_content[:forecast_position] + forecast_marker + "/n" + forecast_content
+    new_content = new_content[:forecast_position] + forecast_marker + "\n" + forecast_content
 
     # Write the modified content back to the file
     with open("README.md", "w") as md_file:
