@@ -59,15 +59,15 @@ Scale levels).
   
 NOAA Kp index breakdown Nov 04-Nov 06 2023  
   
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Nov 04&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Nov 05&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Nov 06  
-00-03UT&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;1.00&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;3.00&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;4.00&emsp;&emsp;&emsp;&emsp;&emsp;  
-03-06UT&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;1.00&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2.00&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;4.00&emsp;&emsp;&emsp;&emsp;&emsp;  
-06-09UT&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2.00&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2.00&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;3.00&emsp;&emsp;&emsp;&emsp;&emsp;  
-09-12UT&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;1.00&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2.00&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2.67&emsp;&emsp;&emsp;&emsp;&emsp;  
-12-15UT&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;1.33&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2.33&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;3.00&emsp;&emsp;&emsp;&emsp;&emsp;  
-15-18UT&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2.00&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2.67&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;3.67&emsp;&emsp;&emsp;&emsp;&emsp;  
-18-21UT&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2.67&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;3.00&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;3.00&emsp;&emsp;&emsp;&emsp;&emsp;  
-21-00UT&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;3.00&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;3.67&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2.67&emsp;&emsp;&emsp;&emsp;&emsp;  
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Nov 04&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Nov 05&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Nov 06  
+00-03UT&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;1.00&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;3.00&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;4.00&ensp;&ensp;&ensp;&ensp;&ensp;  
+03-06UT&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;1.00&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;2.00&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;4.00&ensp;&ensp;&ensp;&ensp;&ensp;  
+06-09UT&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;2.00&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;2.00&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;3.00&ensp;&ensp;&ensp;&ensp;&ensp;  
+09-12UT&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;1.00&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;2.00&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;2.67&ensp;&ensp;&ensp;&ensp;&ensp;  
+12-15UT&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;1.33&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;2.33&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;3.00&ensp;&ensp;&ensp;&ensp;&ensp;  
+15-18UT&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;2.00&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;2.67&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;3.67&ensp;&ensp;&ensp;&ensp;&ensp;  
+18-21UT&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;2.67&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;3.00&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;3.00&ensp;&ensp;&ensp;&ensp;&ensp;  
+21-00UT&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;3.00&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;3.67&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;2.67&ensp;&ensp;&ensp;&ensp;&ensp;  
   
 Rationale: No G1 (Minor) or greater geomagnetic storms are forecast.   
   
@@ -78,8 +78,8 @@ below S-scale storm level thresholds.
   
 Solar Radiation Storm Forecast for Nov 04-Nov 06 2023  
   
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Nov 04  Nov 05  Nov 06  
-S1 or greater&emsp;&emsp;&emsp;&emsp;1%&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;1%&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;1%  
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Nov 04  Nov 05  Nov 06  
+S1 or greater&ensp;&ensp;&ensp;&ensp;1%&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;1%&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;1%  
   
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.  
 No significant active region activity favorable for radiation storm  
@@ -91,9 +91,9 @@ No radio blackouts were observed over the past 24 hours.
   
 Radio Blackout Forecast for Nov 04-Nov 06 2023  
   
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Nov 04&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Nov 05&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Nov 06  
-R1-R2&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;25%&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;25%&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;25%  
-R3 or greater&emsp;&emsp;&emsp;&emsp;5%&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;5%&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;5%  
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Nov 04&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Nov 05&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Nov 06  
+R1-R2&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;25%&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;25%&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;25%  
+R3 or greater&ensp;&ensp;&ensp;&ensp;5%&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;5%&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;5%  
   
 Rationale: There exists a chance for R1-R2 (Minor-Moderate) radio  
 blackouts over 04-06 Nov.  
