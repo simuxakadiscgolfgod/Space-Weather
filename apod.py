@@ -68,4 +68,4 @@ if(apod["media_type"] == "image"):
 #If media type is not image:
 else:
     with open("Astro_Images/image_log.txt", "a") as f:
-      print("Sorry, Image not available!", file=f)
+      print("<br />**Sorry, Image not available!**", file=f)
