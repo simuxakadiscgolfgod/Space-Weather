@@ -1,10 +1,14 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2023-11-04
-<br />**Title of the image:**  Dinkinesh Moonrise
-<br />**Description for the image:**  Last Wednesday the voyaging Lucy spacecraft encountered its first asteroid, 152830 Dinkinesh, and discovered the inner-main belt asteroid has a moon. From a distance of just over 400 kilometers, Lucy's Long-Range Reconnaissance Imager captured this close-up of the binary system during a flyby at 4.5 kilometer per second or around 10,000 miles per hour. A marvelous world, Dinkinesh itself is small, less than 800 meters (about 0.5 miles) across at its widest. Its satellite is seen from the spacecraft's perspective to emerge from behind the primary asteroid. The asteroid moon is estimated to be only about 220 meters wide.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2311/dinkinesh-firstlook-llorri.png
+<br />**Date image released:**  2023-11-05
+<br />**This image is owned by:**  
+Ole C. Salomonsen
+(Arctic Light Photo) 
+
+<br />**Title of the image:**  Creature Aurora Over Norway
+<br />**Description for the image:**  It was Halloween and the sky looked like a creature. Exactly which creature, the astrophotographer was unsure (but possibly you can suggest one). Exactly what caused this  eerie apparition in 2013 was sure: one of the best auroral displays that year. This spectacular aurora had an unusually high degree of detail. Pictured here, the vivid green and purple  auroral colors are caused by high atmospheric oxygen and nitrogen reacting to a burst of incoming electrons.  Birch trees in Tromsø, Norway formed an also eerie foreground. Frequently, new photogenic auroras accompany new geomagnetic storms.   Almost Hyperspace: Random APOD Generator
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2311/CreatureAurora_Salomonsen_960.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -47,38 +51,39 @@ Scale | Description | Effect
 
 ## 3-day Forecast
 :Product:&ensp;3-Day&ensp;Forecast  
-:Issued:&ensp;2023&ensp;Nov&ensp;04&ensp;1230&ensp;UTC  
+:Issued:&ensp;2023&ensp;Nov&ensp;05&ensp;0030&ensp;UTC  
 :Prepared&ensp;by&ensp;the&ensp;U.S.&ensp;Dept.&ensp;of&ensp;Commerce,&ensp;NOAA,&ensp;Space&ensp;Weather&ensp;Prediction&ensp;Center  
 #  
 A.&ensp;NOAA&ensp;Geomagnetic&ensp;Activity&ensp;Observation&ensp;and&ensp;Forecast  
   
-The&ensp;greatest&ensp;observed&ensp;3&ensp;hr&ensp;Kp&ensp;over&ensp;the&ensp;past&ensp;24&ensp;hours&ensp;was&ensp;2&ensp;(below&ensp;NOAA  
-Scale&ensp;levels).  
-The&ensp;greatest&ensp;expected&ensp;3&ensp;hr&ensp;Kp&ensp;for&ensp;Nov&ensp;04-Nov&ensp;06&ensp;2023&ensp;is&ensp;4.00&ensp;(below&ensp;NOAA  
-Scale&ensp;levels).  
+The&ensp;greatest&ensp;observed&ensp;3&ensp;hr&ensp;Kp&ensp;over&ensp;the&ensp;past&ensp;24&ensp;hours&ensp;was&ensp;5&ensp;(NOAA&ensp;Scale  
+G1).  
+The&ensp;greatest&ensp;expected&ensp;3&ensp;hr&ensp;Kp&ensp;for&ensp;Nov&ensp;05-Nov&ensp;07&ensp;2023&ensp;is&ensp;6.00&ensp;(NOAA&ensp;Scale  
+G2).  
   
-NOAA&ensp;Kp&ensp;index&ensp;breakdown&ensp;Nov&ensp;04-Nov&ensp;06&ensp;2023  
+NOAA&ensp;Kp&ensp;index&ensp;breakdown&ensp;Nov&ensp;05-Nov&ensp;07&ensp;2023  
   
-&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Nov&ensp;04&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Nov&ensp;05&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Nov&ensp;06  
-00-03UT&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;1.00&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;3.00&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;4.00&ensp;&ensp;&ensp;&ensp;&ensp;  
-03-06UT&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;1.00&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;2.00&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;4.00&ensp;&ensp;&ensp;&ensp;&ensp;  
-06-09UT&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;2.00&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;2.00&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;3.00&ensp;&ensp;&ensp;&ensp;&ensp;  
-09-12UT&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;1.00&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;2.00&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;2.67&ensp;&ensp;&ensp;&ensp;&ensp;  
-12-15UT&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;1.33&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;2.33&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;3.00&ensp;&ensp;&ensp;&ensp;&ensp;  
-15-18UT&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;2.00&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;2.67&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;3.67&ensp;&ensp;&ensp;&ensp;&ensp;  
-18-21UT&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;2.67&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;3.00&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;3.00&ensp;&ensp;&ensp;&ensp;&ensp;  
-21-00UT&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;3.00&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;3.67&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;2.67&ensp;&ensp;&ensp;&ensp;&ensp;  
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Nov&ensp;05&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Nov&ensp;06&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Nov&ensp;07  
+00-03UT&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;4.00&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;4.67&ensp;(G1)&ensp;&ensp;&ensp;&ensp;3.67&ensp;&ensp;&ensp;&ensp;&ensp;  
+03-06UT&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;4.67&ensp;(G1)&ensp;&ensp;&ensp;&ensp;6.00&ensp;(G2)&ensp;&ensp;&ensp;&ensp;2.67&ensp;&ensp;&ensp;&ensp;&ensp;  
+06-09UT&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;3.67&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;4.67&ensp;(G1)&ensp;&ensp;&ensp;&ensp;2.67&ensp;&ensp;&ensp;&ensp;&ensp;  
+09-12UT&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;2.67&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;3.67&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;2.00&ensp;&ensp;&ensp;&ensp;&ensp;  
+12-15UT&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;2.67&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;3.00&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;1.67&ensp;&ensp;&ensp;&ensp;&ensp;  
+15-18UT&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;2.67&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;2.67&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;1.67&ensp;&ensp;&ensp;&ensp;&ensp;  
+18-21UT&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;4.00&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;2.67&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;2.67&ensp;&ensp;&ensp;&ensp;&ensp;  
+21-00UT&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;5.00&ensp;(G1)&ensp;&ensp;&ensp;&ensp;3.67&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;3.67&ensp;&ensp;&ensp;&ensp;&ensp;  
   
-Rationale:&ensp;No&ensp;G1&ensp;(Minor)&ensp;or&ensp;greater&ensp;geomagnetic&ensp;storms&ensp;are&ensp;forecast.&ensp;  
+Rationale:&ensp;G1&ensp;(Minor)&ensp;and&ensp;G2&ensp;(Moderate)&ensp;geomagnetic&ensp;storms&ensp;are&ensp;expected  
+on&ensp;05-06&ensp;Nov&ensp;due&ensp;to&ensp;CME&ensp;effects.  
   
 B.&ensp;NOAA&ensp;Solar&ensp;Radiation&ensp;Activity&ensp;Observation&ensp;and&ensp;Forecast  
   
 Solar&ensp;radiation,&ensp;as&ensp;observed&ensp;by&ensp;NOAA&ensp;GOES-16&ensp;over&ensp;the&ensp;past&ensp;24&ensp;hours,&ensp;was  
 below&ensp;S-scale&ensp;storm&ensp;level&ensp;thresholds.  
   
-Solar&ensp;Radiation&ensp;Storm&ensp;Forecast&ensp;for&ensp;Nov&ensp;04-Nov&ensp;06&ensp;2023  
+Solar&ensp;Radiation&ensp;Storm&ensp;Forecast&ensp;for&ensp;Nov&ensp;05-Nov&ensp;07&ensp;2023  
   
-&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Nov&ensp;04&ensp;&ensp;Nov&ensp;05&ensp;&ensp;Nov&ensp;06  
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Nov&ensp;05&ensp;&ensp;Nov&ensp;06&ensp;&ensp;Nov&ensp;07  
 S1&ensp;or&ensp;greater&ensp;&ensp;&ensp;&ensp;1%&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;1%&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;1%  
   
 Rationale:&ensp;No&ensp;S1&ensp;(Minor)&ensp;or&ensp;greater&ensp;solar&ensp;radiation&ensp;storms&ensp;are&ensp;expected.  
@@ -89,11 +94,11 @@ C.&ensp;NOAA&ensp;Radio&ensp;Blackout&ensp;Activity&ensp;and&ensp;Forecast
   
 No&ensp;radio&ensp;blackouts&ensp;were&ensp;observed&ensp;over&ensp;the&ensp;past&ensp;24&ensp;hours.  
   
-Radio&ensp;Blackout&ensp;Forecast&ensp;for&ensp;Nov&ensp;04-Nov&ensp;06&ensp;2023  
+Radio&ensp;Blackout&ensp;Forecast&ensp;for&ensp;Nov&ensp;05-Nov&ensp;07&ensp;2023  
   
-&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Nov&ensp;04&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Nov&ensp;05&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Nov&ensp;06  
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Nov&ensp;05&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Nov&ensp;06&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Nov&ensp;07  
 R1-R2&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;25%&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;25%&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;25%  
 R3&ensp;or&ensp;greater&ensp;&ensp;&ensp;&ensp;5%&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;5%&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;5%  
   
 Rationale:&ensp;There&ensp;exists&ensp;a&ensp;chance&ensp;for&ensp;R1-R2&ensp;(Minor-Moderate)&ensp;radio  
-blackouts&ensp;over&ensp;04-06&ensp;Nov.  
+blackouts&ensp;over&ensp;05-07&ensp;Nov.  
