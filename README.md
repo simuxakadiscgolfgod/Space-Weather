@@ -1,14 +1,13 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2023-11-05
+<br />**Date image released:**  2023-11-06
 <br />**This image is owned by:**  
-Ole C. Salomonsen
-(Arctic Light Photo) 
+Giorgia Hofer
 
-<br />**Title of the image:**  Creature Aurora Over Norway
-<br />**Description for the image:**  It was Halloween and the sky looked like a creature. Exactly which creature, the astrophotographer was unsure (but possibly you can suggest one). Exactly what caused this  eerie apparition in 2013 was sure: one of the best auroral displays that year. This spectacular aurora had an unusually high degree of detail. Pictured here, the vivid green and purple  auroral colors are caused by high atmospheric oxygen and nitrogen reacting to a burst of incoming electrons.  Birch trees in Tromsø, Norway formed an also eerie foreground. Frequently, new photogenic auroras accompany new geomagnetic storms.   Almost Hyperspace: Random APOD Generator
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2311/CreatureAurora_Salomonsen_960.jpg
+<br />**Title of the image:**  Red Aurora over Italy
+<br />**Description for the image:**  What was that red glow on the horizon last night? Aurora. Our unusually active Sun produced a surface explosion a few days ago that sent out a burst of electrons, protons, and more massive charged nuclei. This coronal mass ejection (CME) triggered auroras here on Earth that are being reported unusually far south in Earth's northern hemisphere.  For example, this was the first time that the astrophotographer captured aurora from her home country of Italy. Additionally, many images from these auroras appear quite red in color.  In the featured image, the town of Comelico Superiore in the Italian Alps is visible in the foreground, with the central band of our Milky Way galaxy seen rising from the lower left. What draws the eye the most, though, is the bright red aurora on the far right. The featured image is a composite with the foreground and background images taken consecutively with the same camera and from the same location.   Aurora Album: Selected images sent in to APOD
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2311/RedAuroraItaly_Hofer_1200.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -52,39 +51,39 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2023 Nov 05 1230 UTC
+:Issued: 2023 Nov 06 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 6 (NOAA Scale
-G2).
-The greatest expected 3 hr Kp for Nov 05-Nov 07 2023 is 6.00 (NOAA Scale
+The greatest observed 3 hr Kp over the past 24 hours was 7 (NOAA Scale
+G3).
+The greatest expected 3 hr Kp for Nov 06-Nov 08 2023 is 5.67 (NOAA Scale
 G2).
 
-NOAA Kp index breakdown Nov 05-Nov 07 2023
+NOAA Kp index breakdown Nov 06-Nov 08 2023
 
-             Nov 05       Nov 06       Nov 07
-00-03UT       3.00         4.67 (G1)    3.67     
-03-06UT       2.33         6.00 (G2)    2.67     
-06-09UT       1.33         4.67 (G1)    2.67     
-09-12UT       6.00 (G2)    3.67         2.00     
-12-15UT       4.67 (G1)    3.00         1.67     
-15-18UT       5.67 (G2)    2.67         1.67     
-18-21UT       4.67 (G1)    2.67         2.67     
-21-00UT       3.67         3.67         3.67     
+             Nov 06       Nov 07       Nov 08
+00-03UT       5.67 (G2)    3.67         3.67     
+03-06UT       4.67 (G1)    3.00         4.00     
+06-09UT       5.67 (G2)    2.67         3.67     
+09-12UT       4.67 (G1)    2.00         2.67     
+12-15UT       3.67         1.67         2.67     
+15-18UT       3.67         1.00         3.00     
+18-21UT       2.67         2.00         3.00     
+21-00UT       2.67         3.67         3.67     
 
 Rationale: G1-G2 (Minor-Moderate) geomagnetic storms are expected on
-05-06 Nov in response to the passage of multiple CMEs.
+06 Nov in response to the passage of multiple CMEs.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-16 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Nov 05-Nov 07 2023
+Solar Radiation Storm Forecast for Nov 06-Nov 08 2023
 
-              Nov 05  Nov 06  Nov 07
+              Nov 06  Nov 07  Nov 08
 S1 or greater    1%      1%      1%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -96,13 +95,13 @@ C. NOAA Radio Blackout Activity and Forecast
 Radio blackouts reaching the R1 levels were observed over the past 24
 hours. The largest was at Nov 05 2023 1143 UTC.
 
-Radio Blackout Forecast for Nov 05-Nov 07 2023
+Radio Blackout Forecast for Nov 06-Nov 08 2023
 
-              Nov 05        Nov 06        Nov 07
+              Nov 06        Nov 07        Nov 08
 R1-R2           25%           25%           25%
 R3 or greater    5%            5%            5%
 
 Rationale: There exists a slight chance for R1-R2 (Minor-Moderate) radio
-blackouts over 05-07 Nov.
+blackouts over 06-08 Nov.
 
 ```
