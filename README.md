@@ -1,7 +1,6 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Sorry, Image not available!**
 <br />**Date image released:**  2023-11-08
 <br />**Title of the image:**  Perseus Galaxy Cluster from Euclid
 <br />**Description for the image:**  There's a new space telescope in the sky: Euclid. Equipped with two large panoramic cameras, Euclid captures light from the visible to the near-infrared.  It took five hours of observing for Euclid's 1.2-meter diameter primary mirror  to capture, through its sharp optics, the 1000+ galaxies in the Perseus cluster, which lies 250 million light years away.  More than 100,000 galaxies are visible in the background, some as far away as 10 billion light years. The revolutionary nature of Euclid lies in the combination of its wide field of view (twice the area of the full moon), its high angular resolution (thanks to its 620 Megapixel camera), and its infrared vision, which captures both images and spectra.  Euclid's initial surveys, covering a third of the sky and recording over 2 billion galaxies, will enable a study of how dark matter and dark energy have shaped our universe.
@@ -49,27 +48,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2023 Nov 08 0030 UTC
+:Issued: 2023 Nov 08 1230 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 5 (NOAA Scale
-G1).
+The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
+Scale levels).
 The greatest expected 3 hr Kp for Nov 08-Nov 10 2023 is 4.00 (below NOAA
 Scale levels).
 
 NOAA Kp index breakdown Nov 08-Nov 10 2023
 
              Nov 08       Nov 09       Nov 10
-00-03UT       3.67         2.67         2.67     
+00-03UT       2.67         2.67         2.67     
 03-06UT       4.00         4.00         2.67     
-06-09UT       3.67         2.67         2.67     
-09-12UT       2.67         2.00         2.33     
-12-15UT       2.67         2.00         2.67     
-15-18UT       3.00         2.00         2.67     
+06-09UT       3.00         2.67         2.67     
+09-12UT       3.33         2.00         2.33     
+12-15UT       2.33         2.00         2.67     
+15-18UT       2.67         2.00         2.67     
 18-21UT       3.00         2.67         2.00     
-21-00UT       3.67         2.67         2.00     
+21-00UT       3.33         2.67         2.00     
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
 significant transient or recurrent solar wind features are forecast.
@@ -98,7 +97,7 @@ Radio Blackout Forecast for Nov 08-Nov 10 2023
 R1-R2           15%           15%           15%
 R3 or greater    1%            1%            1%
 
-Rationale: A slight chance for R1-R2 (Minor-Moderate) radio blackouts
-will persist through 10 Nov primarily due to AR 3480.
+Rationale: There is a slight chance for R1-R2 (Minor-Moderate) radio
+blackouts all three days.
 
 ```
