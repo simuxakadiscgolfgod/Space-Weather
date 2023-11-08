@@ -2,6 +2,10 @@
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
 <br />**Sorry, Image not available!**
+<br />**Date image released:**  2023-11-08
+<br />**Title of the image:**  Perseus Galaxy Cluster from Euclid
+<br />**Description for the image:**  There's a new space telescope in the sky: Euclid. Equipped with two large panoramic cameras, Euclid captures light from the visible to the near-infrared.  It took five hours of observing for Euclid's 1.2-meter diameter primary mirror  to capture, through its sharp optics, the 1000+ galaxies in the Perseus cluster, which lies 250 million light years away.  More than 100,000 galaxies are visible in the background, some as far away as 10 billion light years. The revolutionary nature of Euclid lies in the combination of its wide field of view (twice the area of the full moon), its high angular resolution (thanks to its 620 Megapixel camera), and its infrared vision, which captures both images and spectra.  Euclid's initial surveys, covering a third of the sky and recording over 2 billion galaxies, will enable a study of how dark matter and dark energy have shaped our universe.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2311/Perseus_Euclid_4400.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -45,40 +49,39 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2023 Nov 07 0030 UTC
+:Issued: 2023 Nov 08 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 6 (NOAA Scale
-G2).
-The greatest expected 3 hr Kp for Nov 07-Nov 09 2023 is 5.67 (NOAA Scale
-G2).
+The greatest observed 3 hr Kp over the past 24 hours was 5 (NOAA Scale
+G1).
+The greatest expected 3 hr Kp for Nov 08-Nov 10 2023 is 4.00 (below NOAA
+Scale levels).
 
-NOAA Kp index breakdown Nov 07-Nov 09 2023
+NOAA Kp index breakdown Nov 08-Nov 10 2023
 
-             Nov 07       Nov 08       Nov 09
-00-03UT       5.67 (G2)    3.67         2.67     
-03-06UT       5.00 (G1)    4.00         4.00     
-06-09UT       4.67 (G1)    3.67         2.67     
-09-12UT       4.00         2.67         2.00     
-12-15UT       1.67         2.67         2.00     
-15-18UT       2.33         3.00         2.00     
-18-21UT       4.00         3.00         2.67     
-21-00UT       4.33         3.67         2.67     
+             Nov 08       Nov 09       Nov 10
+00-03UT       3.67         2.67         2.67     
+03-06UT       4.00         4.00         2.67     
+06-09UT       3.67         2.67         2.67     
+09-12UT       2.67         2.00         2.33     
+12-15UT       2.67         2.00         2.67     
+15-18UT       3.00         2.00         2.67     
+18-21UT       3.00         2.67         2.00     
+21-00UT       3.67         2.67         2.00     
 
-Rationale: G1-2 (Minor-Moderate) geomagnetic storming is likely on 07
-Nov due to lingering CME effects from a filament eruption that occurred
-on 03 Nov, and negative polarity CH HSS influence.
+Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
+significant transient or recurrent solar wind features are forecast.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-16 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Nov 07-Nov 09 2023
+Solar Radiation Storm Forecast for Nov 08-Nov 10 2023
 
-              Nov 07  Nov 08  Nov 09
+              Nov 08  Nov 09  Nov 10
 S1 or greater    1%      1%      1%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -89,14 +92,13 @@ C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Nov 07-Nov 09 2023
+Radio Blackout Forecast for Nov 08-Nov 10 2023
 
-              Nov 07        Nov 08        Nov 09
-R1-R2           20%           20%           20%
-R3 or greater    5%            5%            5%
+              Nov 08        Nov 09        Nov 10
+R1-R2           15%           15%           15%
+R3 or greater    1%            1%            1%
 
-Rationale: A slight chance for R1-2 (Minor-Moderate) radio blackouts
-will persist through 09 Nov primarily due to the current potential and
-magnetic makeup for AR 3480.
+Rationale: A slight chance for R1-R2 (Minor-Moderate) radio blackouts
+will persist through 10 Nov primarily due to AR 3480.
 
 ```
