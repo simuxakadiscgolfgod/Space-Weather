@@ -1,10 +1,10 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2023-11-08
-<br />**Title of the image:**  Perseus Galaxy Cluster from Euclid
-<br />**Description for the image:**  There's a new space telescope in the sky: Euclid. Equipped with two large panoramic cameras, Euclid captures light from the visible to the near-infrared.  It took five hours of observing for Euclid's 1.2-meter diameter primary mirror  to capture, through its sharp optics, the 1000+ galaxies in the Perseus cluster, which lies 250 million light years away.  More than 100,000 galaxies are visible in the background, some as far away as 10 billion light years. The revolutionary nature of Euclid lies in the combination of its wide field of view (twice the area of the full moon), its high angular resolution (thanks to its 620 Megapixel camera), and its infrared vision, which captures both images and spectra.  Euclid's initial surveys, covering a third of the sky and recording over 2 billion galaxies, will enable a study of how dark matter and dark energy have shaped our universe.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2311/Perseus_Euclid_4400.jpg
+<br />**Date image released:**  2023-11-09
+<br />**Title of the image:**  M1: The Crab Nebula
+<br />**Description for the image:**  The Crab Nebula is cataloged as M1, the first object on Charles Messier's famous 18th century list of things which are not comets. In fact, the Crab is now known to be a supernova remnant, debris from the death explosion of a massive star witnessed by astronomers in the year 1054. This sharp image from the James Webb Space Telescope’s NIRCam (Near-Infrared Camera) and MIRI (Mid-Infrared Instrument) explores the eerie glow and fragmented strands of the still expanding cloud of interstellar debris in infrared light. One of the most exotic objects known to modern astronomers, the Crab Pulsar, a neutron star spinning 30 times a second, is visible as a bright spot near the nebula's center. Like a cosmic dynamo, this collapsed remnant of the stellar core powers the Crab's emission across the electromagnetic spectrum. Spanning about 12 light-years, the Crab Nebula is a mere 6,500 light-years away in the head-strong constellation Taurus.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2311/M1_webb1024.png
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -48,27 +48,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2023 Nov 08 1230 UTC
+:Issued: 2023 Nov 09 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Nov 08-Nov 10 2023 is 4.00 (below NOAA
+The greatest expected 3 hr Kp for Nov 09-Nov 11 2023 is 4.00 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Nov 08-Nov 10 2023
+NOAA Kp index breakdown Nov 09-Nov 11 2023
 
-             Nov 08       Nov 09       Nov 10
-00-03UT       2.67         2.67         2.67     
-03-06UT       4.00         4.00         2.67     
-06-09UT       3.00         2.67         2.67     
-09-12UT       3.33         2.00         2.33     
-12-15UT       2.33         2.00         2.67     
-15-18UT       2.67         2.00         2.67     
-18-21UT       3.00         2.67         2.00     
-21-00UT       3.33         2.67         2.00     
+             Nov 09       Nov 10       Nov 11
+00-03UT       4.00         2.67         2.33     
+03-06UT       3.33         2.67         2.00     
+06-09UT       3.00         2.67         2.00     
+09-12UT       2.67         2.33         2.00     
+12-15UT       2.00         2.67         2.00     
+15-18UT       2.00         2.67         2.00     
+18-21UT       2.67         2.00         2.00     
+21-00UT       2.67         2.00         2.33     
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
 significant transient or recurrent solar wind features are forecast.
@@ -78,9 +78,9 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-16 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Nov 08-Nov 10 2023
+Solar Radiation Storm Forecast for Nov 09-Nov 11 2023
 
-              Nov 08  Nov 09  Nov 10
+              Nov 09  Nov 10  Nov 11
 S1 or greater    1%      1%      1%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -91,13 +91,14 @@ C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Nov 08-Nov 10 2023
+Radio Blackout Forecast for Nov 09-Nov 11 2023
 
-              Nov 08        Nov 09        Nov 10
-R1-R2           15%           15%           15%
+              Nov 09        Nov 10        Nov 11
+R1-R2           10%           10%           10%
 R3 or greater    1%            1%            1%
 
-Rationale: There is a slight chance for R1-R2 (Minor-Moderate) radio
-blackouts all three days.
+Rationale: A slight chance for R1-2 (Minor-Moderate) radio blackouts due
+to M-class flares will persist through 11 Nov primarily due to the
+current magnetic makeup and configuration of AR 3483.
 
 ```
