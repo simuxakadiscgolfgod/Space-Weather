@@ -1,10 +1,10 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2023-11-09
-<br />**Title of the image:**  M1: The Crab Nebula
-<br />**Description for the image:**  The Crab Nebula is cataloged as M1, the first object on Charles Messier's famous 18th century list of things which are not comets. In fact, the Crab is now known to be a supernova remnant, debris from the death explosion of a massive star witnessed by astronomers in the year 1054. This sharp image from the James Webb Space Telescope’s NIRCam (Near-Infrared Camera) and MIRI (Mid-Infrared Instrument) explores the eerie glow and fragmented strands of the still expanding cloud of interstellar debris in infrared light. One of the most exotic objects known to modern astronomers, the Crab Pulsar, a neutron star spinning 30 times a second, is visible as a bright spot near the nebula's center. Like a cosmic dynamo, this collapsed remnant of the stellar core powers the Crab's emission across the electromagnetic spectrum. Spanning about 12 light-years, the Crab Nebula is a mere 6,500 light-years away in the head-strong constellation Taurus.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2311/M1_webb1024.png
+<br />**Date image released:**  2023-11-10
+<br />**Title of the image:**  UHZ1: Distant Galaxy and Black Hole
+<br />**Description for the image:**  Dominated by dark matter, massive cluster of galaxies Abell 2744 is known to some as Pandora's Cluster. It lies 3.5 billion light-years away toward the constellation Sculptor. Using the galaxy cluster's enormous mass as a gravitational lens to warp spacetime and magnify even more distant objects directly behind it, astronomers have found a background galaxy, UHZ1, at a remarkable redshift of Z=10.1. That puts UHZ1 far beyond Abell 2744, at a distance of 13.2 billion light-years, seen when our universe was about 3 percent of its current age. UHZ1 is identified in the insets of this composited image combining X-rays (purple hues) from the spacebased Chandra X-ray Observatory and infrared light from the James Webb Space Telescope. The X-ray emission from UHZ1 detected in the Chandra data is the telltale signature of a growing supermassive black hole at the center of the ultra high redshift galaxy.  That makes UHZ1's growing black hole the most distant black hole ever detected in X-rays, a result that now hints at how and when the first supermassive black holes in the universe formed.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2311/uhz1.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -48,57 +48,55 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2023 Nov 09 0030 UTC
+:Issued: 2023 Nov 10 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Nov 09-Nov 11 2023 is 4.00 (below NOAA
-Scale levels).
+The greatest expected 3 hr Kp for Nov 10-Nov 12 2023 is 6.33 (NOAA Scale
+G2).
 
-NOAA Kp index breakdown Nov 09-Nov 11 2023
+NOAA Kp index breakdown Nov 10-Nov 12 2023
 
-             Nov 09       Nov 10       Nov 11
-00-03UT       4.00         2.67         2.33     
-03-06UT       3.33         2.67         2.00     
-06-09UT       3.00         2.67         2.00     
-09-12UT       2.67         2.33         2.00     
-12-15UT       2.00         2.67         2.00     
-15-18UT       2.00         2.67         2.00     
-18-21UT       2.67         2.00         2.00     
-21-00UT       2.67         2.00         2.33     
+             Nov 10       Nov 11       Nov 12
+00-03UT       2.67         3.00         6.33 (G2)
+03-06UT       2.67         2.67         5.00 (G1)
+06-09UT       2.67         2.00         4.00     
+09-12UT       2.33         1.67         3.67     
+12-15UT       2.00         2.67         2.67     
+15-18UT       1.67         5.00 (G1)    2.67     
+18-21UT       2.00         5.00 (G1)    2.67     
+21-00UT       2.67         6.33 (G2)    3.00     
 
-Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
-significant transient or recurrent solar wind features are forecast.
+Rationale: G1-G2 (Minor-Moderate) geomagnetic storm levels are likely on
+11-12 Nov due to the expected arrival of the 09 Nov CME.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-16 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Nov 09-Nov 11 2023
+Solar Radiation Storm Forecast for Nov 10-Nov 12 2023
 
-              Nov 09  Nov 10  Nov 11
-S1 or greater    1%      1%      1%
+              Nov 10  Nov 11  Nov 12
+S1 or greater   30%      1%      1%
 
-Rationale: No S1 (Minor) or greater solar radiation storms are expected.
-No significant active region activity favorable for radiation storm
-production is forecast.
+Rationale: There is a chance for an S1 (Minor) solar radiation storm on
+10 Nov.
 
 C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Nov 09-Nov 11 2023
+Radio Blackout Forecast for Nov 10-Nov 12 2023
 
-              Nov 09        Nov 10        Nov 11
-R1-R2           10%           10%           10%
+              Nov 10        Nov 11        Nov 12
+R1-R2           15%           15%           15%
 R3 or greater    1%            1%            1%
 
-Rationale: A slight chance for R1-2 (Minor-Moderate) radio blackouts due
-to M-class flares will persist through 11 Nov primarily due to the
-current magnetic makeup and configuration of AR 3483.
+Rationale: There is a slight chance for R1 (Minor) radio blackouts on
+10-12 Nov.
 
 ```
