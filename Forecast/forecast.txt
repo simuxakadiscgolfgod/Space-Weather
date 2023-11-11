@@ -1,54 +1,55 @@
 ```
 :Product: 3-Day Forecast
-:Issued: 2023 Nov 10 0030 UTC
+:Issued: 2023 Nov 11 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Nov 10-Nov 12 2023 is 6.33 (NOAA Scale
+The greatest expected 3 hr Kp for Nov 11-Nov 13 2023 is 6.33 (NOAA Scale
 G2).
 
-NOAA Kp index breakdown Nov 10-Nov 12 2023
+NOAA Kp index breakdown Nov 11-Nov 13 2023
 
-             Nov 10       Nov 11       Nov 12
-00-03UT       2.67         3.00         6.33 (G2)
-03-06UT       2.67         2.67         5.00 (G1)
-06-09UT       2.67         2.00         4.00     
-09-12UT       2.33         1.67         3.67     
-12-15UT       2.00         2.67         2.67     
-15-18UT       1.67         5.00 (G1)    2.67     
-18-21UT       2.00         5.00 (G1)    2.67     
-21-00UT       2.67         6.33 (G2)    3.00     
+             Nov 11       Nov 12       Nov 13
+00-03UT       3.00         6.33 (G2)    3.00     
+03-06UT       2.67         5.00 (G1)    2.67     
+06-09UT       2.00         4.00         2.67     
+09-12UT       1.67         3.67         2.00     
+12-15UT       2.67         2.67         1.67     
+15-18UT       5.00 (G1)    2.67         2.67     
+18-21UT       5.00 (G1)    2.67         2.67     
+21-00UT       6.33 (G2)    3.00         3.67     
 
-Rationale: G1-G2 (Minor-Moderate) geomagnetic storm levels are likely on
-11-12 Nov due to the expected arrival of the 09 Nov CME.
+Rationale: Periods of G1-G2 (Minor-Moderate) geomagnetic storms are
+likely, with a chance for G3 (Strong) levels, on 11-12 Nov due to the
+anticipated arrival of a CME from 09 Nov.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-16 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Nov 10-Nov 12 2023
+Solar Radiation Storm Forecast for Nov 11-Nov 13 2023
 
-              Nov 10  Nov 11  Nov 12
-S1 or greater   30%      1%      1%
+              Nov 11  Nov 12  Nov 13
+S1 or greater   10%      1%      1%
 
-Rationale: There is a chance for an S1 (Minor) solar radiation storm on
-10 Nov.
+Rationale: There is a slight chance for a greater than 10 MeV proton
+event reaching the S1 (Minor) threshold on 11 Nov.
 
 C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Nov 10-Nov 12 2023
+Radio Blackout Forecast for Nov 11-Nov 13 2023
 
-              Nov 10        Nov 11        Nov 12
+              Nov 11        Nov 12        Nov 13
 R1-R2           15%           15%           15%
 R3 or greater    1%            1%            1%
 
-Rationale: There is a slight chance for R1 (Minor) radio blackouts on
-10-12 Nov.
+Rationale: There is a slight chance for isolated R1-R2 (Minor-Moderate)
+radio blackouts over 11-13 Nov.
 
 ```
