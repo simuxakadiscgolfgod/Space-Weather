@@ -1,11 +1,13 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2023-11-11
-<br />**This image is owned by:**  Julien Looten
-<br />**Title of the image:**  The SAR and the Milky Way
-<br />**Description for the image:**  This broad, luminous red arc was a surprising visitor to partly cloudy evening skies over northern France. Captured extending toward the zenith in a west-to-east mosaic of images from November 5, the faint atmospheric ribbon of light is an example of a Stable Auroral Red (SAR) arc. The rare night sky phenomenon was also spotted at unusually low latitudes around world, along with more dynamic auroral displays during an intense geomagnetic storm. SAR arcs and their relation to auroral emission have been explored by citizen science and satellite investigations. From altitudes substantially above the normal auroral glow, the deep red SAR emission is thought to be caused by strong heating due to currents flowing in planet Earth's inner magnetosphere. Beyond this SAR, the Milky Way arcs above the cloud banks along the horizon, a regular visitor to night skies over northern France.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2311/SARarcLooten.jpg
+<br />**Date image released:**  2023-11-12
+<br />**This image is owned by:**  
+Göran Strand
+
+<br />**Title of the image:**  Gibbous Moon beyond Swedish Mountain
+<br />**Description for the image:**  This is a gibbous Moon. More Earthlings are familiar with a full moon, when the entire face of Luna is lit by the Sun, and a crescent moon, when only a sliver of the Moon's face is lit.  When more than half of the Moon is illuminated, though, but still short of full illumination, the phase is called gibbous.  Rarely seen in television and movies, gibbous moons are quite common in the actual night sky. The featured image was taken in Jämtland, Sweden near the end of 2018 October. That gibbous moon turned, in a few days, into a crescent moon, and then a new moon, then back to a crescent, and a few days past that, back to gibbous.  Setting up to capture a picturesque gibbous moonscape, the photographer was quite surprised to find an airplane, surely well in the foreground, appearing to fly past it.   Almost Hyperspace: Random APOD Generator
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2311/GibbousMoon_Strand_1500.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,56 +51,58 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2023 Nov 11 0030 UTC
+:Issued: 2023 Nov 12 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Nov 11-Nov 13 2023 is 6.33 (NOAA Scale
+The greatest expected 3 hr Kp for Nov 12-Nov 14 2023 is 6.00 (NOAA Scale
 G2).
 
-NOAA Kp index breakdown Nov 11-Nov 13 2023
+NOAA Kp index breakdown Nov 12-Nov 14 2023
 
-             Nov 11       Nov 12       Nov 13
-00-03UT       3.00         6.33 (G2)    3.00     
-03-06UT       2.67         5.00 (G1)    2.67     
-06-09UT       2.00         4.00         2.67     
-09-12UT       1.67         3.67         2.00     
-12-15UT       2.67         2.67         1.67     
-15-18UT       5.00 (G1)    2.67         2.67     
-18-21UT       5.00 (G1)    2.67         2.67     
-21-00UT       6.33 (G2)    3.00         3.67     
+             Nov 12       Nov 13       Nov 14
+00-03UT       4.67 (G1)    3.00         3.00     
+03-06UT       6.00 (G2)    3.67         2.67     
+06-09UT       5.67 (G2)    2.67         2.33     
+09-12UT       4.67 (G1)    2.00         2.33     
+12-15UT       4.00         1.67         1.00     
+15-18UT       3.67         1.67         1.00     
+18-21UT       2.67         2.67         1.67     
+21-00UT       3.00         3.00         2.00     
 
-Rationale: Periods of G1-G2 (Minor-Moderate) geomagnetic storms are
-likely, with a chance for G3 (Strong) levels, on 11-12 Nov due to the
-anticipated arrival of a CME from 09 Nov.
+Rationale: G1-G2 (Minor-Moderate) geomagnetic storms are likely on 12
+Nov due to the anticipated influence of a CME that left the Sun on 09
+Nov.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-16 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Nov 11-Nov 13 2023
+Solar Radiation Storm Forecast for Nov 12-Nov 14 2023
 
-              Nov 11  Nov 12  Nov 13
-S1 or greater   10%      1%      1%
+              Nov 12  Nov 13  Nov 14
+S1 or greater    5%      5%      5%
 
-Rationale: There is a slight chance for a greater than 10 MeV proton
-event reaching the S1 (Minor) threshold on 11 Nov.
+Rationale: No S1 (Minor) or greater solar radiation storms are expected.
+No significant active region activity favorable for radiation storm
+production is forecast.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-No radio blackouts were observed over the past 24 hours.
+Radio blackouts reaching the R1 levels were observed over the past 24
+hours. The largest was at Nov 11 2023 1729 UTC.
 
-Radio Blackout Forecast for Nov 11-Nov 13 2023
+Radio Blackout Forecast for Nov 12-Nov 14 2023
 
-              Nov 11        Nov 12        Nov 13
-R1-R2           15%           15%           15%
-R3 or greater    1%            1%            1%
+              Nov 12        Nov 13        Nov 14
+R1-R2           30%           30%           30%
+R3 or greater    5%            5%            5%
 
-Rationale: There is a slight chance for isolated R1-R2 (Minor-Moderate)
-radio blackouts over 11-13 Nov.
+Rationale: There exists a chance for R1-R2 (Minor-Moderate) radio
+blackouts over 12-14 Nov.
 
 ```
