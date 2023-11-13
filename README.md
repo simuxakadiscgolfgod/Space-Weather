@@ -1,13 +1,13 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2023-11-12
+<br />**Date image released:**  2023-11-13
 <br />**This image is owned by:**  
-Göran Strand
+Dzmitry Kananovich
 
-<br />**Title of the image:**  Gibbous Moon beyond Swedish Mountain
-<br />**Description for the image:**  This is a gibbous Moon. More Earthlings are familiar with a full moon, when the entire face of Luna is lit by the Sun, and a crescent moon, when only a sliver of the Moon's face is lit.  When more than half of the Moon is illuminated, though, but still short of full illumination, the phase is called gibbous.  Rarely seen in television and movies, gibbous moons are quite common in the actual night sky. The featured image was taken in Jämtland, Sweden near the end of 2018 October. That gibbous moon turned, in a few days, into a crescent moon, and then a new moon, then back to a crescent, and a few days past that, back to gibbous.  Setting up to capture a picturesque gibbous moonscape, the photographer was quite surprised to find an airplane, surely well in the foreground, appearing to fly past it.   Almost Hyperspace: Random APOD Generator
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2311/GibbousMoon_Strand_1500.jpg
+<br />**Title of the image:**  Andromeda over the Alps
+<br />**Description for the image:**  Have you ever seen the Andromeda galaxy? Although M31 appears as a faint and fuzzy blob to the unaided eye, the light you see will be over two million years old, making it likely the oldest light you ever will see directly. The featured image captured Andromeda just before it set behind the Swiss Alps early last year. As cool as it may be to see this neighboring galaxy to our Milky Way with your own eyes, long duration camera exposures can pick up many faint and breathtaking details. The image is composite of foreground and background images taken consecutively with the same camera and from the same location.  Recent data indicate that our Milky Way Galaxy will collide and coalesce with Andromeda galaxy in a few billion years.   Follow APOD on Facebook in: Arabic, English, Catalan, Portuguese, or Taiwanese
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2311/M31Alps_Kananovich_1639.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -51,41 +51,40 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2023 Nov 12 0030 UTC
+:Issued: 2023 Nov 13 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Nov 12-Nov 14 2023 is 6.00 (NOAA Scale
-G2).
+The greatest expected 3 hr Kp for Nov 13-Nov 15 2023 is 4.00 (below NOAA
+Scale levels).
 
-NOAA Kp index breakdown Nov 12-Nov 14 2023
+NOAA Kp index breakdown Nov 13-Nov 15 2023
 
-             Nov 12       Nov 13       Nov 14
-00-03UT       4.67 (G1)    3.00         3.00     
-03-06UT       6.00 (G2)    3.67         2.67     
-06-09UT       5.67 (G2)    2.67         2.33     
-09-12UT       4.67 (G1)    2.00         2.33     
-12-15UT       4.00         1.67         1.00     
-15-18UT       3.67         1.67         1.00     
-18-21UT       2.67         2.67         1.67     
-21-00UT       3.00         3.00         2.00     
+             Nov 13       Nov 14       Nov 15
+00-03UT       2.67         3.00         2.67     
+03-06UT       4.00         2.67         2.67     
+06-09UT       3.67         2.33         2.33     
+09-12UT       2.67         1.67         2.33     
+12-15UT       2.67         1.00         1.00     
+15-18UT       1.67         0.67         1.67     
+18-21UT       2.67         1.67         2.67     
+21-00UT       3.00         2.67         3.00     
 
-Rationale: G1-G2 (Minor-Moderate) geomagnetic storms are likely on 12
-Nov due to the anticipated influence of a CME that left the Sun on 09
-Nov.
+Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
+significant transient or recurrent solar wind features are forecast.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-16 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Nov 12-Nov 14 2023
+Solar Radiation Storm Forecast for Nov 13-Nov 15 2023
 
-              Nov 12  Nov 13  Nov 14
-S1 or greater    5%      5%      5%
+              Nov 13  Nov 14  Nov 15
+S1 or greater    5%      5%      1%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
 No significant active region activity favorable for radiation storm
@@ -93,16 +92,15 @@ production is forecast.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-Radio blackouts reaching the R1 levels were observed over the past 24
-hours. The largest was at Nov 11 2023 1729 UTC.
+No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Nov 12-Nov 14 2023
+Radio Blackout Forecast for Nov 13-Nov 15 2023
 
-              Nov 12        Nov 13        Nov 14
-R1-R2           30%           30%           30%
-R3 or greater    5%            5%            5%
+              Nov 13        Nov 14        Nov 15
+R1-R2           45%           45%           25%
+R3 or greater    5%            5%            1%
 
 Rationale: There exists a chance for R1-R2 (Minor-Moderate) radio
-blackouts over 12-14 Nov.
+blackouts over 13-15 Nov.
 
 ```
