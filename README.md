@@ -1,13 +1,16 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2023-11-13
+<br />**Date image released:**  2023-11-14
 <br />**This image is owned by:**  
-Dzmitry Kananovich
+Giovanni Passalacqua;
+Text: 
+Liz Coelho  
+(Pikes Peak)
 
-<br />**Title of the image:**  Andromeda over the Alps
-<br />**Description for the image:**  Have you ever seen the Andromeda galaxy? Although M31 appears as a faint and fuzzy blob to the unaided eye, the light you see will be over two million years old, making it likely the oldest light you ever will see directly. The featured image captured Andromeda just before it set behind the Swiss Alps early last year. As cool as it may be to see this neighboring galaxy to our Milky Way with your own eyes, long duration camera exposures can pick up many faint and breathtaking details. The image is composite of foreground and background images taken consecutively with the same camera and from the same location.  Recent data indicate that our Milky Way Galaxy will collide and coalesce with Andromeda galaxy in a few billion years.   Follow APOD on Facebook in: Arabic, English, Catalan, Portuguese, or Taiwanese
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2311/M31Alps_Kananovich_1639.jpg
+<br />**Title of the image:**  Three Planets Rock
+<br />**Description for the image:**  In the fading darkness before dawn, a tilted triangle appeared to balance atop a rock formation off the southern tip of Sicily.  Making up the points of the triangle are three of the four brightest objects visible in Earth’s sky: Jupiter, Venus and the Moon.  Though a thin waning crescent, most of the moon’s disk is visible due to earthshine.  Captured in this image on 2022 April 27, Venus (center) and Jupiter (left) are roughly three degrees apart --  and were headed toward a close conjunction.  Conjunctions of Venus and Jupiter occur about once a year and are visible either in the east before sunrise or in the west after sunset.  The featured image was taken about an hour before the arrival of the brightest object in Earth’s sky – the Sun.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2311/MoonVenusJupiter_Passalacqua_960.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -51,27 +54,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2023 Nov 13 0030 UTC
+:Issued: 2023 Nov 14 0110 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Nov 13-Nov 15 2023 is 4.00 (below NOAA
+The greatest expected 3 hr Kp for Nov 14-Nov 16 2023 is 3.67 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Nov 13-Nov 15 2023
+NOAA Kp index breakdown Nov 14-Nov 16 2023
 
-             Nov 13       Nov 14       Nov 15
-00-03UT       2.67         3.00         2.67     
-03-06UT       4.00         2.67         2.67     
-06-09UT       3.67         2.33         2.33     
-09-12UT       2.67         1.67         2.33     
-12-15UT       2.67         1.00         1.00     
-15-18UT       1.67         0.67         1.67     
-18-21UT       2.67         1.67         2.67     
-21-00UT       3.00         2.67         3.00     
+             Nov 14       Nov 15       Nov 16
+00-03UT       3.00         3.00         2.67     
+03-06UT       2.67         3.00         3.00     
+06-09UT       2.67         2.33         2.67     
+09-12UT       2.33         2.00         2.33     
+12-15UT       2.33         2.00         1.67     
+15-18UT       2.00         2.00         2.33     
+18-21UT       2.00         2.67         2.00     
+21-00UT       2.33         3.67         2.67     
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
 significant transient or recurrent solar wind features are forecast.
@@ -81,10 +84,10 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-16 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Nov 13-Nov 15 2023
+Solar Radiation Storm Forecast for Nov 14-Nov 16 2023
 
-              Nov 13  Nov 14  Nov 15
-S1 or greater    5%      5%      1%
+              Nov 14  Nov 15  Nov 16
+S1 or greater    5%      1%      1%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
 No significant active region activity favorable for radiation storm
@@ -94,13 +97,13 @@ C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Nov 13-Nov 15 2023
+Radio Blackout Forecast for Nov 14-Nov 16 2023
 
-              Nov 13        Nov 14        Nov 15
-R1-R2           45%           45%           25%
-R3 or greater    5%            5%            1%
+              Nov 14        Nov 15        Nov 16
+R1-R2           25%           20%           15%
+R3 or greater    5%            1%            1%
 
-Rationale: There exists a chance for R1-R2 (Minor-Moderate) radio
-blackouts over 13-15 Nov.
+Rationale: There is a chance for R1-R2 (Minor-Moderate) radio blackouts
+on 14 Nov and a slight chance on 15-16 Nov.
 
 ```
