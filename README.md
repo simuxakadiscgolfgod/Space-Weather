@@ -1,16 +1,10 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2023-11-14
-<br />**This image is owned by:**  
-Giovanni Passalacqua;
-Text: 
-Liz Coelho  
-(Pikes Peak)
-
-<br />**Title of the image:**  Three Planets Rock
-<br />**Description for the image:**  In the fading darkness before dawn, a tilted triangle appeared to balance atop a rock formation off the southern tip of Sicily.  Making up the points of the triangle are three of the four brightest objects visible in Earth’s sky: Jupiter, Venus and the Moon.  Though a thin waning crescent, most of the moon’s disk is visible due to earthshine.  Captured in this image on 2022 April 27, Venus (center) and Jupiter (left) are roughly three degrees apart --  and were headed toward a close conjunction.  Conjunctions of Venus and Jupiter occur about once a year and are visible either in the east before sunrise or in the west after sunset.  The featured image was taken about an hour before the arrival of the brightest object in Earth’s sky – the Sun.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2311/MoonVenusJupiter_Passalacqua_960.jpg
+<br />**Date image released:**  2023-11-15
+<br />**Title of the image:**  M1: The Incredible Expanding Crab
+<br />**Description for the image:**  Cataloged as M1, the Crab Nebula is the first on Charles Messier's famous list of things which are not comets. In fact, the Crab Nebula is now known to be a supernova remnant, an expanding cloud of debris from the death explosion of a massive star. The violent birth of the Crab was witnessed by astronomers in the year 1054. Roughly 10 light-years across, the nebula is still expanding at a rate of about 1,500 kilometers per second. You can see the expansion by comparing these sharp images from the Hubble Space Telescope and James Webb Space Telescope. The Crab's dynamic, fragmented filaments were captured in visible light by Hubble in 2005 and Webb in infrared light in 2023. This cosmic crustacean lies about 6,500 light-years away in the constellation Taurus.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2311/Crab_Webb_998.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -54,27 +48,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2023 Nov 14 0110 UTC
+:Issued: 2023 Nov 15 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Nov 14-Nov 16 2023 is 3.67 (below NOAA
+The greatest expected 3 hr Kp for Nov 15-Nov 17 2023 is 3.67 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Nov 14-Nov 16 2023
+NOAA Kp index breakdown Nov 15-Nov 17 2023
 
-             Nov 14       Nov 15       Nov 16
-00-03UT       3.00         3.00         2.67     
-03-06UT       2.67         3.00         3.00     
-06-09UT       2.67         2.33         2.67     
-09-12UT       2.33         2.00         2.33     
-12-15UT       2.33         2.00         1.67     
-15-18UT       2.00         2.00         2.33     
-18-21UT       2.00         2.67         2.00     
-21-00UT       2.33         3.67         2.67     
+             Nov 15       Nov 16       Nov 17
+00-03UT       3.00         2.67         2.33     
+03-06UT       2.33         3.00         2.33     
+06-09UT       2.33         2.67         2.33     
+09-12UT       2.00         2.33         2.33     
+12-15UT       2.00         1.67         2.33     
+15-18UT       2.67         2.33         2.33     
+18-21UT       3.00         2.00         1.67     
+21-00UT       3.67         2.67         2.00     
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
 significant transient or recurrent solar wind features are forecast.
@@ -84,10 +78,10 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-16 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Nov 14-Nov 16 2023
+Solar Radiation Storm Forecast for Nov 15-Nov 17 2023
 
-              Nov 14  Nov 15  Nov 16
-S1 or greater    5%      1%      1%
+              Nov 15  Nov 16  Nov 17
+S1 or greater    1%      1%      1%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
 No significant active region activity favorable for radiation storm
@@ -95,15 +89,16 @@ production is forecast.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-No radio blackouts were observed over the past 24 hours.
+Radio blackouts reaching the R1 levels were observed over the past 24
+hours. The largest was at Nov 14 2023 2305 UTC.
 
-Radio Blackout Forecast for Nov 14-Nov 16 2023
+Radio Blackout Forecast for Nov 15-Nov 17 2023
 
-              Nov 14        Nov 15        Nov 16
-R1-R2           25%           20%           15%
-R3 or greater    5%            1%            1%
+              Nov 15        Nov 16        Nov 17
+R1-R2           20%           15%           15%
+R3 or greater    1%            1%            1%
 
-Rationale: There is a chance for R1-R2 (Minor-Moderate) radio blackouts
-on 14 Nov and a slight chance on 15-16 Nov.
+Rationale: There is a slight chance for R1-R2 (Minor-Moderate) radio
+blackouts on 15-17 Nov.
 
 ```
