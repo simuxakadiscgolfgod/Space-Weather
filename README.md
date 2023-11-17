@@ -1,11 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2023-11-16
-<br />**This image is owned by:**  Katarzyna Kaczmarczyk
-<br />**Title of the image:**  Daytime Moon Meets Morning Star
-<br />**Description for the image:**  Venus now appears as Earth's brilliant morning star, shining above the southeastern horizon before dawn. For early morning risers, the silvery celestial beacon rose predawn in a close pairing with a waning crescent Moon on Thursday, November 9. But from some northern locations, the Moon was seen to occult or pass in front of Venus. From much of Europe, the lunar occultation could be viewed in daylight skies. This time series composite follows the daytime approach of Moon and morning star in blue skies from Warsaw, Poland. The progression of eight sharp telescopic snapshots, made between 10:56am and 10:58am local time, runs from left to right, when Venus winked out behind the bright lunar limb.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2311/Katarzyna20.jpg
+<br />**Date image released:**  2023-11-17
+<br />**This image is owned by:**  Dennis Lehtonen
+<br />**Title of the image:**  Nightlights in Qeqertaq
+<br />**Description for the image:**  Light pollution is usually not a problem in Qeqertaq. In western Greenland the remote coastal village boasted a population of 114 in 2020. Lights still shine in its dark skies though. During planet Earth's recent intense geomagnetic storm, on November 6 these beautiful curtains of aurora borealis fell over the arctic realm. On the eve of the coming weeks of polar night at 70 degrees north latitude, the inspiring display of northern lights is reflected in the waters of Disko Bay. In this view from the isolated settlement a lone iceberg is illuminated by shore lights as it drifts across the icy sea.  Weekend Watch: The Leonid Meteor Shower.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2311/lehtonen_dennisAuroraQeqertaq2.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,39 +49,39 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2023 Nov 16 0030 UTC
+:Issued: 2023 Nov 17 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Nov 16-Nov 18 2023 is 3.67 (below NOAA
-Scale levels).
+The greatest expected 3 hr Kp for Nov 17-Nov 19 2023 is 4.67 (NOAA Scale
+G1).
 
-NOAA Kp index breakdown Nov 16-Nov 18 2023
+NOAA Kp index breakdown Nov 17-Nov 19 2023
 
-             Nov 16       Nov 17       Nov 18
-00-03UT       3.67         2.33         1.67     
-03-06UT       3.00         2.67         2.00     
-06-09UT       2.67         2.33         1.33     
-09-12UT       2.33         2.00         1.00     
-12-15UT       2.00         2.00         0.67     
-15-18UT       2.00         1.67         1.00     
-18-21UT       2.67         2.33         1.33     
-21-00UT       2.67         2.00         2.00     
+             Nov 17       Nov 18       Nov 19
+00-03UT       2.33         1.67         1.67     
+03-06UT       2.67         2.00         1.67     
+06-09UT       2.33         1.33         2.00     
+09-12UT       2.00         1.00         2.33     
+12-15UT       2.00         0.67         2.00     
+15-18UT       1.67         1.00         3.33     
+18-21UT       2.33         1.33         4.00     
+21-00UT       2.00         2.00         4.67 (G1)
 
-Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
-significant transient or recurrent solar wind features are forecast.
+Rationale: G1 (Minor) geomagnetic storming is likely on 19 Nov with a
+CME that left the Sun on 16 Nov.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-16 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Nov 16-Nov 18 2023
+Solar Radiation Storm Forecast for Nov 17-Nov 19 2023
 
-              Nov 16  Nov 17  Nov 18
+              Nov 17  Nov 18  Nov 19
 S1 or greater    1%      1%      1%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -92,13 +92,13 @@ C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Nov 16-Nov 18 2023
+Radio Blackout Forecast for Nov 17-Nov 19 2023
 
-              Nov 16        Nov 17        Nov 18
-R1-R2           15%           15%           20%
+              Nov 17        Nov 18        Nov 19
+R1-R2           15%           20%           20%
 R3 or greater    1%            1%            1%
 
-Rationale: There is a slight chance for R1-R2 (Minor-Moderate) radio
-blackouts on 16-18 Nov.
+Rationale: There is a slight chance R1-R2 (Minor-Moderate) blackouts
+will be observed on 17-19 Nov.
 
 ```
