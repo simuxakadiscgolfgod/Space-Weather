@@ -1,11 +1,10 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2023-11-17
-<br />**This image is owned by:**  Dennis Lehtonen
-<br />**Title of the image:**  Nightlights in Qeqertaq
-<br />**Description for the image:**  Light pollution is usually not a problem in Qeqertaq. In western Greenland the remote coastal village boasted a population of 114 in 2020. Lights still shine in its dark skies though. During planet Earth's recent intense geomagnetic storm, on November 6 these beautiful curtains of aurora borealis fell over the arctic realm. On the eve of the coming weeks of polar night at 70 degrees north latitude, the inspiring display of northern lights is reflected in the waters of Disko Bay. In this view from the isolated settlement a lone iceberg is illuminated by shore lights as it drifts across the icy sea.  Weekend Watch: The Leonid Meteor Shower.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2311/lehtonen_dennisAuroraQeqertaq2.jpg
+<br />**Date image released:**  2023-11-18
+<br />**Title of the image:**  Planet Earth from Orion
+<br />**Description for the image:**  One year ago a Space Launch System rocket left planet Earth on November 16, 2022 at 1:47am EST carrying the Orion spacecraft on the Artemis I mission, the first integrated test of NASA’s deep space exploration systems. Over an hour after liftoff from Kennedy Space Center's historic Launch Complex 39B, one of Orion's external video cameras captured this view of its new perspective from space. In the foreground are Orion's Orbital Maneuvering System engine and auxillary engines, at the bottom of the European Service Module. Beyond one of the module's 7-meter long extended solar array wings lies the spacecraft's beautiful home world. Making close flybys of the lunar surface and reaching a retrograde orbit 70,000 kilometers beyond the Moon, the uncrewed Artemis I mission lasted over 25 days, testing capabilities to enable human exploration of the Moon and Mars. Building on the success of Artemis I, no earlier than November 2024 the Artemis II mission with a crew of 4 will venture around the Moon and back again.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2211/Orion_Spacecraft_Earth_Views_20221116-medium.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,39 +48,39 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2023 Nov 17 0030 UTC
+:Issued: 2023 Nov 18 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Nov 17-Nov 19 2023 is 4.67 (NOAA Scale
-G1).
+The greatest expected 3 hr Kp for Nov 18-Nov 20 2023 is 5.67 (NOAA Scale
+G2).
 
-NOAA Kp index breakdown Nov 17-Nov 19 2023
+NOAA Kp index breakdown Nov 18-Nov 20 2023
 
-             Nov 17       Nov 18       Nov 19
-00-03UT       2.33         1.67         1.67     
-03-06UT       2.67         2.00         1.67     
-06-09UT       2.33         1.33         2.00     
-09-12UT       2.00         1.00         2.33     
-12-15UT       2.00         0.67         2.00     
-15-18UT       1.67         1.00         3.33     
-18-21UT       2.33         1.33         4.00     
-21-00UT       2.00         2.00         4.67 (G1)
+             Nov 18       Nov 19       Nov 20
+00-03UT       1.67         1.67         5.67 (G2)
+03-06UT       2.00         1.33         5.00 (G1)
+06-09UT       1.33         1.33         3.67     
+09-12UT       1.00         1.67         2.67     
+12-15UT       0.67         1.67         3.00     
+15-18UT       1.00         2.33         2.67     
+18-21UT       1.33         3.33         2.67     
+21-00UT       2.00         5.67 (G2)    2.67     
 
-Rationale: G1 (Minor) geomagnetic storming is likely on 19 Nov with a
-CME that left the Sun on 16 Nov.
+Rationale: G1 (Minor) geomagnetic storms are likely on 19-20 Nov due to
+CME influences.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-16 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Nov 17-Nov 19 2023
+Solar Radiation Storm Forecast for Nov 18-Nov 20 2023
 
-              Nov 17  Nov 18  Nov 19
+              Nov 18  Nov 19  Nov 20
 S1 or greater    1%      1%      1%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -92,13 +91,13 @@ C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Nov 17-Nov 19 2023
+Radio Blackout Forecast for Nov 18-Nov 20 2023
 
-              Nov 17        Nov 18        Nov 19
-R1-R2           15%           20%           20%
+              Nov 18        Nov 19        Nov 20
+R1-R2           20%           20%           20%
 R3 or greater    1%            1%            1%
 
-Rationale: There is a slight chance R1-R2 (Minor-Moderate) blackouts
-will be observed on 17-19 Nov.
+Rationale: There is a slight chance for R1-R2 (Minor-Moderate) radio
+blackouts all three days.
 
 ```
