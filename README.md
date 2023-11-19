@@ -1,10 +1,13 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2023-11-18
-<br />**Title of the image:**  Planet Earth from Orion
-<br />**Description for the image:**  One year ago a Space Launch System rocket left planet Earth on November 16, 2022 at 1:47am EST carrying the Orion spacecraft on the Artemis I mission, the first integrated test of NASA’s deep space exploration systems. Over an hour after liftoff from Kennedy Space Center's historic Launch Complex 39B, one of Orion's external video cameras captured this view of its new perspective from space. In the foreground are Orion's Orbital Maneuvering System engine and auxillary engines, at the bottom of the European Service Module. Beyond one of the module's 7-meter long extended solar array wings lies the spacecraft's beautiful home world. Making close flybys of the lunar surface and reaching a retrograde orbit 70,000 kilometers beyond the Moon, the uncrewed Artemis I mission lasted over 25 days, testing capabilities to enable human exploration of the Moon and Mars. Building on the success of Artemis I, no earlier than November 2024 the Artemis II mission with a crew of 4 will venture around the Moon and back again.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2211/Orion_Spacecraft_Earth_Views_20221116-medium.jpg
+<br />**Date image released:**  2023-11-19
+<br />**This image is owned by:**  
+Mehmet Ergün
+
+<br />**Title of the image:**  Space Station, Solar Prominences, Sun
+<br />**Description for the image:**  That's no sunspot. It's the International Space Station (ISS) caught passing in front of the Sun. Sunspots, individually, have a dark central umbra, a lighter surrounding penumbra, and no Dragon capsules attached.  By contrast, the ISS is a complex and multi-spired mechanism, one of the largest and most complicated spacecraft ever created by humanity.  Also, sunspots circle the Sun, whereas the ISS orbits the Earth.  Transiting the Sun is not very unusual for the ISS, which orbits the Earth about every 90 minutes, but getting one's location, timing and equipment just right for a great image is rare.  The featured picture combined three images all taken in 2021 from the same location and at nearly the same time. One image -- overexposed -- captured the faint prominences seen across the top of the Sun, a second image -- underexposed -- captured the complex texture of the Sun's chromosphere, while the third image -- the hardest to get -- captured the space station as it shot across the Sun in a fraction of a second.  Close inspection of the space station's silhouette even reveals a docked Dragon Crew capsule.   Follow APOD on Instagram in: Arabic, English, Persian, Portuguese, and Taiwanese
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2311/IssSun_Ergun_1752.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -48,27 +51,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2023 Nov 18 0030 UTC
+:Issued: 2023 Nov 19 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 1 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Nov 18-Nov 20 2023 is 5.67 (NOAA Scale
-G2).
+The greatest expected 3 hr Kp for Nov 19-Nov 21 2023 is 5.00 (NOAA Scale
+G1).
 
-NOAA Kp index breakdown Nov 18-Nov 20 2023
+NOAA Kp index breakdown Nov 19-Nov 21 2023
 
-             Nov 18       Nov 19       Nov 20
-00-03UT       1.67         1.67         5.67 (G2)
-03-06UT       2.00         1.33         5.00 (G1)
-06-09UT       1.33         1.33         3.67     
-09-12UT       1.00         1.67         2.67     
-12-15UT       0.67         1.67         3.00     
-15-18UT       1.00         2.33         2.67     
-18-21UT       1.33         3.33         2.67     
-21-00UT       2.00         5.67 (G2)    2.67     
+             Nov 19       Nov 20       Nov 21
+00-03UT       1.67         5.00 (G1)    2.67     
+03-06UT       1.33         4.00         2.00     
+06-09UT       1.33         3.67         2.33     
+09-12UT       1.67         3.33         2.33     
+12-15UT       1.67         3.00         2.33     
+15-18UT       2.33         2.33         2.33     
+18-21UT       3.33         2.00         2.33     
+21-00UT       4.67 (G1)    3.00         2.67     
 
 Rationale: G1 (Minor) geomagnetic storms are likely on 19-20 Nov due to
 CME influences.
@@ -78,9 +81,9 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-16 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Nov 18-Nov 20 2023
+Solar Radiation Storm Forecast for Nov 19-Nov 21 2023
 
-              Nov 18  Nov 19  Nov 20
+              Nov 19  Nov 20  Nov 21
 S1 or greater    1%      1%      1%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -89,15 +92,16 @@ production is forecast.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-No radio blackouts were observed over the past 24 hours.
+Radio blackouts reaching the R1 levels were observed over the past 24
+hours. The largest was at Nov 18 2023 0542 UTC.
 
-Radio Blackout Forecast for Nov 18-Nov 20 2023
+Radio Blackout Forecast for Nov 19-Nov 21 2023
 
-              Nov 18        Nov 19        Nov 20
-R1-R2           20%           20%           20%
+              Nov 19        Nov 20        Nov 21
+R1-R2           25%           25%           25%
 R3 or greater    1%            1%            1%
 
-Rationale: There is a slight chance for R1-R2 (Minor-Moderate) radio
-blackouts all three days.
+Rationale: There is a chance for R1-R2 (Minor-Moderate) radio blackouts
+all three days.
 
 ```
