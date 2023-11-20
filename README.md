@@ -1,13 +1,18 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2023-11-19
+<br />**Date image released:**  2023-11-20
 <br />**This image is owned by:**  
-Mehmet Ergün
+Mark Hanson & 
+Martin Pugh,
+SSRO, 
+PROMPT, 
+CTIO,
+NSF
 
-<br />**Title of the image:**  Space Station, Solar Prominences, Sun
-<br />**Description for the image:**  That's no sunspot. It's the International Space Station (ISS) caught passing in front of the Sun. Sunspots, individually, have a dark central umbra, a lighter surrounding penumbra, and no Dragon capsules attached.  By contrast, the ISS is a complex and multi-spired mechanism, one of the largest and most complicated spacecraft ever created by humanity.  Also, sunspots circle the Sun, whereas the ISS orbits the Earth.  Transiting the Sun is not very unusual for the ISS, which orbits the Earth about every 90 minutes, but getting one's location, timing and equipment just right for a great image is rare.  The featured picture combined three images all taken in 2021 from the same location and at nearly the same time. One image -- overexposed -- captured the faint prominences seen across the top of the Sun, a second image -- underexposed -- captured the complex texture of the Sun's chromosphere, while the third image -- the hardest to get -- captured the space station as it shot across the Sun in a fraction of a second.  Close inspection of the space station's silhouette even reveals a docked Dragon Crew capsule.   Follow APOD on Instagram in: Arabic, English, Persian, Portuguese, and Taiwanese
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2311/IssSun_Ergun_1752.jpg
+<br />**Title of the image:**  The Horsehead Nebula
+<br />**Description for the image:**  Sculpted by stellar winds and radiation, a magnificent interstellar dust cloud by chance has assumed this recognizable shape.  Fittingly named the Horsehead Nebula, it is some 1,500 light-years distant, embedded in the vast Orion cloud complex. About five light-years "tall," the dark cloud is cataloged as Barnard 33 and is visible only because its obscuring dust is silhouetted against the glowing red emission nebula IC 434.  Stars are forming within the dark cloud. Contrasting blue reflection nebula NGC 2023, surrounding a hot, young star, is at the lower left of the full image.  The featured gorgeous color image combines both narrowband and broadband images recorded using several different telescopes.    New: Follow APOD on Telegram
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2311/Horsehead_Hanson_2604.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -51,39 +56,39 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2023 Nov 19 0030 UTC
+:Issued: 2023 Nov 20 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 1 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Nov 19-Nov 21 2023 is 5.00 (NOAA Scale
+The greatest expected 3 hr Kp for Nov 20-Nov 22 2023 is 5.00 (NOAA Scale
 G1).
 
-NOAA Kp index breakdown Nov 19-Nov 21 2023
+NOAA Kp index breakdown Nov 20-Nov 22 2023
 
-             Nov 19       Nov 20       Nov 21
-00-03UT       1.67         5.00 (G1)    2.67     
-03-06UT       1.33         4.00         2.00     
-06-09UT       1.33         3.67         2.33     
-09-12UT       1.67         3.33         2.33     
-12-15UT       1.67         3.00         2.33     
-15-18UT       2.33         2.33         2.33     
-18-21UT       3.33         2.00         2.33     
-21-00UT       4.67 (G1)    3.00         2.67     
+             Nov 20       Nov 21       Nov 22
+00-03UT       5.00 (G1)    2.67         2.00     
+03-06UT       4.00         2.00         3.00     
+06-09UT       3.67         2.33         4.00     
+09-12UT       3.33         2.33         3.00     
+12-15UT       3.00         2.33         2.00     
+15-18UT       2.33         2.33         2.00     
+18-21UT       2.00         2.33         4.00     
+21-00UT       3.00         2.67         3.00     
 
-Rationale: G1 (Minor) geomagnetic storms are likely on 19-20 Nov due to
-CME influences.
+Rationale: G1 (Minor) geomagnetic storms are likely on 20 Nov due to CME
+influences.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-16 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Nov 19-Nov 21 2023
+Solar Radiation Storm Forecast for Nov 20-Nov 22 2023
 
-              Nov 19  Nov 20  Nov 21
+              Nov 20  Nov 21  Nov 22
 S1 or greater    1%      1%      1%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -92,14 +97,13 @@ production is forecast.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-Radio blackouts reaching the R1 levels were observed over the past 24
-hours. The largest was at Nov 18 2023 0542 UTC.
+No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Nov 19-Nov 21 2023
+Radio Blackout Forecast for Nov 20-Nov 22 2023
 
-              Nov 19        Nov 20        Nov 21
-R1-R2           25%           25%           25%
-R3 or greater    1%            1%            1%
+              Nov 20        Nov 21        Nov 22
+R1-R2           40%           40%           40%
+R3 or greater    5%            5%            5%
 
 Rationale: There is a chance for R1-R2 (Minor-Moderate) radio blackouts
 all three days.
