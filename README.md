@@ -1,18 +1,13 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2023-11-20
+<br />**Date image released:**  2023-11-21
 <br />**This image is owned by:**  
-Mark Hanson & 
-Martin Pugh,
-SSRO, 
-PROMPT, 
-CTIO,
-NSF
+Cristiano Gualco
 
-<br />**Title of the image:**  The Horsehead Nebula
-<br />**Description for the image:**  Sculpted by stellar winds and radiation, a magnificent interstellar dust cloud by chance has assumed this recognizable shape.  Fittingly named the Horsehead Nebula, it is some 1,500 light-years distant, embedded in the vast Orion cloud complex. About five light-years "tall," the dark cloud is cataloged as Barnard 33 and is visible only because its obscuring dust is silhouetted against the glowing red emission nebula IC 434.  Stars are forming within the dark cloud. Contrasting blue reflection nebula NGC 2023, surrounding a hot, young star, is at the lower left of the full image.  The featured gorgeous color image combines both narrowband and broadband images recorded using several different telescopes.    New: Follow APOD on Telegram
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2311/Horsehead_Hanson_2604.jpg
+<br />**Title of the image:**  Fleming's Triangular Wisp
+<br />**Description for the image:**  These chaotic and tangled filaments of shocked, glowing gas are spread across planet Earth's sky toward the constellation of Cygnus as part of the Veil Nebula. The Veil Nebula itself is a large supernova remnant, an expanding cloud born of the death explosion of a massive star. Light from the original supernova explosion likely reached Earth over 5,000 years ago. The glowing filaments are really more like long ripples in a sheet seen almost edge on, remarkably well separated into the glow of ionized hydrogen atoms shown in red and oxygen in blue hues. Also known as the Cygnus Loop and cataloged as NGC 6979, the Veil Nebula now spans about 6 times the diameter of the full Moon. The length of the wisp corresponds to about 30 light years, given its estimated distance of 2,400 light years.  Often identified as Pickering's Triangle for a director of Harvard College Observatory, it is perhaps better named for its discoverer, astronomer Williamina Fleming, as Fleming's Triangular Wisp.   New: Follow APOD on Telegram
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2311/FlemingsWisp_Gualco_2801.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -56,39 +51,39 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2023 Nov 20 0030 UTC
+:Issued: 2023 Nov 21 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Nov 20-Nov 22 2023 is 5.00 (NOAA Scale
-G1).
+The greatest expected 3 hr Kp for Nov 21-Nov 23 2023 is 4.00 (below NOAA
+Scale levels).
 
-NOAA Kp index breakdown Nov 20-Nov 22 2023
+NOAA Kp index breakdown Nov 21-Nov 23 2023
 
-             Nov 20       Nov 21       Nov 22
-00-03UT       5.00 (G1)    2.67         2.00     
-03-06UT       4.00         2.00         3.00     
-06-09UT       3.67         2.33         4.00     
-09-12UT       3.33         2.33         3.00     
-12-15UT       3.00         2.33         2.00     
-15-18UT       2.33         2.33         2.00     
-18-21UT       2.00         2.33         4.00     
-21-00UT       3.00         2.67         3.00     
+             Nov 21       Nov 22       Nov 23
+00-03UT       1.00         2.00         3.00     
+03-06UT       1.33         3.67         3.67     
+06-09UT       2.00         3.00         3.00     
+09-12UT       1.67         2.67         2.67     
+12-15UT       2.67         2.00         2.33     
+15-18UT       3.00         2.00         1.67     
+18-21UT       3.67         4.00         2.67     
+21-00UT       3.67         3.00         1.67     
 
-Rationale: G1 (Minor) geomagnetic storms are likely on 20 Nov due to CME
-influences.
+Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
+significant transient or recurrent solar wind features are forecast.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-16 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Nov 20-Nov 22 2023
+Solar Radiation Storm Forecast for Nov 21-Nov 23 2023
 
-              Nov 20  Nov 21  Nov 22
+              Nov 21  Nov 22  Nov 23
 S1 or greater    1%      1%      1%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -97,15 +92,19 @@ production is forecast.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-No radio blackouts were observed over the past 24 hours.
+Radio blackouts reaching the R1 levels were observed over the past 24
+hours. The largest was at Nov 20 2023 0903 UTC.
 
-Radio Blackout Forecast for Nov 20-Nov 22 2023
+Radio Blackout Forecast for Nov 21-Nov 23 2023
 
-              Nov 20        Nov 21        Nov 22
+              Nov 21        Nov 22        Nov 23
 R1-R2           40%           40%           40%
 R3 or greater    5%            5%            5%
 
-Rationale: There is a chance for R1-R2 (Minor-Moderate) radio blackouts
-all three days.
+Rationale: A chance for R1-2 (Minor-Moderate) radio blackouts will
+persist through the forecast period as a complex of regions continues to
+rotate on the visible disk. Region 3489 continues to exhibit evolving,
+complex magnetic structure as well, adding to the likelihood of an
+event.
 
 ```
