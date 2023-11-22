@@ -1,13 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2023-11-21
-<br />**This image is owned by:**  
-Cristiano Gualco
-
-<br />**Title of the image:**  Fleming's Triangular Wisp
-<br />**Description for the image:**  These chaotic and tangled filaments of shocked, glowing gas are spread across planet Earth's sky toward the constellation of Cygnus as part of the Veil Nebula. The Veil Nebula itself is a large supernova remnant, an expanding cloud born of the death explosion of a massive star. Light from the original supernova explosion likely reached Earth over 5,000 years ago. The glowing filaments are really more like long ripples in a sheet seen almost edge on, remarkably well separated into the glow of ionized hydrogen atoms shown in red and oxygen in blue hues. Also known as the Cygnus Loop and cataloged as NGC 6979, the Veil Nebula now spans about 6 times the diameter of the full Moon. The length of the wisp corresponds to about 30 light years, given its estimated distance of 2,400 light years.  Often identified as Pickering's Triangle for a director of Harvard College Observatory, it is perhaps better named for its discoverer, astronomer Williamina Fleming, as Fleming's Triangular Wisp.   New: Follow APOD on Telegram
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2311/FlemingsWisp_Gualco_2801.jpg
+<br />**Date image released:**  2023-11-22
+<br />**This image is owned by:**  Steve Cannistra
+<br />**Title of the image:**  IC 342: Hidden Galaxy in Camelopardalis
+<br />**Description for the image:**  Similar in size to large, bright spiral galaxies in our neighborhood, IC 342 is a mere 10 million light-years distant in the long-necked, northern constellation Camelopardalis. A sprawling island universe, IC 342 would otherwise be a prominent galaxy in our night sky, but it is hidden from clear view and only glimpsed through the veil of stars, gas and dust clouds along the plane of our own Milky Way galaxy. Even though IC 342's light is dimmed and reddened by intervening cosmic clouds, this sharp telescopic image traces the galaxy's own obscuring dust, young star clusters, and glowing star forming regions along spiral arms that wind far from the galaxy's core. IC 342 has undergone a recent burst of star formation activity and is close enough to have gravitationally influenced the evolution of the local group of galaxies and the Milky Way.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2311/ic342asi294large.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -51,27 +49,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2023 Nov 21 0030 UTC
+:Issued: 2023 Nov 22 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Nov 21-Nov 23 2023 is 4.00 (below NOAA
+The greatest expected 3 hr Kp for Nov 22-Nov 24 2023 is 4.33 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Nov 21-Nov 23 2023
+NOAA Kp index breakdown Nov 22-Nov 24 2023
 
-             Nov 21       Nov 22       Nov 23
-00-03UT       1.00         2.00         3.00     
-03-06UT       1.33         3.67         3.67     
-06-09UT       2.00         3.00         3.00     
-09-12UT       1.67         2.67         2.67     
-12-15UT       2.67         2.00         2.33     
-15-18UT       3.00         2.00         1.67     
-18-21UT       3.67         4.00         2.67     
-21-00UT       3.67         3.00         1.67     
+             Nov 22       Nov 23       Nov 24
+00-03UT       4.33         3.00         2.67     
+03-06UT       3.67         3.67         2.33     
+06-09UT       2.67         3.00         2.00     
+09-12UT       2.67         2.67         1.67     
+12-15UT       2.00         2.33         1.67     
+15-18UT       2.00         1.67         2.33     
+18-21UT       2.33         2.67         2.33     
+21-00UT       2.67         1.67         2.33     
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
 significant transient or recurrent solar wind features are forecast.
@@ -81,9 +79,9 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-16 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Nov 21-Nov 23 2023
+Solar Radiation Storm Forecast for Nov 22-Nov 24 2023
 
-              Nov 21  Nov 22  Nov 23
+              Nov 22  Nov 23  Nov 24
 S1 or greater    1%      1%      1%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -92,19 +90,16 @@ production is forecast.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-Radio blackouts reaching the R1 levels were observed over the past 24
-hours. The largest was at Nov 20 2023 0903 UTC.
+No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Nov 21-Nov 23 2023
+Radio Blackout Forecast for Nov 22-Nov 24 2023
 
-              Nov 21        Nov 22        Nov 23
+              Nov 22        Nov 23        Nov 24
 R1-R2           40%           40%           40%
 R3 or greater    5%            5%            5%
 
 Rationale: A chance for R1-2 (Minor-Moderate) radio blackouts will
-persist through the forecast period as a complex of regions continues to
-rotate on the visible disk. Region 3489 continues to exhibit evolving,
-complex magnetic structure as well, adding to the likelihood of an
-event.
+persist through the forecast period primarily due to Region 3492s
+current size and magnetic structure (Dki/Beta-Gamma).
 
 ```
