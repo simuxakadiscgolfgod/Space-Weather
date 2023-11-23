@@ -1,11 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2023-11-22
-<br />**This image is owned by:**  Steve Cannistra
-<br />**Title of the image:**  IC 342: Hidden Galaxy in Camelopardalis
-<br />**Description for the image:**  Similar in size to large, bright spiral galaxies in our neighborhood, IC 342 is a mere 10 million light-years distant in the long-necked, northern constellation Camelopardalis. A sprawling island universe, IC 342 would otherwise be a prominent galaxy in our night sky, but it is hidden from clear view and only glimpsed through the veil of stars, gas and dust clouds along the plane of our own Milky Way galaxy. Even though IC 342's light is dimmed and reddened by intervening cosmic clouds, this sharp telescopic image traces the galaxy's own obscuring dust, young star clusters, and glowing star forming regions along spiral arms that wind far from the galaxy's core. IC 342 has undergone a recent burst of star formation activity and is close enough to have gravitationally influenced the evolution of the local group of galaxies and the Milky Way.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2311/ic342asi294large.jpg
+<br />**Date image released:**  2023-11-23
+<br />**This image is owned by:**  Yuexiao Shen
+<br />**Title of the image:**  Along the Taurus Molecular Cloud
+<br />**Description for the image:**  The cosmic brush of star formation composed this interstellar canvas of emission, dust, and dark nebulae. A 5 degree wide telescopic mosaic, it frames a region found north of bright star Aldebaran on the sky, at an inner wall of the local bubble along the Taurus molecular cloud. At lower left, emission cataloged as Sh2-239 shows signs of embedded young stellar objects. The region's Herbig-Haro objects, nebulosities associated with newly born stars, are marked by tell-tale reddish jets of shocked hydrogen gas. Above and right T Tauri, the prototype of the class of T Tauri variable stars, is next to a yellowish nebula historically known as Hind's Variable Nebula (NGC 1555). T Tauri stars are now generally recognized as young, less than a few million years old, sun-like stars still in the early stages of formation.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2311/ngc1555wide4096.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,27 +49,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2023 Nov 22 0030 UTC
+:Issued: 2023 Nov 23 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
-Scale levels).
-The greatest expected 3 hr Kp for Nov 22-Nov 24 2023 is 4.33 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 5 (NOAA Scale
+G1).
+The greatest expected 3 hr Kp for Nov 23-Nov 25 2023 is 4.00 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Nov 22-Nov 24 2023
+NOAA Kp index breakdown Nov 23-Nov 25 2023
 
-             Nov 22       Nov 23       Nov 24
-00-03UT       4.33         3.00         2.67     
-03-06UT       3.67         3.67         2.33     
-06-09UT       2.67         3.00         2.00     
-09-12UT       2.67         2.67         1.67     
-12-15UT       2.00         2.33         1.67     
-15-18UT       2.00         1.67         2.33     
-18-21UT       2.33         2.67         2.33     
-21-00UT       2.67         1.67         2.33     
+             Nov 23       Nov 24       Nov 25
+00-03UT       3.67         2.67         1.67     
+03-06UT       3.67         2.33         1.33     
+06-09UT       2.67         2.00         1.67     
+09-12UT       2.00         1.67         1.00     
+12-15UT       2.00         1.67         1.00     
+15-18UT       2.00         2.33         3.00     
+18-21UT       2.00         2.33         3.00     
+21-00UT       3.00         2.33         4.00     
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
 significant transient or recurrent solar wind features are forecast.
@@ -79,10 +79,10 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-16 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Nov 22-Nov 24 2023
+Solar Radiation Storm Forecast for Nov 23-Nov 25 2023
 
-              Nov 22  Nov 23  Nov 24
-S1 or greater    1%      1%      1%
+              Nov 23  Nov 24  Nov 25
+S1 or greater    5%      5%      5%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
 No significant active region activity favorable for radiation storm
@@ -92,14 +92,14 @@ C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Nov 22-Nov 24 2023
+Radio Blackout Forecast for Nov 23-Nov 25 2023
 
-              Nov 22        Nov 23        Nov 24
-R1-R2           40%           40%           40%
-R3 or greater    5%            5%            5%
+              Nov 23        Nov 24        Nov 25
+R1-R2           55%           55%           55%
+R3 or greater   10%           10%           10%
 
-Rationale: A chance for R1-2 (Minor-Moderate) radio blackouts will
-persist through the forecast period primarily due to Region 3492s
-current size and magnetic structure (Dki/Beta-Gamma).
+Rationale: R1-2 (Minor-Moderate) radio blackouts are likely, with a
+slight chance for an R3 (Strong) event, throughout the forecast period
+as Regions 3490 and 3492 continue to exhibit complex magnetic structure.
 
 ```
