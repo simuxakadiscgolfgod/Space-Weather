@@ -1,11 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2023-11-23
-<br />**This image is owned by:**  Yuexiao Shen
-<br />**Title of the image:**  Along the Taurus Molecular Cloud
-<br />**Description for the image:**  The cosmic brush of star formation composed this interstellar canvas of emission, dust, and dark nebulae. A 5 degree wide telescopic mosaic, it frames a region found north of bright star Aldebaran on the sky, at an inner wall of the local bubble along the Taurus molecular cloud. At lower left, emission cataloged as Sh2-239 shows signs of embedded young stellar objects. The region's Herbig-Haro objects, nebulosities associated with newly born stars, are marked by tell-tale reddish jets of shocked hydrogen gas. Above and right T Tauri, the prototype of the class of T Tauri variable stars, is next to a yellowish nebula historically known as Hind's Variable Nebula (NGC 1555). T Tauri stars are now generally recognized as young, less than a few million years old, sun-like stars still in the early stages of formation.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2311/ngc1555wide4096.jpg
+<br />**Date image released:**  2023-11-24
+<br />**This image is owned by:**  Marco Lorenzi
+<br />**Title of the image:**  Stereo Jupiter near Opposition
+<br />**Description for the image:**  Jupiter looks sharp in these two rooftop telescope images. Both were captured on November 17 from Singapore, planet Earth, about two weeks after Jupiter's 2023 opposition. Climbing high in midnight skies the giant planet was a mere 33.4 light-minutes from Singapore. That's about 4 astronomical units away. Jupiter's planet girdling dark belts and light zones are visible in remarkable detail, along with the giant world's whitish oval vortices. Its signature Great Red Spot is still prominent in the south. Jupiter rotates rapidly on its axis once every 10 hours. So, based on video frames taken only 15 minutes apart, these images form a stereo pair. Look at the center of the pair and cross your eyes until the separate images come together to see the Solar System's ruling gas giant in 3D.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2311/2023-11-17-1617_1632-Jupiter_Stereo.png
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,27 +49,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2023 Nov 23 0030 UTC
+:Issued: 2023 Nov 24 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 5 (NOAA Scale
-G1).
-The greatest expected 3 hr Kp for Nov 23-Nov 25 2023 is 4.00 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
+Scale levels).
+The greatest expected 3 hr Kp for Nov 24-Nov 26 2023 is 4.00 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Nov 23-Nov 25 2023
+NOAA Kp index breakdown Nov 24-Nov 26 2023
 
-             Nov 23       Nov 24       Nov 25
-00-03UT       3.67         2.67         1.67     
-03-06UT       3.67         2.33         1.33     
-06-09UT       2.67         2.00         1.67     
-09-12UT       2.00         1.67         1.00     
-12-15UT       2.00         1.67         1.00     
-15-18UT       2.00         2.33         3.00     
-18-21UT       2.00         2.33         3.00     
-21-00UT       3.00         2.33         4.00     
+             Nov 24       Nov 25       Nov 26
+00-03UT       2.67         1.67         3.00     
+03-06UT       2.33         1.33         3.00     
+06-09UT       2.00         1.67         3.00     
+09-12UT       1.67         1.00         4.00     
+12-15UT       1.67         1.00         3.00     
+15-18UT       2.33         3.00         3.00     
+18-21UT       2.33         3.00         3.33     
+21-00UT       2.33         4.00         3.67     
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
 significant transient or recurrent solar wind features are forecast.
@@ -79,9 +79,9 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-16 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Nov 23-Nov 25 2023
+Solar Radiation Storm Forecast for Nov 24-Nov 26 2023
 
-              Nov 23  Nov 24  Nov 25
+              Nov 24  Nov 25  Nov 26
 S1 or greater    5%      5%      5%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -90,16 +90,16 @@ production is forecast.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-No radio blackouts were observed over the past 24 hours.
+Radio blackouts reaching the R1 levels were observed over the past 24
+hours. The largest was at Nov 23 2023 0338 UTC.
 
-Radio Blackout Forecast for Nov 23-Nov 25 2023
+Radio Blackout Forecast for Nov 24-Nov 26 2023
 
-              Nov 23        Nov 24        Nov 25
-R1-R2           55%           55%           55%
+              Nov 24        Nov 25        Nov 26
+R1-R2           60%           60%           60%
 R3 or greater   10%           10%           10%
 
-Rationale: R1-2 (Minor-Moderate) radio blackouts are likely, with a
-slight chance for an R3 (Strong) event, throughout the forecast period
-as Regions 3490 and 3492 continue to exhibit complex magnetic structure.
+Rationale: R1-R2 (Minor-Moderate) radio blackouts are likely, with a
+slight chance for an R3 (Strong) event, throughout the forecast period.
 
 ```
