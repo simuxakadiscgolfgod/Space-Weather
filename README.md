@@ -1,11 +1,10 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2023-11-25
-<br />**This image is owned by:**  Victor Lima
-<br />**Title of the image:**  Little Planet Aurora
-<br />**Description for the image:**  Immersed in an eerie greenish light, this rugged little planet appears to be home to stunning water falls and an impossibly tall mountain. It's planet Earth of course. On the night of November 9 the nadir-centered 360 degree mosaic was captured by digital camera from the Kirkjufell mountain area of western Iceland. Curtains of shimmering Aurora Borealis or Northern Lights provide the pale greenish illumination. The intense auroral display was caused by solar activity that rocked Earth's magnetosphere in early November and produced strong geomagnetic storms. Kirkjufell mountain itself stands at the top of the stereographic projection's circular horizon. Northern hemisphere skygazers will recognize the familiar stars of the Big Dipper just above Kirkjufell's peak. At lower right the compact Pleiades star cluster and truly giant planet Jupiter also shine in this little planet's night sky.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2311/Kirkjufell2023Nov9_2048.jpg
+<br />**Date image released:**  2023-11-26
+<br />**Title of the image:**  A Dust Jet from the Surface of Comet 67P
+<br />**Description for the image:**  Where do comet tails come from?  There are no obvious places on the nuclei of comets from which the jets that create comet tails emanate.  In 2016, though, ESA's Rosetta spacecraft not only imaged a jet emerging from Comet 67P/Churyumov-Gerasimenko, but flew right through it.  Featured is a telling picture showing a bright plume emerging from a small circular dip bounded on one side by a 10-meter high wall.  Analyses of Rosetta data show that the jet was composed of both dust and water-ice. The rugged but otherwise unremarkable terrain indicates that something likely happened far under the porous surface to create the plume.  This image was taken about two months before Rosetta's mission ended with a controlled impact onto Comet 67P's surface.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2311/Jet67P_Rosetta_2048.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,60 +48,58 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2023 Nov 25 0030 UTC
+:Issued: 2023 Nov 26 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
-Scale levels).
-The greatest expected 3 hr Kp for Nov 25-Nov 27 2023 is 5.00 (NOAA Scale
+The greatest observed 3 hr Kp over the past 24 hours was 6 (NOAA Scale
+G2).
+The greatest expected 3 hr Kp for Nov 26-Nov 28 2023 is 5.00 (NOAA Scale
 G1).
 
-NOAA Kp index breakdown Nov 25-Nov 27 2023
+NOAA Kp index breakdown Nov 26-Nov 28 2023
 
-             Nov 25       Nov 26       Nov 27
-00-03UT       1.67         2.00         4.00     
-03-06UT       1.33         2.00         4.00     
-06-09UT       1.67         4.00         3.00     
-09-12UT       1.00         3.00         2.00     
-12-15UT       1.00         4.00         3.00     
-15-18UT       3.00         3.00         2.00     
-18-21UT       3.00         5.00 (G1)    2.00     
-21-00UT       4.00         3.00         3.00     
+             Nov 26       Nov 27       Nov 28
+00-03UT       4.00         4.00         3.00     
+03-06UT       5.00 (G1)    4.00         2.67     
+06-09UT       3.00         3.00         2.33     
+09-12UT       2.00         2.00         2.00     
+12-15UT       4.00         3.00         2.00     
+15-18UT       3.00         2.00         1.33     
+18-21UT       5.00 (G1)    2.00         1.33     
+21-00UT       3.00         3.00         1.67     
 
-Rationale: G1 (Minor) geomagnetic storms are likely on 26 Nov due to the
-combined influence from a positive polarity CH HSS and the periphery of
-a CME that left the Sun late on 22 Nov.
+Rationale: G1 (Minor) geomagnetic storm levels are expected on 26 Nov
+due to the combined influence from a positive polarity CH HSS and the
+periphery of a CME that left the Sun late on 22 Nov.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-16 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Nov 25-Nov 27 2023
+Solar Radiation Storm Forecast for Nov 26-Nov 28 2023
 
-              Nov 25  Nov 26  Nov 27
-S1 or greater   10%     10%     10%
+              Nov 26  Nov 27  Nov 28
+S1 or greater    5%      5%      5%
 
-Rationale: A slight chance for S1 (Minor) or greater solar radiation
-storms exists due to the flare potential from multiple regions on the
-visible disk.
+Rationale: No S1 (Minor) or greater solar radiation storms are expected.
+No significant active region activity favorable for radiation storm
+production is forecast.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-Radio blackouts reaching the R1 levels were observed over the past 24
-hours. The largest was at Nov 24 2023 0933 UTC.
+No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Nov 25-Nov 27 2023
+Radio Blackout Forecast for Nov 26-Nov 28 2023
 
-              Nov 25        Nov 26        Nov 27
-R1-R2           60%           60%           60%
-R3 or greater   10%           10%           10%
+              Nov 26        Nov 27        Nov 28
+R1-R2           40%           40%           40%
+R3 or greater    5%            5%            5%
 
-Rationale: R1-R2 (Minor-Moderate) radio blackouts are likely, with a
-slight chance for an R3 (Strong) event, throughout the forecast period.
-This is due to the flare potential from multiple regions on the visible
-disk.
+Rationale: A chance for R1-R2 (Minor-Moderate) radio blackouts are
+likely throughout the forecast period. This is due to the flare
+potential from multiple regions on the visible disk.
 
 ```
