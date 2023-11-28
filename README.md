@@ -1,13 +1,16 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2023-11-27
+<br />**Date image released:**  2023-11-28
 <br />**This image is owned by:**  
-Vikas Chander
+NASA/JPL-Caltech/SwRI/MSSS;
+Processing & 
+License:
+Kevin M. Gill;
 
-<br />**Title of the image:**  LBN 86: The Eagle Ray Nebula
-<br />**Description for the image:**  This eagle ray glides across a cosmic sea.  Officially cataloged as SH2-63 and LBN 86, the dark nebula is composed of gas and dust that just happens to appear shaped like a common ocean fish.  The interstellar dust nebula appears light brown as it blocks and reddens visible light emitted behind it. Dark nebulas glow primarily in infrared light, but also reflect visible light from surrounding stars. The dust in dark nebulas is usually sub-millimeter chunks of carbon, silicon, and oxygen, frequently coated with frozen carbon monoxide and nitrogen.  Dark nebulas are also known as molecular clouds because they also contain relatively high amounts of molecular hydrogen and larger molecules. Previously unnamed, the here dubbed Eagle Ray Nebula is normally quite dim but has been imaged clearly over 20-hours through dark skies in Chile.    Follow APOD on: Discord
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2311/EagleRay_Chander_3277.jpg
+<br />**Title of the image:**  Ganymede from Juno
+<br />**Description for the image:**  What does the largest moon in the Solar System look like?  Jupiter's moon Ganymede, larger than even Mercury and Pluto, has an icy surface speckled with bright young craters overlying a mixture of older, darker, more cratered terrain laced with grooves and ridges.  The cause of the grooved terrain remains a topic of research, with a leading hypothesis relating it to shifting ice plates.  Ganymede is thought to have an ocean layer that contains more water than Earth -- and might contain life.  Like Earth's Moon, Ganymede keeps the same face towards its central planet, in this case Jupiter.  The featured image was captured in 2021 by NASA's robotic Juno spacecraft when it passed by the immense moon.  The close pass reduced Juno's orbital period around Jupiter from 53 days to 43 days.  Juno continues to study the giant planet's high gravity, unusual magnetic field, and complex cloud structures.    Follow Podcasts about APOD's Images: on YouTube
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2311/Ganymede2_JunoGill_3445.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -51,39 +54,39 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2023 Nov 27 0030 UTC
+:Issued: 2023 Nov 28 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Nov 27-Nov 29 2023 is 4.00 (below NOAA
-Scale levels).
+The greatest expected 3 hr Kp for Nov 28-Nov 30 2023 is 5.33 (NOAA Scale
+G1).
 
-NOAA Kp index breakdown Nov 27-Nov 29 2023
+NOAA Kp index breakdown Nov 28-Nov 30 2023
 
-             Nov 27       Nov 28       Nov 29
-00-03UT       2.67         3.00         1.67     
-03-06UT       4.00         2.00         1.67     
-06-09UT       2.00         2.33         1.33     
-09-12UT       3.00         2.00         1.33     
-12-15UT       2.00         2.00         1.33     
-15-18UT       1.00         1.33         1.33     
-18-21UT       1.00         1.33         1.33     
-21-00UT       2.00         1.67         1.67     
+             Nov 28       Nov 29       Nov 30
+00-03UT       2.67         1.67         5.00 (G1)
+03-06UT       1.67         2.00         5.33 (G1)
+06-09UT       1.67         1.33         4.67 (G1)
+09-12UT       1.33         1.33         4.00     
+12-15UT       1.33         2.00         3.33     
+15-18UT       1.33         2.33         3.00     
+18-21UT       1.33         2.67         3.33     
+21-00UT       1.33         4.00         3.67     
 
-Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
-significant transient or recurrent solar wind features are forecast.
+Rationale: G1 (Minor) geomagnetic storming is likely, with a chance for
+an isolated G2 (Moderate) period, 30 Nov as CME effects continue.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-16 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Nov 27-Nov 29 2023
+Solar Radiation Storm Forecast for Nov 28-Nov 30 2023
 
-              Nov 27  Nov 28  Nov 29
+              Nov 28  Nov 29  Nov 30
 S1 or greater    5%      5%      5%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -94,13 +97,13 @@ C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Nov 27-Nov 29 2023
+Radio Blackout Forecast for Nov 28-Nov 30 2023
 
-              Nov 27        Nov 28        Nov 29
+              Nov 28        Nov 29        Nov 30
 R1-R2           35%           35%           35%
 R3 or greater    5%            5%            5%
 
-Rationale: A chance for R1-R2 (Minor-Moderate) radio blackouts are
-likely throughout the forecast period.
+Rationale: There is a chance for isolated R1-R2 (Minor-Moderate) radio
+blackouts through 30 Nov.
 
 ```
