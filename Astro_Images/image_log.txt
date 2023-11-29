@@ -1,10 +1,7 @@
-<br />**Date image released:**  2023-11-28
+<br />**Date image released:**  2023-11-29
 <br />**This image is owned by:**  
-NASA/JPL-Caltech/SwRI/MSSS;
-Processing & 
-License:
-Kevin M. Gill;
+Brad Hannon
 
-<br />**Title of the image:**  Ganymede from Juno
-<br />**Description for the image:**  What does the largest moon in the Solar System look like?  Jupiter's moon Ganymede, larger than even Mercury and Pluto, has an icy surface speckled with bright young craters overlying a mixture of older, darker, more cratered terrain laced with grooves and ridges.  The cause of the grooved terrain remains a topic of research, with a leading hypothesis relating it to shifting ice plates.  Ganymede is thought to have an ocean layer that contains more water than Earth -- and might contain life.  Like Earth's Moon, Ganymede keeps the same face towards its central planet, in this case Jupiter.  The featured image was captured in 2021 by NASA's robotic Juno spacecraft when it passed by the immense moon.  The close pass reduced Juno's orbital period around Jupiter from 53 days to 43 days.  Juno continues to study the giant planet's high gravity, unusual magnetic field, and complex cloud structures.    Follow Podcasts about APOD's Images: on YouTube
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2311/Ganymede2_JunoGill_3445.jpg
+<br />**Title of the image:**  A Landspout Tornado over Kansas
+<br />**Description for the image:**  Could there be a tornado inside another tornado? In general, no.  OK, but could there be a tornado inside a wider dust devil? No again, for one reason because tornados comes down from the sky, but dust devils rise up from the ground. What is pictured is a landspout, an unusual type of tornado known to occur on the edge of a violent thunderstorm. The featured landspout was imaged and identified in Kansas, USA, in June 2019 by an experienced storm chaser.  The real tornado is in the center, and the outer sheath was possibly created by large dust particles thrown out from the central tornado. So far, the only planet known to create tornados is Earth, although tornado-like activity has been found on the Sun and dust devils are common on Mars.   Almost Hyperspace: Random APOD Generator
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2311/LowerLandspout_Hannon_960.jpg

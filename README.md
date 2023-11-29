@@ -1,16 +1,13 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2023-11-28
+<br />**Date image released:**  2023-11-29
 <br />**This image is owned by:**  
-NASA/JPL-Caltech/SwRI/MSSS;
-Processing & 
-License:
-Kevin M. Gill;
+Brad Hannon
 
-<br />**Title of the image:**  Ganymede from Juno
-<br />**Description for the image:**  What does the largest moon in the Solar System look like?  Jupiter's moon Ganymede, larger than even Mercury and Pluto, has an icy surface speckled with bright young craters overlying a mixture of older, darker, more cratered terrain laced with grooves and ridges.  The cause of the grooved terrain remains a topic of research, with a leading hypothesis relating it to shifting ice plates.  Ganymede is thought to have an ocean layer that contains more water than Earth -- and might contain life.  Like Earth's Moon, Ganymede keeps the same face towards its central planet, in this case Jupiter.  The featured image was captured in 2021 by NASA's robotic Juno spacecraft when it passed by the immense moon.  The close pass reduced Juno's orbital period around Jupiter from 53 days to 43 days.  Juno continues to study the giant planet's high gravity, unusual magnetic field, and complex cloud structures.    Follow Podcasts about APOD's Images: on YouTube
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2311/Ganymede2_JunoGill_3445.jpg
+<br />**Title of the image:**  A Landspout Tornado over Kansas
+<br />**Description for the image:**  Could there be a tornado inside another tornado? In general, no.  OK, but could there be a tornado inside a wider dust devil? No again, for one reason because tornados comes down from the sky, but dust devils rise up from the ground. What is pictured is a landspout, an unusual type of tornado known to occur on the edge of a violent thunderstorm. The featured landspout was imaged and identified in Kansas, USA, in June 2019 by an experienced storm chaser.  The real tornado is in the center, and the outer sheath was possibly created by large dust particles thrown out from the central tornado. So far, the only planet known to create tornados is Earth, although tornado-like activity has been found on the Sun and dust devils are common on Mars.   Almost Hyperspace: Random APOD Generator
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2311/LowerLandspout_Hannon_960.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -54,56 +51,61 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2023 Nov 28 0030 UTC
+:Issued: 2023 Nov 29 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Nov 28-Nov 30 2023 is 5.33 (NOAA Scale
-G1).
+The greatest expected 3 hr Kp for Nov 29-Dec 01 2023 is 5.67 (NOAA Scale
+G2).
 
-NOAA Kp index breakdown Nov 28-Nov 30 2023
+NOAA Kp index breakdown Nov 29-Dec 01 2023
 
-             Nov 28       Nov 29       Nov 30
-00-03UT       2.67         1.67         5.00 (G1)
-03-06UT       1.67         2.00         5.33 (G1)
-06-09UT       1.67         1.33         4.67 (G1)
-09-12UT       1.33         1.33         4.00     
-12-15UT       1.33         2.00         3.33     
-15-18UT       1.33         2.33         3.00     
-18-21UT       1.33         2.67         3.33     
-21-00UT       1.33         4.00         3.67     
+             Nov 29       Nov 30       Dec 01
+00-03UT       1.67         5.00 (G1)    5.00 (G1)
+03-06UT       2.00         5.33 (G1)    5.67 (G2)
+06-09UT       1.33         4.67 (G1)    5.00 (G1)
+09-12UT       1.33         4.00         4.33     
+12-15UT       2.00         3.33         4.00     
+15-18UT       2.33         3.00         3.00     
+18-21UT       2.67         3.33         3.33     
+21-00UT       4.00         3.67         3.67     
 
 Rationale: G1 (Minor) geomagnetic storming is likely, with a chance for
-an isolated G2 (Moderate) period, 30 Nov as CME effects continue.
+an isolated G2 (Moderate) period, on 30 Nov as the 27 Nov CME effects
+continue. By 01 Dec, G2 (Moderate) conditions are likely with the
+anticipated arrival of the late 27 Nov/early 28 Nov CMEs.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-16 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Nov 28-Nov 30 2023
+Solar Radiation Storm Forecast for Nov 29-Dec 01 2023
 
-              Nov 28  Nov 29  Nov 30
-S1 or greater    5%      5%      5%
+              Nov 29  Nov 30  Dec 01
+S1 or greater   10%     10%     10%
 
-Rationale: No S1 (Minor) or greater solar radiation storms are expected.
-No significant active region activity favorable for radiation storm
-production is forecast.
+Rationale: The greater than 10 MeV proton flux may experience a slight
+enhancement on 29 Nov due to the event produced by AR 3500 on the 28
+Nov. Otherwise, background levels are expected to persist through 01
+Dec.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-No radio blackouts were observed over the past 24 hours.
+Radio blackouts reaching the R2 levels were observed over the past 24
+hours. The largest was at Nov 28 2023 1950 UTC.
 
-Radio Blackout Forecast for Nov 28-Nov 30 2023
+Radio Blackout Forecast for Nov 29-Dec 01 2023
 
-              Nov 28        Nov 29        Nov 30
-R1-R2           35%           35%           35%
-R3 or greater    5%            5%            5%
+              Nov 29        Nov 30        Dec 01
+R1-R2           40%           40%           40%
+R3 or greater   10%           10%           10%
 
-Rationale: There is a chance for isolated R1-R2 (Minor-Moderate) radio
-blackouts through 30 Nov.
+Rationale: There is a chance for isolated R1-R2 (Minor-Moderate) and a
+slight chance for Strong (R3) radio blackouts through 01 Dec primarily
+due to AR 3500.
 
 ```
