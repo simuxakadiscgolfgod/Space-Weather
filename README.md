@@ -1,10 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2023-11-30
-<br />**Title of the image:**  Artemis 1: Flight Day 13
-<br />**Description for the image:**  On flight day 13 (November 28, 2022) of the Artemis I mission, the Orion spacecraft reached its maximum distance from its home world. Over 430,000 kilometers from Earth in a distant retrograde orbit, Orion surpassed the record for most distant spacecraft designed to carry humans. That record was previously set in 1970 during the Apollo 13 mission to the Moon. Both Earth and Moon are in the same field of view in this video frame from Orion on Artemis I mission flight day 13. The planet and its large natural satellite even appear about the same apparent size from the uncrewed spacecraft's perspective.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2311/art001e000672-orig.jpg
+<br />**Date image released:**  2023-12-01
+<br />**This image is owned by:**  José Rodrigues
+<br />**Title of the image:**  Milky Way Rising
+<br />**Description for the image:**  The core of the Milky Way is rising beyond the Chilean mountain-top La Silla Observatory in this deep night skyscape. Seen toward the constellation Sagittarius, our home galaxy's center is flanked on the left, by the European Southern Observatory's New Technology Telescope which pioneered the use of active optics to accurately control the shape of large telescope mirrors. To the right stands the ESO 3.6-meter Telescope, home of the exoplanet hunting HARPS and NIRPS spectrographs. Between them, the galaxy's central bulge is filled with obscuring clouds of interstellar dust, bright stars, clusters, and nebulae. Prominent reddish hydrogen emission from the star-forming Lagoon Nebula, M8, is near center. The Trifid Nebula, M20, combines blue light of a dusty reflection nebula with reddish emission just left of the cosmic Lagoon. Both are popular stops on telescopic tours of the galactic center. The composited image is a stack of separate exposures for ground and sky made in April 2023, all captured consecutively with the same framing and camera equipment.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2312/_MG_2485-mod_APOD.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -48,62 +49,60 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2023 Nov 30 0030 UTC
+:Issued: 2023 Dec 01 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Nov 30-Dec 02 2023 is 7.00 (NOAA Scale
+The greatest expected 3 hr Kp for Dec 01-Dec 03 2023 is 7.00 (NOAA Scale
 G3).
 
-NOAA Kp index breakdown Nov 30-Dec 02 2023
+NOAA Kp index breakdown Dec 01-Dec 03 2023
 
-             Nov 30       Dec 01       Dec 02
-00-03UT       4.33         5.00 (G1)    5.00 (G1)
-03-06UT       5.00 (G1)    6.00 (G2)    4.33     
-06-09UT       5.00 (G1)    7.00 (G3)    4.67 (G1)
-09-12UT       4.00         5.33 (G1)    2.33     
-12-15UT       3.33         4.67 (G1)    2.67     
-15-18UT       3.00         4.33         2.33     
-18-21UT       3.33         3.33         3.00     
-21-00UT       4.33         4.00         3.00     
+             Dec 01       Dec 02       Dec 03
+00-03UT       5.00 (G1)    5.00 (G1)    2.33     
+03-06UT       6.00 (G2)    4.33         2.67     
+06-09UT       7.00 (G3)    4.67 (G1)    2.00     
+09-12UT       5.33 (G1)    2.33         2.00     
+12-15UT       4.67 (G1)    2.67         2.67     
+15-18UT       4.33         2.33         2.67     
+18-21UT       3.33         3.00         2.67     
+21-00UT       4.00         3.00         2.67     
 
-Rationale: G1 (Minor) geomagnetic storming is likely, with a chance for
-an isolated G2 (Moderate) period, on 30 Nov as glancing CME effects from
-the 27 Nov filament eruption begin. Isolated G3 (Strong) geomagnetic
-storming is likely 01 Dec as the CMEs from late 28 Nov, coupled with the
-asymmetric halo event of 28 Nov, combine and arrive at Earth. Any CME
-effects, although weakening, are likely to continue into the early
-portions of 02 Dec providing G1 (Minor) geomagnetic storming conditions.
+Rationale: Geomagnetic storm levels are likely to begin early on 01 Dec,
+with G1-G3 (Minor-Strong) levels anticipated due to CME arrival and
+associated effects. Active to G1 conditions are likely on 02 Dec as CME
+progression continues, but weakens.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-16 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Nov 30-Dec 02 2023
+Solar Radiation Storm Forecast for Dec 01-Dec 03 2023
 
-              Nov 30  Dec 01  Dec 02
-S1 or greater   15%     15%     20%
+              Dec 01  Dec 02  Dec 03
+S1 or greater   15%     15%     15%
 
-Rationale: A slight chance for an S1 (Minor) solar radiation event will
-persist through 02 Dec as AR 3500 continues to grow and trek west on the
-solar disk.
+Rationale: The greater than 10 MeV proton flux is expected to remain at
+background, however, there is a slight chance of a S1 (Minor) event due
+to the slight risk of a solar energetic proton event from Region 3500
+all three days.
 
 C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Nov 30-Dec 02 2023
+Radio Blackout Forecast for Dec 01-Dec 03 2023
 
-              Nov 30        Dec 01        Dec 02
-R1-R2           40%           40%           40%
+              Dec 01        Dec 02        Dec 03
+R1-R2           35%           35%           35%
 R3 or greater   10%           10%           10%
 
-Rationale: A chance continues for isolated R1-R2 (Minor-Moderate) and a
-slight chance for (R3) Strong radio blackouts through 02 Dec, primarily
-due to AR 3500.
+Rationale: There is a chance for R1-R2 (Minor-Moderate) and a slight
+chance of an isolated R3 (Strong) radio blackouts on 01-03 Dec primarily
+due to the flare probability of Region 3500.
 
 ```
