@@ -1,11 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2023-12-01
-<br />**This image is owned by:**  José Rodrigues
-<br />**Title of the image:**  Milky Way Rising
-<br />**Description for the image:**  The core of the Milky Way is rising beyond the Chilean mountain-top La Silla Observatory in this deep night skyscape. Seen toward the constellation Sagittarius, our home galaxy's center is flanked on the left, by the European Southern Observatory's New Technology Telescope which pioneered the use of active optics to accurately control the shape of large telescope mirrors. To the right stands the ESO 3.6-meter Telescope, home of the exoplanet hunting HARPS and NIRPS spectrographs. Between them, the galaxy's central bulge is filled with obscuring clouds of interstellar dust, bright stars, clusters, and nebulae. Prominent reddish hydrogen emission from the star-forming Lagoon Nebula, M8, is near center. The Trifid Nebula, M20, combines blue light of a dusty reflection nebula with reddish emission just left of the cosmic Lagoon. Both are popular stops on telescopic tours of the galactic center. The composited image is a stack of separate exposures for ground and sky made in April 2023, all captured consecutively with the same framing and camera equipment.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2312/_MG_2485-mod_APOD.jpg
+<br />**Date image released:**  2023-12-02
+<br />**This image is owned by:**  Jeff Dai
+<br />**Title of the image:**  Startrails over Beijing Ancient Observatory
+<br />**Description for the image:**  You can take a subway ride to visit this observatory in Beijing, China but you won't find any telescopes there. Starting in the 1400s astronomers erected devices at the Beijing Ancient Observatory site to enable them to accurately measure and track the positions of naked-eye stars and planets. Some of the large, ornate astronomical instruments are still standing. You can even see stars from the star observation platform today, but now only the very brightest celestial beacons are visible against the city lights. In this time series of exposures from a camera fixed to a tripod to record graceful arcing startrails, the brightest trail is actually the Moon. Its broad arc is seen behind the ancient observatory's brass armillary sphere. Compare this picture from the Beijing Ancient Observatory taken in September 2023 to one taken in 1895.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2312/StartrailsBeijingAncientObservatory-3.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,60 +49,57 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2023 Dec 01 0030 UTC
+:Issued: 2023 Dec 02 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
-Scale levels).
-The greatest expected 3 hr Kp for Dec 01-Dec 03 2023 is 7.00 (NOAA Scale
+The greatest observed 3 hr Kp over the past 24 hours was 7 (NOAA Scale
 G3).
+The greatest expected 3 hr Kp for Dec 02-Dec 04 2023 is 5.67 (NOAA Scale
+G2).
 
-NOAA Kp index breakdown Dec 01-Dec 03 2023
+NOAA Kp index breakdown Dec 02-Dec 04 2023
 
-             Dec 01       Dec 02       Dec 03
-00-03UT       5.00 (G1)    5.00 (G1)    2.33     
-03-06UT       6.00 (G2)    4.33         2.67     
-06-09UT       7.00 (G3)    4.67 (G1)    2.00     
-09-12UT       5.33 (G1)    2.33         2.00     
-12-15UT       4.67 (G1)    2.67         2.67     
-15-18UT       4.33         2.33         2.67     
-18-21UT       3.33         3.00         2.67     
-21-00UT       4.00         3.00         2.67     
+             Dec 02       Dec 03       Dec 04
+00-03UT       5.00 (G1)    2.33         2.67     
+03-06UT       5.67 (G2)    2.67         4.00     
+06-09UT       4.67 (G1)    2.00         4.33     
+09-12UT       3.67         2.00         5.67 (G2)
+12-15UT       2.67         2.67         4.67 (G1)
+15-18UT       2.33         2.67         4.00     
+18-21UT       3.00         2.67         3.33     
+21-00UT       3.00         2.67         4.67 (G1)
 
-Rationale: Geomagnetic storm levels are likely to begin early on 01 Dec,
-with G1-G3 (Minor-Strong) levels anticipated due to CME arrival and
-associated effects. Active to G1 conditions are likely on 02 Dec as CME
-progression continues, but weakens.
-
+Rationale: G1-G2 (Minor-Moderate) geomagnetic storms are expected on 02
+Dec due to CME activity, and are likely on 04 Dec due to CH HSS
+influences.
+ 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-16 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Dec 01-Dec 03 2023
+Solar Radiation Storm Forecast for Dec 02-Dec 04 2023
 
-              Dec 01  Dec 02  Dec 03
-S1 or greater   15%     15%     15%
+              Dec 02  Dec 03  Dec 04
+S1 or greater   10%     10%     10%
 
-Rationale: The greater than 10 MeV proton flux is expected to remain at
-background, however, there is a slight chance of a S1 (Minor) event due
-to the slight risk of a solar energetic proton event from Region 3500
-all three days.
+Rationale: There is a slight chance for S1 (Minor) radiation storms over
+02-04 Dec.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-No radio blackouts were observed over the past 24 hours.
+Radio blackouts reaching the R1 levels were observed over the past 24
+hours. The largest was at Dec 01 2023 0439 UTC.
 
-Radio Blackout Forecast for Dec 01-Dec 03 2023
+Radio Blackout Forecast for Dec 02-Dec 04 2023
 
-              Dec 01        Dec 02        Dec 03
+              Dec 02        Dec 03        Dec 04
 R1-R2           35%           35%           35%
 R3 or greater   10%           10%           10%
 
-Rationale: There is a chance for R1-R2 (Minor-Moderate) and a slight
-chance of an isolated R3 (Strong) radio blackouts on 01-03 Dec primarily
-due to the flare probability of Region 3500.
+Rationale: There is a chance for R1-R2 (Minor-Moderate) events, and a
+slight chance for R3 (Strong) or greater events, over 02-04 Dec.
 
 ```
