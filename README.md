@@ -1,11 +1,7 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2023-12-02
-<br />**This image is owned by:**  Jeff Dai
-<br />**Title of the image:**  Startrails over Beijing Ancient Observatory
-<br />**Description for the image:**  You can take a subway ride to visit this observatory in Beijing, China but you won't find any telescopes there. Starting in the 1400s astronomers erected devices at the Beijing Ancient Observatory site to enable them to accurately measure and track the positions of naked-eye stars and planets. Some of the large, ornate astronomical instruments are still standing. You can even see stars from the star observation platform today, but now only the very brightest celestial beacons are visible against the city lights. In this time series of exposures from a camera fixed to a tripod to record graceful arcing startrails, the brightest trail is actually the Moon. Its broad arc is seen behind the ancient observatory's brass armillary sphere. Compare this picture from the Beijing Ancient Observatory taken in September 2023 to one taken in 1895.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2312/StartrailsBeijingAncientObservatory-3.jpg
+<br />**Sorry, Image not available!**
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,57 +45,56 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2023 Dec 02 0030 UTC
+:Issued: 2023 Dec 03 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 7 (NOAA Scale
-G3).
-The greatest expected 3 hr Kp for Dec 02-Dec 04 2023 is 5.67 (NOAA Scale
+The greatest observed 3 hr Kp over the past 24 hours was 5 (NOAA Scale
+G1).
+The greatest expected 3 hr Kp for Dec 03-Dec 05 2023 is 5.67 (NOAA Scale
 G2).
 
-NOAA Kp index breakdown Dec 02-Dec 04 2023
+NOAA Kp index breakdown Dec 03-Dec 05 2023
 
-             Dec 02       Dec 03       Dec 04
-00-03UT       5.00 (G1)    2.33         2.67     
-03-06UT       5.67 (G2)    2.67         4.00     
-06-09UT       4.67 (G1)    2.00         4.33     
-09-12UT       3.67         2.00         5.67 (G2)
-12-15UT       2.67         2.67         4.67 (G1)
-15-18UT       2.33         2.67         4.00     
-18-21UT       3.00         2.67         3.33     
-21-00UT       3.00         2.67         4.67 (G1)
+             Dec 03       Dec 04       Dec 05
+00-03UT       2.33         2.67         4.67 (G1)
+03-06UT       2.67         4.00         3.67     
+06-09UT       2.00         4.33         3.33     
+09-12UT       2.00         5.67 (G2)    3.00     
+12-15UT       2.67         4.67 (G1)    2.33     
+15-18UT       2.67         4.00         2.00     
+18-21UT       2.67         3.33         3.00     
+21-00UT       2.67         4.67 (G1)    3.33     
 
-Rationale: G1-G2 (Minor-Moderate) geomagnetic storms are expected on 02
-Dec due to CME activity, and are likely on 04 Dec due to CH HSS
-influences.
- 
+Rationale: G1-G2 (Minor-Moderate) geomagnetic storms are likely on 04
+Dec, and G1 (Minor) storms are likely on 05 Dec, due to negative
+polarity CH HSS influences.
+
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-16 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Dec 02-Dec 04 2023
+Solar Radiation Storm Forecast for Dec 03-Dec 05 2023
 
-              Dec 02  Dec 03  Dec 04
+              Dec 03  Dec 04  Dec 05
 S1 or greater   10%     10%     10%
 
-Rationale: There is a slight chance for S1 (Minor) radiation storms over
-02-04 Dec.
+Rationale: There is a slight chance for S1 (Minor) conditions over 03-05
+Dec.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-Radio blackouts reaching the R1 levels were observed over the past 24
-hours. The largest was at Dec 01 2023 0439 UTC.
+No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Dec 02-Dec 04 2023
+Radio Blackout Forecast for Dec 03-Dec 05 2023
 
-              Dec 02        Dec 03        Dec 04
+              Dec 03        Dec 04        Dec 05
 R1-R2           35%           35%           35%
 R3 or greater   10%           10%           10%
 
-Rationale: There is a chance for R1-R2 (Minor-Moderate) events, and a
-slight chance for R3 (Strong) or greater events, over 02-04 Dec.
+Rationale: There is a chance for R1-R2 (Minor-Moderate) events and a
+slight chance for R3 or greater events over 03-05 Dec.
 
 ```
