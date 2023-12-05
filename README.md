@@ -1,14 +1,10 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Sorry, Image not available!**
-<br />**Date image released:**  2023-12-04
-<br />**This image is owned by:**  
-Juned Patel
-
-<br />**Title of the image:**  Plane Crossing Crescent Moon
-<br />**Description for the image:**  No, the Moon is not a bow, and no, it did not shoot out a plane like an arrow. What is pictured is a chance superposition.  The plane's contrail would normally appear white, but the large volume of air toward the rising Sun preferentially knocked away blue light, not only making the sky blue, but giving the reflected trail a bright red hue.  Far in the distance, well behind the plane, the crescent Moon also appears slightly reddened. Captured early last month from Bolton, UK, the featured image was taken so soon after sunrise that the plane was sunlit from below, as was its contrail.  Within minutes, unfortunately, the impromptu sky show ended.  The plane moved out of sight.  The Moon kept rising but became harder to see through a brightening sky.  And the contrail gradually dispersed.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2312/BowArrow_Patel_2895.jpg
+<br />**Date image released:**  2023-12-05
+<br />**Title of the image:**  Energetic Particle Strikes the Earth
+<br />**Description for the image:**  It was one of the most energetic particles ever known to strike the Earth -- but where did it come from?  Dubbed Amaterasu after the Shinto sun goddess, this particle, as do all cosmic rays that strike the Earth's atmosphere, caused an air shower of electrons, protons, and other elementary particles to spray down onto the Earth below. In the featured illustration, a cosmic ray air shower is pictured striking the Telescope Array in Utah, USA, which recorded the Amaterasu event in 2021 May.  Cosmic ray air showers are common enough that you likely have been in a particle spray yourself, although you likely wouldn't have noticed.  The origin of this energetic particle, likely the nucleus of an atom, remains a mystery in two ways. First, it is not known how any single particle or atomic nucleus can practically acquire so much energy, and second, attempts to trace the particle back to where it originated did not indicate any likely potential source.    Open Science: Browse 3,200+ codes in the Astrophysics Source Code Library
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2312/Exaray_OsakaU_1500.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -52,41 +48,40 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2023 Dec 04 0030 UTC
+:Issued: 2023 Dec 05 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Dec 04-Dec 06 2023 is 5.67 (NOAA Scale
-G2).
+The greatest expected 3 hr Kp for Dec 05-Dec 07 2023 is 4.67 (NOAA Scale
+G1).
 
-NOAA Kp index breakdown Dec 04-Dec 06 2023
+NOAA Kp index breakdown Dec 05-Dec 07 2023
 
-             Dec 04       Dec 05       Dec 06
-00-03UT       2.67         4.67 (G1)    3.00     
-03-06UT       4.00         3.67         3.67     
-06-09UT       4.33         3.33         3.00     
-09-12UT       5.67 (G2)    3.00         2.33     
-12-15UT       4.67 (G1)    2.33         2.00     
-15-18UT       4.00         2.00         2.00     
-18-21UT       3.33         3.00         2.33     
-21-00UT       4.67 (G1)    3.33         3.00     
+             Dec 05       Dec 06       Dec 07
+00-03UT       4.67 (G1)    3.00         2.00     
+03-06UT       3.67         3.67         2.33     
+06-09UT       3.33         3.00         2.33     
+09-12UT       3.00         2.33         2.00     
+12-15UT       2.33         2.00         2.00     
+15-18UT       2.00         2.00         2.00     
+18-21UT       3.00         2.33         2.00     
+21-00UT       3.33         3.00         2.00     
 
-Rationale: G2 (Moderate) geomagnetic storms are likely on 04 Dec due to
-negative polarity CH HSS influences. G1 (Minor) levels are likely on 05
-Dec due to continued CH HSS influences in addition to the glancing-blow
-arrival of a CME from 01 Dec.
+Rationale: G1 (Minor) levels are likely on 05 Dec due to continued CH
+HSS influences in addition to the glancing-blow arrival of a CME from 01
+Dec.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-16 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Dec 04-Dec 06 2023
+Solar Radiation Storm Forecast for Dec 05-Dec 07 2023
 
-              Dec 04  Dec 05  Dec 06
+              Dec 05  Dec 06  Dec 07
 S1 or greater    5%      5%      5%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -97,13 +92,13 @@ C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Dec 04-Dec 06 2023
+Radio Blackout Forecast for Dec 05-Dec 07 2023
 
-              Dec 04        Dec 05        Dec 06
-R1-R2           30%           30%           25%
+              Dec 05        Dec 06        Dec 07
+R1-R2           30%           25%           25%
 R3 or greater    5%            5%            5%
 
 Rationale: There is a chance for R1-R2 (Minor-Moderate) radio blackouts
-over 04-06 Dec.
+over 05-07 Dec.
 
 ```
