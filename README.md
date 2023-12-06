@@ -1,10 +1,10 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2023-12-05
-<br />**Title of the image:**  Energetic Particle Strikes the Earth
-<br />**Description for the image:**  It was one of the most energetic particles ever known to strike the Earth -- but where did it come from?  Dubbed Amaterasu after the Shinto sun goddess, this particle, as do all cosmic rays that strike the Earth's atmosphere, caused an air shower of electrons, protons, and other elementary particles to spray down onto the Earth below. In the featured illustration, a cosmic ray air shower is pictured striking the Telescope Array in Utah, USA, which recorded the Amaterasu event in 2021 May.  Cosmic ray air showers are common enough that you likely have been in a particle spray yourself, although you likely wouldn't have noticed.  The origin of this energetic particle, likely the nucleus of an atom, remains a mystery in two ways. First, it is not known how any single particle or atomic nucleus can practically acquire so much energy, and second, attempts to trace the particle back to where it originated did not indicate any likely potential source.    Open Science: Browse 3,200+ codes in the Astrophysics Source Code Library
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2312/Exaray_OsakaU_1500.jpg
+<br />**Date image released:**  2023-12-06
+<br />**Title of the image:**  Stars Versus Dust in the Carina Nebula
+<br />**Description for the image:**  It's stars versus dust in the Carina Nebula and the stars are winning. More precisely, the energetic light and winds from massive newly formed stars are evaporating and dispersing the dusty stellar nurseries in which they formed. Located in the Carina Nebula and inside a region known informally as Mystic Mountain, these pillars' appearance is dominated by opaque brown dust even though it is composed mostly of clear hydrogen gas. Even though some of the dust pillars look like torches, their ends are not on fire -- rather, they are illuminated by nearby stars.  About 7,500 light-years distant, the featured image was taken with the Hubble Space Telescope and highlights an interior region of Carina known as HH1066 which spans nearly a  light year. Within a few million years, the stars will likely win out completely and the dust torches will completely evaporate.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2312/TorchedDust_HubbleMecone_960.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -48,40 +48,39 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2023 Dec 05 0030 UTC
+:Issued: 2023 Dec 06 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Dec 05-Dec 07 2023 is 4.67 (NOAA Scale
-G1).
+The greatest expected 3 hr Kp for Dec 06-Dec 08 2023 is 3.67 (below NOAA
+Scale levels).
 
-NOAA Kp index breakdown Dec 05-Dec 07 2023
+NOAA Kp index breakdown Dec 06-Dec 08 2023
 
-             Dec 05       Dec 06       Dec 07
-00-03UT       4.67 (G1)    3.00         2.00     
-03-06UT       3.67         3.67         2.33     
-06-09UT       3.33         3.00         2.33     
-09-12UT       3.00         2.33         2.00     
-12-15UT       2.33         2.00         2.00     
-15-18UT       2.00         2.00         2.00     
-18-21UT       3.00         2.33         2.00     
-21-00UT       3.33         3.00         2.00     
+             Dec 06       Dec 07       Dec 08
+00-03UT       3.67         2.00         1.67     
+03-06UT       3.00         2.33         1.33     
+06-09UT       3.00         2.33         1.33     
+09-12UT       2.33         2.00         1.33     
+12-15UT       2.00         2.00         1.33     
+15-18UT       2.00         2.00         1.33     
+18-21UT       2.33         2.00         1.67     
+21-00UT       3.00         2.00         1.67     
 
-Rationale: G1 (Minor) levels are likely on 05 Dec due to continued CH
-HSS influences in addition to the glancing-blow arrival of a CME from 01
-Dec.
+Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
+significant transient or recurrent solar wind features are forecast.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-16 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Dec 05-Dec 07 2023
+Solar Radiation Storm Forecast for Dec 06-Dec 08 2023
 
-              Dec 05  Dec 06  Dec 07
+              Dec 06  Dec 07  Dec 08
 S1 or greater    5%      5%      5%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -90,15 +89,16 @@ production is forecast.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-No radio blackouts were observed over the past 24 hours.
+Radio blackouts reaching the R1 levels were observed over the past 24
+hours. The largest was at Dec 05 2023 0644 UTC.
 
-Radio Blackout Forecast for Dec 05-Dec 07 2023
+Radio Blackout Forecast for Dec 06-Dec 08 2023
 
-              Dec 05        Dec 06        Dec 07
-R1-R2           30%           25%           25%
-R3 or greater    5%            5%            5%
+              Dec 06        Dec 07        Dec 08
+R1-R2           40%           40%           40%
+R3 or greater   10%           10%           10%
 
-Rationale: There is a chance for R1-R2 (Minor-Moderate) radio blackouts
-over 05-07 Dec.
+Rationale: A chance for R1-2 (Minor-Moderate) radio blackouts due to
+M-class flare activity will persist through 08 Dec.
 
 ```
