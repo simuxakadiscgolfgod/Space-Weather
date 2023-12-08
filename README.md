@@ -1,10 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2023-12-07
-<br />**Title of the image:**  Orion and the Ocean of Storms
-<br />**Description for the image:**  On December 5, 2022, a camera on board the uncrewed Orion spacecraft captured this view as Orion approached its return powered flyby of the Moon.  Beyond one of Orion's extended solar arrays lies dark, smooth, terrain along the western edge of the Oceanus Procellarum. Prominent on the lunar nearside Oceanus Procellarum, the Ocean of Storms, is the largest of the Moon's lava-flooded maria. The lunar terminator, shadow line between lunar night and day, runs along the left of this frame. The 41 kilometer diameter crater Marius is top center, with ray crater Kepler peeking in at the edge, just right of the solar array wing. Kepler's bright rays extend to the north and west, reaching the dark-floored Marius. On December 11, 2022 the Orion spacecraft reached its home world. The historic Artemis 1 mission ended with Orion's successful splashdown in planet Earth's water-flooded Pacific Ocean.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2312/art001e002132.jpg
+<br />**Date image released:**  2023-12-08
+<br />**This image is owned by:**  Dan Bartlett
+<br />**Title of the image:**  Vega and Comet 12P/Pons-Brooks
+<br />**Description for the image:**  On December 4, periodic Comet 12P/Pons-Brooks shared this telescopic field of view with Vega, alpha star of the northern constellation Lyra. Fifth brightest star in planet Earth's night, Vega is some 25 light-years distant while the much fainter comet was about 21 light-minutes away. In recent months, outbursts have caused dramatic increases in brightness for Pons-Brooks though. Nicknamed the Devil Comet for its hornlike appearance, fans of interstellar spaceflight have also suggested the distorted shape of this comet's large coma looks like the Millenium Falcon. A Halley-type comet, 12P/Pons-Brooks last visited the inner Solar System in 1954. Its next perihelion passage or closest approach to the Sun will be April 21, 2024. That's just two weeks after the April 8 total solar eclipse path crosses North America. But, highly inclined to the Solar System's ecliptic plane, the orbit of periodic Comet 12P/Pons-Brooks will never cross the orbit of planet Earth.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2312/_12P_Pons_Brooks_2023_12_04_184135PST_DEBartlett.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -48,27 +49,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2023 Dec 07 0030 UTC
+:Issued: 2023 Dec 08 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Dec 07-Dec 09 2023 is 2.67 (below NOAA
+The greatest expected 3 hr Kp for Dec 08-Dec 10 2023 is 1.67 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Dec 07-Dec 09 2023
+NOAA Kp index breakdown Dec 08-Dec 10 2023
 
-             Dec 07       Dec 08       Dec 09
-00-03UT       2.00         1.67         1.33     
-03-06UT       2.67         1.33         1.33     
-06-09UT       2.33         1.33         1.67     
-09-12UT       2.00         1.33         1.67     
-12-15UT       2.00         1.33         1.33     
-15-18UT       2.00         1.33         1.33     
-18-21UT       2.00         1.67         1.33     
-21-00UT       2.00         1.67         1.67     
+             Dec 08       Dec 09       Dec 10
+00-03UT       1.67         1.33         1.67     
+03-06UT       1.33         1.33         1.67     
+06-09UT       1.33         1.67         1.33     
+09-12UT       1.33         1.67         1.33     
+12-15UT       1.33         1.33         1.67     
+15-18UT       1.33         1.33         1.33     
+18-21UT       1.67         1.33         1.33     
+21-00UT       1.67         1.67         1.33     
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
 significant transient or recurrent solar wind features are forecast.
@@ -78,9 +79,9 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-16 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Dec 07-Dec 09 2023
+Solar Radiation Storm Forecast for Dec 08-Dec 10 2023
 
-              Dec 07  Dec 08  Dec 09
+              Dec 08  Dec 09  Dec 10
 S1 or greater    5%      5%      5%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -89,17 +90,15 @@ production is forecast.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-Radio blackouts reaching the R1 levels were observed over the past 24
-hours. The largest was at Dec 06 2023 2144 UTC.
+No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Dec 07-Dec 09 2023
+Radio Blackout Forecast for Dec 08-Dec 10 2023
 
-              Dec 07        Dec 08        Dec 09
+              Dec 08        Dec 09        Dec 10
 R1-R2           40%           40%           40%
-R3 or greater   10%           10%           10%
+R3 or greater    5%            5%            5%
 
-Rationale: A chance for R1-R2 (Minor-Moderate) radio blackouts,
-and a slight chance for R3 (Strong) or greater blackouts, will persist
-through 09 Dec.
+Rationale: There is a chance for R1-R2 (Minor-Moderate) events over
+08-10 Dec.
 
 ```
