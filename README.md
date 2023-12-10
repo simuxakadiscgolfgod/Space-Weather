@@ -1,11 +1,13 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2023-12-09
-<br />**This image is owned by:**  Jean-Francois Graffand
-<br />**Title of the image:**  Pic du Pleiades
-<br />**Description for the image:**  Near dawn on November 19 the Pleiades stood in still dark skies over the French Pyrenees. But just before sunrise a serendipitous moment was captured in this single 3 second exposure; a bright meteor streak appeared to pierce the heart of the galactic star cluster. From the camera's perspective, star cluster and meteor were poised directly above the mountain top observatory on the Pic du Midi de Bigorre. And though astronomers might consider the Pleiades to be relatively close by, the grain of dust vaporizing as it plowed through planet Earth's upper atmosphere actually missed the cluster's tight grouping of young stars by about 400 light-years. While recording a night sky timelapse series, the camera and telephoto lens were fixed to a tripod on the Tour-de-France-cycled slopes of the Col du Tourmalet about 5 kilometers from the Pic du Midi.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2312/_MG_4553_rawfile.jpg
+<br />**Date image released:**  2023-12-10
+<br />**This image is owned by:**  
+Steve Cullen
+
+<br />**Title of the image:**  Big Dipper over Pyramid Mountain
+<br />**Description for the image:**  When did you first learn to identify this group of stars? Although they are familiar to many people around the world, different cultures have associated this asterism with different icons and folklore. Known in the USA as the Big Dipper, the stars are part of a constellation designated by the International Astronomical Union in 1922 as the Great Bear (Ursa Major).  The recognized star names of these stars are (left to right) Alkaid, Mizar/Alcor, Alioth, Megrez, Phecda, Merak, and Dubhe.  Of course, stars in any given constellation are unlikely to be physically related. But surprisingly, most of the Big Dipper stars do seem to be headed in the same direction as they plough through space, a property they share with other stars spread out over an even larger area across the sky.  Their measured common motion suggests that they all belong to a loose, nearby star cluster, thought to be on average only about 75 light-years away and up to 30 light-years across. The cluster is more properly known as the Ursa Major Moving Group. The featured image captured the iconic stars recently above Pyramid Mountain in Alberta, Canada.   Night Sky Network webinar: APOD editor to review coolest space images of 2023
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2312/BigDipperMt2_Cullen_1365.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,27 +51,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2023 Dec 09 0030 UTC
+:Issued: 2023 Dec 10 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 1 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Dec 09-Dec 11 2023 is 3.33 (below NOAA
+The greatest expected 3 hr Kp for Dec 10-Dec 12 2023 is 3.33 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Dec 09-Dec 11 2023
+NOAA Kp index breakdown Dec 10-Dec 12 2023
 
-             Dec 09       Dec 10       Dec 11
-00-03UT       1.33         1.67         2.00     
-03-06UT       1.33         1.67         3.33     
-06-09UT       1.67         1.33         3.00     
-09-12UT       1.67         1.33         3.00     
-12-15UT       1.33         1.67         2.33     
-15-18UT       1.33         1.33         2.33     
-18-21UT       1.33         1.33         2.33     
-21-00UT       1.67         1.33         3.00     
+             Dec 10       Dec 11       Dec 12
+00-03UT       1.67         2.00         3.00     
+03-06UT       1.67         3.33         3.33     
+06-09UT       1.33         3.00         2.67     
+09-12UT       1.33         3.00         2.33     
+12-15UT       1.67         2.33         2.00     
+15-18UT       1.33         2.33         2.00     
+18-21UT       1.33         2.33         2.33     
+21-00UT       1.33         3.00         3.00     
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
 significant transient or recurrent solar wind features are forecast.
@@ -79,27 +81,27 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-16 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Dec 09-Dec 11 2023
+Solar Radiation Storm Forecast for Dec 10-Dec 12 2023
 
-              Dec 09  Dec 10  Dec 11
-S1 or greater    5%      5%      5%
+              Dec 10  Dec 11  Dec 12
+S1 or greater   10%     10%     10%
 
-Rationale: No S1 (Minor) or greater solar radiation storms are expected.
-No significant active region activity favorable for radiation storm
-production is forecast.
+Rationale: There is a slight chance for S1 (Minor) or greater solar
+radiation storms all three days.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-Radio blackouts reaching the R2 levels were observed over the past 24
-hours. The largest was at Dec 08 2023 2307 UTC.
+Radio blackouts reaching the R1 levels were observed over the past 24
+hours. The largest was at Dec 09 2023 0955 UTC.
 
-Radio Blackout Forecast for Dec 09-Dec 11 2023
+Radio Blackout Forecast for Dec 10-Dec 12 2023
 
-              Dec 09        Dec 10        Dec 11
-R1-R2           40%           40%           40%
-R3 or greater    5%            5%            5%
+              Dec 10        Dec 11        Dec 12
+R1-R2           55%           55%           55%
+R3 or greater   10%           10%           10%
 
-Rationale: There is a chance for R1-R2 (Minor-Moderate) radio blackouts
-over 09-11 Dec.
+Rationale: R1-R2 (Minor-Moderate) or greater radio blackouts are likely,
+and there is a slight chance for R3 (Strong) or greater blackouts all
+three days.
 
 ```
