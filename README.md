@@ -1,13 +1,7 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2023-12-10
-<br />**This image is owned by:**  
-Steve Cullen
-
-<br />**Title of the image:**  Big Dipper over Pyramid Mountain
-<br />**Description for the image:**  When did you first learn to identify this group of stars? Although they are familiar to many people around the world, different cultures have associated this asterism with different icons and folklore. Known in the USA as the Big Dipper, the stars are part of a constellation designated by the International Astronomical Union in 1922 as the Great Bear (Ursa Major).  The recognized star names of these stars are (left to right) Alkaid, Mizar/Alcor, Alioth, Megrez, Phecda, Merak, and Dubhe.  Of course, stars in any given constellation are unlikely to be physically related. But surprisingly, most of the Big Dipper stars do seem to be headed in the same direction as they plough through space, a property they share with other stars spread out over an even larger area across the sky.  Their measured common motion suggests that they all belong to a loose, nearby star cluster, thought to be on average only about 75 light-years away and up to 30 light-years across. The cluster is more properly known as the Ursa Major Moving Group. The featured image captured the iconic stars recently above Pyramid Mountain in Alberta, Canada.   Night Sky Network webinar: APOD editor to review coolest space images of 2023
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2312/BigDipperMt2_Cullen_1365.jpg
+<br />**Sorry, Image not available!**
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -51,27 +45,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2023 Dec 10 0030 UTC
+:Issued: 2023 Dec 11 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 1 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Dec 10-Dec 12 2023 is 3.33 (below NOAA
+The greatest expected 3 hr Kp for Dec 11-Dec 13 2023 is 3.33 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Dec 10-Dec 12 2023
+NOAA Kp index breakdown Dec 11-Dec 13 2023
 
-             Dec 10       Dec 11       Dec 12
-00-03UT       1.67         2.00         3.00     
-03-06UT       1.67         3.33         3.33     
-06-09UT       1.33         3.00         2.67     
-09-12UT       1.33         3.00         2.33     
-12-15UT       1.67         2.33         2.00     
-15-18UT       1.33         2.33         2.00     
-18-21UT       1.33         2.33         2.33     
-21-00UT       1.33         3.00         3.00     
+             Dec 11       Dec 12       Dec 13
+00-03UT       2.00         3.00         3.00     
+03-06UT       3.33         3.33         3.00     
+06-09UT       3.00         2.67         3.00     
+09-12UT       3.00         2.33         2.67     
+12-15UT       2.33         2.00         2.67     
+15-18UT       2.33         2.00         3.00     
+18-21UT       2.33         2.33         1.67     
+21-00UT       3.00         3.00         2.33     
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
 significant transient or recurrent solar wind features are forecast.
@@ -81,27 +75,29 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-16 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Dec 10-Dec 12 2023
+Solar Radiation Storm Forecast for Dec 11-Dec 13 2023
 
-              Dec 10  Dec 11  Dec 12
-S1 or greater   10%     10%     10%
+              Dec 11  Dec 12  Dec 13
+S1 or greater   10%     10%      5%
 
-Rationale: There is a slight chance for S1 (Minor) or greater solar
-radiation storms all three days.
+Rationale: There is a slight chance for S1 (Minor) solar radiation
+storms over 11-12 Dec due to the flare potential of Regions 3511 and
+3513.
 
 C. NOAA Radio Blackout Activity and Forecast
 
 Radio blackouts reaching the R1 levels were observed over the past 24
-hours. The largest was at Dec 09 2023 0955 UTC.
+hours. The largest was at Dec 10 2023 0353 UTC.
 
-Radio Blackout Forecast for Dec 10-Dec 12 2023
+Radio Blackout Forecast for Dec 11-Dec 13 2023
 
-              Dec 10        Dec 11        Dec 12
-R1-R2           55%           55%           55%
-R3 or greater   10%           10%           10%
+              Dec 11        Dec 12        Dec 13
+R1-R2           55%           55%           40%
+R3 or greater   10%           10%            5%
 
-Rationale: R1-R2 (Minor-Moderate) or greater radio blackouts are likely,
-and there is a slight chance for R3 (Strong) or greater blackouts all
-three days.
+Rationale: R1-R2 (Minor-Moderate) radio blackouts are likely, with a
+slight chance for R3 or greater events, on 11-12 Dec due to the flare
+potential of Regions 3511 and 3513. There is a chance for R1-R2 events
+on 13 Dec as Region 3511 transits the W limb.
 
 ```
