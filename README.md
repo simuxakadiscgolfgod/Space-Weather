@@ -2,6 +2,13 @@
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
 <br />**Sorry, Image not available!**
+<br />**Date image released:**  2023-12-12
+<br />**This image is owned by:**  
+Giulio Cobianchi
+
+<br />**Title of the image:**  Aurora and Milky Way over Norway
+<br />**Description for the image:**  What are these two giant arches across the sky? Perhaps the more familiar one, on the left, is the central band of our Milky Way Galaxy. This grand disk of stars and nebulas here appears to encircle much of the southern sky. Visible below the stellar arch is the rusty-orange planet Mars and the extended Andromeda galaxy. But this night had more!  For a few minutes during this cold arctic night, a second giant arch appeared  encircling part of the northern sky: an aurora. Auroras are much closer than stars as they are composed of glowing air high in Earth's atmosphere.  Visible outside the green auroral arch is the group of stars popularly known as the Big Dipper.  The featured digital composite of 20 images was captured in mid-November 2022 over the Lofoten Islands in Norway.    APOD Year in Review (2023): RJN's Night Sky Network Lecture
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2312/ArcticNight_Cobianchi_2048.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -45,27 +52,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2023 Dec 11 0030 UTC
+:Issued: 2023 Dec 12 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 1 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Dec 11-Dec 13 2023 is 3.33 (below NOAA
+The greatest expected 3 hr Kp for Dec 12-Dec 14 2023 is 3.67 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Dec 11-Dec 13 2023
+NOAA Kp index breakdown Dec 12-Dec 14 2023
 
-             Dec 11       Dec 12       Dec 13
-00-03UT       2.00         3.00         3.00     
-03-06UT       3.33         3.33         3.00     
-06-09UT       3.00         2.67         3.00     
-09-12UT       3.00         2.33         2.67     
-12-15UT       2.33         2.00         2.67     
-15-18UT       2.33         2.00         3.00     
-18-21UT       2.33         2.33         1.67     
-21-00UT       3.00         3.00         2.33     
+             Dec 12       Dec 13       Dec 14
+00-03UT       0.33         3.00         2.67     
+03-06UT       0.67         3.67         2.00     
+06-09UT       1.33         2.67         2.00     
+09-12UT       1.33         2.33         2.00     
+12-15UT       1.67         2.00         2.00     
+15-18UT       2.00         2.00         2.00     
+18-21UT       2.67         3.00         2.00     
+21-00UT       2.33         2.67         2.33     
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
 significant transient or recurrent solar wind features are forecast.
@@ -75,29 +82,28 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-16 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Dec 11-Dec 13 2023
+Solar Radiation Storm Forecast for Dec 12-Dec 14 2023
 
-              Dec 11  Dec 12  Dec 13
-S1 or greater   10%     10%      5%
+              Dec 12  Dec 13  Dec 14
+S1 or greater   10%      5%      5%
 
-Rationale: There is a slight chance for S1 (Minor) solar radiation
-storms over 11-12 Dec due to the flare potential of Regions 3511 and
-3513.
+Rationale: There is a slight chance for an S1 (Minor) or greater solar
+radiation storm on  12 Dec.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-Radio blackouts reaching the R1 levels were observed over the past 24
-hours. The largest was at Dec 10 2023 0353 UTC.
+No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Dec 11-Dec 13 2023
+Radio Blackout Forecast for Dec 12-Dec 14 2023
 
-              Dec 11        Dec 12        Dec 13
-R1-R2           55%           55%           40%
-R3 or greater   10%           10%            5%
+              Dec 12        Dec 13        Dec 14
+R1-R2           55%           40%           40%
+R3 or greater   10%            5%            5%
 
-Rationale: R1-R2 (Minor-Moderate) radio blackouts are likely, with a
-slight chance for R3 or greater events, on 11-12 Dec due to the flare
-potential of Regions 3511 and 3513. There is a chance for R1-R2 events
-on 13 Dec as Region 3511 transits the W limb.
+Rationale: M-class flaring (R1-R2/Minor-Moderate) is likely on 12 Dec,
+with a slight chance for an X-class flare (R3/Strong), mainly due to the
+flare potential of Regions 3511 and 3513. On 13 Dec, solar activity is
+expected to decrease to a chance for M-class flares as Region 3511
+transits beyond the SW limb.
 
 ```
