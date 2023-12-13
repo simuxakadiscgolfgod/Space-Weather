@@ -1,14 +1,14 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Sorry, Image not available!**
-<br />**Date image released:**  2023-12-12
+<br />**Date image released:**  2023-12-13
 <br />**This image is owned by:**  
-Giulio Cobianchi
+William Ostling, 
+Telescope Live 
 
-<br />**Title of the image:**  Aurora and Milky Way over Norway
-<br />**Description for the image:**  What are these two giant arches across the sky? Perhaps the more familiar one, on the left, is the central band of our Milky Way Galaxy. This grand disk of stars and nebulas here appears to encircle much of the southern sky. Visible below the stellar arch is the rusty-orange planet Mars and the extended Andromeda galaxy. But this night had more!  For a few minutes during this cold arctic night, a second giant arch appeared  encircling part of the northern sky: an aurora. Auroras are much closer than stars as they are composed of glowing air high in Earth's atmosphere.  Visible outside the green auroral arch is the group of stars popularly known as the Big Dipper.  The featured digital composite of 20 images was captured in mid-November 2022 over the Lofoten Islands in Norway.    APOD Year in Review (2023): RJN's Night Sky Network Lecture
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2312/ArcticNight_Cobianchi_2048.jpg
+<br />**Title of the image:**  Deep Field: The Heart Nebula
+<br />**Description for the image:**  What excites the Heart Nebula? First, the large emission nebula on the left, catalogued as IC 1805, looks somewhat like a human heart.  The nebula glows brightly in red light emitted by its most prominent element, hydrogen, but this long-exposure image was also blended with light emitted by silicon (yellow) and oxygen (blue).  In the center of the Heart Nebula are young stars from the open star cluster Melotte 15 that are eroding away several picturesque dust pillars with their atom-exciting energetic light and winds. The Heart Nebula is located about 7,500 light years away toward the constellation of Cassiopeia.  At the bottom right of the Heart Nebula is the companion Fishhead Nebula.  This wide and deep image clearly shows, though, that glowing gas surrounds the Heart Nebula in all directions.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2312/Heart_TelLiveOstling_2953.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -52,27 +52,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2023 Dec 12 0030 UTC
+:Issued: 2023 Dec 13 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 1 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Dec 12-Dec 14 2023 is 3.67 (below NOAA
+The greatest expected 3 hr Kp for Dec 13-Dec 15 2023 is 4.00 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Dec 12-Dec 14 2023
+NOAA Kp index breakdown Dec 13-Dec 15 2023
 
-             Dec 12       Dec 13       Dec 14
-00-03UT       0.33         3.00         2.67     
-03-06UT       0.67         3.67         2.00     
-06-09UT       1.33         2.67         2.00     
-09-12UT       1.33         2.33         2.00     
+             Dec 13       Dec 14       Dec 15
+00-03UT       1.00         2.67         2.67     
+03-06UT       0.67         2.00         3.00     
+06-09UT       0.33         2.00         2.33     
+09-12UT       0.33         2.00         2.00     
 12-15UT       1.67         2.00         2.00     
-15-18UT       2.00         2.00         2.00     
-18-21UT       2.67         3.00         2.00     
-21-00UT       2.33         2.67         2.33     
+15-18UT       2.33         2.00         2.67     
+18-21UT       2.67         2.00         4.00     
+21-00UT       3.67         2.33         4.00     
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
 significant transient or recurrent solar wind features are forecast.
@@ -82,28 +82,26 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-16 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Dec 12-Dec 14 2023
+Solar Radiation Storm Forecast for Dec 13-Dec 15 2023
 
-              Dec 12  Dec 13  Dec 14
-S1 or greater   10%      5%      5%
+              Dec 13  Dec 14  Dec 15
+S1 or greater    5%      5%      5%
 
-Rationale: There is a slight chance for an S1 (Minor) or greater solar
-radiation storm on  12 Dec.
+Rationale: No S1 (Minor) or greater solar radiation storms are expected.
+No significant active region activity favorable for radiation storm
+production is forecast.
 
 C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Dec 12-Dec 14 2023
+Radio Blackout Forecast for Dec 13-Dec 15 2023
 
-              Dec 12        Dec 13        Dec 14
-R1-R2           55%           40%           40%
-R3 or greater   10%            5%            5%
+              Dec 13        Dec 14        Dec 15
+R1-R2           25%           25%           25%
+R3 or greater    5%            5%            5%
 
-Rationale: M-class flaring (R1-R2/Minor-Moderate) is likely on 12 Dec,
-with a slight chance for an X-class flare (R3/Strong), mainly due to the
-flare potential of Regions 3511 and 3513. On 13 Dec, solar activity is
-expected to decrease to a chance for M-class flares as Region 3511
-transits beyond the SW limb.
+Rationale: There is a chance for R1-R2 (Minor-Moderate) radio blackouts
+all three days.
 
 ```
