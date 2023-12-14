@@ -1,14 +1,10 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2023-12-13
-<br />**This image is owned by:**  
-William Ostling, 
-Telescope Live 
-
-<br />**Title of the image:**  Deep Field: The Heart Nebula
-<br />**Description for the image:**  What excites the Heart Nebula? First, the large emission nebula on the left, catalogued as IC 1805, looks somewhat like a human heart.  The nebula glows brightly in red light emitted by its most prominent element, hydrogen, but this long-exposure image was also blended with light emitted by silicon (yellow) and oxygen (blue).  In the center of the Heart Nebula are young stars from the open star cluster Melotte 15 that are eroding away several picturesque dust pillars with their atom-exciting energetic light and winds. The Heart Nebula is located about 7,500 light years away toward the constellation of Cassiopeia.  At the bottom right of the Heart Nebula is the companion Fishhead Nebula.  This wide and deep image clearly shows, though, that glowing gas surrounds the Heart Nebula in all directions.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2312/Heart_TelLiveOstling_2953.jpg
+<br />**Date image released:**  2023-12-14
+<br />**Title of the image:**  Supernova Remnant Cassiopeia A
+<br />**Description for the image:**  Massive stars in our Milky Way Galaxy live spectacular lives.  Collapsing from vast cosmic clouds, their nuclear furnaces ignite and create heavy elements in their cores. After only a few million years for the most massive stars, the enriched material is blasted back into interstellar space where star formation can begin anew. The expanding debris cloud known as Cassiopeia A is an example of this final phase of the stellar life cycle. Light from the supernova explosion that created this remnant would have been first seen in planet Earth's sky about 350 years ago, although it took that light 11,000 years to reach us. This sharp NIRCam image from the James Webb Space Telescope shows the still hot filaments and knots in the supernova remnant. The whitish, smoke-like outer shell of the expanding blast wave is about 20 light-years across, while the bright speck near center is a neutron star, the incredibly dense, collapsed remains of the massive stellar core. Light echoes from the massive star's cataclysmic explosion are also identified in Webb's detailed image of supernova remnant Cassiopeia A.  Tonight watch: The Geminids
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2312/CasA_nircam_4096.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -52,39 +48,39 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2023 Dec 13 0030 UTC
+:Issued: 2023 Dec 14 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Dec 13-Dec 15 2023 is 4.00 (below NOAA
-Scale levels).
+The greatest expected 3 hr Kp for Dec 14-Dec 16 2023 is 5.00 (NOAA Scale
+G1).
 
-NOAA Kp index breakdown Dec 13-Dec 15 2023
+NOAA Kp index breakdown Dec 14-Dec 16 2023
 
-             Dec 13       Dec 14       Dec 15
-00-03UT       1.00         2.67         2.67     
-03-06UT       0.67         2.00         3.00     
-06-09UT       0.33         2.00         2.33     
-09-12UT       0.33         2.00         2.00     
-12-15UT       1.67         2.00         2.00     
-15-18UT       2.33         2.00         2.67     
-18-21UT       2.67         2.00         4.00     
-21-00UT       3.67         2.33         4.00     
+             Dec 14       Dec 15       Dec 16
+00-03UT       2.67         2.67         5.00 (G1)
+03-06UT       2.00         3.00         4.33     
+06-09UT       2.00         2.33         3.00     
+09-12UT       1.67         2.00         2.00     
+12-15UT       1.67         5.00 (G1)    2.33     
+15-18UT       2.00         4.33         3.33     
+18-21UT       2.00         3.00         4.00     
+21-00UT       2.33         3.67         3.67     
 
-Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
-significant transient or recurrent solar wind features are forecast.
+Rationale: G1 (Minor) or greater geomagnetic storms are likely on 15 and
+16 Dec due to potential significant transient features.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-16 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Dec 13-Dec 15 2023
+Solar Radiation Storm Forecast for Dec 14-Dec 16 2023
 
-              Dec 13  Dec 14  Dec 15
+              Dec 14  Dec 15  Dec 16
 S1 or greater    5%      5%      5%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -95,13 +91,14 @@ C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Dec 13-Dec 15 2023
+Radio Blackout Forecast for Dec 14-Dec 16 2023
 
-              Dec 13        Dec 14        Dec 15
-R1-R2           25%           25%           25%
+              Dec 14        Dec 15        Dec 16
+R1-R2           30%           35%           35%
 R3 or greater    5%            5%            5%
 
-Rationale: There is a chance for R1-R2 (Minor-Moderate) radio blackouts
-all three days.
+Rationale: There is a chance of an isolated R1-R2 (Minor-Moderate) event
+through 14 Dec. Chances of an event increase marginally on 15 Dec due to
+the anticipated return of active regions from the previous rotation.
 
 ```
