@@ -1,11 +1,10 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2023-12-15
-<br />**This image is owned by:**  Sebastian Voltmer
-<br />**Title of the image:**  Betelgeuse Eclipsed
-<br />**Description for the image:**  Asteroid 319 Leona cast a shadow across planet Earth on December 12, as it passed in front of bright star Betelgeuse. But to see everyone's favorite red giant star fade this time, you had to stand near the center of the narrow shadow path starting in central Mexico and extending eastward across southern Florida, the Atlantic Ocean, southern Europe, and Eurasia. The geocentric celestial event is captured in these two panels taken at Almodovar del Rio, Spain from before (left) and during the asteroid-star occultation. In both panels Betelgeuse is seen above and left, at the shoulder of the familiar constellation Orion. Its brightness diminishes noticeably during the exceedingly rare occultation when, for several seconds, the giant star was briefly eclipsed by a roughly 60 kilometer diameter main-belt asteroid.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2312/OrionBetelgeuse_occultation.jpg
+<br />**Date image released:**  2023-12-16
+<br />**Title of the image:**  Crescent Enceladus
+<br />**Description for the image:**  Peering from the shadows, the Saturn-facing hemisphere of tantalizing inner moon Enceladus poses in this Cassini spacecraft image. North is up in the dramatic scene captured during November 2016 as Cassini's camera was pointed in a nearly sunward direction about 130,000 kilometers from the moon's bright crescent. In fact, the distant world reflects over 90 percent of the sunlight it receives, giving its surface about the same reflectivity as fresh snow. A mere 500 kilometers in diameter, Enceladus is a surprisingly active moon. Data and images collected during Cassini's flybys have revealed water vapor and ice grains spewing from south polar geysers and evidence of an ocean of liquid water hidden beneath the moon's icy crust.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2312/PIA20522enceladus.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,61 +48,59 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2023 Dec 15 0030 UTC
+:Issued: 2023 Dec 16 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Dec 15-Dec 17 2023 is 5.00 (NOAA Scale
-G1).
+The greatest expected 3 hr Kp for Dec 16-Dec 18 2023 is 5.67 (NOAA Scale
+G2).
 
-NOAA Kp index breakdown Dec 15-Dec 17 2023
+NOAA Kp index breakdown Dec 16-Dec 18 2023
 
-             Dec 15       Dec 16       Dec 17
-00-03UT       2.33         5.00 (G1)    1.67     
-03-06UT       2.67         4.33         3.00     
-06-09UT       2.67         3.00         2.67     
-09-12UT       2.33         2.00         2.67     
-12-15UT       2.33         2.33         4.67     
-15-18UT       2.67         3.33         4.67     
-18-21UT       3.67         4.00         3.00     
-21-00UT       4.00         3.67         3.00     
+             Dec 16       Dec 17       Dec 18
+00-03UT       2.67         5.67 (G2)    3.67     
+03-06UT       2.33         4.67 (G1)    3.67     
+06-09UT       2.00         4.33         3.67     
+09-12UT       2.00         4.33         3.67     
+12-15UT       3.33         3.00         3.67     
+15-18UT       5.00 (G1)    3.33         3.67     
+18-21UT       4.00         3.33         1.67     
+21-00UT       5.67 (G2)    4.33         2.33     
 
-Rationale: The geomagnetic field is likely to reach G1 (Minor)
-geomagnetic storm conditions 15-17 Dec, due to combined effects of
-positive polarity CH HSS influence and CME events that left the Sun on
-late 11 Dec and 12 Dec. Trajectory and timing of CME influence from the
-R3 event is currently undetermined.
+Rationale: G1-G2 (Minor-Moderate) geomagnetic storms are likely over
+16-17 Dec due to the anticipated arrival a coronal mass ejections that
+left the Sun on 14 Dec and 15 Dec.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-16 over the past 24 hours, was
-below S-scale storm level thresholds.
+above S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Dec 15-Dec 17 2023
+Solar Radiation Storm Forecast for Dec 16-Dec 18 2023
 
-              Dec 15  Dec 16  Dec 17
-S1 or greater   35%     35%     10%
+              Dec 16  Dec 17  Dec 18
+S1 or greater   99%     50%     10%
 
-Rationale: Solar activity is expected to be at moderate levels
-(R1-R2/Minor-Moderate), with an chance for an isolated R3 (Strong),
-through 16 Dec, due to primarily to the flare potential from Region
-3514.
+Rationale: S1 (Minor) solar radiation storms are expected on 16 Dec and
+possible through 17 Dec due to energetic events that occurred on the Sun
+over 14-15 Dec.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-Radio blackouts reaching the R3 levels were observed over the past 24
-hours. The largest was at Dec 14 2023 1702 UTC.
+Radio blackouts reaching the R2 levels were observed over the past 24
+hours. The largest was at Dec 15 2023 0734 UTC.
 
-Radio Blackout Forecast for Dec 15-Dec 17 2023
+Radio Blackout Forecast for Dec 16-Dec 18 2023
 
-              Dec 15        Dec 16        Dec 17
-R1-R2           55%           55%           40%
-R3 or greater   25%           25%           15%
+              Dec 16        Dec 17        Dec 18
+R1-R2           55%           55%           55%
+R3 or greater   25%           25%           25%
 
-Rationale: No R1 (Minor) or greater radio blackouts are expected.  No
-significant active region flare activity is forecast.
+Rationale: R1-R2 (Minor-Moderate) radio blackouts are likely, with a
+chance for R3 (Strong), over 16-18 Dec due primarily to the flare
+potential for Region 3514.
 
 ```
