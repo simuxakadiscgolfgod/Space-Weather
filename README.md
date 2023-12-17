@@ -1,10 +1,13 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2023-12-16
-<br />**Title of the image:**  Crescent Enceladus
-<br />**Description for the image:**  Peering from the shadows, the Saturn-facing hemisphere of tantalizing inner moon Enceladus poses in this Cassini spacecraft image. North is up in the dramatic scene captured during November 2016 as Cassini's camera was pointed in a nearly sunward direction about 130,000 kilometers from the moon's bright crescent. In fact, the distant world reflects over 90 percent of the sunlight it receives, giving its surface about the same reflectivity as fresh snow. A mere 500 kilometers in diameter, Enceladus is a surprisingly active moon. Data and images collected during Cassini's flybys have revealed water vapor and ice grains spewing from south polar geysers and evidence of an ocean of liquid water hidden beneath the moon's icy crust.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2312/PIA20522enceladus.jpg
+<br />**Date image released:**  2023-12-17
+<br />**This image is owned by:**  
+Hongyang Luo
+
+<br />**Title of the image:**  Geminids over China's Nianhu Lake
+<br />**Description for the image:**  Where are all of these meteors coming from?  In terms of direction on the sky, the pointed answer is the constellation of Gemini.  That is why the major meteor shower in December is known as the Geminids -- because shower meteors all appear to come from a radiant toward Gemini. Three dimensionally, however, sand-sized debris expelled from the unusual asteroid 3200 Phaethon follows a well-defined orbit about our Sun, and the part of the orbit that approaches Earth is superposed in front of the constellation of Gemini. Therefore, when Earth crosses this orbit, the radiant point of falling debris appears in Gemini. Featured here is a composite of many images taken a few days ago through dark skies from Nianhu Lake in China. Over 100 bright meteor streaks from the Geminids meteor shower are visible.    APOD Year in Review (2023): RJN's Night Sky Network Lecture
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2312/Geminids_Hongyang_3840.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -48,59 +51,57 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2023 Dec 16 0030 UTC
+:Issued: 2023 Dec 17 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Dec 16-Dec 18 2023 is 5.67 (NOAA Scale
+The greatest expected 3 hr Kp for Dec 17-Dec 19 2023 is 5.67 (NOAA Scale
 G2).
 
-NOAA Kp index breakdown Dec 16-Dec 18 2023
+NOAA Kp index breakdown Dec 17-Dec 19 2023
 
-             Dec 16       Dec 17       Dec 18
-00-03UT       2.67         5.67 (G2)    3.67     
-03-06UT       2.33         4.67 (G1)    3.67     
-06-09UT       2.00         4.33         3.67     
-09-12UT       2.00         4.33         3.67     
-12-15UT       3.33         3.00         3.67     
-15-18UT       5.00 (G1)    3.33         3.67     
-18-21UT       4.00         3.33         1.67     
-21-00UT       5.67 (G2)    4.33         2.33     
+             Dec 17       Dec 18       Dec 19
+00-03UT       3.67         4.67 (G1)    3.33     
+03-06UT       4.67 (G1)    4.00         3.00     
+06-09UT       4.33         3.67         2.33     
+09-12UT       5.67 (G2)    3.00         1.33     
+12-15UT       3.00         2.33         1.00     
+15-18UT       3.33         2.33         1.00     
+18-21UT       3.33         2.00         3.00     
+21-00UT       4.33         2.67         3.67     
 
-Rationale: G1-G2 (Minor-Moderate) geomagnetic storms are likely over
-16-17 Dec due to the anticipated arrival a coronal mass ejections that
-left the Sun on 14 Dec and 15 Dec.
+Rationale: G2 (Moderate) geomagnetic storms are likely over 17 Dec and
+G1 (Minor) on 18 due to anticipated transient influence.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-16 over the past 24 hours, was
 above S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Dec 16-Dec 18 2023
+Solar Radiation Storm Forecast for Dec 17-Dec 19 2023
 
-              Dec 16  Dec 17  Dec 18
-S1 or greater   99%     50%     10%
+              Dec 17  Dec 18  Dec 19
+S1 or greater   30%      5%      5%
 
-Rationale: S1 (Minor) solar radiation storms are expected on 16 Dec and
-possible through 17 Dec due to energetic events that occurred on the Sun
-over 14-15 Dec.
+Rationale: There is a chance for S1 (Minor) solar radiation storms on 17
+Dec.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-Radio blackouts reaching the R2 levels were observed over the past 24
-hours. The largest was at Dec 15 2023 0734 UTC.
+No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Dec 16-Dec 18 2023
+Radio Blackout Forecast for Dec 17-Dec 19 2023
 
-              Dec 16        Dec 17        Dec 18
-R1-R2           55%           55%           55%
-R3 or greater   25%           25%           25%
+              Dec 17        Dec 18        Dec 19
+R1-R2           55%           25%           25%
+R3 or greater   25%            5%            5%
 
-Rationale: R1-R2 (Minor-Moderate) radio blackouts are likely, with a
-chance for R3 (Strong), over 16-18 Dec due primarily to the flare
-potential for Region 3514.
+Rationale: R1-R2 (Minor-Moderate), with a chance for R3 (Strong), radio
+blackouts are likely on 17 Dec, primarily due to a region on the W limb
+of the visible disk. As that region rotates off, only a chance for R1
+conditions are expected over 18-19 Dec.
 
 ```
