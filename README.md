@@ -1,13 +1,13 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2023-12-17
+<br />**Date image released:**  2023-12-19
 <br />**This image is owned by:**  
-Hongyang Luo
+Steven Powell
 
-<br />**Title of the image:**  Geminids over China's Nianhu Lake
-<br />**Description for the image:**  Where are all of these meteors coming from?  In terms of direction on the sky, the pointed answer is the constellation of Gemini.  That is why the major meteor shower in December is known as the Geminids -- because shower meteors all appear to come from a radiant toward Gemini. Three dimensionally, however, sand-sized debris expelled from the unusual asteroid 3200 Phaethon follows a well-defined orbit about our Sun, and the part of the orbit that approaches Earth is superposed in front of the constellation of Gemini. Therefore, when Earth crosses this orbit, the radiant point of falling debris appears in Gemini. Featured here is a composite of many images taken a few days ago through dark skies from Nianhu Lake in China. Over 100 bright meteor streaks from the Geminids meteor shower are visible.    APOD Year in Review (2023): RJN's Night Sky Network Lecture
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2312/Geminids_Hongyang_3840.jpg
+<br />**Title of the image:**  NGC 1499: The California Nebula
+<br />**Description for the image:**  Could Queen Calafia's mythical island exist in space? Perhaps not, but by chance the outline of this molecular space cloud echoes the outline of the state of California, USA. Our Sun has its home within the Milky Way's Orion Arm, only about 1,000 light-years from the California Nebula. Also known as NGC 1499, the classic emission nebula is around 100 light-years long. On the featured image, the most prominent glow of the California Nebula is the red light characteristic of hydrogen atoms recombining with long lost electrons, stripped away (ionized) by energetic starlight. The star most likely providing the energetic starlight that ionizes much of the nebular gas is the bright, hot, bluish Xi Persei just to the right of the nebula.  A regular target for astrophotographers, the California Nebula can be spotted with a wide-field telescope under a dark sky toward the constellation of Perseus, not far from the Pleiades.   Explore Your Universe: Random APOD Generator
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2312/CalNeb_Powell_3923.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -51,57 +51,61 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2023 Dec 17 0030 UTC
+:Issued: 2023 Dec 19 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
-Scale levels).
-The greatest expected 3 hr Kp for Dec 17-Dec 19 2023 is 5.67 (NOAA Scale
+The greatest observed 3 hr Kp over the past 24 hours was 6 (NOAA Scale
 G2).
+The greatest expected 3 hr Kp for Dec 19-Dec 21 2023 is 4.67 (NOAA Scale
+G1).
 
-NOAA Kp index breakdown Dec 17-Dec 19 2023
+NOAA Kp index breakdown Dec 19-Dec 21 2023
 
-             Dec 17       Dec 18       Dec 19
-00-03UT       3.67         4.67 (G1)    3.33     
-03-06UT       4.67 (G1)    4.00         3.00     
-06-09UT       4.33         3.67         2.33     
-09-12UT       5.67 (G2)    3.00         1.33     
-12-15UT       3.00         2.33         1.00     
-15-18UT       3.33         2.33         1.00     
-18-21UT       3.33         2.00         3.00     
-21-00UT       4.33         2.67         3.67     
+             Dec 19       Dec 20       Dec 21
+00-03UT       4.00         3.67         2.67     
+03-06UT       4.67 (G1)    2.67         2.00     
+06-09UT       3.67         2.33         2.33     
+09-12UT       3.00         2.00         2.33     
+12-15UT       2.67         1.67         2.33     
+15-18UT       2.67         2.00         2.33     
+18-21UT       3.67         2.67         2.33     
+21-00UT       4.00         3.67         2.67     
 
-Rationale: G2 (Moderate) geomagnetic storms are likely over 17 Dec and
-G1 (Minor) on 18 due to anticipated transient influence.
+Rationale: The geomagnetic field is expected to continue at primarily
+unsettled to active levels, with early G1 (Minor) storming periods, on
+19 Dec. Primarily unsettled to active conditions are expected on 20
+Dec under positive polarity CH HSS effects, and any weak effects from
+the 15 Dec CME. Quiet to unsettled levels are expected 21 Dec as
+activity begins to wane.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-16 over the past 24 hours, was
-above S-scale storm level thresholds.
+below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Dec 17-Dec 19 2023
+Solar Radiation Storm Forecast for Dec 19-Dec 21 2023
 
-              Dec 17  Dec 18  Dec 19
-S1 or greater   30%      5%      5%
+              Dec 19  Dec 20  Dec 21
+S1 or greater    1%      1%      1%
 
-Rationale: There is a chance for S1 (Minor) solar radiation storms on 17
-Dec.
+Rationale: No S1 (Minor) or greater solar radiation storms are expected.
+No significant active region activity favorable for radiation storm
+production is forecast.
 
 C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Dec 17-Dec 19 2023
+Radio Blackout Forecast for Dec 19-Dec 21 2023
 
-              Dec 17        Dec 18        Dec 19
-R1-R2           55%           25%           25%
-R3 or greater   25%            5%            5%
+              Dec 19        Dec 20        Dec 21
+R1-R2           25%           20%           20%
+R3 or greater    5%            1%            1%
 
-Rationale: R1-R2 (Minor-Moderate), with a chance for R3 (Strong), radio
-blackouts are likely on 17 Dec, primarily due to a region on the W limb
-of the visible disk. As that region rotates off, only a chance for R1
-conditions are expected over 18-19 Dec.
+Rationale: Solar activity is expected to be low through 21 Dec, with a
+chance for M-class (R1-R2/Minor-Moderate) flares on 19 Dec, and a slight
+chance for M-flares on 20-21 Dec.
 
 ```

@@ -1,56 +1,60 @@
 ```
 :Product: 3-Day Forecast
-:Issued: 2023 Dec 17 0030 UTC
+:Issued: 2023 Dec 19 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
-Scale levels).
-The greatest expected 3 hr Kp for Dec 17-Dec 19 2023 is 5.67 (NOAA Scale
+The greatest observed 3 hr Kp over the past 24 hours was 6 (NOAA Scale
 G2).
+The greatest expected 3 hr Kp for Dec 19-Dec 21 2023 is 4.67 (NOAA Scale
+G1).
 
-NOAA Kp index breakdown Dec 17-Dec 19 2023
+NOAA Kp index breakdown Dec 19-Dec 21 2023
 
-             Dec 17       Dec 18       Dec 19
-00-03UT       3.67         4.67 (G1)    3.33     
-03-06UT       4.67 (G1)    4.00         3.00     
-06-09UT       4.33         3.67         2.33     
-09-12UT       5.67 (G2)    3.00         1.33     
-12-15UT       3.00         2.33         1.00     
-15-18UT       3.33         2.33         1.00     
-18-21UT       3.33         2.00         3.00     
-21-00UT       4.33         2.67         3.67     
+             Dec 19       Dec 20       Dec 21
+00-03UT       4.00         3.67         2.67     
+03-06UT       4.67 (G1)    2.67         2.00     
+06-09UT       3.67         2.33         2.33     
+09-12UT       3.00         2.00         2.33     
+12-15UT       2.67         1.67         2.33     
+15-18UT       2.67         2.00         2.33     
+18-21UT       3.67         2.67         2.33     
+21-00UT       4.00         3.67         2.67     
 
-Rationale: G2 (Moderate) geomagnetic storms are likely over 17 Dec and
-G1 (Minor) on 18 due to anticipated transient influence.
+Rationale: The geomagnetic field is expected to continue at primarily
+unsettled to active levels, with early G1 (Minor) storming periods, on
+19 Dec. Primarily unsettled to active conditions are expected on 20
+Dec under positive polarity CH HSS effects, and any weak effects from
+the 15 Dec CME. Quiet to unsettled levels are expected 21 Dec as
+activity begins to wane.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-16 over the past 24 hours, was
-above S-scale storm level thresholds.
+below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Dec 17-Dec 19 2023
+Solar Radiation Storm Forecast for Dec 19-Dec 21 2023
 
-              Dec 17  Dec 18  Dec 19
-S1 or greater   30%      5%      5%
+              Dec 19  Dec 20  Dec 21
+S1 or greater    1%      1%      1%
 
-Rationale: There is a chance for S1 (Minor) solar radiation storms on 17
-Dec.
+Rationale: No S1 (Minor) or greater solar radiation storms are expected.
+No significant active region activity favorable for radiation storm
+production is forecast.
 
 C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Dec 17-Dec 19 2023
+Radio Blackout Forecast for Dec 19-Dec 21 2023
 
-              Dec 17        Dec 18        Dec 19
-R1-R2           55%           25%           25%
-R3 or greater   25%            5%            5%
+              Dec 19        Dec 20        Dec 21
+R1-R2           25%           20%           20%
+R3 or greater    5%            1%            1%
 
-Rationale: R1-R2 (Minor-Moderate), with a chance for R3 (Strong), radio
-blackouts are likely on 17 Dec, primarily due to a region on the W limb
-of the visible disk. As that region rotates off, only a chance for R1
-conditions are expected over 18-19 Dec.
+Rationale: Solar activity is expected to be low through 21 Dec, with a
+chance for M-class (R1-R2/Minor-Moderate) flares on 19 Dec, and a slight
+chance for M-flares on 20-21 Dec.
 
 ```
