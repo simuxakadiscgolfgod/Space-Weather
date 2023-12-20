@@ -1,13 +1,13 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2023-12-19
+<br />**Date image released:**  2023-12-20
 <br />**This image is owned by:**  
-Steven Powell
+Bastian Werner
 
-<br />**Title of the image:**  NGC 1499: The California Nebula
-<br />**Description for the image:**  Could Queen Calafia's mythical island exist in space? Perhaps not, but by chance the outline of this molecular space cloud echoes the outline of the state of California, USA. Our Sun has its home within the Milky Way's Orion Arm, only about 1,000 light-years from the California Nebula. Also known as NGC 1499, the classic emission nebula is around 100 light-years long. On the featured image, the most prominent glow of the California Nebula is the red light characteristic of hydrogen atoms recombining with long lost electrons, stripped away (ionized) by energetic starlight. The star most likely providing the energetic starlight that ionizes much of the nebular gas is the bright, hot, bluish Xi Persei just to the right of the nebula.  A regular target for astrophotographers, the California Nebula can be spotted with a wide-field telescope under a dark sky toward the constellation of Perseus, not far from the Pleiades.   Explore Your Universe: Random APOD Generator
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2312/CalNeb_Powell_3923.jpg
+<br />**Title of the image:**  Ice Halos over Bavaria
+<br />**Description for the image:**  What's causing those unusual sky arcs? Ice crystals.  While crossing a field of fresh snow near Füssen, Bavaria, Germany, earlier this month, the photographer noticed that he had entered an ice fog.  For suspended water to freeze into an ice fog requires quite cold temperatures, and indeed the air temperature on this day was measured at well below zero.  The ice fog reflected light from the Sun setting behind St. Coleman Church.  The result was one of the greatest spectacles the photographer has ever seen. First, the spots in the featured picture are not background stars but suspended ice and snow. Next, two prominent ice halos are visible: the 22-degree halo and the 46-degree halo. Multiple arcs are also visible, including, from top to bottom, antisolar (subsun), circumzenithal, Parry, tangent, and parhelic (horizontal). Finally, the balloon shaped curve connecting the top arc to the Sun is the rarest of all: it is the heliac arc, created by reflection from the sides of hexagonally shaped ice crystals suspended in a horizontal orientation.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2312/BavarianHalos_Werner_1500.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -51,43 +51,39 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2023 Dec 19 0030 UTC
+:Issued: 2023 Dec 20 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 6 (NOAA Scale
-G2).
-The greatest expected 3 hr Kp for Dec 19-Dec 21 2023 is 4.67 (NOAA Scale
-G1).
+The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
+Scale levels).
+The greatest expected 3 hr Kp for Dec 20-Dec 22 2023 is 3.67 (below NOAA
+Scale levels).
 
-NOAA Kp index breakdown Dec 19-Dec 21 2023
+NOAA Kp index breakdown Dec 20-Dec 22 2023
 
-             Dec 19       Dec 20       Dec 21
-00-03UT       4.00         3.67         2.67     
-03-06UT       4.67 (G1)    2.67         2.00     
-06-09UT       3.67         2.33         2.33     
-09-12UT       3.00         2.00         2.33     
-12-15UT       2.67         1.67         2.33     
-15-18UT       2.67         2.00         2.33     
-18-21UT       3.67         2.67         2.33     
-21-00UT       4.00         3.67         2.67     
+             Dec 20       Dec 21       Dec 22
+00-03UT       3.00         2.67         1.33     
+03-06UT       3.67         2.00         1.33     
+06-09UT       2.33         2.33         1.67     
+09-12UT       2.33         2.33         1.67     
+12-15UT       2.33         2.33         1.33     
+15-18UT       2.67         2.33         1.33     
+18-21UT       3.67         2.33         1.67     
+21-00UT       3.33         2.67         1.33     
 
-Rationale: The geomagnetic field is expected to continue at primarily
-unsettled to active levels, with early G1 (Minor) storming periods, on
-19 Dec. Primarily unsettled to active conditions are expected on 20
-Dec under positive polarity CH HSS effects, and any weak effects from
-the 15 Dec CME. Quiet to unsettled levels are expected 21 Dec as
-activity begins to wane.
+Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
+significant transient or recurrent solar wind features are forecast.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-16 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Dec 19-Dec 21 2023
+Solar Radiation Storm Forecast for Dec 20-Dec 22 2023
 
-              Dec 19  Dec 20  Dec 21
+              Dec 20  Dec 21  Dec 22
 S1 or greater    1%      1%      1%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -98,14 +94,13 @@ C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Dec 19-Dec 21 2023
+Radio Blackout Forecast for Dec 20-Dec 22 2023
 
-              Dec 19        Dec 20        Dec 21
-R1-R2           25%           20%           20%
-R3 or greater    5%            1%            1%
+              Dec 20        Dec 21        Dec 22
+R1-R2           25%           25%           25%
+R3 or greater    5%            5%            5%
 
-Rationale: Solar activity is expected to be low through 21 Dec, with a
-chance for M-class (R1-R2/Minor-Moderate) flares on 19 Dec, and a slight
-chance for M-flares on 20-21 Dec.
+Rationale: There is a chance for R1-R2 (Minor-Moderate) radio blackouts
+mainly due to ARs 3528 and 3529.
 
 ```
