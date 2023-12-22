@@ -1,13 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2023-12-20
-<br />**This image is owned by:**  
-Bastian Werner
-
-<br />**Title of the image:**  Ice Halos over Bavaria
-<br />**Description for the image:**  What's causing those unusual sky arcs? Ice crystals.  While crossing a field of fresh snow near Füssen, Bavaria, Germany, earlier this month, the photographer noticed that he had entered an ice fog.  For suspended water to freeze into an ice fog requires quite cold temperatures, and indeed the air temperature on this day was measured at well below zero.  The ice fog reflected light from the Sun setting behind St. Coleman Church.  The result was one of the greatest spectacles the photographer has ever seen. First, the spots in the featured picture are not background stars but suspended ice and snow. Next, two prominent ice halos are visible: the 22-degree halo and the 46-degree halo. Multiple arcs are also visible, including, from top to bottom, antisolar (subsun), circumzenithal, Parry, tangent, and parhelic (horizontal). Finally, the balloon shaped curve connecting the top arc to the Sun is the rarest of all: it is the heliac arc, created by reflection from the sides of hexagonally shaped ice crystals suspended in a horizontal orientation.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2312/BavarianHalos_Werner_1500.jpg
+<br />**Date image released:**  2023-12-22
+<br />**This image is owned by:**  solargraph
+<br />**Title of the image:**  183 Days in the Sun
+<br />**Description for the image:**  A single 183 day exposure with a pinhole camera and photographic paper resulted in this long-duration solargraph. Recorded from solstice to solstice, June 21 to December 21, in 2022, it follows the Sun's daily arcing path through planet Earth's skies from Mertola, Portugal. On June 21, the Sun's highest point and longest arc represents the longest day and the astronomical beginning of summer in the northern hemisphere. The solstice date with the fewest hours of daylight is at the beginning of winter in the north, corresponding to the Sun's shortest and lowest arc in the 2022 solargraph. For 2023, the northern winter solstice was on December 22 at 3:27 UTC. That's December 21 for North America time zones.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2312/solsticesolargraphy.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -51,27 +49,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2023 Dec 20 0030 UTC
+:Issued: 2023 Dec 22 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Dec 20-Dec 22 2023 is 3.67 (below NOAA
+The greatest expected 3 hr Kp for Dec 22-Dec 24 2023 is 3.67 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Dec 20-Dec 22 2023
+NOAA Kp index breakdown Dec 22-Dec 24 2023
 
-             Dec 20       Dec 21       Dec 22
-00-03UT       3.00         2.67         1.33     
-03-06UT       3.67         2.00         1.33     
-06-09UT       2.33         2.33         1.67     
-09-12UT       2.33         2.33         1.67     
-12-15UT       2.33         2.33         1.33     
-15-18UT       2.67         2.33         1.33     
-18-21UT       3.67         2.33         1.67     
-21-00UT       3.33         2.67         1.33     
+             Dec 22       Dec 23       Dec 24
+00-03UT       2.00         3.67         2.33     
+03-06UT       1.67         3.00         2.67     
+06-09UT       1.67         3.33         2.00     
+09-12UT       1.33         2.00         2.00     
+12-15UT       1.00         2.00         2.00     
+15-18UT       1.00         1.67         2.00     
+18-21UT       1.67         2.33         2.00     
+21-00UT       1.33         2.67         2.33     
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
 significant transient or recurrent solar wind features are forecast.
@@ -81,10 +79,10 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-16 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Dec 20-Dec 22 2023
+Solar Radiation Storm Forecast for Dec 22-Dec 24 2023
 
-              Dec 20  Dec 21  Dec 22
-S1 or greater    1%      1%      1%
+              Dec 22  Dec 23  Dec 24
+S1 or greater    5%      5%      5%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
 No significant active region activity favorable for radiation storm
@@ -92,15 +90,16 @@ production is forecast.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-No radio blackouts were observed over the past 24 hours.
+Radio blackouts reaching the R1 levels were observed over the past 24
+hours. The largest was at Dec 21 2023 0538 UTC.
 
-Radio Blackout Forecast for Dec 20-Dec 22 2023
+Radio Blackout Forecast for Dec 22-Dec 24 2023
 
-              Dec 20        Dec 21        Dec 22
-R1-R2           25%           25%           25%
+              Dec 22        Dec 23        Dec 24
+R1-R2           40%           40%           40%
 R3 or greater    5%            5%            5%
 
-Rationale: There is a chance for R1-R2 (Minor-Moderate) radio blackouts
-mainly due to ARs 3528 and 3529.
+Rationale: There exists a chance for R1-R2 (Minor-Moderate) radio
+blackouts over the next three days.
 
 ```

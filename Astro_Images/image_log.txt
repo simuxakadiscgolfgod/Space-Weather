@@ -1,7 +1,5 @@
-<br />**Date image released:**  2023-12-20
-<br />**This image is owned by:**  
-Bastian Werner
-
-<br />**Title of the image:**  Ice Halos over Bavaria
-<br />**Description for the image:**  What's causing those unusual sky arcs? Ice crystals.  While crossing a field of fresh snow near Füssen, Bavaria, Germany, earlier this month, the photographer noticed that he had entered an ice fog.  For suspended water to freeze into an ice fog requires quite cold temperatures, and indeed the air temperature on this day was measured at well below zero.  The ice fog reflected light from the Sun setting behind St. Coleman Church.  The result was one of the greatest spectacles the photographer has ever seen. First, the spots in the featured picture are not background stars but suspended ice and snow. Next, two prominent ice halos are visible: the 22-degree halo and the 46-degree halo. Multiple arcs are also visible, including, from top to bottom, antisolar (subsun), circumzenithal, Parry, tangent, and parhelic (horizontal). Finally, the balloon shaped curve connecting the top arc to the Sun is the rarest of all: it is the heliac arc, created by reflection from the sides of hexagonally shaped ice crystals suspended in a horizontal orientation.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2312/BavarianHalos_Werner_1500.jpg
+<br />**Date image released:**  2023-12-22
+<br />**This image is owned by:**  solargraph
+<br />**Title of the image:**  183 Days in the Sun
+<br />**Description for the image:**  A single 183 day exposure with a pinhole camera and photographic paper resulted in this long-duration solargraph. Recorded from solstice to solstice, June 21 to December 21, in 2022, it follows the Sun's daily arcing path through planet Earth's skies from Mertola, Portugal. On June 21, the Sun's highest point and longest arc represents the longest day and the astronomical beginning of summer in the northern hemisphere. The solstice date with the fewest hours of daylight is at the beginning of winter in the north, corresponding to the Sun's shortest and lowest arc in the 2022 solargraph. For 2023, the northern winter solstice was on December 22 at 3:27 UTC. That's December 21 for North America time zones.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2312/solsticesolargraphy.jpg
