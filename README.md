@@ -1,13 +1,13 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2023-12-25
+<br />**Date image released:**  2023-12-26
 <br />**This image is owned by:**  
-Valerio Minato
+David Payne
 
-<br />**Title of the image:**  Cathedral, Mountain, Moon
-<br />**Description for the image:**  Single shots like this require planning.  The first step is to realize that such an amazing triple-alignment actually takes place. The second step is to find the best location to photograph it. But it was the third step: being there at exactly the right time -- and when the sky was clear -- that was the hardest. Five times over six years the photographer tried and found bad weather.  Finally, just ten days ago, the weather was perfect, and a photographic dream was realized. Taken in Piemonte, Italy, the cathedral in the foreground is the Basilica of Superga, the mountain in the middle is Monviso, and, well, you know which moon is in the background. Here, even though the setting Moon was captured in a crescent phase, the exposure was long enough for doubly reflected Earthlight, called the da Vinci glow, to illuminate the entire top of the Moon.    Your Sky Surprise: What picture did APOD feature on your birthday? (post 1995)
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2312/MoonAligned_Minato_2974.jpg
+<br />**Title of the image:**  IC 443: The Jellyfish Nebula
+<br />**Description for the image:**  Why is this jellyfish swimming in a sea of stars? Drifting near bright star Eta Geminorum, seen at the right, the Jellyfish Nebula extends its tentacles from the bright arcing ridge of emission left of center.  In fact, the cosmic jellyfish is part of bubble-shaped supernova remnant IC 443, the expanding debris cloud from a massive star that exploded.  Light from the explosion first reached planet Earth over 30,000 years ago.  Like its cousin in astronomical waters, the Crab Nebula supernova remnant IC 443 is known to harbor a neutron star -- the remnant of the collapsed stellar core.  The Jellyfish Nebula is about 5,000 light-years away.  At that distance, the featured image would span about 140 light-years across.   Your Sky Surprise: What picture did APOD feature on your birthday? (post 1995)
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2312/Jellyfish_Payne_7846.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -51,27 +51,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2023 Dec 25 0030 UTC
+:Issued: 2023 Dec 26 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Dec 25-Dec 27 2023 is 4.00 (below NOAA
+The greatest expected 3 hr Kp for Dec 26-Dec 28 2023 is 4.00 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Dec 25-Dec 27 2023
+NOAA Kp index breakdown Dec 26-Dec 28 2023
 
-             Dec 25       Dec 26       Dec 27
-00-03UT       1.67         1.67         1.67     
-03-06UT       2.00         2.00         2.00     
-06-09UT       1.67         1.67         1.67     
-09-12UT       1.33         1.00         1.33     
-12-15UT       0.67         1.33         1.00     
-15-18UT       1.00         0.67         1.33     
-18-21UT       1.67         1.67         4.00     
-21-00UT       1.67         1.67         3.67     
+             Dec 26       Dec 27       Dec 28
+00-03UT       1.67         1.67         4.00     
+03-06UT       2.00         2.00         3.67     
+06-09UT       1.67         1.67         3.00     
+09-12UT       1.00         1.33         3.00     
+12-15UT       1.33         1.33         2.67     
+15-18UT       0.67         2.00         2.00     
+18-21UT       1.67         3.67         2.00     
+21-00UT       1.67         3.67         2.67     
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
 significant transient or recurrent solar wind features are forecast.
@@ -81,9 +81,9 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-16 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Dec 25-Dec 27 2023
+Solar Radiation Storm Forecast for Dec 26-Dec 28 2023
 
-              Dec 25  Dec 26  Dec 27
+              Dec 26  Dec 27  Dec 28
 S1 or greater    5%      5%      5%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -92,16 +92,15 @@ production is forecast.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-Radio blackouts reaching the R1 levels were observed over the past 24
-hours. The largest was at Dec 24 2023 1118 UTC.
+No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Dec 25-Dec 27 2023
+Radio Blackout Forecast for Dec 26-Dec 28 2023
 
-              Dec 25        Dec 26        Dec 27
-R1-R2           35%           35%           35%
+              Dec 26        Dec 27        Dec 28
+R1-R2           30%           30%           30%
 R3 or greater    5%            5%            5%
 
-Rationale: There exists a chance for R1-R2 (Minor-Moderate) radio
-blackouts over the next three days.
+Rationale: No R1 (Minor) or greater radio blackouts are expected.  No
+significant active region flare activity is forecast.
 
 ```
