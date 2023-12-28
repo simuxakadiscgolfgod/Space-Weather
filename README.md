@@ -1,13 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2023-12-27
-<br />**This image is owned by:**  
-Stefano Pellegrini
-
-<br />**Title of the image:**  Rainbow Aurora over Icelandic Waterfall
-<br />**Description for the image:**  Yes, but can your aurora do this? First, yes, auroras can look like rainbows even though they are completely different phenomena. Auroras are caused by Sun-created particles being channeled into Earth's atmosphere by Earth's magnetic field, and create colors by exciting atoms at different heights. Conversely, rainbows are created by sunlight backscattering off falling raindrops, and different colors are refracted by slightly different angles.  Unfortunately, auroras can’t create waterfalls, but if you plan well and are lucky enough, you can photograph them together. The featured picture is composed of several images taken on the same night last month near the Skógafoss waterfall in Iceland. The planning centered on capturing the central band of our Milky Way galaxy over the picturesque cascade. By luck, a spectacular aurora soon appeared just below the curving arch of the Milky Way. Far in the background, the Pleiades star cluster and the Andromeda galaxy can be found.    Your Sky Surprise: What picture did APOD feature on your birthday? (post 1995)
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2312/ArchFalls_Pellegrini_2000.jpg
+<br />**Date image released:**  2023-12-28
+<br />**This image is owned by:**  Gaurav Singh
+<br />**Title of the image:**  Jupiter and the Geminid
+<br />**Description for the image:**  For a brief moment, this brilliant fireball meteor outshone Jupiter in planet Earth's night. The serendipitous image was captured while hunting meteors under cold Canadian skies with a camera in timelapse mode on December 14, near the peak of the Geminid meteor shower. The Geminid meteor shower, asteroid 3200 Phaethon's annual gift, always arrives in December. Dust shed along the orbit of the mysterious asteroid causes the meteor streaks, as the vaporizing grains plow through our fair planet's upper atmosphere at 22 kilometers per second. Of course Geminid shower meteors appear to radiate from a point in the constellation of the Twins. That's below and left of this frame. With bright Jupiter on the right, also in the December night skyview are the Pleiades and Hyades star clusters.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2312/G0030446.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -51,27 +49,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2023 Dec 27 0030 UTC
+:Issued: 2023 Dec 28 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Dec 27-Dec 29 2023 is 4.00 (below NOAA
+The greatest expected 3 hr Kp for Dec 28-Dec 30 2023 is 4.00 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Dec 27-Dec 29 2023
+NOAA Kp index breakdown Dec 28-Dec 30 2023
 
-             Dec 27       Dec 28       Dec 29
-00-03UT       1.67         4.00         3.00     
-03-06UT       2.00         3.67         2.33     
-06-09UT       1.67         3.00         2.00     
-09-12UT       1.33         3.00         2.00     
-12-15UT       1.33         2.67         2.00     
-15-18UT       2.00         2.00         2.00     
-18-21UT       3.67         2.00         2.00     
-21-00UT       3.67         2.67         2.00     
+             Dec 28       Dec 29       Dec 30
+00-03UT       4.00         3.00         2.00     
+03-06UT       3.67         2.33         3.33     
+06-09UT       3.00         2.00         3.00     
+09-12UT       3.00         2.00         2.00     
+12-15UT       2.67         2.00         2.00     
+15-18UT       2.00         2.00         2.33     
+18-21UT       2.00         2.00         2.00     
+21-00UT       2.67         2.00         2.00     
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
 significant transient or recurrent solar wind features are forecast.
@@ -81,10 +79,10 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-16 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Dec 27-Dec 29 2023
+Solar Radiation Storm Forecast for Dec 28-Dec 30 2023
 
-              Dec 27  Dec 28  Dec 29
-S1 or greater    5%      5%      5%
+              Dec 28  Dec 29  Dec 30
+S1 or greater    1%      1%      1%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
 No significant active region activity favorable for radiation storm
@@ -94,11 +92,11 @@ C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Dec 27-Dec 29 2023
+Radio Blackout Forecast for Dec 28-Dec 30 2023
 
-              Dec 27        Dec 28        Dec 29
-R1-R2           20%           20%           20%
-R3 or greater    5%            5%            5%
+              Dec 28        Dec 29        Dec 30
+R1-R2           15%           15%           15%
+R3 or greater    1%            1%            1%
 
 Rationale: No R1 (Minor) or greater radio blackouts are expected.  No
 significant active region flare activity is forecast.
