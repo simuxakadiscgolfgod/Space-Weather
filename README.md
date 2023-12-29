@@ -1,11 +1,10 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2023-12-28
-<br />**This image is owned by:**  Gaurav Singh
-<br />**Title of the image:**  Jupiter and the Geminid
-<br />**Description for the image:**  For a brief moment, this brilliant fireball meteor outshone Jupiter in planet Earth's night. The serendipitous image was captured while hunting meteors under cold Canadian skies with a camera in timelapse mode on December 14, near the peak of the Geminid meteor shower. The Geminid meteor shower, asteroid 3200 Phaethon's annual gift, always arrives in December. Dust shed along the orbit of the mysterious asteroid causes the meteor streaks, as the vaporizing grains plow through our fair planet's upper atmosphere at 22 kilometers per second. Of course Geminid shower meteors appear to radiate from a point in the constellation of the Twins. That's below and left of this frame. With bright Jupiter on the right, also in the December night skyview are the Pleiades and Hyades star clusters.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2312/G0030446.jpg
+<br />**Date image released:**  2023-12-29
+<br />**Title of the image:**  Shakespeare in Space
+<br />**Description for the image:**  In 1986, Voyager 2 became the only spacecraft to explore ice giant planet Uranus close up. Still, this newly released image from the NIRCam (Near-Infrared Camera) on the James Webb Space Telescope offers a detailed look at the distant world. The tilted outer planet rotates on its axis once in about 17 hours. Its north pole is presently pointed near our line of sight, offering direct views of its northern hemisphere and a faint but extensive system of rings. Of the giant planet's 27 known moons, 14 are annotated in the image. The brighter ones show hints of Webb's characteristic diffraction spikes. And though these worlds of the outer Solar System were unknown in Shakespearean times, all but two of the 27 Uranian moons are named for characters in the English Bard's plays.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2312/STScI-UranusJWST.png
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,27 +48,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2023 Dec 28 0030 UTC
+:Issued: 2023 Dec 29 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Dec 28-Dec 30 2023 is 4.00 (below NOAA
+The greatest expected 3 hr Kp for Dec 29-Dec 31 2023 is 3.33 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Dec 28-Dec 30 2023
+NOAA Kp index breakdown Dec 29-Dec 31 2023
 
-             Dec 28       Dec 29       Dec 30
-00-03UT       4.00         3.00         2.00     
-03-06UT       3.67         2.33         3.33     
-06-09UT       3.00         2.00         3.00     
-09-12UT       3.00         2.00         2.00     
-12-15UT       2.67         2.00         2.00     
-15-18UT       2.00         2.00         2.33     
-18-21UT       2.00         2.00         2.00     
-21-00UT       2.67         2.00         2.00     
+             Dec 29       Dec 30       Dec 31
+00-03UT       3.00         2.00         2.33     
+03-06UT       2.33         3.33         2.67     
+06-09UT       2.00         3.00         2.33     
+09-12UT       2.00         2.00         2.00     
+12-15UT       2.00         2.00         1.67     
+15-18UT       2.00         2.33         1.33     
+18-21UT       2.00         2.00         1.67     
+21-00UT       2.00         2.00         1.67     
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
 significant transient or recurrent solar wind features are forecast.
@@ -79,9 +78,9 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-16 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Dec 28-Dec 30 2023
+Solar Radiation Storm Forecast for Dec 29-Dec 31 2023
 
-              Dec 28  Dec 29  Dec 30
+              Dec 29  Dec 30  Dec 31
 S1 or greater    1%      1%      1%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -92,13 +91,13 @@ C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Dec 28-Dec 30 2023
+Radio Blackout Forecast for Dec 29-Dec 31 2023
 
-              Dec 28        Dec 29        Dec 30
-R1-R2           15%           15%           15%
+              Dec 29        Dec 30        Dec 31
+R1-R2           10%           10%           10%
 R3 or greater    1%            1%            1%
 
-Rationale: No R1 (Minor) or greater radio blackouts are expected.  No
-significant active region flare activity is forecast.
+Rationale: A slight chance for R1-R2 (Minor-Moderate) radio blackouts
+exists.
 
 ```
