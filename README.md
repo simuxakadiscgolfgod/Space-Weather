@@ -2,6 +2,10 @@
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
 <br />**Sorry, Image not available!**
+<br />**Date image released:**  2024-01-01
+<br />**Title of the image:**  NGC 1232: A Grand Design Spiral Galaxy
+<br />**Description for the image:**  Galaxies are fascinating not only for what is visible, but for what is invisible. Grand spiral galaxy NGC 1232, captured in detail by one of the Very Large Telescopes, is a good example.  The visible is dominated by millions of bright stars and dark dust, caught up in a gravitational swirl of spiral arms revolving about the center. Open clusters containing bright blue stars can be seen sprinkled along these spiral arms, while dark lanes of dense interstellar dust can be seen sprinkled between them. Less visible, but detectable, are billions of dim normal stars and vast tracts of interstellar gas, together wielding such high mass that they dominate the dynamics of the inner galaxy.  Leading theories indicate that even greater amounts of matter are invisible, in a form we don't yet know. This pervasive dark matter is postulated, in part, to explain the motions of the visible matter in the outer regions of galaxies.    Free APOD Lecture: January 9, 2024 to the Amateur Astronomers of Association of New York
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2401/ngc1232b_vlt_3969.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -45,27 +49,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2023 Dec 31 0030 UTC
+:Issued: 2024 Jan 01 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 1 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Dec 31-Jan 02 2024 is 4.00 (below NOAA
+The greatest expected 3 hr Kp for Jan 01-Jan 03 2024 is 4.00 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Dec 31-Jan 02 2024
+NOAA Kp index breakdown Jan 01-Jan 03 2024
 
-             Dec 31       Jan 01       Jan 02
-00-03UT       2.00         2.67         4.00     
-03-06UT       3.00         3.00         3.67     
-06-09UT       2.00         2.67         3.00     
-09-12UT       1.67         2.00         2.67     
+             Jan 01       Jan 02       Jan 03
+00-03UT       2.67         4.00         2.33     
+03-06UT       3.00         3.67         2.00     
+06-09UT       2.67         3.00         2.00     
+09-12UT       2.00         2.67         2.00     
 12-15UT       2.00         2.00         2.00     
-15-18UT       2.00         3.00         0.67     
-18-21UT       2.67         3.67         1.67     
-21-00UT       3.00         4.00         2.00     
+15-18UT       3.00         0.67         2.00     
+18-21UT       3.67         1.67         2.00     
+21-00UT       4.00         2.00         2.33     
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
 significant transient or recurrent solar wind features are forecast.
@@ -75,26 +79,27 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-16 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Dec 31-Jan 02 2024
+Solar Radiation Storm Forecast for Jan 01-Jan 03 2024
 
-              Dec 31  Jan 01  Jan 02
-S1 or greater    1%      1%      1%
+              Jan 01  Jan 02  Jan 03
+S1 or greater   40%     25%     25%
 
-Rationale: No S1 (Minor) or greater solar radiation storms are expected.
-No significant active region activity favorable for radiation storm
-production is forecast.
+Rationale: A chance exists for S1 (Minor or greater) solar radiation
+storms for the next three days from Region 3536.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-No radio blackouts were observed over the past 24 hours.
+Radio blackouts reaching the R3 levels were observed over the past 24
+hours. The largest was at Dec 31 2023 2155 UTC.
 
-Radio Blackout Forecast for Dec 31-Jan 02 2024
+Radio Blackout Forecast for Jan 01-Jan 03 2024
 
-              Dec 31        Jan 01        Jan 02
-R1-R2           15%           15%           15%
-R3 or greater    1%            1%            1%
+              Jan 01        Jan 02        Jan 03
+R1-R2           60%           60%           60%
+R3 or greater   25%           25%           25%
 
-Rationale: No R1 (Minor) or greater radio blackouts are expected.  No
-significant active region flare activity is forecast.
+Rationale: R1-R2 (Minor-Moderate) radio blackouts are likely, with a
+chance for R3 (Strong or greater), for the next three days from Region
+3536
 
 ```
