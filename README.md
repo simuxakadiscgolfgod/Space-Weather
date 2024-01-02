@@ -1,11 +1,13 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Sorry, Image not available!**
-<br />**Date image released:**  2024-01-01
-<br />**Title of the image:**  NGC 1232: A Grand Design Spiral Galaxy
-<br />**Description for the image:**  Galaxies are fascinating not only for what is visible, but for what is invisible. Grand spiral galaxy NGC 1232, captured in detail by one of the Very Large Telescopes, is a good example.  The visible is dominated by millions of bright stars and dark dust, caught up in a gravitational swirl of spiral arms revolving about the center. Open clusters containing bright blue stars can be seen sprinkled along these spiral arms, while dark lanes of dense interstellar dust can be seen sprinkled between them. Less visible, but detectable, are billions of dim normal stars and vast tracts of interstellar gas, together wielding such high mass that they dominate the dynamics of the inner galaxy.  Leading theories indicate that even greater amounts of matter are invisible, in a form we don't yet know. This pervasive dark matter is postulated, in part, to explain the motions of the visible matter in the outer regions of galaxies.    Free APOD Lecture: January 9, 2024 to the Amateur Astronomers of Association of New York
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2401/ngc1232b_vlt_3969.jpg
+<br />**Date image released:**  2024-01-02
+<br />**This image is owned by:**  
+Steven Madow
+
+<br />**Title of the image:**  Rocket Transits Rippling Moon
+<br />**Description for the image:**  Can a rocket make the Moon ripple? No, but it can make a background moon appear wavy.  The rocket, in this case, was a SpaceX Falcon Heavy that blasted off from NASA's Kennedy Space Center last week. In the featured launch picture, the rocket's exhaust plume glows beyond its projection onto the distant, rising, and nearly full moon.  Oddly, the Moon's lower edge shows unusual drip-like ripples. The Moon itself, far in the distance, was really unchanged.  The physical cause of these apparent ripples was pockets of relatively hot or rarefied air deflecting moonlight less strongly than pockets of relatively cool or compressed air: refraction. Although the shot was planned, the timing of the launch had to be just right for the rocket to be transiting the Moon during this single exposure.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2401/FalconMoon_Madow_1710.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,57 +51,57 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Jan 01 0030 UTC
+:Issued: 2024 Jan 02 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 1 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Jan 01-Jan 03 2024 is 4.00 (below NOAA
-Scale levels).
+The greatest expected 3 hr Kp for Jan 02-Jan 04 2024 is 5.00 (NOAA Scale
+G1).
 
-NOAA Kp index breakdown Jan 01-Jan 03 2024
+NOAA Kp index breakdown Jan 02-Jan 04 2024
 
-             Jan 01       Jan 02       Jan 03
-00-03UT       2.67         4.00         2.33     
-03-06UT       3.00         3.67         2.00     
-06-09UT       2.67         3.00         2.00     
-09-12UT       2.00         2.67         2.00     
-12-15UT       2.00         2.00         2.00     
-15-18UT       3.00         0.67         2.00     
-18-21UT       3.67         1.67         2.00     
-21-00UT       4.00         2.00         2.33     
+             Jan 02       Jan 03       Jan 04
+00-03UT       3.00         3.33         2.00     
+03-06UT       3.33         3.67         2.67     
+06-09UT       5.00 (G1)    3.67         2.00     
+09-12UT       4.67 (G1)    3.00         2.00     
+12-15UT       4.00         2.33         2.00     
+15-18UT       3.67         2.00         2.00     
+18-21UT       3.33         2.00         2.00     
+21-00UT       3.67         2.33         2.33     
 
-Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
-significant transient or recurrent solar wind features are forecast.
+Rationale: G1 (Minor) geomagnetic storms are expected in response to the
+passage of a transients solar wind features.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-16 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Jan 01-Jan 03 2024
+Solar Radiation Storm Forecast for Jan 02-Jan 04 2024
 
-              Jan 01  Jan 02  Jan 03
-S1 or greater   40%     25%     25%
+              Jan 02  Jan 03  Jan 04
+S1 or greater   25%     25%     25%
 
-Rationale: A chance exists for S1 (Minor or greater) solar radiation
-storms for the next three days from Region 3536.
+Rationale: No S1 (Minor) or greater solar radiation storms are expected.
+No significant active region activity favorable for radiation storm
+production is forecast.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-Radio blackouts reaching the R3 levels were observed over the past 24
-hours. The largest was at Dec 31 2023 2155 UTC.
+Radio blackouts reaching the R1 levels were observed over the past 24
+hours. The largest was at Jan 01 2024 1225 UTC.
 
-Radio Blackout Forecast for Jan 01-Jan 03 2024
+Radio Blackout Forecast for Jan 02-Jan 04 2024
 
-              Jan 01        Jan 02        Jan 03
+              Jan 02        Jan 03        Jan 04
 R1-R2           60%           60%           60%
 R3 or greater   25%           25%           25%
 
-Rationale: R1-R2 (Minor-Moderate) radio blackouts are likely, with a
-chance for R3 (Strong or greater), for the next three days from Region
-3536
+Rationale: R1-R2 (Minor - Moderate) radio blackouts are expected, with a
+chance for strong or greater radio blackouts.
 
 ```
