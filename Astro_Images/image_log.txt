@@ -1,9 +1,4 @@
-<br />**Date image released:**  2024-01-03
-<br />**This image is owned by:**  
-Tristian McDonald;
-Text: Tiffany Lewis 
-(Michigan Tech U.)
-
-<br />**Title of the image:**  A SAR Arc from New Zealand
-<br />**Description for the image:**  What is that unusual red halo surrounding this aurora?  It is a Stable Auroral Red (SAR) arc. SAR arcs are rare and have only been acknowledged and studied since 1954.  The featured wide-angle photograph, capturing nearly an entire SAR arc surrounding more common green and red aurora, was taken earlier this month from Poolburn, New Zealand, during an especially energetic geomagnetic storm. Why SAR arcs form remains a topic of research, but is likely related to Earth's protective magnetic field, a field created by molten iron flowing deep inside the Earth.  This magnetic field usually redirects incoming charged particles from the Sun's wind toward the Earth's poles. However, it also traps a ring of ions closer to the equator, where they can gain energy from the magnetosphere during high solar activity. The energetic electrons in this ion ring can collide with and excite oxygen higher in Earth's ionosphere than typical auroras, causing the oxygen to glow red. Ongoing research has uncovered evidence that a red SAR arc can even transform into a purple and green STEVE.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2401/SarArcNz_McDonald_2048.jpg
+<br />**Date image released:**  2024-01-04
+<br />**Title of the image:**  Zeta Oph: Runaway Star
+<br />**Description for the image:**  Like a ship plowing through cosmic seas, runaway star Zeta Ophiuchi produces the arcing interstellar bow wave or bow shock seen in this stunning infrared portrait. In the false-color view, bluish Zeta Oph, a star about 20 times more massive than the Sun, lies near the center of the frame, moving toward the left at 24 kilometers per second. Its strong stellar wind precedes it, compressing and heating the dusty interstellar material and shaping the curved shock front. What set this star in motion? Zeta Oph was likely once a member of a binary star system, its companion star was more massive and hence shorter lived. When the companion exploded as a supernova catastrophically losing mass, Zeta Oph was flung out of the system.  About 460 light-years away, Zeta Oph is 65,000 times more luminous than the Sun and would be one of the brighter stars in the sky if it weren't surrounded by obscuring dust. The image spans about 1.5 degrees or 12 light-years at the estimated distance of Zeta Ophiuchi. In January 2020, NASA placed the Spitzer Space Telescope in safe mode, ending its 16 successful years of exploring the cosmos.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2401/ZetaOph_spitzer_4015.jpg
