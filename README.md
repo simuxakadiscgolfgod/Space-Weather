@@ -1,10 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2024-01-04
-<br />**Title of the image:**  Zeta Oph: Runaway Star
-<br />**Description for the image:**  Like a ship plowing through cosmic seas, runaway star Zeta Ophiuchi produces the arcing interstellar bow wave or bow shock seen in this stunning infrared portrait. In the false-color view, bluish Zeta Oph, a star about 20 times more massive than the Sun, lies near the center of the frame, moving toward the left at 24 kilometers per second. Its strong stellar wind precedes it, compressing and heating the dusty interstellar material and shaping the curved shock front. What set this star in motion? Zeta Oph was likely once a member of a binary star system, its companion star was more massive and hence shorter lived. When the companion exploded as a supernova catastrophically losing mass, Zeta Oph was flung out of the system.  About 460 light-years away, Zeta Oph is 65,000 times more luminous than the Sun and would be one of the brighter stars in the sky if it weren't surrounded by obscuring dust. The image spans about 1.5 degrees or 12 light-years at the estimated distance of Zeta Ophiuchi. In January 2020, NASA placed the Spitzer Space Telescope in safe mode, ending its 16 successful years of exploring the cosmos.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2401/ZetaOph_spitzer_4015.jpg
+<br />**Date image released:**  2024-01-05
+<br />**This image is owned by:**  Fred Zimmer
+<br />**Title of the image:**  Trapezium: At the Heart of Orion
+<br />**Description for the image:**  Near the center of this sharp cosmic portrait, at the heart of the Orion Nebula, are four hot, massive stars known as the Trapezium. Gathered within a region about 1.5 light-years in radius, they dominate the core of the dense Orion Nebula Star Cluster. Ultraviolet ionizing radiation from the Trapezium stars, mostly from the brightest star Theta-1 Orionis C powers the complex star forming region's entire visible glow. About three million years old, the Orion Nebula Cluster was even more compact in its younger years and a dynamical study indicates that runaway stellar collisions at an earlier age may have formed a black hole with more than 100 times the mass of the Sun. The presence of a black hole within the cluster could explain the observed high velocities of the Trapezium stars. The Orion Nebula's distance of some 1,500 light-years would make it one of the closest known black holes to planet Earth.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2401/Image964.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -48,27 +49,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Jan 04 0030 UTC
+:Issued: 2024 Jan 05 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Jan 04-Jan 06 2024 is 2.67 (below NOAA
+The greatest expected 3 hr Kp for Jan 05-Jan 07 2024 is 3.00 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Jan 04-Jan 06 2024
+NOAA Kp index breakdown Jan 05-Jan 07 2024
 
-             Jan 04       Jan 05       Jan 06
-00-03UT       2.33         1.33         1.67     
-03-06UT       2.67         1.33         1.33     
-06-09UT       2.67         1.67         1.33     
-09-12UT       2.00         1.67         1.33     
-12-15UT       1.67         1.33         1.33     
-15-18UT       1.67         1.33         1.33     
-18-21UT       1.67         1.67         1.67     
-21-00UT       2.33         1.33         1.67     
+             Jan 05       Jan 06       Jan 07
+00-03UT       1.33         1.67         1.67     
+03-06UT       1.33         1.33         1.67     
+06-09UT       1.67         1.33         1.67     
+09-12UT       1.67         1.33         1.33     
+12-15UT       1.33         1.33         1.67     
+15-18UT       1.33         1.33         2.00     
+18-21UT       1.67         1.67         2.33     
+21-00UT       1.33         1.67         3.00     
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
 significant transient or recurrent solar wind features are forecast.
@@ -78,24 +79,28 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-16 over the past 24 hours, was
 above S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Jan 04-Jan 06 2024
+Solar Radiation Storm Forecast for Jan 05-Jan 07 2024
 
-              Jan 04  Jan 05  Jan 06
-S1 or greater   25%     25%     25%
+              Jan 05  Jan 06  Jan 07
+S1 or greater   99%     15%     15%
 
-Rationale: S1 (Minor) or greater solar radiation storms are expected.
+Rationale: The greater than 10 MeV proton flux is expected to remain
+elevated above alert threshold through 05 Jan, gradually decaying to
+background levels on 06-07 Jan.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-No radio blackouts were observed over the past 24 hours.
+Radio blackouts reaching the R1 levels were observed over the past 24
+hours. The largest was at Jan 04 2024 0155 UTC.
 
-Radio Blackout Forecast for Jan 04-Jan 06 2024
+Radio Blackout Forecast for Jan 05-Jan 07 2024
 
-              Jan 04        Jan 05        Jan 06
-R1-R2           55%           55%           55%
-R3 or greater   25%           25%           25%
+              Jan 05        Jan 06        Jan 07
+R1-R2           40%           40%           40%
+R3 or greater   15%           15%           15%
 
-Rationale: R1 (Minor) or greater radio blackouts are likely as several
-active regions are expected to return.
+Rationale: There is a continued chance for R1-R2 (Minor-Moderate)
+flares, and a slight chance for X-class flares (R3-Strong) over the next
+three days (05-07 Jan).
 
 ```
