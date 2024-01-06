@@ -1,11 +1,7 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2024-01-05
-<br />**This image is owned by:**  Fred Zimmer
-<br />**Title of the image:**  Trapezium: At the Heart of Orion
-<br />**Description for the image:**  Near the center of this sharp cosmic portrait, at the heart of the Orion Nebula, are four hot, massive stars known as the Trapezium. Gathered within a region about 1.5 light-years in radius, they dominate the core of the dense Orion Nebula Star Cluster. Ultraviolet ionizing radiation from the Trapezium stars, mostly from the brightest star Theta-1 Orionis C powers the complex star forming region's entire visible glow. About three million years old, the Orion Nebula Cluster was even more compact in its younger years and a dynamical study indicates that runaway stellar collisions at an earlier age may have formed a black hole with more than 100 times the mass of the Sun. The presence of a black hole within the cluster could explain the observed high velocities of the Trapezium stars. The Orion Nebula's distance of some 1,500 light-years would make it one of the closest known black holes to planet Earth.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2401/Image964.jpg
+<br />**Sorry, Image not available!**
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,27 +45,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Jan 05 0030 UTC
+:Issued: 2024 Jan 06 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Jan 05-Jan 07 2024 is 3.00 (below NOAA
+The greatest expected 3 hr Kp for Jan 06-Jan 08 2024 is 3.00 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Jan 05-Jan 07 2024
+NOAA Kp index breakdown Jan 06-Jan 08 2024
 
-             Jan 05       Jan 06       Jan 07
-00-03UT       1.33         1.67         1.67     
-03-06UT       1.33         1.33         1.67     
-06-09UT       1.67         1.33         1.67     
-09-12UT       1.67         1.33         1.33     
-12-15UT       1.33         1.33         1.67     
-15-18UT       1.33         1.33         2.00     
-18-21UT       1.67         1.67         2.33     
-21-00UT       1.33         1.67         3.00     
+             Jan 06       Jan 07       Jan 08
+00-03UT       1.67         1.67         2.67     
+03-06UT       1.33         1.67         2.00     
+06-09UT       1.33         1.67         2.00     
+09-12UT       1.33         1.33         2.33     
+12-15UT       1.33         1.67         2.67     
+15-18UT       1.33         2.00         2.67     
+18-21UT       1.67         2.33         2.67     
+21-00UT       1.67         3.00         2.67     
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
 significant transient or recurrent solar wind features are forecast.
@@ -79,28 +75,25 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-16 over the past 24 hours, was
 above S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Jan 05-Jan 07 2024
+Solar Radiation Storm Forecast for Jan 06-Jan 08 2024
 
-              Jan 05  Jan 06  Jan 07
-S1 or greater   99%     15%     15%
+              Jan 06  Jan 07  Jan 08
+S1 or greater   10%     10%     10%
 
-Rationale: The greater than 10 MeV proton flux is expected to remain
-elevated above alert threshold through 05 Jan, gradually decaying to
-background levels on 06-07 Jan.
+Rationale: There exists a slight chance for S1 (Minor) solar radiation
+storms over the next three days.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-Radio blackouts reaching the R1 levels were observed over the past 24
-hours. The largest was at Jan 04 2024 0155 UTC.
+No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Jan 05-Jan 07 2024
+Radio Blackout Forecast for Jan 06-Jan 08 2024
 
-              Jan 05        Jan 06        Jan 07
-R1-R2           40%           40%           40%
-R3 or greater   15%           15%           15%
+              Jan 06        Jan 07        Jan 08
+R1-R2           35%           35%           35%
+R3 or greater   10%           10%           10%
 
-Rationale: There is a continued chance for R1-R2 (Minor-Moderate)
-flares, and a slight chance for X-class flares (R3-Strong) over the next
-three days (05-07 Jan).
+Rationale: A chance for R1-R2 (Minor-Moderate) radio blackouts, and a
+slight chance for R3 (Strong), exists over the next three days.
 
 ```
