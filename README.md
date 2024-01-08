@@ -1,11 +1,10 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Sorry, Image not available!**
-<br />**Date image released:**  2024-01-07
-<br />**Title of the image:**  The Cat's Eye Nebula in Optical and X-ray
-<br />**Description for the image:**  To some it looks like a cat's eye. To others, perhaps like a giant cosmic conch shell.  It is actually one of the brightest and most highly detailed planetary nebula known, composed of gas expelled in the brief yet glorious phase near the end of life of a Sun-like star. This nebula's dying central star may have produced the outer circular concentric shells by shrugging off outer layers in a series of regular convulsions. The formation of the beautiful, complex-yet-symmetric inner structures, however, is not well understood. The featured image is a composite of a digitally sharpened Hubble Space Telescope image with X-ray light captured by the orbiting Chandra Observatory.  The exquisite floating space statue spans over half a light-year across. Of course, gazing into this Cat's Eye, humanity may well be seeing the fate of our sun, destined to enter its own planetary nebula phase of evolution ... in about 5 billion years.   Free APOD Lecture: January 9, 2024 to the Amateur Astronomers of Association of New York
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2401/CatsEye_HubblePohl_1278.jpg
+<br />**Date image released:**  2024-01-08
+<br />**Title of the image:**  The Phases of Venus
+<br />**Description for the image:**  Venus goes through phases.  Just like our Moon, Venus can appear as a full circular disk, a thin crescent, or anything in between.  Venus, frequently the brightest object in the post-sunset or pre-sunrise sky, appears so small, however, that it usually requires binoculars or a small telescope to clearly see its current phase.  The featured time-lapse sequence was taken over the course of six months in 2015 from Surgères, Charente-Maritime, France, and shows not only how Venus changes phase, but changes angular size as well. When Venus is on the far side of the Sun from the Earth, it appears angularly smallest and nearest to full phase, while when Venus and Earth are on the same side of the Sun, Venus appears larger, but as a crescent. This month Venus rises before dawn in waxing gibbous phases.    Free APOD Lecture: January 9, 2024 to the Amateur Astronomers of Association of New York
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2401/VenusPhases_Gonzales_1280.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,39 +48,39 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Jan 07 0030 UTC
+:Issued: 2024 Jan 08 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 1 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Jan 07-Jan 09 2024 is 3.00 (below NOAA
+The greatest expected 3 hr Kp for Jan 08-Jan 10 2024 is 2.67 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Jan 07-Jan 09 2024
+NOAA Kp index breakdown Jan 08-Jan 10 2024
 
-             Jan 07       Jan 08       Jan 09
-00-03UT       1.67         2.67         2.67     
-03-06UT       1.67         2.00         2.33     
-06-09UT       1.67         2.00         2.33     
-09-12UT       1.33         2.33         2.33     
-12-15UT       1.67         2.67         2.00     
-15-18UT       2.00         2.67         2.00     
-18-21UT       2.33         2.67         2.00     
-21-00UT       3.00         2.67         2.00     
+             Jan 08       Jan 09       Jan 10
+00-03UT       2.67         2.67         1.67     
+03-06UT       2.00         2.33         1.67     
+06-09UT       2.00         2.33         1.67     
+09-12UT       2.33         2.33         1.33     
+12-15UT       2.67         2.00         1.33     
+15-18UT       2.67         2.00         1.33     
+18-21UT       2.67         2.00         1.33     
+21-00UT       2.67         2.00         1.33     
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
 significant transient or recurrent solar wind features are forecast.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
-Solar radiation, as observed by NOAA GOES-16 over the past 24 hours, was
+Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Jan 07-Jan 09 2024
+Solar Radiation Storm Forecast for Jan 08-Jan 10 2024
 
-              Jan 07  Jan 08  Jan 09
+              Jan 08  Jan 09  Jan 10
 S1 or greater   10%     10%     10%
 
 Rationale: There exists a slight chance for S1 (Minor) solar radiation
@@ -91,13 +90,13 @@ C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Jan 07-Jan 09 2024
+Radio Blackout Forecast for Jan 08-Jan 10 2024
 
-              Jan 07        Jan 08        Jan 09
-R1-R2           35%           35%           35%
+              Jan 08        Jan 09        Jan 10
+R1-R2           45%           45%           45%
 R3 or greater   10%           10%           10%
 
 Rationale: There is a chance for R1-R2 (Minor-Moderate) radio blackouts,
-and a slight chance for R3 (Strong), over the next three days.
+and a slight chance for R3 (strong) events, over the next three days.
 
 ```
