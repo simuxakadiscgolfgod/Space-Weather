@@ -1,10 +1,13 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2024-01-08
-<br />**Title of the image:**  The Phases of Venus
-<br />**Description for the image:**  Venus goes through phases.  Just like our Moon, Venus can appear as a full circular disk, a thin crescent, or anything in between.  Venus, frequently the brightest object in the post-sunset or pre-sunrise sky, appears so small, however, that it usually requires binoculars or a small telescope to clearly see its current phase.  The featured time-lapse sequence was taken over the course of six months in 2015 from Surgères, Charente-Maritime, France, and shows not only how Venus changes phase, but changes angular size as well. When Venus is on the far side of the Sun from the Earth, it appears angularly smallest and nearest to full phase, while when Venus and Earth are on the same side of the Sun, Venus appears larger, but as a crescent. This month Venus rises before dawn in waxing gibbous phases.    Free APOD Lecture: January 9, 2024 to the Amateur Astronomers of Association of New York
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2401/VenusPhases_Gonzales_1280.jpg
+<br />**Date image released:**  2024-01-09
+<br />**This image is owned by:**  
+Ritesh Biswas
+
+<br />**Title of the image:**  Thor's Helmet
+<br />**Description for the image:**  Thor not only has his own day (Thursday), but a helmet in the heavens.  Popularly called Thor's Helmet, NGC 2359 is a hat-shaped cosmic cloud with wing-like appendages. Heroically sized even for a Norse god, Thor's Helmet is about 30 light-years across. In fact, the cosmic head-covering is more like an interstellar bubble, blown with a fast wind from the bright, massive star near the bubble's center. Known as a Wolf-Rayet star, the central star is an extremely hot giant thought to be in a brief, pre-supernova stage of evolution. NGC 2359 is located about 15,000 light-years away toward the constellation of the Great Overdog. This remarkably sharp image is a mixed cocktail of data from  narrowband filters, capturing not only natural looking stars but details of the nebula's filamentary structures. The star in the center of Thor's Helmet is expected to explode in a spectacular supernova sometime within the next few thousand years.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2401/ThorsHelmet_Biswas_1436.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -48,27 +51,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Jan 08 0030 UTC
+:Issued: 2024 Jan 09 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 1 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Jan 08-Jan 10 2024 is 2.67 (below NOAA
+The greatest expected 3 hr Kp for Jan 09-Jan 11 2024 is 2.67 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Jan 08-Jan 10 2024
+NOAA Kp index breakdown Jan 09-Jan 11 2024
 
-             Jan 08       Jan 09       Jan 10
-00-03UT       2.67         2.67         1.67     
-03-06UT       2.00         2.33         1.67     
-06-09UT       2.00         2.33         1.67     
-09-12UT       2.33         2.33         1.33     
-12-15UT       2.67         2.00         1.33     
-15-18UT       2.67         2.00         1.33     
-18-21UT       2.67         2.00         1.33     
-21-00UT       2.67         2.00         1.33     
+             Jan 09       Jan 10       Jan 11
+00-03UT       2.33         1.67         1.33     
+03-06UT       2.67         1.67         1.33     
+06-09UT       2.00         1.67         1.33     
+09-12UT       1.33         1.33         1.33     
+12-15UT       1.00         1.33         1.67     
+15-18UT       2.00         1.33         1.33     
+18-21UT       2.00         1.33         1.67     
+21-00UT       2.33         1.33         1.67     
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
 significant transient or recurrent solar wind features are forecast.
@@ -78,9 +81,9 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Jan 08-Jan 10 2024
+Solar Radiation Storm Forecast for Jan 09-Jan 11 2024
 
-              Jan 08  Jan 09  Jan 10
+              Jan 09  Jan 10  Jan 11
 S1 or greater   10%     10%     10%
 
 Rationale: There exists a slight chance for S1 (Minor) solar radiation
@@ -90,13 +93,13 @@ C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Jan 08-Jan 10 2024
+Radio Blackout Forecast for Jan 09-Jan 11 2024
 
-              Jan 08        Jan 09        Jan 10
+              Jan 09        Jan 10        Jan 11
 R1-R2           45%           45%           45%
 R3 or greater   10%           10%           10%
 
-Rationale: There is a chance for R1-R2 (Minor-Moderate) radio blackouts,
-and a slight chance for R3 (strong) events, over the next three days.
+Rationale: A chance for R1-R2 (Minor-Moderate) radio blackouts, and
+slight chance for R3 (Strong), exists over the next three days.
 
 ```
