@@ -1,11 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2024-01-11
-<br />**This image is owned by:**  염범석 Yeom Beom-seok
-<br />**Title of the image:**  Quadrantids of the North
-<br />**Description for the image:**  Named for a forgotten constellation, the Quadrantid Meteor Shower puts on an annual show for planet Earth's northern hemisphere skygazers. The shower's radiant on the sky lies within the old, astronomically obsolete constellation Quadrans Muralis. That location is not far from the Big Dipper asterism, known to some as the Plough, at the boundaries of the modern constellations Bootes and Draco. In fact the Big Dipper "handle" stars are near the upper right corner in this frame, with the meteor shower radiant just below. North star Polaris is toward the top left. Pointing back toward the radiant, Quadrantid meteors streak through the night in this skyscape from Jangsu, South Korea. The composite image was recorded in the hours around the shower's peak on January 4, 2024. A likely source of the dust stream that produces Quadrantid meteors was identified in 2003 as an asteroid.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2401/2024_quadrantids_240104_med_bsyeom.jpg
+<br />**Date image released:**  2024-01-12
+<br />**This image is owned by:**  Michael Luy
+<br />**Title of the image:**  Good Morning Moon
+<br />**Description for the image:**  Yesterday, the Moon was New. But on January 9, early morning risers around planet Earth were treated to the sight of an old Moon, low in the east as the sky grew bright before dawn. Above the city of Saarburg in Rhineland-Palatinate, western Germany, this simple snapshot found the waning Moon's sunlit crescent just before sunrise. But also never wandering far from the Sun in Earth's sky, inner planets Venus and Mercury shared the cold morning skyview. In the foreground are the historic city's tower and castle with ruins from the 10th century.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2401/HimmlichesDreieckSaarburg_TWAN_mercurybildweb.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,40 +49,39 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Jan 11 0030 UTC
+:Issued: 2024 Jan 12 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Jan 11-Jan 13 2024 is 3.00 (below NOAA
+The greatest expected 3 hr Kp for Jan 12-Jan 14 2024 is 3.00 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Jan 11-Jan 13 2024
+NOAA Kp index breakdown Jan 12-Jan 14 2024
 
-             Jan 11       Jan 12       Jan 13
-00-03UT       2.33         1.67         2.33     
-03-06UT       2.67         1.33         1.33     
-06-09UT       2.67         1.33         1.00     
-09-12UT       1.33         1.33         1.00     
-12-15UT       1.67         1.33         1.00     
-15-18UT       1.33         1.33         2.33     
-18-21UT       1.67         1.67         3.00     
-21-00UT       1.67         1.67         3.00     
+             Jan 12       Jan 13       Jan 14
+00-03UT       1.67         2.33         2.00     
+03-06UT       1.00         1.33         2.33     
+06-09UT       1.00         1.00         2.33     
+09-12UT       1.00         1.00         2.33     
+12-15UT       1.33         1.00         2.33     
+15-18UT       1.67         2.33         2.33     
+18-21UT       1.67         3.00         1.67     
+21-00UT       2.00         3.00         2.33     
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
 significant transient or recurrent solar wind features are forecast.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
-No S1 (Minor) or greater solar radiation storms are expected.
-No significant active region activity favorable for radiation storm
-production is forecast.
+Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
+below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Jan 11-Jan 13 2024
+Solar Radiation Storm Forecast for Jan 12-Jan 14 2024
 
-              Jan 11  Jan 12  Jan 13
+              Jan 12  Jan 13  Jan 14
 S1 or greater    5%      5%      5%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -92,15 +91,16 @@ production is forecast.
 C. NOAA Radio Blackout Activity and Forecast
 
 Radio blackouts reaching the R1 levels were observed over the past 24
-hours. The largest was at Jan 102328 UTC.
+hours. The largest was at Jan 11 2024 1752 UTC.
 
-Radio Blackout Forecast for Jan 11-Jan 13 2024
+Radio Blackout Forecast for Jan 12-Jan 14 2024
 
-              Jan 11        Jan 12        Jan 13
-R1-R2           40%           40%           40%
+              Jan 12        Jan 13        Jan 14
+R1-R2           45%           40%           40%
 R3 or greater    5%            5%            5%
 
-Rationale: There is a chance for R1-R2 (Minor-Moderate) radio blackouts
-all three days.
+Rationale: A chance for R1-2 (Minor-Moderate) radio blackouts due
+isolated M-class flare activity will persist through the forecast
+period.
 
 ```
