@@ -1,13 +1,10 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2024-01-14
-<br />**This image is owned by:**  
-Jingyi Zhang & Wang Zheng
-
-<br />**Title of the image:**  Dragon Aurora over Iceland
-<br />**Description for the image:**  Have you ever seen a dragon in the sky? Although real flying dragons don't exist, a huge dragon-shaped aurora developed in the sky over Iceland in 2019.  The aurora was caused by a hole in the Sun's corona that expelled charged particles into a solar wind that followed a changing interplanetary magnetic field to Earth's magnetosphere.  As some of those particles then struck Earth's atmosphere, they excited atoms which subsequently emitted light: aurora. This iconic display was so enthralling that the photographer's mother ran out to see it and was captured in the foreground.  Our active Sun continues to show an unusually high number of prominences, filaments, sunspots, and large active regions as solar maximum approaches in 2025.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2401/DragonAurora_Zhang_2241.jpg
+<br />**Date image released:**  2024-01-15
+<br />**Title of the image:**  Star Cluster IC 348 from Webb
+<br />**Description for the image:**  Sometimes, it's the stars that are the hardest to see that are the most interesting. IC 348 is a young star cluster that illuminates surrounding filamentary dust.  The stringy and winding dust appears pink in this recently released infrared image from the Webb Space Telescope. In visible light, this dust reflects mostly blue light, giving the surrounding material the familiar blue hue of a reflection nebula.  Besides bright stars, several cool objects have been located in IC 348, visible because they glow brighter in infrared light.  These objects are hypothesized to be low mass brown dwarfs.  Evidence for this includes the detection of an unidentified atmospheric chemical, likely a hydrocarbon, seen previously in the atmosphere of Saturn. These objects appear to have masses slightly greater than known planets, only a few times greater than Jupiter.  Together, these indicate that this young star cluster contains something noteworthy -- young planet-mass brown dwarfs that float free, not orbiting any other star.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2401/IC348_webb_3788.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -51,27 +48,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Jan 14 0030 UTC
+:Issued: 2024 Jan 15 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 1 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Jan 14-Jan 16 2024 is 2.67 (below NOAA
+The greatest expected 3 hr Kp for Jan 15-Jan 17 2024 is 3.00 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Jan 14-Jan 16 2024
+NOAA Kp index breakdown Jan 15-Jan 17 2024
 
-             Jan 14       Jan 15       Jan 16
-00-03UT       2.00         1.67         2.33     
-03-06UT       2.67         1.67         2.67     
-06-09UT       2.33         1.33         2.00     
-09-12UT       1.33         1.33         2.00     
-12-15UT       1.33         1.33         2.00     
-15-18UT       1.67         1.33         2.00     
-18-21UT       1.67         1.33         2.00     
-21-00UT       2.67         1.67         2.00     
+             Jan 15       Jan 16       Jan 17
+00-03UT       1.67         2.33         2.67     
+03-06UT       1.67         2.67         3.00     
+06-09UT       1.33         2.00         2.33     
+09-12UT       1.33         1.67         2.33     
+12-15UT       1.33         2.00         2.33     
+15-18UT       1.33         2.00         2.33     
+18-21UT       1.33         2.00         2.33     
+21-00UT       1.67         2.67         2.00     
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
 significant transient or recurrent solar wind features are forecast.
@@ -81,9 +78,9 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Jan 14-Jan 16 2024
+Solar Radiation Storm Forecast for Jan 15-Jan 17 2024
 
-              Jan 14  Jan 15  Jan 16
+              Jan 15  Jan 16  Jan 17
 S1 or greater    5%      5%      5%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -94,13 +91,13 @@ C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Jan 14-Jan 16 2024
+Radio Blackout Forecast for Jan 15-Jan 17 2024
 
-              Jan 14        Jan 15        Jan 16
+              Jan 15        Jan 16        Jan 17
 R1-R2           30%           30%           30%
 R3 or greater    5%            5%            5%
 
-Rationale: There is a chance for R1-R2 (Minor-Moderate) radio blackouts
-over the next three days.
+Rationale: There is a chance for R1 (Minor) radio blackouts over the
+next three days.
 
 ```
