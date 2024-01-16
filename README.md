@@ -1,10 +1,13 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2024-01-15
-<br />**Title of the image:**  Star Cluster IC 348 from Webb
-<br />**Description for the image:**  Sometimes, it's the stars that are the hardest to see that are the most interesting. IC 348 is a young star cluster that illuminates surrounding filamentary dust.  The stringy and winding dust appears pink in this recently released infrared image from the Webb Space Telescope. In visible light, this dust reflects mostly blue light, giving the surrounding material the familiar blue hue of a reflection nebula.  Besides bright stars, several cool objects have been located in IC 348, visible because they glow brighter in infrared light.  These objects are hypothesized to be low mass brown dwarfs.  Evidence for this includes the detection of an unidentified atmospheric chemical, likely a hydrocarbon, seen previously in the atmosphere of Saturn. These objects appear to have masses slightly greater than known planets, only a few times greater than Jupiter.  Together, these indicate that this young star cluster contains something noteworthy -- young planet-mass brown dwarfs that float free, not orbiting any other star.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2401/IC348_webb_3788.jpg
+<br />**Date image released:**  2024-01-16
+<br />**This image is owned by:**  
+Michele Guzzini
+
+<br />**Title of the image:**  The Orion You Can Almost See
+<br />**Description for the image:**  Do you recognize this constellation?  Although it is one of the most recognizable star groupings on the sky, this is a more full Orion than you can see -- an Orion only revealed with long exposure digital camera imaging and post- processing.  Here the cool red giant Betelgeuse takes on a strong orange tint as the brightest star on the upper left.  Orion's hot blue stars are numerous, with supergiant Rigel balancing Betelgeuse on the lower right, and Bellatrix at the upper right. Lined up in Orion's belt are three stars all about 1,500 light-years away, born from the constellation's well-studied interstellar clouds. Just below Orion's belt is a bright but fuzzy patch that might also look familiar -- the stellar nursery known as Orion's Nebula.  Finally, just barely visible to the unaided eye but quite striking here is Barnard's Loop -- a huge gaseous emission nebula surrounding Orion's Belt and Nebula discovered over 100 years ago by the pioneering Orion photographer E. E. Barnard.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2401/OrionMcc_Guzzini_1366.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -48,27 +51,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Jan 15 0030 UTC
+:Issued: 2024 Jan 16 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Jan 15-Jan 17 2024 is 3.00 (below NOAA
+The greatest expected 3 hr Kp for Jan 16-Jan 18 2024 is 3.00 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Jan 15-Jan 17 2024
+NOAA Kp index breakdown Jan 16-Jan 18 2024
 
-             Jan 15       Jan 16       Jan 17
-00-03UT       1.67         2.33         2.67     
-03-06UT       1.67         2.67         3.00     
-06-09UT       1.33         2.00         2.33     
-09-12UT       1.33         1.67         2.33     
-12-15UT       1.33         2.00         2.33     
-15-18UT       1.33         2.00         2.33     
-18-21UT       1.33         2.00         2.33     
-21-00UT       1.67         2.67         2.00     
+             Jan 16       Jan 17       Jan 18
+00-03UT       2.33         2.67         2.33     
+03-06UT       2.67         3.00         2.67     
+06-09UT       2.00         2.33         2.00     
+09-12UT       1.67         2.33         2.00     
+12-15UT       2.00         2.33         2.00     
+15-18UT       2.00         2.33         2.00     
+18-21UT       2.00         2.33         2.00     
+21-00UT       2.67         2.00         2.33     
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
 significant transient or recurrent solar wind features are forecast.
@@ -78,9 +81,9 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Jan 15-Jan 17 2024
+Solar Radiation Storm Forecast for Jan 16-Jan 18 2024
 
-              Jan 15  Jan 16  Jan 17
+              Jan 16  Jan 17  Jan 18
 S1 or greater    5%      5%      5%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -91,13 +94,13 @@ C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Jan 15-Jan 17 2024
+Radio Blackout Forecast for Jan 16-Jan 18 2024
 
-              Jan 15        Jan 16        Jan 17
+              Jan 16        Jan 17        Jan 18
 R1-R2           30%           30%           30%
 R3 or greater    5%            5%            5%
 
-Rationale: There is a chance for R1 (Minor) radio blackouts over the
-next three days.
+Rationale: There exists a chance for R1-R2 (Minor) radio blackouts over
+the next three days.
 
 ```
