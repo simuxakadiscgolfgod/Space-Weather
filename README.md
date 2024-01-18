@@ -1,11 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2024-01-17
-<br />**This image is owned by:**  Gene Cernan
-<br />**Title of the image:**  America and the Sea of Serenity
-<br />**Description for the image:**  Get out your red/blue glasses and check out this stereo view of another world. The scene was recorded by Apollo 17 mission commander Eugene Cernan on December 11, 1972, one orbit before descending to land on the Moon. The stereo anaglyph was assembled from two photographs (AS17-147-22465, AS17-147-22466) captured from his vantage point on board the Lunar Module Challenger as he and Dr. Harrison Schmitt flew over Apollo 17's landing site in the Taurus-Littrow Valley. The broad, sunlit face of the mountain dubbed South Massif rises near the center of the frame, above the dark floor of Taurus-Littrow to its left. Piloted by Ron Evans, the Command Module America is visible in orbit in the foreground against the South Massif's peak. Beyond the mountains, toward the lunar limb, lies the Moon's Mare Serenitatis. Four astronauts will venture around the Moon and back again on the Artemis II mission, scheduled for launch no earlier than September 2025.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2401/22466-22467anaVantuyne.jpg
+<br />**Date image released:**  2024-01-18
+<br />**This image is owned by:**  Ralf Rohner
+<br />**Title of the image:**  Northern Lights from the Stratosphere
+<br />**Description for the image:**  Northern lights shine in this night skyview from planet Earth's stratosphere, captured on January 15. The single, 5 second exposure was made with a hand-held camera on board an aircraft above Winnipeg, Canada. During the exposure, terrestrial lights below leave colorful trails along the direction of motion of the speeding aircraft. Above the more distant horizon, energetic particles accelerated along Earth's magnetic field at the planet's polar regions excite atomic oxygen to create the shimmering display of Aurora Borealis. The aurora's characteristic greenish hue is generated at altitudes of 100-300 kilometers and red at even higher altitudes and lower atmospheric densities. The luminous glow of faint stars along the plane of our Milky Way galaxy arcs through the night, while the Andromeda galaxy extends this northern skyview to extragalactic space. A diffuse hint of Andromeda, the closest large spiral to the Milky Way, can just be seen to the upper left.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2401/MagneticStormRohner.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,27 +49,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Jan 17 0030 UTC
+:Issued: 2024 Jan 18 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 1 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Jan 17-Jan 19 2024 is 3.00 (below NOAA
+The greatest expected 3 hr Kp for Jan 18-Jan 20 2024 is 3.00 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Jan 17-Jan 19 2024
+NOAA Kp index breakdown Jan 18-Jan 20 2024
 
-             Jan 17       Jan 18       Jan 19
-00-03UT       2.67         2.33         1.67     
-03-06UT       3.00         2.67         1.33     
-06-09UT       2.33         2.00         1.33     
-09-12UT       2.33         2.00         1.33     
-12-15UT       2.33         2.00         1.33     
-15-18UT       2.00         2.00         1.33     
-18-21UT       2.00         2.00         1.67     
-21-00UT       2.67         2.33         1.67     
+             Jan 18       Jan 19       Jan 20
+00-03UT       2.33         1.67         2.33     
+03-06UT       1.67         1.33         2.00     
+06-09UT       1.00         1.33         2.00     
+09-12UT       1.00         1.33         2.33     
+12-15UT       1.00         1.33         2.00     
+15-18UT       0.67         1.33         1.67     
+18-21UT       1.00         1.67         1.67     
+21-00UT       2.33         1.67         3.00     
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
 significant transient or recurrent solar wind features are forecast.
@@ -79,9 +79,9 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Jan 17-Jan 19 2024
+Solar Radiation Storm Forecast for Jan 18-Jan 20 2024
 
-              Jan 17  Jan 18  Jan 19
+              Jan 18  Jan 19  Jan 20
 S1 or greater    5%      5%      5%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -92,13 +92,13 @@ C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Jan 17-Jan 19 2024
+Radio Blackout Forecast for Jan 18-Jan 20 2024
 
-              Jan 17        Jan 18        Jan 19
+              Jan 18        Jan 19        Jan 20
 R1-R2           25%           25%           25%
 R3 or greater    5%            5%            5%
 
-Rationale: A chance for isolated radio blackouts (R1-2/Minor-Moderate)
-due to M-class flare activity will persist through 19 Jan.
+Rationale: There is a chance for R1-2 (Minor-Moderate) radio blackouts
+due to isolated M-class flare activity through 20 Jan.
 
 ```
