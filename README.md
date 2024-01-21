@@ -1,11 +1,10 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2024-01-20
-<br />**This image is owned by:**  Dennis Huff
-<br />**Title of the image:**  Falcon Heavy Boostback Burn
-<br />**Description for the image:**  The December 28 night launch of a Falcon Heavy rocket from Kennedy Space Center in Florida marked the fifth launch for the rocket's reusable side boosters. About 2 minutes 20 seconds into the flight, the two side boosters separated from the rocket's core stage. Starting just after booster separation, this three minute long exposure captures the pair's remarkable boostback burns, maneuvers executed prior to their return to landing zones on planet Earth. While no attempt was made to recover the Falcon Heavy's core stage, both side boosters landed successfully and can be flown again. The four previous flights for these side boosters included last October's launch of NASA's asteroid-bound Psyche mission.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2401/DSC07781_11Huff.jpg
+<br />**Date image released:**  2024-01-21
+<br />**Title of the image:**  The Upper Michigan Blizzard of 1938
+<br />**Description for the image:**  Yes, but can your blizzard do this? In the Upper Peninsula of Michigan's Storm of the Century in 1938, some snow drifts reached the level of utility poles. Nearly a meter of new and unexpected snow fell over two days in a storm that started 86 years ago this week.  As snow fell and gale-force winds piled snow to surreal heights, many roads became not only impassable but unplowable; people became stranded, cars, school buses and a train became mired, and even a dangerous fire raged. Two people were killed and some students were forced to spend several consecutive days at school.  The featured image was taken by a local resident soon after the storm. Although all of this snow eventually melted, repeated snow storms like this help build lasting glaciers in snowy regions of our planet Earth.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2401/snowpoles_brinkman_960.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,39 +48,39 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Jan 20 0030 UTC
+:Issued: 2024 Jan 21 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Jan 20-Jan 22 2024 is 3.00 (below NOAA
-Scale levels).
+The greatest expected 3 hr Kp for Jan 21-Jan 23 2024 is 5.00 (NOAA Scale
+G1).
 
-NOAA Kp index breakdown Jan 20-Jan 22 2024
+NOAA Kp index breakdown Jan 21-Jan 23 2024
 
-             Jan 20       Jan 21       Jan 22
-00-03UT       2.00         2.67         2.67     
-03-06UT       2.33         3.00         2.67     
-06-09UT       2.00         2.67         2.33     
-09-12UT       2.00         2.67         2.00     
-12-15UT       1.67         2.00         2.00     
-15-18UT       2.00         1.67         1.00     
-18-21UT       2.00         1.67         2.00     
-21-00UT       2.67         2.67         2.00     
+             Jan 21       Jan 22       Jan 23
+00-03UT       2.67         2.67         5.00 (G1)
+03-06UT       3.00         3.00         4.67 (G1)
+06-09UT       2.67         2.67         4.67 (G1)
+09-12UT       2.67         2.00         3.67     
+12-15UT       2.00         1.67         3.67     
+15-18UT       1.67         3.00         2.67     
+18-21UT       1.67         4.00         2.67     
+21-00UT       2.67         5.00 (G1)    1.67     
 
-Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
-significant transient or recurrent solar wind features are forecast.
+Rationale: G1 (Minor) geomagnetic storming is likely on 22-23 Jan due to
+effects from a CME that left the Sun on 20 Jan.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Jan 20-Jan 22 2024
+Solar Radiation Storm Forecast for Jan 21-Jan 23 2024
 
-              Jan 20  Jan 21  Jan 22
+              Jan 21  Jan 22  Jan 23
 S1 or greater    1%      1%      1%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -92,13 +91,13 @@ C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Jan 20-Jan 22 2024
+Radio Blackout Forecast for Jan 21-Jan 23 2024
 
-              Jan 20        Jan 21        Jan 22
-R1-R2           20%           20%           20%
-R3 or greater    1%            1%            1%
+              Jan 21        Jan 22        Jan 23
+R1-R2           35%           35%           35%
+R3 or greater    5%            5%            5%
 
-Rationale: There is a slight chance for R1-R2 (Minor-Moderate) radio
-blackouts over the next three days.
+Rationale: There is a chance for R1-R2 (Minor-Moderate) radio blackouts
+over the next three days.
 
 ```
