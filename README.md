@@ -1,13 +1,10 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2024-01-23
-<br />**This image is owned by:**  
-Alistair Symon
-
-<br />**Title of the image:**  Deep Nebulas: From Seagull to California
-<br />**Description for the image:**  How well do you know the night sky? OK, but how well can you identify famous sky objects in a very deep image? Either way, here is a test: see if you can find some well-known night-sky icons in a deep image filled with faint nebulosity.  This image contains the Pleiades star cluster, Barnard's Loop, Horsehead Nebula, Orion Nebula, Rosette Nebula, Cone Nebula, Rigel, Jellyfish Nebula, Monkey Head Nebula, Flaming Star Nebula, Tadpole Nebula, Aldebaran, Simeis 147, Seagull Nebula and the California Nebula. To find their real locations, here is an annotated image version.  The reason this task might be difficult is similar to the reason it is initially hard to identify familiar constellations in a very dark sky: the tapestry of our night sky has an extremely deep hidden complexity.  The featured composite reveals some of this complexity in a mosaic of 28 images taken over 800 hours from dark skies over Arizona, USA.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2401/SeagullToCalifornia_Symon_2000.jpg
+<br />**Date image released:**  2024-01-24
+<br />**Title of the image:**  Earth and Moon from Beyond
+<br />**Description for the image:**  What do the Earth and Moon look like from beyond the Moon? Although frequently photographed together, the familiar duo was captured with this unusual perspective in late 2022 by the robotic Orion spacecraft of NASA's Artemis I mission as it looped around Earth's most massive satellite and looked back toward its home world. Since our Earth is about four times the diameter of the Moon, the satellite’s seemingly large size was caused by the capsule being closer to the smaller body. Artemis II, the next launch in NASA’s Artemis series, is currently scheduled to take people around the Moon in 2025, while Artemis III is planned to return humans to lunar surface in late 2026. Last week,  JAXA's robotic SLIM spacecraft, launched from Japan, landed on the Moon and released two hopping rovers.   Explore Your Universe: Random APOD Generator
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2401/EarthMoon_Artemis1Saunders_1600.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -51,61 +48,59 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Jan 23 0030 UTC
+:Issued: 2024 Jan 24 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Jan 23-Jan 25 2024 is 6.00 (NOAA Scale
-G2).
+The greatest expected 3 hr Kp for Jan 24-Jan 26 2024 is 5.00 (NOAA Scale
+G1).
 
-NOAA Kp index breakdown Jan 23-Jan 25 2024
+NOAA Kp index breakdown Jan 24-Jan 26 2024
 
-             Jan 23       Jan 24       Jan 25
-00-03UT       5.00 (G1)    3.00         3.67     
-03-06UT       4.00         3.00         3.33     
-06-09UT       6.00 (G2)    3.00         3.33     
-09-12UT       4.00         2.00         3.33     
-12-15UT       4.00         2.00         3.33     
-15-18UT       5.00 (G1)    2.00         3.33     
-18-21UT       3.00         1.00         3.67     
-21-00UT       1.67         2.00         3.67     
+             Jan 24       Jan 25       Jan 26
+00-03UT       1.67         3.00         4.00     
+03-06UT       2.00         2.67         4.00     
+06-09UT       3.00         3.00         2.33     
+09-12UT       4.67 (G1)    3.33         2.00     
+12-15UT       4.00         4.67 (G1)    2.67     
+15-18UT       3.33         3.67         4.00     
+18-21UT       3.00         3.00         5.00 (G1)
+21-00UT       3.00         3.67         4.67 (G1)
 
-Rationale: Periods of G1-G2 (Minor-Moderate) geomagnetic storms are
-likely on 23 Jan due to the anticipated passage of a CME that left the
-Sun on 20 Jan. Quiet and unsettled levels are expected on 24 Jan due to
-waning CME influences. G1 (Minor) storm conditions are likely on 25 Jan
-with anticipated arrival of the CME that left the Sun on 22 Jan.
+Rationale: Periods of G1 (Minor) geomagnetic storms are likely, with a
+chance of isolated G2 (Moderate) storm periods on 24-26 Jan due to the
+possible impacts of several nearby passing CMEs.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Jan 23-Jan 25 2024
+Solar Radiation Storm Forecast for Jan 24-Jan 26 2024
 
-              Jan 23  Jan 24  Jan 25
-S1 or greater   55%     55%     15%
+              Jan 24  Jan 25  Jan 26
+S1 or greater   15%     15%     15%
 
-Rationale: The greater than 10 MeV proton flux is likely to increase
-above S1 (Minor) or greater levels during passage of an inbound CME on
-23 Jan.
+Rationale: Theres a slight chance for the greater than 10 MeV proton
+flux to reach S1 (Minor) threshold through 26 Jan, mostly due to the
+potential and favorable location of AR 3561.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-Radio blackouts reaching the R1 levels were observed over the past 24
-hours. The largest was at Jan 22 2024 2121 UTC.
+Radio blackouts reaching the R2 levels were observed over the past 24
+hours. The largest was at Jan 23 2024 0331 UTC.
 
-Radio Blackout Forecast for Jan 23-Jan 25 2024
+Radio Blackout Forecast for Jan 24-Jan 26 2024
 
-              Jan 23        Jan 24        Jan 25
-R1-R2           60%           60%           60%
+              Jan 24        Jan 25        Jan 26
+R1-R2           75%           75%           75%
 R3 or greater   10%           10%           10%
 
-Rationale: There is a slight chance for R3 (Strong) or greater radio
-blackouts over 23-25 Jan due primarily to the flare potential of
-Regions 3559 and 3561.
+Rationale: R1-R2 (Minor-Moderate) radio blackouts are expected through
+26 Jan, along with a slight chance for R3 (Strong) or greater radio
+blackouts, due primarily to the flare potential of ARs 3559 and 3561.
 
 ```
