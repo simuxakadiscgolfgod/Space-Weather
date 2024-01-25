@@ -1,10 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2024-01-24
-<br />**Title of the image:**  Earth and Moon from Beyond
-<br />**Description for the image:**  What do the Earth and Moon look like from beyond the Moon? Although frequently photographed together, the familiar duo was captured with this unusual perspective in late 2022 by the robotic Orion spacecraft of NASA's Artemis I mission as it looped around Earth's most massive satellite and looked back toward its home world. Since our Earth is about four times the diameter of the Moon, the satellite’s seemingly large size was caused by the capsule being closer to the smaller body. Artemis II, the next launch in NASA’s Artemis series, is currently scheduled to take people around the Moon in 2025, while Artemis III is planned to return humans to lunar surface in late 2026. Last week,  JAXA's robotic SLIM spacecraft, launched from Japan, landed on the Moon and released two hopping rovers.   Explore Your Universe: Random APOD Generator
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2401/EarthMoon_Artemis1Saunders_1600.jpg
+<br />**Date image released:**  2024-01-25
+<br />**This image is owned by:**  Harri Kiiskinen
+<br />**Title of the image:**  Jyväskylä in the Sky
+<br />**Description for the image:**  You might not immediately recognize this street map of a neighborhood in Jyväskylä, Finland, planet Earth. But that's probably because the map was projected into the night sky and captured with an allsky camera on January 16. The temperature recorded on that northern winter night was around minus 20 degrees Celsius. As ice crystals formed in the atmosphere overhead, street lights spilling illumination into the sky above produced visible light pillars, their ethereal appearance due to specular reflections from the fluttering crystals' flat surfaces. Of course, the projected light pillars trace a map of the brightly lit local streets, though reversed right to left in the upward looking camera's view. This light pillar street map was seen to hover for hours in the Jyväskylä night.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2401/image-20240116164558_v1.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -48,59 +49,61 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Jan 24 0030 UTC
+:Issued: 2024 Jan 25 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Jan 24-Jan 26 2024 is 5.00 (NOAA Scale
+The greatest expected 3 hr Kp for Jan 25-Jan 27 2024 is 5.00 (NOAA Scale
 G1).
 
-NOAA Kp index breakdown Jan 24-Jan 26 2024
+NOAA Kp index breakdown Jan 25-Jan 27 2024
 
-             Jan 24       Jan 25       Jan 26
-00-03UT       1.67         3.00         4.00     
-03-06UT       2.00         2.67         4.00     
-06-09UT       3.00         3.00         2.33     
-09-12UT       4.67 (G1)    3.33         2.00     
-12-15UT       4.00         4.67 (G1)    2.67     
-15-18UT       3.33         3.67         4.00     
-18-21UT       3.00         3.00         5.00 (G1)
-21-00UT       3.00         3.67         4.67 (G1)
+             Jan 25       Jan 26       Jan 27
+00-03UT       3.00         4.00         4.00     
+03-06UT       2.67         4.00         4.33     
+06-09UT       3.00         2.33         4.00     
+09-12UT       3.33         2.00         4.00     
+12-15UT       4.67 (G1)    2.67         4.00     
+15-18UT       3.67         4.00         4.33     
+18-21UT       3.00         5.00 (G1)    4.67 (G1)
+21-00UT       3.67         4.67 (G1)    4.33     
 
 Rationale: Periods of G1 (Minor) geomagnetic storms are likely, with a
-chance of isolated G2 (Moderate) storm periods on 24-26 Jan due to the
-possible impacts of several nearby passing CMEs.
+chance of isolated G2 (Moderate) storm periods on 25-27 Jan due to the
+possible impacts of several nearby passing CMEs from several events on
+22-23 Jan.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Jan 24-Jan 26 2024
+Solar Radiation Storm Forecast for Jan 25-Jan 27 2024
 
-              Jan 24  Jan 25  Jan 26
+              Jan 25  Jan 26  Jan 27
 S1 or greater   15%     15%     15%
 
-Rationale: Theres a slight chance for the greater than 10 MeV proton
-flux to reach S1 (Minor) threshold through 26 Jan, mostly due to the
+Rationale: There is a slight chance for the greater than 10 MeV proton
+flux to reach S1 (Minor) threshold through 27 Jan - primarily due to the
 potential and favorable location of AR 3561.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-Radio blackouts reaching the R2 levels were observed over the past 24
-hours. The largest was at Jan 23 2024 0331 UTC.
+Radio blackouts reaching the R1 levels were observed over the past 24
+hours. The largest was at Jan 24 2024 0140 UTC.
 
-Radio Blackout Forecast for Jan 24-Jan 26 2024
+Radio Blackout Forecast for Jan 25-Jan 27 2024
 
-              Jan 24        Jan 25        Jan 26
-R1-R2           75%           75%           75%
+              Jan 25        Jan 26        Jan 27
+R1-R2           55%           55%           55%
 R3 or greater   10%           10%           10%
 
-Rationale: R1-R2 (Minor-Moderate) radio blackouts are expected through
-26 Jan, along with a slight chance for R3 (Strong) or greater radio
-blackouts, due primarily to the flare potential of ARs 3559 and 3561.
+Rationale: R1-R2 (Minor-Moderate) radio blackouts are likely through 26
+Jan - primarily due to the flare potential of ARs 3559 and 3561.
+Additionally, there is a slight chance for R3 (Strong) or greater radio
+blackouts.
 
 ```
