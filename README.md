@@ -1,11 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2024-01-25
-<br />**This image is owned by:**  Harri Kiiskinen
-<br />**Title of the image:**  Jyväskylä in the Sky
-<br />**Description for the image:**  You might not immediately recognize this street map of a neighborhood in Jyväskylä, Finland, planet Earth. But that's probably because the map was projected into the night sky and captured with an allsky camera on January 16. The temperature recorded on that northern winter night was around minus 20 degrees Celsius. As ice crystals formed in the atmosphere overhead, street lights spilling illumination into the sky above produced visible light pillars, their ethereal appearance due to specular reflections from the fluttering crystals' flat surfaces. Of course, the projected light pillars trace a map of the brightly lit local streets, though reversed right to left in the upward looking camera's view. This light pillar street map was seen to hover for hours in the Jyväskylä night.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2401/image-20240116164558_v1.jpg
+<br />**Date image released:**  2024-01-26
+<br />**This image is owned by:**  Reg Pratt
+<br />**Title of the image:**  Epsilon Tauri: Star with Planet
+<br />**Description for the image:**  silon Tauri lies 146 light-years away. A K-type red giant star, epsilon Tau is cooler than the Sun, but with about 13 times the solar radius it has nearly 100 times the solar luminosity. A member of the Hyades open star cluster the giant star is known by the proper name Ain, and along with brighter giant star Aldebaran, forms the eyes of Taurus the Bull. Surrounded by dusty, dark clouds in Taurus, epsilon Tau is also known to have a planet. Discovered by radial velocity measurements in 2006, Epsilon Tauri b is a gas giant planet larger than Jupiter with an orbital period of 1.6 years. And though the exoplanet can't be seen directly, on a dark night its parent star epsilon Tauri is easily visible to the unaided eye.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2401/Ain_4096.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,42 +49,42 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Jan 25 0030 UTC
+:Issued: 2024 Jan 26 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Jan 25-Jan 27 2024 is 5.00 (NOAA Scale
+The greatest expected 3 hr Kp for Jan 26-Jan 28 2024 is 5.00 (NOAA Scale
 G1).
 
-NOAA Kp index breakdown Jan 25-Jan 27 2024
+NOAA Kp index breakdown Jan 26-Jan 28 2024
 
-             Jan 25       Jan 26       Jan 27
-00-03UT       3.00         4.00         4.00     
-03-06UT       2.67         4.00         4.33     
-06-09UT       3.00         2.33         4.00     
-09-12UT       3.33         2.00         4.00     
-12-15UT       4.67 (G1)    2.67         4.00     
-15-18UT       3.67         4.00         4.33     
-18-21UT       3.00         5.00 (G1)    4.67 (G1)
-21-00UT       3.67         4.67 (G1)    4.33     
+             Jan 26       Jan 27       Jan 28
+00-03UT       4.00         4.00         3.00     
+03-06UT       4.00         4.33         3.00     
+06-09UT       2.33         4.00         3.00     
+09-12UT       2.00         4.00         3.67     
+12-15UT       2.67         4.00         3.33     
+15-18UT       4.00         4.33         3.33     
+18-21UT       5.00 (G1)    4.67 (G1)    3.67     
+21-00UT       4.67 (G1)    4.33         3.67     
 
 Rationale: Periods of G1 (Minor) geomagnetic storms are likely, with a
-chance of isolated G2 (Moderate) storm periods on 25-27 Jan due to the
-possible impacts of several nearby passing CMEs from several events on
-22-23 Jan.
+chance of isolated G2 (Moderate) storm periods on 26-27 Jan due to the
+possible impacts of several nearby passing CMEs from events on 22-23
+Jan. Active conditions are expected on 28 Jan with waning CME effects.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Jan 25-Jan 27 2024
+Solar Radiation Storm Forecast for Jan 26-Jan 28 2024
 
-              Jan 25  Jan 26  Jan 27
-S1 or greater   15%     15%     15%
+              Jan 26  Jan 27  Jan 28
+S1 or greater   10%      5%      1%
 
 Rationale: There is a slight chance for the greater than 10 MeV proton
 flux to reach S1 (Minor) threshold through 27 Jan - primarily due to the
@@ -92,18 +92,15 @@ potential and favorable location of AR 3561.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-Radio blackouts reaching the R1 levels were observed over the past 24
-hours. The largest was at Jan 24 2024 0140 UTC.
+No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Jan 25-Jan 27 2024
+Radio Blackout Forecast for Jan 26-Jan 28 2024
 
-              Jan 25        Jan 26        Jan 27
-R1-R2           55%           55%           55%
-R3 or greater   10%           10%           10%
+              Jan 26        Jan 27        Jan 28
+R1-R2           45%           45%           35%
+R3 or greater   10%            5%            1%
 
-Rationale: R1-R2 (Minor-Moderate) radio blackouts are likely through 26
-Jan - primarily due to the flare potential of ARs 3559 and 3561.
-Additionally, there is a slight chance for R3 (Strong) or greater radio
-blackouts.
+Rationale: There is a decreasing chance for radio blackouts as ARs 3559
+and 3561 decay and rotate westward.
 
 ```
