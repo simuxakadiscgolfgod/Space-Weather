@@ -1,11 +1,10 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2024-01-27
-<br />**This image is owned by:**  Yuri Beletsky
-<br />**Title of the image:**  Full Observatory Moon
-<br />**Description for the image:**  A popular name for January's full moon in the northern hemisphere is the Full Wolf Moon. As the new year's first full moon, it rises over Las Campanas Observatory in this dramatic Earth-and-moonscape. Peering from the foreground like astronomical eyes are the observatory's twin 6.5 meter diameter Magellan telescopes. The snapshot was captured with telephoto lens across rugged terrain in the Chilean Atacama Desert, taken at a distance of about 9 miles from the observatory and about 240,000 miles from the lunar surface. Of course the first full moon of the lunar new year, known to some as the Full Snow Moon, will rise on February 24.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2401/Full_Moon_Jan_24_Beletsky.jpg
+<br />**Date image released:**  2024-01-28
+<br />**Title of the image:**  Pluto in True Color
+<br />**Description for the image:**  What color is Pluto, really? It took some effort to figure out.  Even given all of the images sent back to Earth when the robotic New Horizons spacecraft sped past Pluto in 2015, processing these multi-spectral frames to approximate what the human eye would see was challenging. The result featured here, released three years after the raw data was acquired by New Horizons, is the highest resolution true color image of Pluto ever taken. Visible in the image is the light-colored, heart-shaped, Tombaugh Regio, with the unexpectedly smooth Sputnik Planitia, made of frozen nitrogen, filling its western lobe. New Horizons found the dwarf planet to have a surprisingly complex surface composed of many regions having perceptibly different hues.  In total, though, Pluto is mostly brown, with much of its muted color originating from small amounts of surface methane energized by ultraviolet light from the Sun. 	
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2401/PlutoTrueColor_NewHorizons_8000.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,60 +48,56 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Jan 27 0030 UTC
+:Issued: 2024 Jan 28 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Jan 27-Jan 29 2024 is 4.67 (NOAA Scale
-G1).
+The greatest expected 3 hr Kp for Jan 28-Jan 30 2024 is 3.00 (below NOAA
+Scale levels).
 
-NOAA Kp index breakdown Jan 27-Jan 29 2024
+NOAA Kp index breakdown Jan 28-Jan 30 2024
 
-             Jan 27       Jan 28       Jan 29
-00-03UT       4.00         3.00         3.00     
-03-06UT       4.33         3.00         2.67     
-06-09UT       3.00         3.00         2.67     
-09-12UT       3.33         3.67         2.67     
-12-15UT       4.00         3.33         2.67     
-15-18UT       4.33         3.33         2.00     
-18-21UT       4.67 (G1)    3.67         1.67     
-21-00UT       4.33         3.67         2.00     
+             Jan 28       Jan 29       Jan 30
+00-03UT       1.67         3.00         3.00     
+03-06UT       2.00         2.67         2.67     
+06-09UT       2.00         2.67         2.33     
+09-12UT       1.33         2.67         2.00     
+12-15UT       1.00         2.67         1.33     
+15-18UT       1.67         2.00         1.00     
+18-21UT       2.67         1.67         1.67     
+21-00UT       3.00         2.00         2.33     
 
-Rationale: Periods of G1 (Minor) geomagnetic storms are likely, with a
-chance of isolated G2 (Moderate) storm periods on 27 Jan due to the
-possible impacts of several nearby passing CMEs from events on 22-23
-Jan. Active conditions are expected on 28 Jan with waning CME effects.
+Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
+significant transient or recurrent solar wind features are forecast.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Jan 27-Jan 29 2024
+Solar Radiation Storm Forecast for Jan 28-Jan 30 2024
 
-              Jan 27  Jan 28  Jan 29
-S1 or greater   10%      5%      5%
+              Jan 28  Jan 29  Jan 30
+S1 or greater    1%      1%      1%
 
-Rationale: There is a slight chance for the greater than 10 MeV proton
-flux to reach S1 (Minor) threshold on 27 Jan - primarily due to the
-potential and favorable location of AR 3561.
+Rationale: No S1 (Minor) or greater solar radiation storms are expected.
+No significant active region activity favorable for radiation storm
+production is forecast.
 
 C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Jan 27-Jan 29 2024
+Radio Blackout Forecast for Jan 28-Jan 30 2024
 
-              Jan 27        Jan 28        Jan 29
-R1-R2           45%           40%           35%
-R3 or greater   10%            5%            5%
+              Jan 28        Jan 29        Jan 30
+R1-R2           25%           25%           25%
+R3 or greater    1%            1%            1%
 
-Rationale: A chance for isolated R1-2 (Minor-Moderate) blackouts due to
-M-class flare activity will persist through 29 Jan primarily due to ARs
-3559 and 3561. Probabilities decrease somewhat on 28 and 29 Jan as AR
-3561 rotates beyond the western limb of the visible disk.
+Rationale: There is a chance for R1-R2 (Minor-Moderate) radio blackouts
+on 28-30 Jan.
 
 ```
