@@ -1,10 +1,13 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2024-01-28
-<br />**Title of the image:**  Pluto in True Color
-<br />**Description for the image:**  What color is Pluto, really? It took some effort to figure out.  Even given all of the images sent back to Earth when the robotic New Horizons spacecraft sped past Pluto in 2015, processing these multi-spectral frames to approximate what the human eye would see was challenging. The result featured here, released three years after the raw data was acquired by New Horizons, is the highest resolution true color image of Pluto ever taken. Visible in the image is the light-colored, heart-shaped, Tombaugh Regio, with the unexpectedly smooth Sputnik Planitia, made of frozen nitrogen, filling its western lobe. New Horizons found the dwarf planet to have a surprisingly complex surface composed of many regions having perceptibly different hues.  In total, though, Pluto is mostly brown, with much of its muted color originating from small amounts of surface methane energized by ultraviolet light from the Sun. 	
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2401/PlutoTrueColor_NewHorizons_8000.jpg
+<br />**Date image released:**  2024-01-29
+<br />**This image is owned by:**  
+Craig Stocks
+
+<br />**Title of the image:**  The Pleiades: Seven Dusty Sisters
+<br />**Description for the image:**  The well-known Pleiades star cluster is slowly destroying part of a passing cloud of gas and dust. The Pleiades is the brightest open cluster of stars on Earth's sky and can be seen from almost any northerly location with the unaided eye.  Over the past 100,000 years, a field of gas and dust is moving by chance right through the Pleiades star cluster and is causing a strong reaction between the stars and dust. The passing cloud might be part of the Radcliffe wave, a newly discovered structure of gas and dust connecting several regions of star formation in the nearby part of our Milky Way galaxy.  Pressure from the stars' light significantly repels the dust in the surrounding blue reflection nebula, with smaller dust particles being repelled more strongly.  A short-term result is that parts of the dust cloud have become filamentary and stratified. The featured deep image incorporates nearly 9 hours of exposure and was captured from Utah Desert Remote Observatory in Utah, USA, last year.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2401/Pleiades_Stocks_2048.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -48,27 +51,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Jan 28 0030 UTC
+:Issued: 2024 Jan 29 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Jan 28-Jan 30 2024 is 3.00 (below NOAA
+The greatest expected 3 hr Kp for Jan 29-Jan 31 2024 is 4.00 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Jan 28-Jan 30 2024
+NOAA Kp index breakdown Jan 29-Jan 31 2024
 
-             Jan 28       Jan 29       Jan 30
-00-03UT       1.67         3.00         3.00     
-03-06UT       2.00         2.67         2.67     
-06-09UT       2.00         2.67         2.33     
-09-12UT       1.33         2.67         2.00     
-12-15UT       1.00         2.67         1.33     
-15-18UT       1.67         2.00         1.00     
-18-21UT       2.67         1.67         1.67     
-21-00UT       3.00         2.00         2.33     
+             Jan 29       Jan 30       Jan 31
+00-03UT       3.00         3.00         3.33     
+03-06UT       2.67         2.67         2.67     
+06-09UT       2.67         2.33         2.67     
+09-12UT       2.67         2.00         2.33     
+12-15UT       2.67         1.33         2.00     
+15-18UT       2.00         2.33         2.00     
+18-21UT       1.67         3.00         2.00     
+21-00UT       2.00         4.00         2.33     
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
 significant transient or recurrent solar wind features are forecast.
@@ -78,9 +81,9 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Jan 28-Jan 30 2024
+Solar Radiation Storm Forecast for Jan 29-Jan 31 2024
 
-              Jan 28  Jan 29  Jan 30
+              Jan 29  Jan 30  Jan 31
 S1 or greater    1%      1%      1%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -91,13 +94,13 @@ C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Jan 28-Jan 30 2024
+Radio Blackout Forecast for Jan 29-Jan 31 2024
 
-              Jan 28        Jan 29        Jan 30
+              Jan 29        Jan 30        Jan 31
 R1-R2           25%           25%           25%
 R3 or greater    1%            1%            1%
 
 Rationale: There is a chance for R1-R2 (Minor-Moderate) radio blackouts
-on 28-30 Jan.
+on 29-31 Jan.
 
 ```
