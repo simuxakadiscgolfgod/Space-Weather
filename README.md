@@ -1,13 +1,16 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2024-01-29
+<br />**Date image released:**  2024-01-30
 <br />**This image is owned by:**  
-Craig Stocks
+JAXA, 
+Takara Tomy, 
+Sony Co., 
+Doshisha U.
 
-<br />**Title of the image:**  The Pleiades: Seven Dusty Sisters
-<br />**Description for the image:**  The well-known Pleiades star cluster is slowly destroying part of a passing cloud of gas and dust. The Pleiades is the brightest open cluster of stars on Earth's sky and can be seen from almost any northerly location with the unaided eye.  Over the past 100,000 years, a field of gas and dust is moving by chance right through the Pleiades star cluster and is causing a strong reaction between the stars and dust. The passing cloud might be part of the Radcliffe wave, a newly discovered structure of gas and dust connecting several regions of star formation in the nearby part of our Milky Way galaxy.  Pressure from the stars' light significantly repels the dust in the surrounding blue reflection nebula, with smaller dust particles being repelled more strongly.  A short-term result is that parts of the dust cloud have become filamentary and stratified. The featured deep image incorporates nearly 9 hours of exposure and was captured from Utah Desert Remote Observatory in Utah, USA, last year.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2401/Pleiades_Stocks_2048.jpg
+<br />**Title of the image:**  SLIM Lands on the Moon
+<br />**Description for the image:**  New landers are on the Moon. Nearly two weeks ago, Japan's Smart Lander for Investigating Moon (SLIM) released two rovers as it descended, before its main lander touched down itself. The larger of the two rovers can hop like a frog, while the smaller rover is about the size of a baseball and can move after pulling itself apart like a transformer. The main lander, nicknamed Moon Sniper, is seen in the featured image taken by the smaller rover. Inspection of the image shows that Moon Sniper's thrusters are facing up, meaning that the lander is upside down from its descent configuration and on its side from its intended landing configuration.  One result is that Moon Sniper's solar panels are not in the expected orientation, so that powering the lander had to be curtailed and adapted.  SLIM's lander has already succeeded as a technology demonstration, its main mission, but was not designed to withstand the lunar night -- which starts tomorrow.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2401/Slim_jaxa_960.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -51,27 +54,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Jan 29 0030 UTC
+:Issued: 2024 Jan 30 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Jan 29-Jan 31 2024 is 4.00 (below NOAA
+The greatest expected 3 hr Kp for Jan 30-Feb 01 2024 is 4.00 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Jan 29-Jan 31 2024
+NOAA Kp index breakdown Jan 30-Feb 01 2024
 
-             Jan 29       Jan 30       Jan 31
-00-03UT       3.00         3.00         3.33     
-03-06UT       2.67         2.67         2.67     
-06-09UT       2.67         2.33         2.67     
-09-12UT       2.67         2.00         2.33     
-12-15UT       2.67         1.33         2.00     
-15-18UT       2.00         2.33         2.00     
-18-21UT       1.67         3.00         2.00     
-21-00UT       2.00         4.00         2.33     
+             Jan 30       Jan 31       Feb 01
+00-03UT       3.00         2.67         2.33     
+03-06UT       2.67         2.67         2.00     
+06-09UT       2.33         3.00         2.00     
+09-12UT       2.00         3.00         2.00     
+12-15UT       1.33         3.67         2.00     
+15-18UT       2.33         3.67         2.00     
+18-21UT       3.00         3.33         2.00     
+21-00UT       4.00         1.67         2.33     
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
 significant transient or recurrent solar wind features are forecast.
@@ -79,28 +82,31 @@ significant transient or recurrent solar wind features are forecast.
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
-below S-scale storm level thresholds.
+above S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Jan 29-Jan 31 2024
+Solar Radiation Storm Forecast for Jan 30-Feb 01 2024
 
-              Jan 29  Jan 30  Jan 31
-S1 or greater    1%      1%      1%
+              Jan 30  Jan 31  Feb 01
+S1 or greater   99%     60%     10%
 
-Rationale: No S1 (Minor) or greater solar radiation storms are expected.
-No significant active region activity favorable for radiation storm
-production is forecast.
+Rationale: An S1 (Minor) or greater solar radiation storm is in
+progress and is expected to continue through 30 Jan. A chance for S1 or
+greater solar radiation storms remains for 31 Jan, decreasing to a
+slight chance by 01 Feb.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-No radio blackouts were observed over the past 24 hours.
+Radio blackouts reaching the R2 levels were observed over the past 24
+hours. The largest was at Jan 29 2024 0438 UTC.
 
-Radio Blackout Forecast for Jan 29-Jan 31 2024
+Radio Blackout Forecast for Jan 30-Feb 01 2024
 
-              Jan 29        Jan 30        Jan 31
-R1-R2           25%           25%           25%
+              Jan 30        Jan 31        Feb 01
+R1-R2           40%           25%           25%
 R3 or greater    1%            1%            1%
 
-Rationale: There is a chance for R1-R2 (Minor-Moderate) radio blackouts
-on 29-31 Jan.
+Rationale: A decreasing chance for R1-R2 (Minor-Moderate) radio
+blackouts is expected through 01 Feb as Region 3559 rotates around the
+NW limb.
 
 ```
