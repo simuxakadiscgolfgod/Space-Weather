@@ -1,13 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2024-01-31
-<br />**This image is owned by:**  
-Marcin Ślipko
-
-<br />**Title of the image:**  Camera Orion Rising
-<br />**Description for the image:**  What does Orion rising look like to a camera? During this time of the year, the famous constellation is visible to the southeast just after sunset. From most Earthly locations, Orion's familiar star pattern, highlighted by the three-stars-in-a-row belt stars, rises sideways. An entire section of the night sky that includes Orion was photographed rising above Śnieżka, a mountain on the border between Poland and the Czech Republic.  The long duration exposure sequence brings up many faint features including the Orion and Flame Nebulas, both encompassed by the curving Barnard's Loop. The featured wide-angle camera composite also captured night sky icons including the blue Pleiades star cluster at the image top and the red Rosette Nebula to the left of Orion. Famous stars in the frame include Sirius, Betelgeuse, Rigel and Aldebaran. Orion will appear successively higher in the sky at sunset during the coming months.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2401/OrionRising_Slipko_2048.jpg
+<br />**Date image released:**  2024-02-01
+<br />**This image is owned by:**  Jean-Baptiste Auroux
+<br />**Title of the image:**  NGC 1365: Majestic Island Universe
+<br />**Description for the image:**  Barred spiral galaxy NGC 1365 is truly a majestic island universe some 200,000 light-years across. Located a mere 60 million light-years away toward the faint but heated constellation Fornax, NGC 1365 is a dominant member of the well-studied Fornax Cluster of galaxies. This sharp color image shows the intense, reddish star forming regions near the ends of the galaxy's central bar and along its spiral arms. Seen in fine detail, obscuring dust lanes cut across the galaxy's bright core. At the core lies a supermassive black hole. Astronomers think NGC 1365's prominent bar plays a crucial role in the galaxy's evolution, drawing gas and dust into a star-forming maelstrom and ultimately feeding material into the central black hole.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2402/NGC1365_v4.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -51,27 +49,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Jan 31 0030 UTC
+:Issued: 2024 Feb 01 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Jan 31-Feb 02 2024 is 3.67 (below NOAA
+The greatest expected 3 hr Kp for Feb 01-Feb 03 2024 is 2.33 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Jan 31-Feb 02 2024
+NOAA Kp index breakdown Feb 01-Feb 03 2024
 
-             Jan 31       Feb 01       Feb 02
-00-03UT       2.33         2.67         1.33     
-03-06UT       2.00         2.00         1.33     
-06-09UT       3.00         2.00         1.33     
-09-12UT       3.00         2.00         1.67     
-12-15UT       3.00         2.00         1.33     
-15-18UT       3.67         2.00         1.33     
-18-21UT       3.67         2.00         1.67     
-21-00UT       2.67         2.33         1.67     
+             Feb 01       Feb 02       Feb 03
+00-03UT       1.67         1.33         2.33     
+03-06UT       1.33         1.33         1.67     
+06-09UT       1.33         1.33         2.00     
+09-12UT       1.33         1.67         2.33     
+12-15UT       1.33         1.33         2.33     
+15-18UT       1.33         1.33         2.33     
+18-21UT       1.67         1.67         2.33     
+21-00UT       1.67         1.67         2.33     
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
 significant transient or recurrent solar wind features are forecast.
@@ -79,28 +77,29 @@ significant transient or recurrent solar wind features are forecast.
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
-above S-scale storm level thresholds.
+below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Jan 31-Feb 02 2024
+Solar Radiation Storm Forecast for Feb 01-Feb 03 2024
 
-              Jan 31  Feb 01  Feb 02
-S1 or greater   20%      1%      1%
+              Feb 01  Feb 02  Feb 03
+S1 or greater   10%      1%      1%
 
 Rationale: There is a slight chance for S1 (Minor) or greater solar
-radiation storms on 31 Jan as levels continue to trend downward
-following the S2 (Moderate) event that began on 29 Jan.
+radiation storms on 01 Feb due to possible delayed response to a
+far-sided halo event.
 
 C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Jan 31-Feb 02 2024
+Radio Blackout Forecast for Feb 01-Feb 03 2024
 
-              Jan 31        Feb 01        Feb 02
+              Feb 01        Feb 02        Feb 03
 R1-R2           25%           25%           25%
 R3 or greater    1%            1%            1%
 
 Rationale: There is a chance for R1-R2 (Minor-Moderate) radio blackouts
-through 02 Feb.
+for the next three days (01-03 Feb) due to the flare potential of AR
+3567 and potential new regions rotating onto the visible disk.
 
 ```
