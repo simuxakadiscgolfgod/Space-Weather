@@ -1,11 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2024-02-01
-<br />**This image is owned by:**  Jean-Baptiste Auroux
-<br />**Title of the image:**  NGC 1365: Majestic Island Universe
-<br />**Description for the image:**  Barred spiral galaxy NGC 1365 is truly a majestic island universe some 200,000 light-years across. Located a mere 60 million light-years away toward the faint but heated constellation Fornax, NGC 1365 is a dominant member of the well-studied Fornax Cluster of galaxies. This sharp color image shows the intense, reddish star forming regions near the ends of the galaxy's central bar and along its spiral arms. Seen in fine detail, obscuring dust lanes cut across the galaxy's bright core. At the core lies a supermassive black hole. Astronomers think NGC 1365's prominent bar plays a crucial role in the galaxy's evolution, drawing gas and dust into a star-forming maelstrom and ultimately feeding material into the central black hole.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2402/NGC1365_v4.jpg
+<br />**Date image released:**  2024-02-02
+<br />**This image is owned by:**  Sander de Jong
+<br />**Title of the image:**  NGC 1893 and the Tadpoles of IC 410
+<br />**Description for the image:**  This cosmic view shows off an otherwise faint emission nebula IC 410, captured under clear Netherlands skies with telescope and narrowband filters. Above and right of center you can spot two remarkable inhabitants of the interstellar pond of gas and dust, known as the tadpoles of IC 410. Partly obscured by foreground dust, the nebula itself surrounds NGC 1893, a young galactic cluster of stars. Formed in the interstellar cloud a mere 4 million years ago, the intensely hot, bright cluster stars energize the glowing gas. Globules composed of denser cooler gas and dust, the tadpoles are around 10 light-years long and are likely sites of ongoing star formation. Sculpted by stellar winds and radiation their heads are outlined by bright ridges of ionized gas while their tails trail away from the cluster's central young stars. IC 410 and embedded NGC 1893 lie some 10,000 light-years away, toward the nebula-rich constellation Auriga.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2402/Tadpoles2048original.png
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,27 +49,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Feb 01 0030 UTC
+:Issued: 2024 Feb 02 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Feb 01-Feb 03 2024 is 2.33 (below NOAA
+The greatest expected 3 hr Kp for Feb 02-Feb 04 2024 is 4.33 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Feb 01-Feb 03 2024
+NOAA Kp index breakdown Feb 02-Feb 04 2024
 
-             Feb 01       Feb 02       Feb 03
-00-03UT       1.67         1.33         2.33     
-03-06UT       1.33         1.33         1.67     
-06-09UT       1.33         1.33         2.00     
-09-12UT       1.33         1.67         2.33     
-12-15UT       1.33         1.33         2.33     
-15-18UT       1.33         1.33         2.33     
-18-21UT       1.67         1.67         2.33     
-21-00UT       1.67         1.67         2.33     
+             Feb 02       Feb 03       Feb 04
+00-03UT       1.33         1.67         2.00     
+03-06UT       1.33         1.33         2.00     
+06-09UT       1.33         1.33         2.33     
+09-12UT       1.67         1.33         1.67     
+12-15UT       1.33         1.33         2.00     
+15-18UT       1.33         1.33         3.33     
+18-21UT       1.67         1.67         4.00     
+21-00UT       1.67         1.67         4.33     
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
 significant transient or recurrent solar wind features are forecast.
@@ -79,27 +79,27 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Feb 01-Feb 03 2024
+Solar Radiation Storm Forecast for Feb 02-Feb 04 2024
 
-              Feb 01  Feb 02  Feb 03
-S1 or greater   10%      1%      1%
+              Feb 02  Feb 03  Feb 04
+S1 or greater    5%      1%      1%
 
-Rationale: There is a slight chance for S1 (Minor) or greater solar
-radiation storms on 01 Feb due to possible delayed response to a
-far-sided halo event.
+Rationale: No S1 (Minor) or greater solar radiation storms are expected.
+No significant active region activity favorable for radiation storm
+production is forecast.
 
 C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Feb 01-Feb 03 2024
+Radio Blackout Forecast for Feb 02-Feb 04 2024
 
-              Feb 01        Feb 02        Feb 03
+              Feb 02        Feb 03        Feb 04
 R1-R2           25%           25%           25%
-R3 or greater    1%            1%            1%
+R3 or greater    5%            1%            1%
 
 Rationale: There is a chance for R1-R2 (Minor-Moderate) radio blackouts
-for the next three days (01-03 Feb) due to the flare potential of AR
+for the next three days (02-04 Feb) due to the flare potential of AR
 3567 and potential new regions rotating onto the visible disk.
 
 ```
