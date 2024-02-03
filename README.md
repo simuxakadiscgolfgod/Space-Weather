@@ -1,11 +1,10 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2024-02-02
-<br />**This image is owned by:**  Sander de Jong
-<br />**Title of the image:**  NGC 1893 and the Tadpoles of IC 410
-<br />**Description for the image:**  This cosmic view shows off an otherwise faint emission nebula IC 410, captured under clear Netherlands skies with telescope and narrowband filters. Above and right of center you can spot two remarkable inhabitants of the interstellar pond of gas and dust, known as the tadpoles of IC 410. Partly obscured by foreground dust, the nebula itself surrounds NGC 1893, a young galactic cluster of stars. Formed in the interstellar cloud a mere 4 million years ago, the intensely hot, bright cluster stars energize the glowing gas. Globules composed of denser cooler gas and dust, the tadpoles are around 10 light-years long and are likely sites of ongoing star formation. Sculpted by stellar winds and radiation their heads are outlined by bright ridges of ionized gas while their tails trail away from the cluster's central young stars. IC 410 and embedded NGC 1893 lie some 10,000 light-years away, toward the nebula-rich constellation Auriga.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2402/Tadpoles2048original.png
+<br />**Date image released:**  2024-02-03
+<br />**Title of the image:**  Apollo 14: A View from Antares
+<br />**Description for the image:**  Apollo 14's Lunar Module Antares landed on the Moon on February 5, 1971. Toward the end of the stay astronaut Ed Mitchell snapped a series of photos of the lunar surface while looking out a window, assembled into this detailed mosaic by Apollo Lunar Surface Journal editor Eric Jones. The view looks across the Fra Mauro highlands to the northwest of the landing site after the Apollo 14 astronauts had completed their second and final walk on the Moon. Prominent in the foreground is their Modular Equipment Transporter, a two-wheeled, rickshaw-like device used to carry tools and samples. Near the horizon at top center is a 1.5 meter wide boulder dubbed Turtle rock. In the shallow crater below Turtle rock is the long white handle of a sampling instrument, thrown there javelin-style by Mitchell. Mitchell's fellow moonwalker and first American in space, Alan Shepard, also used a makeshift six iron to hit two golf balls. One of Shepard's golf balls is just visible as a white spot below Mitchell's javelin.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2402/a14pan9335-43emj.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,39 +48,39 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Feb 02 0030 UTC
+:Issued: 2024 Feb 03 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 1 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Feb 02-Feb 04 2024 is 4.33 (below NOAA
-Scale levels).
+The greatest expected 3 hr Kp for Feb 03-Feb 05 2024 is 5.00 (NOAA Scale
+G1).
 
-NOAA Kp index breakdown Feb 02-Feb 04 2024
+NOAA Kp index breakdown Feb 03-Feb 05 2024
 
-             Feb 02       Feb 03       Feb 04
-00-03UT       1.33         1.67         2.00     
-03-06UT       1.33         1.33         2.00     
-06-09UT       1.33         1.33         2.33     
-09-12UT       1.67         1.33         1.67     
-12-15UT       1.33         1.33         2.00     
-15-18UT       1.33         1.33         3.33     
-18-21UT       1.67         1.67         4.00     
-21-00UT       1.67         1.67         4.33     
+             Feb 03       Feb 04       Feb 05
+00-03UT       1.67         2.00         5.00 (G1)
+03-06UT       1.33         2.00         3.67     
+06-09UT       1.33         2.33         3.67     
+09-12UT       1.33         1.67         3.33     
+12-15UT       1.33         2.00         3.00     
+15-18UT       1.33         3.33         2.33     
+18-21UT       1.67         4.00         2.33     
+21-00UT       1.67         4.33         3.00     
 
-Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
-significant transient or recurrent solar wind features are forecast.
+Rationale: G1 (Minor) geomagnetic storms are likely on 05 Feb due to
+potential transient and CH HSS effects.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Feb 02-Feb 04 2024
+Solar Radiation Storm Forecast for Feb 03-Feb 05 2024
 
-              Feb 02  Feb 03  Feb 04
+              Feb 03  Feb 04  Feb 05
 S1 or greater    5%      1%      1%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -90,16 +89,16 @@ production is forecast.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-No radio blackouts were observed over the past 24 hours.
+Radio blackouts reaching the R1 levels were observed over the past 24
+hours. The largest was at Feb 02 2024 0301 UTC.
 
-Radio Blackout Forecast for Feb 02-Feb 04 2024
+Radio Blackout Forecast for Feb 03-Feb 05 2024
 
-              Feb 02        Feb 03        Feb 04
+              Feb 03        Feb 04        Feb 05
 R1-R2           25%           25%           25%
 R3 or greater    5%            1%            1%
 
 Rationale: There is a chance for R1-R2 (Minor-Moderate) radio blackouts
-for the next three days (02-04 Feb) due to the flare potential of AR
-3567 and potential new regions rotating onto the visible disk.
+for the next three days (03-05 Feb).
 
 ```
