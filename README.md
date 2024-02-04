@@ -1,10 +1,10 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2024-02-03
-<br />**Title of the image:**  Apollo 14: A View from Antares
-<br />**Description for the image:**  Apollo 14's Lunar Module Antares landed on the Moon on February 5, 1971. Toward the end of the stay astronaut Ed Mitchell snapped a series of photos of the lunar surface while looking out a window, assembled into this detailed mosaic by Apollo Lunar Surface Journal editor Eric Jones. The view looks across the Fra Mauro highlands to the northwest of the landing site after the Apollo 14 astronauts had completed their second and final walk on the Moon. Prominent in the foreground is their Modular Equipment Transporter, a two-wheeled, rickshaw-like device used to carry tools and samples. Near the horizon at top center is a 1.5 meter wide boulder dubbed Turtle rock. In the shallow crater below Turtle rock is the long white handle of a sampling instrument, thrown there javelin-style by Mitchell. Mitchell's fellow moonwalker and first American in space, Alan Shepard, also used a makeshift six iron to hit two golf balls. One of Shepard's golf balls is just visible as a white spot below Mitchell's javelin.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2402/a14pan9335-43emj.jpg
+<br />**Date image released:**  2024-02-04
+<br />**Title of the image:**  The Cone Nebula from Hubble
+<br />**Description for the image:**  Stars are forming in the gigantic dust pillar called the Cone Nebula. Cones, pillars, and majestic flowing shapes abound in stellar nurseries where natal clouds of gas and dust are buffeted by energetic winds from newborn stars. The Cone Nebula, a well-known example, lies within the bright galactic star-forming region NGC 2264. The Cone was captured in unprecedented detail in this close-up composite of several observations from the Earth-orbiting Hubble Space Telescope. While the Cone Nebula, about 2,500 light-years away in Monoceros, is around 7 light-years long, the region pictured here surrounding the cone's blunted head is a mere 2.5 light-years across. In our neck of the galaxy that distance is just over half way from our Sun to its nearest stellar neighbors in the Alpha Centauri star system. The massive star NGC 2264 IRS, seen by Hubble's infrared camera in 1997, is the likely source of the wind sculpting the Cone Nebula and lies off the top of the image. The Cone Nebula's reddish veil is produced by dust and glowing hydrogen gas.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2402/cone_hubbleschmidt_4048.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -48,27 +48,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Feb 03 0030 UTC
+:Issued: 2024 Feb 04 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 1 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Feb 03-Feb 05 2024 is 5.00 (NOAA Scale
+The greatest expected 3 hr Kp for Feb 04-Feb 06 2024 is 5.00 (NOAA Scale
 G1).
 
-NOAA Kp index breakdown Feb 03-Feb 05 2024
+NOAA Kp index breakdown Feb 04-Feb 06 2024
 
-             Feb 03       Feb 04       Feb 05
-00-03UT       1.67         2.00         5.00 (G1)
-03-06UT       1.33         2.00         3.67     
-06-09UT       1.33         2.33         3.67     
-09-12UT       1.33         1.67         3.33     
-12-15UT       1.33         2.00         3.00     
-15-18UT       1.33         3.33         2.33     
-18-21UT       1.67         4.00         2.33     
-21-00UT       1.67         4.33         3.00     
+             Feb 04       Feb 05       Feb 06
+00-03UT       2.00         5.00 (G1)    3.00     
+03-06UT       2.00         3.67         2.67     
+06-09UT       2.33         3.67         2.33     
+09-12UT       1.67         3.33         2.00     
+12-15UT       2.00         3.00         1.33     
+15-18UT       3.33         2.33         1.33     
+18-21UT       4.00         2.33         1.33     
+21-00UT       4.33         3.00         2.33     
 
 Rationale: G1 (Minor) geomagnetic storms are likely on 05 Feb due to
 potential transient and CH HSS effects.
@@ -78,27 +78,28 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Feb 03-Feb 05 2024
+Solar Radiation Storm Forecast for Feb 04-Feb 06 2024
 
-              Feb 03  Feb 04  Feb 05
-S1 or greater    5%      1%      1%
+              Feb 04  Feb 05  Feb 06
+S1 or greater   10%     10%     10%
 
-Rationale: No S1 (Minor) or greater solar radiation storms are expected.
-No significant active region activity favorable for radiation storm
-production is forecast.
+Rationale: A slight chance for S1 (Minor) or greater solar radiation
+storms are possible, primarily due to the flare potential of Region 3575
+and 3576, over 04-06 Feb.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-Radio blackouts reaching the R1 levels were observed over the past 24
-hours. The largest was at Feb 02 2024 0301 UTC.
+No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Feb 03-Feb 05 2024
+Radio Blackout Forecast for Feb 04-Feb 06 2024
 
-              Feb 03        Feb 04        Feb 05
-R1-R2           25%           25%           25%
-R3 or greater    5%            1%            1%
+              Feb 04        Feb 05        Feb 06
+R1-R2           60%           60%           60%
+R3 or greater   15%           15%           15%
 
-Rationale: There is a chance for R1-R2 (Minor-Moderate) radio blackouts
-for the next three days (03-05 Feb).
+Rationale: Solar activity is likely to be moderate, with an increasing
+possibility of M-class flares (R1-R2/Minor-Moderate), and a slight
+chance for flares (R3 or greater) over 04-06 Feb, mainly due to the
+flare potential of Regions 3575 and 3576.
 
 ```
