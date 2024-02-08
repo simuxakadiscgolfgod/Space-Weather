@@ -1,15 +1,5 @@
-<br />**Date image released:**  2024-02-06
-<br />**This image is owned by:**  
-NASA, 
-ESA, 
-CSA, 
-STScI, 
-J. Lee (STScI), 
-T. Williams (Oxford), 
-R. Chandar (UToledo), 
-D. Calzetti (UMass), 
-PHANGS Team
-
-<br />**Title of the image:**  NGC 1566: A Spiral Galaxy from Webb and Hubble
-<br />**Description for the image:**  What's different about this galaxy? Very little, which makes the Spanish Dancer galaxy, NGC 1566, one of the most typical and photogenic spirals on the sky. There is something different about this galaxy image, though, because it is a diagonal combination of two images: one by the Hubble Space Telescope on the upper left, and the other by the James Webb Space Telescope on the lower right.  The Hubble image was taken in ultraviolet light and highlights the locations of bright blue stars and dark dust along the galaxy's impressive spiral arms. In contrast, the Webb image was taken in infrared light and highlights where the same dust emits more light than it absorbed. In the rollover image, the other two sides of these images are revealed. Blinking between the two images shows which stars are particularly hot because they glow brighter in ultraviolet light, and the difference between seemingly empty space and infrared-glowing dust.   Image Crunching Opportunity:  Take NASA's Astrophoto Challenge
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2402/Ngc1566_HubbleWebb_2125.jpg
+<br />**Date image released:**  2024-02-08
+<br />**This image is owned by:**  Marco Lorenzi
+<br />**Title of the image:**  Globular Star Cluster 47 Tuc
+<br />**Description for the image:**  Globular star cluster 47 Tucanae is a jewel of the southern sky. Also known as NGC 104, it roams the halo of our Milky Way Galaxy along with some 200 other globular star clusters. The second brightest globular cluster (after Omega Centauri) as seen from planet Earth, 47 Tuc lies about 13,000 light-years away. It can be spotted with the naked-eye close on the sky to the Small Magellanic Cloud in the constellation of the Toucan. The dense cluster is made up of hundreds of thousands of stars in a volume only about 120 light-years across. Red giant stars on the outskirts of the cluster are easy to pick out as yellowish stars in this sharp telescopic portrait. Tightly packed globular cluster 47 Tuc is also home to a star with the closest known orbit around a black hole.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2402/NGC104_RGB_NASA.jpg
