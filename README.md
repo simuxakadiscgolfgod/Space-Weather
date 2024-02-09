@@ -1,11 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2024-02-08
-<br />**This image is owned by:**  Marco Lorenzi
-<br />**Title of the image:**  Globular Star Cluster 47 Tuc
-<br />**Description for the image:**  Globular star cluster 47 Tucanae is a jewel of the southern sky. Also known as NGC 104, it roams the halo of our Milky Way Galaxy along with some 200 other globular star clusters. The second brightest globular cluster (after Omega Centauri) as seen from planet Earth, 47 Tuc lies about 13,000 light-years away. It can be spotted with the naked-eye close on the sky to the Small Magellanic Cloud in the constellation of the Toucan. The dense cluster is made up of hundreds of thousands of stars in a volume only about 120 light-years across. Red giant stars on the outskirts of the cluster are easy to pick out as yellowish stars in this sharp telescopic portrait. Tightly packed globular cluster 47 Tuc is also home to a star with the closest known orbit around a black hole.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2402/NGC104_RGB_NASA.jpg
+<br />**Date image released:**  2024-02-09
+<br />**This image is owned by:**  Tommy Lease
+<br />**Title of the image:**  When Roses Aren't Red
+<br />**Description for the image:**  Not all roses are red of course, but they can still be very pretty. Likewise, the beautiful Rosette Nebula and other star forming regions are often shown in astronomical images with a predominately red hue, in part because the dominant emission in the nebula is from hydrogen atoms. Hydrogen's strongest optical emission line, known as H-alpha, is in the red region of the spectrum. But the beauty of an emission nebula need not be appreciated in red light alone. Other atoms in the nebula are also excited by energetic starlight and produce narrow emission lines as well. In this close-up view of the Rosette Nebula, narrowband images are mapped into broadband colors to show emission from Sulfur atoms in red, Hydrogen in green, and Oxygen in blue. In fact, the scheme of mapping these narrow atomic emission lines (SHO) into the broader colors (RGB) is adopted in many Hubble images of emission nebulae. This image spans about 50 light-years across the center of the Rosette Nebula. The nebula lies some 3,000 light-years away in the constellation Monoceros.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2402/Rosette2024newt533mmcopy.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,27 +49,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Feb 08 0030 UTC
+:Issued: 2024 Feb 09 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Feb 08-Feb 10 2024 is 4.33 (below NOAA
+The greatest expected 3 hr Kp for Feb 09-Feb 11 2024 is 4.33 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Feb 08-Feb 10 2024
+NOAA Kp index breakdown Feb 09-Feb 11 2024
 
-             Feb 08       Feb 09       Feb 10
-00-03UT       1.67         1.67         3.67     
-03-06UT       1.33         2.33         3.33     
-06-09UT       1.33         2.00         3.00     
-09-12UT       1.33         2.00         2.33     
-12-15UT       1.33         3.33         2.00     
-15-18UT       1.33         4.33         1.33     
-18-21UT       1.67         4.00         1.33     
-21-00UT       1.67         3.00         2.67     
+             Feb 09       Feb 10       Feb 11
+00-03UT       1.67         3.67         2.67     
+03-06UT       2.33         3.33         2.00     
+06-09UT       2.00         3.00         2.00     
+09-12UT       2.00         2.33         2.00     
+12-15UT       3.33         2.00         2.00     
+15-18UT       4.33         1.33         2.00     
+18-21UT       4.00         1.33         2.00     
+21-00UT       3.00         2.67         2.33     
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
 significant transient or recurrent solar wind features are forecast.
@@ -79,26 +79,27 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Feb 08-Feb 10 2024
+Solar Radiation Storm Forecast for Feb 09-Feb 11 2024
 
-              Feb 08  Feb 09  Feb 10
+              Feb 09  Feb 10  Feb 11
 S1 or greater   25%     10%     10%
 
-Rationale: There is a chance on day one for an S1 (Minor) or greater
-solar radiation storms. There is a slight chance on days 2 and 3.
+Rationale: There is a chance for S1 (Minor) or greater solar radiation
+storms on day 1, decreasing to a slight chance on days 2 and 3.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-Radio blackouts reaching the R2 levels were observed over the past 24
-hours. The largest was at Feb 07 2024 0331 UTC.
+Radio blackouts reaching the R1 levels were observed over the past 24
+hours. The largest was at Feb 08 2024 2350 UTC.
 
-Radio Blackout Forecast for Feb 08-Feb 10 2024
+Radio Blackout Forecast for Feb 09-Feb 11 2024
 
-              Feb 08        Feb 09        Feb 10
+              Feb 09        Feb 10        Feb 11
 R1-R2           60%           45%           45%
 R3 or greater   25%           10%           10%
 
-Rationale: R1 (Minor) to R2 (Moderate) or greater radio blackouts are
-likely, with a chance for an R3 (Strong) event.
+Rationale: R1-R2 (Minor-Moderate) radio blackouts are likely on day one,
+with a chance for R3 (Strong) events. Probabilities decrease to chance
+and slight chance, respectively, for days 2 and 3.
 
 ```
