@@ -1,10 +1,10 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2024-02-10
-<br />**Title of the image:**  The Shadow of Ingenuity's Damaged Rotor Blade
-<br />**Description for the image:**  On January 18, 2024, during its 72nd flight in the thin Martian atmosphere, autonomous Mars Helicopter Ingenuity rose to an altitude of 12 meters (40 feet) and hovered for 4.5 seconds above the Red Planet.  Ingenuity's 72nd landing was a rough one though. During descent it lost contact with the Perseverance rover about 1 meter above the Martian surface. Ingenuity was able to transmit this image after contact was re-established, showing the shadow of one of its rotor blades likely damaged during landing. And so, after wildly exceeding expectations during over 1,000 days of exploring Mars, the history-making Ingenuity has ended its flight operations. Nicknamed Ginny, Mars Helicopter Ingenuity became the first aircraft to achieve powered, controlled flight on another planet on April 19, 2021. Before launch, a small piece of material from the lower-left wing of the Wright Brothers Flyer 1, the first aircraft to achieve powered, controlled flight on planet Earth, was fixed to the underside of Ingenuity's solar panel.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2402/PIA26243-web.jpg
+<br />**Date image released:**  2024-02-11
+<br />**Title of the image:**  Rocket Plume Shadow Points to the Moon
+<br />**Description for the image:**  Why would the shadow of a rocket's launch plume point toward the Moon?  In early 2001 during a launch of the space shuttle Atlantis, the Sun, Earth, Moon, and rocket were all properly aligned for this photogenic coincidence.  First, for the space shuttle's plume to cast a long shadow, the time of day must be either near sunrise or sunset.  Only then will the shadow be its longest and extend all the way to the horizon.  Finally, during a Full Moon, the Sun and Moon are on opposite sides of the sky.  Just after sunset, for example, the Sun is slightly below the horizon, and, in the other direction, the Moon is slightly above the horizon.  Therefore, as Atlantis blasted off, just after sunset, its shadow projected away from the Sun toward the opposite horizon, where the Full Moon happened to be.    Almost Hyperspace: Random APOD Generator
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2402/sts98plume_nasa_1111.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -48,57 +48,57 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Feb 10 0030 UTC
+:Issued: 2024 Feb 11 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Feb 10-Feb 12 2024 is 3.67 (below NOAA
-Scale levels).
+The greatest expected 3 hr Kp for Feb 11-Feb 13 2024 is 5.00 (NOAA Scale
+G1).
 
-NOAA Kp index breakdown Feb 10-Feb 12 2024
+NOAA Kp index breakdown Feb 11-Feb 13 2024
 
-             Feb 10       Feb 11       Feb 12
-00-03UT       3.00         2.67         1.67     
-03-06UT       3.33         2.00         1.33     
-06-09UT       2.67         2.00         1.33     
-09-12UT       1.67         2.00         3.67     
-12-15UT       1.00         2.00         3.00     
-15-18UT       0.67         2.00         3.00     
-18-21UT       1.67         2.00         2.33     
-21-00UT       2.67         2.33         1.67     
+             Feb 11       Feb 12       Feb 13
+00-03UT       2.00         1.67         4.67 (G1)
+03-06UT       2.00         1.33         3.67     
+06-09UT       1.67         1.33         4.00     
+09-12UT       1.00         3.67         3.33     
+12-15UT       1.00         3.00         2.33     
+15-18UT       0.67         3.00         2.00     
+18-21UT       1.00         4.00         2.33     
+21-00UT       1.67         5.00 (G1)    3.00     
 
-Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
-significant transient or recurrent solar wind features are forecast.
+Rationale: Periods of G1 (Minor) geomagnetic storms are likely on 12-13
+Feb due to the anticipated arrival of multiple CMEs.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 above S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Feb 10-Feb 12 2024
+Solar Radiation Storm Forecast for Feb 11-Feb 13 2024
 
-              Feb 10  Feb 11  Feb 12
-S1 or greater   99%     60%     25%
+              Feb 11  Feb 12  Feb 13
+S1 or greater   99%     50%     25%
 
-Rationale: S1-S2 (Minor-Moderate) solar radiation storms are expected on
-10 Feb, and S1 conditions are likely to persist into 11 Feb. There is a
-chance for S1 conditions on 12 Feb.
+Rationale: S1-S2 (Minor-Moderate) solar radiation storms are expected to
+persist into 11 Feb. There is a chance for S1 (Minor) conditions on
+12-13 Feb.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-Radio blackouts reaching the R3 levels were observed over the past 24
-hours. The largest was at Feb 09 2024 1314 UTC.
+Radio blackouts reaching the R2 levels were observed over the past 24
+hours. The largest was at Feb 10 2024 2307 UTC.
 
-Radio Blackout Forecast for Feb 10-Feb 12 2024
+Radio Blackout Forecast for Feb 11-Feb 13 2024
 
-              Feb 10        Feb 11        Feb 12
-R1-R2           60%           50%           50%
-R3 or greater   25%           10%           10%
+              Feb 11        Feb 12        Feb 13
+R1-R2           60%           60%           60%
+R3 or greater   15%           15%           15%
 
-Rationale: R1-R2 (Minor-Moderate) radio blackouts are likely on 10 Feb,
-with a chance for R1-R2 events on 11-12 Feb.
+Rationale: R1-R2 (Minor-Moderate) radio blackouts are likely, with a
+slight chance for R3 or greater events, over 11-13 Feb.
 
 ```
