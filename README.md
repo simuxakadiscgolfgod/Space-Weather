@@ -1,10 +1,16 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2024-02-11
-<br />**Title of the image:**  Rocket Plume Shadow Points to the Moon
-<br />**Description for the image:**  Why would the shadow of a rocket's launch plume point toward the Moon?  In early 2001 during a launch of the space shuttle Atlantis, the Sun, Earth, Moon, and rocket were all properly aligned for this photogenic coincidence.  First, for the space shuttle's plume to cast a long shadow, the time of day must be either near sunrise or sunset.  Only then will the shadow be its longest and extend all the way to the horizon.  Finally, during a Full Moon, the Sun and Moon are on opposite sides of the sky.  Just after sunset, for example, the Sun is slightly below the horizon, and, in the other direction, the Moon is slightly above the horizon.  Therefore, as Atlantis blasted off, just after sunset, its shadow projected away from the Sun toward the opposite horizon, where the Full Moon happened to be.    Almost Hyperspace: Random APOD Generator
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2402/sts98plume_nasa_1111.jpg
+<br />**Date image released:**  2024-02-12
+<br />**This image is owned by:**  
+Julien Cadena & 
+Mickael Coulon; 
+Text: Natalia Lewandowska 
+(SUNY Oswego)
+
+<br />**Title of the image:**  HFG1 & Abell 6: Planetary Nebulae
+<br />**Description for the image:**  Planetary nebulae like Heckathorn-Fesen-Gull 1 (HFG1) and Abell 6 in the constellation Cassiopeia are remnants from the last phase of a medium sized star like our Sun.  In spite of their shapes, planetary nebulae have nothing in common with actual planets.  Located in the bottom left part of the featured photo, HFG1 was created by the binary star system V664 Cas, which consists of a white dwarf star and a red giant star. Both stars orbit their center of mass over about half an Earth day.  Traveling with the entire nebula at a speed about 300 times faster than the fastest train on Earth, V664 Cas generates a bluish arc shaped shock wave. The wave interacts most strongly with the surrounding interstellar medium in the areas where the arc is brightest. After roughly 10,000 years, planetary nebulae become invisible due to a lack of ultraviolet light being emitted by the stars that create them.  Displaying beautiful shapes and structures, planetary nebulae are highly desired objects for astrophotographers.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2402/Hfg1Abell6_CadenaCoulon_6140.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -48,57 +54,57 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Feb 11 0030 UTC
+:Issued: 2024 Feb 12 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Feb 11-Feb 13 2024 is 5.00 (NOAA Scale
-G1).
+The greatest expected 3 hr Kp for Feb 12-Feb 14 2024 is 5.67 (NOAA Scale
+G2).
 
-NOAA Kp index breakdown Feb 11-Feb 13 2024
+NOAA Kp index breakdown Feb 12-Feb 14 2024
 
-             Feb 11       Feb 12       Feb 13
-00-03UT       2.00         1.67         4.67 (G1)
-03-06UT       2.00         1.33         3.67     
-06-09UT       1.67         1.33         4.00     
-09-12UT       1.00         3.67         3.33     
-12-15UT       1.00         3.00         2.33     
-15-18UT       0.67         3.00         2.00     
-18-21UT       1.00         4.00         2.33     
-21-00UT       1.67         5.00 (G1)    3.00     
+             Feb 12       Feb 13       Feb 14
+00-03UT       3.67         4.67 (G1)    4.33     
+03-06UT       3.00         4.67 (G1)    4.67 (G1)
+06-09UT       2.67         4.67 (G1)    4.33     
+09-12UT       1.67         5.67 (G2)    4.00     
+12-15UT       1.67         4.67 (G1)    3.33     
+15-18UT       2.33         4.33         2.67     
+18-21UT       4.00         4.00         2.67     
+21-00UT       5.00 (G1)    3.67         2.67     
 
-Rationale: Periods of G1 (Minor) geomagnetic storms are likely on 12-13
-Feb due to the anticipated arrival of multiple CMEs.
+Rationale: Periods of G1 (Minor) geomagnetic storms are likely on 12-14
+Feb, and periods of G2 (Moderate) storms are likely on 13 Feb, due to
+the anticipated arrival of multiple CMEs.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 above S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Feb 11-Feb 13 2024
+Solar Radiation Storm Forecast for Feb 12-Feb 14 2024
 
-              Feb 11  Feb 12  Feb 13
-S1 or greater   99%     50%     25%
+              Feb 12  Feb 13  Feb 14
+S1 or greater   25%     25%     25%
 
-Rationale: S1-S2 (Minor-Moderate) solar radiation storms are expected to
-persist into 11 Feb. There is a chance for S1 (Minor) conditions on
-12-13 Feb.
+Rationale: There is a chance for S1 (Minor) solar radiation storm
+conditions over 12-14 Feb.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-Radio blackouts reaching the R2 levels were observed over the past 24
-hours. The largest was at Feb 10 2024 2307 UTC.
+Radio blackouts reaching the R1 levels were observed over the past 24
+hours. The largest was at Feb 11 2024 2245 UTC.
 
-Radio Blackout Forecast for Feb 11-Feb 13 2024
+Radio Blackout Forecast for Feb 12-Feb 14 2024
 
-              Feb 11        Feb 12        Feb 13
-R1-R2           60%           60%           60%
-R3 or greater   15%           15%           15%
+              Feb 12        Feb 13        Feb 14
+R1-R2           65%           65%           65%
+R3 or greater   20%           20%           20%
 
-Rationale: R1-R2 (Minor-Moderate) radio blackouts are likely, with a
-slight chance for R3 or greater events, over 11-13 Feb.
+Rationale: R1-R2 (Minor-Mpderate) radio blackouts are likely, with a
+chance for R3 or greater events, over 12-14 Feb.
 
 ```
