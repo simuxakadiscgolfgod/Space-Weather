@@ -1,16 +1,13 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2024-02-12
+<br />**Date image released:**  2024-02-13
 <br />**This image is owned by:**  
-Julien Cadena & 
-Mickael Coulon; 
-Text: Natalia Lewandowska 
-(SUNY Oswego)
+Antoni Zegarski
 
-<br />**Title of the image:**  HFG1 & Abell 6: Planetary Nebulae
-<br />**Description for the image:**  Planetary nebulae like Heckathorn-Fesen-Gull 1 (HFG1) and Abell 6 in the constellation Cassiopeia are remnants from the last phase of a medium sized star like our Sun.  In spite of their shapes, planetary nebulae have nothing in common with actual planets.  Located in the bottom left part of the featured photo, HFG1 was created by the binary star system V664 Cas, which consists of a white dwarf star and a red giant star. Both stars orbit their center of mass over about half an Earth day.  Traveling with the entire nebula at a speed about 300 times faster than the fastest train on Earth, V664 Cas generates a bluish arc shaped shock wave. The wave interacts most strongly with the surrounding interstellar medium in the areas where the arc is brightest. After roughly 10,000 years, planetary nebulae become invisible due to a lack of ultraviolet light being emitted by the stars that create them.  Displaying beautiful shapes and structures, planetary nebulae are highly desired objects for astrophotographers.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2402/Hfg1Abell6_CadenaCoulon_6140.jpg
+<br />**Title of the image:**  A January Wolf Moon
+<br />**Description for the image:**  Did you see the full moon last month? During every month, on average, a full moon occurs in the skies over planet Earth. This is because the Moon takes a month to complete another orbit around our home planet, goes through all of its phases, and once again has its entire Earth-facing half lit by reflected sunlight.  Many indigenous cultures give each full moon a name, and this past full moon's names include the Ice Moon, the Stay at Home Moon, and the Quiet Moon. Occurring in January on the modern western calendar, several cultures have also named the most recent full moon the Wolf Moon, in honor of the famous howling animal. Featured here above the Italian Alps mountains, this past Wolf Moon was captured in combined long and short exposure images.  The image is striking because, to some, the surrounding clouds appear as a wolf's mouth ready to swallow the Wolf Moon, while others see the Moon as a wolf's eye.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2402/WolfMoon_Zegarski_3648.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -54,57 +51,63 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Feb 12 0030 UTC
+:Issued: 2024 Feb 13 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Feb 12-Feb 14 2024 is 5.67 (NOAA Scale
+The greatest expected 3 hr Kp for Feb 13-Feb 15 2024 is 6.00 (NOAA Scale
 G2).
 
-NOAA Kp index breakdown Feb 12-Feb 14 2024
+NOAA Kp index breakdown Feb 13-Feb 15 2024
 
-             Feb 12       Feb 13       Feb 14
-00-03UT       3.67         4.67 (G1)    4.33     
-03-06UT       3.00         4.67 (G1)    4.67 (G1)
-06-09UT       2.67         4.67 (G1)    4.33     
-09-12UT       1.67         5.67 (G2)    4.00     
-12-15UT       1.67         4.67 (G1)    3.33     
-15-18UT       2.33         4.33         2.67     
-18-21UT       4.00         4.00         2.67     
-21-00UT       5.00 (G1)    3.67         2.67     
+             Feb 13       Feb 14       Feb 15
+00-03UT       3.67         4.67 (G1)    2.33     
+03-06UT       4.00         4.67 (G1)    2.33     
+06-09UT       6.00 (G2)    4.33         2.00     
+09-12UT       5.67 (G2)    4.00         2.00     
+12-15UT       4.67 (G1)    3.33         2.00     
+15-18UT       4.33         2.67         2.00     
+18-21UT       3.33         2.67         2.00     
+21-00UT       4.33         2.67         2.00     
 
-Rationale: Periods of G1 (Minor) geomagnetic storms are likely on 12-14
-Feb, and periods of G2 (Moderate) storms are likely on 13 Feb, due to
-the anticipated arrival of multiple CMEs.
+Rationale: G2 (Moderate) geomagnetic storming is likely on 13 Feb with
+the potential arrival of multiple CMEs. G1 (Minor) geomagnetic storming
+is likely on 14 Feb as CME effects continue. Quiet to unsettled
+conditions are expected to return by 15 Feb as an ambient-like
+environment begins to prevail.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 above S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Feb 12-Feb 14 2024
+Solar Radiation Storm Forecast for Feb 13-Feb 15 2024
 
-              Feb 12  Feb 13  Feb 14
-S1 or greater   25%     25%     25%
+              Feb 13  Feb 14  Feb 15
+S1 or greater   99%     50%     25%
 
-Rationale: There is a chance for S1 (Minor) solar radiation storm
-conditions over 12-14 Feb.
+Rationale: S1 (Minor) solar radiation storm levels are expected, with S2
+(Moderate) levels being likely, on 13 Feb. Probabilities for a solar
+radiation storm decrease to just a chance on 14 Feb, and begin to
+decrease further on 15 Feb.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-Radio blackouts reaching the R1 levels were observed over the past 24
-hours. The largest was at Feb 11 2024 2245 UTC.
+Radio blackouts reaching the R2 levels were observed over the past 24
+hours. The largest was at Feb 12 2024 0348 UTC.
 
-Radio Blackout Forecast for Feb 12-Feb 14 2024
+Radio Blackout Forecast for Feb 13-Feb 15 2024
 
-              Feb 12        Feb 13        Feb 14
-R1-R2           65%           65%           65%
-R3 or greater   20%           20%           20%
+              Feb 13        Feb 14        Feb 15
+R1-R2           75%           75%           75%
+R3 or greater   25%           25%           25%
 
-Rationale: R1-R2 (Minor-Mpderate) radio blackouts are likely, with a
-chance for R3 or greater events, over 12-14 Feb.
+Rationale: Solar activity is expected to reach moderate levels with
+occasional M-class flares (R1-2/Minor-Moderate Radio Blackouts), and a
+chance for isolated X-class flares (R3/Strong Radio Blackouts), through
+15 Feb.
 
 ```
