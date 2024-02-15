@@ -1,13 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2024-02-13
-<br />**This image is owned by:**  
-Antoni Zegarski
-
-<br />**Title of the image:**  A January Wolf Moon
-<br />**Description for the image:**  Did you see the full moon last month? During every month, on average, a full moon occurs in the skies over planet Earth. This is because the Moon takes a month to complete another orbit around our home planet, goes through all of its phases, and once again has its entire Earth-facing half lit by reflected sunlight.  Many indigenous cultures give each full moon a name, and this past full moon's names include the Ice Moon, the Stay at Home Moon, and the Quiet Moon. Occurring in January on the modern western calendar, several cultures have also named the most recent full moon the Wolf Moon, in honor of the famous howling animal. Featured here above the Italian Alps mountains, this past Wolf Moon was captured in combined long and short exposure images.  The image is striking because, to some, the surrounding clouds appear as a wolf's mouth ready to swallow the Wolf Moon, while others see the Moon as a wolf's eye.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2402/WolfMoon_Zegarski_3648.jpg
+<br />**Date image released:**  2024-02-15
+<br />**This image is owned by:**  Steve Crouch
+<br />**Title of the image:**  NGC 253: Dusty Island Universe
+<br />**Description for the image:**  Shiny NGC 253 is one of the brightest spiral galaxies visible, and also one of the dustiest.  Some call it the Silver Coin Galaxy for its appearance in small telescopes, or just the Sculptor Galaxy for its location within the boundaries of the southern constellation Sculptor.  Discovered in 1783 by mathematician and astronomer Caroline Herschel, the dusty island universe lies a mere 10 million light-years away. About 70 thousand light-years across, NGC 253 is the largest member of the Sculptor Group of Galaxies, the nearest to our own Local Group of Galaxies.  In addition to its spiral dust lanes, tendrils of dust seem to be rising from its galactic disk laced with young star clusters and star forming regions in this colorful galaxy portrait. The high dust content accompanies frantic star formation, earning NGC 253 the designation of a starburst galaxy. NGC 253 is also known to be a strong source of high-energy x-rays and gamma rays, likely due to massive black holes near the galaxy's center.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2402/ngc253_STXL6303_RC14_LHaRGB_2023.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -51,63 +49,60 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Feb 13 0030 UTC
+:Issued: 2024 Feb 15 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Feb 13-Feb 15 2024 is 6.00 (NOAA Scale
-G2).
+The greatest expected 3 hr Kp for Feb 15-Feb 17 2024 is 3.00 (below NOAA
+Scale levels).
 
-NOAA Kp index breakdown Feb 13-Feb 15 2024
+NOAA Kp index breakdown Feb 15-Feb 17 2024
 
-             Feb 13       Feb 14       Feb 15
-00-03UT       3.67         4.67 (G1)    2.33     
-03-06UT       4.00         4.67 (G1)    2.33     
-06-09UT       6.00 (G2)    4.33         2.00     
-09-12UT       5.67 (G2)    4.00         2.00     
-12-15UT       4.67 (G1)    3.33         2.00     
-15-18UT       4.33         2.67         2.00     
-18-21UT       3.33         2.67         2.00     
-21-00UT       4.33         2.67         2.00     
+             Feb 15       Feb 16       Feb 17
+00-03UT       3.00         1.67         1.67     
+03-06UT       2.67         1.33         1.33     
+06-09UT       2.33         1.33         1.33     
+09-12UT       2.67         1.33         1.33     
+12-15UT       2.00         1.33         1.33     
+15-18UT       1.33         1.33         1.33     
+18-21UT       2.00         1.67         1.67     
+21-00UT       2.33         1.67         1.67     
 
-Rationale: G2 (Moderate) geomagnetic storming is likely on 13 Feb with
-the potential arrival of multiple CMEs. G1 (Minor) geomagnetic storming
-is likely on 14 Feb as CME effects continue. Quiet to unsettled
-conditions are expected to return by 15 Feb as an ambient-like
-environment begins to prevail.
+Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
+significant transient or recurrent solar wind features are forecast.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 above S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Feb 13-Feb 15 2024
+Solar Radiation Storm Forecast for Feb 15-Feb 17 2024
 
-              Feb 13  Feb 14  Feb 15
-S1 or greater   99%     50%     25%
+              Feb 15  Feb 16  Feb 17
+S1 or greater   75%     15%      5%
 
-Rationale: S1 (Minor) solar radiation storm levels are expected, with S2
-(Moderate) levels being likely, on 13 Feb. Probabilities for a solar
-radiation storm decrease to just a chance on 14 Feb, and begin to
-decrease further on 15 Feb.
+Rationale:  S1 (Minor) solar radiation storm levels are expected for the
+early part of 15 Feb. Probabilities for a solar radiation storm decrease
+to just a slight chance for 16 Feb, yet remain relevant given AR 3576s
+physical location and event history. 
 
 C. NOAA Radio Blackout Activity and Forecast
 
-Radio blackouts reaching the R2 levels were observed over the past 24
-hours. The largest was at Feb 12 2024 0348 UTC.
+Radio blackouts reaching the R1 levels were observed over the past 24
+hours. The largest was at Feb 14 2024 0310 UTC.
 
-Radio Blackout Forecast for Feb 13-Feb 15 2024
+Radio Blackout Forecast for Feb 15-Feb 17 2024
 
-              Feb 13        Feb 14        Feb 15
-R1-R2           75%           75%           75%
-R3 or greater   25%           25%           25%
+              Feb 15        Feb 16        Feb 17
+R1-R2           55%           55%           35%
+R3 or greater   15%           15%            5%
 
-Rationale: Solar activity is expected to reach moderate levels with
-occasional M-class flares (R1-2/Minor-Moderate Radio Blackouts), and a
-chance for isolated X-class flares (R3/Strong Radio Blackouts), through
-15 Feb.
+Rationale: R1-2/Minor-Moderate radio blackouts are likely, with a slight
+chance for an isolated R3/Strong radio blackout event, through 16 Feb.
+Radio blackouts are less likely on 17 Feb as AR 3576 rotates off the
+disk.
 
 ```
