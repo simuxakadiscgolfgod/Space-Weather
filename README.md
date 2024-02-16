@@ -1,11 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2024-02-15
-<br />**This image is owned by:**  Steve Crouch
-<br />**Title of the image:**  NGC 253: Dusty Island Universe
-<br />**Description for the image:**  Shiny NGC 253 is one of the brightest spiral galaxies visible, and also one of the dustiest.  Some call it the Silver Coin Galaxy for its appearance in small telescopes, or just the Sculptor Galaxy for its location within the boundaries of the southern constellation Sculptor.  Discovered in 1783 by mathematician and astronomer Caroline Herschel, the dusty island universe lies a mere 10 million light-years away. About 70 thousand light-years across, NGC 253 is the largest member of the Sculptor Group of Galaxies, the nearest to our own Local Group of Galaxies.  In addition to its spiral dust lanes, tendrils of dust seem to be rising from its galactic disk laced with young star clusters and star forming regions in this colorful galaxy portrait. The high dust content accompanies frantic star formation, earning NGC 253 the designation of a starburst galaxy. NGC 253 is also known to be a strong source of high-energy x-rays and gamma rays, likely due to massive black holes near the galaxy's center.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2402/ngc253_STXL6303_RC14_LHaRGB_2023.jpg
+<br />**Date image released:**  2024-02-16
+<br />**This image is owned by:**  Dan Bartlett
+<br />**Title of the image:**  Structure in the Tail of Comet 12P/Pons-Brooks
+<br />**Description for the image:**  Heading for its next perihelion passage on April 21, Comet 12P/Pons-Brooks is growing brighter. The greenish coma of this periodic Halley-type comet has become relatively easy to observe in small telescopes. But the bluish ion tail now streaming from the active comet's coma and buffeted by the solar wind, is faint and difficult to follow. Still, in this image stacked exposures made on the night of February 11 reveal the fainter tail's detailed structures. The frame spans over two degrees across a background of faint stars and background galaxies toward the northern constellation Lacerta. Of course Comet 12P's April 21 perihelion passage will be only two weeks after the April 8 total solar eclipse, putting the comet in planet Earth's sky along with a totally eclipsed Sun.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2402/12P_Pons_Brooks_2024_02_11_185335PST_JuneLake_DEBartlett.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,27 +49,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Feb 15 0030 UTC
+:Issued: 2024 Feb 16 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Feb 15-Feb 17 2024 is 3.00 (below NOAA
+The greatest expected 3 hr Kp for Feb 16-Feb 18 2024 is 1.67 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Feb 15-Feb 17 2024
+NOAA Kp index breakdown Feb 16-Feb 18 2024
 
-             Feb 15       Feb 16       Feb 17
-00-03UT       3.00         1.67         1.67     
-03-06UT       2.67         1.33         1.33     
-06-09UT       2.33         1.33         1.33     
-09-12UT       2.67         1.33         1.33     
-12-15UT       2.00         1.33         1.33     
+             Feb 16       Feb 17       Feb 18
+00-03UT       1.67         1.67         1.67     
+03-06UT       1.33         1.33         1.33     
+06-09UT       1.33         1.33         1.33     
+09-12UT       1.33         1.33         1.33     
+12-15UT       1.33         1.33         1.33     
 15-18UT       1.33         1.33         1.33     
-18-21UT       2.00         1.67         1.67     
-21-00UT       2.33         1.67         1.67     
+18-21UT       1.67         1.67         1.67     
+21-00UT       1.67         1.67         1.67     
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
 significant transient or recurrent solar wind features are forecast.
@@ -77,32 +77,28 @@ significant transient or recurrent solar wind features are forecast.
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
-above S-scale storm level thresholds.
+below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Feb 15-Feb 17 2024
+Solar Radiation Storm Forecast for Feb 16-Feb 18 2024
 
-              Feb 15  Feb 16  Feb 17
-S1 or greater   75%     15%      5%
+              Feb 16  Feb 17  Feb 18
+S1 or greater   30%     30%      5%
 
-Rationale:  S1 (Minor) solar radiation storm levels are expected for the
-early part of 15 Feb. Probabilities for a solar radiation storm decrease
-to just a slight chance for 16 Feb, yet remain relevant given AR 3576s
-physical location and event history. 
+Rationale: There is a chance for S1 (Minor) conditions over 16-17 Feb.
 
 C. NOAA Radio Blackout Activity and Forecast
 
 Radio blackouts reaching the R1 levels were observed over the past 24
-hours. The largest was at Feb 14 2024 0310 UTC.
+hours. The largest was at Feb 15 2024 1707 UTC.
 
-Radio Blackout Forecast for Feb 15-Feb 17 2024
+Radio Blackout Forecast for Feb 16-Feb 18 2024
 
-              Feb 15        Feb 16        Feb 17
+              Feb 16        Feb 17        Feb 18
 R1-R2           55%           55%           35%
 R3 or greater   15%           15%            5%
 
-Rationale: R1-2/Minor-Moderate radio blackouts are likely, with a slight
-chance for an isolated R3/Strong radio blackout event, through 16 Feb.
-Radio blackouts are less likely on 17 Feb as AR 3576 rotates off the
-disk.
+Rationale: R1-R2 (Minor-Moderate) radio blackouts are likely, with a
+slight chance for R3 or greater events, over 16-17 Feb. There is a
+chance for R1-R2 events on 18 Feb.
 
 ```
