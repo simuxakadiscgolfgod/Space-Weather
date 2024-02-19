@@ -1,10 +1,7 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2024-02-18
-<br />**Title of the image:**  Hoag's Object: A Nearly Perfect Ring Galaxy
-<br />**Description for the image:**  Is this one galaxy or two?  This question came to light in 1950 when astronomer Arthur Hoag chanced upon this unusual extragalactic object.  On the outside is a ring dominated by bright blue stars, while near the center lies a ball of much redder stars that are likely much older.  Between the two is a gap that appears almost completely dark.  How Hoag's Object formed, including its nearly perfectly round ring of stars and gas, remains unknown.  Genesis hypotheses include a galaxy collision billions of years ago and the gravitational effect of a central bar that has since vanished. The featured photo was taken by the Hubble Space Telescope and reprocessed using an artificially intelligent de-noising algorithm.  Observations in radio waves indicate that Hoag's Object has not accreted a smaller galaxy in the past billion years.  Hoag's Object spans about 100,000 light years and lies about 600 million light years away toward the constellation of the Snake (Serpens).  Many galaxies far in the distance are visible toward the right, while coincidentally, visible in the gap at about seven o'clock, is another but more distant ring galaxy.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2402/Hoag_HubbleBlanco_3000.jpg
+<br />**Sorry, Image not available!**
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -48,27 +45,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Feb 18 0030 UTC
+:Issued: 2024 Feb 19 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Feb 18-Feb 20 2024 is 3.33 (below NOAA
+The greatest expected 3 hr Kp for Feb 19-Feb 21 2024 is 3.33 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Feb 18-Feb 20 2024
+NOAA Kp index breakdown Feb 19-Feb 21 2024
 
-             Feb 18       Feb 19       Feb 20
-00-03UT       1.67         1.67         2.67     
-03-06UT       1.33         1.33         2.67     
-06-09UT       1.33         1.33         2.33     
-09-12UT       1.33         1.67         2.33     
-12-15UT       1.33         1.33         2.33     
-15-18UT       1.33         1.33         2.33     
-18-21UT       1.67         3.00         2.00     
-21-00UT       1.67         3.33         2.33     
+             Feb 19       Feb 20       Feb 21
+00-03UT       1.67         2.67         1.67     
+03-06UT       1.33         2.67         1.33     
+06-09UT       1.33         2.33         1.33     
+09-12UT       1.67         2.33         1.33     
+12-15UT       1.33         2.33         1.33     
+15-18UT       1.33         2.33         1.33     
+18-21UT       3.00         2.00         1.67     
+21-00UT       3.33         2.33         1.67     
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
 significant transient or recurrent solar wind features are forecast.
@@ -78,9 +75,9 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Feb 18-Feb 20 2024
+Solar Radiation Storm Forecast for Feb 19-Feb 21 2024
 
-              Feb 18  Feb 19  Feb 20
+              Feb 19  Feb 20  Feb 21
 S1 or greater    5%      5%      5%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -91,13 +88,13 @@ C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Feb 18-Feb 20 2024
+Radio Blackout Forecast for Feb 19-Feb 21 2024
 
-              Feb 18        Feb 19        Feb 20
+              Feb 19        Feb 20        Feb 21
 R1-R2           40%           40%           40%
 R3 or greater    5%            5%            5%
 
-Rationale: There is a chance for R1-R2 (Minor-Moderate) events over
-18-20 Feb.
+Rationale: There is a chance for R1-R2 (Minor-Moderate) radio blackouts
+over 19-21 Feb.
 
 ```
