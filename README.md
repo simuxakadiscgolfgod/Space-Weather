@@ -1,11 +1,13 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Sorry, Image not available!**
-<br />**Date image released:**  2024-02-20
-<br />**Title of the image:**  AM1054: Stars Form as Galaxies Collide
-<br />**Description for the image:**  When galaxies collide, how many stars are born?  For AM1054-325, featured here in a recently released image by the Hubble Space Telescope, the answer is millions. Instead of stars being destroyed as galaxy AM1054-325 and a nearby galaxy circle each other, their gravity and motion has ignited stellar creation.  Star formation occurs rapidly in the gaseous debris stretching from AM1054-325’s yellowish body due to the other galaxy’s gravitational pull.  Hydrogen gas surrounding newborn stars glows pink.  Bright infant stars shine blue and cluster together in compact nurseries of thousands to millions of stars. AM1054-325 possesses over 100 of these intense-blue, dot-like star clusters, some appearing like a string of pearls.  Analyzing ultraviolet light helped determine that most of these stars are less than 10 million years old: stellar babies.  Many of these nurseries may grow up to be globular star clusters, while the bundle of young stars at the bottom tip may even detach and form a small galaxy.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2402/AM1054_Hubble_2000.jpg
+<br />**Date image released:**  2024-02-21
+<br />**This image is owned by:**  
+Dheera Venkatraman
+
+<br />**Title of the image:**  Seagull Nebula over Pinnacles' Peak
+<br />**Description for the image:**  The bird is bigger than the peak.  Nicknamed for its avian shape, the Seagull Nebula is an emission nebula on the night sky that is vast, spanning an angle over five times the diameter of the full moon and over 200 light years.  The head of the nebula is catalogued as IC 2177, and the star cluster under its right wing is catalogued as NGC 2343. Consisting of mostly red-glowing hydrogen gas, the Seagull Nebula incorporates some dust lanes and is forming stars.  The peak over which this Seagull seems to soar occurs at Pinnacles National Park in California, USA.  The featured image is a composite of long exposure images of the background sky and short exposure images of the foreground, all taken consecutively with the same camera and from the same location.    Explore Your Universe: Random APOD Generator
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2402/SeagullPinnacles_Venkatraman_2051.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,27 +51,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Feb 20 0030 UTC
+:Issued: 2024 Feb 21 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Feb 20-Feb 22 2024 is 2.67 (below NOAA
+The greatest expected 3 hr Kp for Feb 21-Feb 23 2024 is 3.00 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Feb 20-Feb 22 2024
+NOAA Kp index breakdown Feb 21-Feb 23 2024
 
-             Feb 20       Feb 21       Feb 22
-00-03UT       2.67         1.67         1.67     
+             Feb 21       Feb 22       Feb 23
+00-03UT       3.00         1.67         1.67     
 03-06UT       2.67         1.33         1.33     
-06-09UT       2.33         1.33         1.33     
-09-12UT       2.33         1.33         1.33     
-12-15UT       2.33         1.33         1.33     
-15-18UT       2.33         1.33         1.33     
-18-21UT       2.00         1.67         1.67     
-21-00UT       2.33         1.67         1.67     
+06-09UT       2.00         1.33         1.33     
+09-12UT       1.33         1.33         1.33     
+12-15UT       1.33         1.33         1.33     
+15-18UT       1.33         1.33         1.33     
+18-21UT       1.67         1.67         1.67     
+21-00UT       1.67         1.67         1.67     
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
 significant transient or recurrent solar wind features are forecast.
@@ -79,9 +81,9 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Feb 20-Feb 22 2024
+Solar Radiation Storm Forecast for Feb 21-Feb 23 2024
 
-              Feb 20  Feb 21  Feb 22
+              Feb 21  Feb 22  Feb 23
 S1 or greater    5%      5%      5%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -92,13 +94,14 @@ C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Feb 20-Feb 22 2024
+Radio Blackout Forecast for Feb 21-Feb 23 2024
 
-              Feb 20        Feb 21        Feb 22
-R1-R2           30%           25%           25%
+              Feb 21        Feb 22        Feb 23
+R1-R2           30%           30%           30%
 R3 or greater    5%            5%            5%
 
-Rationale: There is a chance for R1-R2 (Minor-Moderate) radio blackouts
-over 20-22 Feb.
+Rationale: A chance for isolated M-class flares (R1-2/Minor-Moderate)
+will persist through 23 Feb primarily due to the current potential
+exhibited by AR 3590.
 
 ```
