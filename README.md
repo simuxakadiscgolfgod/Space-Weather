@@ -1,13 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2024-02-21
-<br />**This image is owned by:**  
-Dheera Venkatraman
-
-<br />**Title of the image:**  Seagull Nebula over Pinnacles' Peak
-<br />**Description for the image:**  The bird is bigger than the peak.  Nicknamed for its avian shape, the Seagull Nebula is an emission nebula on the night sky that is vast, spanning an angle over five times the diameter of the full moon and over 200 light years.  The head of the nebula is catalogued as IC 2177, and the star cluster under its right wing is catalogued as NGC 2343. Consisting of mostly red-glowing hydrogen gas, the Seagull Nebula incorporates some dust lanes and is forming stars.  The peak over which this Seagull seems to soar occurs at Pinnacles National Park in California, USA.  The featured image is a composite of long exposure images of the background sky and short exposure images of the foreground, all taken consecutively with the same camera and from the same location.    Explore Your Universe: Random APOD Generator
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2402/SeagullPinnacles_Venkatraman_2051.jpg
+<br />**Date image released:**  2024-02-22
+<br />**This image is owned by:**  Kyunghoon Lim
+<br />**Title of the image:**  A View Toward M106
+<br />**Description for the image:**  Big, bright, beautiful spiral, Messier 106 dominates this cosmic vista. The nearly two degree wide telescopic field of view looks toward the well-trained constellation Canes Venatici, near the handle of the Big Dipper. Also known as NGC 4258, M106 is about 80,000 light-years across and 23.5 million light-years away, the largest member of the Canes II galaxy group. For a far far away galaxy, the distance to M106 is well-known in part because it can be directly measured by tracking this galaxy's remarkable maser, or microwave laser emission. Very rare but naturally occurring, the maser emission is produced by water molecules in molecular clouds orbiting its active galactic nucleus. Another prominent spiral galaxy on the scene, viewed nearly edge-on, is NGC 4217 below and right of M106. The distance to NGC 4217 is much less well-known, estimated to be about 60 million light-years, but the bright spiky stars are in the foreground, well inside our own Milky Way galaxy.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2402/M106field_KyunghoonLim2048.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -51,22 +49,22 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Feb 21 0030 UTC
+:Issued: 2024 Feb 22 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Feb 21-Feb 23 2024 is 3.00 (below NOAA
+The greatest expected 3 hr Kp for Feb 22-Feb 24 2024 is 1.67 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Feb 21-Feb 23 2024
+NOAA Kp index breakdown Feb 22-Feb 24 2024
 
-             Feb 21       Feb 22       Feb 23
-00-03UT       3.00         1.67         1.67     
-03-06UT       2.67         1.33         1.33     
-06-09UT       2.00         1.33         1.33     
+             Feb 22       Feb 23       Feb 24
+00-03UT       1.67         1.67         1.67     
+03-06UT       1.33         1.33         1.33     
+06-09UT       1.33         1.33         1.33     
 09-12UT       1.33         1.33         1.33     
 12-15UT       1.33         1.33         1.33     
 15-18UT       1.33         1.33         1.33     
@@ -81,9 +79,9 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Feb 21-Feb 23 2024
+Solar Radiation Storm Forecast for Feb 22-Feb 24 2024
 
-              Feb 21  Feb 22  Feb 23
+              Feb 22  Feb 23  Feb 24
 S1 or greater    5%      5%      5%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -92,16 +90,19 @@ production is forecast.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-No radio blackouts were observed over the past 24 hours.
+Radio blackouts reaching the R3 levels were observed over the past 24
+hours. The largest was at Feb 21 2024 2307 UTC.
 
-Radio Blackout Forecast for Feb 21-Feb 23 2024
+Radio Blackout Forecast for Feb 22-Feb 24 2024
 
-              Feb 21        Feb 22        Feb 23
-R1-R2           30%           30%           30%
-R3 or greater    5%            5%            5%
+              Feb 22        Feb 23        Feb 24
+R1-R2           30%           35%           40%
+R3 or greater   10%           10%           10%
 
-Rationale: A chance for isolated M-class flares (R1-2/Minor-Moderate)
-will persist through 23 Feb primarily due to the current potential
-exhibited by AR 3590.
+Rationale: An increasing chance of R1-2 (Minor-Moderate) radio blackouts
+takes place through 24 Feb due to the anticipated return of old AR 3575.
+A slight chance for R3 (Strong) radio blackouts will persist through 24
+Feb due to the recent activity from AR 3590 combined with the return of
+old AR 3575.
 
 ```
