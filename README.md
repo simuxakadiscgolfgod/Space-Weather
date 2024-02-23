@@ -1,11 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2024-02-22
-<br />**This image is owned by:**  Kyunghoon Lim
-<br />**Title of the image:**  A View Toward M106
-<br />**Description for the image:**  Big, bright, beautiful spiral, Messier 106 dominates this cosmic vista. The nearly two degree wide telescopic field of view looks toward the well-trained constellation Canes Venatici, near the handle of the Big Dipper. Also known as NGC 4258, M106 is about 80,000 light-years across and 23.5 million light-years away, the largest member of the Canes II galaxy group. For a far far away galaxy, the distance to M106 is well-known in part because it can be directly measured by tracking this galaxy's remarkable maser, or microwave laser emission. Very rare but naturally occurring, the maser emission is produced by water molecules in molecular clouds orbiting its active galactic nucleus. Another prominent spiral galaxy on the scene, viewed nearly edge-on, is NGC 4217 below and right of M106. The distance to NGC 4217 is much less well-known, estimated to be about 60 million light-years, but the bright spiky stars are in the foreground, well inside our own Milky Way galaxy.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2402/M106field_KyunghoonLim2048.jpg
+<br />**Date image released:**  2024-02-23
+<br />**This image is owned by:**  Helge Buesing
+<br />**Title of the image:**  The Pencil Nebula Supernova Shock Wave
+<br />**Description for the image:**  This supernova shock wave plows through interstellar space at over 500,000 kilometers per hour. Centered and moving upward in the sharply detailed color composite its thin, bright, braided filaments are actually long ripples in a cosmic sheet of glowing gas seen almost edge-on. Discovered in the 1840s by Sir John Herschel, the narrow-looking nebula is sometimes known as Herschel's Ray. Cataloged as NGC 2736, its pointed appearance suggests its modern popular name, the Pencil Nebula. The Pencil Nebula is about 800 light-years away. Nearly 5 light-years long it represents only a small part of the Vela supernova remnant though. The enormous Vela remnant itself is around 100 light-years in diameter, the expanding debris cloud of a star that was seen to explode about 11,000 years ago. Initially, the section of the shock wave seen as the Pencil nebula was moving at millions of kilometers per hour but has slowed considerably, sweeping up surrounding interstellar material.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2402/NGC2736_Helge_Buesing2048.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,60 +49,58 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Feb 22 0030 UTC
+:Issued: 2024 Feb 23 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Feb 22-Feb 24 2024 is 1.67 (below NOAA
-Scale levels).
+The greatest expected 3 hr Kp for Feb 23-Feb 25 2024 is 4.67 (NOAA Scale
+G1).
 
-NOAA Kp index breakdown Feb 22-Feb 24 2024
+NOAA Kp index breakdown Feb 23-Feb 25 2024
 
-             Feb 22       Feb 23       Feb 24
-00-03UT       1.67         1.67         1.67     
-03-06UT       1.33         1.33         1.33     
-06-09UT       1.33         1.33         1.33     
-09-12UT       1.33         1.33         1.33     
-12-15UT       1.33         1.33         1.33     
-15-18UT       1.33         1.33         1.33     
-18-21UT       1.67         1.67         1.67     
-21-00UT       1.67         1.67         1.67     
+             Feb 23       Feb 24       Feb 25
+00-03UT       1.67         1.67         3.00     
+03-06UT       1.33         1.33         2.00     
+06-09UT       1.33         1.33         2.00     
+09-12UT       1.33         1.33         3.33     
+12-15UT       1.33         1.33         4.00     
+15-18UT       1.33         1.33         4.67 (G1)
+18-21UT       1.67         1.67         4.00     
+21-00UT       1.67         1.67         3.33     
 
-Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
-significant transient or recurrent solar wind features are forecast.
+Rationale: G1 (Minor) geomagnetic storming is likely on 25 Feb with the
+arrival of a CME that left the sun on 21 Feb.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Feb 22-Feb 24 2024
+Solar Radiation Storm Forecast for Feb 23-Feb 25 2024
 
-              Feb 22  Feb 23  Feb 24
-S1 or greater    5%      5%      5%
+              Feb 23  Feb 24  Feb 25
+S1 or greater   10%     10%     10%
 
-Rationale: No S1 (Minor) or greater solar radiation storms are expected.
-No significant active region activity favorable for radiation storm
-production is forecast.
+Rationale: A slight chance for an S1-2 (Minor-Moderate) solar radiation
+storm will persist through 25 Feb primarily due to the potential of a
+significant event posed by AR 3590.
 
 C. NOAA Radio Blackout Activity and Forecast
 
 Radio blackouts reaching the R3 levels were observed over the past 24
-hours. The largest was at Feb 21 2024 2307 UTC.
+hours. The largest was at Feb 22 2024 2234 UTC.
 
-Radio Blackout Forecast for Feb 22-Feb 24 2024
+Radio Blackout Forecast for Feb 23-Feb 25 2024
 
-              Feb 22        Feb 23        Feb 24
-R1-R2           30%           35%           40%
-R3 or greater   10%           10%           10%
+              Feb 23        Feb 24        Feb 25
+R1-R2           60%           60%           60%
+R3 or greater   30%           30%           30%
 
-Rationale: An increasing chance of R1-2 (Minor-Moderate) radio blackouts
-takes place through 24 Feb due to the anticipated return of old AR 3575.
-A slight chance for R3 (Strong) radio blackouts will persist through 24
-Feb due to the recent activity from AR 3590 combined with the return of
-old AR 3575.
+Rationale: R1-2 (Minor-Moderate) radio blackouts are likely, with a
+chance for R3 (Strong) events, through 25 Feb due to the recent flare
+history of AR 3590 coupled with the anticipated return of old AR 3575.
 
 ```
