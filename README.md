@@ -1,11 +1,10 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2024-02-23
-<br />**This image is owned by:**  Helge Buesing
-<br />**Title of the image:**  The Pencil Nebula Supernova Shock Wave
-<br />**Description for the image:**  This supernova shock wave plows through interstellar space at over 500,000 kilometers per hour. Centered and moving upward in the sharply detailed color composite its thin, bright, braided filaments are actually long ripples in a cosmic sheet of glowing gas seen almost edge-on. Discovered in the 1840s by Sir John Herschel, the narrow-looking nebula is sometimes known as Herschel's Ray. Cataloged as NGC 2736, its pointed appearance suggests its modern popular name, the Pencil Nebula. The Pencil Nebula is about 800 light-years away. Nearly 5 light-years long it represents only a small part of the Vela supernova remnant though. The enormous Vela remnant itself is around 100 light-years in diameter, the expanding debris cloud of a star that was seen to explode about 11,000 years ago. Initially, the section of the shock wave seen as the Pencil nebula was moving at millions of kilometers per hour but has slowed considerably, sweeping up surrounding interstellar material.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2402/NGC2736_Helge_Buesing2048.jpg
+<br />**Date image released:**  2024-02-24
+<br />**Title of the image:**  To the Moon
+<br />**Description for the image:**  Intuitive Machines' robotic lander Odysseus has accomplished the first U.S. landing on the Moon since the Apollo 17 mission in 1972. Launched on a SpaceX rocket on February 15, the phone booth sized lander reached lunar orbit on the 21st and touched down on the lunar surface at 6:23 pm ET on February 22nd. Its landing region is about 300 kilometers north of the Moon's south pole, near a crater designated Malapert A. The lander is presently collecting solar power and transmitting data back to the Intuitive Machines' mission control center in Houston. The mission marks the first commercial uncrewed landing on the Moon. Prior to landing, Odysseus’ camera captured this extreme wide angle image (landing legs visible at right) as it flew over Schomberger crater some 200 kilometers from its landing site. Odysseus was still about 10 kilometers above the lunar surface.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2402/im-moon-imageFeb23_1024.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,58 +48,56 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Feb 23 0030 UTC
+:Issued: 2024 Feb 24 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 1 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Feb 23-Feb 25 2024 is 4.67 (NOAA Scale
+The greatest expected 3 hr Kp for Feb 24-Feb 26 2024 is 4.67 (NOAA Scale
 G1).
 
-NOAA Kp index breakdown Feb 23-Feb 25 2024
+NOAA Kp index breakdown Feb 24-Feb 26 2024
 
-             Feb 23       Feb 24       Feb 25
-00-03UT       1.67         1.67         3.00     
-03-06UT       1.33         1.33         2.00     
-06-09UT       1.33         1.33         2.00     
-09-12UT       1.33         1.33         3.33     
-12-15UT       1.33         1.33         4.00     
-15-18UT       1.33         1.33         4.67 (G1)
-18-21UT       1.67         1.67         4.00     
-21-00UT       1.67         1.67         3.33     
+             Feb 24       Feb 25       Feb 26
+00-03UT       1.67         3.00         2.67     
+03-06UT       1.33         2.00         2.67     
+06-09UT       1.33         2.00         2.33     
+09-12UT       1.33         3.33         2.33     
+12-15UT       1.33         4.00         2.33     
+15-18UT       1.33         4.67 (G1)    2.33     
+18-21UT       1.67         4.00         2.33     
+21-00UT       1.67         3.33         2.00     
 
-Rationale: G1 (Minor) geomagnetic storming is likely on 25 Feb with the
-arrival of a CME that left the sun on 21 Feb.
+Rationale: G1 (Minor) geomagnetic storms are likely on 25 Feb due to
+combined influences of a CME with coronal hole high speed stream.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Feb 23-Feb 25 2024
+Solar Radiation Storm Forecast for Feb 24-Feb 26 2024
 
-              Feb 23  Feb 24  Feb 25
+              Feb 24  Feb 25  Feb 26
 S1 or greater   10%     10%     10%
 
-Rationale: A slight chance for an S1-2 (Minor-Moderate) solar radiation
-storm will persist through 25 Feb primarily due to the potential of a
-significant event posed by AR 3590.
+Rationale: There is a slight chance for S1 (Minor) solar radiation
+storms over the next three days.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-Radio blackouts reaching the R3 levels were observed over the past 24
-hours. The largest was at Feb 22 2024 2234 UTC.
+Radio blackouts reaching the R1 levels were observed over the past 24
+hours. The largest was at Feb 23 2024 1747 UTC.
 
-Radio Blackout Forecast for Feb 23-Feb 25 2024
+Radio Blackout Forecast for Feb 24-Feb 26 2024
 
-              Feb 23        Feb 24        Feb 25
+              Feb 24        Feb 25        Feb 26
 R1-R2           60%           60%           60%
 R3 or greater   30%           30%           30%
 
-Rationale: R1-2 (Minor-Moderate) radio blackouts are likely, with a
-chance for R3 (Strong) events, through 25 Feb due to the recent flare
-history of AR 3590 coupled with the anticipated return of old AR 3575.
+Rationale: R1-R2 (Minor-Moderate) radio blackouts, and a chance for R3
+(Strong), are likely over the next three days.
 
 ```
