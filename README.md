@@ -2,6 +2,14 @@
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
 <br />**Sorry, Image not available!**
+<br />**Date image released:**  2024-02-27
+<br />**This image is owned by:**  
+Stéphane Vetter
+(Nuits sacrées)
+
+<br />**Title of the image:**  Supernova Remnant Simeis 147
+<br />**Description for the image:**  It's easy to get lost following the intricate, looping, and twisting filaments of supernova remnant Simeis 147.  Also cataloged as Sharpless 2-240, the filamentary nebula goes by the popular nickname the Spaghetti Nebula.  Seen toward the boundary of the constellations of the Bull (Taurus) and the Charioteer (Auriga), the impressive gas structure covers nearly 3 degrees on the sky, equivalent to 6 full moons. That's about 150 light-years at the stellar debris cloud's estimated distance of 3,000 light-years.  This composite image includes data taken through narrow-band filters isolating emission from hydrogen (red) and oxygen (blue) glowing gas. The supernova remnant has an estimated age of about 40,000 years, meaning light from this massive stellar explosion first reached the Earth when woolly mammoths roamed free.  Besides the expanding remnant, this cosmic catastrophe left behind a pulsar: a spinning neutron star that is the remnant of the original star's core.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2402/Simeis147_Vetter_3000.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -45,27 +53,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Feb 26 0030 UTC
+:Issued: 2024 Feb 27 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Feb 26-Feb 28 2024 is 3.33 (below NOAA
+The greatest expected 3 hr Kp for Feb 27-Feb 29 2024 is 2.67 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Feb 26-Feb 28 2024
+NOAA Kp index breakdown Feb 27-Feb 29 2024
 
-             Feb 26       Feb 27       Feb 28
-00-03UT       2.67         2.00         2.67     
-03-06UT       3.67         2.33         2.67     
-06-09UT       3.00         2.67         2.67     
-09-12UT       2.67         2.67         2.33     
-12-15UT       2.67         2.33         2.33     
-15-18UT       2.33         2.33         2.33     
-18-21UT       2.33         2.33         2.00     
-21-00UT       2.00         2.33         2.00     
+             Feb 27       Feb 28       Feb 29
+00-03UT       1.67         2.33         1.67     
+03-06UT       2.00         2.00         1.67     
+06-09UT       2.67         1.67         1.33     
+09-12UT       2.67         1.67         1.33     
+12-15UT       2.00         1.33         1.33     
+15-18UT       2.00         1.00         1.33     
+18-21UT       2.00         0.67         1.67     
+21-00UT       2.00         0.67         1.33     
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
 significant transient or recurrent solar wind features are forecast.
@@ -75,26 +83,26 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Feb 26-Feb 28 2024
+Solar Radiation Storm Forecast for Feb 27-Feb 29 2024
 
-              Feb 26  Feb 27  Feb 28
+              Feb 27  Feb 28  Feb 29
 S1 or greater   10%     10%     10%
 
-Rationale: There exists a slight chance for S1 (Minor) solar radiation
-storms over through 28 Feb.
+Rationale: There is a slight chance for S1 (Minor) conditions over 27-29
+Feb.
+
 
 C. NOAA Radio Blackout Activity and Forecast
 
-Radio blackouts reaching the R1 levels were observed over the past 24
-hours. The largest was at Feb 25 2024 1722 UTC.
+No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Feb 26-Feb 28 2024
+Radio Blackout Forecast for Feb 27-Feb 29 2024
 
-              Feb 26        Feb 27        Feb 28
-R1-R2           70%           70%           70%
-R3 or greater   30%           30%           30%
+              Feb 27        Feb 28        Feb 29
+R1-R2           50%           50%           50%
+R3 or greater   10%           10%           10%
 
 Rationale: R1-R2 (Minor-Moderate) radio blackouts are likely, with a
-chance for R3 (Strong), through 28 Feb.
+chance for R3 or greater events, over 27-29 Feb.
 
 ```
