@@ -1,15 +1,13 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Sorry, Image not available!**
-<br />**Date image released:**  2024-02-27
+<br />**Date image released:**  2024-02-28
 <br />**This image is owned by:**  
-Stéphane Vetter
-(Nuits sacrées)
+Dario Giannobile
 
-<br />**Title of the image:**  Supernova Remnant Simeis 147
-<br />**Description for the image:**  It's easy to get lost following the intricate, looping, and twisting filaments of supernova remnant Simeis 147.  Also cataloged as Sharpless 2-240, the filamentary nebula goes by the popular nickname the Spaghetti Nebula.  Seen toward the boundary of the constellations of the Bull (Taurus) and the Charioteer (Auriga), the impressive gas structure covers nearly 3 degrees on the sky, equivalent to 6 full moons. That's about 150 light-years at the stellar debris cloud's estimated distance of 3,000 light-years.  This composite image includes data taken through narrow-band filters isolating emission from hydrogen (red) and oxygen (blue) glowing gas. The supernova remnant has an estimated age of about 40,000 years, meaning light from this massive stellar explosion first reached the Earth when woolly mammoths roamed free.  Besides the expanding remnant, this cosmic catastrophe left behind a pulsar: a spinning neutron star that is the remnant of the original star's core.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2402/Simeis147_Vetter_3000.jpg
+<br />**Title of the image:**  Shades of Night
+<br />**Description for the image:**  How does the sky turn dark at night? In stages, and with different characteristic colors rising from the horizon. The featured image shows, left to right, increasingly late twilight times after sunset in 20 different vertical bands. The picture was taken last month in Syracuse, Sicily, Italy, in the direction opposite the Sun. On the far left is the pre-sunset upper sky.  Toward the right, prominent bands include the Belt of Venus, the Blue Band, the Horizon Band, and the Red Band. As the dark shadow of the Earth rises, the colors in these bands are caused by direct sunlight reflecting from air and aerosols in the Earth's atmosphere, multiple reflections sometimes involving a reddened sunset, and refraction. In practice, these bands can be diffuse and hard to discern, and their colors can depend on colors near the setting Sun. Finally, the Sun completely sets and the sky becomes dark. Don't despair -- the whole thing will happen in reverse when the Sun rises again in the morning.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2402/TwilightShades_Giannobile_1600.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -53,27 +51,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Feb 27 0030 UTC
+:Issued: 2024 Feb 28 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
-Scale levels).
-The greatest expected 3 hr Kp for Feb 27-Feb 29 2024 is 2.67 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 5 (NOAA Scale
+G1).
+The greatest expected 3 hr Kp for Feb 28-Mar 01 2024 is 3.00 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Feb 27-Feb 29 2024
+NOAA Kp index breakdown Feb 28-Mar 01 2024
 
-             Feb 27       Feb 28       Feb 29
-00-03UT       1.67         2.33         1.67     
-03-06UT       2.00         2.00         1.67     
-06-09UT       2.67         1.67         1.33     
-09-12UT       2.67         1.67         1.33     
+             Feb 28       Feb 29       Mar 01
+00-03UT       3.00         1.67         1.67     
+03-06UT       2.67         1.67         1.33     
+06-09UT       2.33         1.33         1.33     
+09-12UT       2.00         1.33         1.33     
 12-15UT       2.00         1.33         1.33     
-15-18UT       2.00         1.00         1.33     
-18-21UT       2.00         0.67         1.67     
-21-00UT       2.00         0.67         1.33     
+15-18UT       1.33         1.33         1.33     
+18-21UT       1.00         1.67         1.67     
+21-00UT       2.00         1.33         1.67     
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
 significant transient or recurrent solar wind features are forecast.
@@ -83,26 +81,28 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Feb 27-Feb 29 2024
+Solar Radiation Storm Forecast for Feb 28-Mar 01 2024
 
-              Feb 27  Feb 28  Feb 29
+              Feb 28  Feb 29  Mar 01
 S1 or greater   10%     10%     10%
 
-Rationale: There is a slight chance for S1 (Minor) conditions over 27-29
-Feb.
-
+Rationale: A slight chance for an S1 (Minor) solar radiation storm will
+persist through 01 Mar primarily due to the potential and location of AR
+3590.
 
 C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Feb 27-Feb 29 2024
+Radio Blackout Forecast for Feb 28-Mar 01 2024
 
-              Feb 27        Feb 28        Feb 29
+              Feb 28        Feb 29        Mar 01
 R1-R2           50%           50%           50%
 R3 or greater   10%           10%           10%
 
-Rationale: R1-R2 (Minor-Moderate) radio blackouts are likely, with a
-chance for R3 or greater events, over 27-29 Feb.
+Rationale: A chance for R1-2 (Minor-Moderate) M-class flares, and a
+slight chance for R3 (Strong) X-class flares, will persist through 01
+Mar primarily due to the current potential and past flare history of AR
+3590.
 
 ```
