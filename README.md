@@ -1,13 +1,10 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2024-02-28
-<br />**This image is owned by:**  
-Dario Giannobile
-
-<br />**Title of the image:**  Shades of Night
-<br />**Description for the image:**  How does the sky turn dark at night? In stages, and with different characteristic colors rising from the horizon. The featured image shows, left to right, increasingly late twilight times after sunset in 20 different vertical bands. The picture was taken last month in Syracuse, Sicily, Italy, in the direction opposite the Sun. On the far left is the pre-sunset upper sky.  Toward the right, prominent bands include the Belt of Venus, the Blue Band, the Horizon Band, and the Red Band. As the dark shadow of the Earth rises, the colors in these bands are caused by direct sunlight reflecting from air and aerosols in the Earth's atmosphere, multiple reflections sometimes involving a reddened sunset, and refraction. In practice, these bands can be diffuse and hard to discern, and their colors can depend on colors near the setting Sun. Finally, the Sun completely sets and the sky becomes dark. Don't despair -- the whole thing will happen in reverse when the Sun rises again in the morning.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2402/TwilightShades_Giannobile_1600.jpg
+<br />**Date image released:**  2024-02-29
+<br />**Title of the image:**  Julius Caesar and Leap Days
+<br />**Description for the image:**  In 46 BC Julius Caesar reformed the calendar system. Based on advice by astronomer Sosigenes of Alexandria, the Julian calendar included one leap day every four years to account for the fact that an Earth year is slightly more than 365 days long. In modern terms, the time it takes for the planet to orbit the Sun once is 365.24219 mean solar days. So if calendar years contained exactly 365 days they would drift from the Earth's year by about 1 day every 4 years and eventually July (named for Julius Caesar himself) would occur during the northern hemisphere winter. By adopting a leap year with an extra day every four years, the Julian calendar year would drift much less. In 1582 Pope Gregory XIII provided the further fine-tuning that leap days should not occur in years ending in 00, unless divisible by 400. This Gregorian Calendar system is the one in wide use today. Of course, tidal friction in the Earth-Moon system slows Earth's rotation and gradually lengthens the day by about 1.4 milliseconds per century. That means that leap days like today will not be necessary, about 4 million years from now. This Roman silver coin, a denarius, depicts Julius Caesar (left) and Venus, Roman goddess of love.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2402/CaesarCoin_Wikipedia_960.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -51,27 +48,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Feb 28 0030 UTC
+:Issued: 2024 Feb 29 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 5 (NOAA Scale
-G1).
-The greatest expected 3 hr Kp for Feb 28-Mar 01 2024 is 3.00 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
+Scale levels).
+The greatest expected 3 hr Kp for Feb 29-Mar 02 2024 is 3.67 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Feb 28-Mar 01 2024
+NOAA Kp index breakdown Feb 29-Mar 02 2024
 
-             Feb 28       Feb 29       Mar 01
-00-03UT       3.00         1.67         1.67     
-03-06UT       2.67         1.67         1.33     
-06-09UT       2.33         1.33         1.33     
-09-12UT       2.00         1.33         1.33     
-12-15UT       2.00         1.33         1.33     
-15-18UT       1.33         1.33         1.33     
-18-21UT       1.00         1.67         1.67     
-21-00UT       2.00         1.33         1.67     
+             Feb 29       Mar 01       Mar 02
+00-03UT       2.00         1.67         2.67     
+03-06UT       2.33         1.67         2.00     
+06-09UT       2.67         1.33         2.00     
+09-12UT       2.00         2.00         2.33     
+12-15UT       1.33         2.67         2.33     
+15-18UT       1.33         2.67         2.33     
+18-21UT       2.00         1.67         3.67     
+21-00UT       2.67         1.67         3.67     
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
 significant transient or recurrent solar wind features are forecast.
@@ -81,28 +78,30 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Feb 28-Mar 01 2024
+Solar Radiation Storm Forecast for Feb 29-Mar 02 2024
 
-              Feb 28  Feb 29  Mar 01
-S1 or greater   10%     10%     10%
+              Feb 29  Mar 01  Mar 02
+S1 or greater   15%     15%     15%
 
-Rationale: A slight chance for an S1 (Minor) solar radiation storm will
-persist through 01 Mar primarily due to the potential and location of AR
-3590.
+Rationale: A slight chance for an S1 (Minor) solar radiation event will
+persist through 02 Mar primarily due to the flare history and location
+of AR 3590,
 
 C. NOAA Radio Blackout Activity and Forecast
 
-No radio blackouts were observed over the past 24 hours.
+Radio blackouts reaching the R1 levels were observed over the past 24
+hours. The largest was at Feb 28 2024 1855 UTC.
 
-Radio Blackout Forecast for Feb 28-Mar 01 2024
+Radio Blackout Forecast for Feb 29-Mar 02 2024
 
-              Feb 28        Feb 29        Mar 01
+              Feb 29        Mar 01        Mar 02
 R1-R2           50%           50%           50%
 R3 or greater   10%           10%           10%
 
-Rationale: A chance for R1-2 (Minor-Moderate) M-class flares, and a
-slight chance for R3 (Strong) X-class flares, will persist through 01
-Mar primarily due to the current potential and past flare history of AR
-3590.
+Rationale: A chance for R1-2 (Minor-Moderate) radio blackouts due to
+M-class flare activity, with a slight chance for an isolated R3 (Strong)
+radio blackout due to an X-class flare event, will persist through 02
+Mar primarily due to the potential exhibited by AR 3590 along with the
+growth of AR 3595.
 
 ```
