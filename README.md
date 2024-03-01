@@ -1,10 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2024-02-29
-<br />**Title of the image:**  Julius Caesar and Leap Days
-<br />**Description for the image:**  In 46 BC Julius Caesar reformed the calendar system. Based on advice by astronomer Sosigenes of Alexandria, the Julian calendar included one leap day every four years to account for the fact that an Earth year is slightly more than 365 days long. In modern terms, the time it takes for the planet to orbit the Sun once is 365.24219 mean solar days. So if calendar years contained exactly 365 days they would drift from the Earth's year by about 1 day every 4 years and eventually July (named for Julius Caesar himself) would occur during the northern hemisphere winter. By adopting a leap year with an extra day every four years, the Julian calendar year would drift much less. In 1582 Pope Gregory XIII provided the further fine-tuning that leap days should not occur in years ending in 00, unless divisible by 400. This Gregorian Calendar system is the one in wide use today. Of course, tidal friction in the Earth-Moon system slows Earth's rotation and gradually lengthens the day by about 1.4 milliseconds per century. That means that leap days like today will not be necessary, about 4 million years from now. This Roman silver coin, a denarius, depicts Julius Caesar (left) and Venus, Roman goddess of love.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2402/CaesarCoin_Wikipedia_960.jpg
+<br />**Date image released:**  2024-03-01
+<br />**This image is owned by:**  John Sarkissian
+<br />**Title of the image:**  Odysseus and The Dish
+<br />**Description for the image:**  Murriyang, the CSIRO’s Parkes radio telescope points toward a nearly Full Moon in this image from New South Wales, Australia, planet Earth. Bathed in moonlight, the 64 meter dish is receiving weak radio signals from Odysseus, following the robotic lander's February 22 touch down some 300 kilometers north of the Moon's south pole. The landing of Odysseus represents the first U.S. landing on the Moon since the Apollo 17 mission in 1972. Odysseus' tilted orientation on the lunar surface prevents its high-gain antenna from pointing toward Earth. But the sensitivity of the large, steerable Parkes dish significantly improved the reception of data from the experiments delivered to the lunar surface by the robotic moon lander. Of course the Parkes Radio Telescope dish became famous for its superior lunar television reception during the Apollo 11 mission in 1969, allowing denizens of planet Earth to watch the first moonwalk.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2403/The_Dish_Tracking_IM-1_22February2024_04.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -48,27 +49,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Feb 29 0030 UTC
+:Issued: 2024 Mar 01 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Feb 29-Mar 02 2024 is 3.67 (below NOAA
+The greatest expected 3 hr Kp for Mar 01-Mar 03 2024 is 3.67 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Feb 29-Mar 02 2024
+NOAA Kp index breakdown Mar 01-Mar 03 2024
 
-             Feb 29       Mar 01       Mar 02
-00-03UT       2.00         1.67         2.67     
-03-06UT       2.33         1.67         2.00     
-06-09UT       2.67         1.33         2.00     
-09-12UT       2.00         2.00         2.33     
-12-15UT       1.33         2.67         2.33     
-15-18UT       1.33         2.67         2.33     
-18-21UT       2.00         1.67         3.67     
-21-00UT       2.67         1.67         3.67     
+             Mar 01       Mar 02       Mar 03
+00-03UT       1.67         2.67         3.67     
+03-06UT       1.67         2.00         3.67     
+06-09UT       2.67         2.00         3.00     
+09-12UT       1.67         2.33         2.67     
+12-15UT       2.67         2.33         2.00     
+15-18UT       2.00         2.33         1.67     
+18-21UT       1.67         3.33         1.67     
+21-00UT       2.67         3.67         2.00     
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
 significant transient or recurrent solar wind features are forecast.
@@ -78,30 +79,25 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Feb 29-Mar 02 2024
+Solar Radiation Storm Forecast for Mar 01-Mar 03 2024
 
-              Feb 29  Mar 01  Mar 02
-S1 or greater   15%     15%     15%
+              Mar 01  Mar 02  Mar 03
+S1 or greater   15%     15%      1%
 
-Rationale: A slight chance for an S1 (Minor) solar radiation event will
-persist through 02 Mar primarily due to the flare history and location
-of AR 3590,
+Rationale: There is a slight chance for S1 (Minor) solar radiation
+storms through 02 Mar.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-Radio blackouts reaching the R1 levels were observed over the past 24
-hours. The largest was at Feb 28 2024 1855 UTC.
+No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Feb 29-Mar 02 2024
+Radio Blackout Forecast for Mar 01-Mar 03 2024
 
-              Feb 29        Mar 01        Mar 02
-R1-R2           50%           50%           50%
-R3 or greater   10%           10%           10%
+              Mar 01        Mar 02        Mar 03
+R1-R2           50%           50%           25%
+R3 or greater   10%           10%            1%
 
-Rationale: A chance for R1-2 (Minor-Moderate) radio blackouts due to
-M-class flare activity, with a slight chance for an isolated R3 (Strong)
-radio blackout due to an X-class flare event, will persist through 02
-Mar primarily due to the potential exhibited by AR 3590 along with the
-growth of AR 3595.
+Rationale: There is a chance for R1-R2 (Minor-Moderate) radio blackouts
+through 03 Mar due primarily to the flare potential of Region 3590.
 
 ```
