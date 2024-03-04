@@ -2,6 +2,13 @@
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
 <br />**Sorry, Image not available!**
+<br />**Date image released:**  2024-03-04
+<br />**This image is owned by:**  
+N. D. Liao
+
+<br />**Title of the image:**  Light Pillars Over Inner Mongolia
+<br />**Description for the image:**  What's happening across that field?  Pictured here are not auroras but nearby light pillars, a phenomenon typically much closer.   In most places on Earth, a lucky viewer can see a Sun pillar, a column of light appearing to extend up from the Sun caused by flat fluttering ice-crystals reflecting sunlight from the upper atmosphere.  Usually, these ice crystals evaporate before reaching the ground.  During freezing temperatures, however, flat fluttering ice crystals may form near the ground in a form of light snow  sometimes known as a crystal fog.  These ice crystals may then reflect ground lights in columns not unlike a Sun pillar.  The featured image was taken last month across the Wulan Butong Grasslands in Inner Mongolia, China.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2403/PillarsMongolia_Liao_6240.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -45,38 +52,38 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Mar 03 0030 UTC
+:Issued: 2024 Mar 04 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 6 (NOAA Scale
+G2).
+The greatest expected 3 hr Kp for Mar 04-Mar 06 2024 is 4.00 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Mar 03-Mar 05 2024 is 3.67 (below NOAA
-Scale levels).
 
-NOAA Kp index breakdown Mar 03-Mar 05 2024
+NOAA Kp index breakdown Mar 04-Mar 06 2024
 
-             Mar 03       Mar 04       Mar 05
-00-03UT       3.67         2.67         1.67     
-03-06UT       3.67         3.00         1.33     
-06-09UT       2.67         2.33         1.33     
-09-12UT       2.00         2.00         1.33     
-12-15UT       1.67         2.00         1.33     
-15-18UT       1.67         2.00         1.33     
-18-21UT       2.67         2.33         1.67     
-21-00UT       2.67         2.67         1.67     
+             Mar 04       Mar 05       Mar 06
+00-03UT       4.00         1.67         1.67     
+03-06UT       2.67         1.33         1.33     
+06-09UT       3.00         1.33         1.33     
+09-12UT       3.67         1.33         1.33     
+12-15UT       2.00         1.33         1.33     
+15-18UT       2.00         1.33         1.33     
+18-21UT       2.33         1.67         1.67     
+21-00UT       2.67         1.67         1.67     
 
-Rationale: No G1 (Minor) or greater geomagnetic storms are expected.
+Rationale: No G1 (Minor) or greater geomagnetic storms are expected. 
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Mar 03-Mar 05 2024
+Solar Radiation Storm Forecast for Mar 04-Mar 06 2024
 
-              Mar 03  Mar 04  Mar 05
+              Mar 04  Mar 05  Mar 06
 S1 or greater    1%      1%      1%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -87,13 +94,13 @@ C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Mar 03-Mar 05 2024
+Radio Blackout Forecast for Mar 04-Mar 06 2024
 
-              Mar 03        Mar 04        Mar 05
-R1-R2           25%           25%           25%
+              Mar 04        Mar 05        Mar 06
+R1-R2           25%           25%           15%
 R3 or greater    1%            1%            1%
 
 Rationale: There is a chance for R1-R2 (Minor-Moderate) radio blackouts
-through 05 Mar.
+over the next three days.
 
 ```
