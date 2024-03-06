@@ -1,13 +1,10 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2024-03-05
-<br />**This image is owned by:**  
-David Moulton
-
-<br />**Title of the image:**  NGC 2170: Angel Nebula Abstract Art
-<br />**Description for the image:**  Is this a painting or a photograph? In this celestial abstract art composed with a cosmic brush, dusty nebula NGC 2170, also known as the Angel Nebula, shines just above the image center. Reflecting the light of nearby hot stars, NGC 2170 is joined by other bluish reflection nebulae, a red emission region, many dark absorption nebulae, and a backdrop of colorful stars. Like the common household items that abstract painters often choose for their subjects, the clouds of gas, dust, and hot stars featured here are also commonly found in a setting like this one --  a massive, star-forming molecular cloud in the constellation of the Unicorn (Monoceros). The giant molecular cloud, Mon R2, is impressively close, estimated to be only 2,400 light-years or so away. At that distance, this canvas would be over 60 light-years across.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2403/AngelNebula_Moulton_2516.jpg
+<br />**Date image released:**  2024-03-06
+<br />**Title of the image:**  M102: Edge-on Disk Galaxy
+<br />**Description for the image:**  What kind of celestial object is this? A relatively normal galaxy -- but seen from its edge.  Many disk galaxies are actually just as thin as NGC 5866, the Spindle galaxy, pictured here, but are not seen edge-on from our vantage point.  A perhaps more familiar galaxy seen edge-on is our own Milky Way galaxy.  Also cataloged as M102, the Spindle galaxy has numerous and complex dust lanes appearing dark and red, while many of the bright stars in the disk give it a more blue underlying hue.  The blue disk of young stars can be seen in this Hubble image extending past the dust in the extremely thin galactic plane. There is evidence that the Spindle galaxy has cannibalized smaller galaxies over the past billion years or so, including multiple streams of faint stars, dark dust that extends away from the main galactic plane, and a surrounding group of galaxies (not shown).  In general, many disk galaxies become thin because the gas that forms them collides with itself as it rotates about the gravitational center. The Spindle galaxy lies about 50 million light years distant toward the constellation of the Dragon (Draco).
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2403/M102_HubbleEbrahimian_3615.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -51,27 +48,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Mar 05 0030 UTC
+:Issued: 2024 Mar 06 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Mar 05-Mar 07 2024 is 1.67 (below NOAA
+The greatest expected 3 hr Kp for Mar 06-Mar 08 2024 is 3.00 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Mar 05-Mar 07 2024
+NOAA Kp index breakdown Mar 06-Mar 08 2024
 
-             Mar 05       Mar 06       Mar 07
+             Mar 06       Mar 07       Mar 08
 00-03UT       1.67         1.67         1.67     
-03-06UT       1.33         1.33         1.33     
+03-06UT       1.33         1.33         1.00     
 06-09UT       1.33         1.33         1.33     
 09-12UT       1.33         1.33         1.33     
-12-15UT       1.33         1.33         1.33     
-15-18UT       1.33         1.33         1.33     
-18-21UT       1.67         1.67         1.67     
-21-00UT       1.67         1.67         1.67     
+12-15UT       1.33         1.33         2.00     
+15-18UT       1.33         1.33         2.33     
+18-21UT       1.67         1.67         2.33     
+21-00UT       1.67         1.67         3.00     
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
 significant transient or recurrent solar wind features are forecast.
@@ -81,9 +78,9 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Mar 05-Mar 07 2024
+Solar Radiation Storm Forecast for Mar 06-Mar 08 2024
 
-              Mar 05  Mar 06  Mar 07
+              Mar 06  Mar 07  Mar 08
 S1 or greater    1%      1%      1%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -94,16 +91,14 @@ C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Mar 05-Mar 07 2024
+Radio Blackout Forecast for Mar 06-Mar 08 2024
 
-              Mar 05        Mar 06        Mar 07
-R1-R2           25%           15%           15%
+              Mar 06        Mar 07        Mar 08
+R1-R2           15%           15%           15%
 R3 or greater    1%            1%            1%
 
-Rationale: A chance for isolated R1-2 (Minor-Moderate) radio blackouts
-due to M-class flare activity will exist through 05 Mar primarily due to
-the potential exhibited by AR 3595. Probabilities decrease to a slight
-chance by 06 Mar and remain so through 07 Mar as AR 3595 rotates beyond
-the western limb.
+Rationale: A slight chance for isolated R1-2 (Minor-Moderate) radio
+blackouts due to M-class flare activity will persist through 08 Mar as
+AR 3595 exits the western limb and AR 3599 shows signs of evolution.
 
 ```
