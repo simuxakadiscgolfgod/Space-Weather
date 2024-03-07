@@ -1,10 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2024-03-06
-<br />**Title of the image:**  M102: Edge-on Disk Galaxy
-<br />**Description for the image:**  What kind of celestial object is this? A relatively normal galaxy -- but seen from its edge.  Many disk galaxies are actually just as thin as NGC 5866, the Spindle galaxy, pictured here, but are not seen edge-on from our vantage point.  A perhaps more familiar galaxy seen edge-on is our own Milky Way galaxy.  Also cataloged as M102, the Spindle galaxy has numerous and complex dust lanes appearing dark and red, while many of the bright stars in the disk give it a more blue underlying hue.  The blue disk of young stars can be seen in this Hubble image extending past the dust in the extremely thin galactic plane. There is evidence that the Spindle galaxy has cannibalized smaller galaxies over the past billion years or so, including multiple streams of faint stars, dark dust that extends away from the main galactic plane, and a surrounding group of galaxies (not shown).  In general, many disk galaxies become thin because the gas that forms them collides with itself as it rotates about the gravitational center. The Spindle galaxy lies about 50 million light years distant toward the constellation of the Dragon (Draco).
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2403/M102_HubbleEbrahimian_3615.jpg
+<br />**Date image released:**  2024-03-07
+<br />**This image is owned by:**  Michael Seeley
+<br />**Title of the image:**  The Crew-8 Nebula
+<br />**Description for the image:**  Not the James Webb Space Telescope's latest view of a distant galactic nebula, this cloud of gas and dust dazzled spacecoast skygazers on March 3. The telephoto snapshot was taken minutes after the launch of a Falcon 9 rocket on the SpaceX Crew-8 mission, to the International Space Station. It captures plumes and exhaust from the separated first and second stage, a drifting Rorschach pattern in dark evening skies.  The bright spot near bottom center within the stunning terrestrial nebulosity is the second stage engine firing to carry 4 humans to space in the Crew Dragon spacecraft Endeavour. In sharp silhouette just above it is the Falcon 9 first stage booster orienting itself for return to a landing zone at Cape Canaveral, planet Earth. This reuseable first stage booster was making its first flight. But the Crew Dragon Endeavour capsule has flown humans to low Earth orbit and back again 4 times before. Endeavour, as a name for a spacecraft, has also seen reuse, christening retired Space Shuttle Endeavour and the Apollo 15 command module.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2403/Crew-8image0.jpeg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -48,39 +49,40 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Mar 06 0030 UTC
+:Issued: 2024 Mar 07 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Mar 06-Mar 08 2024 is 3.00 (below NOAA
-Scale levels).
+The greatest expected 3 hr Kp for Mar 07-Mar 09 2024 is 4.67 (NOAA Scale
+G1).
 
-NOAA Kp index breakdown Mar 06-Mar 08 2024
+NOAA Kp index breakdown Mar 07-Mar 09 2024
 
-             Mar 06       Mar 07       Mar 08
-00-03UT       1.67         1.67         1.67     
-03-06UT       1.33         1.33         1.00     
-06-09UT       1.33         1.33         1.33     
-09-12UT       1.33         1.33         1.33     
-12-15UT       1.33         1.33         2.00     
-15-18UT       1.33         1.33         2.33     
-18-21UT       1.67         1.67         2.33     
-21-00UT       1.67         1.67         3.00     
+             Mar 07       Mar 08       Mar 09
+00-03UT       2.33         2.33         3.67     
+03-06UT       2.00         2.00         4.67 (G1)
+06-09UT       2.00         2.00         3.67     
+09-12UT       2.00         3.00         3.33     
+12-15UT       2.00         3.00         3.33     
+15-18UT       2.00         3.33         3.33     
+18-21UT       2.00         3.33         2.67     
+21-00UT       2.33         4.33         2.33     
 
-Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
-significant transient or recurrent solar wind features are forecast.
+Rationale: G1 (Minor) geomagnetic storming is likely on 09 Mar due to
+shock arrival and any glancing effects from a CME that left the sun on
+05 Mar.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Mar 06-Mar 08 2024
+Solar Radiation Storm Forecast for Mar 07-Mar 09 2024
 
-              Mar 06  Mar 07  Mar 08
+              Mar 07  Mar 08  Mar 09
 S1 or greater    1%      1%      1%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -91,14 +93,14 @@ C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Mar 06-Mar 08 2024
+Radio Blackout Forecast for Mar 07-Mar 09 2024
 
-              Mar 06        Mar 07        Mar 08
+              Mar 07        Mar 08        Mar 09
 R1-R2           15%           15%           15%
 R3 or greater    1%            1%            1%
 
-Rationale: A slight chance for isolated R1-2 (Minor-Moderate) radio
-blackouts due to M-class flare activity will persist through 08 Mar as
-AR 3595 exits the western limb and AR 3599 shows signs of evolution.
+Rationale: A slight chance for R1-2 (Minor-Moderate) radio blackouts due
+to isolated M-class flare activity will persist through 09 Mar primarily
+due to the potential exhibited by ARs 3595 and 3599.
 
 ```
