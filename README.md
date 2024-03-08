@@ -1,11 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2024-03-07
-<br />**This image is owned by:**  Michael Seeley
-<br />**Title of the image:**  The Crew-8 Nebula
-<br />**Description for the image:**  Not the James Webb Space Telescope's latest view of a distant galactic nebula, this cloud of gas and dust dazzled spacecoast skygazers on March 3. The telephoto snapshot was taken minutes after the launch of a Falcon 9 rocket on the SpaceX Crew-8 mission, to the International Space Station. It captures plumes and exhaust from the separated first and second stage, a drifting Rorschach pattern in dark evening skies.  The bright spot near bottom center within the stunning terrestrial nebulosity is the second stage engine firing to carry 4 humans to space in the Crew Dragon spacecraft Endeavour. In sharp silhouette just above it is the Falcon 9 first stage booster orienting itself for return to a landing zone at Cape Canaveral, planet Earth. This reuseable first stage booster was making its first flight. But the Crew Dragon Endeavour capsule has flown humans to low Earth orbit and back again 4 times before. Endeavour, as a name for a spacecraft, has also seen reuse, christening retired Space Shuttle Endeavour and the Apollo 15 command module.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2403/Crew-8image0.jpeg
+<br />**Date image released:**  2024-03-08
+<br />**This image is owned by:**  Robert Gendler
+<br />**Title of the image:**  The Tarantula Zone
+<br />**Description for the image:**  The Tarantula Nebula, also known as 30 Doradus, is more than a thousand light-years in diameter, a giant star forming region within nearby satellite galaxy the Large Magellanic Cloud. About 180 thousand light-years away, it's the largest, most violent star forming region known in the whole Local Group of galaxies. The cosmic arachnid sprawls across this magnificent view, an assembly of image data from large space- and ground-based telescopes. Within the Tarantula (NGC 2070), intense radiation, stellar winds, and supernova shocks from the central young cluster of massive stars cataloged as R136 energize the nebular glow and shape the spidery filaments. Around the Tarantula are other star forming regions with young star clusters, filaments, and blown-out bubble-shaped clouds. In fact, the frame includes the site of the closest supernova in modern times, SN 1987A, at lower right. The rich field of view spans about 2 degrees or 4 full moons in the southern constellation Dorado. But were the Tarantula Nebula closer, say 1,500 light-years distant like the Milky Way's own star forming Orion Nebula, it would take up half the sky.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2403/Tarantula-HST-ESO-Webb-LL.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,41 +49,40 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Mar 07 0030 UTC
+:Issued: 2024 Mar 08 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Mar 07-Mar 09 2024 is 4.67 (NOAA Scale
+The greatest expected 3 hr Kp for Mar 08-Mar 10 2024 is 4.67 (NOAA Scale
 G1).
 
-NOAA Kp index breakdown Mar 07-Mar 09 2024
+NOAA Kp index breakdown Mar 08-Mar 10 2024
 
-             Mar 07       Mar 08       Mar 09
-00-03UT       2.33         2.33         3.67     
-03-06UT       2.00         2.00         4.67 (G1)
-06-09UT       2.00         2.00         3.67     
-09-12UT       2.00         3.00         3.33     
-12-15UT       2.00         3.00         3.33     
-15-18UT       2.00         3.33         3.33     
-18-21UT       2.00         3.33         2.67     
-21-00UT       2.33         4.33         2.33     
+             Mar 08       Mar 09       Mar 10
+00-03UT       3.67         3.67         2.67     
+03-06UT       3.67         4.67 (G1)    2.33     
+06-09UT       2.00         3.67         2.33     
+09-12UT       2.00         3.33         2.00     
+12-15UT       2.33         3.33         2.33     
+15-18UT       2.33         3.33         2.33     
+18-21UT       3.33         2.67         2.33     
+21-00UT       4.33         2.33         2.67     
 
 Rationale: G1 (Minor) geomagnetic storming is likely on 09 Mar due to
-shock arrival and any glancing effects from a CME that left the sun on
-05 Mar.
+glancing effects from a CME that left the Sun on 05 Mar.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Mar 07-Mar 09 2024
+Solar Radiation Storm Forecast for Mar 08-Mar 10 2024
 
-              Mar 07  Mar 08  Mar 09
-S1 or greater    1%      1%      1%
+              Mar 08  Mar 09  Mar 10
+S1 or greater    5%      5%      5%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
 No significant active region activity favorable for radiation storm
@@ -93,14 +92,14 @@ C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Mar 07-Mar 09 2024
+Radio Blackout Forecast for Mar 08-Mar 10 2024
 
-              Mar 07        Mar 08        Mar 09
-R1-R2           15%           15%           15%
-R3 or greater    1%            1%            1%
+              Mar 08        Mar 09        Mar 10
+R1-R2           20%           20%           20%
+R3 or greater    5%            5%            5%
 
 Rationale: A slight chance for R1-2 (Minor-Moderate) radio blackouts due
-to isolated M-class flare activity will persist through 09 Mar primarily
-due to the potential exhibited by ARs 3595 and 3599.
+to isolate M-class flare activity will persist through 10 Mar primarily
+due to the potential exhibited by AR 3599.
 
 ```
