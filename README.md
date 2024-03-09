@@ -1,11 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2024-03-08
-<br />**This image is owned by:**  Robert Gendler
-<br />**Title of the image:**  The Tarantula Zone
-<br />**Description for the image:**  The Tarantula Nebula, also known as 30 Doradus, is more than a thousand light-years in diameter, a giant star forming region within nearby satellite galaxy the Large Magellanic Cloud. About 180 thousand light-years away, it's the largest, most violent star forming region known in the whole Local Group of galaxies. The cosmic arachnid sprawls across this magnificent view, an assembly of image data from large space- and ground-based telescopes. Within the Tarantula (NGC 2070), intense radiation, stellar winds, and supernova shocks from the central young cluster of massive stars cataloged as R136 energize the nebular glow and shape the spidery filaments. Around the Tarantula are other star forming regions with young star clusters, filaments, and blown-out bubble-shaped clouds. In fact, the frame includes the site of the closest supernova in modern times, SN 1987A, at lower right. The rich field of view spans about 2 degrees or 4 full moons in the southern constellation Dorado. But were the Tarantula Nebula closer, say 1,500 light-years distant like the Milky Way's own star forming Orion Nebula, it would take up half the sky.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2403/Tarantula-HST-ESO-Webb-LL.jpg
+<br />**Date image released:**  2024-03-09
+<br />**This image is owned by:**  Petr Horálek
+<br />**Title of the image:**  Comet Pons-Brooks in Northern Spring
+<br />**Description for the image:**  As spring approaches for northern skygazers Comet 12P/Pons-Brooks is growing brighter. Currently visible with small telescopes and binoculars the Halley-type comet could reach naked eye visibility in the coming weeks. Seen despite a foggy atmosphere, the comet's green coma and long tail hover near the horizon, in this well-composed deep night skyscape from Revuca, Slovakia recorded on March 5. In the sky above the Halley-type comet, the Andromeda (right) and Triangulum galaxies flank bright star Mirach, beta star of the constellation Andromeda. The two spiral galaxies are members of our local galaxy group and over 2.5 million light-years distant. Comet Pons-Brooks is a periodic visitor to the inner Solar System and less than 14 light-minutes away. Reaching its perihelion on April 21, this comet should be visible in the sky during the April 8 total solar eclipse.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2403/2024_03_05_Pons-Brooks_Revuca_1500px.png
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,40 +49,40 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Mar 08 0030 UTC
+:Issued: 2024 Mar 09 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Mar 08-Mar 10 2024 is 4.67 (NOAA Scale
+The greatest expected 3 hr Kp for Mar 09-Mar 11 2024 is 4.67 (NOAA Scale
 G1).
 
-NOAA Kp index breakdown Mar 08-Mar 10 2024
+NOAA Kp index breakdown Mar 09-Mar 11 2024
 
-             Mar 08       Mar 09       Mar 10
-00-03UT       3.67         3.67         2.67     
-03-06UT       3.67         4.67 (G1)    2.33     
-06-09UT       2.00         3.67         2.33     
-09-12UT       2.00         3.33         2.00     
-12-15UT       2.33         3.33         2.33     
-15-18UT       2.33         3.33         2.33     
-18-21UT       3.33         2.67         2.33     
-21-00UT       4.33         2.33         2.67     
+             Mar 09       Mar 10       Mar 11
+00-03UT       3.67         2.67         2.67     
+03-06UT       4.67 (G1)    2.33         2.00     
+06-09UT       3.67         2.33         2.00     
+09-12UT       3.33         2.00         2.67     
+12-15UT       3.33         2.33         2.67     
+15-18UT       3.33         2.33         3.00     
+18-21UT       2.67         2.33         2.67     
+21-00UT       2.33         2.67         3.00     
 
-Rationale: G1 (Minor) geomagnetic storming is likely on 09 Mar due to
-glancing effects from a CME that left the Sun on 05 Mar.
+Rationale: G1 (Minor) geomagnetic storms are likely on 09 Mar due to the
+possible arrival of the CME from 05 Mar combined with CH HSS effects.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Mar 08-Mar 10 2024
+Solar Radiation Storm Forecast for Mar 09-Mar 11 2024
 
-              Mar 08  Mar 09  Mar 10
-S1 or greater    5%      5%      5%
+              Mar 09  Mar 10  Mar 11
+S1 or greater    1%      1%      1%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
 No significant active region activity favorable for radiation storm
@@ -90,16 +90,16 @@ production is forecast.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-No radio blackouts were observed over the past 24 hours.
+Radio blackouts reaching the R1 levels were observed over the past 24
+hours. The largest was at Mar 08 2024 2126 UTC.
 
-Radio Blackout Forecast for Mar 08-Mar 10 2024
+Radio Blackout Forecast for Mar 09-Mar 11 2024
 
-              Mar 08        Mar 09        Mar 10
+              Mar 09        Mar 10        Mar 11
 R1-R2           20%           20%           20%
-R3 or greater    5%            5%            5%
+R3 or greater    1%            1%            1%
 
-Rationale: A slight chance for R1-2 (Minor-Moderate) radio blackouts due
-to isolate M-class flare activity will persist through 10 Mar primarily
-due to the potential exhibited by AR 3599.
+Rationale: There is a slight chance for R1-R2 (Minor-Moderate) radio
+blackouts all three days.
 
 ```
