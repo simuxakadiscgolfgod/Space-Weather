@@ -1,11 +1,14 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2024-03-09
-<br />**This image is owned by:**  Petr Horálek
-<br />**Title of the image:**  Comet Pons-Brooks in Northern Spring
-<br />**Description for the image:**  As spring approaches for northern skygazers Comet 12P/Pons-Brooks is growing brighter. Currently visible with small telescopes and binoculars the Halley-type comet could reach naked eye visibility in the coming weeks. Seen despite a foggy atmosphere, the comet's green coma and long tail hover near the horizon, in this well-composed deep night skyscape from Revuca, Slovakia recorded on March 5. In the sky above the Halley-type comet, the Andromeda (right) and Triangulum galaxies flank bright star Mirach, beta star of the constellation Andromeda. The two spiral galaxies are members of our local galaxy group and over 2.5 million light-years distant. Comet Pons-Brooks is a periodic visitor to the inner Solar System and less than 14 light-minutes away. Reaching its perihelion on April 21, this comet should be visible in the sky during the April 8 total solar eclipse.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2403/2024_03_05_Pons-Brooks_Revuca_1500px.png
+<br />**Date image released:**  2024-03-10
+<br />**This image is owned by:**  
+Fred Bruenjes
+(moonglow.net)
+
+<br />**Title of the image:**  A Total Eclipse at the End of the World
+<br />**Description for the image:**  Would you go to the end of the world to see a total eclipse of the Sun? If you did, would you be surprised to find someone else there already? In 2003, the Sun, the Moon, Antarctica, and two photographers all lined up in Antarctica during an unusual total solar eclipse.  Even given the extreme location, a group of enthusiastic eclipse chasers ventured near the bottom of the world to experience the surreal momentary disappearance of the Sun behind the Moon.  One of the treasures collected was the featured picture -- a composite of four separate images digitally combined to realistically simulate how the adaptive human eye saw the eclipse.  As the image was taken, both the Moon and the Sun peeked together over an Antarctic ridge.  In the sudden darkness, the magnificent corona of the Sun became visible around the Moon.  Quite by accident, another photographer was caught in one of the images checking his video camera.   Visible to his left are an equipment bag and a collapsible chair.  A more easily visible solar eclipse will occur in just under four weeks and be visible from a long, thin swath of North America.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2403/AntarcticEclipse_bruenjes_960.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,39 +52,39 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Mar 09 0030 UTC
+:Issued: 2024 Mar 10 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Mar 09-Mar 11 2024 is 4.67 (NOAA Scale
-G1).
+The greatest expected 3 hr Kp for Mar 10-Mar 12 2024 is 3.00 (below NOAA
+Scale levels).
 
-NOAA Kp index breakdown Mar 09-Mar 11 2024
+NOAA Kp index breakdown Mar 10-Mar 12 2024
 
-             Mar 09       Mar 10       Mar 11
-00-03UT       3.67         2.67         2.67     
-03-06UT       4.67 (G1)    2.33         2.00     
-06-09UT       3.67         2.33         2.00     
-09-12UT       3.33         2.00         2.67     
-12-15UT       3.33         2.33         2.67     
-15-18UT       3.33         2.33         3.00     
-18-21UT       2.67         2.33         2.67     
-21-00UT       2.33         2.67         3.00     
+             Mar 10       Mar 11       Mar 12
+00-03UT       2.67         2.67         2.67     
+03-06UT       2.33         2.00         2.67     
+06-09UT       2.33         2.00         2.33     
+09-12UT       2.00         2.67         2.33     
+12-15UT       2.33         2.67         2.33     
+15-18UT       2.33         3.00         2.33     
+18-21UT       2.33         2.67         2.00     
+21-00UT       2.67         3.00         2.33     
 
-Rationale: G1 (Minor) geomagnetic storms are likely on 09 Mar due to the
-possible arrival of the CME from 05 Mar combined with CH HSS effects.
+Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
+significant transient or recurrent solar wind features are forecast.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Mar 09-Mar 11 2024
+Solar Radiation Storm Forecast for Mar 10-Mar 12 2024
 
-              Mar 09  Mar 10  Mar 11
+              Mar 10  Mar 11  Mar 12
 S1 or greater    1%      1%      1%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -90,16 +93,15 @@ production is forecast.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-Radio blackouts reaching the R1 levels were observed over the past 24
-hours. The largest was at Mar 08 2024 2126 UTC.
+No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Mar 09-Mar 11 2024
+Radio Blackout Forecast for Mar 10-Mar 12 2024
 
-              Mar 09        Mar 10        Mar 11
+              Mar 10        Mar 11        Mar 12
 R1-R2           20%           20%           20%
 R3 or greater    1%            1%            1%
 
-Rationale: There is a slight chance for R1-R2 (Minor-Moderate) radio
-blackouts all three days.
+Rationale: There is a slight chance for R1 (Minor) radio blackouts over
+the next three days.
 
 ```
