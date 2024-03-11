@@ -1,14 +1,14 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2024-03-10
+<br />**Date image released:**  2024-03-11
 <br />**This image is owned by:**  
-Fred Bruenjes
-(moonglow.net)
+Petr Horálek /
+Institute of Physics in Opava
 
-<br />**Title of the image:**  A Total Eclipse at the End of the World
-<br />**Description for the image:**  Would you go to the end of the world to see a total eclipse of the Sun? If you did, would you be surprised to find someone else there already? In 2003, the Sun, the Moon, Antarctica, and two photographers all lined up in Antarctica during an unusual total solar eclipse.  Even given the extreme location, a group of enthusiastic eclipse chasers ventured near the bottom of the world to experience the surreal momentary disappearance of the Sun behind the Moon.  One of the treasures collected was the featured picture -- a composite of four separate images digitally combined to realistically simulate how the adaptive human eye saw the eclipse.  As the image was taken, both the Moon and the Sun peeked together over an Antarctic ridge.  In the sudden darkness, the magnificent corona of the Sun became visible around the Moon.  Quite by accident, another photographer was caught in one of the images checking his video camera.   Visible to his left are an equipment bag and a collapsible chair.  A more easily visible solar eclipse will occur in just under four weeks and be visible from a long, thin swath of North America.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2403/AntarcticEclipse_bruenjes_960.jpg
+<br />**Title of the image:**  A Full Plankton Moon
+<br />**Description for the image:**  What glows in the night? This night featured a combination of usual and unusual glows. Perhaps the most usual glow was from the Moon, a potentially familiar object. The full Moon's nearly vertical descent results from the observer being near Earth's equator. As the Moon sets, air and aerosols in Earth's atmosphere preferentially scatter out blue light, making the Sun-reflecting satellite appear reddish when near the horizon.                                                                        Perhaps the most unusual glow was from the bioluminescent plankton, likely less familiar objects. These microscopic creatures glow blue, it is thought, primarily to surprise and deter predators. In this case, the glow was caused primarily by plankton-containing waves crashing onto the beach. The image was taken on Soneva Fushi Island, Maldives just over one year ago.   Your Sky Surprise: What picture did APOD feature on your birthday? (post 1995)
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2403/FullPlantonMoon_Horalek_1022.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -52,27 +52,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Mar 10 0030 UTC
+:Issued: 2024 Mar 11 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Mar 10-Mar 12 2024 is 3.00 (below NOAA
+The greatest expected 3 hr Kp for Mar 11-Mar 13 2024 is 3.00 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Mar 10-Mar 12 2024
+NOAA Kp index breakdown Mar 11-Mar 13 2024
 
-             Mar 10       Mar 11       Mar 12
-00-03UT       2.67         2.67         2.67     
-03-06UT       2.33         2.00         2.67     
-06-09UT       2.33         2.00         2.33     
-09-12UT       2.00         2.67         2.33     
-12-15UT       2.33         2.67         2.33     
-15-18UT       2.33         3.00         2.33     
-18-21UT       2.33         2.67         2.00     
-21-00UT       2.67         3.00         2.33     
+             Mar 11       Mar 12       Mar 13
+00-03UT       2.67         2.67         1.67     
+03-06UT       2.00         2.67         1.33     
+06-09UT       2.00         2.33         1.33     
+09-12UT       2.67         2.33         1.33     
+12-15UT       2.67         2.33         1.33     
+15-18UT       3.00         2.33         1.33     
+18-21UT       2.67         2.00         1.67     
+21-00UT       3.00         2.33         1.67     
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
 significant transient or recurrent solar wind features are forecast.
@@ -82,10 +82,10 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Mar 10-Mar 12 2024
+Solar Radiation Storm Forecast for Mar 11-Mar 13 2024
 
-              Mar 10  Mar 11  Mar 12
-S1 or greater    1%      1%      1%
+              Mar 11  Mar 12  Mar 13
+S1 or greater    5%      5%      5%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
 No significant active region activity favorable for radiation storm
@@ -93,15 +93,16 @@ production is forecast.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-No radio blackouts were observed over the past 24 hours.
+Radio blackouts reaching the R2 levels were observed over the past 24
+hours. The largest was at Mar 10 2024 1213 UTC.
 
-Radio Blackout Forecast for Mar 10-Mar 12 2024
+Radio Blackout Forecast for Mar 11-Mar 13 2024
 
-              Mar 10        Mar 11        Mar 12
-R1-R2           20%           20%           20%
-R3 or greater    1%            1%            1%
+              Mar 11        Mar 12        Mar 13
+R1-R2           25%           25%           25%
+R3 or greater    5%            5%            5%
 
-Rationale: There is a slight chance for R1 (Minor) radio blackouts over
-the next three days.
+Rationale: There is a chance for R1-R2 (Minor-Moderate) radio blackouts
+over the next three days.
 
 ```
