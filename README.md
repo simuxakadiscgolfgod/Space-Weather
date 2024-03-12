@@ -1,14 +1,13 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2024-03-11
+<br />**Date image released:**  2024-03-12
 <br />**This image is owned by:**  
-Petr Horálek /
-Institute of Physics in Opava
+Seung Hye Yang
 
-<br />**Title of the image:**  A Full Plankton Moon
-<br />**Description for the image:**  What glows in the night? This night featured a combination of usual and unusual glows. Perhaps the most usual glow was from the Moon, a potentially familiar object. The full Moon's nearly vertical descent results from the observer being near Earth's equator. As the Moon sets, air and aerosols in Earth's atmosphere preferentially scatter out blue light, making the Sun-reflecting satellite appear reddish when near the horizon.                                                                        Perhaps the most unusual glow was from the bioluminescent plankton, likely less familiar objects. These microscopic creatures glow blue, it is thought, primarily to surprise and deter predators. In this case, the glow was caused primarily by plankton-containing waves crashing onto the beach. The image was taken on Soneva Fushi Island, Maldives just over one year ago.   Your Sky Surprise: What picture did APOD feature on your birthday? (post 1995)
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2403/FullPlantonMoon_Horalek_1022.jpg
+<br />**Title of the image:**  A Galaxy-Shaped Rocket Exhaust Spiral
+<br />**Description for the image:**  What's that over the horizon? What may look like a strangely nearby galaxy is actually a normal rocket's exhaust plume -- but unusually backlit.  Although the SpaceX Falcon 9 rocket was launched from Cape Canaveral in Florida, USA, its burned propellant was visible over a much wider area, with the featured photograph being taken from Akureyri, Iceland. The huge spaceship was lifted off a week ago, and the resulting spectacle was captured soon afterward with a single 10-second smartphone exposure, before it quickly dissipated. Like noctilucent clouds, the plume's brightness is caused by the Twilight Effect, where an object is high enough to be illuminated by the twilight Sun, even when the observer on the ground experiences the darkness of night. The spiral shape is likely caused by high winds pushing the expelled gas into the shape of a corkscrew, which, when seen along the trajectory, looks like a spiral. Stars and faint green and red aurora appear in the background of this extraordinary image.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2403/RocketSpiral_Yang_3024.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -52,27 +51,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Mar 11 0030 UTC
+:Issued: 2024 Mar 12 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Mar 11-Mar 13 2024 is 3.00 (below NOAA
+The greatest expected 3 hr Kp for Mar 12-Mar 14 2024 is 2.67 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Mar 11-Mar 13 2024
+NOAA Kp index breakdown Mar 12-Mar 14 2024
 
-             Mar 11       Mar 12       Mar 13
-00-03UT       2.67         2.67         1.67     
-03-06UT       2.00         2.67         1.33     
-06-09UT       2.00         2.33         1.33     
-09-12UT       2.67         2.33         1.33     
-12-15UT       2.67         2.33         1.33     
-15-18UT       3.00         2.33         1.33     
-18-21UT       2.67         2.00         1.67     
-21-00UT       3.00         2.33         1.67     
+             Mar 12       Mar 13       Mar 14
+00-03UT       1.67         1.67         2.33     
+03-06UT       1.67         1.33         1.33     
+06-09UT       1.33         1.33         2.00     
+09-12UT       1.33         1.33         2.00     
+12-15UT       1.33         1.33         2.00     
+15-18UT       1.33         1.33         2.67     
+18-21UT       1.33         1.67         2.67     
+21-00UT       1.67         1.67         2.00     
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
 significant transient or recurrent solar wind features are forecast.
@@ -82,9 +81,9 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Mar 11-Mar 13 2024
+Solar Radiation Storm Forecast for Mar 12-Mar 14 2024
 
-              Mar 11  Mar 12  Mar 13
+              Mar 12  Mar 13  Mar 14
 S1 or greater    5%      5%      5%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -93,16 +92,16 @@ production is forecast.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-Radio blackouts reaching the R2 levels were observed over the past 24
-hours. The largest was at Mar 10 2024 1213 UTC.
+No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Mar 11-Mar 13 2024
+Radio Blackout Forecast for Mar 12-Mar 14 2024
 
-              Mar 11        Mar 12        Mar 13
-R1-R2           25%           25%           25%
+              Mar 12        Mar 13        Mar 14
+R1-R2           20%           20%           20%
 R3 or greater    5%            5%            5%
 
-Rationale: There is a chance for R1-R2 (Minor-Moderate) radio blackouts
-over the next three days.
+Rationale: A slight chance for R1-2 (Minor-Moderate) radio blackouts due
+to isolated M-class flare activity will persist through the forecast
+period primarily due to the potential exhibited by AR 3599.
 
 ```

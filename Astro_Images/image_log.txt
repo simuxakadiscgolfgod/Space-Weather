@@ -1,8 +1,7 @@
-<br />**Date image released:**  2024-03-11
+<br />**Date image released:**  2024-03-12
 <br />**This image is owned by:**  
-Petr Horálek /
-Institute of Physics in Opava
+Seung Hye Yang
 
-<br />**Title of the image:**  A Full Plankton Moon
-<br />**Description for the image:**  What glows in the night? This night featured a combination of usual and unusual glows. Perhaps the most usual glow was from the Moon, a potentially familiar object. The full Moon's nearly vertical descent results from the observer being near Earth's equator. As the Moon sets, air and aerosols in Earth's atmosphere preferentially scatter out blue light, making the Sun-reflecting satellite appear reddish when near the horizon.                                                                        Perhaps the most unusual glow was from the bioluminescent plankton, likely less familiar objects. These microscopic creatures glow blue, it is thought, primarily to surprise and deter predators. In this case, the glow was caused primarily by plankton-containing waves crashing onto the beach. The image was taken on Soneva Fushi Island, Maldives just over one year ago.   Your Sky Surprise: What picture did APOD feature on your birthday? (post 1995)
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2403/FullPlantonMoon_Horalek_1022.jpg
+<br />**Title of the image:**  A Galaxy-Shaped Rocket Exhaust Spiral
+<br />**Description for the image:**  What's that over the horizon? What may look like a strangely nearby galaxy is actually a normal rocket's exhaust plume -- but unusually backlit.  Although the SpaceX Falcon 9 rocket was launched from Cape Canaveral in Florida, USA, its burned propellant was visible over a much wider area, with the featured photograph being taken from Akureyri, Iceland. The huge spaceship was lifted off a week ago, and the resulting spectacle was captured soon afterward with a single 10-second smartphone exposure, before it quickly dissipated. Like noctilucent clouds, the plume's brightness is caused by the Twilight Effect, where an object is high enough to be illuminated by the twilight Sun, even when the observer on the ground experiences the darkness of night. The spiral shape is likely caused by high winds pushing the expelled gas into the shape of a corkscrew, which, when seen along the trajectory, looks like a spiral. Stars and faint green and red aurora appear in the background of this extraordinary image.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2403/RocketSpiral_Yang_3024.jpg
