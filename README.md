@@ -1,13 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2024-03-13
-<br />**This image is owned by:**  
-Gianni Lacroce
-
-<br />**Title of the image:**  The Seagull Nebula
-<br />**Description for the image:**  A broad expanse of glowing gas and dust presents a bird-like visage to astronomers from planet Earth, suggesting its popular moniker: the Seagull Nebula. This portrait of the cosmic bird covers a 1.6-degree wide swath across the plane of the Milky Way, near the direction of Sirius, the alpha star of the constellation of the Big Dog (Canis Major). Of course, the region includes objects with other catalog designations: notably NGC 2327, a compact, dusty emission and reflection nebula with an embedded massive star that forms the bird's head. Dominated by the reddish glow of atomic hydrogen, the complex of gas and dust clouds with bright young stars spans over 100 light-years at an estimated 3,800 light-year distance.   Almost Hyperspace: Random APOD Generator
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2403/Seagull_Lacroce_2048.jpg
+<br />**Date image released:**  2024-03-14
+<br />**This image is owned by:**  El Cielo de Canarias
+<br />**Title of the image:**  Moon Pi and Mountain Shadow
+<br />**Description for the image:**  What phase of the Moon is 3.14 radians from the Sun? The Full Moon, of course. Even though the Moon might look full for several days, the Moon is truly at its full phase when it is Pi radians (aka 180 degrees) from the Sun in ecliptic longitude. That's opposite the Sun in planet Earth's sky. Rising as the Sun set on March 9, 2020, only an hour or so after the moment of its full phase, this orange tinted and slightly flattened Moon still looked full. It was photographed opposite the setting Sun from Teide National Park on the Canary Island of Tenerife. Also opposite the setting Sun, seen from near the Teide volcano peak about 3,500 meters above sea level, is the mountain's rising triangular shadow extending into Earth's dense atmosphere. Below the distant ridge line on the left are the white telescope domes of Teide Observatory. Again Pi radians from the Sun, on March 25 the Full Moon will dim slightly as it glides through Earth's outer shadow in a penumbral lunar eclipse.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2403/MoonriseShadowDLopez_1.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -51,27 +49,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Mar 12 1230 UTC
+:Issued: 2024 Mar 14 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Mar 12-Mar 14 2024 is 3.00 (below NOAA
+The greatest expected 3 hr Kp for Mar 14-Mar 16 2024 is 3.67 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Mar 12-Mar 14 2024
+NOAA Kp index breakdown Mar 14-Mar 16 2024
 
-             Mar 12       Mar 13       Mar 14
-00-03UT       3.00         1.67         2.33     
-03-06UT       1.00         1.33         1.33     
-06-09UT       1.00         1.33         2.00     
-09-12UT       2.00         1.33         2.00     
-12-15UT       1.33         1.33         2.00     
-15-18UT       1.33         1.33         2.67     
-18-21UT       1.33         1.67         2.67     
-21-00UT       2.00         1.67         2.00     
+             Mar 14       Mar 15       Mar 16
+00-03UT       2.67         3.00         2.67     
+03-06UT       2.33         2.00         2.33     
+06-09UT       2.33         2.00         2.00     
+09-12UT       3.67         2.67         2.00     
+12-15UT       3.67         2.67         2.00     
+15-18UT       2.67         2.67         2.00     
+18-21UT       2.67         2.67         2.00     
+21-00UT       3.00         3.00         2.00     
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
 significant transient or recurrent solar wind features are forecast.
@@ -81,10 +79,10 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Mar 12-Mar 14 2024
+Solar Radiation Storm Forecast for Mar 14-Mar 16 2024
 
-              Mar 12  Mar 13  Mar 14
-S1 or greater    5%      5%      1%
+              Mar 14  Mar 15  Mar 16
+S1 or greater    5%      5%      5%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
 No significant active region activity favorable for radiation storm
@@ -94,14 +92,14 @@ C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Mar 12-Mar 14 2024
+Radio Blackout Forecast for Mar 14-Mar 16 2024
 
-              Mar 12        Mar 13        Mar 14
-R1-R2           20%           20%           10%
-R3 or greater    5%            5%            1%
+              Mar 14        Mar 15        Mar 16
+R1-R2           15%           15%           15%
+R3 or greater    5%            5%            5%
 
 Rationale: A slight chance for R1-2 (Minor-Moderate) radio blackouts due
 to isolated M-class flare activity will persist through the forecast
-period primarily due to the potential exhibited by AR 3599.
+period as AR 3599 exits the western limb.
 
 ```
