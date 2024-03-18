@@ -1,10 +1,13 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2024-03-17
-<br />**Title of the image:**  NGC 7714: Starburst after Galaxy Collision
-<br />**Description for the image:**  Is this galaxy jumping through a giant ring of stars?  Probably not.  Although the precise dynamics behind the featured image is yet unclear, what is clear is that the pictured galaxy, NGC 7714, has been stretched and distorted by a recent collision with a neighboring galaxy. This smaller neighbor, NGC 7715, situated off to the left of the frame, is thought to have charged right through NGC 7714. Observations indicate that the golden ring pictured is composed of millions of older Sun-like stars that are likely co-moving with the interior bluer stars. In contrast, the bright center of NGC 7714 appears to be undergoing a burst of new star formation.  The featured image was captured by the Hubble Space Telescope.  NGC 7714 is located about 130 million light years away toward the constellation of the Two Fish (Pisces).  The interactions between these galaxies likely started about 150 million years ago and should continue for several hundred million years more, after which a single central galaxy may result.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2403/Ngc7714_HubblePohl_2048.jpg
+<br />**Date image released:**  2024-03-18
+<br />**This image is owned by:**  
+Jan Erik Vallestad
+
+<br />**Title of the image:**  Comet Pons-Brooks' Swirling Coma
+<br />**Description for the image:**  A bright comet will be visible during next month's total solar eclipse.  This very unusual coincidence occurs because Comet 12P/Pons-Brooks's return to the inner Solar System places it by chance only 25 degrees away from the Sun during Earth's April 8 total solar eclipse.  Currently the comet is just on the edge of visibility to the unaided eye, best visible with binoculars in the early evening sky toward the constellation of the Fish (Pisces). Comet Pons-Brooks, though, is putting on quite a show for deep camera images even now.  The featured image is a composite of three very specific colors, showing the comet's ever-changing ion tail in light blue, its outer coma in green, and highlights some red-glowing gas around the coma in a spiral. The spiral is thought to be caused by gas being expelled by the slowly rotating nucleus of the giant iceberg comet. Although it is always difficult to predict the future brightness of comets, Comet Pons-Brook has been particularly prone to outbursts, making it even more difficult to predict how bright it will actually be as the Moon moves in front of the Sun on April 8.   Total Eclipse Info: 2024 Total Solar Eclipse from NASA
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2403/CometPonsBrook_Vallestad_2564.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -48,56 +51,56 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Mar 17 0030 UTC
+:Issued: 2024 Mar 18 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 1 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Mar 17-Mar 19 2024 is 2.67 (below NOAA
-Scale levels).
+The greatest expected 3 hr Kp for Mar 18-Mar 20 2024 is 4.67 (NOAA Scale
+G1).
 
-NOAA Kp index breakdown Mar 17-Mar 19 2024
+NOAA Kp index breakdown Mar 18-Mar 20 2024
 
-             Mar 17       Mar 18       Mar 19
-00-03UT       2.67         1.67         1.67     
-03-06UT       2.67         1.33         1.33     
-06-09UT       2.00         1.33         1.33     
-09-12UT       2.00         1.33         1.33     
-12-15UT       1.00         1.33         1.33     
-15-18UT       1.00         1.33         1.33     
-18-21UT       2.00         1.67         1.67     
-21-00UT       2.33         1.67         1.67     
+             Mar 18       Mar 19       Mar 20
+00-03UT       1.67         1.67         1.67     
+03-06UT       2.00         2.00         2.00     
+06-09UT       1.33         1.67         1.67     
+09-12UT       1.33         1.00         3.00     
+12-15UT       1.00         0.67         3.67     
+15-18UT       1.00         0.67         3.67     
+18-21UT       1.33         1.67         4.00     
+21-00UT       1.67         1.67         4.67 (G1)
 
-Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
-significant transient or recurrent solar wind features are forecast.
+Rationale: G1 (Minor) geomagnetic storming is likely on 20 Mar due to
+the arrival of the 17 Mar CME.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
-above S-scale storm level thresholds.
+below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Mar 17-Mar 19 2024
+Solar Radiation Storm Forecast for Mar 18-Mar 20 2024
 
-              Mar 17  Mar 18  Mar 19
-S1 or greater   40%      1%      1%
+              Mar 18  Mar 19  Mar 20
+S1 or greater    5%      5%      5%
 
-Rationale: There is a chance for S1 (Minor) solar radiation storm levels
-on 17 Mar.
+Rationale: No S1 (Minor) or greater solar radiation storms are expected.
+No significant active region activity favorable for radiation storm
+production is forecast.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-Radio blackouts reaching the R1 levels were observed over the past 24
-hours. The largest was at Mar 16 2024 1635 UTC.
+No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Mar 17-Mar 19 2024
+Radio Blackout Forecast for Mar 18-Mar 20 2024
 
-              Mar 17        Mar 18        Mar 19
-R1-R2            5%            5%            5%
-R3 or greater    1%            1%            1%
+              Mar 18        Mar 19        Mar 20
+R1-R2           30%           30%           30%
+R3 or greater    5%            5%            5%
 
-Rationale: No R1 (Minor) or greater radio blackouts are expected.  No
-significant active region flare activity is forecast.
+Rationale: There is a chance for R1-R2 (Minor-Moderate) radio blackouts
+on 18-20 Mar.
 
 ```
