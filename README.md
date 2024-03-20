@@ -1,14 +1,13 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2024-03-19
+<br />**Date image released:**  2024-03-20
 <br />**This image is owned by:**  
-Alan Dyer, Amazingsky.com,
-TWAN
+Mike Selby
 
-<br />**Title of the image:**  A Picturesque Equinox Sunset
-<br />**Description for the image:**  What's that at the end of the road? The Sun. Many towns have roads that run east-west, and on two days each year, the Sun rises and sets right down the middle. Today, in some parts of the world (tomorrow in others), is one of those days: an equinox.  Not only is this a day of equal night ("aequus"-"nox") and day time, but also a day when the sun rises precisely to the east and sets due west. Displayed here is a picturesque rural road in Alberta, Canada that runs approximately east-west. The featured image was taken during the September Equinox of 2021, but the geometry remains the same every year.  In many cultures, this March equinox is taken to be the first day of a season, typically spring in Earth's northern hemisphere, and autumn in the south. Does your favorite street run east-west? Tonight, at sunset, you can find out with a quick glance.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2403/EquinoxSunset_Dyer_1701.jpg
+<br />**Title of the image:**  The Eyes in Markarian's Galaxy Chain
+<br />**Description for the image:**  Across the heart of the Virgo Galaxy Cluster lies a string of galaxies known as Markarian's Chain. Prominent in Markarian's Chain are these two interacting galaxies, NGC 4438 (left) and NGC 4435 - also known as The Eyes. About 50 million light-years away, the two galaxies appear to be about 100,000 light-years apart in this sharp close-up, but have likely approached to within an estimated 16,000 light-years of each other in their cosmic past. Gravitational tides from the close encounter have ripped away at their stars, gas, and dust. The more massive NGC 4438 managed to hold on to much of the material torn out in the collision, while material from the smaller NGC 4435 was more easily lost. The remarkably deep image of this crowded region of the universe also includes many more distant background galaxies.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2403/Ngc4438_Selby_2068.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -52,39 +51,39 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Mar 19 0030 UTC
+:Issued: 2024 Mar 20 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Mar 19-Mar 21 2024 is 4.67 (NOAA Scale
+The greatest expected 3 hr Kp for Mar 20-Mar 22 2024 is 4.67 (NOAA Scale
 G1).
 
-NOAA Kp index breakdown Mar 19-Mar 21 2024
+NOAA Kp index breakdown Mar 20-Mar 22 2024
 
-             Mar 19       Mar 20       Mar 21
-00-03UT       3.33         1.67         3.00     
-03-06UT       2.67         2.00         4.00     
-06-09UT       2.00         1.67         4.67 (G1)
-09-12UT       1.67         3.00         3.00     
-12-15UT       0.67         3.67         4.00     
-15-18UT       0.67         3.67         3.00     
-18-21UT       1.67         4.00         3.00     
-21-00UT       1.67         4.67 (G1)    2.00     
+             Mar 20       Mar 21       Mar 22
+00-03UT       1.67         3.00         3.00     
+03-06UT       2.00         4.00         2.00     
+06-09UT       1.67         4.67 (G1)    2.00     
+09-12UT       3.00         3.00         2.00     
+12-15UT       3.67         4.00         2.00     
+15-18UT       3.67         3.00         2.00     
+18-21UT       4.00         3.00         2.00     
+21-00UT       4.67 (G1)    2.00         2.33     
 
-Rationale: G1 (Minor) storm levels are likely on 20-21 Mar due to the
-arrival of CMEs from 17 Mar.
+Rationale: G1 (Minor) geomagnetic storm levels are likely on 20-21 Mar
+due to the arrival of the 17 Mar CMEs.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Mar 19-Mar 21 2024
+Solar Radiation Storm Forecast for Mar 20-Mar 22 2024
 
-              Mar 19  Mar 20  Mar 21
+              Mar 20  Mar 21  Mar 22
 S1 or greater    5%      5%      5%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -93,16 +92,16 @@ production is forecast.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-Radio blackouts reaching the R2 levels were observed over the past 24
-hours. The largest was at Mar 18 2024 1919 UTC.
+Radio blackouts reaching the R1 levels were observed over the past 24
+hours. The largest was at Mar 19 2024 2327 UTC.
 
-Radio Blackout Forecast for Mar 19-Mar 21 2024
+Radio Blackout Forecast for Mar 20-Mar 22 2024
 
-              Mar 19        Mar 20        Mar 21
+              Mar 20        Mar 21        Mar 22
 R1-R2           40%           40%           40%
 R3 or greater    5%            5%            5%
 
 Rationale: There is a chance for R1-R2 (Minor-Moderate) radio blackouts
-on 19-21 Mar.
+on 20-22 Mar.
 
 ```
