@@ -1,11 +1,10 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2024-03-21
-<br />**This image is owned by:**  Steve Cannistra
-<br />**Title of the image:**  The Leo Trio
-<br />**Description for the image:**  This popular group leaps into the early evening sky around the March equinox and the northern hemisphere spring.  Famous as the Leo Triplet, the three magnificent galaxies found in the prominent constellation Leo gather here in one astronomical field of view. Crowd pleasers when imaged with even modest telescopes, they can be introduced individually as NGC 3628 (left), M66 (bottom right), and M65 (top). All three are large spiral galaxies but tend to look dissimilar, because their galactic disks are tilted at different angles to our line of sight. NGC 3628, also known as the Hamburger Galaxy, is temptingly seen edge-on, with obscuring dust lanes cutting across its puffy galactic plane. The disks of M66 and M65 are both inclined enough to show off their spiral structure.  Gravitational interactions between galaxies in the group have left telltale signs, including the tidal tails and warped, inflated disk of NGC 3628 and the drawn out spiral arms of M66. This gorgeous view of the region spans over 1 degree (two full moons) on the sky in a frame that covers over half a million light-years at the trio's estimated distance of 30 million light-years.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2403/leotripletasi294large.jpg
+<br />**Date image released:**  2024-03-22
+<br />**Title of the image:**  Phobos: Moon over Mars
+<br />**Description for the image:**  A tiny moon with a scary name, Phobos emerges from behind the Red Planet in this timelapse sequence from the Earth-orbiting Hubble Space Telescope. Over 22 minutes the 13 separate exposures were captured near the 2016 closest approach of Mars to planet Earth. Martians have to look to the west to watch Phobos rise, though. The small moon is closer to its parent planet than any other moon in the Solar System, about 3,700 miles (6,000 kilometers) above the Martian surface. It completes one orbit in just 7 hours and 39 minutes. That's faster than a Mars rotation, which corresponds to about 24 hours and 40 minutes. So on Mars, Phobos can be seen to rise above the western horizon 3 times a day. Still, Phobos is doomed.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2403/STSCI-MarsPhobosComp3000.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,39 +48,39 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Mar 21 0030 UTC
+:Issued: 2024 Mar 22 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
-Scale levels).
-The greatest expected 3 hr Kp for Mar 21-Mar 23 2024 is 4.67 (NOAA Scale
+The greatest observed 3 hr Kp over the past 24 hours was 5 (NOAA Scale
+G1).
+The greatest expected 3 hr Kp for Mar 22-Mar 24 2024 is 4.67 (NOAA Scale
 G1).
 
-NOAA Kp index breakdown Mar 21-Mar 23 2024
+NOAA Kp index breakdown Mar 22-Mar 24 2024
 
-             Mar 21       Mar 22       Mar 23
-00-03UT       3.00         3.00         1.67     
-03-06UT       4.00         2.00         1.67     
-06-09UT       4.67 (G1)    2.00         1.33     
-09-12UT       3.00         2.00         1.33     
-12-15UT       4.00         2.00         1.00     
-15-18UT       3.00         2.00         1.67     
-18-21UT       3.00         2.00         1.33     
-21-00UT       2.00         2.33         1.67     
+             Mar 22       Mar 23       Mar 24
+00-03UT       4.00         1.67         2.33     
+03-06UT       4.67 (G1)    1.67         2.33     
+06-09UT       3.67         1.33         2.00     
+09-12UT       3.00         1.33         2.00     
+12-15UT       2.67         1.00         4.00     
+15-18UT       1.67         1.67         3.33     
+18-21UT       2.00         1.33         4.00     
+21-00UT       2.00         1.67         4.00     
 
-Rationale: G1 (Minor) geomagnetic storming is likely 21 Mar due to CME
-effects from a filament eruption that left the sun on 17 Mar.
+Rationale: G1 (Minor) geomagnetic storms are expected to continue early
+on 22 Mar as CME influences continue.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Mar 21-Mar 23 2024
+Solar Radiation Storm Forecast for Mar 22-Mar 24 2024
 
-              Mar 21  Mar 22  Mar 23
+              Mar 22  Mar 23  Mar 24
 S1 or greater    5%      5%      5%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -90,17 +89,15 @@ production is forecast.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-Radio blackouts reaching the R2 levels were observed over the past 24
-hours. The largest was at Mar 20 2024 0736 UTC.
+No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Mar 21-Mar 23 2024
+Radio Blackout Forecast for Mar 22-Mar 24 2024
 
-              Mar 21        Mar 22        Mar 23
+              Mar 22        Mar 23        Mar 24
 R1-R2           45%           45%           45%
-R3 or greater   10%           10%           10%
+R3 or greater    5%            5%            5%
 
-Rationale: A chance for R1-R2 (Minor-Moderate) radio blackouts, with a
-slight chance for R3 (Strong), will persist through 23 Mar primarily due
-to the flare potential of AR 2615.
+Rationale: No R1 (Minor) or greater radio blackouts are expected.  No
+significant active region flare activity is forecast.
 
 ```
