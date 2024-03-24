@@ -1,10 +1,12 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2024-03-22
-<br />**Title of the image:**  Phobos: Moon over Mars
-<br />**Description for the image:**  A tiny moon with a scary name, Phobos emerges from behind the Red Planet in this timelapse sequence from the Earth-orbiting Hubble Space Telescope. Over 22 minutes the 13 separate exposures were captured near the 2016 closest approach of Mars to planet Earth. Martians have to look to the west to watch Phobos rise, though. The small moon is closer to its parent planet than any other moon in the Solar System, about 3,700 miles (6,000 kilometers) above the Martian surface. It completes one orbit in just 7 hours and 39 minutes. That's faster than a Mars rotation, which corresponds to about 24 hours and 40 minutes. So on Mars, Phobos can be seen to rise above the western horizon 3 times a day. Still, Phobos is doomed.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2403/STSCI-MarsPhobosComp3000.jpg
+<br />**Date image released:**  2024-03-24
+<br />**This image is owned by:**  CNES
+
+<br />**Title of the image:**  Looking Back at an Eclipsed Earth
+<br />**Description for the image:**  Here is what the Earth looks like during a solar eclipse. The shadow of the Moon can be seen darkening part of Earth. This shadow moved across the Earth at nearly 2000 kilometers per hour. Only observers near the center of the dark circle see a total solar eclipse - others see a partial eclipse where only part of the Sun appears blocked by the Moon. This spectacular picture of the 1999 August 11 solar eclipse was one of the last ever taken from the Mir space station. The two bright spots that appear on the upper left are thought to be Jupiter and Saturn. Mir was deorbited in a controlled re-entry in 2001. A new solar eclipse will occur over North America in about two weeks.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2403/eclipse99_mir_960.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -48,56 +50,61 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Mar 22 0030 UTC
+:Issued: 2024 Mar 24 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 5 (NOAA Scale
-G1).
-The greatest expected 3 hr Kp for Mar 22-Mar 24 2024 is 4.67 (NOAA Scale
-G1).
+The greatest observed 3 hr Kp over the past 24 hours was 6 (NOAA Scale
+G2).
+The greatest expected 3 hr Kp for Mar 24-Mar 26 2024 is 6.67 (NOAA Scale
+G3).
 
-NOAA Kp index breakdown Mar 22-Mar 24 2024
+NOAA Kp index breakdown Mar 24-Mar 26 2024
 
-             Mar 22       Mar 23       Mar 24
-00-03UT       4.00         1.67         2.33     
-03-06UT       4.67 (G1)    1.67         2.33     
-06-09UT       3.67         1.33         2.00     
-09-12UT       3.00         1.33         2.00     
-12-15UT       2.67         1.00         4.00     
-15-18UT       1.67         1.67         3.33     
-18-21UT       2.00         1.33         4.00     
-21-00UT       2.00         1.67         4.00     
+             Mar 24       Mar 25       Mar 26
+00-03UT       5.67 (G2)    5.00 (G1)    5.00 (G1)
+03-06UT       5.67 (G2)    6.67 (G3)    4.00     
+06-09UT       4.67 (G1)    5.67 (G2)    4.00     
+09-12UT       4.00         5.00 (G1)    3.67     
+12-15UT       2.67         4.00         3.00     
+15-18UT       2.67         3.00         2.33     
+18-21UT       5.00 (G1)    3.00         2.33     
+21-00UT       5.67 (G2)    4.00         3.33     
 
-Rationale: G1 (Minor) geomagnetic storms are expected to continue early
-on 22 Mar as CME influences continue.
+Rationale: G1-G2 (Minor-Moderate) geomagnetic storming is expected on 24
+Mar due to lingering transient-like and negative polarity CH HSS
+effects. Activity will likely increase to G3 (Strong) geomagnetic
+storming conditions early to mid 25 Mar with the arrival of a CME that
+left the sun on 23 Mar.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
-below S-scale storm level thresholds.
+above S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Mar 22-Mar 24 2024
+Solar Radiation Storm Forecast for Mar 24-Mar 26 2024
 
-              Mar 22  Mar 23  Mar 24
-S1 or greater    5%      5%      5%
+              Mar 24  Mar 25  Mar 26
+S1 or greater   99%     70%     50%
 
-Rationale: No S1 (Minor) or greater solar radiation storms are expected.
-No significant active region activity favorable for radiation storm
-production is forecast.
+Rationale: S2 (Moderate) solar radiation storm conditions are expected
+to continue through 24 Mar with S1 (Minor) levels likely continuing on
+through 26 Mar.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-No radio blackouts were observed over the past 24 hours.
+Radio blackouts reaching the R3 levels were observed over the past 24
+hours. The largest was at Mar 23 2024 0133 UTC.
 
-Radio Blackout Forecast for Mar 22-Mar 24 2024
+Radio Blackout Forecast for Mar 24-Mar 26 2024
 
-              Mar 22        Mar 23        Mar 24
-R1-R2           45%           45%           45%
-R3 or greater    5%            5%            5%
+              Mar 24        Mar 25        Mar 26
+R1-R2           90%           90%           90%
+R3 or greater   45%           45%           45%
 
-Rationale: No R1 (Minor) or greater radio blackouts are expected.  No
-significant active region flare activity is forecast.
+Rationale: R1-2 (Minor-Moderate) radio blackouts are expected, with a
+chance for isolated R3 (Strong) events, through 26 Mar primarily due to
+the flare potential exhibited by AR 3615.
 
 ```
