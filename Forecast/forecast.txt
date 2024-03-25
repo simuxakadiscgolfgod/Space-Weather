@@ -1,60 +1,56 @@
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Mar 24 0030 UTC
+:Issued: 2024 Mar 25 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 6 (NOAA Scale
-G2).
-The greatest expected 3 hr Kp for Mar 24-Mar 26 2024 is 6.67 (NOAA Scale
+The greatest observed 3 hr Kp over the past 24 hours was 8 (NOAA Scale
+G4).
+The greatest expected 3 hr Kp for Mar 25-Mar 27 2024 is 6.67 (NOAA Scale
 G3).
 
-NOAA Kp index breakdown Mar 24-Mar 26 2024
+NOAA Kp index breakdown Mar 25-Mar 27 2024
 
-             Mar 24       Mar 25       Mar 26
-00-03UT       5.67 (G2)    5.00 (G1)    5.00 (G1)
-03-06UT       5.67 (G2)    6.67 (G3)    4.00     
-06-09UT       4.67 (G1)    5.67 (G2)    4.00     
-09-12UT       4.00         5.00 (G1)    3.67     
-12-15UT       2.67         4.00         3.00     
-15-18UT       2.67         3.00         2.33     
-18-21UT       5.00 (G1)    3.00         2.33     
-21-00UT       5.67 (G2)    4.00         3.33     
+             Mar 25       Mar 26       Mar 27
+00-03UT       6.00 (G2)    5.00 (G1)    1.67     
+03-06UT       6.67 (G3)    4.00         1.33     
+06-09UT       6.00 (G2)    4.00         1.33     
+09-12UT       5.00 (G1)    3.67         1.33     
+12-15UT       4.00         3.00         1.33     
+15-18UT       3.00         2.33         1.33     
+18-21UT       3.00         2.33         1.67     
+21-00UT       4.00         3.33         1.67     
 
-Rationale: G1-G2 (Minor-Moderate) geomagnetic storming is expected on 24
-Mar due to lingering transient-like and negative polarity CH HSS
-effects. Activity will likely increase to G3 (Strong) geomagnetic
-storming conditions early to mid 25 Mar with the arrival of a CME that
-left the sun on 23 Mar.
+Rationale: G1 (Minor) or greater (G3 Strong) geomagnetic storms are
+expected in response to CME passage.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 above S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Mar 24-Mar 26 2024
+Solar Radiation Storm Forecast for Mar 25-Mar 27 2024
 
-              Mar 24  Mar 25  Mar 26
+              Mar 25  Mar 26  Mar 27
 S1 or greater   99%     70%     50%
 
-Rationale: S2 (Moderate) solar radiation storm conditions are expected
-to continue through 24 Mar with S1 (Minor) levels likely continuing on
-through 26 Mar.
+Rationale: S1 (Minor) or greater solar radiation storms are expected as
+the space radiation event from March 23 continues to decay.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-Radio blackouts reaching the R3 levels were observed over the past 24
-hours. The largest was at Mar 23 2024 0133 UTC.
+Radio blackouts reaching the R1 levels were observed over the past 24
+hours. The largest was at Mar 24 2024 0218 UTC.
 
-Radio Blackout Forecast for Mar 24-Mar 26 2024
+Radio Blackout Forecast for Mar 25-Mar 27 2024
 
-              Mar 24        Mar 25        Mar 26
-R1-R2           90%           90%           90%
-R3 or greater   45%           45%           45%
+              Mar 25        Mar 26        Mar 27
+R1-R2           85%           85%           85%
+R3 or greater   25%           25%           25%
 
-Rationale: R1-2 (Minor-Moderate) radio blackouts are expected, with a
-chance for isolated R3 (Strong) events, through 26 Mar primarily due to
-the flare potential exhibited by AR 3615.
+Rationale: R1-R2 (Minor-Moderate) or greater radio blackouts are
+expected, with a chance for an R3 (Strong) event from significant
+sunspot regions.
 
 ```
