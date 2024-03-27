@@ -1,11 +1,13 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Sorry, Image not available!**
-<br />**Date image released:**  2024-03-26
-<br />**Title of the image:**  Comet Pons-Brooks' Ion Tail
-<br />**Description for the image:**  Comet Pons-Brooks has quite a tail to tell.  First discovered in 1385, this erupting dirty snowball loops back into our inner Solar System every 71 years and, this time, is starting to put on a show for deep camera exposures.  In the featured picture, the light blue stream is the ion tail which consists of charged molecules pushed away from the comet's nucleus by the solar wind.  The ion tail, shaped by the Sun's wind and the comet's core's rotation, always points away from the Sun.  Comet 12P/Pons–Brooks is now visible with binoculars in the early evening sky toward the northwest, moving perceptibly from night to night.  The frequently flaring comet is expected to continue to brighten, on the average, and may even become visible with the unaided eye --  during the day -- to those in the path of totality of the coming solar eclipse on April 8.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2403/CometPons_Peirce_5119.jpg
+<br />**Date image released:**  2024-03-27
+<br />**This image is owned by:**  
+Joe Hua
+
+<br />**Title of the image:**  The Coma Cluster of Galaxies
+<br />**Description for the image:**  Almost every object in the featured photograph is a galaxy.  The Coma Cluster of Galaxies pictured here is one of the densest clusters known - it contains thousands of galaxies.  Each of these galaxies houses billions of stars - just as our own Milky Way Galaxy does.  Although nearby when compared to most other clusters, light from the Coma Cluster still takes hundreds of millions of years to reach us.  In fact, the Coma Cluster is so big it takes light millions of years just to go from one side to the other.  Most galaxies in Coma and other clusters are ellipticals, while most galaxies outside of clusters are spirals.  The nature of Coma's X-ray emission is still being investigated.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2403/ComaCluster_Hua_960.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,57 +51,57 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Mar 26 0030 UTC
+:Issued: 2024 Mar 27 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 5 (NOAA Scale
-G1).
-The greatest expected 3 hr Kp for Mar 26-Mar 28 2024 is 5.00 (NOAA Scale
-G1).
+The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
+Scale levels).
+The greatest expected 3 hr Kp for Mar 27-Mar 29 2024 is 2.67 (below NOAA
+Scale levels).
 
-NOAA Kp index breakdown Mar 26-Mar 28 2024
+NOAA Kp index breakdown Mar 27-Mar 29 2024
 
-             Mar 26       Mar 27       Mar 28
-00-03UT       5.00 (G1)    2.33         1.67     
-03-06UT       4.00         2.67         1.67     
-06-09UT       4.00         2.33         1.67     
-09-12UT       3.67         1.67         1.33     
-12-15UT       3.00         1.33         1.33     
-15-18UT       2.33         2.00         1.33     
-18-21UT       2.33         2.00         1.33     
-21-00UT       3.33         2.33         1.33     
+             Mar 27       Mar 28       Mar 29
+00-03UT       2.33         1.67         2.67     
+03-06UT       2.67         1.67         2.00     
+06-09UT       2.33         1.67         2.33     
+09-12UT       1.67         1.33         2.33     
+12-15UT       1.33         1.33         2.33     
+15-18UT       2.00         1.33         2.33     
+18-21UT       2.00         1.33         2.33     
+21-00UT       2.33         1.33         2.67     
 
-Rationale: G1 (Minor) geomagnetic storms are possible on 26 Mar due to
-waning effects of a CME that left the Sun on 21 Mar.
+Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
+significant transient or recurrent solar wind features are forecast.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
-above S-scale storm level thresholds.
+below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Mar 26-Mar 28 2024
+Solar Radiation Storm Forecast for Mar 27-Mar 29 2024
 
-              Mar 26  Mar 27  Mar 28
-S1 or greater   50%     50%     25%
+              Mar 27  Mar 28  Mar 29
+S1 or greater   30%     30%     30%
 
 Rationale: There is a chance for S1 (Minor) or greater solar radiation
-storms on 26-28 Mar, primarily due to the flare potential from Region
-3615.
+storms over the next three days due primarily to the flare potential of
+Region 3615.
 
 C. NOAA Radio Blackout Activity and Forecast
 
 Radio blackouts reaching the R1 levels were observed over the past 24
-hours. The largest was at Mar 25 2024 0644 UTC.
+hours. The largest was at Mar 26 2024 1330 UTC.
 
-Radio Blackout Forecast for Mar 26-Mar 28 2024
+Radio Blackout Forecast for Mar 27-Mar 29 2024
 
-              Mar 26        Mar 27        Mar 28
-R1-R2           85%           85%           85%
+              Mar 27        Mar 28        Mar 29
+R1-R2           75%           75%           75%
 R3 or greater   25%           25%           25%
 
-Rationale: R1-R2 (Minor-Moderate) radio blackouts are expected on 26-28
-Mar due to the flare potential from Region 3615.
+Rationale: R1-R2 (Minor-Moderate) are expected over the next three days
+due primarily to the flare potential of Region 3615.
 
 ```
