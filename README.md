@@ -1,13 +1,12 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2024-03-27
+<br />**Date image released:**  2024-03-28
 <br />**This image is owned by:**  
-Joe Hua
-
-<br />**Title of the image:**  The Coma Cluster of Galaxies
-<br />**Description for the image:**  Almost every object in the featured photograph is a galaxy.  The Coma Cluster of Galaxies pictured here is one of the densest clusters known - it contains thousands of galaxies.  Each of these galaxies houses billions of stars - just as our own Milky Way Galaxy does.  Although nearby when compared to most other clusters, light from the Coma Cluster still takes hundreds of millions of years to reach us.  In fact, the Coma Cluster is so big it takes light millions of years just to go from one side to the other.  Most galaxies in Coma and other clusters are ellipticals, while most galaxies outside of clusters are spirals.  The nature of Coma's X-ray emission is still being investigated.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2403/ComaCluster_Hua_960.jpg
+Massimo Di Fusco
+<br />**Title of the image:**  Millions of Stars in Omega Centauri
+<br />**Description for the image:**  Globular star cluster Omega Centauri, also known as NGC 5139, is 15,000 light-years away. The cluster is packed with about 10 million stars much older than the Sun within a volume about 150 light-years in diameter. It's the largest and brightest of 200 or so known globular clusters that roam the halo of our Milky Way galaxy. Though most star clusters consist of stars with the same age and composition, the enigmatic Omega Cen exhibits the presence of different stellar populations with a spread of ages and chemical abundances. In fact, Omega Cen may be the remnant core of a small galaxy merging with the Milky Way. With a yellowish hue, Omega Centauri's red giant stars are easy to pick out in this sharp, color telescopic view.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2403/NGC5139_mdf.png
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -51,27 +50,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Mar 27 0030 UTC
+:Issued: 2024 Mar 28 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Mar 27-Mar 29 2024 is 2.67 (below NOAA
+The greatest expected 3 hr Kp for Mar 28-Mar 30 2024 is 2.67 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Mar 27-Mar 29 2024
+NOAA Kp index breakdown Mar 28-Mar 30 2024
 
-             Mar 27       Mar 28       Mar 29
-00-03UT       2.33         1.67         2.67     
-03-06UT       2.67         1.67         2.00     
-06-09UT       2.33         1.67         2.33     
-09-12UT       1.67         1.33         2.33     
-12-15UT       1.33         1.33         2.33     
-15-18UT       2.00         1.33         2.33     
-18-21UT       2.00         1.33         2.33     
-21-00UT       2.33         1.33         2.67     
+             Mar 28       Mar 29       Mar 30
+00-03UT       1.67         2.67         2.67     
+03-06UT       1.67         2.00         2.33     
+06-09UT       1.67         2.33         2.00     
+09-12UT       1.33         2.33         2.33     
+12-15UT       1.33         2.33         1.33     
+15-18UT       1.33         2.33         1.00     
+18-21UT       1.33         2.33         2.33     
+21-00UT       1.33         2.67         2.33     
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
 significant transient or recurrent solar wind features are forecast.
@@ -81,27 +80,28 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Mar 27-Mar 29 2024
+Solar Radiation Storm Forecast for Mar 28-Mar 30 2024
 
-              Mar 27  Mar 28  Mar 29
-S1 or greater   30%     30%     30%
+              Mar 28  Mar 29  Mar 30
+S1 or greater   30%     30%     10%
 
 Rationale: There is a chance for S1 (Minor) or greater solar radiation
-storms over the next three days due primarily to the flare potential of
-Region 3615.
+storms over the next three days due to the flare potential for Region
+3615.
 
 C. NOAA Radio Blackout Activity and Forecast
 
 Radio blackouts reaching the R1 levels were observed over the past 24
-hours. The largest was at Mar 26 2024 1330 UTC.
+hours. The largest was at Mar 27 2024 0641 UTC.
 
-Radio Blackout Forecast for Mar 27-Mar 29 2024
+Radio Blackout Forecast for Mar 28-Mar 30 2024
 
-              Mar 27        Mar 28        Mar 29
-R1-R2           75%           75%           75%
-R3 or greater   25%           25%           25%
+              Mar 28        Mar 29        Mar 30
+R1-R2           75%           75%           40%
+R3 or greater   25%           25%           10%
 
-Rationale: R1-R2 (Minor-Moderate) are expected over the next three days
-due primarily to the flare potential of Region 3615.
+Rationale: Due to the flare potential of Region 3615, R1-R2
+(Minor-Moderate) radio blackouts are expected, with a chance for R3
+(Strong), over the next three days.
 
 ```
