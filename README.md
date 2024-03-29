@@ -1,12 +1,10 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2024-03-28
-<br />**This image is owned by:**  
-Massimo Di Fusco
-<br />**Title of the image:**  Millions of Stars in Omega Centauri
-<br />**Description for the image:**  Globular star cluster Omega Centauri, also known as NGC 5139, is 15,000 light-years away. The cluster is packed with about 10 million stars much older than the Sun within a volume about 150 light-years in diameter. It's the largest and brightest of 200 or so known globular clusters that roam the halo of our Milky Way galaxy. Though most star clusters consist of stars with the same age and composition, the enigmatic Omega Cen exhibits the presence of different stellar populations with a spread of ages and chemical abundances. In fact, Omega Cen may be the remnant core of a small galaxy merging with the Milky Way. With a yellowish hue, Omega Centauri's red giant stars are easy to pick out in this sharp, color telescopic view.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2403/NGC5139_mdf.png
+<br />**Date image released:**  2024-03-29
+<br />**Title of the image:**  Galileo's Europa
+<br />**Description for the image:**  Looping through the Jovian system in the late 1990s, the Galileo spacecraft recorded stunning views of Europa and uncovered evidence that the moon's icy surface likely hides a deep, global ocean. Galileo's Europa image data has been remastered here, with improved calibrations to produce a color image approximating what the human eye might see. Europa's long curving fractures hint at the subsurface liquid water.  The tidal flexing the large moon experiences in its elliptical orbit around Jupiter supplies the energy to keep the ocean liquid. But more tantalizing is the possibility that even in the absence of sunlight that process could also supply the energy to support life, making Europa one of the best places to look for life beyond Earth. The Juno spacecraft currently in Jovian orbit has also made repeated flybys of the water world, returning images along with data exploring Europa's habitability. This October will see the launch of the NASA's Europa Clipper on a voyage of exploration. The spacecraft will make nearly 50 flybys, approaching to within 25 kilometers of Europa's icy surface.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2403/PIA19048europa.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -50,27 +48,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Mar 28 0030 UTC
+:Issued: 2024 Mar 29 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Mar 28-Mar 30 2024 is 2.67 (below NOAA
+The greatest expected 3 hr Kp for Mar 29-Mar 31 2024 is 3.00 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Mar 28-Mar 30 2024
+NOAA Kp index breakdown Mar 29-Mar 31 2024
 
-             Mar 28       Mar 29       Mar 30
-00-03UT       1.67         2.67         2.67     
-03-06UT       1.67         2.00         2.33     
-06-09UT       1.67         2.33         2.00     
-09-12UT       1.33         2.33         2.33     
-12-15UT       1.33         2.33         1.33     
-15-18UT       1.33         2.33         1.00     
-18-21UT       1.33         2.33         2.33     
-21-00UT       1.33         2.67         2.33     
+             Mar 29       Mar 30       Mar 31
+00-03UT       2.33         3.00         2.00     
+03-06UT       2.00         2.00         2.00     
+06-09UT       2.00         3.00         3.00     
+09-12UT       2.00         2.00         2.00     
+12-15UT       2.00         1.00         3.00     
+15-18UT       2.00         1.00         3.00     
+18-21UT       2.00         2.00         2.00     
+21-00UT       2.33         2.00         2.00     
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
 significant transient or recurrent solar wind features are forecast.
@@ -80,28 +78,30 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Mar 28-Mar 30 2024
+Solar Radiation Storm Forecast for Mar 29-Mar 31 2024
 
-              Mar 28  Mar 29  Mar 30
-S1 or greater   30%     30%     10%
+              Mar 29  Mar 30  Mar 31
+S1 or greater   30%     10%      5%
 
 Rationale: There is a chance for S1 (Minor) or greater solar radiation
-storms over the next three days due to the flare potential for Region
-3615.
+storms on 29 Mar due to the flare potential for Region 3615.
+Probabilities decrease for 30 and 31 Mar as Region 3615 rotates beyond
+the western limb.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-Radio blackouts reaching the R1 levels were observed over the past 24
-hours. The largest was at Mar 27 2024 0641 UTC.
+Radio blackouts reaching the R3 levels were observed over the past 24
+hours. The largest was at Mar 28 2024 2056 UTC.
 
-Radio Blackout Forecast for Mar 28-Mar 30 2024
+Radio Blackout Forecast for Mar 29-Mar 31 2024
 
-              Mar 28        Mar 29        Mar 30
-R1-R2           75%           75%           40%
-R3 or greater   25%           25%           10%
+              Mar 29        Mar 30        Mar 31
+R1-R2           75%           75%            5%
+R3 or greater   25%           25%            1%
 
 Rationale: Due to the flare potential of Region 3615, R1-R2
 (Minor-Moderate) radio blackouts are expected, with a chance for R3
-(Strong), over the next three days.
+(Strong), over the next two days. Probabilities decrease for 31 Mar as
+Region 3615 rotates beyond the western limb.
 
 ```
