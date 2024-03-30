@@ -1,10 +1,13 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2024-03-29
-<br />**Title of the image:**  Galileo's Europa
-<br />**Description for the image:**  Looping through the Jovian system in the late 1990s, the Galileo spacecraft recorded stunning views of Europa and uncovered evidence that the moon's icy surface likely hides a deep, global ocean. Galileo's Europa image data has been remastered here, with improved calibrations to produce a color image approximating what the human eye might see. Europa's long curving fractures hint at the subsurface liquid water.  The tidal flexing the large moon experiences in its elliptical orbit around Jupiter supplies the energy to keep the ocean liquid. But more tantalizing is the possibility that even in the absence of sunlight that process could also supply the energy to support life, making Europa one of the best places to look for life beyond Earth. The Juno spacecraft currently in Jovian orbit has also made repeated flybys of the water world, returning images along with data exploring Europa's habitability. This October will see the launch of the NASA's Europa Clipper on a voyage of exploration. The spacecraft will make nearly 50 flybys, approaching to within 25 kilometers of Europa's icy surface.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2403/PIA19048europa.jpg
+<br />**Date image released:**  2024-03-30
+<br />**This image is owned by:**  Library of Melk Abbey, Frag. 229
+
+
+<br />**Title of the image:**  Medieval Astronomy from Melk Abbey
+<br />**Description for the image:**  Discovered by accident, this manuscript page provides graphical insight to astronomy in medieval times, before the Renaissance and the influence of Nicolaus Copernicus, Tycho de Brahe, Johannes Kepler, and Galileo. The intriguing page is from lecture notes on astronomy compiled by the monk Magister Wolfgang de Styria before the year 1490. The top panels clearly illustrate the necessary geometry for a lunar (left) and solar eclipse in the Earth-centered Ptolemaic system. At lower left is a diagram of the Ptolemaic view of the Solar System with text at the upper right to explain the movement of the planets according to Ptolemy's geocentric model. At the lower right is a chart to calculate the date of Easter Sunday in the Julian calendar. The illustrated manuscript page was found at historic Melk Abbey in Austria.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2403/medieval_fragment50p.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -48,27 +51,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Mar 29 0030 UTC
+:Issued: 2024 Mar 30 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Mar 29-Mar 31 2024 is 3.00 (below NOAA
+The greatest expected 3 hr Kp for Mar 30-Apr 01 2024 is 3.00 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Mar 29-Mar 31 2024
+NOAA Kp index breakdown Mar 30-Apr 01 2024
 
-             Mar 29       Mar 30       Mar 31
-00-03UT       2.33         3.00         2.00     
+             Mar 30       Mar 31       Apr 01
+00-03UT       3.00         2.00         2.67     
 03-06UT       2.00         2.00         2.00     
-06-09UT       2.00         3.00         3.00     
-09-12UT       2.00         2.00         2.00     
-12-15UT       2.00         1.00         3.00     
-15-18UT       2.00         1.00         3.00     
-18-21UT       2.00         2.00         2.00     
-21-00UT       2.33         2.00         2.00     
+06-09UT       3.00         3.00         2.33     
+09-12UT       2.00         2.00         2.33     
+12-15UT       1.00         3.00         2.33     
+15-18UT       1.00         3.00         2.33     
+18-21UT       2.00         2.00         2.33     
+21-00UT       2.00         2.00         2.67     
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
 significant transient or recurrent solar wind features are forecast.
@@ -78,30 +81,29 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Mar 29-Mar 31 2024
+Solar Radiation Storm Forecast for Mar 30-Apr 01 2024
 
-              Mar 29  Mar 30  Mar 31
-S1 or greater   30%     10%      5%
+              Mar 30  Mar 31  Apr 01
+S1 or greater   15%     10%      5%
 
-Rationale: There is a chance for S1 (Minor) or greater solar radiation
-storms on 29 Mar due to the flare potential for Region 3615.
-Probabilities decrease for 30 and 31 Mar as Region 3615 rotates beyond
-the western limb.
+Rationale: There is a slight chance for S1 (Minor) or greater solar
+radiation storms on 30-31 Mar due to the flare potential for Region
+3615.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-Radio blackouts reaching the R3 levels were observed over the past 24
-hours. The largest was at Mar 28 2024 2056 UTC.
+Radio blackouts reaching the R1 levels were observed over the past 24
+hours. The largest was at Mar 29 2024 0230 UTC.
 
-Radio Blackout Forecast for Mar 29-Mar 31 2024
+Radio Blackout Forecast for Mar 30-Apr 01 2024
 
-              Mar 29        Mar 30        Mar 31
+              Mar 30        Mar 31        Apr 01
 R1-R2           75%           75%            5%
 R3 or greater   25%           25%            1%
 
 Rationale: Due to the flare potential of Region 3615, R1-R2
 (Minor-Moderate) radio blackouts are expected, with a chance for R3
-(Strong), over the next two days. Probabilities decrease for 31 Mar as
+(Strong), over the next two days. Probabilities decrease for 01 Apr as
 Region 3615 rotates beyond the western limb.
 
 ```
