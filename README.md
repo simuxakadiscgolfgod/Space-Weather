@@ -1,18 +1,10 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2024-03-31
-<br />**This image is owned by:**  
-Petr Horálek
-(ESO
-Photo Ambassador,
-Inst. of Physics in Opava) ;
- Acknowledgement: 
-Xavier Jubier
-
-<br />**Title of the image:**  Total Solar Eclipse Below the Bottom of the World
-<br />**Description for the image:**  In late 2021 there was a total solar eclipse visible only at the end of the Earth.  To capture the unusual phenomenon, airplanes took flight below the clouded seascape of Southern Ocean. The featured image shows one relatively spectacular capture where the bright spot is the outer corona of the Sun and the eclipsing Moon is seen as the dark spot in the center.  A wing and engine of the airplane are visible across the left and bottom of the image, while another airplane observing the eclipse is visible on the far left. The dark area of the sky surrounding the eclipsed Sun is called a shadow cone. It is dark because you are looking down a long corridor of air shadowed by the Moon. A careful inspection of the eclipsed Sun will reveal the planet Mercury just to the right. You won't have to travel to the end of the Earth to see the next total solar eclipse. The total eclipse path will cross North America on 2024 April 8, just over one week from today.   NASA Coverage: Total Solar Eclipse of 2024 April 8
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2403/EclipseAntarctica_Horalek_1500.jpg
+<br />**Date image released:**  2024-04-01
+<br />**Title of the image:**  Swirling Magnetic Field around Our Galaxy's Central Black Hole
+<br />**Description for the image:**  What's happening to the big black hole in the center of our galaxy?  It is sucking in matter from a swirling disk -- a disk that is magnetized, it has now been confirmed. Specifically, the black hole's accretion disk has recently been seen to emit polarized light, radiation frequently associated with a magnetized source. Pictured here is a close-up of Sgr A*, our Galaxy's central black hole, taken by radio telescopes around the world participating in the Event Horizon Telescope (EHT) Collaboration.  Superposed are illustrative curved lines indicating polarized light likely emitted from swirling magnetized gas that will soon fall into the 4+ million mass central black hole.  The central part of this image is likely dark because little light-emitting gas is visible between us and the dark event horizon of the black hole.  Continued EHT monitoring of this and M87's central black hole may yield new clues about the gravity of black holes and how infalling matter creates disks and jets.    NASA Predicts:  Moon to Get in Way of Sun
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2404/SagAstarB_EHT_2000.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -56,27 +48,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Mar 31 0030 UTC
+:Issued: 2024 Apr 01 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Mar 31-Apr 02 2024 is 3.00 (below NOAA
+The greatest expected 3 hr Kp for Apr 01-Apr 03 2024 is 3.00 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Mar 31-Apr 02 2024
+NOAA Kp index breakdown Apr 01-Apr 03 2024
 
-             Mar 31       Apr 01       Apr 02
-00-03UT       2.00         2.67         2.33     
-03-06UT       2.00         2.00         3.00     
-06-09UT       3.00         2.33         2.33     
-09-12UT       2.00         2.33         2.00     
-12-15UT       3.00         2.33         1.67     
-15-18UT       3.00         2.33         1.33     
-18-21UT       2.00         2.33         2.00     
-21-00UT       2.00         2.67         2.00     
+             Apr 01       Apr 02       Apr 03
+00-03UT       2.67         2.33         3.00     
+03-06UT       3.00         3.00         2.00     
+06-09UT       2.33         2.33         2.00     
+09-12UT       2.00         2.00         2.67     
+12-15UT       2.33         1.67         2.67     
+15-18UT       2.33         1.33         2.67     
+18-21UT       2.33         2.00         2.67     
+21-00UT       2.67         2.00         3.00     
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
 significant transient or recurrent solar wind features are forecast.
@@ -86,28 +78,26 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Mar 31-Apr 02 2024
+Solar Radiation Storm Forecast for Apr 01-Apr 03 2024
 
-              Mar 31  Apr 01  Apr 02
-S1 or greater   10%      5%      5%
+              Apr 01  Apr 02  Apr 03
+S1 or greater    5%      5%      5%
 
-Rationale: There is a slight chance for S1 (Minor) or greater solar
-radiation storms on 31 Mar due to the flare potential for Region 3615.
+Rationale: No S1 (Minor) or greater solar radiation storms are expected.
+No significant active region activity favorable for radiation storm
+production is forecast.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-Radio blackouts reaching the R2 levels were observed over the past 24
-hours. The largest was at Mar 30 2024 2116 UTC.
+No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Mar 31-Apr 02 2024
+Radio Blackout Forecast for Apr 01-Apr 03 2024
 
-              Mar 31        Apr 01        Apr 02
-R1-R2           65%            1%            1%
-R3 or greater   15%            1%            1%
+              Apr 01        Apr 02        Apr 03
+R1-R2           10%           10%           10%
+R3 or greater    1%            1%            1%
 
-Rationale: Due to the flare potential of Region 3615, R1-R2
-(Minor-Moderate) radio blackouts are likely, with a chance for R3
-(Strong), over 31 Mar. Probabilities decrease for 01-02 Apr as
-Region 3615 rotates beyond the western limb.
+Rationale: A slight chance for R1 (Minor) or greater radio blackouts are
+expected on 01-03 April.
 
 ```
