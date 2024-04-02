@@ -1,10 +1,13 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2024-04-01
-<br />**Title of the image:**  Swirling Magnetic Field around Our Galaxy's Central Black Hole
-<br />**Description for the image:**  What's happening to the big black hole in the center of our galaxy?  It is sucking in matter from a swirling disk -- a disk that is magnetized, it has now been confirmed. Specifically, the black hole's accretion disk has recently been seen to emit polarized light, radiation frequently associated with a magnetized source. Pictured here is a close-up of Sgr A*, our Galaxy's central black hole, taken by radio telescopes around the world participating in the Event Horizon Telescope (EHT) Collaboration.  Superposed are illustrative curved lines indicating polarized light likely emitted from swirling magnetized gas that will soon fall into the 4+ million mass central black hole.  The central part of this image is likely dark because little light-emitting gas is visible between us and the dark event horizon of the black hole.  Continued EHT monitoring of this and M87's central black hole may yield new clues about the gravity of black holes and how infalling matter creates disks and jets.    NASA Predicts:  Moon to Get in Way of Sun
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2404/SagAstarB_EHT_2000.jpg
+<br />**Date image released:**  2024-04-02
+<br />**This image is owned by:**  
+Phil Hart
+
+<br />**Title of the image:**  Detailed View of a Solar Eclipse Corona
+<br />**Description for the image:**  Only in the fleeting darkness of a total solar eclipse is the light of the solar corona easily visible. Normally overwhelmed by the bright solar disk, the expansive corona, the sun's outer atmosphere, is an alluring sight. But the subtle details and extreme ranges in the corona's brightness, although discernible to the eye, are notoriously difficult to photograph. Pictured here, however, using multiple images and digital processing, is a detailed image of the Sun's corona taken during the April 20, 2023 total solar eclipse from Exmouth, Australia. Clearly visible are intricate layers and glowing caustics of an ever changing mixture of hot gas and magnetic fields. Bright looping prominences appear pink just around the Sun's limb. A similar solar corona might be visible through clear skies in a narrow swath across the North America during the total solar eclipse that occurs just six days from today  NASA Coverage: Total Solar Eclipse of 2024 April 8
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2404/CoronaExmouth_Hart_1920.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -48,40 +51,40 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Apr 01 0030 UTC
+:Issued: 2024 Apr 02 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Apr 01-Apr 03 2024 is 3.00 (below NOAA
-Scale levels).
+The greatest expected 3 hr Kp for Apr 02-Apr 04 2024 is 4.67 (NOAA Scale
+G1).
 
-NOAA Kp index breakdown Apr 01-Apr 03 2024
+NOAA Kp index breakdown Apr 02-Apr 04 2024
 
-             Apr 01       Apr 02       Apr 03
-00-03UT       2.67         2.33         3.00     
-03-06UT       3.00         3.00         2.00     
-06-09UT       2.33         2.33         2.00     
-09-12UT       2.00         2.00         2.67     
-12-15UT       2.33         1.67         2.67     
-15-18UT       2.33         1.33         2.67     
-18-21UT       2.33         2.00         2.67     
-21-00UT       2.67         2.00         3.00     
+             Apr 02       Apr 03       Apr 04
+00-03UT       2.33         3.00         4.00     
+03-06UT       3.00         2.00         3.67     
+06-09UT       2.33         2.00         2.67     
+09-12UT       2.00         2.00         2.33     
+12-15UT       1.67         2.33         2.33     
+15-18UT       1.33         2.33         2.67     
+18-21UT       2.00         2.67         3.00     
+21-00UT       2.00         4.00         4.67 (G1)
 
-Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
-significant transient or recurrent solar wind features are forecast.
+Rationale: G1 (Minor) geomagnetic storming is likely on 04 Apr under
+negative polarity CH HSS influence.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Apr 01-Apr 03 2024
+Solar Radiation Storm Forecast for Apr 02-Apr 04 2024
 
-              Apr 01  Apr 02  Apr 03
-S1 or greater    5%      5%      5%
+              Apr 02  Apr 03  Apr 04
+S1 or greater    1%      1%      1%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
 No significant active region activity favorable for radiation storm
@@ -89,15 +92,16 @@ production is forecast.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-No radio blackouts were observed over the past 24 hours.
+Radio blackouts reaching the R1 levels were observed over the past 24
+hours. The largest was at Apr 01 2024 0132 UTC.
 
-Radio Blackout Forecast for Apr 01-Apr 03 2024
+Radio Blackout Forecast for Apr 02-Apr 04 2024
 
-              Apr 01        Apr 02        Apr 03
-R1-R2           10%           10%           10%
+              Apr 02        Apr 03        Apr 04
+R1-R2           20%           20%           20%
 R3 or greater    1%            1%            1%
 
-Rationale: A slight chance for R1 (Minor) or greater radio blackouts are
-expected on 01-03 April.
+Rationale: No R1 (Minor) or greater radio blackouts are expected.  No
+significant active region flare activity is forecast.
 
 ```
