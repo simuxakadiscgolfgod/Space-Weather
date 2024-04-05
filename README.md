@@ -1,11 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2024-04-04
-<br />**This image is owned by:**  Dan Bartlett
-<br />**Title of the image:**  Comet Pons-Brooks at Night
-<br />**Description for the image:**  In dark evening skies over June Lake, northern hemisphere, planet Earth, Comet 12P/Pons-Brooks stood just above the western horizon on March 30. Its twisted turbulent ion tail and diffuse greenish coma are captured in this two degree wide telescopic field of view along with bright yellowish star Hamal also known as Alpha Arietis. Now Pons-Brooks has moved out of the northern night though, approaching perihelion on April 21. On April 8 you might still spot the comet in daytime skies. But to do it, you will have to stand in the path of totality and look away from the spectacle of an alluring solar corona and totally eclipsed Sun.   NASA Coverage: Total Solar Eclipse of 2024 April 8
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2404/12P_Pons_Brooks_2024_03_30_JuneLake_DEBartlett.jpg
+<br />**Date image released:**  2024-04-05
+<br />**This image is owned by:**  Barden Ridge Observatory
+<br />**Title of the image:**  The Solar Corona Unwrapped
+<br />**Description for the image:**  Changes in the alluring solar corona are detailed in this creative composite image mapping the dynamic outer atmosphere of the Sun during two separate total solar eclipses. Unwrapped from the complete circle of the eclipsed Sun's edge to a rectangle and mirrored, the entire solar corona is shown during the 2017 eclipse (bottom) seen from Jackson Hole, Wyoming, and the 2023 eclipse from Exmouth, Western Australia. While the 2017 eclipse was near a minimum in the Sun's 11 year activity cycle, the 2023 eclipse was closer to solar maximum. The 2023 solar corona hints at the dramatically different character of the active Sun, with many streamers and pinkish prominences arising along the solar limb. Of course, the solar corona is only easily visible to the eye while standing in the shadow of the Moon.   NASA Coverage: Total Solar Eclipse of 2024 April 8
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2404/CoronaGraph.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,39 +49,39 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Apr 04 0030 UTC
+:Issued: 2024 Apr 05 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Apr 04-Apr 06 2024 is 4.67 (NOAA Scale
+The greatest expected 3 hr Kp for Apr 05-Apr 07 2024 is 4.67 (NOAA Scale
 G1).
 
-NOAA Kp index breakdown Apr 04-Apr 06 2024
+NOAA Kp index breakdown Apr 05-Apr 07 2024
 
-             Apr 04       Apr 05       Apr 06
-00-03UT       1.33         4.67 (G1)    3.00     
-03-06UT       1.67         3.67         2.00     
-06-09UT       2.00         3.00         2.00     
-09-12UT       2.00         3.00         1.67     
-12-15UT       2.33         2.33         1.67     
-15-18UT       2.67         2.33         1.67     
-18-21UT       4.67 (G1)    3.00         2.67     
-21-00UT       4.00         3.33         2.00     
+             Apr 05       Apr 06       Apr 07
+00-03UT       3.33         3.00         1.67     
+03-06UT       3.67         2.67         1.33     
+06-09UT       2.67         2.33         1.33     
+09-12UT       3.00         2.67         1.33     
+12-15UT       4.67 (G1)    1.33         1.33     
+15-18UT       3.67         1.67         1.33     
+18-21UT       3.33         2.67         1.67     
+21-00UT       3.00         2.00         1.67     
 
-Rationale: G1 (Minor) geomagnetic storms are likely on 04-05 Apr due to
-CH HSS influences.
+Rationale: G1 (Minor) geomagnetic storms are likely on 05 Apr due to CH
+HSS influences.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Apr 04-Apr 06 2024
+Solar Radiation Storm Forecast for Apr 05-Apr 07 2024
 
-              Apr 04  Apr 05  Apr 06
+              Apr 05  Apr 06  Apr 07
 S1 or greater    1%      1%      1%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -92,13 +92,13 @@ C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Apr 04-Apr 06 2024
+Radio Blackout Forecast for Apr 05-Apr 07 2024
 
-              Apr 04        Apr 05        Apr 06
-R1-R2           10%           10%           10%
+              Apr 05        Apr 06        Apr 07
+R1-R2            5%            5%            5%
 R3 or greater    1%            1%            1%
 
-Rationale: There is a slight chance for R1-R2 (Minor-Moderate) radio
-blackouts all three days.
+Rationale: No R1 (Minor) or greater radio blackouts are expected.  No
+significant active region flare activity is forecast.
 
 ```
