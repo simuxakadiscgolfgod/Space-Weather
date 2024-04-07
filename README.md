@@ -1,11 +1,13 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2024-04-06
-<br />**This image is owned by:**  Hubble Heritage Project
-<br />**Title of the image:**  Unwinding M51
-<br />**Description for the image:**  The arms of a grand design spiral galaxy 60,000 light-years across are unwound in this digital transformation of the magnificent 2005 Hubble Space Telescope portrait of M51. In fact, M51 is one of the original spiral nebulae, its winding arms described by a mathematical curve known as a logarithmic spiral, a spiral whose separation grows in a geometric way with increasing distance from the center. Applying logarithms to shift the pixel coordinates in the Hubble image relative to the center of M51 maps the galaxy's spiral arms into diagonal straight lines. The transformed image dramatically shows the arms themselves are traced by star formation, lined with pinkish starforming regions and young blue star clusters. Companion galaxy NGC 5195 (top) seems to alter the track of the arm in front of it though, and itself remains relatively unaffected by this unwinding of M51. Also known as the spira mirabilis, logarthimic spirals can be found in nature on all scales. For example, logarithmic spirals can also describe hurricanes, the tracks of subatomic particles in a bubble chamber and, of course, cauliflower.   NASA Coverage: Total Solar Eclipse of 2024 April 8
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2404/M51Unwound.jpg
+<br />**Date image released:**  2024-04-07
+<br />**This image is owned by:**  
+Ben Cooper
+
+<br />**Title of the image:**  A Total Solar Eclipse over Wyoming
+<br />**Description for the image:**  Will the sky be clear enough to see the eclipse? This question is already on the minds of many North Americans hoping to see tomorrow's solar eclipse.  This question was also on the mind of many people attempting to see the total solar eclipse that crossed North America in August 2017.  Then, the path of total darkness shot across the mainland of the USA from coast to coast, from Oregon to South Carolina -- but, like tomorrow's event, a partial eclipse occurred above most of North America.  Unfortunately, in 2017, many locations saw predominantly clouds. One location that did not was a bank of the Green River Lakes, Wyoming.  Intermittent clouds were far enough away to allow the center image of the featured composite sequence to be taken, an image that shows the corona of the Sun extending out past the central dark Moon that blocks our familiar Sun. The surrounding images show the partial phases of the solar eclipse both before and after totality.   NASA Coverage: Tomorrow's Total Solar Eclipse
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2404/EclipseWyoming_Cooper_960.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,27 +51,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Apr 06 0030 UTC
+:Issued: 2024 Apr 07 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Apr 06-Apr 08 2024 is 3.00 (below NOAA
+The greatest expected 3 hr Kp for Apr 07-Apr 09 2024 is 4.00 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Apr 06-Apr 08 2024
+NOAA Kp index breakdown Apr 07-Apr 09 2024
 
-             Apr 06       Apr 07       Apr 08
-00-03UT       3.00         1.67         1.67     
-03-06UT       2.67         1.33         1.33     
-06-09UT       2.33         1.33         1.33     
-09-12UT       2.67         1.33         1.33     
-12-15UT       1.33         1.33         1.33     
-15-18UT       1.67         1.33         1.33     
-18-21UT       2.67         1.67         1.67     
-21-00UT       2.00         1.67         1.67     
+             Apr 07       Apr 08       Apr 09
+00-03UT       1.67         1.67         3.33     
+03-06UT       1.33         1.33         4.00     
+06-09UT       1.33         1.33         3.33     
+09-12UT       1.33         1.33         2.67     
+12-15UT       1.33         1.33         2.33     
+15-18UT       1.33         1.33         2.00     
+18-21UT       1.67         1.67         2.33     
+21-00UT       1.67         1.67         3.33     
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
 significant transient or recurrent solar wind features are forecast.
@@ -79,9 +81,9 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Apr 06-Apr 08 2024
+Solar Radiation Storm Forecast for Apr 07-Apr 09 2024
 
-              Apr 06  Apr 07  Apr 08
+              Apr 07  Apr 08  Apr 09
 S1 or greater    1%      1%      1%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -92,9 +94,9 @@ C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Apr 06-Apr 08 2024
+Radio Blackout Forecast for Apr 07-Apr 09 2024
 
-              Apr 06        Apr 07        Apr 08
+              Apr 07        Apr 08        Apr 09
 R1-R2            5%            5%            5%
 R3 or greater    1%            1%            1%
 
