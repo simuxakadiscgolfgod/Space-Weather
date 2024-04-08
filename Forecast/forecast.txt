@@ -1,26 +1,26 @@
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Apr 07 0030 UTC
+:Issued: 2024 Apr 08 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Apr 07-Apr 09 2024 is 4.00 (below NOAA
+The greatest expected 3 hr Kp for Apr 08-Apr 10 2024 is 3.67 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Apr 07-Apr 09 2024
+NOAA Kp index breakdown Apr 08-Apr 10 2024
 
-             Apr 07       Apr 08       Apr 09
-00-03UT       1.67         1.67         3.33     
-03-06UT       1.33         1.33         4.00     
-06-09UT       1.33         1.33         3.33     
-09-12UT       1.33         1.33         2.67     
-12-15UT       1.33         1.33         2.33     
-15-18UT       1.33         1.33         2.00     
-18-21UT       1.67         1.67         2.33     
-21-00UT       1.67         1.67         3.33     
+             Apr 08       Apr 09       Apr 10
+00-03UT       1.67         2.67         3.00     
+03-06UT       1.33         2.00         3.67     
+06-09UT       1.33         3.00         2.33     
+09-12UT       1.33         2.67         2.00     
+12-15UT       1.33         2.33         2.00     
+15-18UT       1.33         2.33         2.00     
+18-21UT       1.67         2.67         3.00     
+21-00UT       1.67         3.67         3.00     
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
 significant transient or recurrent solar wind features are forecast.
@@ -30,9 +30,9 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Apr 07-Apr 09 2024
+Solar Radiation Storm Forecast for Apr 08-Apr 10 2024
 
-              Apr 07  Apr 08  Apr 09
+              Apr 08  Apr 09  Apr 10
 S1 or greater    1%      1%      1%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -43,10 +43,10 @@ C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Apr 07-Apr 09 2024
+Radio Blackout Forecast for Apr 08-Apr 10 2024
 
-              Apr 07        Apr 08        Apr 09
-R1-R2            5%            5%            5%
+              Apr 08        Apr 09        Apr 10
+R1-R2            5%           10%           10%
 R3 or greater    1%            1%            1%
 
 Rationale: No R1 (Minor) or greater radio blackouts are expected.  No
