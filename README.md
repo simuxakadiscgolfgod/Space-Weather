@@ -1,13 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2024-04-08
-<br />**This image is owned by:**  
-Shengyu Li & Shaining
-
-<br />**Title of the image:**  The Changing Ion Tail of Comet Pons-Brooks
-<br />**Description for the image:**  How does a comet tail change? It depends on the comet.  The ion tail of Comet 12P/Pons–Brooks has been changing markedly, as detailed in the featured image sequenced over nine days from March 6 to 14 (top to bottom).  On some days, the comet's ion tail was relatively long and complex, but not every day.  Reasons for tail changes include the rate of ejection of material from the comet's nucleus, the strength and complexity of the passing solar wind, and the rotation rate of the comet.  Over the course of a week, apparent changes even include a change of perspective from the Earth. In general, a comet's ion tail will point away from the Sun, as gas expelled is pushed out by the Sun's wind. Today, Pons-Brooks may become a rare comet suddenly visible in the middle of the day for those able to see the Sun totally eclipsed by the Moon.   NASA Coverage: Today's Total Solar Eclipse  Total Eclipse Imagery: Notable Submissions to APOD
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2404/Comet12pTails_ShengyuLi_3000.jpg
+<br />**Date image released:**  2024-04-09
+<br />**This image is owned by:**  Stan Honda
+<br />**Title of the image:**  Moon's Shadow over Lake Magog
+<br />**Description for the image:**  Captured in this snapshot, the shadow of the Moon came to Lake Magog, Quebec, North America, planet Earth on April 8. For the lakeside eclipse chasers, the much anticipated total solar eclipse was spectacle to behold in briefly dark, but clear skies. Of course Lake Magog was one of the last places to be visited by the Moon's shadow. The narrow path of totality for the 2024 total solar eclipse swept from Mexico's Pacific Coast north and eastward through the US and Cananda. But a partial eclipse was visible across the entire North American continent.   Total Eclipse Imagery: Notable Submissions to APOD
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2404/StanHonda2024TSEMagogCanada.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -51,27 +49,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Apr 08 0030 UTC
+:Issued: 2024 Apr 09 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Apr 08-Apr 10 2024 is 3.67 (below NOAA
+The greatest expected 3 hr Kp for Apr 09-Apr 11 2024 is 3.67 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Apr 08-Apr 10 2024
+NOAA Kp index breakdown Apr 09-Apr 11 2024
 
-             Apr 08       Apr 09       Apr 10
-00-03UT       1.67         2.67         3.00     
-03-06UT       1.33         2.00         3.67     
-06-09UT       1.33         3.00         2.33     
-09-12UT       1.33         2.67         2.00     
-12-15UT       1.33         2.33         2.00     
-15-18UT       1.33         2.33         2.00     
-18-21UT       1.67         2.67         3.00     
-21-00UT       1.67         3.67         3.00     
+             Apr 09       Apr 10       Apr 11
+00-03UT       2.67         3.00         2.67     
+03-06UT       2.00         3.67         2.33     
+06-09UT       3.00         2.33         2.33     
+09-12UT       2.67         2.00         2.00     
+12-15UT       2.33         2.00         1.33     
+15-18UT       2.33         2.00         1.67     
+18-21UT       2.67         3.00         2.00     
+21-00UT       3.67         3.00         2.33     
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
 significant transient or recurrent solar wind features are forecast.
@@ -81,9 +79,9 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Apr 08-Apr 10 2024
+Solar Radiation Storm Forecast for Apr 09-Apr 11 2024
 
-              Apr 08  Apr 09  Apr 10
+              Apr 09  Apr 10  Apr 11
 S1 or greater    1%      1%      1%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -94,11 +92,11 @@ C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Apr 08-Apr 10 2024
+Radio Blackout Forecast for Apr 09-Apr 11 2024
 
-              Apr 08        Apr 09        Apr 10
-R1-R2            5%           10%           10%
-R3 or greater    1%            1%            1%
+              Apr 09        Apr 10        Apr 11
+R1-R2           10%           10%           40%
+R3 or greater    1%            1%           10%
 
 Rationale: No R1 (Minor) or greater radio blackouts are expected.  No
 significant active region flare activity is forecast.
