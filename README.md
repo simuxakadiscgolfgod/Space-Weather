@@ -1,11 +1,10 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2024-04-09
-<br />**This image is owned by:**  Stan Honda
-<br />**Title of the image:**  Moon's Shadow over Lake Magog
-<br />**Description for the image:**  Captured in this snapshot, the shadow of the Moon came to Lake Magog, Quebec, North America, planet Earth on April 8. For the lakeside eclipse chasers, the much anticipated total solar eclipse was spectacle to behold in briefly dark, but clear skies. Of course Lake Magog was one of the last places to be visited by the Moon's shadow. The narrow path of totality for the 2024 total solar eclipse swept from Mexico's Pacific Coast north and eastward through the US and Cananda. But a partial eclipse was visible across the entire North American continent.   Total Eclipse Imagery: Notable Submissions to APOD
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2404/StanHonda2024TSEMagogCanada.jpg
+<br />**Date image released:**  2024-04-10
+<br />**Title of the image:**  Planets Around a Total Eclipse
+<br />**Description for the image:**  What wonders appear when the Moon blocks the Sun? For many eager observers of Monday’s total eclipse of the Sun, the suddenly dark sky included the expected corona and two (perhaps surprise) planets: Venus and Jupiter. Normally, in recent days, Venus is visible only in the morning when the Sun and Jupiter are below the horizon, while Jupiter appears bright only in the evening.  On Monday, though, for well-placed observers, both planets became easily visible during the day right in line with the totally eclipsed Sun. This line was captured Monday afternoon in the featured image from Mount Nebo, Arkansas, USA, along with a line of curious observers — and a picturesque tree.   Monday's Eclipse Imagery: Notable Submissions to APOD
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2404/EclipsePlanets_Vetter_1014.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,27 +48,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Apr 09 0030 UTC
+:Issued: 2024 Apr 10 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Apr 09-Apr 11 2024 is 3.67 (below NOAA
+The greatest expected 3 hr Kp for Apr 10-Apr 12 2024 is 3.67 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Apr 09-Apr 11 2024
+NOAA Kp index breakdown Apr 10-Apr 12 2024
 
-             Apr 09       Apr 10       Apr 11
-00-03UT       2.67         3.00         2.67     
-03-06UT       2.00         3.67         2.33     
-06-09UT       3.00         2.33         2.33     
-09-12UT       2.67         2.00         2.00     
-12-15UT       2.33         2.00         1.33     
-15-18UT       2.33         2.00         1.67     
-18-21UT       2.67         3.00         2.00     
-21-00UT       3.67         3.00         2.33     
+             Apr 10       Apr 11       Apr 12
+00-03UT       3.00         2.67         1.67     
+03-06UT       3.67         2.33         1.33     
+06-09UT       2.33         2.33         1.33     
+09-12UT       2.00         2.00         1.33     
+12-15UT       2.00         1.33         1.33     
+15-18UT       2.00         1.67         1.33     
+18-21UT       3.00         2.00         1.67     
+21-00UT       3.00         2.33         1.67     
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
 significant transient or recurrent solar wind features are forecast.
@@ -79,9 +78,9 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Apr 09-Apr 11 2024
+Solar Radiation Storm Forecast for Apr 10-Apr 12 2024
 
-              Apr 09  Apr 10  Apr 11
+              Apr 10  Apr 11  Apr 12
 S1 or greater    1%      1%      1%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -92,11 +91,11 @@ C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Apr 09-Apr 11 2024
+Radio Blackout Forecast for Apr 10-Apr 12 2024
 
-              Apr 09        Apr 10        Apr 11
-R1-R2           10%           10%           40%
-R3 or greater    1%            1%           10%
+              Apr 10        Apr 11        Apr 12
+R1-R2           10%           25%           25%
+R3 or greater    1%            5%            5%
 
 Rationale: No R1 (Minor) or greater radio blackouts are expected.  No
 significant active region flare activity is forecast.
