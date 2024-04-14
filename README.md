@@ -1,11 +1,7 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2024-04-13
-<br />**This image is owned by:**  Lori Haffelt
-<br />**Title of the image:**  Palm Tree Partial Eclipse
-<br />**Description for the image:**  Only those along the narrow track of the Moon's shadow on April 8 saw a total solar eclipse. But most of North America still saw a partial eclipse of the Sun. From Clearwater, Florida, USA this single snapshot captured multiple images of that more widely viewed celestial event without observing the Sun directly. In the shade of a palm tree, criss-crossing fronds are projecting recognizable eclipse images on the ground, pinhole camera style.  In Clearwater the maximum eclipse phase was about 53 percent.   Solar Eclipse Imagery: Notable Submissions to APOD
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2404/pinholepalm.png
+<br />**Sorry, Image not available!**
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,39 +45,39 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Apr 13 0030 UTC
+:Issued: 2024 Apr 14 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Apr 13-Apr 15 2024 is 4.67 (NOAA Scale
+The greatest expected 3 hr Kp for Apr 14-Apr 16 2024 is 4.67 (NOAA Scale
 G1).
 
-NOAA Kp index breakdown Apr 13-Apr 15 2024
+NOAA Kp index breakdown Apr 14-Apr 16 2024
 
-             Apr 13       Apr 14       Apr 15
-00-03UT       2.33         1.67         4.00     
-03-06UT       1.67         1.67         3.67     
-06-09UT       2.00         4.00         3.33     
-09-12UT       1.67         3.00         3.00     
-12-15UT       2.00         3.00         3.00     
-15-18UT       2.33         4.00         2.33     
-18-21UT       2.33         4.67 (G1)    2.00     
-21-00UT       2.67         4.00         2.33     
+             Apr 14       Apr 15       Apr 16
+00-03UT       1.67         4.67 (G1)    3.00     
+03-06UT       1.67         4.00         3.00     
+06-09UT       4.00         3.67         2.33     
+09-12UT       3.00         3.33         2.00     
+12-15UT       3.00         2.33         1.33     
+15-18UT       4.00         2.00         1.00     
+18-21UT       4.67 (G1)    2.33         1.33     
+21-00UT       4.00         2.67         2.00     
 
-Rationale: Isolated periods of G1 (Minor) geomagnetic storms are likely
-on 14 Apr due to a combination of CME and CH HSS influences.
+Rationale: Periods of G1 (Minor) geomagnetic storms are likely on 14-15
+Apr due to CME and CH HSS influences.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Apr 13-Apr 15 2024
+Solar Radiation Storm Forecast for Apr 14-Apr 16 2024
 
-              Apr 13  Apr 14  Apr 15
+              Apr 14  Apr 15  Apr 16
 S1 or greater    1%      1%      1%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -90,15 +86,16 @@ production is forecast.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-No radio blackouts were observed over the past 24 hours.
+Radio blackouts reaching the R1 levels were observed over the past 24
+hours. The largest was at Apr 13 2024 0502 UTC.
 
-Radio Blackout Forecast for Apr 13-Apr 15 2024
+Radio Blackout Forecast for Apr 14-Apr 16 2024
 
-              Apr 13        Apr 14        Apr 15
+              Apr 14        Apr 15        Apr 16
 R1-R2           35%           35%           35%
-R3 or greater    1%            1%            1%
+R3 or greater    5%            5%            5%
 
 Rationale: There is a chance for R1-R2 (Minor-Moderate) radio blackouts
-over 13-15 Apr.
+over 14-16 Apr.
 
 ```
