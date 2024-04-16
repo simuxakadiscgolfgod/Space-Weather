@@ -1,11 +1,10 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Sorry, Image not available!**
-<br />**Date image released:**  2024-04-15
-<br />**Title of the image:**  The Cigar Galaxy from Hubble and Webb
-<br />**Description for the image:**  Something strange happened to this galaxy, but what? Known as the Cigar Galaxy and cataloged as M82, red glowing gas and dust are being cast out from the center.  Although this starburst galaxy was surely stirred up by a recent pass near its neighbor, large spiral galaxy M81, this doesn't fully explain the source of the red-glowing outwardly expanding gas and dust.  Evidence indicates that this material is being driven out by the combined emerging particle winds of many stars, together creating a galactic superwind. In the featured images, a Hubble Space Telescope image in visible light is shown on the left, while a James Webb Space Telescope image of the central region in infrared light is shown on the right.  Detailed inspection of the new Webb image shows, unexpectedly, that this red-glowing dust is associated with hot plasma. Research into the nature of this strange nearby galaxy will surely continue.    Total Eclipse Imagery: Notable Submissions to APOD
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2404/M82Center_HubbleWebb_2000.jpg
+<br />**Date image released:**  2024-04-16
+<br />**Title of the image:**  Filaments of the Vela Supernova Remnant
+<br />**Description for the image:**  The explosion is over, but the consequences continue.  About eleven thousand years ago, a star in the constellation of Vela could be seen to explode, creating a strange point of light briefly visible to humans living near the beginning of recorded history.  The outer layers of the star crashed into the interstellar medium, driving a shock wave that is still visible today.  The featured image captures some of that filamentary and gigantic shock in visible light. As gas flies away from the detonated star, it decays and reacts with the interstellar medium, producing light in many different colors and energy bands. Remaining at the center of the Vela Supernova Remnant is a pulsar, a star as dense as nuclear matter that spins around more than ten times in a single second.   Monday's Eclipse Imagery: Notable Submissions to APOD
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2404/VelaSnr_CTIO_3989.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,40 +48,40 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Apr 15 0030 UTC
+:Issued: 2024 Apr 16 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Apr 15-Apr 17 2024 is 5.00 (NOAA Scale
-G1).
+The greatest expected 3 hr Kp for Apr 16-Apr 18 2024 is 4.00 (below NOAA
+Scale levels).
 
-NOAA Kp index breakdown Apr 15-Apr 17 2024
+NOAA Kp index breakdown Apr 16-Apr 18 2024
 
-             Apr 15       Apr 16       Apr 17
-00-03UT       3.00         3.00         1.33     
-03-06UT       3.33         3.00         1.33     
-06-09UT       5.00 (G1)    2.33         1.33     
-09-12UT       4.00         2.00         1.33     
-12-15UT       2.33         1.33         1.67     
-15-18UT       2.00         1.00         1.67     
-18-21UT       2.33         1.33         1.67     
-21-00UT       2.67         2.00         1.33     
+             Apr 16       Apr 17       Apr 18
+00-03UT       3.33         2.00         4.00     
+03-06UT       3.67         2.00         3.67     
+06-09UT       3.33         2.00         4.00     
+09-12UT       3.33         3.00         3.00     
+12-15UT       3.00         3.00         1.67     
+15-18UT       3.33         3.00         2.00     
+18-21UT       3.00         4.00         2.33     
+21-00UT       3.67         4.00         2.00     
 
-Rationale: Isolated periods of G1 (Minor) geomagnetic storms are likely
-on 15 Apr due to CME effects and CH HSS influences.
+Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
+significant transient or recurrent solar wind features are forecast.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Apr 15-Apr 17 2024
+Solar Radiation Storm Forecast for Apr 16-Apr 18 2024
 
-              Apr 15  Apr 16  Apr 17
-S1 or greater    1%      1%      1%
+              Apr 16  Apr 17  Apr 18
+S1 or greater    5%      5%      5%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
 No significant active region activity favorable for radiation storm
@@ -91,15 +90,15 @@ production is forecast.
 C. NOAA Radio Blackout Activity and Forecast
 
 Radio blackouts reaching the R1 levels were observed over the past 24
-hours. The largest was at Apr 14 2024 0232 UTC.
+hours. The largest was at Apr 15 2024 1932 UTC.
 
-Radio Blackout Forecast for Apr 15-Apr 17 2024
+Radio Blackout Forecast for Apr 16-Apr 18 2024
 
-              Apr 15        Apr 16        Apr 17
-R1-R2           45%           45%           45%
+              Apr 16        Apr 17        Apr 18
+R1-R2           60%           60%           60%
 R3 or greater    5%            5%            5%
 
-Rationale: There is a chance for R1-R2 (Minor-Moderate) radio blackouts
-over 15-17 Apr.
+Rationale: R1-R2 (Minor-Moderate) radio blackouts are likely all three
+days.
 
 ```
