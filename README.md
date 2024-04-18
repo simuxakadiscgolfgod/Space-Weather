@@ -1,14 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2024-04-17
-<br />**This image is owned by:**  
-Lin Zixuan
-(Tsinghua U.)
-
-<br />**Title of the image:**  Total Eclipse and Comets
-<br />**Description for the image:**  Not one, but two comets appeared near the Sun during last week's total solar eclipse. The expected comet was Comet 12P/Pons-Brooks, but it was disappointingly dimmer than many had hoped. However, relatively unknown Comet SOHO-5008 also appeared in long duration camera exposures. This comet was the 5008th comet identified on images taken by ESA & NASA's Sun-orbiting SOHO spacecraft.  Likely much smaller, Comet SOHO-5008 was a sungrazer which disintegrated within hours as it passed too near the Sun.  The featured image is not only unusual for capturing two comets during an eclipse, but one of the rare times that a sungrazing comet has been photographed from the Earth's surface. Also visible in the image is the sprawling corona of our Sun and the planets Mercury (left) and Venus (right).  Of these planets and comets, only Venus was easily visible to millions of people in the dark shadow of the Moon that crossed North America on April 8.    Solar Eclipse Imagery: Notable Submissions to APOD
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2404/EclipseComets_Zixuan_6105.jpg
+<br />**Date image released:**  2024-04-18
+<br />**This image is owned by:**  Neil Corke
+<br />**Title of the image:**  Facing NGC 1232
+<br />**Description for the image:**  From our vantage point in the Milky Way Galaxy, we see NGC 1232 face-on. Nearly 200,000 light-years across, the big, beautiful spiral galaxy is located some 47 million light-years away in the flowing southern constellation of Eridanus. This sharp, multi-color, telescopic image of NGC 1232 includes remarkable details of the distant island universe. From the core outward, the galaxy's colors change from the yellowish light of old stars in the center to young blue star clusters and reddish star forming regions along the grand, sweeping spiral arms. NGC 1232's apparent, small, barred-spiral companion galaxy is cataloged as NGC 1232A. Distance estimates place it much farther though, around 300 million light-years away, and unlikely to be interacting with NGC 1232.  Of course, the prominent bright star with the spiky appearance is much closer than NGC 1232 and lies well within our own Milky Way.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2404/NGC1232_Eye_of_God_Galaxy_fullsize_2024-03-28.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -52,60 +49,60 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Apr 17 0030 UTC
+:Issued: 2024 Apr 18 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 5 (NOAA Scale
+The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
+Scale levels).
+The greatest expected 3 hr Kp for Apr 18-Apr 20 2024 is 5.00 (NOAA Scale
 G1).
-The greatest expected 3 hr Kp for Apr 17-Apr 19 2024 is 5.67 (NOAA Scale
-G2).
 
-NOAA Kp index breakdown Apr 17-Apr 19 2024
+NOAA Kp index breakdown Apr 18-Apr 20 2024
 
-             Apr 17       Apr 18       Apr 19
-00-03UT       5.67 (G2)    4.33         3.00     
-03-06UT       4.67 (G1)    3.00         3.00     
-06-09UT       3.67         5.00 (G1)    2.67     
-09-12UT       2.33         4.00         2.33     
-12-15UT       2.33         3.00         2.00     
-15-18UT       2.67         2.67         2.00     
-18-21UT       3.67         1.67         2.00     
-21-00UT       3.67         2.00         2.00     
+             Apr 18       Apr 19       Apr 20
+00-03UT       3.00         3.00         2.67     
+03-06UT       3.00         3.00         2.00     
+06-09UT       5.00 (G1)    2.67         2.00     
+09-12UT       4.00         2.33         2.33     
+12-15UT       3.00         2.00         2.67     
+15-18UT       2.33         2.00         3.00     
+18-21UT       2.33         2.00         2.67     
+21-00UT       3.33         2.00         2.33     
 
-Rationale: G2 (Moderate) geomagnetic storms are expected early on 17 Apr
-due to continued CME influences. G1 (Minor) storm levels are expected on
-18 Apr due to an additional enhancement from CMEs that left the Sun on
-14 and 15 Apr.
+Rationale: G1 (Minor) geomagnetic storms are likely on 18 Apr due to
+possible CME influences.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Apr 17-Apr 19 2024
+Solar Radiation Storm Forecast for Apr 18-Apr 20 2024
 
-              Apr 17  Apr 18  Apr 19
+              Apr 18  Apr 19  Apr 20
 S1 or greater   10%     10%     10%
 
 Rationale: There is a slight chance for S1 (Minor) or greater solar
 radiation storms all three days due to collective potential from
 numerous active regions.
 
+
 C. NOAA Radio Blackout Activity and Forecast
 
 Radio blackouts reaching the R1 levels were observed over the past 24
-hours. The largest was at Apr 16 2024 1802 UTC.
+hours. The largest was at Apr 17 2024 2208 UTC.
 
-Radio Blackout Forecast for Apr 17-Apr 19 2024
+Radio Blackout Forecast for Apr 18-Apr 20 2024
 
-              Apr 17        Apr 18        Apr 19
-R1-R2           60%           60%           60%
+              Apr 18        Apr 19        Apr 20
+R1-R2           65%           65%           65%
 R3 or greater   10%           10%           10%
 
-Rationale: R1-R2 (Minor-Moderate) radio blackouts are likely on all
-three days. There is a slight chance for R3 (Strong) or greater radio
-blackouts all three days. All due to potential from several regions.
+Rationale: R1-R2 (Minor-Moderate) radio blackouts are likely all three
+days. There is a slight chance for R3 (Strong) or greater radio
+blackouts all three days due to the flare potential from several
+regions.
 
 ```
