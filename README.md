@@ -1,11 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2024-04-18
-<br />**This image is owned by:**  Neil Corke
-<br />**Title of the image:**  Facing NGC 1232
-<br />**Description for the image:**  From our vantage point in the Milky Way Galaxy, we see NGC 1232 face-on. Nearly 200,000 light-years across, the big, beautiful spiral galaxy is located some 47 million light-years away in the flowing southern constellation of Eridanus. This sharp, multi-color, telescopic image of NGC 1232 includes remarkable details of the distant island universe. From the core outward, the galaxy's colors change from the yellowish light of old stars in the center to young blue star clusters and reddish star forming regions along the grand, sweeping spiral arms. NGC 1232's apparent, small, barred-spiral companion galaxy is cataloged as NGC 1232A. Distance estimates place it much farther though, around 300 million light-years away, and unlikely to be interacting with NGC 1232.  Of course, the prominent bright star with the spiky appearance is much closer than NGC 1232 and lies well within our own Milky Way.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2404/NGC1232_Eye_of_God_Galaxy_fullsize_2024-03-28.jpg
+<br />**Date image released:**  2024-04-20
+<br />**This image is owned by:**  Wright Dobbs
+<br />**Title of the image:**  Diamonds in the Sky
+<br />**Description for the image:**  When the dark shadow of the Moon raced across North America on April 8, sky watchers along the shadow's narrow central path were treated to a total solar eclipse. During the New Moon's shadow play diamonds glistened twice in the eclipse-darkened skies. The transient celestial jewels appeared immediately before and after the total eclipse phase. That's when the rays of a vanishing and then emerging sliver of solar disk are just visible behind the silhouetted Moon's edge, creating the appearance of a shiny diamond set in a dark ring. This dramatic timelapse composite from north-central Arkansas captures both diamond ring moments of this total solar eclipse. The diamond rings are separated by the ethereal beauty of the solar corona visible during totality.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2404/tse2024Dobbs.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,60 +49,57 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Apr 18 0030 UTC
+:Issued: 2024 Apr 20 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 7 (NOAA Scale
+G3).
+The greatest expected 3 hr Kp for Apr 20-Apr 22 2024 is 3.67 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Apr 18-Apr 20 2024 is 5.00 (NOAA Scale
-G1).
 
-NOAA Kp index breakdown Apr 18-Apr 20 2024
+NOAA Kp index breakdown Apr 20-Apr 22 2024
 
-             Apr 18       Apr 19       Apr 20
-00-03UT       3.00         3.00         2.67     
-03-06UT       3.00         3.00         2.00     
-06-09UT       5.00 (G1)    2.67         2.00     
-09-12UT       4.00         2.33         2.33     
-12-15UT       3.00         2.00         2.67     
-15-18UT       2.33         2.00         3.00     
-18-21UT       2.33         2.00         2.67     
-21-00UT       3.33         2.00         2.33     
+             Apr 20       Apr 21       Apr 22
+00-03UT       2.67         3.00         2.33     
+03-06UT       3.67         3.67         2.67     
+06-09UT       2.67         2.67         2.00     
+09-12UT       2.00         2.67         2.33     
+12-15UT       0.67         2.00         2.00     
+15-18UT       1.67         2.00         1.67     
+18-21UT       2.00         3.00         1.67     
+21-00UT       2.67         2.00         2.33     
 
-Rationale: G1 (Minor) geomagnetic storms are likely on 18 Apr due to
-possible CME influences.
+Rationale: No G1 (Minor) or greater geomagnetic storms are expected. 
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Apr 18-Apr 20 2024
+Solar Radiation Storm Forecast for Apr 20-Apr 22 2024
 
-              Apr 18  Apr 19  Apr 20
-S1 or greater   10%     10%     10%
+              Apr 20  Apr 21  Apr 22
+S1 or greater   20%     20%     20%
 
-Rationale: There is a slight chance for S1 (Minor) or greater solar
-radiation storms all three days due to collective potential from
-numerous active regions.
-
+Rationale: There is a slight chance for S1 (Minor) solar radiation storm
+conditions over 20-22 Apr due to the flare potential of several active
+regions on the visible disk.
 
 C. NOAA Radio Blackout Activity and Forecast
 
 Radio blackouts reaching the R1 levels were observed over the past 24
-hours. The largest was at Apr 17 2024 2208 UTC.
+hours. The largest was at Apr 19 2024 0453 UTC.
 
-Radio Blackout Forecast for Apr 18-Apr 20 2024
+Radio Blackout Forecast for Apr 20-Apr 22 2024
 
-              Apr 18        Apr 19        Apr 20
-R1-R2           65%           65%           65%
-R3 or greater   10%           10%           10%
+              Apr 20        Apr 21        Apr 22
+R1-R2           75%           75%           75%
+R3 or greater   20%           20%           20%
 
-Rationale: R1-R2 (Minor-Moderate) radio blackouts are likely all three
-days. There is a slight chance for R3 (Strong) or greater radio
-blackouts all three days due to the flare potential from several
-regions.
+Rationale: R1-R2 (Minor-Moderate) events are expected, with a slight
+chance for R3 (Strong) or greater events, over 20-22 Apr due to the
+flare potential of several active regions on the visible disk.
 
 ```
