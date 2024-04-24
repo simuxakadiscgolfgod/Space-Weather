@@ -1,13 +1,13 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2024-04-23
+<br />**Date image released:**  2024-04-24
 <br />**This image is owned by:**  
-Fatih Ekmen
+Rowan Prangley
 
-<br />**Title of the image:**  Contrail Shadow X
-<br />**Description for the image:**  What created this giant X in the clouds? It was the shadow of contrails illuminated from below. When airplanes fly, humid engine exhaust may form water droplets that might freeze in Earth's cold upper atmosphere.  These persistent streams of water and ice scatter light from the Sun above and so appear bright from below. On rare occasions, though, when the Sun is near the horizon, contrails can be lit from below.  These contrails cast long shadows upwards, shadows that usually go unseen unless there is a high cloud deck. But that was just the case over Istanbul, Türkiye, earlier this month. Contrails occur all over planet Earth and, generally, warm the Earth when the trap infrared light but cool the Earth when they efficiently reflect sunlight. The image was taken by a surprised photographer in the morning on the way to work.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2404/ContrailX_Ekmen_2268.jpg
+<br />**Title of the image:**  Dragon's Egg Bipolar Emission Nebula
+<br />**Description for the image:**  How did a star form this beautiful nebula?  In the middle of emission nebula NGC 6164 is an unusually massive star.  The central star has been compared to an oyster's pearl and an egg protected by the mythical sky dragons of Ara.  The star, visible in the center of the featured image and catalogued as HD 148937, is so hot that the ultraviolet light it emits heats up gas that surrounds it.  That gas was likely thrown off from the star previously, possibly the result of a gravitational interaction with a looping stellar companion.  Expelled material might have been channeled by the magnetic field of the massive star, in all creating the symmetric shape of the bipolar nebula.  NGC 6164 spans about four light years and is located about 3,600 light years away toward the southern constellation Norma.   New Mirror: APOD now available via WhatsApp
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2404/DragonsEgg_Prangley_4688.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -51,39 +51,39 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Apr 23 0030 UTC
+:Issued: 2024 Apr 24 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Apr 23-Apr 25 2024 is 4.33 (below NOAA
+The greatest expected 3 hr Kp for Apr 24-Apr 26 2024 is 4.33 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Apr 23-Apr 25 2024
+NOAA Kp index breakdown Apr 24-Apr 26 2024
 
-             Apr 23       Apr 24       Apr 25
-00-03UT       2.33         3.00         3.00     
-03-06UT       3.00         2.67         2.67     
-06-09UT       3.67         2.67         3.67     
-09-12UT       3.67         2.00         4.33     
-12-15UT       2.67         2.00         3.67     
-15-18UT       2.67         1.67         3.33     
-18-21UT       2.67         1.67         2.67     
-21-00UT       3.00         2.67         4.33     
+             Apr 24       Apr 25       Apr 26
+00-03UT       3.00         3.00         4.33     
+03-06UT       2.67         2.67         4.00     
+06-09UT       2.67         3.67         3.33     
+09-12UT       2.00         4.33         3.00     
+12-15UT       2.00         3.67         2.67     
+15-18UT       1.67         3.33         2.67     
+18-21UT       1.67         2.67         2.00     
+21-00UT       2.67         4.00         3.33     
 
-Rationale: There is a chance of G1 (Minor) or greater geomagnetic storms
-on 24 Apr (Day 3).
+Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
+significant transient or recurrent solar wind features are forecast.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Apr 23-Apr 25 2024
+Solar Radiation Storm Forecast for Apr 24-Apr 26 2024
 
-              Apr 23  Apr 24  Apr 25
+              Apr 24  Apr 25  Apr 26
 S1 or greater   20%     20%     20%
 
 Rationale: There is a slight chance for S1 (Minor) or greater solar
@@ -92,16 +92,15 @@ radiation storms all three days.
 C. NOAA Radio Blackout Activity and Forecast
 
 Radio blackouts reaching the R1 levels were observed over the past 24
-hours. The largest was at Apr 22 2024 1550 UTC.
+hours. The largest was at Apr 23 2024 0319 UTC.
 
-Radio Blackout Forecast for Apr 23-Apr 25 2024
+Radio Blackout Forecast for Apr 24-Apr 26 2024
 
-              Apr 23        Apr 24        Apr 25
+              Apr 24        Apr 25        Apr 26
 R1-R2           75%           75%           75%
 R3 or greater   20%           20%           20%
 
-Rationale: R1-R2 (Minor-Moderate) or greater radio blackouts are
-expected. There is a slight chance for an R3 (Strong) radio blackouts
-with 20 active regions on the visible disk.
+Rationale: R1-R2 (Minor-Moderate) radio blackouts are expected, with a
+slight chance for R3 (Strong) or greater blackouts all three days.
 
 ```
