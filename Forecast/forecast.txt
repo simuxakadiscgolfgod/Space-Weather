@@ -1,26 +1,26 @@
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Apr 24 0030 UTC
+:Issued: 2024 Apr 25 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Apr 24-Apr 26 2024 is 4.33 (below NOAA
+The greatest expected 3 hr Kp for Apr 25-Apr 27 2024 is 4.33 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Apr 24-Apr 26 2024
+NOAA Kp index breakdown Apr 25-Apr 27 2024
 
-             Apr 24       Apr 25       Apr 26
-00-03UT       3.00         3.00         4.33     
-03-06UT       2.67         2.67         4.00     
-06-09UT       2.67         3.67         3.33     
-09-12UT       2.00         4.33         3.00     
-12-15UT       2.00         3.67         2.67     
-15-18UT       1.67         3.33         2.67     
-18-21UT       1.67         2.67         2.00     
-21-00UT       2.67         4.00         3.33     
+             Apr 25       Apr 26       Apr 27
+00-03UT       3.00         4.33         3.67     
+03-06UT       2.67         4.00         3.33     
+06-09UT       3.67         3.33         2.00     
+09-12UT       4.33         3.00         3.00     
+12-15UT       3.67         2.67         2.67     
+15-18UT       3.33         2.67         3.00     
+18-21UT       2.67         2.00         3.00     
+21-00UT       4.00         3.33         3.33     
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
 significant transient or recurrent solar wind features are forecast.
@@ -30,26 +30,28 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Apr 24-Apr 26 2024
+Solar Radiation Storm Forecast for Apr 25-Apr 27 2024
 
-              Apr 24  Apr 25  Apr 26
-S1 or greater   20%     20%     20%
+              Apr 25  Apr 26  Apr 27
+S1 or greater   15%     15%     15%
 
-Rationale: There is a slight chance for S1 (Minor) or greater solar
-radiation storms all three days.
+Rationale: There is a slight chance of an S1 (Minor) solar radiation
+storm 24-26 Apr due to the favorable location and enhanced flare
+probabilities of a number of spot groups.
 
 C. NOAA Radio Blackout Activity and Forecast
 
 Radio blackouts reaching the R1 levels were observed over the past 24
-hours. The largest was at Apr 23 2024 0319 UTC.
+hours. The largest was at Apr 24 2024 2259 UTC.
 
-Radio Blackout Forecast for Apr 24-Apr 26 2024
+Radio Blackout Forecast for Apr 25-Apr 27 2024
 
-              Apr 24        Apr 25        Apr 26
+              Apr 25        Apr 26        Apr 27
 R1-R2           75%           75%           75%
-R3 or greater   20%           20%           20%
+R3 or greater   15%           15%           15%
 
 Rationale: R1-R2 (Minor-Moderate) radio blackouts are expected, with a
-slight chance for R3 (Strong) or greater blackouts all three days.
+slight chance of an R3 (Strong) event due to the number of sunspots
+present on the solar disk and increased flare probabilities 24-26 Apr.
 
 ```
