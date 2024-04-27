@@ -1,11 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2024-04-26
-<br />**This image is owned by:**  Markus Horn
-<br />**Title of the image:**  Regulus and the Dwarf Galaxy
-<br />**Description for the image:**  In northern hemisphere spring, bright star Regulus is easy to spot above the eastern horizon. The alpha star of the constellation Leo, Regulus is the spiky star centered in this telescopic field of view. A mere 79 light-years distant, Regulus is a hot, rapidly spinning star that is known to be part of a multiple star system. Not quite lost in the glare, the fuzzy patch just below Regulus is diffuse starlight from small galaxy Leo I. Leo I is a dwarf spheroidal galaxy, a member of the Local Group of galaxies dominated by our Milky Way Galaxy and the Andromeda Galaxy (M31). About 800 thousand light-years away, Leo I is thought to be the most distant of the known small satellite galaxies orbiting the Milky Way. But dwarf galaxy Leo I has shown evidence of a supermassive black hole at its center, comparable in mass to the black hole at the center of the Milky Way.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2404/Regulus_Dwarf_by_Markus_Horn2048.png
+<br />**Date image released:**  2024-04-27
+<br />**This image is owned by:**  Tunc Tezel
+<br />**Title of the image:**  All Sky Moon Shadow
+<br />**Description for the image:**  If the Sun is up but the sky is dark and the horizon is bright all around, you might be standing in the Moon's shadow during a total eclipse of the Sun. In fact, the all-sky Moon shadow shown in this composited panoramic view was captured from a farm near Shirley, Arkansas, planet Earth. The exposures were made under clear skies during the April 8 total solar eclipse. For that location near the center line of the Moon's shadow track, totality lasted over 4 minutes. Along with the solar corona surrounding the silhouette of the Moon planets and stars were visible during the total eclipse phase. Easiest to see here are bright planets Venus and Jupiter, to the lower right and upper left of the eclipsed Sun.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2404/20240408h14.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,57 +49,55 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Apr 26 0030 UTC
+:Issued: 2024 Apr 27 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 1 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 5 (NOAA Scale
+G1).
+The greatest expected 3 hr Kp for Apr 27-Apr 29 2024 is 4.00 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Apr 26-Apr 28 2024 is 4.00 (below NOAA
-Scale levels).
 
-NOAA Kp index breakdown Apr 26-Apr 28 2024
+NOAA Kp index breakdown Apr 27-Apr 29 2024
 
-             Apr 26       Apr 27       Apr 28
-00-03UT       3.67         2.67         2.67     
-03-06UT       4.00         3.67         3.00     
-06-09UT       3.33         3.00         3.67     
-09-12UT       3.00         2.67         2.67     
-12-15UT       2.67         2.67         2.67     
-15-18UT       2.00         2.67         2.67     
-18-21UT       2.00         3.00         2.00     
-21-00UT       2.67         3.33         2.00     
+             Apr 27       Apr 28       Apr 29
+00-03UT       3.67         3.67         2.67     
+03-06UT       3.00         3.33         2.00     
+06-09UT       3.00         3.33         2.33     
+09-12UT       4.00         3.00         2.67     
+12-15UT       3.00         3.00         2.33     
+15-18UT       3.00         3.33         2.33     
+18-21UT       3.00         2.00         2.33     
+21-00UT       3.67         2.00         2.33     
 
-Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
-significant transient or recurrent solar wind features are forecast.
+Rationale: No G1 (Minor) or greater geomagnetic storms are expected. 
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Apr 26-Apr 28 2024
+Solar Radiation Storm Forecast for Apr 27-Apr 29 2024
 
-              Apr 26  Apr 27  Apr 28
-S1 or greater   15%     15%     15%
+              Apr 27  Apr 28  Apr 29
+S1 or greater   15%      5%      1%
 
-Rationale: There is a slight chance for S1 (Minor) storms over 26-28 Apr
-due tot he position and flare potential of several active regions in the
-W hemisphere.
+Rationale: There is a slight chance for S1 (Minor) storms on 27 Apr
+due to the location and flare potential of multiple active regions.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-Radio blackouts reaching the R1 levels were observed over the past 24
-hours. The largest was at Apr 25 2024 1712 UTC.
+No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Apr 26-Apr 28 2024
+Radio Blackout Forecast for Apr 27-Apr 29 2024
 
-              Apr 26        Apr 27        Apr 28
-R1-R2           75%           75%           75%
-R3 or greater   15%           15%           15%
+              Apr 27        Apr 28        Apr 29
+R1-R2           75%           55%           35%
+R3 or greater   15%            5%            5%
 
-Rationale: R1-R2 (Minor-Moderate) events are expected, with a slight
-chance for R3 (Strong), over the next three days.
+Rationale: R1-R2 (Minor-Moderate) radio blackouts are expected, with a
+slight chance for an R3 (Strong) event, on 27 Apr. R1-R2 events are
+likely on 28 Apr and there is a chance for R1-R2 events on 29 Apr.
 
 ```
