@@ -1,11 +1,13 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2024-04-27
-<br />**This image is owned by:**  Tunc Tezel
-<br />**Title of the image:**  All Sky Moon Shadow
-<br />**Description for the image:**  If the Sun is up but the sky is dark and the horizon is bright all around, you might be standing in the Moon's shadow during a total eclipse of the Sun. In fact, the all-sky Moon shadow shown in this composited panoramic view was captured from a farm near Shirley, Arkansas, planet Earth. The exposures were made under clear skies during the April 8 total solar eclipse. For that location near the center line of the Moon's shadow track, totality lasted over 4 minutes. Along with the solar corona surrounding the silhouette of the Moon planets and stars were visible during the total eclipse phase. Easiest to see here are bright planets Venus and Jupiter, to the lower right and upper left of the eclipsed Sun.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2404/20240408h14.jpg
+<br />**Date image released:**  2024-04-28
+<br />**This image is owned by:**  
+Robert Gendler
+
+<br />**Title of the image:**  Rings Around the Ring Nebula
+<br />**Description for the image:**  The Ring Nebula (M57) is more complicated than it appears through a small telescope.  The easily visible central ring is about one light-year across, but this remarkably deep exposure - a collaborative effort combining data from three different large telescopes - explores the looping filaments of glowing gas extending much farther from the nebula's central star. This composite image includes red light emitted by hydrogen as well as visible and infrared light. The Ring Nebula is an elongated planetary nebula, a type of nebula created when a Sun-like star evolves to throw off its outer atmosphere and become a white dwarf star.  The Ring Nebula is about 2,500 light-years away toward the musical constellation Lyra.   Your Sky Surprise: What picture did APOD feature on your birthday? (post 1995)
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2404/M57Ring_HubbleGendler_3000.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,55 +51,56 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Apr 27 0030 UTC
+:Issued: 2024 Apr 28 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 5 (NOAA Scale
-G1).
-The greatest expected 3 hr Kp for Apr 27-Apr 29 2024 is 4.00 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
+Scale levels).
+The greatest expected 3 hr Kp for Apr 28-Apr 30 2024 is 3.67 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Apr 27-Apr 29 2024
+NOAA Kp index breakdown Apr 28-Apr 30 2024
 
-             Apr 27       Apr 28       Apr 29
-00-03UT       3.67         3.67         2.67     
-03-06UT       3.00         3.33         2.00     
-06-09UT       3.00         3.33         2.33     
-09-12UT       4.00         3.00         2.67     
-12-15UT       3.00         3.00         2.33     
-15-18UT       3.00         3.33         2.33     
-18-21UT       3.00         2.00         2.33     
-21-00UT       3.67         2.00         2.33     
+             Apr 28       Apr 29       Apr 30
+00-03UT       3.67         2.67         2.33     
+03-06UT       3.33         2.00         2.67     
+06-09UT       3.33         2.33         2.00     
+09-12UT       3.67         2.67         2.00     
+12-15UT       3.00         2.33         1.67     
+15-18UT       2.67         2.33         1.67     
+18-21UT       2.00         2.33         2.67     
+21-00UT       2.00         2.67         1.67     
 
-Rationale: No G1 (Minor) or greater geomagnetic storms are expected. 
+Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Apr 27-Apr 29 2024
+Solar Radiation Storm Forecast for Apr 28-Apr 30 2024
 
-              Apr 27  Apr 28  Apr 29
-S1 or greater   15%      5%      1%
+              Apr 28  Apr 29  Apr 30
+S1 or greater    5%      5%      5%
 
-Rationale: There is a slight chance for S1 (Minor) storms on 27 Apr
-due to the location and flare potential of multiple active regions.
+Rationale: No S1 (Minor) or greater solar radiation storms are expected.
+No significant active region activity favorable for radiation storm
+production is forecast.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-No radio blackouts were observed over the past 24 hours.
+Radio blackouts reaching the R1 levels were observed over the past 24
+hours. The largest was at Apr 27 2024 1235 UTC.
 
-Radio Blackout Forecast for Apr 27-Apr 29 2024
+Radio Blackout Forecast for Apr 28-Apr 30 2024
 
-              Apr 27        Apr 28        Apr 29
-R1-R2           75%           55%           35%
-R3 or greater   15%            5%            5%
+              Apr 28        Apr 29        Apr 30
+R1-R2           35%           35%           35%
+R3 or greater    5%            5%            5%
 
-Rationale: R1-R2 (Minor-Moderate) radio blackouts are expected, with a
-slight chance for an R3 (Strong) event, on 27 Apr. R1-R2 events are
-likely on 28 Apr and there is a chance for R1-R2 events on 29 Apr.
+Rationale: There is a chance for R1-R2 (Minor-Moderate) radio blackouts
+are expected over the next three days.
 
 ```
