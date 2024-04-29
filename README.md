@@ -1,13 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2024-04-28
-<br />**This image is owned by:**  
-Robert Gendler
-
-<br />**Title of the image:**  Rings Around the Ring Nebula
-<br />**Description for the image:**  The Ring Nebula (M57) is more complicated than it appears through a small telescope.  The easily visible central ring is about one light-year across, but this remarkably deep exposure - a collaborative effort combining data from three different large telescopes - explores the looping filaments of glowing gas extending much farther from the nebula's central star. This composite image includes red light emitted by hydrogen as well as visible and infrared light. The Ring Nebula is an elongated planetary nebula, a type of nebula created when a Sun-like star evolves to throw off its outer atmosphere and become a white dwarf star.  The Ring Nebula is about 2,500 light-years away toward the musical constellation Lyra.   Your Sky Surprise: What picture did APOD feature on your birthday? (post 1995)
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2404/M57Ring_HubbleGendler_3000.jpg
+<br />**Date image released:**  2024-04-29
+<br />**This image is owned by:**  Juan Carlos Casado
+<br />**Title of the image:**  Comet, Planet, Moon
+<br />**Description for the image:**  Three bright objects satisfied seasoned stargazers of the western sky just after sunset earlier this month. The most familiar was the Moon, seen on the upper left in a crescent phase. The rest of the Moon was faintly visible by sunlight first reflected by the Earth. The bright planet Jupiter, the largest planet in the Solar System, is seen to the upper left.  Most unusual was Comet 12P/Pons-Brooks, below the Moon and showing a stubby dust tail on the right but an impressive ion tail extending upwards.  The featured image, a composite of several images taken consecutively at the same location and with the same camera, was taken near the village of Llers, in Spain's Girona province.  Comet Pons-Brooks passed its closest to the Sun last week and is now dimming as it moves into southern skies and returns to the outer Solar System.   Almost Hyperspace: Random APOD Generator
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2404/CometTriple_Casado_2000.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -51,38 +49,38 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Apr 28 0030 UTC
+:Issued: 2024 Apr 29 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Apr 28-Apr 30 2024 is 3.67 (below NOAA
+The greatest expected 3 hr Kp for Apr 29-May 01 2024 is 3.67 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Apr 28-Apr 30 2024
+NOAA Kp index breakdown Apr 29-May 01 2024
 
-             Apr 28       Apr 29       Apr 30
-00-03UT       3.67         2.67         2.33     
-03-06UT       3.33         2.00         2.67     
-06-09UT       3.33         2.33         2.00     
-09-12UT       3.67         2.67         2.00     
-12-15UT       3.00         2.33         1.67     
-15-18UT       2.67         2.33         1.67     
-18-21UT       2.00         2.33         2.67     
-21-00UT       2.00         2.67         1.67     
+             Apr 29       Apr 30       May 01
+00-03UT       2.67         2.33         2.00     
+03-06UT       2.00         2.67         2.67     
+06-09UT       2.33         2.00         3.67     
+09-12UT       2.67         2.00         3.33     
+12-15UT       2.33         1.67         3.00     
+15-18UT       2.33         1.67         2.67     
+18-21UT       2.33         2.67         2.67     
+21-00UT       2.67         1.67         3.67     
 
-Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  
+Rationale: No G1 (Minor) or greater geomagnetic storms are expected. 
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Apr 28-Apr 30 2024
+Solar Radiation Storm Forecast for Apr 29-May 01 2024
 
-              Apr 28  Apr 29  Apr 30
+              Apr 29  Apr 30  May 01
 S1 or greater    5%      5%      5%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -91,16 +89,15 @@ production is forecast.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-Radio blackouts reaching the R1 levels were observed over the past 24
-hours. The largest was at Apr 27 2024 1235 UTC.
+No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Apr 28-Apr 30 2024
+Radio Blackout Forecast for Apr 29-May 01 2024
 
-              Apr 28        Apr 29        Apr 30
+              Apr 29        Apr 30        May 01
 R1-R2           35%           35%           35%
 R3 or greater    5%            5%            5%
 
 Rationale: There is a chance for R1-R2 (Minor-Moderate) radio blackouts
-are expected over the next three days.
+over 29-30 Apr and 01 May.
 
 ```
