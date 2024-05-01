@@ -1,13 +1,14 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2024-04-30
+<br />**Date image released:**  2024-05-01
 <br />**This image is owned by:**  
-Deep Sky Collective
+Roberto Colombari & 
+Mauro Narduzzi
 
-<br />**Title of the image:**  GK Per: Nova and Planetary Nebula
-<br />**Description for the image:**  The star system GK Per is known to be associated with only two of the three nebulas pictured.  At 1500 light years distant, Nova Persei 1901 (GK Persei) was the second closest nova yet recorded. At the very center is a white dwarf star, the surviving core of a former Sun-like star. It is surrounded by the circular Firework nebula, gas that was ejected by a thermonuclear explosion on the white dwarf's surface -- a nova -- as recorded in 1901. The red glowing gas surrounding the Firework nebula is the atmosphere that used to surround the central star. This gas was expelled before the nova and appears as a diffuse planetary nebula.  The faint gray gas running across is interstellar cirrus that seems to be just passing through coincidently. In 1901, GK Per's nova became brighter than Betelgeuse. Similarly, star system T CrB is expected to erupt in a nova later this year, but we don't know exactly when nor how bright it will become.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2404/GKPerWide_DSC_4329.jpg
+<br />**Title of the image:**  IC 1795: The Fishhead Nebula
+<br />**Description for the image:**  To some, this nebula looks like the head of a fish. However, this colorful cosmic portrait really features glowing gas and obscuring dust clouds in IC 1795, a star forming region in the northern constellation Cassiopeia. The nebula's colors were created by adopting the Hubble color palette for mapping narrowband emissions from oxygen, hydrogen, and sulfur atoms to blue, green and red colors, and further blending the data with images of the region recorded through broadband filters. Not far on the sky from the famous Double Star Cluster in Perseus, IC 1795 is itself located next to IC 1805, the Heart Nebula, as part of a complex of star forming regions that lie at the edge of a large molecular cloud. Located just over 6,000 light-years away, the larger star forming complex sprawls along the Perseus spiral arm of our Milky Way Galaxy. At that distance, IC 1795 would span about 70 light-years across.   Open Science: Browse 3,300+ codes in the Astrophysics Source Code Library
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2405/FishheadB_Colombari_2704.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -51,39 +52,39 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Apr 30 0030 UTC
+:Issued: 2024 May 01 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Apr 30-May 02 2024 is 4.00 (below NOAA
-Scale levels).
+The greatest expected 3 hr Kp for May 01-May 03 2024 is 4.67 (NOAA Scale
+G1).
 
-NOAA Kp index breakdown Apr 30-May 02 2024
+NOAA Kp index breakdown May 01-May 03 2024
 
-             Apr 30       May 01       May 02
-00-03UT       2.33         1.67         3.67     
-03-06UT       2.67         2.67         4.00     
-06-09UT       2.00         3.67         3.67     
-09-12UT       2.00         3.33         3.33     
-12-15UT       1.67         3.00         3.00     
-15-18UT       1.67         3.33         2.67     
-18-21UT       2.67         3.67         3.67     
-21-00UT       1.67         4.00         3.67     
+             May 01       May 02       May 03
+00-03UT       4.67 (G1)    3.67         3.67     
+03-06UT       4.00         4.00         3.33     
+06-09UT       3.00         3.67         3.00     
+09-12UT       2.33         3.33         3.33     
+12-15UT       2.67         3.00         3.00     
+15-18UT       2.33         2.67         3.33     
+18-21UT       3.00         3.67         3.33     
+21-00UT       3.33         3.67         3.67     
 
-Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
-significant transient or recurrent solar wind features are forecast.
+Rationale: G1 (Minor) geomagnetic storming is expected during the early
+hours of 01 May due to transient influences.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Apr 30-May 02 2024
+Solar Radiation Storm Forecast for May 01-May 03 2024
 
-              Apr 30  May 01  May 02
+              May 01  May 02  May 03
 S1 or greater    5%      5%      5%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -92,17 +93,16 @@ production is forecast.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-Radio blackouts reaching the R1 levels were observed over the past 24
-hours. The largest was at Apr 29 2024 0111 UTC.
+Radio blackouts reaching the R2 levels were observed over the past 24
+hours. The largest was at Apr 30 2024 2346 UTC.
 
-Radio Blackout Forecast for Apr 30-May 02 2024
+Radio Blackout Forecast for May 01-May 03 2024
 
-              Apr 30        May 01        May 02
-R1-R2           35%           35%           35%
-R3 or greater    5%            5%            5%
+              May 01        May 02        May 03
+R1-R2           55%           45%           35%
+R3 or greater   10%           10%            5%
 
-Rationale: A chance for R1-2 (Minor-Moderate) radio blackouts due to
-M-class flare activity will persist through 02 May mainly due to the
-evolution and recent flare activity exhibited by AR 3654.
+Rationale: R1-2 (Minor-Moderate) radio blackouts due to M-class flare
+activity primarily from AR 3654 are likely on 01 May.
 
 ```
