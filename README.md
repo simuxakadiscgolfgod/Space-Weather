@@ -1,14 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2024-05-01
-<br />**This image is owned by:**  
-Roberto Colombari & 
-Mauro Narduzzi
-
-<br />**Title of the image:**  IC 1795: The Fishhead Nebula
-<br />**Description for the image:**  To some, this nebula looks like the head of a fish. However, this colorful cosmic portrait really features glowing gas and obscuring dust clouds in IC 1795, a star forming region in the northern constellation Cassiopeia. The nebula's colors were created by adopting the Hubble color palette for mapping narrowband emissions from oxygen, hydrogen, and sulfur atoms to blue, green and red colors, and further blending the data with images of the region recorded through broadband filters. Not far on the sky from the famous Double Star Cluster in Perseus, IC 1795 is itself located next to IC 1805, the Heart Nebula, as part of a complex of star forming regions that lie at the edge of a large molecular cloud. Located just over 6,000 light-years away, the larger star forming complex sprawls along the Perseus spiral arm of our Milky Way Galaxy. At that distance, IC 1795 would span about 70 light-years across.   Open Science: Browse 3,300+ codes in the Astrophysics Source Code Library
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2405/FishheadB_Colombari_2704.jpg
+<br />**Date image released:**  2024-05-02
+<br />**This image is owned by:**  Drew Evans
+<br />**Title of the image:**  M100: A Grand Design Spiral Galaxy
+<br />**Description for the image:**  Majestic on a truly cosmic scale, M100 is appropriately known as a grand design spiral galaxy.  The large galaxy of over 100 billion stars has well-defined spiral arms, similar to our own Milky Way.  One of the brightest members of the Virgo Cluster of galaxies, M100, also known as NGC 4321 is 56 million light-years distant toward the well-groomed constellation Coma Berenices.  In this telescopic image, the face-on grand design spiral shares a nearly 1 degree wide field-of-view with slightly less conspicuous edge-on spiral NGC 4312 (at upper right). The 21 hour long equivalent exposure from a dark sky site near Flagstaff, Arizona, planet Earth, reveals M100's bright blue star clusters and intricate winding dust lanes which are hallmarks of this class of galaxies.  Measurements of variable stars in M100 have played an important role in determining the size and age of the Universe.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2405/M100_DrewEvans.png
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -52,57 +49,59 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 May 01 0030 UTC
+:Issued: 2024 May 02 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for May 01-May 03 2024 is 4.67 (NOAA Scale
-G1).
+The greatest expected 3 hr Kp for May 02-May 04 2024 is 4.33 (below NOAA
+Scale levels).
 
-NOAA Kp index breakdown May 01-May 03 2024
+NOAA Kp index breakdown May 02-May 04 2024
 
-             May 01       May 02       May 03
-00-03UT       4.67 (G1)    3.67         3.67     
-03-06UT       4.00         4.00         3.33     
-06-09UT       3.00         3.67         3.00     
-09-12UT       2.33         3.33         3.33     
-12-15UT       2.67         3.00         3.00     
-15-18UT       2.33         2.67         3.33     
-18-21UT       3.00         3.67         3.33     
-21-00UT       3.33         3.67         3.67     
+             May 02       May 03       May 04
+00-03UT       2.33         3.67         3.33     
+03-06UT       3.33         3.33         2.33     
+06-09UT       2.67         3.00         3.00     
+09-12UT       2.33         3.33         2.67     
+12-15UT       3.00         3.00         2.67     
+15-18UT       3.33         3.33         4.00     
+18-21UT       4.00         3.33         4.33     
+21-00UT       4.33         3.67         4.33     
 
-Rationale: G1 (Minor) geomagnetic storming is expected during the early
-hours of 01 May due to transient influences.
+Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
+significant transient or recurrent solar wind features are forecast.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for May 01-May 03 2024
+Solar Radiation Storm Forecast for May 02-May 04 2024
 
-              May 01  May 02  May 03
-S1 or greater    5%      5%      5%
+              May 02  May 03  May 04
+S1 or greater   10%      5%      5%
 
-Rationale: No S1 (Minor) or greater solar radiation storms are expected.
-No significant active region activity favorable for radiation storm
-production is forecast.
+Rationale: A slight chance for an S1 (Minor) solar radiation storm will
+exist on 02 May given the relatively recent activity from AR 3654 and
+its current location.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-Radio blackouts reaching the R2 levels were observed over the past 24
-hours. The largest was at Apr 30 2024 2346 UTC.
+Radio blackouts reaching the R1 levels were observed over the past 24
+hours. The largest was at May 01 2024 1444 UTC.
 
-Radio Blackout Forecast for May 01-May 03 2024
+Radio Blackout Forecast for May 02-May 04 2024
 
-              May 01        May 02        May 03
-R1-R2           55%           45%           35%
-R3 or greater   10%           10%            5%
+              May 02        May 03        May 04
+R1-R2           55%           40%           30%
+R3 or greater   10%            5%            5%
 
 Rationale: R1-2 (Minor-Moderate) radio blackouts due to M-class flare
-activity primarily from AR 3654 are likely on 01 May.
+activity remain likely on 02 May given the flare histories of ARs 3654
+and 3663. Probabilities decrease to a just a chance 03-04 May as AR 3654
+rotates off the visible disk.
 
 ```
