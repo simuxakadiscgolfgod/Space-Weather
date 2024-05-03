@@ -1,11 +1,10 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2024-05-02
-<br />**This image is owned by:**  Drew Evans
-<br />**Title of the image:**  M100: A Grand Design Spiral Galaxy
-<br />**Description for the image:**  Majestic on a truly cosmic scale, M100 is appropriately known as a grand design spiral galaxy.  The large galaxy of over 100 billion stars has well-defined spiral arms, similar to our own Milky Way.  One of the brightest members of the Virgo Cluster of galaxies, M100, also known as NGC 4321 is 56 million light-years distant toward the well-groomed constellation Coma Berenices.  In this telescopic image, the face-on grand design spiral shares a nearly 1 degree wide field-of-view with slightly less conspicuous edge-on spiral NGC 4312 (at upper right). The 21 hour long equivalent exposure from a dark sky site near Flagstaff, Arizona, planet Earth, reveals M100's bright blue star clusters and intricate winding dust lanes which are hallmarks of this class of galaxies.  Measurements of variable stars in M100 have played an important role in determining the size and age of the Universe.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2405/M100_DrewEvans.png
+<br />**Date image released:**  2024-05-03
+<br />**Title of the image:**  Temperatures on Exoplanet WASP-43b
+<br />**Description for the image:**  A mere 280 light-years from Earth, tidally locked, Jupiter-sized exoplanet WASP-43b orbits its parent star once every 0.8 Earth days. That puts it about 2 million kilometers (less than 1/25th the orbital distance of Mercury) from a small, cool sun. Still, on a dayside always facing its parent star, temperatures approach a torrid 2,500 degrees F as measured at infrared wavelengths by the MIRI instrument on board the James Webb Space Telescope. In this illustration of the hot exoplanet's orbit, Webb measurements also show nightside temperatures remain above 1,000 degrees F. That suggests that strong equatorial winds circulate the dayside atmospheric gases to the nightside before they can completely cool off. Exoplanet WASP-43b is now formally known as Astrolábos, and its K-type parent star has been christened Gnomon. Webb's infrared spectra indicate water vapor is present on the nightside as well as the dayside of the planet, providing information about cloud cover on Astrolábos.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2405/STScI-WASP43b_temperature.png
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,59 +48,59 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 May 02 0030 UTC
+:Issued: 2024 May 03 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
-Scale levels).
-The greatest expected 3 hr Kp for May 02-May 04 2024 is 4.33 (below NOAA
-Scale levels).
+The greatest observed 3 hr Kp over the past 24 hours was 7 (NOAA Scale
+G3).
+The greatest expected 3 hr Kp for May 03-May 05 2024 is 6.67 (NOAA Scale
+G3).
 
-NOAA Kp index breakdown May 02-May 04 2024
+NOAA Kp index breakdown May 03-May 05 2024
 
-             May 02       May 03       May 04
-00-03UT       2.33         3.67         3.33     
-03-06UT       3.33         3.33         2.33     
-06-09UT       2.67         3.00         3.00     
-09-12UT       2.33         3.33         2.67     
-12-15UT       3.00         3.00         2.67     
-15-18UT       3.33         3.33         4.00     
-18-21UT       4.00         3.33         4.33     
-21-00UT       4.33         3.67         4.33     
+             May 03       May 04       May 05
+00-03UT       6.67 (G3)    4.00         3.67     
+03-06UT       5.67 (G2)    2.33         3.33     
+06-09UT       5.67 (G2)    3.00         2.67     
+09-12UT       4.67 (G1)    2.67         2.33     
+12-15UT       3.67         2.67         2.00     
+15-18UT       3.00         2.67         2.00     
+18-21UT       2.33         2.67         2.00     
+21-00UT       2.67         3.67         3.00     
 
-Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
-significant transient or recurrent solar wind features are forecast.
+Rationale: An early, isolated period of G3 (Strong) geomagnetic storming
+is expected on 03 May, with a few periods of G1-2 (Minor-Moderate)
+storming expected thereafter, as lingering CME effects slowly wane.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for May 02-May 04 2024
+Solar Radiation Storm Forecast for May 03-May 05 2024
 
-              May 02  May 03  May 04
-S1 or greater   10%      5%      5%
+              May 03  May 04  May 05
+S1 or greater   15%     15%     10%
 
-Rationale: A slight chance for an S1 (Minor) solar radiation storm will
-exist on 02 May given the relatively recent activity from AR 3654 and
-its current location.
+Rationale: A slight chance for a R1 (Minor) solar radiation storm will
+persist through 05 May as AR 3654 rotates beyond the western limb, and
+AR 3663 continues to show signs of evolution.
 
 C. NOAA Radio Blackout Activity and Forecast
 
 Radio blackouts reaching the R1 levels were observed over the past 24
-hours. The largest was at May 01 2024 1444 UTC.
+hours. The largest was at May 02 2024 2057 UTC.
 
-Radio Blackout Forecast for May 02-May 04 2024
+Radio Blackout Forecast for May 03-May 05 2024
 
-              May 02        May 03        May 04
-R1-R2           55%           40%           30%
-R3 or greater   10%            5%            5%
+              May 03        May 04        May 05
+R1-R2           65%           55%           55%
+R3 or greater   15%           15%           10%
 
-Rationale: R1-2 (Minor-Moderate) radio blackouts due to M-class flare
-activity remain likely on 02 May given the flare histories of ARs 3654
-and 3663. Probabilities decrease to a just a chance 03-04 May as AR 3654
-rotates off the visible disk.
+Rationale: Isolated R1-2 (Minor-Moderate) radio blackouts due to M-class
+flare activity are likely through 05 May primarily due to the potential
+exhibited by ARs 3663 and 64.
 
 ```
