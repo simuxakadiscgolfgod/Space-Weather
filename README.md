@@ -1,10 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2024-05-03
-<br />**Title of the image:**  Temperatures on Exoplanet WASP-43b
-<br />**Description for the image:**  A mere 280 light-years from Earth, tidally locked, Jupiter-sized exoplanet WASP-43b orbits its parent star once every 0.8 Earth days. That puts it about 2 million kilometers (less than 1/25th the orbital distance of Mercury) from a small, cool sun. Still, on a dayside always facing its parent star, temperatures approach a torrid 2,500 degrees F as measured at infrared wavelengths by the MIRI instrument on board the James Webb Space Telescope. In this illustration of the hot exoplanet's orbit, Webb measurements also show nightside temperatures remain above 1,000 degrees F. That suggests that strong equatorial winds circulate the dayside atmospheric gases to the nightside before they can completely cool off. Exoplanet WASP-43b is now formally known as Astrolábos, and its K-type parent star has been christened Gnomon. Webb's infrared spectra indicate water vapor is present on the nightside as well as the dayside of the planet, providing information about cloud cover on Astrolábos.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2405/STScI-WASP43b_temperature.png
+<br />**Date image released:**  2024-05-04
+<br />**This image is owned by:**  Yuri Beletsky
+<br />**Title of the image:**  3 ATs
+<br />**Description for the image:**  Despite their resemblance to R2D2, these three are not the droids you're looking for. Instead, the enclosures house 1.8 meter Auxiliary Telescopes (ATs) at Paranal Observatory in the Atacama Desert region of Chile. The ATs are designed to be used for interferometry, a technique for achieving extremely high resolution observations, in concert with the observatory's 8 meter Very Large Telescope units. A total of four ATs are operational, each fitted with a transporter that moves the telescope along a track allowing different arrays with the large unit telescopes. To work as an interferometer, the light from each telescope is brought to a common focal point by a system of mirrors in underground tunnels. Above these three ATs, the Large and Small Magellanic Clouds are the far, far away satellite galaxies of our own Milky Way. In the clear and otherwise dark southern skies, planet Earth's greenish atmospheric airglow stretches faintly along the horizon.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2405/three_ats_beletsky.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -48,59 +49,59 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 May 03 0030 UTC
+:Issued: 2024 May 04 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 7 (NOAA Scale
-G3).
-The greatest expected 3 hr Kp for May 03-May 05 2024 is 6.67 (NOAA Scale
-G3).
+The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
+Scale levels).
+The greatest expected 3 hr Kp for May 04-May 06 2024 is 5.67 (NOAA Scale
+G2).
 
-NOAA Kp index breakdown May 03-May 05 2024
+NOAA Kp index breakdown May 04-May 06 2024
 
-             May 03       May 04       May 05
-00-03UT       6.67 (G3)    4.00         3.67     
-03-06UT       5.67 (G2)    2.33         3.33     
-06-09UT       5.67 (G2)    3.00         2.67     
-09-12UT       4.67 (G1)    2.67         2.33     
-12-15UT       3.67         2.67         2.00     
-15-18UT       3.00         2.67         2.00     
-18-21UT       2.33         2.67         2.00     
-21-00UT       2.67         3.67         3.00     
+             May 04       May 05       May 06
+00-03UT       3.67         3.67         4.67 (G1)
+03-06UT       3.00         3.33         5.67 (G2)
+06-09UT       2.67         2.67         5.67 (G2)
+09-12UT       2.67         2.33         4.67 (G1)
+12-15UT       1.67         2.00         3.67     
+15-18UT       2.67         3.00         3.67     
+18-21UT       3.67         4.00         2.67     
+21-00UT       3.67         5.00 (G1)    2.67     
 
-Rationale: An early, isolated period of G3 (Strong) geomagnetic storming
-is expected on 03 May, with a few periods of G1-2 (Minor-Moderate)
-storming expected thereafter, as lingering CME effects slowly wane.
+Rationale: G1 (Minor) geomagnetic storming is likely on 05 May followed
+by G1-G2 (Minor-Moderate) on 06 May due to the arrival of a CME from 03
+May.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for May 03-May 05 2024
+Solar Radiation Storm Forecast for May 04-May 06 2024
 
-              May 03  May 04  May 05
-S1 or greater   15%     15%     10%
+              May 04  May 05  May 06
+S1 or greater   15%     15%     15%
 
-Rationale: A slight chance for a R1 (Minor) solar radiation storm will
-persist through 05 May as AR 3654 rotates beyond the western limb, and
-AR 3663 continues to show signs of evolution.
+Rationale: A slight chance for R1 (Minor) solar radiation storms exists,
+primarily due to the flare potential of Region 3663, over the next three
+days.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-Radio blackouts reaching the R1 levels were observed over the past 24
-hours. The largest was at May 02 2024 2057 UTC.
+Radio blackouts reaching the R3 levels were observed over the past 24
+hours. The largest was at May 03 2024 0222 UTC.
 
-Radio Blackout Forecast for May 03-May 05 2024
+Radio Blackout Forecast for May 04-May 06 2024
 
-              May 03        May 04        May 05
-R1-R2           65%           55%           55%
-R3 or greater   15%           15%           10%
+              May 04        May 05        May 06
+R1-R2           75%           75%           75%
+R3 or greater   25%           25%           25%
 
-Rationale: Isolated R1-2 (Minor-Moderate) radio blackouts due to M-class
-flare activity are likely through 05 May primarily due to the potential
-exhibited by ARs 3663 and 64.
+Rationale: R1-R2 (Minor-Moderate) radio blackouts are expected, with a
+chance for R3 (Strong), over the next three days due to the flare
+potential of multiple regions on the visible disk.
 
 ```
