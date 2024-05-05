@@ -1,11 +1,10 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2024-05-04
-<br />**This image is owned by:**  Yuri Beletsky
-<br />**Title of the image:**  3 ATs
-<br />**Description for the image:**  Despite their resemblance to R2D2, these three are not the droids you're looking for. Instead, the enclosures house 1.8 meter Auxiliary Telescopes (ATs) at Paranal Observatory in the Atacama Desert region of Chile. The ATs are designed to be used for interferometry, a technique for achieving extremely high resolution observations, in concert with the observatory's 8 meter Very Large Telescope units. A total of four ATs are operational, each fitted with a transporter that moves the telescope along a track allowing different arrays with the large unit telescopes. To work as an interferometer, the light from each telescope is brought to a common focal point by a system of mirrors in underground tunnels. Above these three ATs, the Large and Small Magellanic Clouds are the far, far away satellite galaxies of our own Milky Way. In the clear and otherwise dark southern skies, planet Earth's greenish atmospheric airglow stretches faintly along the horizon.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2405/three_ats_beletsky.jpg
+<br />**Date image released:**  2024-05-05
+<br />**Title of the image:**  A Black Hole Disrupts a Passing Star
+<br />**Description for the image:**  What happens to a star that goes near a black hole? If the star directly impacts a massive black hole, then the star falls in completely -- and everything vanishes. More likely, though, the star goes close enough to have the black hole's gravity pull away its outer layers, or disrupt, the star. Then, most of the star's gas does not fall into the black hole.  These stellar tidal disruption events can be as bright as a supernova, and an increasing amount of them are being discovered by automated sky surveys. In the featured artist's illustration, a star has just passed a massive black hole and sheds gas that continues to orbit.  The inner edge of a disk of gas and dust surrounding the black hole is heated by the disruption event and may glow long after the star  is gone.    Hole New Worlds: It's Black Hole Week at NASA!
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2405/BhShredder_NASA_3482.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,27 +48,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 May 04 0030 UTC
+:Issued: 2024 May 05 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for May 04-May 06 2024 is 5.67 (NOAA Scale
+The greatest expected 3 hr Kp for May 05-May 07 2024 is 5.67 (NOAA Scale
 G2).
 
-NOAA Kp index breakdown May 04-May 06 2024
+NOAA Kp index breakdown May 05-May 07 2024
 
-             May 04       May 05       May 06
-00-03UT       3.67         3.67         4.67 (G1)
-03-06UT       3.00         3.33         5.67 (G2)
-06-09UT       2.67         2.67         5.67 (G2)
-09-12UT       2.67         2.33         4.67 (G1)
-12-15UT       1.67         2.00         3.67     
-15-18UT       2.67         3.00         3.67     
-18-21UT       3.67         4.00         2.67     
-21-00UT       3.67         5.00 (G1)    2.67     
+             May 05       May 06       May 07
+00-03UT       3.67         4.67 (G1)    2.67     
+03-06UT       3.33         5.67 (G2)    3.00     
+06-09UT       2.67         5.67 (G2)    2.67     
+09-12UT       2.33         4.67 (G1)    1.67     
+12-15UT       2.00         3.67         1.67     
+15-18UT       3.00         3.67         2.67     
+18-21UT       4.00         2.67         3.67     
+21-00UT       5.00 (G1)    2.67         2.67     
 
 Rationale: G1 (Minor) geomagnetic storming is likely on 05 May followed
 by G1-G2 (Minor-Moderate) on 06 May due to the arrival of a CME from 03
@@ -80,23 +79,23 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for May 04-May 06 2024
+Solar Radiation Storm Forecast for May 05-May 07 2024
 
-              May 04  May 05  May 06
+              May 05  May 06  May 07
 S1 or greater   15%     15%     15%
 
-Rationale: A slight chance for R1 (Minor) solar radiation storms exists,
+Rationale: A slight chance for S1 (Minor) solar radiation storms exists,
 primarily due to the flare potential of Region 3663, over the next three
 days.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-Radio blackouts reaching the R3 levels were observed over the past 24
-hours. The largest was at May 03 2024 0222 UTC.
+Radio blackouts reaching the R2 levels were observed over the past 24
+hours. The largest was at May 04 2024 0619 UTC.
 
-Radio Blackout Forecast for May 04-May 06 2024
+Radio Blackout Forecast for May 05-May 07 2024
 
-              May 04        May 05        May 06
+              May 05        May 06        May 07
 R1-R2           75%           75%           75%
 R3 or greater   25%           25%           25%
 
