@@ -2,10 +2,6 @@
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
 <br />**Sorry, Image not available!**
-<br />**Date image released:**  2024-05-07
-<br />**Title of the image:**  Black Hole Accreting with Jet
-<br />**Description for the image:**  What happens when a black hole devours a star?  Many details remain unknown, but observations are providing new clues. In 2014, a powerful explosion was recorded by the ground-based robotic telescopes of the All Sky Automated Survey for SuperNovae (Project ASAS-SN), with followed-up observations by instruments including NASA's Earth-orbiting Swift satellite. Computer modeling of these emissions fit a star being ripped apart by a distant supermassive black hole.  The results of such a collision are portrayed in the featured artistic illustration. The black hole itself is a depicted as a tiny black dot in the center. As matter falls toward the hole, it collides with other matter and heats up. Surrounding the black hole is an accretion disk of hot matter that used to be the star, with a jet emanating from the black hole's spin axis.   Fall towards eternity: It's Black Hole Week at NASA!
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2405/BlackHole_Simonnet_2491.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,27 +45,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 May 07 0030 UTC
+:Issued: 2024 May 08 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 5 (NOAA Scale
-G1).
-The greatest expected 3 hr Kp for May 07-May 09 2024 is 4.00 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
+Scale levels).
+The greatest expected 3 hr Kp for May 08-May 10 2024 is 3.67 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown May 07-May 09 2024
+NOAA Kp index breakdown May 08-May 10 2024
 
-             May 07       May 08       May 09
-00-03UT       2.00         2.33         2.67     
-03-06UT       2.67         2.67         2.67     
-06-09UT       2.33         2.67         2.33     
-09-12UT       1.67         2.00         2.33     
-12-15UT       2.00         2.00         2.33     
-15-18UT       2.67         1.00         2.33     
-18-21UT       3.00         2.00         2.33     
-21-00UT       4.00         2.00         2.00     
+             May 08       May 09       May 10
+00-03UT       2.33         1.67         2.67     
+03-06UT       2.67         2.33         2.33     
+06-09UT       2.67         2.00         2.00     
+09-12UT       2.00         2.67         2.00     
+12-15UT       2.00         3.33         2.00     
+15-18UT       1.00         3.67         2.00     
+18-21UT       2.00         2.67         2.00     
+21-00UT       2.00         2.67         2.00     
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
 significant transient or recurrent solar wind features are forecast.
@@ -79,30 +75,30 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for May 07-May 09 2024
+Solar Radiation Storm Forecast for May 08-May 10 2024
 
-              May 07  May 08  May 09
+              May 08  May 09  May 10
 S1 or greater   25%     25%     25%
 
-Rationale: A chance for a S1 (Minor) solar radiation storm will persist
-through 09 May primarily due to the presence and recent flare history of
-ARs 3663 and 3664.
+Rationale: There is a chance for S1 (Minor) or greater solar radiation
+storms over the next three days primarily due to the potential from ARs
+3663 and 3664.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-Radio blackouts reaching the R3 levels were observed over the past 24
-hours. The largest was at May 06 2024 0635 UTC.
+Radio blackouts reaching the R2 levels were observed over the past 24
+hours. The largest was at May 07 2024 1630 UTC.
 
-Radio Blackout Forecast for May 07-May 09 2024
+Radio Blackout Forecast for May 08-May 10 2024
 
-              May 07        May 08        May 09
+              May 08        May 09        May 10
 R1-R2           90%           90%           90%
 R3 or greater   50%           50%           50%
 
 Rationale: R1-2 (Minor-Moderate) radio blackouts due to M-class flare
-activity are expected through 09 May given the evolution of ARs 3663
-and 3664 as well as their recent flare history. In addition, a high
-chance for an isolated R3 (Strong) radio blackout will persist through
-09 May as well given AR 3663s history of X-class flares.
+activity are expected through the forecast period given the evolution of
+ARs 3663 and 3664 as well as their recent flare history. In addition, a
+high chance for an isolated R3 (Strong) radio blackout will persist as
+well given AR 3663s history of X-class flares.
 
 ```
