@@ -2,10 +2,6 @@
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
 <br />**Sorry, Image not available!**
-<br />**Date image released:**  2024-05-09
-<br />**Title of the image:**  The Galaxy, the Jet, and a Famous Black Hole
-<br />**Description for the image:**  Bright elliptical galaxy Messier 87 (M87) is home to the supermassive black hole captured in 2017 by planet Earth's Event Horizon Telescope in the first ever image of a black hole. Giant of the Virgo galaxy cluster about 55 million light-years away, M87 is rendered in blue hues in this infrared image from the Spitzer Space telescope.  Though M87 appears mostly featureless and cloud-like, the Spitzer image does record details of relativistic jets blasting from the galaxy's central region. Shown in the inset at top right, the jets themselves span thousands of light-years. The brighter jet seen on the right is approaching and close to our line of sight. Opposite, the shock created by the otherwise unseen receding jet lights up a fainter arc of material. Inset at bottom right, the historic black hole image is shown in context at the center of giant galaxy, between the relativistic jets. Completely unresolved in the Spitzer image, the supermassive black hole surrounded by infalling material is the source of enormous energy driving the relativistic jets from the center of active galaxy M87. The Event Horizon Telescope image of M87 has been enhanced to reveal a sharper view of the famous supermassive black hole.   It's inescapable: Black Hole Week at NASA!
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2405/pia23122c-16.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,59 +45,62 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 May 09 0030 UTC
+:Issued: 2024 May 10 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for May 09-May 11 2024 is 5.67 (NOAA Scale
-G2).
+The greatest expected 3 hr Kp for May 10-May 12 2024 is 8.33 (NOAA Scale
+G4).
 
-NOAA Kp index breakdown May 09-May 11 2024
+NOAA Kp index breakdown May 10-May 12 2024
 
-             May 09       May 10       May 11
-00-03UT       1.67         3.33         5.67 (G2)
-03-06UT       2.33         4.00         5.33 (G1)
-06-09UT       2.00         4.00         5.33 (G1)
-09-12UT       2.67         4.33         5.00 (G1)
-12-15UT       3.33         4.33         5.00 (G1)
-15-18UT       3.67         5.00 (G1)    5.00 (G1)
-18-21UT       2.67         5.33 (G1)    4.67 (G1)
-21-00UT       2.67         5.33 (G1)    4.67 (G1)
+             May 10       May 11       May 12
+00-03UT       3.33         5.33 (G1)    4.67 (G1)
+03-06UT       3.67         7.00 (G3)    5.67 (G2)
+06-09UT       3.67         8.33 (G4)    4.67 (G1)
+09-12UT       3.00         6.67 (G3)    4.00     
+12-15UT       2.67         5.67 (G2)    3.67     
+15-18UT       3.67         5.00 (G1)    2.67     
+18-21UT       4.33         4.67 (G1)    2.67     
+21-00UT       5.33 (G1)    4.33         3.67     
 
-Rationale: G1-2 (Minor-Moderate) geomagnetic storming is likely 10-11
-May due to the arrival of CMEs that left the Sun over the course of
-07-08 May.
+Rationale: G1-2 (Minor-Moderate) geomagnetic storming is likely on 10-12
+May due to multiple CMEs from AR 3634 spanning 08-09 May. G3 (Strong) to
+G4 (Severe or greater) geomagnetic storming is likely on 11 May as the
+bulk of the activity is expected to arrive during the early hours of the
+UTC day.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for May 09-May 11 2024
+Solar Radiation Storm Forecast for May 10-May 12 2024
 
-              May 09  May 10  May 11
-S1 or greater   25%     25%     25%
+              May 10  May 11  May 12
+S1 or greater   50%     50%     50%
 
-Rationale: A chance for S1 (Minor) solar radiation storms will persist
-through the forecast period given the observed activity from AR 3664 in
-particular.
+Rationale: A high chance for S1-2 (Minor-Moderate) solar radiation
+storms will persist through the forecast period due to the potential
+exhibited by AR 3634, in tandem with current conditions and expected
+shock arrival enhancements from inbound CMEs.
 
 C. NOAA Radio Blackout Activity and Forecast
 
 Radio blackouts reaching the R3 levels were observed over the past 24
-hours. The largest was at May 08 2024 0141 UTC.
+hours. The largest was at May 09 2024 0913 UTC.
 
-Radio Blackout Forecast for May 09-May 11 2024
+Radio Blackout Forecast for May 10-May 12 2024
 
-              May 09        May 10        May 11
+              May 10        May 11        May 12
 R1-R2           95%           95%           95%
 R3 or greater   60%           60%           60%
 
-Rationale: R3 (Strong) radio blackouts due to X-class flares are likely
-through the forecast period primarily due to the magnetic complexity and
-stature of AR 3634.
+Rationale: R3 (Strong or greater) radio blackouts due to isolated
+X-class flare activity are likely to continue through the forecast
+period primarily due to AR 3634.
 
 ```
