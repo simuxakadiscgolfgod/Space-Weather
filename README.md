@@ -1,16 +1,13 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Sorry, Image not available!**
-<br />**Date image released:**  2024-05-11
+<br />**Date image released:**  2024-05-12
 <br />**This image is owned by:**  
-Franco Fantasia & 
-Guiseppe Conzo 
-(Gruppo Astrofili Palidoro)
+Mariusz Durlej
 
-<br />**Title of the image:**  AR 3664: Giant Sunspot Group
-<br />**Description for the image:**  Right now, one of the largest sunspot groups in recent history is crossing the Sun. Active Region 3664 is not only big -- it's violent, throwing off clouds of particles into the Solar System. Some of these CMEs are already impacting the Earth, and others might follow.  At the extreme, these solar storms could cause some Earth-orbiting satellites to malfunction, the Earth's atmosphere to slightly distort, and electrical power grids to surge. When impacting Earth's upper atmosphere, these particles can produce beautiful auroras, with some auroras already being reported unusually far south.  Pictured here, AR3664 and its dark sunspots were captured yesterday in visible light from Rome, Italy. The AR3664 sunspot group is so large that it is visible just with glasses designed to view last month's total solar eclipse.  This weekend, skygazing enthusiasts will be keenly watching the night skies all over the globe for bright and unusual auroras.   Gallery: Active Region 6443 on the Sun
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2405/SunAr3664_Fantasia_3216.jpg
+<br />**Title of the image:**  Red Aurora over Poland
+<br />**Description for the image:**  Northern lights don't usually reach this far south.  Magnetic chaos in the Sun's huge Active Region 3664, however, produced a surface explosion that sent a burst of electrons, protons, and more massive, charged nuclei into the Solar System. A few days later, that coronal mass ejection (CME) impacted the Earth and triggered auroras that are being reported unusually far from our planet's north and south poles.  The free sky show might not be over -- the sunspot rich AR3664 has ejected even more CMEs that might also impact the Earth tonight or tomorrow. That active region is now near the Sun's edge, though, and will soon be rotating away from the Earth.  Pictured, a red and rayed aurora was captured in a single 6-second exposure from Racibórz, Poland early last night.  The photographer's friend, seeing an aurora for the first time, is visible in the distance also taking images of the beautifully colorful nighttime sky.   Gallery: Global Aurora from Solar Active Region 6443
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2405/AuroraPoland_Durlej_1940.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -54,61 +51,58 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 May 11 0030 UTC
+:Issued: 2024 May 12 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 9 (NOAA Scale
 G5).
-The greatest expected 3 hr Kp for May 11-May 13 2024 is 8.00 (NOAA Scale
-G4).
+The greatest expected 3 hr Kp for May 12-May 14 2024 is 9.00 (NOAA Scale
+G5).
 
-NOAA Kp index breakdown May 11-May 13 2024
+NOAA Kp index breakdown May 12-May 14 2024
 
-             May 11       May 12       May 13
-00-03UT       8.00 (G4)    4.67 (G1)    3.33     
-03-06UT       7.67 (G4)    5.67 (G2)    3.33     
-06-09UT       7.00 (G3)    4.67 (G1)    3.67     
-09-12UT       6.67 (G3)    4.00         3.33     
-12-15UT       6.00 (G2)    3.67         3.33     
-15-18UT       5.67 (G2)    2.67         3.33     
-18-21UT       4.67 (G1)    2.67         3.67     
-21-00UT       4.33         3.67         3.67     
+             May 12       May 13       May 14
+00-03UT       7.67 (G4)    6.00 (G2)    4.67 (G1)
+03-06UT       7.67 (G4)    6.67 (G3)    4.33     
+06-09UT       8.00 (G4)    6.67 (G3)    3.00     
+09-12UT       9.00 (G5)    5.67 (G2)    3.00     
+12-15UT       8.67 (G4)    4.67 (G1)    2.67     
+15-18UT       8.00 (G4)    3.67         2.67     
+18-21UT       7.00 (G3)    3.67         3.00     
+21-00UT       7.00 (G3)    4.00         3.33     
 
-Rationale: G4 (Strong) geomagnetic storming is expected during the first
-half of 11 May, with a chance for early periods of G5 (Extreme) due to
-multiple CME arrivals from events spanning 07-09 May. G1-2
-(Minor-Moderate) geomagnetic storming is likely to then continue, though
-wane, on 12 May.
+Rationale: G5 (Extreme) storm levels are expected on 12 May due to CME
+impacts. G3 (Strong) geomagnetic storming is likely to continue into the
+early hours of 13 May. Isolated G1 (Minor) geomagnetic storming is
+likely on 14 May as conditions from the the previous days wane.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 above S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for May 11-May 13 2024
+Solar Radiation Storm Forecast for May 12-May 14 2024
 
-              May 11  May 12  May 13
-S1 or greater   99%     75%     60%
+              May 12  May 13  May 14
+S1 or greater   99%     99%     60%
 
-Rationale: S1 (Minor) solar radiation storms, currently in progress, are
-expected to continue through 12 May. Another minor event will remain
-likely through 13 May given the history of AR 3664.
+Rationale: S1-2 (Minor-Moderate) solar radiation storms are expected
+through 14 May due to activity originating from AR 3634.
 
 C. NOAA Radio Blackout Activity and Forecast
 
 Radio blackouts reaching the R3 levels were observed over the past 24
-hours. The largest was at May 10 2024 0654 UTC.
+hours. The largest was at May 11 2024 0123 UTC.
 
-Radio Blackout Forecast for May 11-May 13 2024
+Radio Blackout Forecast for May 12-May 14 2024
 
-              May 11        May 12        May 13
+              May 12        May 13        May 14
 R1-R2           95%           95%           95%
 R3 or greater   75%           75%           75%
 
-Rationale: R3 (Strong or greater) radio blackouts due to isolated
-X-class flare activity are expected through 13 May due to the flare
-history of AR 3664.
+Rationale:  R3 (Strong) or greater radio blackouts are expected all
+three day.
 
 ```
