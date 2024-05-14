@@ -1,13 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2024-05-13
-<br />**This image is owned by:**  
-Marco Meniero
-
-<br />**Title of the image:**  AR 3664 on a Setting Sun
-<br />**Description for the image:**  It was larger than the Earth. It was so big you could actually see it on the Sun's surface without magnification. It contained powerful and tangled magnetic fields as well as numerous dark sunspots. Labelled AR 3664, it developed into one of the most energetic areas seen on the Sun in recent years, unleashing a series of explosions that led to a surge of energetic particles striking the Earth, which created beautiful auroras. And might continue.  Although active regions on the Sun like AR 3664 can be quite dangerous, this region's Coronal Mass Ejections have not done, as yet, much damage to Earth-orbiting satellites or Earth-surface electrical grids. Pictured, the enormous active region was captured on the setting Sun a few days ago from  Civitavecchia, Rome, Italy. The composite image includes a very short exposure taken of just the Sun's surface, but mimics what was actually visible.  Finally, AR 3664 is now rotating away from the Earth, although the region may survive long enough to come around again.    Gallery: Earth Aurora from Solar Active Region 6443
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2405/SunAr3664_Menario_1508.jpg
+<br />**Date image released:**  2024-05-14
+<br />**This image is owned by:**  Sergio Eguivar
+<br />**Title of the image:**  The 37 Cluster
+<br />**Description for the image:**  For the mostly harmless denizens of planet Earth, the brighter stars of open cluster NGC 2169 seem to form a cosmic 37. Did you expect 42? From our perspective, the improbable numerical asterism appears solely by chance. It lies at an estimated distance of 3,300 light-years toward the constellation Orion. As far as galactic or open star clusters go, NGC 2169 is a small one, spanning about 7 light-years.  Formed at the same time from the same cloud of dust and gas, the stars of NGC 2169 are only about 11 million years old. Such clusters are expected to disperse over time as they encounter other stars, interstellar clouds, and experience gravitational tides while hitchhiking through the galaxy. Over four billion years ago, our own Sun was likely formed in a similar open cluster of stars.   Gallery: Earth Aurora from Solar Active Region 3664
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2405/NGC2169LRGBQHY183HR.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -51,61 +49,59 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 May 13 0030 UTC
+:Issued: 2024 May 14 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 7 (NOAA Scale
-G3).
-The greatest expected 3 hr Kp for May 13-May 15 2024 is 6.67 (NOAA Scale
-G3).
+The greatest observed 3 hr Kp over the past 24 hours was 6 (NOAA Scale
+G2).
+The greatest expected 3 hr Kp for May 14-May 16 2024 is 5.67 (NOAA Scale
+G2).
 
-NOAA Kp index breakdown May 13-May 15 2024
+NOAA Kp index breakdown May 14-May 16 2024
 
-             May 13       May 14       May 15
-00-03UT       6.67 (G3)    3.67         3.67     
-03-06UT       5.67 (G2)    4.67 (G1)    3.67     
-06-09UT       4.67 (G1)    3.67         2.67     
-09-12UT       4.00         3.00         2.33     
-12-15UT       3.67         2.67         2.33     
-15-18UT       3.00         2.00         1.00     
-18-21UT       3.00         2.00         2.33     
-21-00UT       3.67         3.67         2.67     
+             May 14       May 15       May 16
+00-03UT       3.67         5.00 (G1)    2.33     
+03-06UT       3.33         3.67         2.00     
+06-09UT       2.67         3.00         2.67     
+09-12UT       2.33         2.33         2.33     
+12-15UT       2.33         2.67         2.00     
+15-18UT       4.67 (G1)    2.33         2.67     
+18-21UT       5.67 (G2)    3.00         3.00     
+21-00UT       4.33         3.00         2.33     
 
-Rationale: G3 (Strong) geomagnetic storms are expected on 13 May due to
-ongoing CME activity. Continuing, but weaker CME influences are
-anticipated to decrease responses down to unsettled to G1 (Minor) levels
-on 14 May.
+Rationale: G1-G2 (Minor-Moderate) geomagnetic storms are likely on 14 
+May and G1 conditions are likely on 15 May as CME influence wanes.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 above S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for May 13-May 15 2024
+Solar Radiation Storm Forecast for May 14-May 16 2024
 
-              May 13  May 14  May 15
-S1 or greater   60%     60%      5%
+              May 14  May 15  May 16
+S1 or greater   99%     25%      5%
 
-Rationale: S1 (Minor) or greater solar radiation storms remain likely
-due primarily to the enhanced solar energetic particle environment, and
-favorable location and potential of Region 3664 for future events 13-14
-May.
+Rationale: S1 (Minor) solar radiation storms are expected on 14 May with
+a chance on 15 May due to the eruptive potential from Region 3664.
+
 
 C. NOAA Radio Blackout Activity and Forecast
 
-Radio blackouts reaching the R3 levels were observed over the past 24
-hours. The largest was at May 12 2024 1626 UTC.
+Radio blackouts reaching the R2 levels were observed over the past 24
+hours. The largest was at May 13 2024 0944 UTC.
 
-Radio Blackout Forecast for May 13-May 15 2024
+Radio Blackout Forecast for May 14-May 16 2024
 
-              May 13        May 14        May 15
-R1-R2           95%           95%           15%
-R3 or greater   75%           75%            5%
+              May 14        May 15        May 16
+R1-R2           80%           40%           40%
+R3 or greater   40%           10%           10%
 
-Rationale: R1-R2 (Minor-Moderate) radio blackouts are expected 13-14
-May, with some likelihood of further R3 (Strong) events due primarily to
-the flare potential of Region 3664.
+Rationale: R1-R3 (Minor-Strong) conditions are expected on 14 May due
+to the flare potential of Region 3664. As the region rotates around the
+Suns W limb, R1-R2 (Minor-Moderate) probabilities drop to just a chance
+from the remaining active regions on the Suns visible disk.
 
 ```
