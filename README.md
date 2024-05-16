@@ -1,13 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2024-05-15
-<br />**This image is owned by:**  
-Sebastian Voltmer
-
-<br />**Title of the image:**  AR 3664 at the Sun's Edge
-<br />**Description for the image:**  What did the monster active region that created the recent auroras look like when at the Sun's edge? There, AR 3664 better showed its 3D structure. Pictured, a large multi-pronged solar prominence was captured extending from chaotic sunspot region AR 3664 out into space, just one example of the particle clouds ejected from this violent solar region. The Earth could easily fit under this long-extended prominence.  The featured image was captured two days ago from this constantly changing region. Yesterday, the strongest solar flare in years was expelled (not shown), a blast classified in the upper X-class. Ultraviolet light from that flare quickly hit the Earth's atmosphere and caused shortwave radio blackouts across both North and South America. Although now rotated to be facing slightly away from the Earth, particles from AR 3664 and subsequent coronal mass ejections (CMEs) might still follow curved magnetic field lines across the inner Solar System and create more Earthly auroras.    Gallery: Earth Aurora from Solar Active Region 6443
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2405/AR3664Prom_Voltmer_1728.jpg
+<br />**Date image released:**  2024-05-16
+<br />**This image is owned by:**  Wright Dobbs
+<br />**Title of the image:**  Aurora Georgia
+<br />**Description for the image:**  A familiar sight from Georgia, USA, the Moon sets near the western horizon in this rural night skyscape. Captured on May 10 before local midnight, the image overexposes the Moon's bright waning crescent at left in the frame. A long irrigation rig stretches across farmland about 15 miles north of the city of Bainbridge. Shimmering curtains of aurora shine across the starry sky though, definitely an unfamiliar sight for southern Georgia nights. Last weekend, extreme geomagnetic storms triggered by the recent intense activity from solar active region AR 3664 brought epic displays of aurora, usually seen closer to the poles, to southern Georgia and even lower latitudes on planet Earth. As solar activity ramps up, more storms are possible.   AuroraSaurus: Report your aurora observations
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2405/WrightDobbs_Georgia_Aurora_2.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -51,59 +49,60 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 May 15 0030 UTC
+:Issued: 2024 May 16 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for May 15-May 17 2024 is 5.00 (NOAA Scale
-G1).
+The greatest expected 3 hr Kp for May 16-May 18 2024 is 4.33 (below NOAA
+Scale levels).
 
-NOAA Kp index breakdown May 15-May 17 2024
+NOAA Kp index breakdown May 16-May 18 2024
 
-             May 15       May 16       May 17
-00-03UT       5.00 (G1)    2.33         2.33     
-03-06UT       3.67         2.00         1.33     
-06-09UT       3.00         2.67         1.67     
-09-12UT       2.33         2.33         1.67     
-12-15UT       2.67         2.00         2.33     
-15-18UT       2.33         2.67         2.33     
-18-21UT       2.67         3.00         3.33     
-21-00UT       3.00         2.33         4.33     
+             May 16       May 17       May 18
+00-03UT       3.67         2.33         2.33     
+03-06UT       3.00         1.33         1.67     
+06-09UT       2.67         1.67         2.00     
+09-12UT       2.33         1.67         2.33     
+12-15UT       2.00         2.33         2.33     
+15-18UT       2.33         2.33         2.33     
+18-21UT       2.33         3.33         2.33     
+21-00UT       2.33         4.33         2.33     
 
-Rationale: G1 (Minor) geomagnetic storms are likely on 15 May as CME
-influence wanes.
+Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
+significant transient or recurrent solar wind features are forecast.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 above S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for May 15-May 17 2024
+Solar Radiation Storm Forecast for May 16-May 18 2024
 
-              May 15  May 16  May 17
-S1 or greater   99%     25%     15%
+              May 16  May 17  May 18
+S1 or greater   99%     15%     10%
 
-Rationale: S1 (Minor) solar radiation storms are expected on 15 May
-14 May with a chance on 16 May and a slight chance on 17 May due to the
-eruptive potential from now departed Region 3664.
+Rationale: R1-R2 (Minor-Moderate) conditions are expected on 16 May due
+to the flare potential from now departed Region 3664. Probabilities drop
+to a slight chance on 17-18 May from the remaining active regions on the
+Suns visible disk.
 
 C. NOAA Radio Blackout Activity and Forecast
 
 Radio blackouts reaching the R3 levels were observed over the past 24
-hours. The largest was at May 14 2024 1651 UTC.
+hours. The largest was at May 15 2024 0837 UTC.
 
-Radio Blackout Forecast for May 15-May 17 2024
+Radio Blackout Forecast for May 16-May 18 2024
 
-              May 15        May 16        May 17
-R1-R2           75%           40%           35%
-R3 or greater   40%           15%           10%
+              May 16        May 17        May 18
+R1-R2           75%           40%           40%
+R3 or greater   40%           10%           10%
 
-Rationale: R1-R2 (Minor-Moderate) conditions are expected on 15 May due
+Rationale: R1-R2 (Minor-Moderate) conditions are expected on 16 May due
 to the flare potential from now departed Region 3664. Probabilities drop
-to a chance on 16-17 May from the remaining active regions on the Suns
+to a chance on 17-18 May from the remaining active regions on the Suns
 visible disk.
 
 ```
