@@ -1,11 +1,7 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2024-05-18
-<br />**This image is owned by:**  Chirag Upreti
-<br />**Title of the image:**  North Celestial Aurora
-<br />**Description for the image:**  Graceful star trail arcs reflect planet Earth's daily rotation in this colorful night skyscape. To create the timelapse composite, on May 12 consecutive exposures were recorded with a camera fixed to a tripod on the shores of the Ashokan Reservoir, in the Catskills region of New York, USA. North star Polaris is near the center of the star trail arcs. The broad trail of a waxing crescent Moon is on the left, casting a strong reflection across the reservoir waters. With intense solar activity driving recent geomagnetic storms, the colorful aurora borealis or northern lights, rare to the region, shine under Polaris and the north celestial pole.   AuroraSaurus: Report your aurora observations
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2405/AuroraStartrails_chiragupreti.jpg
+<br />**Sorry, Image not available!**
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,60 +45,57 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 May 18 0030 UTC
+:Issued: 2024 May 19 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 6 (NOAA Scale
-G2).
-The greatest expected 3 hr Kp for May 18-May 20 2024 is 5.67 (NOAA Scale
-G2).
+The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
+Scale levels).
+The greatest expected 3 hr Kp for May 19-May 21 2024 is 4.67 (NOAA Scale
+G1).
 
-NOAA Kp index breakdown May 18-May 20 2024
+NOAA Kp index breakdown May 19-May 21 2024
 
-             May 18       May 19       May 20
-00-03UT       5.67 (G2)    3.33         2.67     
-03-06UT       5.67 (G2)    3.33         2.33     
-06-09UT       4.33         4.00         3.67     
-09-12UT       4.00         4.00         3.00     
-12-15UT       3.00         2.67         3.00     
-15-18UT       1.67         2.33         3.33     
-18-21UT       1.67         2.00         3.33     
-21-00UT       2.33         2.67         2.33     
+             May 19       May 20       May 21
+00-03UT       2.00         3.67         4.00     
+03-06UT       2.33         3.33         3.67     
+06-09UT       2.67         2.33         3.00     
+09-12UT       4.00         2.33         2.67     
+12-15UT       4.00         4.67 (G1)    3.00     
+15-18UT       3.67         4.67 (G1)    2.67     
+18-21UT       3.67         4.00         2.67     
+21-00UT       3.33         4.00         2.67     
 
-Rationale: G2 (Moderate) geomagnetic storms are expected on 18 May due
-to CME effects. No significant transient or recurrent solar wind
-features are forecast for 19-20 May.
+Rationale: G1 (Minor) geomagnetic storms are likely on 20 May due to
+weak CME arrival glancing blow potential.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for May 18-May 20 2024
+Solar Radiation Storm Forecast for May 19-May 21 2024
 
-              May 18  May 19  May 20
-S1 or greater   10%      5%      5%
+              May 19  May 20  May 21
+S1 or greater   10%     10%     10%
 
-Rationale: A slight chance for S1-S2 (Minor-Moderate) conditions exists
-on 18 May due to the flare potential from now departed Region 3664.
-Probabilities drop to a nominal levels on 19-20 May from the remaining
-active regions on the Suns visible disk.
+Rationale: No S1 (Minor) or greater solar radiation storms are expected.
+No significant active region activity favorable for radiation storm
+production is forecast.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-Radio blackouts reaching the R2 levels were observed over the past 24
-hours. The largest was at May 17 2024 2108 UTC.
+No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for May 18-May 20 2024
+Radio Blackout Forecast for May 19-May 21 2024
 
-              May 18        May 19        May 20
-R1-R2           55%           35%           35%
-R3 or greater   25%           10%           10%
+              May 19        May 20        May 21
+R1-R2           55%           55%           55%
+R3 or greater   25%           25%           25%
 
-Rationale: R1-R2 (Minor-Moderate) conditions are likely on 18 May and a
-chance for R3 (Strong) exist 18 May. Conditions decay to a chance for
-R1-R2 conditions and a slight chance for R3 on 19-20 May.
+Rationale: R1-R2 (Minor-Moderate) radio blackouts are likely 19-21 May
+due to the number of active regions present on the visible solar disk
+and total flare probability contributions.
 
 ```
