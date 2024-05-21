@@ -1,15 +1,10 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Sorry, Image not available!**
-<br />**Date image released:**  2024-05-20
-<br />**This image is owned by:**  
-Xuecheng Liu & 
-Yuxuan Liu
-
-<br />**Title of the image:**  Aurora Dome Sky
-<br />**Description for the image:**  It seemed like night, but part of the sky glowed purple.  It was the now famous night of May 10, 2024, when people over much of the world reported beautiful aurora-filled skies. The featured image was captured this night during early morning hours from Arlington, Wisconsin, USA. The panorama is a composite of several 6-second exposures covering two thirds of the visible sky, with north in the center, and processed to heighten the colors and remove electrical wires. The photographer (in the foreground) reported that the aurora appeared to flow from a point overhead but illuminated the sky only toward the north. The aurora's energetic particles originated from CMEs ejected from our Sun over sunspot AR 6443 a few days before. This large active region rotated to the far side of the Sun last week, but may well survive to rotate back toward the Earth next week.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2405/AuroraWisconsin_Liu_6000.jpg
+<br />**Date image released:**  2024-05-21
+<br />**Title of the image:**  CG4: The Globule and the Galaxy
+<br />**Description for the image:**  Can a gas cloud eat a galaxy?  It's not even close.  The "claw" of this odd looking "creature" in the featured photo is a gas cloud known as a cometary globule.  This globule, however, has ruptured.  Cometary globules are typically characterized by dusty heads and elongated tails.  These features cause cometary globules to have visual similarities to comets, but in reality they are very much different.  Globules are frequently the birthplaces of stars, and many show very young stars in their heads. The reason for the rupture in the head of this object is not yet known. The galaxy to the left of the globule is huge, very far in the distance, and only placed near CG4 by chance superposition.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2405/Cg4Galaxy_CtioRector_1476.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -53,57 +48,56 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 May 20 0030 UTC
+:Issued: 2024 May 21 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for May 20-May 22 2024 is 4.67 (NOAA Scale
-G1).
+The greatest expected 3 hr Kp for May 21-May 23 2024 is 4.00 (below NOAA
+Scale levels).
 
-NOAA Kp index breakdown May 20-May 22 2024
+NOAA Kp index breakdown May 21-May 23 2024
 
-             May 20       May 21       May 22
-00-03UT       3.67         4.00         1.67     
-03-06UT       3.33         3.67         1.33     
-06-09UT       2.33         3.00         1.33     
-09-12UT       2.33         2.67         1.33     
-12-15UT       4.67 (G1)    3.00         1.33     
-15-18UT       4.67 (G1)    2.67         1.33     
-18-21UT       4.00         2.67         1.67     
-21-00UT       4.00         2.67         1.67     
+             May 21       May 22       May 23
+00-03UT       4.00         1.67         1.33     
+03-06UT       3.67         1.33         1.33     
+06-09UT       3.00         1.33         1.33     
+09-12UT       2.67         1.33         1.67     
+12-15UT       3.00         1.33         1.33     
+15-18UT       2.67         1.33         1.67     
+18-21UT       2.67         1.67         1.67     
+21-00UT       2.67         1.67         1.33     
 
-Rationale: G1 geomagnetic storms are likely on day 1 (May 20) from a
-brush with a transient solar feature.
+Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
+significant transient or recurrent solar wind features are forecast.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for May 20-May 22 2024
+Solar Radiation Storm Forecast for May 21-May 23 2024
 
-              May 20  May 21  May 22
+              May 21  May 22  May 23
 S1 or greater   10%     10%     10%
 
-Rationale: A slight chance for S1 (Minor) or greater solar radiation
-storms are from Region 3685 is expected through the period.
+Rationale: A slight chance for an S1 (Minor) or greater solar radiation
+storm exists due to the flare potential of Region 3685.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-Radio blackouts reaching the R1 levels were observed over the past 24
-hours. The largest was at May 19 2024 1756 UTC.
+No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for May 20-May 22 2024
+Radio Blackout Forecast for May 21-May 23 2024
 
-              May 20        May 21        May 22
+              May 21        May 22        May 23
 R1-R2           55%           55%           50%
 R3 or greater   10%           10%           10%
 
 Rationale: R1 (Minor) to R2 (Moderate) radio blackouts are likely from
 Region 3685 for days 1-2 of the forecast period, diminishing to a chance
-on day 3 (May 22).
+on day 3 (May 23).
 
 ```
