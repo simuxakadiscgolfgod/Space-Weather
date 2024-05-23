@@ -1,13 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2024-05-22
-<br />**This image is owned by:**  
-Göran Strand
-
-<br />**Title of the image:**  Green Aurora over Sweden
-<br />**Description for the image:**  It was bright and green and stretched across the sky. This striking aurora display was captured in 2016 just outside of Östersund, Sweden. Six photographic fields were merged to create the featured panorama spanning almost 180 degrees.  Particularly striking aspects of this aurora include its sweeping arc-like shape and its stark definition.  Lake Storsjön is seen in the foreground, while several familiar constellations and the star Polaris are visible through the aurora, far in the background.  Coincidently, the aurora appears to avoid the Moon visible on the lower left.  The aurora appeared a day after a large hole opened in the Sun's corona, allowing particularly energetic particles to flow out into the Solar System.  The green color of the aurora is caused by oxygen atoms recombining with ambient electrons high in the Earth's atmosphere.   Your Sky Surprise: What picture did APOD feature on your birthday? (post 1995)
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2405/AuroraSweden_Strand_1500.jpg
+<br />**Date image released:**  2024-05-23
+<br />**This image is owned by:**  Christophe Vergnes
+<br />**Title of the image:**  Unraveling NGC 3169
+<br />**Description for the image:**  Spiral galaxy NGC 3169 looks to be unraveling like a ball of cosmic yarn. It lies some 70 million light-years away, south of bright star Regulus toward the faint constellation Sextans. Wound up spiral arms are pulled out into sweeping tidal tails as NGC 3169 (left) and neighboring NGC 3166 interact gravitationally. Eventually the galaxies will merge into one, a common fate even for bright galaxies in the local universe. Drawn out stellar arcs and plumes are clear indications of the ongoing gravitational interactions across the deep and colorful galaxy group photo. The telescopic frame spans about 20 arc minutes or about 400,000 light-years at the group's estimated distance, and includes smaller, bluish NGC 3165 to the right. NGC 3169 is also known to shine across the spectrum from radio to X-rays, harboring an active galactic nucleus that is the site of a supermassive black hole.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2405/N3169N3166Final.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -51,27 +49,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 May 22 0030 UTC
+:Issued: 2024 May 23 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for May 22-May 24 2024 is 3.67 (below NOAA
+The greatest expected 3 hr Kp for May 23-May 25 2024 is 3.67 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown May 22-May 24 2024
+NOAA Kp index breakdown May 23-May 25 2024
 
-             May 22       May 23       May 24
-00-03UT       2.67         1.67         2.67     
-03-06UT       2.33         2.67         3.67     
-06-09UT       2.33         2.67         3.00     
-09-12UT       2.00         2.33         3.00     
-12-15UT       1.33         1.33         2.67     
-15-18UT       1.67         1.33         2.67     
-18-21UT       1.67         1.67         2.67     
-21-00UT       1.67         1.33         3.00     
+             May 23       May 24       May 25
+00-03UT       1.67         2.67         3.33     
+03-06UT       2.67         3.67         3.33     
+06-09UT       2.67         3.00         3.00     
+09-12UT       2.33         3.00         3.00     
+12-15UT       1.33         2.67         3.00     
+15-18UT       1.33         2.67         1.67     
+18-21UT       1.67         2.67         1.67     
+21-00UT       1.33         3.00         1.67     
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
 significant transient or recurrent solar wind features are forecast.
@@ -81,29 +79,29 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for May 22-May 24 2024
+Solar Radiation Storm Forecast for May 23-May 25 2024
 
-              May 22  May 23  May 24
-S1 or greater   10%     10%     10%
+              May 23  May 24  May 25
+S1 or greater   15%     15%     10%
 
 Rationale: There is a slight chance of an S1 (Minor) solar radiation
 storm due to the slight risk of solar energetic particle events from
-mainly Regions 3683, 3679, and 3685.
+mainly Regions 3679 and 3685.
 
 C. NOAA Radio Blackout Activity and Forecast
 
 Radio blackouts reaching the R1 levels were observed over the past 24
-hours. The largest was at May 21 2024 1931 UTC.
+hours. The largest was at May 22 2024 0404 UTC.
 
-Radio Blackout Forecast for May 22-May 24 2024
+Radio Blackout Forecast for May 23-May 25 2024
 
-              May 22        May 23        May 24
-R1-R2           55%           55%           55%
+              May 23        May 24        May 25
+R1-R2           60%           60%           55%
 R3 or greater   10%           10%           10%
 
-Rationale: Solar activity is likely to be moderate with M-class flare
-activity (R1-R2; Minor-Moderate) probable and a slight chance of X-class
-flares (R3; Strong) 22-24 May due primarily to the combined flare
-probabilities of Regions 3683, 3679, and 3685.
+Rationale: Solar activity is likely to remain moderate (R1-R2;
+Minor-Moderate) 23-25 May, with a slight chance of X-class flares (R3;
+Strong) due primarily to the increasing flare potential of Region 3679
+and continued flare probability of Region 3685.
 
 ```
