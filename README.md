@@ -1,11 +1,10 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2024-05-23
-<br />**This image is owned by:**  Christophe Vergnes
-<br />**Title of the image:**  Unraveling NGC 3169
-<br />**Description for the image:**  Spiral galaxy NGC 3169 looks to be unraveling like a ball of cosmic yarn. It lies some 70 million light-years away, south of bright star Regulus toward the faint constellation Sextans. Wound up spiral arms are pulled out into sweeping tidal tails as NGC 3169 (left) and neighboring NGC 3166 interact gravitationally. Eventually the galaxies will merge into one, a common fate even for bright galaxies in the local universe. Drawn out stellar arcs and plumes are clear indications of the ongoing gravitational interactions across the deep and colorful galaxy group photo. The telescopic frame spans about 20 arc minutes or about 400,000 light-years at the group's estimated distance, and includes smaller, bluish NGC 3165 to the right. NGC 3169 is also known to shine across the spectrum from radio to X-rays, harboring an active galactic nucleus that is the site of a supermassive black hole.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2405/N3169N3166Final.jpg
+<br />**Date image released:**  2024-05-24
+<br />**Title of the image:**  M78 from the Euclid Space Telescope
+<br />**Description for the image:**  Star formation can be messy. To help find out just how messy, ESA's new Sun-orbiting Euclid telescope recently captured the most detailed image ever of the bright star forming region M78. Near the image center, M78 lies at a distance of only about 1,300 light-years away and has a main glowing core that spans about 5 light-years.  The featured image was taken in both visible and infrared light. The purple tint in M78's center is caused by dark dust preferentially reflecting the blue light of hot, young stars.  Complex dust lanes and filaments can be traced through this gorgeous and revealing skyscape. On the upper left is associated star forming region NGC 2071, while a third region of star formation is visible on the lower right.  These nebulas are all part of the vast Orion Molecular Cloud Complex which can be found with even a small telescope just north of Orion's belt.   More Euclid Sky Candy: Recent images released from Euclid
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2405/M78_Euclid_5532.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,27 +48,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 May 23 0030 UTC
+:Issued: 2024 May 24 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for May 23-May 25 2024 is 3.67 (below NOAA
+The greatest expected 3 hr Kp for May 24-May 26 2024 is 4.00 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown May 23-May 25 2024
+NOAA Kp index breakdown May 24-May 26 2024
 
-             May 23       May 24       May 25
-00-03UT       1.67         2.67         3.33     
-03-06UT       2.67         3.67         3.33     
-06-09UT       2.67         3.00         3.00     
-09-12UT       2.33         3.00         3.00     
-12-15UT       1.33         2.67         3.00     
-15-18UT       1.33         2.67         1.67     
-18-21UT       1.67         2.67         1.67     
-21-00UT       1.33         3.00         1.67     
+             May 24       May 25       May 26
+00-03UT       4.00         3.33         1.00     
+03-06UT       3.67         3.33         2.00     
+06-09UT       3.00         3.00         2.67     
+09-12UT       3.00         3.00         4.00     
+12-15UT       3.00         3.00         3.00     
+15-18UT       3.00         1.67         2.00     
+18-21UT       3.67         1.67         3.00     
+21-00UT       3.00         1.67         2.00     
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
 significant transient or recurrent solar wind features are forecast.
@@ -79,29 +78,27 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for May 23-May 25 2024
+Solar Radiation Storm Forecast for May 24-May 26 2024
 
-              May 23  May 24  May 25
-S1 or greater   15%     15%     10%
+              May 24  May 25  May 26
+S1 or greater   15%     10%      5%
 
-Rationale: There is a slight chance of an S1 (Minor) solar radiation
-storm due to the slight risk of solar energetic particle events from
-mainly Regions 3679 and 3685.
+Rationale: There is a slight chance for an S1 (Minor) or greater solar
+radiation storm due to the potential from Region 3679 over 24-25 May.
 
 C. NOAA Radio Blackout Activity and Forecast
 
 Radio blackouts reaching the R1 levels were observed over the past 24
-hours. The largest was at May 22 2024 0404 UTC.
+hours. The largest was at May 23 2024 0216 UTC.
 
-Radio Blackout Forecast for May 23-May 25 2024
+Radio Blackout Forecast for May 24-May 26 2024
 
-              May 23        May 24        May 25
-R1-R2           60%           60%           55%
-R3 or greater   10%           10%           10%
+              May 24        May 25        May 26
+R1-R2           60%           60%           40%
+R3 or greater   10%           10%            5%
 
-Rationale: Solar activity is likely to remain moderate (R1-R2;
-Minor-Moderate) 23-25 May, with a slight chance of X-class flares (R3;
-Strong) due primarily to the increasing flare potential of Region 3679
-and continued flare probability of Region 3685.
+Rationale: R1/R2 (Minor/Moderate) radio blackouts are likely on 24-25
+May with a slight chance of (R3/Strong) radio blackouts, due primarily
+to the flare potential of Region 3679.
 
 ```
