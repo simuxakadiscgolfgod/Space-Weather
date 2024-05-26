@@ -1,10 +1,10 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2024-05-25
-<br />**Title of the image:**  Manicouagan Impact Crater from Space
-<br />**Description for the image:**  Orbiting 400 kilometers above Quebec, Canada, planet Earth, the International Space Station Expedition 59 crew captured this snapshot of the broad St. Lawrence River and curiously circular Lake Manicouagan on April 11. Right of center, the ring-shaped lake is a modern reservoir within the eroded remnant of an ancient 100 kilometer diameter impact crater. The ancient crater is very conspicuous from orbit, a visible reminder that Earth is vulnerable to rocks from space. Over 200 million years old, the Manicouagan crater was likely caused by the impact of a rocky body about 5 kilometers in diameter.  Currently, there is no known asteroid with a significant probability of impacting Earth in the next century.  Each month, NASA’s Planetary Defense Coordination Office releases an update featuring the most recent figures on near-Earth object close approaches, and other facts about comets and asteroids that could pose a potential impact hazard with Earth.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2405/iss059e019043.jpg
+<br />**Date image released:**  2024-05-26
+<br />**Title of the image:**  A Solar Filament Erupts
+<br />**Description for the image:**  What's happened to our Sun?  Nothing very unusual -- it just threw a filament. Toward the middle of 2012, a long standing solar filament suddenly erupted into space, producing an energetic coronal mass ejection (CME).  The filament had been held up for days by the Sun's ever changing magnetic field and the timing of the eruption was unexpected. Watched closely by the Sun-orbiting Solar Dynamics Observatory, the resulting explosion shot electrons and ions into the Solar System, some of which arrived at Earth three days later and impacted Earth's magnetosphere, causing visible auroras. Loops of plasma surrounding the active region can be seen above the erupting filament in the featured ultraviolet image. Our Sun is nearing the most active time in its 11-year cycle, creating many coronal holes that allow for the ejection of charged particles into space. As before, these charged particles can create auroras.    Your Sky Surprise: What picture did APOD feature on your birthday? (post 1995)
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2405/filament_sdo_1080.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -48,27 +48,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 May 25 0030 UTC
+:Issued: 2024 May 26 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for May 25-May 27 2024 is 4.00 (below NOAA
+The greatest expected 3 hr Kp for May 26-May 28 2024 is 4.00 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown May 25-May 27 2024
+NOAA Kp index breakdown May 26-May 28 2024
 
-             May 25       May 26       May 27
-00-03UT       3.33         1.00         2.00     
-03-06UT       3.33         2.00         2.00     
-06-09UT       3.00         2.67         2.00     
-09-12UT       3.00         4.00         2.00     
-12-15UT       3.00         3.00         2.00     
-15-18UT       1.67         2.00         2.00     
-18-21UT       1.67         3.00         2.33     
-21-00UT       1.67         2.00         2.33     
+             May 26       May 27       May 28
+00-03UT       1.00         2.00         2.00     
+03-06UT       2.00         2.00         3.00     
+06-09UT       2.67         2.00         2.00     
+09-12UT       4.00         2.00         2.00     
+12-15UT       3.00         2.00         2.00     
+15-18UT       2.00         2.00         2.00     
+18-21UT       3.00         2.33         2.00     
+21-00UT       2.00         3.00         2.33     
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
 significant transient or recurrent solar wind features are forecast.
@@ -78,10 +78,10 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for May 25-May 27 2024
+Solar Radiation Storm Forecast for May 26-May 28 2024
 
-              May 25  May 26  May 27
-S1 or greater   10%     10%      5%
+              May 26  May 27  May 28
+S1 or greater    5%      5%      5%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
 No significant active region activity favorable for radiation storm
@@ -89,19 +89,15 @@ production is forecast.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-Radio blackouts reaching the R1 levels were observed over the past 24
-hours. The largest was at May 24 2024 0706 UTC.
+No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for May 25-May 27 2024
+Radio Blackout Forecast for May 26-May 28 2024
 
-              May 25        May 26        May 27
-R1-R2           60%           60%           40%
-R3 or greater   10%           10%            5%
+              May 26        May 27        May 28
+R1-R2           40%           40%           40%
+R3 or greater    5%            5%            5%
 
-Rationale: On 25-26 May, R1 (Minor) radio blackouts are likely, with a
-slight chance of R3 (Strong) radio blackouts, due primarily to the flare
-potential of Region 3679. The likelihood decreases to just a chance for
-R1 (Minor) blackouts on 27 May as Region 3679 rotates beyond the western
-limb.
+Rationale: A chance for R1 (Minor) blackouts exists on 26-28 May as
+Region 3679 rotates beyond the western limb.
 
 ```
