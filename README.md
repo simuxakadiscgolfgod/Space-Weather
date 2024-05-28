@@ -1,11 +1,7 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2024-05-27
-<br />**This image is owned by:**  Amiel Contuliano
-<br />**Title of the image:**  Chamaeleon I Molecular Cloud
-<br />**Description for the image:**  Dark markings and bright nebulae in this telescopic southern sky view are telltale signs of young stars and active star formation. They lie a mere 650 light-years away, at the boundary of the local bubble and the Chamaeleon molecular cloud complex. Regions with young stars identified as dusty reflection nebulae from the 1946 Cederblad catalog include the C-shaped Ced 110 just above and right of center, and bluish Ced 111 below it. Also a standout in the frame, the orange tinted V-shape of the Chamaeleon Infrared Nebula (Cha IRN) was carved by material streaming from a newly formed low-mass star.  The well-composed image spans 1.5 degrees. That's about 17 light-years at the estimated distance of the nearby Chamaeleon I molecular cloud.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2405/Cederblad111-110.jpg
+<br />**Sorry, Image not available!**
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,27 +45,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 May 27 0030 UTC
+:Issued: 2024 May 28 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for May 27-May 29 2024 is 3.00 (below NOAA
+The greatest expected 3 hr Kp for May 28-May 30 2024 is 4.00 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown May 27-May 29 2024
+NOAA Kp index breakdown May 28-May 30 2024
 
-             May 27       May 28       May 29
-00-03UT       2.00         2.00         1.33     
-03-06UT       2.00         3.00         1.33     
-06-09UT       2.00         2.00         1.33     
-09-12UT       2.00         2.00         1.33     
-12-15UT       2.00         2.00         1.67     
-15-18UT       2.00         2.00         1.67     
-18-21UT       2.33         2.00         1.67     
-21-00UT       3.00         2.33         1.33     
+             May 28       May 29       May 30
+00-03UT       2.33         2.00         3.00     
+03-06UT       3.00         1.67         2.67     
+06-09UT       2.00         2.00         2.00     
+09-12UT       2.00         2.00         1.67     
+12-15UT       1.33         2.33         1.33     
+15-18UT       2.00         3.67         1.67     
+18-21UT       2.00         4.00         2.00     
+21-00UT       2.33         2.67         2.00     
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
 significant transient or recurrent solar wind features are forecast.
@@ -79,9 +75,9 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for May 27-May 29 2024
+Solar Radiation Storm Forecast for May 28-May 30 2024
 
-              May 27  May 28  May 29
+              May 28  May 29  May 30
 S1 or greater    5%      5%      5%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -90,15 +86,16 @@ production is forecast.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-No radio blackouts were observed over the past 24 hours.
+Radio blackouts reaching the R3 levels were observed over the past 24
+hours. The largest was at May 27 2024 0708 UTC.
 
-Radio Blackout Forecast for May 27-May 29 2024
+Radio Blackout Forecast for May 28-May 30 2024
 
-              May 27        May 28        May 29
-R1-R2           40%           40%           40%
-R3 or greater    5%            5%            5%
+              May 28        May 29        May 30
+R1-R2           55%           60%           60%
+R3 or greater   25%           30%           30%
 
-Rationale: No R1 (Minor) or greater radio blackouts are expected.  No
-significant active region flare activity is forecast.
+Rationale: Occasional R1/R2 (Minor-Moderate) Radio Blackouts are likely
+with a chance for isolated R3 (Strong) Radio Blackouts through 30 May.
 
 ```
