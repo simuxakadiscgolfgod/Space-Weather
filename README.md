@@ -2,6 +2,13 @@
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
 <br />**Sorry, Image not available!**
+<br />**Date image released:**  2024-05-29
+<br />**This image is owned by:**  
+Marcin Rosadziński
+
+<br />**Title of the image:**  Stairway to the Milky Way
+<br />**Description for the image:**  What happens if you ascend this stairway to the Milky Way? Before answering that, let's understand the beautiful sky you will see.  Most eye-catching is the grand arch of the Milky Way Galaxy, the band that is the central disk of our galaxy which is straight but distorted by the wide-angle nature of this composite image.  Many stars well in front of the Milk Way will be visible, with the bright white star just below the stellar arch being Altair, and the bright blue star above it being Vega.  The air glows green on the left, just above the yellow cloud deck.  The featured image was taken last month on Portugal's Madeira Island in the North Atlantic Ocean.  Oh, and what happens after you reach the top of these stairs and admire the amazing sky is, quite probably, that you then descend down the stairs on the other side.   Your Sky Surprise: What picture did APOD feature on your birthday? (post 1995)
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2405/StairwayToMilkyway_Marcin_6000.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -45,40 +52,40 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 May 28 0030 UTC
+:Issued: 2024 May 29 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for May 28-May 30 2024 is 4.00 (below NOAA
+The greatest expected 3 hr Kp for May 29-May 31 2024 is 4.00 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown May 28-May 30 2024
+NOAA Kp index breakdown May 29-May 31 2024
 
-             May 28       May 29       May 30
-00-03UT       2.33         2.00         3.00     
-03-06UT       3.00         1.67         2.67     
-06-09UT       2.00         2.00         2.00     
-09-12UT       2.00         2.00         1.67     
-12-15UT       1.33         2.33         1.33     
-15-18UT       2.00         3.67         1.67     
-18-21UT       2.00         4.00         2.00     
-21-00UT       2.33         2.67         2.00     
+             May 29       May 30       May 31
+00-03UT       0.67         3.00         1.67     
+03-06UT       1.67         2.67         1.33     
+06-09UT       2.00         2.00         1.33     
+09-12UT       2.00         1.67         1.33     
+12-15UT       2.33         1.33         1.33     
+15-18UT       4.00         1.67         1.33     
+18-21UT       4.00         2.00         1.67     
+21-00UT       2.67         2.00         1.67     
 
-Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
-significant transient or recurrent solar wind features are forecast.
+Rationale: There is a chance for G1 (Minor) storming on 29 May with any
+shock arrival from the 27 May CME.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for May 28-May 30 2024
+Solar Radiation Storm Forecast for May 29-May 31 2024
 
-              May 28  May 29  May 30
-S1 or greater    5%      5%      5%
+              May 29  May 30  May 31
+S1 or greater   10%     10%     10%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
 No significant active region activity favorable for radiation storm
@@ -86,16 +93,15 @@ production is forecast.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-Radio blackouts reaching the R3 levels were observed over the past 24
-hours. The largest was at May 27 2024 0708 UTC.
+No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for May 28-May 30 2024
+Radio Blackout Forecast for May 29-May 31 2024
 
-              May 28        May 29        May 30
-R1-R2           55%           60%           60%
-R3 or greater   25%           30%           30%
+              May 29        May 30        May 31
+R1-R2           60%           60%           60%
+R3 or greater   30%           30%           30%
 
-Rationale: Occasional R1/R2 (Minor-Moderate) Radio Blackouts are likely
-with a chance for isolated R3 (Strong) Radio Blackouts through 30 May.
+Rationale: (R1-2/Minor-Moderate Radio Blackouts) are likely, while a
+chance remains for isolated (R3/Strong Radio Blackouts) through 31 May.
 
 ```
