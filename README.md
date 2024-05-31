@@ -1,13 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2024-05-30
-<br />**This image is owned by:**  
-Valter Binotto
-
-<br />**Title of the image:**  A Lunar Corona over Paris
-<br />**Description for the image:**  Why does a cloudy moon sometimes appear colorful? The effect, called a lunar corona, is created by the quantum mechanical diffraction of light around individual, similarly-sized water droplets in an intervening but mostly-transparent cloud. Since light of different colors has different wavelengths, each color diffracts differently. Lunar coronae are one of the few  quantum mechanical color effects that can be easily seen with the unaided eye.  Solar coronae are also sometimes evident. The featured image was taken last month from Paris, France.  The blue beacon emanating from the Eiffel Tower did not affect the colorful lunar corona.   Portal Universe: Random APOD Generator
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2405/EiffelCorona_Binotto_2000.jpg
+<br />**Date image released:**  2024-05-31
+<br />**This image is owned by:**  Xin Long
+<br />**Title of the image:**  The Nebulous Realm of WR 134
+<br />**Description for the image:**  Made with narrowband filters, this cosmic snapshot covers a field of view over twice as wide as the full Moon within the boundaries of the constellation Cygnus. It highlights the bright edge of a ring-like nebula traced by the glow of ionized hydrogen and oxygen gas. Embedded in the region's expanse of interstellar clouds, the complex, glowing arcs are sections of shells of material swept up by the wind from Wolf-Rayet star WR 134, brightest star near the center of the frame. Distance estimates put WR 134 about 6,000 light-years away, making the frame over 100 light-years across. Shedding their outer envelopes in powerful stellar winds, massive Wolf-Rayet stars have burned through their nuclear fuel at a prodigious rate and end this final phase of massive star evolution in a spectacular supernova explosion. The stellar winds and final supernova enrich the interstellar material with heavy elements to be incorporated in future generations of stars.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2405/NebulousRealmofWR134_2048.png
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -51,30 +49,30 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 May 30 0030 UTC
+:Issued: 2024 May 31 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for May 30-Jun 01 2024 is 6.00 (NOAA Scale
+The greatest expected 3 hr Kp for May 31-Jun 02 2024 is 6.00 (NOAA Scale
 G2).
 
-NOAA Kp index breakdown May 30-Jun 01 2024
+NOAA Kp index breakdown May 31-Jun 02 2024
 
-             May 30       May 31       Jun 01
-00-03UT       3.00         1.67         5.67 (G2)
-03-06UT       2.67         1.33         5.00 (G1)
-06-09UT       2.00         1.33         4.33     
-09-12UT       1.67         1.33         3.00     
-12-15UT       1.33         1.33         2.33     
-15-18UT       1.67         4.67 (G1)    2.00     
-18-21UT       2.00         6.00 (G2)    2.67     
-21-00UT       2.00         5.33 (G1)    2.33     
+             May 31       Jun 01       Jun 02
+00-03UT       1.67         5.67 (G2)    1.67     
+03-06UT       1.33         5.00 (G1)    1.33     
+06-09UT       1.33         4.33         1.33     
+09-12UT       1.33         3.00         1.33     
+12-15UT       1.33         2.33         1.67     
+15-18UT       4.67 (G1)    2.00         1.33     
+18-21UT       6.00 (G2)    2.67         1.33     
+21-00UT       5.33 (G1)    2.33         1.67     
 
-Rationale: G1-G2 (Minor-Moderate) geomagnetic storming is likely
-to commence by late 31 May and continue into 01 Jun due to flanking CME
+Rationale: NG1-G2 (Minor-Moderate) geomagnetic storming is likely to
+commence by late 31 May and continue into 01 Jun due to flanking CME
 effects from the aforementioned X1.4 flare and subsequent CME eruption
 of 29 May.
 
@@ -83,27 +81,28 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for May 30-Jun 01 2024
+Solar Radiation Storm Forecast for May 31-Jun 02 2024
 
-              May 30  May 31  Jun 01
-S1 or greater   20%     20%     20%
+              May 31  Jun 01  Jun 02
+S1 or greater   25%     25%     25%
 
-Rationale: There is a slight chance for a greater than 10 MeV proton
-event exceeding the S1 (Minor) threshold through 01 Jun primarily due to
-the flare potential of Regions 3691 and 3697.
+Rationale: There is a chance for a greater than 10 MeV proton event
+exceeding the S1 (Minor) threshold through 02 Jun, primarily due to the
+flare potential of Regions 3691 and 3697.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-Radio blackouts reaching the R3 levels were observed over the past 24
-hours. The largest was at May 29 2024 1437 UTC.
+Radio blackouts reaching the R1 levels were observed over the past 24
+hours. The largest was at May 30 2024 0713 UTC.
 
-Radio Blackout Forecast for May 30-Jun 01 2024
+Radio Blackout Forecast for May 31-Jun 02 2024
 
-              May 30        May 31        Jun 01
+              May 31        Jun 01        Jun 02
 R1-R2           75%           75%           75%
 R3 or greater   35%           35%           35%
 
-Rationale: R1-2 (Minor-Moderate) Radio Blackouts are expected, with a
-chance for isolated R3 (Strong) Radio Blackouts through 01 Jun.
+Rationale: Occasional R1-R2 (Minor-Moderate) Radio Blackouts are
+expected, with a chance for isolated R3 (Strong) Radio Blackouts, on 31
+May-02 Jun due to the flaring potential of Regions 3691 and 3697.
 
 ```
