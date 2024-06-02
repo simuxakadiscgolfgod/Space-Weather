@@ -1,10 +1,7 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2024-06-01
-<br />**Title of the image:**  Stereo Helene
-<br />**Description for the image:**  Get out your red/blue glasses and float next to Helene, small, icy moon of Saturn. Appropriately named, Helene is a Trojan moon, so called because it orbits at a Lagrange point. A Lagrange point is a gravitationally stable position near two massive bodies, in this case Saturn and larger moon Dione. In fact, irregularly shaped ( about 36 by 32 by 30 kilometers) Helene orbits at Dione's leading Lagrange point while brotherly ice moon Polydeuces follows at Dione's trailing Lagrange point. The sharp stereo anaglyph was constructed from two Cassini images captured during a close flyby in 2011. It shows part of the Saturn-facing hemisphere of Helene mottled with craters and gully-like features.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2406/N00172886_92_beltramini.jpg
+<br />**Sorry, Image not available!**
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -48,56 +45,56 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Jun 01 0030 UTC
+:Issued: 2024 Jun 02 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 5 (NOAA Scale
-G1).
-The greatest expected 3 hr Kp for Jun 01-Jun 03 2024 is 5.67 (NOAA Scale
-G2).
+The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
+Scale levels).
+The greatest expected 3 hr Kp for Jun 02-Jun 04 2024 is 2.67 (below NOAA
+Scale levels).
 
-NOAA Kp index breakdown Jun 01-Jun 03 2024
+NOAA Kp index breakdown Jun 02-Jun 04 2024
 
-             Jun 01       Jun 02       Jun 03
-00-03UT       2.67         2.67         1.67     
-03-06UT       4.00         2.00         1.33     
-06-09UT       5.67 (G2)    2.00         1.33     
-09-12UT       5.00 (G1)    2.00         1.33     
-12-15UT       3.00         2.33         1.33     
-15-18UT       2.00         2.00         1.33     
-18-21UT       2.67         2.00         1.67     
-21-00UT       2.33         2.00         1.67     
+             Jun 02       Jun 03       Jun 04
+00-03UT       2.67         1.67         1.67     
+03-06UT       2.00         1.33         1.67     
+06-09UT       2.00         1.33         1.33     
+09-12UT       2.00         1.33         1.33     
+12-15UT       2.33         1.33         1.33     
+15-18UT       2.00         1.33         1.33     
+18-21UT       2.00         1.67         1.33     
+21-00UT       2.00         1.67         1.67     
 
-Rationale: G1-G2 (Minor-Moderate) geomagnetic storms are likely on 01
-Jun due to CME activity.
+Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
+significant transient or recurrent solar wind features are forecast.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Jun 01-Jun 03 2024
+Solar Radiation Storm Forecast for Jun 02-Jun 04 2024
 
-              Jun 01  Jun 02  Jun 03
+              Jun 02  Jun 03  Jun 04
 S1 or greater   25%     25%     25%
 
-Rationale: There is chance for S1 (Minor) solar radiation storms over
-01-03 Jun.
+Rationale: There is a chance for S1 (Minor) solar radiation storms over
+02-04 Jun due to the flare potential of Region 3697.
 
 C. NOAA Radio Blackout Activity and Forecast
 
 Radio blackouts reaching the R3 levels were observed over the past 24
-hours. The largest was at May 31 2024 2203 UTC.
+hours. The largest was at Jun 01 2024 0848 UTC.
 
-Radio Blackout Forecast for Jun 01-Jun 03 2024
+Radio Blackout Forecast for Jun 02-Jun 04 2024
 
-              Jun 01        Jun 02        Jun 03
+              Jun 02        Jun 03        Jun 04
 R1-R2           75%           75%           75%
 R3 or greater   35%           35%           35%
 
 Rationale: R1-R2 (Minor-Moderate) radio blackouts are expected, with a
-chance for R3 (Strong) or greater activity, over 01-03 Jun.
+chance for R3 (Strong) or greater events, over 02-04 Jun.
 
 ```
