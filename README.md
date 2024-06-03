@@ -2,6 +2,11 @@
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
 <br />**Sorry, Image not available!**
+<br />**Date image released:**  2024-06-03
+<br />**This image is owned by:**  (Team F.A.C.T.)
+<br />**Title of the image:**  NGC 2403 in Camelopardalis
+<br />**Description for the image:**  Magnificent island universe NGC 2403 stands within the boundaries of the long-necked constellation Camelopardalis. Some 10 million light-years distant and about 50,000 light-years across, the spiral galaxy also seems to have more than its fair share of giant star forming HII regions, marked by the telltale reddish glow of atomic hydrogen gas. The giant HII regions are energized by clusters of hot, massive stars that explode as bright supernovae at the end of their short and furious lives. A member of the M81 group of galaxies, NGC 2403 closely resembles a galaxy in our own local galaxy group with an abundance of star forming regions, M33, the Triangulum Galaxy. Spiky in appearance, bright stars in this portrait of NGC 2403 are in the foreground, within our own Milky Way. Also in the foreground of the deep, wide-field, telescopic image are the Milky Way's dim and dusty interstellar clouds also known as galactic cirrus or integrated flux nebulae. But faint features that seem to extend from NGC 2403 itself are likely tidal stellar streams drawn out by gravitational interactions with neighboring galaxies.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2405/NGC2403-LRGB+Ha+Oiii-v25-f.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -45,56 +50,56 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Jun 02 0030 UTC
+:Issued: 2024 Jun 03 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Jun 02-Jun 04 2024 is 2.67 (below NOAA
-Scale levels).
+The greatest expected 3 hr Kp for Jun 03-Jun 05 2024 is 5.00 (NOAA Scale
+G1).
 
-NOAA Kp index breakdown Jun 02-Jun 04 2024
+NOAA Kp index breakdown Jun 03-Jun 05 2024
 
-             Jun 02       Jun 03       Jun 04
-00-03UT       2.67         1.67         1.67     
-03-06UT       2.00         1.33         1.67     
-06-09UT       2.00         1.33         1.33     
-09-12UT       2.00         1.33         1.33     
-12-15UT       2.33         1.33         1.33     
-15-18UT       2.00         1.33         1.33     
-18-21UT       2.00         1.67         1.33     
-21-00UT       2.00         1.67         1.67     
+             Jun 03       Jun 04       Jun 05
+00-03UT       1.67         1.67         3.67     
+03-06UT       1.33         1.00         3.67     
+06-09UT       1.33         1.00         2.67     
+09-12UT       1.33         1.00         3.00     
+12-15UT       1.33         2.00         3.00     
+15-18UT       1.33         4.33         3.33     
+18-21UT       1.67         5.00 (G1)    2.33     
+21-00UT       1.67         4.67 (G1)    2.33     
 
-Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
-significant transient or recurrent solar wind features are forecast.
+Rationale: Periods of G1 (Minor) geomagnetic storms are likely on 04 Jun
+due to the potential glancing-blow arrival of the 01 Jun CME.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Jun 02-Jun 04 2024
+Solar Radiation Storm Forecast for Jun 03-Jun 05 2024
 
-              Jun 02  Jun 03  Jun 04
+              Jun 03  Jun 04  Jun 05
 S1 or greater   25%     25%     25%
 
 Rationale: There is a chance for S1 (Minor) solar radiation storms over
-02-04 Jun due to the flare potential of Region 3697.
+03-05 Jun.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-Radio blackouts reaching the R3 levels were observed over the past 24
-hours. The largest was at Jun 01 2024 0848 UTC.
+Radio blackouts reaching the R1 levels were observed over the past 24
+hours. The largest was at Jun 02 2024 0850 UTC.
 
-Radio Blackout Forecast for Jun 02-Jun 04 2024
+Radio Blackout Forecast for Jun 03-Jun 05 2024
 
-              Jun 02        Jun 03        Jun 04
+              Jun 03        Jun 04        Jun 05
 R1-R2           75%           75%           75%
 R3 or greater   35%           35%           35%
 
 Rationale: R1-R2 (Minor-Moderate) radio blackouts are expected, with a
-chance for R3 (Strong) or greater events, over 02-04 Jun.
+chance for R3 (Strong) or greater events, over 03-05 Jun.
 
 ```
