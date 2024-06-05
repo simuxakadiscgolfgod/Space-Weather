@@ -1,14 +1,10 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2024-06-04
-<br />**This image is owned by:**  
-Rolando Ligustri &
- Lukas Demetz 
-
-<br />**Title of the image:**  Comet Pons-Brooks Develops Opposing Tails
-<br />**Description for the image:**  Why does Comet Pons-Brooks now have tails pointing in opposite directions?  The most spectacular tail is the blue-glowing ion tail that is visible flowing down the image.  The ion tail is pushed directly out from the Sun by the solar wind. On the upper right is the glowing central coma of Comet 12P/Pons–Brooks. Fanning out from the coma, mostly to the left, is the comet's dust tail. Pushed out and slowed down by the pressure of sunlight, the dust tail tends to trail the comet along its orbit and, from some viewing angles, can appear opposite to the ion tail.  The distant, bright star Alpha Leporis is seen at the bottom of the featured image captured last week from Namibia. Two days ago, the comet passed its closest to the Earth and is now best visible from southern skies as it dims and glides back to the outer Solar System.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2406/Comet12P_Ligustri_1601.jpg
+<br />**Date image released:**  2024-06-05
+<br />**Title of the image:**  Shadow of a Martian Robot
+<br />**Description for the image:**  What if you saw your shadow on Mars and it wasn't human?  Then you might be the Perseverance rover exploring Mars.  Perseverance has been examining the Red Planet since 2021, finding evidence of its complex history of volcanism and ancient flowing water, and sending breathtaking images across the inner Solar System.  Pictured here in February of 2024, Perseverance looks opposite the Sun and across Neretva Vallis in Jezero Crater, with a local hill visible at the top of the frame.  The distinctively non-human shadow of the car-sized rover is visible below center, superposed on scattered rocks.  Perseverance, now working without its flying companion Ingenuity, continues to search Mars for signs of ancient life.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2406/NeretvaVallis_PerseveranceNevT_4000.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -52,59 +48,58 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Jun 04 0030 UTC
+:Issued: 2024 Jun 05 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 5 (NOAA Scale
-G1).
-The greatest expected 3 hr Kp for Jun 04-Jun 06 2024 is 5.00 (NOAA Scale
-G1).
+The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
+Scale levels).
+The greatest expected 3 hr Kp for Jun 05-Jun 07 2024 is 3.00 (below NOAA
+Scale levels).
 
-NOAA Kp index breakdown Jun 04-Jun 06 2024
+NOAA Kp index breakdown Jun 05-Jun 07 2024
 
-             Jun 04       Jun 05       Jun 06
-00-03UT       4.67 (G1)    4.00         1.33     
-03-06UT       4.00         3.67         1.33     
-06-09UT       2.67         2.67         1.33     
-09-12UT       2.33         3.00         1.33     
-12-15UT       2.00         3.00         1.33     
-15-18UT       4.00         3.33         1.67     
-18-21UT       5.00 (G1)    2.33         1.67     
-21-00UT       4.67 (G1)    2.33         1.67     
+             Jun 05       Jun 06       Jun 07
+00-03UT       1.33         1.33         1.67     
+03-06UT       2.33         1.33         1.33     
+06-09UT       2.67         1.33         1.33     
+09-12UT       2.33         1.33         1.67     
+12-15UT       2.33         1.33         1.33     
+15-18UT       2.33         1.67         1.67     
+18-21UT       3.00         1.67         1.33     
+21-00UT       2.67         1.67         1.33     
 
-Rationale: G1 (Minor) storm levels are expected on 04 Jun with the
-nearby passing of the 01 Jun CME.
+Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
+significant transient or recurrent solar wind features are forecast.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Jun 04-Jun 06 2024
+Solar Radiation Storm Forecast for Jun 05-Jun 07 2024
 
-              Jun 04  Jun 05  Jun 06
-S1 or greater   25%     25%     25%
+              Jun 05  Jun 06  Jun 07
+S1 or greater   20%     25%     25%
 
-Rationale: There is a chance for a greater than 10 MeV proton event
-exceeding the S1 (Minor) threshold through 06 Jun, primarily due to the
-flare potential of Region 3697.
+Rationale: There is a slight chance for a greater than 10 MeV proton
+event exceeding the S1 (Minor) threshold through 07 Jun, primarily due
+to the flare potential of Region 3697.
 
 C. NOAA Radio Blackout Activity and Forecast
 
 Radio blackouts reaching the R1 levels were observed over the past 24
-hours. The largest was at Jun 03 2024 1411 UTC.
+hours. The largest was at Jun 04 2024 0631 UTC.
 
-Radio Blackout Forecast for Jun 04-Jun 06 2024
+Radio Blackout Forecast for Jun 05-Jun 07 2024
 
-              Jun 04        Jun 05        Jun 06
-R1-R2           75%           75%           75%
-R3 or greater   35%           35%           35%
+              Jun 05        Jun 06        Jun 07
+R1-R2           60%           60%           60%
+R3 or greater   25%           25%           20%
 
-Rationale: Solar activity is expected to continue at moderate to high
-levels through 06 Jun, with occasional M-class flares
-(R1-R2/Minor-Moderate Radio Blackouts) and a chance for isolated X-class
-flare activity (R3 Strong).
+Rationale: Occasional M-class flares (R1-R2/Minor-Moderate Radio
+Blackouts) are likely, with a chance for isolated X-class flare activity
+(R3 Strong) on 05-07 Jun.
 
 ```
