@@ -1,10 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2024-06-05
-<br />**Title of the image:**  Shadow of a Martian Robot
-<br />**Description for the image:**  What if you saw your shadow on Mars and it wasn't human?  Then you might be the Perseverance rover exploring Mars.  Perseverance has been examining the Red Planet since 2021, finding evidence of its complex history of volcanism and ancient flowing water, and sending breathtaking images across the inner Solar System.  Pictured here in February of 2024, Perseverance looks opposite the Sun and across Neretva Vallis in Jezero Crater, with a local hill visible at the top of the frame.  The distinctively non-human shadow of the car-sized rover is visible below center, superposed on scattered rocks.  Perseverance, now working without its flying companion Ingenuity, continues to search Mars for signs of ancient life.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2406/NeretvaVallis_PerseveranceNevT_4000.jpg
+<br />**Date image released:**  2024-06-06
+<br />**This image is owned by:**  Lóránd Fényes
+<br />**Title of the image:**  NGC 4565: Galaxy on Edge
+<br />**Description for the image:**  Magnificent spiral galaxy NGC 4565 is viewed edge-on from planet Earth. Also known as the Needle Galaxy for its narrow profile, bright NGC 4565 is a stop on many telescopic tours of the northern sky, in the faint but well-groomed constellation Coma Berenices. This sharp, colorful image reveals the galaxy's boxy, bulging central core cut by obscuring dust lanes that lace NGC 4565's thin galactic plane. NGC 4565 itself lies about 40 million light-years distant and spans some 100,000 light-years.  Easily spotted with small telescopes, sky enthusiasts consider NGC 4565 to be a prominent celestial masterpiece Messier missed.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2406/278_lorand_fenyes_ngc4565.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -48,27 +49,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Jun 05 0030 UTC
+:Issued: 2024 Jun 06 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Jun 05-Jun 07 2024 is 3.00 (below NOAA
+The greatest expected 3 hr Kp for Jun 06-Jun 08 2024 is 3.33 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Jun 05-Jun 07 2024
+NOAA Kp index breakdown Jun 06-Jun 08 2024
 
-             Jun 05       Jun 06       Jun 07
-00-03UT       1.33         1.33         1.67     
-03-06UT       2.33         1.33         1.33     
-06-09UT       2.67         1.33         1.33     
-09-12UT       2.33         1.33         1.67     
-12-15UT       2.33         1.33         1.33     
-15-18UT       2.33         1.67         1.67     
-18-21UT       3.00         1.67         1.33     
-21-00UT       2.67         1.67         1.33     
+             Jun 06       Jun 07       Jun 08
+00-03UT       2.00         1.67         2.00     
+03-06UT       1.67         1.33         1.67     
+06-09UT       1.33         1.33         1.33     
+09-12UT       1.00         1.67         1.33     
+12-15UT       1.33         1.33         2.00     
+15-18UT       1.33         1.67         3.00     
+18-21UT       1.33         1.33         3.00     
+21-00UT       1.67         1.33         3.33     
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
 significant transient or recurrent solar wind features are forecast.
@@ -78,28 +79,29 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Jun 05-Jun 07 2024
+Solar Radiation Storm Forecast for Jun 06-Jun 08 2024
 
-              Jun 05  Jun 06  Jun 07
-S1 or greater   20%     25%     25%
+              Jun 06  Jun 07  Jun 08
+S1 or greater   20%     20%     20%
 
-Rationale: There is a slight chance for a greater than 10 MeV proton
-event exceeding the S1 (Minor) threshold through 07 Jun, primarily due
-to the flare potential of Region 3697.
+Rationale: There is a chance for a greater than 10 MeV proton event
+exceeding the S1 (Minor) threshold through 08 Jun, primarily due to the
+flare potential of Region 3697.
+
 
 C. NOAA Radio Blackout Activity and Forecast
 
 Radio blackouts reaching the R1 levels were observed over the past 24
-hours. The largest was at Jun 04 2024 0631 UTC.
+hours. The largest was at Jun 05 2024 0856 UTC.
 
-Radio Blackout Forecast for Jun 05-Jun 07 2024
+Radio Blackout Forecast for Jun 06-Jun 08 2024
 
-              Jun 05        Jun 06        Jun 07
+              Jun 06        Jun 07        Jun 08
 R1-R2           60%           60%           60%
-R3 or greater   25%           25%           20%
+R3 or greater   20%           20%           20%
 
-Rationale: Occasional M-class flares (R1-R2/Minor-Moderate Radio
-Blackouts) are likely, with a chance for isolated X-class flare activity
-(R3 Strong) on 05-07 Jun.
+Rationale: Occasional R1-R2 (Minor-Moderate) Radio Blackouts are likely,
+with a slight chance for isolated R3 (Strong) Radio Blackouts through 08
+Jun.
 
 ```
