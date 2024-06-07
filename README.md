@@ -1,11 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2024-06-06
-<br />**This image is owned by:**  Lóránd Fényes
-<br />**Title of the image:**  NGC 4565: Galaxy on Edge
-<br />**Description for the image:**  Magnificent spiral galaxy NGC 4565 is viewed edge-on from planet Earth. Also known as the Needle Galaxy for its narrow profile, bright NGC 4565 is a stop on many telescopic tours of the northern sky, in the faint but well-groomed constellation Coma Berenices. This sharp, colorful image reveals the galaxy's boxy, bulging central core cut by obscuring dust lanes that lace NGC 4565's thin galactic plane. NGC 4565 itself lies about 40 million light-years distant and spans some 100,000 light-years.  Easily spotted with small telescopes, sky enthusiasts consider NGC 4565 to be a prominent celestial masterpiece Messier missed.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2406/278_lorand_fenyes_ngc4565.jpg
+<br />**Date image released:**  2024-06-07
+<br />**This image is owned by:**  Prabhu Kutti
+<br />**Title of the image:**  SH2-308: The Dolphin Head Nebula
+<br />**Description for the image:**  Blown by fast winds from a hot, massive star, this cosmic bubble is huge. Cataloged as Sharpless 2-308 it lies some 5,000 light-years away toward the well-trained constellation Canis Major and covers slightly more of the sky than a Full Moon. That corresponds to a diameter of 60 light-years at its estimated distance. The massive star that created the bubble, a Wolf-Rayet star, is the bright one near the center of the nebula. Wolf-Rayet stars have over 20 times the mass of the Sun and are thought to be in a brief, pre-supernova phase of massive star evolution. Fast winds from this Wolf-Rayet star create the bubble-shaped nebula as they sweep up slower moving material from an earlier phase of evolution. The windblown nebula has an age of about 70,000 years. Relatively faint emission captured by narrowband filters in the deep image is dominated by the glow of ionized oxygen atoms mapped to a blue hue. Presenting a mostly harmless outline, SH2-308 is also known as The Dolphin-head Nebula.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2406/DolphinNebulaHOO_2048.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,27 +49,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Jun 06 0030 UTC
+:Issued: 2024 Jun 07 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Jun 06-Jun 08 2024 is 3.33 (below NOAA
+The greatest expected 3 hr Kp for Jun 07-Jun 09 2024 is 3.33 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Jun 06-Jun 08 2024
+NOAA Kp index breakdown Jun 07-Jun 09 2024
 
-             Jun 06       Jun 07       Jun 08
-00-03UT       2.00         1.67         2.00     
-03-06UT       1.67         1.33         1.67     
-06-09UT       1.33         1.33         1.33     
-09-12UT       1.00         1.67         1.33     
-12-15UT       1.33         1.33         2.00     
-15-18UT       1.33         1.67         3.00     
-18-21UT       1.33         1.33         3.00     
-21-00UT       1.67         1.33         3.33     
+             Jun 07       Jun 08       Jun 09
+00-03UT       1.67         2.00         2.33     
+03-06UT       1.33         1.67         2.67     
+06-09UT       1.33         1.33         2.33     
+09-12UT       1.67         1.33         2.00     
+12-15UT       1.33         2.00         2.33     
+15-18UT       1.67         3.00         2.00     
+18-21UT       1.33         3.00         2.00     
+21-00UT       1.33         3.33         2.00     
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
 significant transient or recurrent solar wind features are forecast.
@@ -79,29 +79,26 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Jun 06-Jun 08 2024
+Solar Radiation Storm Forecast for Jun 07-Jun 09 2024
 
-              Jun 06  Jun 07  Jun 08
-S1 or greater   20%     20%     20%
+              Jun 07  Jun 08  Jun 09
+S1 or greater   10%     10%     10%
 
-Rationale: There is a chance for a greater than 10 MeV proton event
-exceeding the S1 (Minor) threshold through 08 Jun, primarily due to the
-flare potential of Region 3697.
-
+Rationale: There is a slight chance for S1 (Minor) solar radiation
+storms over 07-09 Jun.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-Radio blackouts reaching the R1 levels were observed over the past 24
-hours. The largest was at Jun 05 2024 0856 UTC.
+Radio blackouts reaching the R2 levels were observed over the past 24
+hours. The largest was at Jun 06 2024 1506 UTC.
 
-Radio Blackout Forecast for Jun 06-Jun 08 2024
+Radio Blackout Forecast for Jun 07-Jun 09 2024
 
-              Jun 06        Jun 07        Jun 08
-R1-R2           60%           60%           60%
-R3 or greater   20%           20%           20%
+              Jun 07        Jun 08        Jun 09
+R1-R2           50%           50%           50%
+R3 or greater   10%           10%           10%
 
-Rationale: Occasional R1-R2 (Minor-Moderate) Radio Blackouts are likely,
-with a slight chance for isolated R3 (Strong) Radio Blackouts through 08
-Jun.
+Rationale: There is a chance for R1-R2 (Minor-Moderate) radio blackouts,
+and a slight chance for R3 (Strong) events, over 07-09 Jun.
 
 ```
