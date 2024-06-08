@@ -1,11 +1,10 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2024-06-07
-<br />**This image is owned by:**  Prabhu Kutti
-<br />**Title of the image:**  SH2-308: The Dolphin Head Nebula
-<br />**Description for the image:**  Blown by fast winds from a hot, massive star, this cosmic bubble is huge. Cataloged as Sharpless 2-308 it lies some 5,000 light-years away toward the well-trained constellation Canis Major and covers slightly more of the sky than a Full Moon. That corresponds to a diameter of 60 light-years at its estimated distance. The massive star that created the bubble, a Wolf-Rayet star, is the bright one near the center of the nebula. Wolf-Rayet stars have over 20 times the mass of the Sun and are thought to be in a brief, pre-supernova phase of massive star evolution. Fast winds from this Wolf-Rayet star create the bubble-shaped nebula as they sweep up slower moving material from an earlier phase of evolution. The windblown nebula has an age of about 70,000 years. Relatively faint emission captured by narrowband filters in the deep image is dominated by the glow of ionized oxygen atoms mapped to a blue hue. Presenting a mostly harmless outline, SH2-308 is also known as The Dolphin-head Nebula.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2406/DolphinNebulaHOO_2048.jpg
+<br />**Date image released:**  2024-06-08
+<br />**Title of the image:**  Pandora's Cluster of Galaxies
+<br />**Description for the image:**  This deep field mosaicked image presents a stunning view of galaxy cluster Abell 2744 recorded by the James Webb Space Telescope's NIRCam. Also dubbed Pandora's Cluster, Abell 2744 itself appears to be a ponderous merger of three different massive galaxy clusters. It lies some 3.5 billion light-years away, toward the constellation Sculptor. Dominated by dark matter, the mega-cluster warps and distorts the fabric of spacetime, gravitationally lensing even more distant objects. Redder than the Pandora cluster galaxies many of the lensed sources are very distant galaxies in the early Universe, their lensed images stretched and distorted into arcs. Of course distinctive diffraction spikes mark foreground Milky Way stars. At the Pandora Cluster's estimated distance this cosmic box spans about 6 million light-years. But don't panic. You can explore the tantalizing region in a 2 minute video tour.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2406/abell2744_jwst.png
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,27 +48,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Jun 07 0030 UTC
+:Issued: 2024 Jun 08 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
-Scale levels).
-The greatest expected 3 hr Kp for Jun 07-Jun 09 2024 is 3.33 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 6 (NOAA Scale
+G2).
+The greatest expected 3 hr Kp for Jun 08-Jun 10 2024 is 3.67 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Jun 07-Jun 09 2024
+NOAA Kp index breakdown Jun 08-Jun 10 2024
 
-             Jun 07       Jun 08       Jun 09
-00-03UT       1.67         2.00         2.33     
-03-06UT       1.33         1.67         2.67     
-06-09UT       1.33         1.33         2.33     
-09-12UT       1.67         1.33         2.00     
-12-15UT       1.33         2.00         2.33     
-15-18UT       1.67         3.00         2.00     
-18-21UT       1.33         3.00         2.00     
-21-00UT       1.33         3.33         2.00     
+             Jun 08       Jun 09       Jun 10
+00-03UT       3.67         3.00         1.67     
+03-06UT       2.67         3.33         1.33     
+06-09UT       1.67         2.33         1.33     
+09-12UT       1.67         2.00         1.33     
+12-15UT       3.33         2.33         1.33     
+15-18UT       3.33         2.00         1.33     
+18-21UT       3.33         2.00         1.67     
+21-00UT       3.33         2.00         1.67     
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
 significant transient or recurrent solar wind features are forecast.
@@ -79,26 +78,26 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Jun 07-Jun 09 2024
+Solar Radiation Storm Forecast for Jun 08-Jun 10 2024
 
-              Jun 07  Jun 08  Jun 09
+              Jun 08  Jun 09  Jun 10
 S1 or greater   10%     10%     10%
 
-Rationale: There is a slight chance for S1 (Minor) solar radiation
-storms over 07-09 Jun.
+Rationale: There is a chance for S1 (Minor) solar radiation storms over
+08-10 Jun.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-Radio blackouts reaching the R2 levels were observed over the past 24
-hours. The largest was at Jun 06 2024 1506 UTC.
+Radio blackouts reaching the R1 levels were observed over the past 24
+hours. The largest was at Jun 07 2024 0913 UTC.
 
-Radio Blackout Forecast for Jun 07-Jun 09 2024
+Radio Blackout Forecast for Jun 08-Jun 10 2024
 
-              Jun 07        Jun 08        Jun 09
+              Jun 08        Jun 09        Jun 10
 R1-R2           50%           50%           50%
 R3 or greater   10%           10%           10%
 
 Rationale: There is a chance for R1-R2 (Minor-Moderate) radio blackouts,
-and a slight chance for R3 (Strong) events, over 07-09 Jun.
+with a slight chance for R3 (Strong) events, over 08-10 Jun.
 
 ```
