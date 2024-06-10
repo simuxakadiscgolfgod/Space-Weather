@@ -1,13 +1,15 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2024-06-09
+<br />**Date image released:**  2024-06-10
 <br />**This image is owned by:**  
-HK (The League of Lost Causes)
+Imran Badr;
+Text: Natalia Lewandowska 
+(SUNY Oswego)
 
-<br />**Title of the image:**  How to Identify that Light in the Sky
-<br />**Description for the image:**  What is that light in the sky? The answer to one of humanity's more common questions may emerge from a few quick observations.  For example -- is it moving or blinking? If so, and if you live near a city, the answer is typically an airplane, since planes are so numerous and so few stars and satellites are bright enough to be seen over the glare of artificial city lights. If not, and if you live far from a city, that bright light is likely a planet such as Venus or Mars -- the former of which is constrained to appear near the horizon just before dawn or after dusk.  Sometimes the low apparent motion of a distant airplane near the horizon makes it hard to tell from a bright planet, but even this can usually be discerned by the plane's motion over a few minutes. Still unsure?   The featured chart gives a sometimes-humorous but mostly-accurate assessment.  Dedicated sky enthusiasts will likely note -- and are encouraged to provide -- polite corrections.   Chart translations: Italian, German, Latvian, Persian, Polish, Spanish, and Turkish
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2406/astronomy101_hk_960.jpg
+<br />**Title of the image:**  Sh2-132: The Lion Nebula
+<br />**Description for the image:**  Is the Lion Nebula the real ruler of the constellation Cepheus?  This powerful feline appearing nebula is powered by two massive stars, each with a mass over 20 times greater than our Sun.  Formed from shells of ionized gas that have expanded, the nebula's energetic matter not only glows, but is dense enough to contract gravitationally and form stars.  The angular size of the Lion Nebula, officially named Sh2-132,  is slightly greater than that of the full moon.  The gaseous iconic region resides about 10,000 light years away in a constellation named after the King of Aethopia in Greek mythology.   Your Sky Surprise: What picture did APOD feature on your birthday? (post 1995)
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2406/LionNeb_Badr_3720.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -51,58 +53,59 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Jun 09 0030 UTC
+:Issued: 2024 Jun 10 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Jun 09-Jun 11 2024 is 6.00 (NOAA Scale
+The greatest expected 3 hr Kp for Jun 10-Jun 12 2024 is 6.00 (NOAA Scale
 G2).
 
-NOAA Kp index breakdown Jun 09-Jun 11 2024
+NOAA Kp index breakdown Jun 10-Jun 12 2024
 
-             Jun 09       Jun 10       Jun 11
-00-03UT       3.00         1.67         4.67 (G1)
-03-06UT       3.33         1.33         4.67 (G1)
-06-09UT       2.33         2.33         3.67     
-09-12UT       2.00         3.33         3.33     
-12-15UT       2.33         4.67 (G1)    3.00     
-15-18UT       2.00         6.00 (G2)    2.33     
-18-21UT       2.00         6.00 (G2)    2.33     
-21-00UT       2.00         5.00 (G1)    1.67     
+             Jun 10       Jun 11       Jun 12
+00-03UT       1.67         4.67 (G1)    2.00     
+03-06UT       1.33         4.67 (G1)    2.33     
+06-09UT       2.33         3.67         3.33     
+09-12UT       3.33         3.33         2.67     
+12-15UT       4.67 (G1)    3.00         2.67     
+15-18UT       6.00 (G2)    2.33         2.00     
+18-21UT       6.00 (G2)    2.33         2.00     
+21-00UT       5.00 (G1)    1.67         2.00     
 
 Rationale: Periods of G1-G2 (Minor-Moderate) geomagnetic storms are
-likely on 10 Jun, with periods of G1 (Minor) storms likely on 11 Jun,
-due to the anticipated arrival and passage of the 07 Jun CME.
+likely on 10 Jun, with G1 periods likely extending into 11 Jun, due to
+the anticipated passage of a CME from 08 Jun.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 above S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Jun 09-Jun 11 2024
+Solar Radiation Storm Forecast for Jun 10-Jun 12 2024
 
-              Jun 09  Jun 10  Jun 11
-S1 or greater   99%     50%     10%
+              Jun 10  Jun 11  Jun 12
+S1 or greater   75%     25%     10%
 
-Rationale: S1 (Minor) storm levels are expected on 09 Jun, with a chance
-for S1 levels on 10 Jun. There is a slight chance for S1 levels on 11
-Jun.
+Rationale: S1 (Minor) levels are expected on 10 Jun. There is a chance
+for S1 levels on 11 Jun and a slight chance for S1 levels on 12 Jun.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-Radio blackouts reaching the R2 levels were observed over the past 24
-hours. The largest was at Jun 08 2024 0149 UTC.
+Radio blackouts reaching the R1 levels were observed over the past 24
+hours. The largest was at Jun 09 2024 0701 UTC.
 
-Radio Blackout Forecast for Jun 09-Jun 11 2024
+Radio Blackout Forecast for Jun 10-Jun 12 2024
 
-              Jun 09        Jun 10        Jun 11
+              Jun 10        Jun 11        Jun 12
 R1-R2           75%           75%           50%
 R3 or greater   25%           25%           10%
 
-Rationale: R1-R2 (Minor-Moderate) radio blackouts are likely, with a
-chance for isolated R3 (Strong) or greater events, over 09-11 Jun.
+Rationale: R1-R2 (Minor-Moderate) radio blackouts are expected, with a
+chance for R3 (Strong) or greater events, on 10-11 Jun. There is a
+chance for R1-R2 events and a slight chance for R3 or greater events on
+12 Jun.
 
 ```
