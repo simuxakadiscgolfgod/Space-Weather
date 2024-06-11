@@ -1,15 +1,13 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2024-06-10
+<br />**Date image released:**  2024-06-11
 <br />**This image is owned by:**  
-Imran Badr;
-Text: Natalia Lewandowska 
-(SUNY Oswego)
+Craig Stocks
 
-<br />**Title of the image:**  Sh2-132: The Lion Nebula
-<br />**Description for the image:**  Is the Lion Nebula the real ruler of the constellation Cepheus?  This powerful feline appearing nebula is powered by two massive stars, each with a mass over 20 times greater than our Sun.  Formed from shells of ionized gas that have expanded, the nebula's energetic matter not only glows, but is dense enough to contract gravitationally and form stars.  The angular size of the Lion Nebula, officially named Sh2-132,  is slightly greater than that of the full moon.  The gaseous iconic region resides about 10,000 light years away in a constellation named after the King of Aethopia in Greek mythology.   Your Sky Surprise: What picture did APOD feature on your birthday? (post 1995)
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2406/LionNeb_Badr_3720.jpg
+<br />**Title of the image:**  Colorful Stars and Clouds near Rho Ophiuchi
+<br />**Description for the image:**  Why is the sky near Antares and Rho Ophiuchi so colorful, yet dusty?  The colors result from a mixture of objects and processes.  Fine dust -- illuminated by starlight -- produces blue reflection nebulae. Gaseous clouds whose atoms are excited by ultraviolet starlight produce reddish emission nebulae. Backlit dust clouds block starlight and so appear dark.   Antares, a red supergiant and one of the brighter stars in the night sky, lights up the yellow-red clouds on the upper right of the featured image. The Rho Ophiuchi star system lies at the center of the blue reflection nebula on the left, while a different reflection nebula, IC 4605, lies just below and right of the image center.  These star clouds are even more colorful than humans can see, emitting light across the electromagnetic spectrum.   Open Science: Browse 3,400+ codes in the Astrophysics Source Code Library
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2406/RhoAntares_Stocks_2560.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -53,59 +51,61 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Jun 10 0030 UTC
+:Issued: 2024 Jun 11 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Jun 10-Jun 12 2024 is 6.00 (NOAA Scale
-G2).
+The greatest expected 3 hr Kp for Jun 11-Jun 13 2024 is 4.67 (NOAA Scale
+G1).
 
-NOAA Kp index breakdown Jun 10-Jun 12 2024
+NOAA Kp index breakdown Jun 11-Jun 13 2024
 
-             Jun 10       Jun 11       Jun 12
-00-03UT       1.67         4.67 (G1)    2.00     
-03-06UT       1.33         4.67 (G1)    2.33     
-06-09UT       2.33         3.67         3.33     
-09-12UT       3.33         3.33         2.67     
-12-15UT       4.67 (G1)    3.00         2.67     
-15-18UT       6.00 (G2)    2.33         2.00     
-18-21UT       6.00 (G2)    2.33         2.00     
-21-00UT       5.00 (G1)    1.67         2.00     
+             Jun 11       Jun 12       Jun 13
+00-03UT       4.67 (G1)    2.00         1.33     
+03-06UT       4.67 (G1)    2.33         1.33     
+06-09UT       3.67         3.33         1.33     
+09-12UT       3.33         2.67         1.33     
+12-15UT       3.00         2.67         1.33     
+15-18UT       2.33         2.00         1.67     
+18-21UT       2.33         2.00         1.67     
+21-00UT       1.67         2.00         1.67     
 
-Rationale: Periods of G1-G2 (Minor-Moderate) geomagnetic storms are
-likely on 10 Jun, with G1 periods likely extending into 11 Jun, due to
-the anticipated passage of a CME from 08 Jun.
+Rationale: A lingering chance for a G1 (Minor) or greater geomagnetic
+storms is anticipated on Day 1 (11 Jun) in response to the passage of
+the 08 Jun CME.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
-above S-scale storm level thresholds.
+below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Jun 10-Jun 12 2024
+Solar Radiation Storm Forecast for Jun 11-Jun 13 2024
 
-              Jun 10  Jun 11  Jun 12
-S1 or greater   75%     25%     10%
+              Jun 11  Jun 12  Jun 13
+S1 or greater   50%     25%     10%
 
-Rationale: S1 (Minor) levels are expected on 10 Jun. There is a chance
-for S1 levels on 11 Jun and a slight chance for S1 levels on 12 Jun.
+Rationale: There is a chance for an S1 (Minor) or greater solar
+radiation storm on Jun 11-12 with the continued activity of Region 2697
+as it rotates around the west limb.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-Radio blackouts reaching the R1 levels were observed over the past 24
-hours. The largest was at Jun 09 2024 0701 UTC.
+Radio blackouts reaching the R3 levels were observed over the past 24
+hours. The largest was at Jun 10 2024 1108 UTC.
 
-Radio Blackout Forecast for Jun 10-Jun 12 2024
+Radio Blackout Forecast for Jun 11-Jun 13 2024
 
-              Jun 10        Jun 11        Jun 12
-R1-R2           75%           75%           50%
-R3 or greater   25%           25%           10%
+              Jun 11        Jun 12        Jun 13
+R1-R2           70%           65%           50%
+R3 or greater   25%           20%           10%
 
-Rationale: R1-R2 (Minor-Moderate) radio blackouts are expected, with a
-chance for R3 (Strong) or greater events, on 10-11 Jun. There is a
-chance for R1-R2 events and a slight chance for R3 or greater events on
-12 Jun.
+Rationale: Solar activity is likely to be at moderate to high levels
+(R1-R2/Minor-Moderate) on 11 Jun with a chance for isolated X-class
+flare activity (R3/Strong). For 12-13 Jun, there is a decreasing chance
+for M-class flares with only a slight chance for isolated X-class flare
+activity as Region 3697 moves further beyond the SW limb.
 
 ```
