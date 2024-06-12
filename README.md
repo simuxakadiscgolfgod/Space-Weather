@@ -1,13 +1,13 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2024-06-11
+<br />**Date image released:**  2024-06-12
 <br />**This image is owned by:**  
-Craig Stocks
+Daniel Koszela
 
-<br />**Title of the image:**  Colorful Stars and Clouds near Rho Ophiuchi
-<br />**Description for the image:**  Why is the sky near Antares and Rho Ophiuchi so colorful, yet dusty?  The colors result from a mixture of objects and processes.  Fine dust -- illuminated by starlight -- produces blue reflection nebulae. Gaseous clouds whose atoms are excited by ultraviolet starlight produce reddish emission nebulae. Backlit dust clouds block starlight and so appear dark.   Antares, a red supergiant and one of the brighter stars in the night sky, lights up the yellow-red clouds on the upper right of the featured image. The Rho Ophiuchi star system lies at the center of the blue reflection nebula on the left, while a different reflection nebula, IC 4605, lies just below and right of the image center.  These star clouds are even more colorful than humans can see, emitting light across the electromagnetic spectrum.   Open Science: Browse 3,400+ codes in the Astrophysics Source Code Library
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2406/RhoAntares_Stocks_2560.jpg
+<br />**Title of the image:**  Aurora over Karkonosze Mountains
+<br />**Description for the image:**  It was the first time ever. At least, the first time this photographer had ever seen aurora from his home mountains.  And what a spectacular aurora it was. The Karkonosze Mountains in Poland are usually too far south to see any auroras.  But on the amazing night of May 10 - 11, purple and green colors lit up much of the night sky, a surprising spectacle that  also appeared over many mid-latitude locations around the Earth.  The featured image is a composite of six vertical exposures taken during the auroral peak. The futuristic buildings on the right are part of a meteorological observatory located on the highest peak of the Karkonosze Mountains.  The purple color is primarily due to Sun-triggered, high-energy electrons impacting nitrogen molecules in Earth's atmosphere.  Our Sun is reaching its maximum surface activity over the next two years, and although many more auroras are predicted, most will occur over regions closer to the Earth's poles.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2406/AuroraKarkonosze_Koszela_1409.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -51,61 +51,57 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Jun 11 0030 UTC
+:Issued: 2024 Jun 12 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Jun 11-Jun 13 2024 is 4.67 (NOAA Scale
-G1).
+The greatest expected 3 hr Kp for Jun 12-Jun 14 2024 is 3.00 (below NOAA
+Scale levels).
 
-NOAA Kp index breakdown Jun 11-Jun 13 2024
+NOAA Kp index breakdown Jun 12-Jun 14 2024
 
-             Jun 11       Jun 12       Jun 13
-00-03UT       4.67 (G1)    2.00         1.33     
-03-06UT       4.67 (G1)    2.33         1.33     
-06-09UT       3.67         3.33         1.33     
-09-12UT       3.33         2.67         1.33     
-12-15UT       3.00         2.67         1.33     
-15-18UT       2.33         2.00         1.67     
-18-21UT       2.33         2.00         1.67     
-21-00UT       1.67         2.00         1.67     
+             Jun 12       Jun 13       Jun 14
+00-03UT       2.67         1.33         1.67     
+03-06UT       3.00         1.33         1.67     
+06-09UT       2.33         1.33         1.33     
+09-12UT       2.00         1.33         1.67     
+12-15UT       1.67         1.33         1.33     
+15-18UT       1.00         1.67         1.33     
+18-21UT       2.00         1.67         1.33     
+21-00UT       2.00         1.67         1.33     
 
-Rationale: A lingering chance for a G1 (Minor) or greater geomagnetic
-storms is anticipated on Day 1 (11 Jun) in response to the passage of
-the 08 Jun CME.
+Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
+significant transient or recurrent solar wind features are forecast.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Jun 11-Jun 13 2024
+Solar Radiation Storm Forecast for Jun 12-Jun 14 2024
 
-              Jun 11  Jun 12  Jun 13
-S1 or greater   50%     25%     10%
+              Jun 12  Jun 13  Jun 14
+S1 or greater   10%     10%     10%
 
-Rationale: There is a chance for an S1 (Minor) or greater solar
-radiation storm on Jun 11-12 with the continued activity of Region 2697
-as it rotates around the west limb.
+Rationale: No S1 (Minor) or greater solar radiation storms are expected.
+No significant active region activity favorable for radiation storm
+production is forecast.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-Radio blackouts reaching the R3 levels were observed over the past 24
-hours. The largest was at Jun 10 2024 1108 UTC.
+No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Jun 11-Jun 13 2024
+Radio Blackout Forecast for Jun 12-Jun 14 2024
 
-              Jun 11        Jun 12        Jun 13
-R1-R2           70%           65%           50%
-R3 or greater   25%           20%           10%
+              Jun 12        Jun 13        Jun 14
+R1-R2           50%           50%           50%
+R3 or greater   10%           10%           10%
 
-Rationale: Solar activity is likely to be at moderate to high levels
-(R1-R2/Minor-Moderate) on 11 Jun with a chance for isolated X-class
-flare activity (R3/Strong). For 12-13 Jun, there is a decreasing chance
-for M-class flares with only a slight chance for isolated X-class flare
-activity as Region 3697 moves further beyond the SW limb.
+Rationale: Solar activity is likely to continue at low levels with a
+chance for isolated moderate activity in the form of low-level M-class
+flares (R1/Minor Radio Blackouts) through 14 Jun.
 
 ```
