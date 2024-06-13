@@ -1,13 +1,10 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2024-06-12
-<br />**This image is owned by:**  
-Daniel Koszela
-
-<br />**Title of the image:**  Aurora over Karkonosze Mountains
-<br />**Description for the image:**  It was the first time ever. At least, the first time this photographer had ever seen aurora from his home mountains.  And what a spectacular aurora it was. The Karkonosze Mountains in Poland are usually too far south to see any auroras.  But on the amazing night of May 10 - 11, purple and green colors lit up much of the night sky, a surprising spectacle that  also appeared over many mid-latitude locations around the Earth.  The featured image is a composite of six vertical exposures taken during the auroral peak. The futuristic buildings on the right are part of a meteorological observatory located on the highest peak of the Karkonosze Mountains.  The purple color is primarily due to Sun-triggered, high-energy electrons impacting nitrogen molecules in Earth's atmosphere.  Our Sun is reaching its maximum surface activity over the next two years, and although many more auroras are predicted, most will occur over regions closer to the Earth's poles.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2406/AuroraKarkonosze_Koszela_1409.jpg
+<br />**Date image released:**  2024-06-13
+<br />**Title of the image:**  Messier 66 Close Up
+<br />**Description for the image:**  Big, beautiful spiral galaxy Messier 66 lies a mere 35 million light-years away. The gorgeous island universe is about 100 thousand light-years across, similar in size to the Milky Way. This Hubble Space Telescope close-up view spans a region about 30,000 light-years wide around the galactic core. It shows the galaxy's disk dramatically inclined to our line-of-sight. Surrounding its bright core, the likely home of a supermassive black hole, obscuring dust lanes and young, blue star clusters sweep along spiral arms dotted with the tell-tale glow of pinkish star forming regions. Messier 66, also known as NGC 3627, is the brightest of the three galaxies in the gravitationally interacting Leo Triplet.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2406/heic1006a_M66.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -51,27 +48,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Jun 12 0030 UTC
+:Issued: 2024 Jun 13 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Jun 12-Jun 14 2024 is 3.00 (below NOAA
+The greatest expected 3 hr Kp for Jun 13-Jun 15 2024 is 1.67 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Jun 12-Jun 14 2024
+NOAA Kp index breakdown Jun 13-Jun 15 2024
 
-             Jun 12       Jun 13       Jun 14
-00-03UT       2.67         1.33         1.67     
-03-06UT       3.00         1.33         1.67     
-06-09UT       2.33         1.33         1.33     
-09-12UT       2.00         1.33         1.67     
-12-15UT       1.67         1.33         1.33     
-15-18UT       1.00         1.67         1.33     
-18-21UT       2.00         1.67         1.33     
-21-00UT       2.00         1.67         1.33     
+             Jun 13       Jun 14       Jun 15
+00-03UT       1.33         1.67         1.67     
+03-06UT       1.33         1.67         1.33     
+06-09UT       1.33         1.33         1.33     
+09-12UT       1.33         1.67         1.33     
+12-15UT       1.33         1.33         1.67     
+15-18UT       1.67         1.33         1.33     
+18-21UT       1.67         1.33         1.67     
+21-00UT       1.67         1.33         1.33     
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
 significant transient or recurrent solar wind features are forecast.
@@ -81,27 +78,28 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Jun 12-Jun 14 2024
+Solar Radiation Storm Forecast for Jun 13-Jun 15 2024
 
-              Jun 12  Jun 13  Jun 14
-S1 or greater   10%     10%     10%
+              Jun 13  Jun 14  Jun 15
+S1 or greater   75%     10%      1%
 
-Rationale: No S1 (Minor) or greater solar radiation storms are expected.
-No significant active region activity favorable for radiation storm
-production is forecast.
+Rationale: The greater than 10 MeV proton flux is expected to reached S1
+(Minor) solar radiation levels on 13 Jun. Levels should begin to tapper
+off by 14 Jun, and eventually return to near background levels by 15
+Jun.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-No radio blackouts were observed over the past 24 hours.
+Radio blackouts reaching the R1 levels were observed over the past 24
+hours. The largest was at Jun 12 2024 2246 UTC.
 
-Radio Blackout Forecast for Jun 12-Jun 14 2024
+Radio Blackout Forecast for Jun 13-Jun 15 2024
 
-              Jun 12        Jun 13        Jun 14
-R1-R2           50%           50%           50%
-R3 or greater   10%           10%           10%
+              Jun 13        Jun 14        Jun 15
+R1-R2           40%           40%           40%
+R3 or greater    5%            5%            5%
 
-Rationale: Solar activity is likely to continue at low levels with a
-chance for isolated moderate activity in the form of low-level M-class
-flares (R1/Minor Radio Blackouts) through 14 Jun.
+Rationale: There is a chance for isolated moderate activity (R1/Minor
+Radio Blackouts) through 15 Jun.
 
 ```
