@@ -1,10 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2024-06-13
-<br />**Title of the image:**  Messier 66 Close Up
-<br />**Description for the image:**  Big, beautiful spiral galaxy Messier 66 lies a mere 35 million light-years away. The gorgeous island universe is about 100 thousand light-years across, similar in size to the Milky Way. This Hubble Space Telescope close-up view spans a region about 30,000 light-years wide around the galactic core. It shows the galaxy's disk dramatically inclined to our line-of-sight. Surrounding its bright core, the likely home of a supermassive black hole, obscuring dust lanes and young, blue star clusters sweep along spiral arms dotted with the tell-tale glow of pinkish star forming regions. Messier 66, also known as NGC 3627, is the brightest of the three galaxies in the gravitationally interacting Leo Triplet.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2406/heic1006a_M66.jpg
+<br />**Date image released:**  2024-06-14
+<br />**This image is owned by:**  Martin Pugh
+<br />**Title of the image:**  RCW 85
+<br />**Description for the image:**  From the 1960 astronomical catalog of Rodgers, Campbell and Whiteoak, emission region RCW 85 shines in southern night skies between bright stars Alpha and Beta Centauri. About 5,000 light years distant, the hazy interstellar cloud of glowing hydrogen gas and dust is faint. But detailed structures along well-defined rims within RCW 85 are traced in this cosmic skyscape composed of 28 hours of narrow and broadband exposures. Suggestive of dramatic shapes in other stellar nurseries where natal clouds of gas and dust are sculpted by energetic winds and radiation from newborn stars, the tantalizing nebula has been called the Devil's Tower. This telescopic frame would span around 100 light-years at the estimated distance of RCW 85.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2406/HaLRGB+v2Pugh.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -48,27 +49,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Jun 13 0030 UTC
+:Issued: 2024 Jun 14 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 1 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Jun 13-Jun 15 2024 is 1.67 (below NOAA
+The greatest expected 3 hr Kp for Jun 14-Jun 16 2024 is 4.00 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Jun 13-Jun 15 2024
+NOAA Kp index breakdown Jun 14-Jun 16 2024
 
-             Jun 13       Jun 14       Jun 15
-00-03UT       1.33         1.67         1.67     
-03-06UT       1.33         1.67         1.33     
-06-09UT       1.33         1.33         1.33     
-09-12UT       1.33         1.67         1.33     
-12-15UT       1.33         1.33         1.67     
-15-18UT       1.67         1.33         1.33     
-18-21UT       1.67         1.33         1.67     
-21-00UT       1.67         1.33         1.33     
+             Jun 14       Jun 15       Jun 16
+00-03UT       1.67         1.33         4.00     
+03-06UT       1.67         2.00         3.67     
+06-09UT       1.33         2.00         3.33     
+09-12UT       1.67         2.67         3.33     
+12-15UT       1.33         2.67         2.33     
+15-18UT       1.33         2.67         2.33     
+18-21UT       1.33         3.67         2.00     
+21-00UT       1.33         3.67         2.00     
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
 significant transient or recurrent solar wind features are forecast.
@@ -78,28 +79,27 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Jun 13-Jun 15 2024
+Solar Radiation Storm Forecast for Jun 14-Jun 16 2024
 
-              Jun 13  Jun 14  Jun 15
-S1 or greater   75%     10%      1%
+              Jun 14  Jun 15  Jun 16
+S1 or greater   10%      1%      1%
 
-Rationale: The greater than 10 MeV proton flux is expected to reached S1
-(Minor) solar radiation levels on 13 Jun. Levels should begin to tapper
-off by 14 Jun, and eventually return to near background levels by 15
-Jun.
+Rationale: No S1 (Minor) or greater solar radiation storms are expected.
+No significant active region activity favorable for radiation storm
+production is forecast.
 
 C. NOAA Radio Blackout Activity and Forecast
 
 Radio blackouts reaching the R1 levels were observed over the past 24
-hours. The largest was at Jun 12 2024 2246 UTC.
+hours. The largest was at Jun 13 2024 1645 UTC.
 
-Radio Blackout Forecast for Jun 13-Jun 15 2024
+Radio Blackout Forecast for Jun 14-Jun 16 2024
 
-              Jun 13        Jun 14        Jun 15
-R1-R2           40%           40%           40%
+              Jun 14        Jun 15        Jun 16
+R1-R2           35%           35%           35%
 R3 or greater    5%            5%            5%
 
 Rationale: There is a chance for isolated moderate activity (R1/Minor
-Radio Blackouts) through 15 Jun.
+Radio Blackouts) through 16 Jun.
 
 ```
