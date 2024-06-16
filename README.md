@@ -1,11 +1,7 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2024-06-15
-<br />**This image is owned by:**  solar cycle 25
-<br />**Title of the image:**  Prominences and Filaments on the Active Sun
-<br />**Description for the image:**  This colorized and sharpened image of the Sun is composed of frames recording emission from hydrogen atoms in the solar chromosphere on May 15. Approaching the maximum of solar cycle 25, a multitude of active regions and twisting, snake-like solar filaments are seen to sprawl across the surface of the active Sun.  Suspend in the active regions' strong magnetic fields, the filaments of plasma lofted above the Sun's edge appear as bright solar prominences. The large prominences seen near 4 o'clock, and just before 9 o'clock around the solar limb are post flare loops from two powerful X-class solar flares that both occurred on that day. In fact, the 4 o'clock prominence is associated with the monster active region AR 3664 just rotating off the Sun's edge.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2406/Halpha_sondergaard.jpg
+<br />**Sorry, Image not available!**
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,56 +45,55 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Jun 15 0030 UTC
+:Issued: 2024 Jun 16 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 5 (NOAA Scale
+G1).
+The greatest expected 3 hr Kp for Jun 16-Jun 18 2024 is 4.00 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Jun 15-Jun 17 2024 is 4.00 (below NOAA
-Scale levels).
 
-NOAA Kp index breakdown Jun 15-Jun 17 2024
+NOAA Kp index breakdown Jun 16-Jun 18 2024
 
-             Jun 15       Jun 16       Jun 17
-00-03UT       1.33         4.00         1.67     
-03-06UT       2.00         3.67         1.67     
-06-09UT       2.00         3.33         2.00     
-09-12UT       2.67         3.33         2.00     
-12-15UT       2.67         2.33         2.33     
-15-18UT       2.67         2.33         2.00     
-18-21UT       3.67         2.00         2.33     
-21-00UT       3.67         2.00         3.00     
+             Jun 16       Jun 17       Jun 18
+00-03UT       4.00         1.67         2.67     
+03-06UT       3.67         1.67         4.00     
+06-09UT       3.33         2.00         4.00     
+09-12UT       3.33         2.00         3.00     
+12-15UT       2.33         2.33         1.67     
+15-18UT       2.33         2.00         2.00     
+18-21UT       2.00         2.33         2.33     
+21-00UT       2.00         3.00         3.33     
 
-Rationale: No G1 (Minor) or greater geomagnetic storms are expected.
+Rationale: No G1 (Minor) or greater geomagnetic storms are expected. 
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Jun 15-Jun 17 2024
+Solar Radiation Storm Forecast for Jun 16-Jun 18 2024
 
-              Jun 15  Jun 16  Jun 17
-S1 or greater    1%      1%      1%
+              Jun 16  Jun 17  Jun 18
+S1 or greater   10%     10%     10%
 
-Rationale: No S1 (Minor) or greater solar radiation storms are expected.
-No significant active region activity favorable for radiation storm
-production is forecast.
+Rationale: There is a slight chance for S1 (Minor) solar radiation
+storms over the next three days.
 
 C. NOAA Radio Blackout Activity and Forecast
 
 Radio blackouts reaching the R1 levels were observed over the past 24
-hours. The largest was at Jun 14 2024 0432 UTC.
+hours. The largest was at Jun 15 2024 0627 UTC.
 
-Radio Blackout Forecast for Jun 15-Jun 17 2024
+Radio Blackout Forecast for Jun 16-Jun 18 2024
 
-              Jun 15        Jun 16        Jun 17
-R1-R2           40%           40%           40%
-R3 or greater    5%            5%            5%
+              Jun 16        Jun 17        Jun 18
+R1-R2           55%           55%           55%
+R3 or greater   10%           10%           10%
 
-Rationale: There is a chance for isolated R1-Minor Radio Blackouts
-through 17 Jun.
+Rationale: R1-R2 (Minor-Moderate) radio blackouts are likely, with a
+slight chance of R3 (Strong), over the next three days.
 
 ```
