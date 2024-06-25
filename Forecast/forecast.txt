@@ -1,54 +1,56 @@
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Jun 16 0030 UTC
+:Issued: 2024 Jun 25 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 5 (NOAA Scale
-G1).
-The greatest expected 3 hr Kp for Jun 16-Jun 18 2024 is 4.00 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
+Scale levels).
+The greatest expected 3 hr Kp for Jun 25-Jun 27 2024 is 2.00 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Jun 16-Jun 18 2024
+NOAA Kp index breakdown Jun 25-Jun 27 2024
 
-             Jun 16       Jun 17       Jun 18
-00-03UT       4.00         1.67         2.67     
-03-06UT       3.67         1.67         4.00     
-06-09UT       3.33         2.00         4.00     
-09-12UT       3.33         2.00         3.00     
-12-15UT       2.33         2.33         1.67     
-15-18UT       2.33         2.00         2.00     
-18-21UT       2.00         2.33         2.33     
-21-00UT       2.00         3.00         3.33     
+             Jun 25       Jun 26       Jun 27
+00-03UT       1.67         1.67         1.67     
+03-06UT       2.00         2.00         1.67     
+06-09UT       1.33         1.33         1.67     
+09-12UT       1.33         1.33         1.33     
+12-15UT       0.67         1.33         1.33     
+15-18UT       1.33         1.00         1.33     
+18-21UT       1.33         1.33         1.33     
+21-00UT       1.67         1.67         1.33     
 
-Rationale: No G1 (Minor) or greater geomagnetic storms are expected. 
+Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
+significant transient or recurrent solar wind features are forecast.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Jun 16-Jun 18 2024
+Solar Radiation Storm Forecast for Jun 25-Jun 27 2024
 
-              Jun 16  Jun 17  Jun 18
-S1 or greater   10%     10%     10%
+              Jun 25  Jun 26  Jun 27
+S1 or greater   10%      5%      1%
 
-Rationale: There is a slight chance for S1 (Minor) solar radiation
-storms over the next three days.
+Rationale: A slight chance for an S1 (Minor) solar radiation event will
+persist through 25 Jun due to recent activity from the western limb.
 
 C. NOAA Radio Blackout Activity and Forecast
 
 Radio blackouts reaching the R1 levels were observed over the past 24
-hours. The largest was at Jun 15 2024 0627 UTC.
+hours. The largest was at Jun 24 2024 0452 UTC.
 
-Radio Blackout Forecast for Jun 16-Jun 18 2024
+Radio Blackout Forecast for Jun 25-Jun 27 2024
 
-              Jun 16        Jun 17        Jun 18
-R1-R2           55%           55%           55%
-R3 or greater   10%           10%           10%
+              Jun 25        Jun 26        Jun 27
+R1-R2           60%           60%           60%
+R3 or greater   15%           15%           15%
 
-Rationale: R1-R2 (Minor-Moderate) radio blackouts are likely, with a
-slight chance of R3 (Strong), over the next three days.
+Rationale: R1-2 (Minor-Moderate) radio blackouts due to M-class flare
+activity will remain likely through 27 June along with a slight chance
+for an isolated R3 (Strong) event.
 
 ```
