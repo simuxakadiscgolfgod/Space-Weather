@@ -1,5 +1,6 @@
 nasapy==0.2.7
-pandas==2.2.2
+numpy==1.26.4
+pandas==1.5.3
 pandas-datareader==0.10.0
 pandas-gbq==0.17.9
 pandas-stubs==1.5.3.230304
