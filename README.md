@@ -2,14 +2,6 @@
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
 <br />**Sorry, Image not available!**
-<br />**Date image released:**  2024-06-25
-<br />**This image is owned by:**  
-Martin Pugh &  
-Rocco Sung
-
-<br />**Title of the image:**  The Dark Doodad Nebula
-<br />**Description for the image:**  What is that strange brown ribbon on the sky?  When observing the star cluster NGC 4372, observers frequently take note of an unusual dark streak nearby running about three degrees in length. The streak, actually a long molecular cloud, has become known as the Dark Doodad Nebula.  (Doodad is slang for a thingy or a whatchamacallit.)  Pictured here, the Dark Doodad Nebula sweeps across the center of a rich and colorful starfield.  Its dark color comes from a high concentration of interstellar dust that preferentially scatters visible light.  The globular star cluster NGC 4372 is visible as the fuzzy white spot on the far left, while the bright blue star gamma Muscae is seen to the cluster's upper right. The Dark Doodad Nebula can be found with strong binoculars toward the southern constellation of the Fly (Musca).
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2406/Doodad_PughSung_9193.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -53,27 +45,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Jun 25 0030 UTC
+:Issued: 2024 Jun 26 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Jun 25-Jun 27 2024 is 2.00 (below NOAA
+The greatest expected 3 hr Kp for Jun 26-Jun 28 2024 is 4.00 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Jun 25-Jun 27 2024
+NOAA Kp index breakdown Jun 26-Jun 28 2024
 
-             Jun 25       Jun 26       Jun 27
+             Jun 26       Jun 27       Jun 28
 00-03UT       1.67         1.67         1.67     
-03-06UT       2.00         2.00         1.67     
-06-09UT       1.33         1.33         1.67     
+03-06UT       2.00         1.67         1.33     
+06-09UT       1.33         1.67         1.33     
 09-12UT       1.33         1.33         1.33     
-12-15UT       0.67         1.33         1.33     
-15-18UT       1.33         1.00         1.33     
-18-21UT       1.33         1.33         1.33     
-21-00UT       1.67         1.67         1.33     
+12-15UT       1.33         1.33         1.33     
+15-18UT       1.00         1.33         1.33     
+18-21UT       1.33         1.33         1.67     
+21-00UT       1.67         1.33         4.00     
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
 significant transient or recurrent solar wind features are forecast.
@@ -83,27 +75,27 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Jun 25-Jun 27 2024
+Solar Radiation Storm Forecast for Jun 26-Jun 28 2024
 
-              Jun 25  Jun 26  Jun 27
-S1 or greater   10%      5%      1%
+              Jun 26  Jun 27  Jun 28
+S1 or greater    5%      5%      5%
 
-Rationale: A slight chance for an S1 (Minor) solar radiation event will
-persist through 25 Jun due to recent activity from the western limb.
+Rationale: No S1 (Minor) or greater solar radiation storms are expected.
+No significant active region activity favorable for radiation storm
+production is forecast.
 
 C. NOAA Radio Blackout Activity and Forecast
 
 Radio blackouts reaching the R1 levels were observed over the past 24
-hours. The largest was at Jun 24 2024 0452 UTC.
+hours. The largest was at Jun 25 2024 1245 UTC.
 
-Radio Blackout Forecast for Jun 25-Jun 27 2024
+Radio Blackout Forecast for Jun 26-Jun 28 2024
 
-              Jun 25        Jun 26        Jun 27
-R1-R2           60%           60%           60%
-R3 or greater   15%           15%           15%
+              Jun 26        Jun 27        Jun 28
+R1-R2           55%           55%           55%
+R3 or greater    5%            5%            5%
 
 Rationale: R1-2 (Minor-Moderate) radio blackouts due to M-class flare
-activity will remain likely through 27 June along with a slight chance
-for an isolated R3 (Strong) event.
+activity are likely through 28 Jun given the history of AR3723 and
 
 ```
