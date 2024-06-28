@@ -1,11 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Sorry, Image not available!**
-<br />**Date image released:**  2024-06-27
-<br />**Title of the image:**  Protostellar Outflows in Serpens
-<br />**Description for the image:**  Jets of material blasting from newborn stars, are captured in this James Webb Space Telescope close-up of the Serpens Nebula. The powerful protostellar outflows are bipolar, twin jets spewing in opposite directions. Their directions are perpendicular to accretion disks formed around the spinning, collapsing stellar infants. In the NIRcam image, the reddish color represents emission from molecular hydrogen and carbon monoxide produced as the jets collide with the surrounding gas and dust. The sharp image shows for the first time that individual outflows detected in the Serpens Nebula are generally aligned along the same direction. That result was expected, but has only now come into clear view with Webb's detailed exploration of the active young star-forming region. Brighter foreground stars exhibit Webb's characteristic diffraction spikes. At the Serpens Nebula's estimated distance of 1,300 light-years, this cosmic close-up frame is about 1 light-year across.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2406/STScI-SerpNorth.png
+<br />**Date image released:**  2024-06-28
+<br />**This image is owned by:**  Dan Bartlett
+<br />**Title of the image:**  Comet 13P/Olbers
+<br />**Description for the image:**  Not a paradox, Comet 13P/Olbers is returning to the inner Solar System after 68 years. The periodic, Halley-type comet will reach its next perihelion or closest approach to the Sun on June 30 and has become a target for binocular viewing low in planet Earth's northern hemisphere night skies. But this sharp telescopic image of 13P is composed of stacked exposures made on the night of June 25. It easily reveals shifting details in the bright comet's torn and tattered ion tail buffeted by the wind from an active Sun, along with a broad, fanned-out dust tail and slightly greenish coma. The frame spans over two degrees across a background of faint stars toward the constellation Lynx.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2406/13P_Olbers_2024_06_24_215434PDT_DEBartlett.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,27 +49,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Jun 27 0030 UTC
+:Issued: 2024 Jun 28 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Jun 27-Jun 29 2024 is 4.67 (NOAA Scale
+The greatest expected 3 hr Kp for Jun 28-Jun 30 2024 is 4.67 (NOAA Scale
 G1).
 
-NOAA Kp index breakdown Jun 27-Jun 29 2024
+NOAA Kp index breakdown Jun 28-Jun 30 2024
 
-             Jun 27       Jun 28       Jun 29
-00-03UT       1.67         2.00         4.67 (G1)
-03-06UT       1.67         2.00         4.00     
-06-09UT       1.67         1.33         2.67     
-09-12UT       1.33         1.33         2.67     
-12-15UT       1.33         1.33         2.00     
-15-18UT       1.33         1.67         2.00     
-18-21UT       1.33         3.33         1.67     
-21-00UT       1.33         4.67 (G1)    2.67     
+             Jun 28       Jun 29       Jun 30
+00-03UT       2.00         4.67 (G1)    1.67     
+03-06UT       2.00         4.00         1.33     
+06-09UT       1.33         2.67         1.33     
+09-12UT       1.33         2.67         1.33     
+12-15UT       1.33         2.00         1.33     
+15-18UT       1.67         2.00         1.33     
+18-21UT       3.33         1.67         1.67     
+21-00UT       4.67 (G1)    2.67         1.67     
 
 Rationale: G1 (Minor) geomagnetic storming is likely on 28-29 Jun due to
 CME arrivals from the event that left the Sun on 24 Jun.
@@ -79,9 +79,9 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Jun 27-Jun 29 2024
+Solar Radiation Storm Forecast for Jun 28-Jun 30 2024
 
-              Jun 27  Jun 28  Jun 29
+              Jun 28  Jun 29  Jun 30
 S1 or greater    5%      5%      5%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -92,13 +92,13 @@ C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Jun 27-Jun 29 2024
+Radio Blackout Forecast for Jun 28-Jun 30 2024
 
-              Jun 27        Jun 28        Jun 29
+              Jun 28        Jun 29        Jun 30
 R1-R2           55%           55%           55%
 R3 or greater    5%            5%            5%
 
-Rationale: R1-R2 (Minor-Moderate) radio blackouts are likely through 29
-Jun due mainly to flare probabilities from Region 3723.
+Rationale: R1-R2 (Minor-Moderate) radio blackouts are likely through 30
+Jun due mainly to flare probabilities from Regions 3723 and 3729.
 
 ```
