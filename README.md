@@ -2,6 +2,10 @@
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
 <br />**Sorry, Image not available!**
+<br />**Date image released:**  2024-07-01
+<br />**Title of the image:**  Time Spiral
+<br />**Description for the image:**  What's happened since the universe started? The time spiral shown here features a few notable highlights. At the spiral's center is the Big Bang, the place where time, as we know it, began about 13.8 billion years ago. Within a few billion years atoms formed, then stars formed from atoms, galaxies formed from stars and gas, our Sun formed, soon followed by our Earth, about 4.6 billion years ago.  Life on Earth begins about 3.8 billion years ago, followed by cells, then photosynthesis within a billion years.  About 1.7 billion years ago, multicellular life on Earth began to flourish.  Fish began to swim about 500 million years ago, and mammals because walking on land about 200 million years ago. Humans first appeared only about 6 million years ago, and made the first cities only about 10,000 years ago.  The time spiral illustrated stops there, but human spaceflight might be added, which started only 75 years ago, and useful artificial intelligence began to take hold within only the past few years.   Explore Your Universe: Random APOD Generator
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2407/TimeSpiral_Budassi_2500.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -45,27 +49,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Jun 30 0030 UTC
+:Issued: 2024 Jul 01 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Jun 30-Jul 02 2024 is 4.00 (below NOAA
+The greatest expected 3 hr Kp for Jul 01-Jul 03 2024 is 4.00 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Jun 30-Jul 02 2024
+NOAA Kp index breakdown Jul 01-Jul 03 2024
 
-             Jun 30       Jul 01       Jul 02
-00-03UT       3.33         2.33         3.67     
-03-06UT       2.67         1.67         3.67     
-06-09UT       2.33         2.67         2.67     
-09-12UT       1.67         2.67         2.67     
-12-15UT       1.33         2.33         2.00     
-15-18UT       1.00         3.00         1.67     
-18-21UT       1.33         4.00         1.00     
-21-00UT       1.67         4.00         2.67     
+             Jul 01       Jul 02       Jul 03
+00-03UT       2.33         3.67         3.00     
+03-06UT       1.67         3.67         2.67     
+06-09UT       2.67         2.67         2.67     
+09-12UT       2.67         2.67         2.00     
+12-15UT       2.33         2.00         1.67     
+15-18UT       3.00         1.67         2.67     
+18-21UT       4.00         1.00         3.67     
+21-00UT       4.00         2.67         2.67     
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
 significant transient or recurrent solar wind features are forecast.
@@ -75,9 +79,9 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Jun 30-Jul 02 2024
+Solar Radiation Storm Forecast for Jul 01-Jul 03 2024
 
-              Jun 30  Jul 01  Jul 02
+              Jul 01  Jul 02  Jul 03
 S1 or greater    5%      5%      5%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -88,13 +92,13 @@ C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Jun 30-Jul 02 2024
+Radio Blackout Forecast for Jul 01-Jul 03 2024
 
-              Jun 30        Jul 01        Jul 02
+              Jul 01        Jul 02        Jul 03
 R1-R2           30%           30%           30%
 R3 or greater    5%            5%            5%
 
 Rationale: There is a chance for R1-R2 (Minor-Moderate) radio blackouts
-over 30 Jun - 02 Jul.
+over 01-03 Jul.
 
 ```
