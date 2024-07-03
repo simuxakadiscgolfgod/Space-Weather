@@ -1,10 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2024-07-02
-<br />**Title of the image:**  NGC 602: Oyster Star Cluster
-<br />**Description for the image:**  The clouds may look like an oyster, and the stars like pearls, but look beyond. Near the outskirts of the Small Magellanic Cloud, a satellite galaxy some 200 thousand light-years distant, lies this 5 million year old star cluster NGC 602. Surrounded by its birth shell of gas and dust, star cluster NGC 602 is featured in this stunning Hubble image, augmented in a rollover by images in the X-ray by the Chandra Observatory and in the infrared by Spitzer Telescope. Fantastic ridges and swept back gas strongly suggest that energetic radiation and shock waves from NGC 602's massive young stars have eroded the dusty material and triggered a progression of star formation moving away from the star cluster's center. At the estimated distance of the Small Magellanic Cloud, the featured picture spans about 200 light-years, but a tantalizing assortment of background galaxies are also visible in this sharp view. The background galaxies are hundreds of millions of light-years -- or more -- beyond NGC 602.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2407/Ngc602_ChandraHubbleSpitzer_3600.jpg
+<br />**Date image released:**  2024-07-03
+<br />**This image is owned by:**  Michael Sidonio
+<br />**Title of the image:**  M83: Star Streams and a Thousand Rubies
+<br />**Description for the image:**  Big, bright, and beautiful, spiral galaxy M83 lies a mere twelve million light-years away, near the southeastern tip of the very long constellation Hydra. About 40,000 light-years across, M83 is known as the Southern Pinwheel for its pronounced spiral arms. But the wealth of reddish star forming regions found near the edges of the arms' thick dust lanes, also suggest another popular moniker for M83, the Thousand-Ruby Galaxy. This new deep telescopic digital image also records the bright galaxy's faint, extended halo. Arcing toward the bottom of the cosmic frame lies a stellar tidal stream, debris drawn from massive M83 by the gravitational disruption of a smaller, merging satellite galaxy. Astronomers David Malin and Brian Hadley found the elusive star stream in the mid 1990s by enhancing photographic plates.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2407/DeepM83ThousandRubyGalaxy.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -48,39 +49,39 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Jul 02 0030 UTC
+:Issued: 2024 Jul 03 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Jul 02-Jul 04 2024 is 5.00 (NOAA Scale
+The greatest expected 3 hr Kp for Jul 03-Jul 05 2024 is 5.00 (NOAA Scale
 G1).
 
-NOAA Kp index breakdown Jul 02-Jul 04 2024
+NOAA Kp index breakdown Jul 03-Jul 05 2024
 
-             Jul 02       Jul 03       Jul 04
-00-03UT       3.67         3.00         4.00     
-03-06UT       3.67         2.67         3.67     
-06-09UT       2.67         2.67         2.67     
-09-12UT       2.67         2.00         2.00     
-12-15UT       2.00         1.67         1.67     
-15-18UT       1.67         2.67         1.67     
-18-21UT       1.00         4.33         2.00     
-21-00UT       2.67         5.00 (G1)    2.67     
+             Jul 03       Jul 04       Jul 05
+00-03UT       3.00         4.00         2.67     
+03-06UT       2.67         3.67         2.33     
+06-09UT       2.67         2.67         2.33     
+09-12UT       2.00         2.00         2.00     
+12-15UT       1.67         1.67         2.00     
+15-18UT       2.67         1.67         2.33     
+18-21UT       4.33         2.00         2.00     
+21-00UT       5.00 (G1)    2.67         2.00     
 
-Rationale: G1 (Minor) or greater geomagnetic storms are likely on Jul 03
-due to potential CME influence.
+Rationale: G1 (Minor) geomagnetic storms are likely on Jul 03 due to
+potential CME influence.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Jul 02-Jul 04 2024
+Solar Radiation Storm Forecast for Jul 03-Jul 05 2024
 
-              Jul 02  Jul 03  Jul 04
+              Jul 03  Jul 04  Jul 05
 S1 or greater    5%      5%      5%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -89,16 +90,15 @@ production is forecast.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-Radio blackouts reaching the R1 levels were observed over the past 24
-hours. The largest was at Jul 01 2024 1102 UTC.
+No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Jul 02-Jul 04 2024
+Radio Blackout Forecast for Jul 03-Jul 05 2024
 
-              Jul 02        Jul 03        Jul 04
+              Jul 03        Jul 04        Jul 05
 R1-R2           35%           35%           35%
 R3 or greater    5%            5%            5%
 
 Rationale: There is a chance for R1-R2 (Minor-Moderate) radio blackouts
-over 02-04 Jul.
+over 03-05 Jul.
 
 ```
