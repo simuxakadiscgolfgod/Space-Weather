@@ -1,11 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2024-07-03
-<br />**This image is owned by:**  Michael Sidonio
-<br />**Title of the image:**  M83: Star Streams and a Thousand Rubies
-<br />**Description for the image:**  Big, bright, and beautiful, spiral galaxy M83 lies a mere twelve million light-years away, near the southeastern tip of the very long constellation Hydra. About 40,000 light-years across, M83 is known as the Southern Pinwheel for its pronounced spiral arms. But the wealth of reddish star forming regions found near the edges of the arms' thick dust lanes, also suggest another popular moniker for M83, the Thousand-Ruby Galaxy. This new deep telescopic digital image also records the bright galaxy's faint, extended halo. Arcing toward the bottom of the cosmic frame lies a stellar tidal stream, debris drawn from massive M83 by the gravitational disruption of a smaller, merging satellite galaxy. Astronomers David Malin and Brian Hadley found the elusive star stream in the mid 1990s by enhancing photographic plates.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2407/DeepM83ThousandRubyGalaxy.jpg
+<br />**Date image released:**  2024-07-04
+<br />**This image is owned by:**  Jesús Carmona Guillén
+<br />**Title of the image:**  A Beautiful Trifid
+<br />**Description for the image:**  The beautiful Trifid Nebula is a cosmic study in contrasts. Also known as M20, it lies about 5,000 light-years away toward the nebula rich constellation Sagittarius. A star forming region in the plane of our galaxy, the Trifid does illustrate three different types of astronomical nebulae; red emission nebulae dominated by light from hydrogen atoms, blue reflection nebulae produced by dust reflecting starlight, and dark nebulae where dense dust clouds appear in silhouette. But the red emission region, roughly separated into three parts by obscuring dust lanes, is what lends the Trifid its popular name. Pillars and jets sculpted by newborn stars, above and right of the emission nebula's center, appear in famous Hubble Space Telescope close-up images of the region. The Trifid Nebula is about 40 light-years across. Too faint to be seen by the unaided eye, it almost covers the area of a full moon on planet Earth's sky.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2407/TrifidrecortesRGB.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,39 +49,39 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Jul 03 0030 UTC
+:Issued: 2024 Jul 04 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Jul 03-Jul 05 2024 is 5.00 (NOAA Scale
-G1).
+The greatest expected 3 hr Kp for Jul 04-Jul 06 2024 is 2.67 (below NOAA
+Scale levels).
 
-NOAA Kp index breakdown Jul 03-Jul 05 2024
+NOAA Kp index breakdown Jul 04-Jul 06 2024
 
-             Jul 03       Jul 04       Jul 05
-00-03UT       3.00         4.00         2.67     
-03-06UT       2.67         3.67         2.33     
-06-09UT       2.67         2.67         2.33     
-09-12UT       2.00         2.00         2.00     
-12-15UT       1.67         1.67         2.00     
-15-18UT       2.67         1.67         2.33     
-18-21UT       4.33         2.00         2.00     
-21-00UT       5.00 (G1)    2.67         2.00     
+             Jul 04       Jul 05       Jul 06
+00-03UT       2.00         1.67         1.67     
+03-06UT       1.67         1.67         1.33     
+06-09UT       1.67         1.67         1.33     
+09-12UT       1.67         1.33         1.33     
+12-15UT       2.33         1.33         1.33     
+15-18UT       2.33         1.33         1.33     
+18-21UT       2.67         1.33         1.67     
+21-00UT       2.33         1.33         1.67     
 
-Rationale: G1 (Minor) geomagnetic storms are likely on Jul 03 due to
-potential CME influence.
+Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
+significant transient or recurrent solar wind features are forecast.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Jul 03-Jul 05 2024
+Solar Radiation Storm Forecast for Jul 04-Jul 06 2024
 
-              Jul 03  Jul 04  Jul 05
+              Jul 04  Jul 05  Jul 06
 S1 or greater    5%      5%      5%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -90,15 +90,16 @@ production is forecast.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-No radio blackouts were observed over the past 24 hours.
+Radio blackouts reaching the R1 levels were observed over the past 24
+hours. The largest was at Jul 01 2024 1102 UTC.
 
-Radio Blackout Forecast for Jul 03-Jul 05 2024
+Radio Blackout Forecast for Jul 04-Jul 06 2024
 
-              Jul 03        Jul 04        Jul 05
+              Jul 04        Jul 05        Jul 06
 R1-R2           35%           35%           35%
 R3 or greater    5%            5%            5%
 
 Rationale: There is a chance for R1-R2 (Minor-Moderate) radio blackouts
-over 03-05 Jul.
+over 04-06 Jul.
 
 ```
