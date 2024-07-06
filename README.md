@@ -1,11 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2024-07-05
-<br />**This image is owned by:**  Gianni Tumino
-<br />**Title of the image:**  Mount Etna Milky Way
-<br />**Description for the image:**  A glow from the summit of Mount Etna, famous active stratovolcano of planet Earth, stands out along the horizon in this mountain and night skyscape. Bands of diffuse light from congeries of innumerable stars along the Milky Way galaxy stretch across the sky above. In silhouette, the Milky Way's massive dust clouds are clumped along the galactic plane. But also familiar to northern skygazers are bright stars Deneb, Vega, and Altair, the Summer Triangle straddling dark nebulae and luminous star clouds poised over the volcanic peak. The deep combined exposures also reveal the light of active star forming regions along the Milky Way, echoing Etna's ruddy hue in the northern hemisphere summer's night.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2407/GianniTumino_Etna&MW_14mm_JPG_LOGO__2048pix.jpg
+<br />**Date image released:**  2024-07-06
+<br />**This image is owned by:**  Massimo Di Fusco
+<br />**Title of the image:**  NGC 7789: Caroline's Rose
+<br />**Description for the image:**  Found among the rich starfields of the Milky Way, star cluster NGC 7789 lies about 8,000 light-years away toward the constellation Cassiopeia. A late 18th century deep sky discovery of astronomer Caroline Lucretia Herschel, the cluster is also known as Caroline's Rose. Its visual appearance in small telescopes, created by the cluster's complex of stars and voids, is suggestive of nested rose petals. Now estimated to be 1.6 billion years young, the galactic or open cluster of stars also shows its age. All the stars in the cluster were likely born at the same time, but the brighter and more massive ones have more rapidly exhausted the hydrogen fuel in their cores. These have evolved from main sequence stars like the Sun into the many red giant stars shown with a yellowish cast in this color composite. Using measured color and brightness, astronomers can model the mass and hence the age of the cluster stars just starting to "turn off" the main sequence and become red giants. Over 50 light-years across, Caroline's Rose spans about half a degree (the angular size of the Moon) near the center of the sharp telescopic image.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2407/NGC7789_difusco2048.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,27 +49,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Jul 05 0030 UTC
+:Issued: 2024 Jul 06 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Jul 05-Jul 07 2024 is 3.00 (below NOAA
+The greatest expected 3 hr Kp for Jul 06-Jul 08 2024 is 3.67 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Jul 05-Jul 07 2024
+NOAA Kp index breakdown Jul 06-Jul 08 2024
 
-             Jul 05       Jul 06       Jul 07
-00-03UT       2.67         1.67         1.67     
-03-06UT       3.00         2.00         2.00     
-06-09UT       2.33         1.67         1.67     
-09-12UT       1.67         1.33         1.33     
-12-15UT       1.33         0.67         1.33     
-15-18UT       1.33         1.33         0.67     
-18-21UT       2.00         1.33         1.67     
-21-00UT       2.00         1.67         1.33     
+             Jul 06       Jul 07       Jul 08
+00-03UT       1.67         1.67         2.00     
+03-06UT       2.00         2.00         3.00     
+06-09UT       1.67         1.67         3.67     
+09-12UT       1.33         1.33         2.67     
+12-15UT       0.67         1.33         2.67     
+15-18UT       1.33         0.67         2.00     
+18-21UT       1.33         1.67         1.67     
+21-00UT       1.67         1.33         2.67     
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
 significant transient or recurrent solar wind features are forecast.
@@ -79,9 +79,9 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Jul 05-Jul 07 2024
+Solar Radiation Storm Forecast for Jul 06-Jul 08 2024
 
-              Jul 05  Jul 06  Jul 07
+              Jul 06  Jul 07  Jul 08
 S1 or greater    5%      5%      5%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -93,13 +93,13 @@ C. NOAA Radio Blackout Activity and Forecast
 Radio blackouts reaching the R1 levels were observed over the past 24
 hours. The largest was at Jul 01 2024 1102 UTC.
 
-Radio Blackout Forecast for Jul 05-Jul 07 2024
+Radio Blackout Forecast for Jul 06-Jul 08 2024
 
-              Jul 05        Jul 06        Jul 07
+              Jul 06        Jul 07        Jul 08
 R1-R2           35%           35%           35%
 R3 or greater    5%            5%            5%
 
 Rationale: There is a chance for R1-R2 (Minor-Moderate) radio blackouts
-over 05-07 Jul.
+over 06-08 Jul.
 
 ```
