@@ -1,10 +1,14 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2024-07-07
-<br />**Title of the image:**  Iridescent Clouds over Sweden
-<br />**Description for the image:**  Why are these clouds multi-colored?  A relatively rare phenomenon in clouds known as iridescence can bring up unusual colors vividly -- or even a whole spectrum of colors simultaneously. These polar stratospheric clouds also, known as nacreous and mother-of-pearl clouds,  are formed of small water droplets of nearly uniform size. When the Sun is in the right position and, typically, hidden from direct view, these thin clouds can be seen significantly diffracting sunlight in a nearly coherent manner, with different colors being deflected by different amounts. Therefore, different colors will come to the observer from slightly different directions. Many clouds start with uniform regions that could show iridescence but quickly become too thick, too mixed, or too angularly far from the Sun to exhibit striking colors. The featured image and an accompanying video were taken late in 2019 over Ostersund, Sweden.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2407/IridescentClouds_Strand_1500.jpg
+<br />**Date image released:**  2024-07-08
+<br />**This image is owned by:**  
+Martin Vargic,
+ Halcyon Maps 
+
+<br />**Title of the image:**  Exoplanet Zoo: Other Stars
+<br />**Description for the image:**  Do other stars have planets like our Sun? Surely they do, and evidence includes slight star wobbles created by the gravity of orbiting exoplanets and slight star dimmings caused by orbiting planets moving in front. In all, there have now been over 5,500 exoplanets discovered, including thousands by NASA's space-based Kepler and TESS missions, and over 100 by ESO's ground-based HARPS instrument.  Featured here is an illustrated guess as to what some of these exoplanets might look like. Neptune-type planets occupy the middle and are colored blue because of blue-scattering atmospheric methane they might contain. On the sides of the illustration, Jupiter-type planets are shown, colored tan and red from the scatterings of atmospheric gases that likely include small amounts of carbon.  Interspersed are many Earth-type rocky planets of many colors. As more exoplanets are discovered and investigated, humanity is developing a better understanding of how common Earth-like planets are, and how common life might be in the universe.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2407/ExoplanetZoo_Vargic_2000.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -48,27 +52,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Jul 07 0030 UTC
+:Issued: 2024 Jul 08 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 1 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Jul 07-Jul 09 2024 is 3.67 (below NOAA
+The greatest expected 3 hr Kp for Jul 08-Jul 10 2024 is 3.67 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Jul 07-Jul 09 2024
+NOAA Kp index breakdown Jul 08-Jul 10 2024
 
-             Jul 07       Jul 08       Jul 09
-00-03UT       1.67         2.00         2.67     
-03-06UT       2.00         3.00         3.00     
-06-09UT       1.67         3.67         2.67     
-09-12UT       1.33         2.67         2.33     
-12-15UT       1.33         2.67         1.00     
-15-18UT       0.67         2.00         1.67     
-18-21UT       1.67         1.67         2.00     
-21-00UT       1.33         2.67         2.67     
+             Jul 08       Jul 09       Jul 10
+00-03UT       2.00         2.67         1.67     
+03-06UT       3.00         3.00         1.33     
+06-09UT       3.67         2.67         1.33     
+09-12UT       2.67         2.33         1.33     
+12-15UT       2.67         1.00         1.33     
+15-18UT       2.00         1.67         1.33     
+18-21UT       1.67         2.00         1.67     
+21-00UT       2.67         2.67         1.67     
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
 significant transient or recurrent solar wind features are forecast.
@@ -78,9 +82,9 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Jul 07-Jul 09 2024
+Solar Radiation Storm Forecast for Jul 08-Jul 10 2024
 
-              Jul 07  Jul 08  Jul 09
+              Jul 08  Jul 09  Jul 10
 S1 or greater    5%      5%      5%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -90,15 +94,15 @@ production is forecast.
 C. NOAA Radio Blackout Activity and Forecast
 
 Radio blackouts reaching the R1 levels were observed over the past 24
-hours. The largest was at Jul 01 2024 1102 UTC.
+hours. The largest was at Jul 07 2024 2231 UTC.
 
-Radio Blackout Forecast for Jul 07-Jul 09 2024
+Radio Blackout Forecast for Jul 08-Jul 10 2024
 
-              Jul 07        Jul 08        Jul 09
+              Jul 08        Jul 09        Jul 10
 R1-R2           40%           40%           40%
 R3 or greater    5%            5%            5%
 
 Rationale: There is a chance for R1-R2 (Minor-Moderate) radio blackouts
-over 07-09 Jul.
+over 08-10 Jul.
 
 ```
