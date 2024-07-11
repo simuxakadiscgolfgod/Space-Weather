@@ -1,11 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2024-07-10
-<br />**This image is owned by:**  Andy Ermolli
-<br />**Title of the image:**  A Sagittarius Triplet
-<br />**Description for the image:**  These three bright nebulae are often featured on telescopic tours of the constellation Sagittarius and the crowded starfields of the central Milky Way. In fact, 18th century cosmic tourist Charles Messier cataloged two of them; M8, the large nebula above center, and colorful M20 below and left in the frame. The third emission region includes NGC 6559, right of M8 and separated from the larger nebula by a dark dust lane. All three are stellar nurseries about five thousand light-years or so distant. Over a hundred light-years across the expansive M8 is also known as the Lagoon Nebula. M20's popular moniker is the Trifid. Glowing hydrogen gas creates the dominant red color of the emission nebulae. But for striking contrast, blue hues in the Trifid are due to dust reflected starlight. The broad interstellar skyscape spans almost 4 degrees or 8 full moons on the sky.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2407/sagittariusTri.jpg
+<br />**Date image released:**  2024-07-11
+<br />**This image is owned by:**  Juergen Stein
+<br />**Title of the image:**  Globular Cluster Omega Centauri
+<br />**Description for the image:**  Globular star cluster Omega Centauri packs about 10 million stars much older than the Sun into a volume some 150 light-years in diameter. Also known as NGC 5139, at a distance of 15,000 light-years it's the largest and brightest of 200 or so known globular clusters that roam the halo of our Milky Way galaxy. Though most star clusters consist of stars with the same age and composition, the enigmatic Omega Cen exhibits the presence of different stellar populations with a spread of ages and chemical abundances. In fact, Omega Cen may be the remnant core of a small galaxy merging with the Milky Way. With a yellowish hue, Omega Centauri's red giant stars are easy to pick out in this sharp telescopic view. A two-decade-long exploration of the dense star cluster with the Hubble Space Telescope has revealed evidence for a massive black hole near the center of Omega Centauri.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2407/NGC5139_Stein_a2048.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,58 +49,56 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Jul 10 0034 UTC
+:Issued: 2024 Jul 11 0034 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Jul 10-Jul 12 2024 is 4.00 (below NOAA
-Scale levels).
+The greatest expected 3 hr Kp for Jul 11-Jul 13 2024 is 4.67 (NOAA Scale
+G1).
 
-NOAA Kp index breakdown Jul 10-Jul 12 2024
+NOAA Kp index breakdown Jul 11-Jul 13 2024
 
-             Jul 10       Jul 11       Jul 12
-00-03UT       1.67         1.67         2.67     
-03-06UT       1.33         2.00         2.67     
-06-09UT       1.33         1.33         2.33     
-09-12UT       1.33         1.00         1.67     
-12-15UT       1.33         2.00         1.33     
-15-18UT       1.33         3.00         2.00     
-18-21UT       1.67         3.67         2.33     
-21-00UT       1.67         4.00         2.00     
+             Jul 11       Jul 12       Jul 13
+00-03UT       1.67         2.67         2.33     
+03-06UT       2.00         2.67         2.00     
+06-09UT       1.33         2.33         1.33     
+09-12UT       1.00         1.67         1.33     
+12-15UT       2.00         1.33         1.00     
+15-18UT       3.00         2.00         3.00     
+18-21UT       3.67         2.33         4.33     
+21-00UT       4.00         2.00         4.67 (G1)
 
-Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
-significant transient or recurrent solar wind features are forecast.
+Rationale: G1 (Minor) or greater geomagnetic storms are likely on 13 Jul
+due to positive CH HSS effects.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Jul 10-Jul 12 2024
+Solar Radiation Storm Forecast for Jul 11-Jul 13 2024
 
-              Jul 10  Jul 11  Jul 12
-S1 or greater    5%      5%      5%
+              Jul 11  Jul 12  Jul 13
+S1 or greater   15%     15%     15%
 
-Rationale: No S1 (Minor) or greater solar radiation storms are expected.
-No significant active region activity favorable for radiation storm
-production is forecast.
+Rationale: A slight chance for S1 (Minor) or greater solar radiation
+storms are possible on 11-13 Jul.
 
 C. NOAA Radio Blackout Activity and Forecast
 
 Radio blackouts reaching the R1 levels were observed over the past 24
-hours. The largest was at Jul 07 2024 2231 UTC.
+hours. 
 
-Radio Blackout Forecast for Jul 10-Jul 12 2024
+Radio Blackout Forecast for Jul 11-Jul 13 2024
 
-              Jul 10        Jul 11        Jul 12
-R1-R2           40%           40%           40%
-R3 or greater    5%            5%            5%
+              Jul 11        Jul 12        Jul 13
+R1-R2           60%           60%           60%
+R3 or greater   15%           15%           15%
 
-Rationale: A chance for isolated R1-2 (Minor-Moderate) radio blackouts
-due to M-class flares will persist through 12 Jul primarily due to the
-flare potential presented by AR 3738.
+Rationale: R1-R2 (Minor-Moderate) radio blackouts are likely 11-13 Jul
+due to M-class flare activity, primarily from AR 3738.
 
 ```
