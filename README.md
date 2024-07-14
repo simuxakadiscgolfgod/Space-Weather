@@ -1,10 +1,13 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2024-07-13
-<br />**Title of the image:**  Solar System Family Portrait
-<br />**Description for the image:**  In 1990, cruising four billion miles from the Sun, the Voyager 1 spacecraft looked back to make this first ever Solar System family portrait. The complete portrait is a 60 frame mosaic made from a vantage point 32 degrees above the ecliptic plane. In it, Voyager's wide-angle camera frames sweep through the inner Solar System at the left, linking up with ice giant Neptune, the Solar System's outermost planet, at the far right. Positions for Venus, Earth, Jupiter, Saturn, Uranus, and Neptune are indicated by letters, while the Sun is the bright spot near the center of the circle of frames. The inset frames for each of the planets are from Voyager's narrow-field camera. Unseen in the portrait are Mercury, too close to the Sun to be detected, and Mars, unfortunately hidden by sunlight scattered in the camera's optical system. Closer to the Sun than Neptune at the time, small, faint Pluto's position was not covered. In 2024 Voyager 1, NASA’s longest-running and most-distant spacecraft, is some 15 billion miles away, operating in interstellar space.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2407/ssportrait_vg1_big.jpg
+<br />**Date image released:**  2024-07-14
+<br />**This image is owned by:**  
+Aman Chokshi
+
+<br />**Title of the image:**  Meteor Misses Galaxy
+<br />**Description for the image:**  The galaxy was never in danger. For one thing, the Triangulum galaxy (M33), pictured, is much bigger than the tiny grain of rock at the head of the meteor. For another, the galaxy is much farther away -- in this instance 3 million light years as opposed to only about 0.0003 light seconds.  Even so, the meteor's path took it angularly below the galaxy. Also the wind high in Earth's atmosphere blew the meteor's glowing evaporative molecule train away from the galaxy, in angular projection.  Still, the astrophotographer was quite lucky to capture both a meteor and a galaxy in a single exposure -- which was subsequently added to two other images of M33 to bring up the spiral galaxy's colors.  At the end, the meteor was gone in a second, but the galaxy will last billions of years.   Your Sky Surprise: What picture did APOD feature on your birthday? (post 1995)
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2407/M33Meteor_Chokshi_2000.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -48,58 +51,58 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Jul 13 0030 UTC
+:Issued: 2024 Jul 14 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Jul 13-Jul 15 2024 is 4.67 (NOAA Scale
+The greatest expected 3 hr Kp for Jul 14-Jul 16 2024 is 4.67 (NOAA Scale
 G1).
 
-NOAA Kp index breakdown Jul 13-Jul 15 2024
+NOAA Kp index breakdown Jul 14-Jul 16 2024
 
-             Jul 13       Jul 14       Jul 15
-00-03UT       2.33         4.67 (G1)    2.67     
-03-06UT       2.00         3.67         3.67     
-06-09UT       1.33         3.00         3.00     
-09-12UT       1.33         2.33         2.67     
-12-15UT       1.00         2.67         2.67     
-15-18UT       3.00         3.00         2.67     
-18-21UT       4.33         3.00         2.00     
-21-00UT       4.67 (G1)    3.00         2.00     
+             Jul 14       Jul 15       Jul 16
+00-03UT       3.67         2.67         2.33     
+03-06UT       4.67 (G1)    3.67         2.33     
+06-09UT       2.67         3.00         2.00     
+09-12UT       3.00         2.67         2.00     
+12-15UT       1.67         2.67         2.33     
+15-18UT       1.67         2.67         2.00     
+18-21UT       3.00         2.00         2.00     
+21-00UT       2.67         2.00         2.00     
 
-Rationale: G1 (Minor) geomagnetic storming is likely on 13 and 14 Jul
-due to positive polarity CH HSS effects.
+Rationale: G1 (Minor) geomagnetic storming is likely on 14 Jul due to
+positive polarity CH HSS effects.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Jul 13-Jul 15 2024
+Solar Radiation Storm Forecast for Jul 14-Jul 16 2024
 
-              Jul 13  Jul 14  Jul 15
+              Jul 14  Jul 15  Jul 16
 S1 or greater   15%     15%     15%
 
 Rationale: A slight chance for S1 (Minor) solar radiation storms will
-persist through 15 Jul primarily due to the potential and increasingly
+persist through 16 Jul primarily due to the potential and increasingly
 favorable location exhibited by AR 3738.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-Radio blackouts reaching the R1 levels were observed over the past 24
-hours. The largest was at Jul 07 2024 2231 UTC.
+Radio blackouts reaching the R2 levels were observed over the past 24
+hours. The largest was at Jul 13 2024 1242 UTC.
 
-Radio Blackout Forecast for Jul 13-Jul 15 2024
+Radio Blackout Forecast for Jul 14-Jul 16 2024
 
-              Jul 13        Jul 14        Jul 15
+              Jul 14        Jul 15        Jul 16
 R1-R2           60%           60%           60%
 R3 or greater   15%           15%           15%
 
-Rationale: A slight chance for S1 (Minor) solar radiation storms will
-persist through 15 Jul primarily due to the potential and increasingly
+Rationale: A likely chance for S1 (Minor) solar radiation storms will
+persist through 16 Jul primarily due to the potential and increasingly
 favorable location exhibited by AR 3738.
 
 ```
