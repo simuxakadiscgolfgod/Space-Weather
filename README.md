@@ -1,13 +1,10 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2024-07-14
-<br />**This image is owned by:**  
-Aman Chokshi
-
-<br />**Title of the image:**  Meteor Misses Galaxy
-<br />**Description for the image:**  The galaxy was never in danger. For one thing, the Triangulum galaxy (M33), pictured, is much bigger than the tiny grain of rock at the head of the meteor. For another, the galaxy is much farther away -- in this instance 3 million light years as opposed to only about 0.0003 light seconds.  Even so, the meteor's path took it angularly below the galaxy. Also the wind high in Earth's atmosphere blew the meteor's glowing evaporative molecule train away from the galaxy, in angular projection.  Still, the astrophotographer was quite lucky to capture both a meteor and a galaxy in a single exposure -- which was subsequently added to two other images of M33 to bring up the spiral galaxy's colors.  At the end, the meteor was gone in a second, but the galaxy will last billions of years.   Your Sky Surprise: What picture did APOD feature on your birthday? (post 1995)
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2407/M33Meteor_Chokshi_2000.jpg
+<br />**Date image released:**  2024-07-15
+<br />**Title of the image:**  The Tadpole Galaxy from Hubble
+<br />**Description for the image:**  Why does this galaxy have such a long tail?  In this stunning vista, based on image data from the Hubble Legacy Archive, distant galaxies form a dramatic backdrop for disrupted spiral galaxy Arp 188, the Tadpole Galaxy. The cosmic tadpole is a mere 420 million light-years distant toward the northern constellation of the Dragon (Draco). Its eye-catching tail is about 280 thousand light-years long and features massive, bright blue star clusters. One story goes that a more compact intruder galaxy crossed in front of Arp 188 - from right to left in this view - and was slung around behind the Tadpole by their gravitational attraction. During the close encounter, tidal forces drew out the spiral galaxy's stars, gas, and dust forming the spectacular tail. The intruder galaxy itself, estimated to lie about 300 thousand light-years behind the Tadpole, can be seen through foreground spiral arms at the upper right. Following its terrestrial namesake, the Tadpole Galaxy will likely lose its tail as it grows older, the tail's star clusters forming smaller satellites of the large spiral galaxy.   APOD in world languages: Arabic (IG), Bulgarian, Catalan, Chinese (Beijing), Chinese (Taiwan), Czech, Dutch, Farsi, French, German, Hebrew, Japanese, Portuguese, Russian, Serbian, Slovenian,  Spanish, Taiwanese, Turkish, and  Ukrainian
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2407/TadpoleGalaxy_HubblePathak_3751.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -51,58 +48,58 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Jul 14 0030 UTC
+:Issued: 2024 Jul 15 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Jul 14-Jul 16 2024 is 4.67 (NOAA Scale
-G1).
+The greatest expected 3 hr Kp for Jul 15-Jul 17 2024 is 1.67 (below NOAA
+Scale levels).
 
-NOAA Kp index breakdown Jul 14-Jul 16 2024
+NOAA Kp index breakdown Jul 15-Jul 17 2024
 
-             Jul 14       Jul 15       Jul 16
-00-03UT       3.67         2.67         2.33     
-03-06UT       4.67 (G1)    3.67         2.33     
-06-09UT       2.67         3.00         2.00     
-09-12UT       3.00         2.67         2.00     
-12-15UT       1.67         2.67         2.33     
-15-18UT       1.67         2.67         2.00     
-18-21UT       3.00         2.00         2.00     
-21-00UT       2.67         2.00         2.00     
+             Jul 15       Jul 16       Jul 17
+00-03UT       1.67         1.67         1.67     
+03-06UT       1.33         1.67         1.33     
+06-09UT       1.33         1.33         1.33     
+09-12UT       1.33         1.33         1.33     
+12-15UT       1.67         1.67         1.33     
+15-18UT       1.33         1.33         1.33     
+18-21UT       1.67         1.33         1.67     
+21-00UT       1.33         1.33         1.67     
 
-Rationale: G1 (Minor) geomagnetic storming is likely on 14 Jul due to
-positive polarity CH HSS effects.
+Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
+significant transient or recurrent solar wind features are forecast.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Jul 14-Jul 16 2024
+Solar Radiation Storm Forecast for Jul 15-Jul 17 2024
 
-              Jul 14  Jul 15  Jul 16
+              Jul 15  Jul 16  Jul 17
 S1 or greater   15%     15%     15%
 
 Rationale: A slight chance for S1 (Minor) solar radiation storms will
-persist through 16 Jul primarily due to the potential and increasingly
+persist through 17 Jul primarily due to the potential and increasingly
 favorable location exhibited by AR 3738.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-Radio blackouts reaching the R2 levels were observed over the past 24
-hours. The largest was at Jul 13 2024 1242 UTC.
+Radio blackouts reaching the R3 levels were observed over the past 24
+hours. The largest was at Jul 14 2024 0234 UTC.
 
-Radio Blackout Forecast for Jul 14-Jul 16 2024
+Radio Blackout Forecast for Jul 15-Jul 17 2024
 
-              Jul 14        Jul 15        Jul 16
-R1-R2           60%           60%           60%
+              Jul 15        Jul 16        Jul 17
+R1-R2           65%           65%           65%
 R3 or greater   15%           15%           15%
 
 Rationale: A likely chance for S1 (Minor) solar radiation storms will
-persist through 16 Jul primarily due to the potential and increasingly
+persist through 17 Jul primarily due to the potential and increasingly
 favorable location exhibited by AR 3738.
 
 ```
