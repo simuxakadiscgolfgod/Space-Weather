@@ -1,42 +1,41 @@
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Jul 15 0030 UTC
+:Issued: 2024 Jul 16 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Jul 15-Jul 17 2024 is 1.67 (below NOAA
+The greatest expected 3 hr Kp for Jul 16-Jul 18 2024 is 4.00 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Jul 15-Jul 17 2024
+NOAA Kp index breakdown Jul 16-Jul 18 2024
 
-             Jul 15       Jul 16       Jul 17
-00-03UT       1.67         1.67         1.67     
-03-06UT       1.33         1.67         1.33     
+             Jul 16       Jul 17       Jul 18
+00-03UT       1.67         1.67         2.00     
+03-06UT       1.67         1.33         1.67     
 06-09UT       1.33         1.33         1.33     
-09-12UT       1.33         1.33         1.33     
-12-15UT       1.67         1.67         1.33     
-15-18UT       1.33         1.33         1.33     
-18-21UT       1.67         1.33         1.67     
-21-00UT       1.33         1.33         1.67     
+09-12UT       1.33         1.33         1.00     
+12-15UT       1.67         1.33         1.00     
+15-18UT       1.33         1.33         2.33     
+18-21UT       1.33         1.67         3.00     
+21-00UT       1.33         1.67         4.00     
 
-Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
-significant transient or recurrent solar wind features are forecast.
+Rationale: No G1 (Minor) or greater geomagnetic storms are expected. 
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Jul 15-Jul 17 2024
+Solar Radiation Storm Forecast for Jul 16-Jul 18 2024
 
-              Jul 15  Jul 16  Jul 17
+              Jul 16  Jul 17  Jul 18
 S1 or greater   15%     15%     15%
 
 Rationale: A slight chance for S1 (Minor) solar radiation storms will
-persist through 17 Jul primarily due to the potential and increasingly
+persist through 18 Jul primarily due to the potential and increasingly
 favorable location exhibited by AR 3738.
 
 C. NOAA Radio Blackout Activity and Forecast
@@ -44,9 +43,9 @@ C. NOAA Radio Blackout Activity and Forecast
 Radio blackouts reaching the R3 levels were observed over the past 24
 hours. The largest was at Jul 14 2024 0234 UTC.
 
-Radio Blackout Forecast for Jul 15-Jul 17 2024
+Radio Blackout Forecast for Jul 16-Jul 18 2024
 
-              Jul 15        Jul 16        Jul 17
+              Jul 16        Jul 17        Jul 18
 R1-R2           65%           65%           65%
 R3 or greater   15%           15%           15%
 
