@@ -2,6 +2,11 @@
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
 <br />**Sorry, Image not available!**
+<br />**Date image released:**  2024-07-18
+<br />**This image is owned by:**  Christopher Freeburn
+<br />**Title of the image:**  Messier 24: Sagittarius Star Cloud
+<br />**Description for the image:**  Unlike most entries in Charles Messier's famous catalog of deep sky objects, M24 is not a bright galaxy, star cluster, or nebula. It's a gap in nearby, obscuring interstellar dust clouds that allows a view of the distant stars in the Sagittarius spiral arm of our Milky Way galaxy. Direct your gaze through this gap with binoculars or small telescope and you are looking through a window over 300 light-years wide at stars some 10,000 light-years or more from Earth. Sometimes called the Small Sagittarius Star Cloud, M24's luminous stars are left of center in this gorgeous starscape.  Covering over 6 degrees or the width of 12 full moons in the constellation Sagittarius, the telescopic field of view includes dark markings B92 and B93 near the center of M24, along with other clouds of dust and glowing nebulae toward the center of the Milky Way.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2407/M24-HaLRGB-RC51_2048.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -45,56 +50,56 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Jul 17 0030 UTC
+:Issued: 2024 Jul 18 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Jul 17-Jul 19 2024 is 4.00 (below NOAA
+The greatest expected 3 hr Kp for Jul 18-Jul 20 2024 is 4.33 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Jul 17-Jul 19 2024
+NOAA Kp index breakdown Jul 18-Jul 20 2024
 
-             Jul 17       Jul 18       Jul 19
-00-03UT       3.00         2.00         3.00     
-03-06UT       2.33         1.67         2.33     
-06-09UT       2.67         1.33         2.00     
-09-12UT       2.00         1.00         1.67     
-12-15UT       1.33         1.00         1.33     
-15-18UT       1.33         2.33         1.67     
-18-21UT       1.67         3.00         2.00     
-21-00UT       1.67         4.00         2.67     
+             Jul 18       Jul 19       Jul 20
+00-03UT       2.00         3.00         3.00     
+03-06UT       1.67         2.33         2.00     
+06-09UT       1.33         2.00         1.67     
+09-12UT       1.00         1.67         3.33     
+12-15UT       1.00         1.33         4.33     
+15-18UT       2.33         1.67         3.67     
+18-21UT       3.00         2.00         3.00     
+21-00UT       4.00         2.67         2.67     
 
-Rationale: No G1 (Minor) or greater geomagnetic storms are expected. 
+Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
+significant transient or recurrent solar wind features are forecast.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Jul 17-Jul 19 2024
+Solar Radiation Storm Forecast for Jul 18-Jul 20 2024
 
-              Jul 17  Jul 18  Jul 19
-S1 or greater   25%     10%     10%
+              Jul 18  Jul 19  Jul 20
+S1 or greater   15%     15%     15%
 
 Rationale: There exists a chance for S1 (Minor) solar radiation storms
-over 17 Jul which decreases to a slight chance over 18-19 Jul as Region
-3738 rotates off of the visible disk.
+over 18-20 Jul.
 
 C. NOAA Radio Blackout Activity and Forecast
 
 Radio blackouts reaching the R3 levels were observed over the past 24
 hours. The largest was at Jul 16 2024 1326 UTC.
 
-Radio Blackout Forecast for Jul 17-Jul 19 2024
+Radio Blackout Forecast for Jul 18-Jul 20 2024
 
-              Jul 17        Jul 18        Jul 19
-R1-R2           70%           55%           55%
-R3 or greater   25%           10%           10%
+              Jul 18        Jul 19        Jul 20
+R1-R2           65%           65%           65%
+R3 or greater   15%           15%           15%
 
-Rationale: R1-R2 (Minor-Moderate) radio blackouts are likely over 17-19
+Rationale: R1-R2 (Minor-Moderate) radio blackouts are likely over 18-20
 Jul, with a slight chance for R3 (Strong) due to multiple complex
 regions on the visible disk.
 
