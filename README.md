@@ -1,11 +1,10 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2024-07-19
-<br />**This image is owned by:**  Pavel Gabzdyl
-<br />**Title of the image:**  Anticrepuscular Rays at the Planet Festival
-<br />**Description for the image:**  For some, these subtle bands of light and shadow stretched across the sky as the Sun set on July 11. Known as anticrepuscular rays, the bands are formed as a large cloud bank near the western horizon cast long shadows through the atmosphere at sunset. Due to the camera's perspective, the bands of light and shadow seem to converge toward the eastern (opposite) horizon at a point seen just above a 14th century hilltop castle near Brno, Czech Republic. In the foreground, denizens of planet Earth are enjoying the region's annual Planet Festival in the park below the Brno Observatory and Planetarium. And while crepuscular and anticrepuscular rays are a relatively common atmospheric phenomenon, this festival's 10 meter diameter inflatable spheres representing bodies of the Solar System are less often seen on planet Earth.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2407/2024-07-11Pavel_2048p.jpg
+<br />**Date image released:**  2024-07-20
+<br />**Title of the image:**  Apollo 11 Landing Panorama
+<br />**Description for the image:**  Have you seen a panorama from another world lately? Assembled from high-resolution scans of the original film frames, this one sweeps across the magnificent desolation of the Apollo 11 landing site on the Moon's Sea of Tranquility. The images were taken 55 years ago by Neil Armstrong looking out his window on the Eagle Lunar Module shortly after the July 20, 1969 landing. The frame at the far left (AS11-37-5449) is the first picture taken by a person on another world. Thruster nozzles can be seen in the foreground on the left (toward the south), while at the right (west), the shadow of the Eagle is visible. For scale, the large, shallow crater on the right has a diameter of about 12 meters. Frames taken from the Lunar Module windows about an hour and a half after landing, before walking on the lunar surface, were intended to document the landing site in case an early departure was necessary.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2407/a11pan1040226lftsm.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,27 +48,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Jul 19 0030 UTC
+:Issued: 2024 Jul 20 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Jul 19-Jul 21 2024 is 5.00 (NOAA Scale
+The greatest expected 3 hr Kp for Jul 20-Jul 22 2024 is 5.00 (NOAA Scale
 G1).
 
-NOAA Kp index breakdown Jul 19-Jul 21 2024
+NOAA Kp index breakdown Jul 20-Jul 22 2024
 
-             Jul 19       Jul 20       Jul 21
-00-03UT       3.00         3.00         5.00 (G1)
-03-06UT       2.33         2.00         4.33     
-06-09UT       2.00         1.67         3.33     
-09-12UT       1.67         3.33         2.67     
-12-15UT       1.33         4.33         2.33     
-15-18UT       1.67         3.67         2.00     
-18-21UT       2.00         3.00         2.67     
-21-00UT       2.67         2.67         3.67     
+             Jul 20       Jul 21       Jul 22
+00-03UT       2.00         5.00 (G1)    3.00     
+03-06UT       2.33         4.33         2.00     
+06-09UT       1.00         3.33         2.00     
+09-12UT       2.33         2.67         2.00     
+12-15UT       3.67         2.33         2.00     
+15-18UT       4.00         2.00         2.33     
+18-21UT       3.33         2.67         2.00     
+21-00UT       4.33         3.67         2.00     
 
 Rationale: G1 (Minor) storms are likely on 21 Jul, due to the arrival of
 the 16 Jul CMEs.
@@ -79,27 +78,27 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Jul 19-Jul 21 2024
+Solar Radiation Storm Forecast for Jul 20-Jul 22 2024
 
-              Jul 19  Jul 20  Jul 21
+              Jul 20  Jul 21  Jul 22
 S1 or greater   15%     15%     10%
 
-Rationale: There is a chance for S1 (Minor) solar radiation storms
-over 19-21 Jul.
+Rationale: There is a slight chance for S1 (Minor) solar radiation
+storms through 22 Jul.
 
 C. NOAA Radio Blackout Activity and Forecast
 
 Radio blackouts reaching the R3 levels were observed over the past 24
 hours. The largest was at Jul 16 2024 1326 UTC.
 
-Radio Blackout Forecast for Jul 19-Jul 21 2024
+Radio Blackout Forecast for Jul 20-Jul 22 2024
 
-              Jul 19        Jul 20        Jul 21
-R1-R2           60%           60%           55%
-R3 or greater   15%           15%           10%
+              Jul 20        Jul 21        Jul 22
+R1-R2           55%           55%           55%
+R3 or greater   10%           10%           10%
 
-Rationale: R1-R2 (Minor-Moderate) radio blackouts are likely over 19-21
-Jul, with a slight chance for R3 (Strong) due to multiple complex
-regions on the visible disk.
+Rationale: R1-R2 (Minor-Moderate) radio blackouts are likely through 22
+Jul, with a slight chance for an R3 (Strong) event, due to multiple
+complex regions on the visible disk.
 
 ```
