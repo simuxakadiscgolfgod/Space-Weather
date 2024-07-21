@@ -1,10 +1,14 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2024-07-20
-<br />**Title of the image:**  Apollo 11 Landing Panorama
-<br />**Description for the image:**  Have you seen a panorama from another world lately? Assembled from high-resolution scans of the original film frames, this one sweeps across the magnificent desolation of the Apollo 11 landing site on the Moon's Sea of Tranquility. The images were taken 55 years ago by Neil Armstrong looking out his window on the Eagle Lunar Module shortly after the July 20, 1969 landing. The frame at the far left (AS11-37-5449) is the first picture taken by a person on another world. Thruster nozzles can be seen in the foreground on the left (toward the south), while at the right (west), the shadow of the Eagle is visible. For scale, the large, shallow crater on the right has a diameter of about 12 meters. Frames taken from the Lunar Module windows about an hour and a half after landing, before walking on the lunar surface, were intended to document the landing site in case an early departure was necessary.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2407/a11pan1040226lftsm.jpg
+<br />**Date image released:**  2024-07-21
+<br />**This image is owned by:**  
+Wayne Pinkston 
+(LightCrafter Photography)
+
+<br />**Title of the image:**  King of Wings Hoodoo under the Milky Way
+<br />**Description for the image:**  This rock structure is not only surreal -- it's real.  Perhaps the reason it's not more famous is that it is smaller than one might guess: the capstone rock overhangs only a few meters.  Even so, the King of Wings outcrop, located in New Mexico, USA, is a fascinating example of an unusual type of rock structure called a hoodoo. Hoodoos may form when a layer of hard rock overlays a layer of eroding softer rock. Figuring out the details of incorporating this hoodoo into a night-sky photoshoot took over a year. Besides waiting for a suitably picturesque night behind a sky with few clouds, the foreground had to be artificially lit just right relative to the natural glow of the background.  After much planning and waiting, the final shot, featured here, was taken in May 2016. Mimicking the horizontal bar, the background sky features the band of our Milky Way Galaxy stretching overhead.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2407/KingOfWings_Pinkston_7360.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -48,27 +52,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Jul 20 0030 UTC
+:Issued: 2024 Jul 21 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Jul 20-Jul 22 2024 is 5.00 (NOAA Scale
+The greatest expected 3 hr Kp for Jul 21-Jul 23 2024 is 5.00 (NOAA Scale
 G1).
 
-NOAA Kp index breakdown Jul 20-Jul 22 2024
+NOAA Kp index breakdown Jul 21-Jul 23 2024
 
-             Jul 20       Jul 21       Jul 22
-00-03UT       2.00         5.00 (G1)    3.00     
-03-06UT       2.33         4.33         2.00     
-06-09UT       1.00         3.33         2.00     
-09-12UT       2.33         2.67         2.00     
-12-15UT       3.67         2.33         2.00     
-15-18UT       4.00         2.00         2.33     
-18-21UT       3.33         2.67         2.00     
-21-00UT       4.33         3.67         2.00     
+             Jul 21       Jul 22       Jul 23
+00-03UT       5.00 (G1)    3.00         1.67     
+03-06UT       4.33         2.00         1.33     
+06-09UT       3.33         2.00         1.33     
+09-12UT       2.67         2.00         1.67     
+12-15UT       2.33         2.00         1.33     
+15-18UT       2.00         2.33         1.33     
+18-21UT       2.67         2.00         1.67     
+21-00UT       3.67         2.00         1.33     
 
 Rationale: G1 (Minor) storms are likely on 21 Jul, due to the arrival of
 the 16 Jul CMEs.
@@ -78,26 +82,26 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Jul 20-Jul 22 2024
+Solar Radiation Storm Forecast for Jul 21-Jul 23 2024
 
-              Jul 20  Jul 21  Jul 22
-S1 or greater   15%     15%     10%
+              Jul 21  Jul 22  Jul 23
+S1 or greater   10%     10%     10%
 
 Rationale: There is a slight chance for S1 (Minor) solar radiation
-storms through 22 Jul.
+storms through 23 Jul.
 
 C. NOAA Radio Blackout Activity and Forecast
 
 Radio blackouts reaching the R3 levels were observed over the past 24
 hours. The largest was at Jul 16 2024 1326 UTC.
 
-Radio Blackout Forecast for Jul 20-Jul 22 2024
+Radio Blackout Forecast for Jul 21-Jul 23 2024
 
-              Jul 20        Jul 21        Jul 22
+              Jul 21        Jul 22        Jul 23
 R1-R2           55%           55%           55%
 R3 or greater   10%           10%           10%
 
-Rationale: R1-R2 (Minor-Moderate) radio blackouts are likely through 22
+Rationale: R1-R2 (Minor-Moderate) radio blackouts are likely through 23
 Jul, with a slight chance for an R3 (Strong) event, due to multiple
 complex regions on the visible disk.
 
