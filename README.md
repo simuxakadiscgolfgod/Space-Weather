@@ -1,13 +1,10 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2024-07-22
-<br />**This image is owned by:**  
-Chang Lee
-
-<br />**Title of the image:**  Chamaeleon Dark Nebulas
-<br />**Description for the image:**  Sometimes the dark dust of interstellar space has an angular elegance.  Such is the case toward the far-south constellation of Chamaeleon. Normally too faint to see, dark dust is best known for blocking visible light from stars and galaxies behind it. In this 36.6-hour exposure, however, the dust is seen mostly in light of its own, with its strong red and near-infrared colors creating a brown hue. Contrastingly blue, the bright star Beta Chamaeleontis is visible on the upper right, with the dust that surrounds it preferentially reflecting blue light from its primarily blue-white color.  All of the pictured stars and dust occur in our own Milky Way Galaxy with one notable exception: the white spot just below Beta Chamaeleontis is the galaxy IC 3104 which lies far in the distance.  Interstellar dust is mostly created in the cool atmospheres of giant stars and dispersed into space by stellar light, stellar winds, and stellar explosions such as supernovas.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2407/VeeChamaeleon_Lee_6098.jpg
+<br />**Date image released:**  2024-07-23
+<br />**Title of the image:**  The Crab Nebula from Visible to X-Ray
+<br />**Description for the image:**  What powers the Crab Nebula? A city-sized magnetized neutron star spinning around 30 times a second. Known as the Crab Pulsar, it is the bright spot in the center of the gaseous swirl at the nebula's core.  About 10 light-years across, the spectacular picture of the Crab Nebula (M1) frames a swirling central disk and complex filaments of surrounding and expanding glowing gas. The picture combines visible light from the Hubble Space Telescope in red and blue with X-ray light from the Chandra X-ray Observatory shown in white, and diffuse X-ray emission detected by Imaging X-ray Polarimetry Explorer (IXPE) in diffuse purple.  The central pulsar powers the Crab Nebula's emission and expansion by slightly slowing its spin rate, which drives out a wind of energetic electrons.  The featured image released today, the 25th Anniversary of the launch of NASA's flagship-class X-ray Observatory: Chandra.    Many Discoveries: Chandra Celebrates 25th Anniversary
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2407/Crab_MultiChandra_4123.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -51,56 +48,56 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Jul 22 0030 UTC
+:Issued: 2024 Jul 23 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Jul 22-Jul 24 2024 is 1.67 (below NOAA
-Scale levels).
+The greatest expected 3 hr Kp for Jul 23-Jul 25 2024 is 5.67 (NOAA Scale
+G2).
 
-NOAA Kp index breakdown Jul 22-Jul 24 2024
+NOAA Kp index breakdown Jul 23-Jul 25 2024
 
-             Jul 22       Jul 23       Jul 24
-00-03UT       1.67         1.67         1.67     
-03-06UT       1.33         1.33         1.33     
-06-09UT       1.33         1.33         1.33     
-09-12UT       1.33         1.67         1.33     
-12-15UT       1.33         1.33         1.33     
-15-18UT       1.67         1.33         1.33     
-18-21UT       1.67         1.67         1.67     
-21-00UT       1.33         1.33         1.67     
+             Jul 23       Jul 24       Jul 25
+00-03UT       1.33         3.67         3.67     
+03-06UT       1.67         5.00 (G1)    3.00     
+06-09UT       2.33         5.67 (G2)    2.67     
+09-12UT       2.67         4.67 (G1)    2.67     
+12-15UT       2.33         3.67         2.67     
+15-18UT       2.33         3.33         2.33     
+18-21UT       2.33         2.67         1.33     
+21-00UT       3.33         2.67         1.67     
 
-Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
-significant transient or recurrent solar wind features are forecast.
+Rationale: G1-G2 (Minor-Moderate) storm levels are likely on 24 Jul due
+to the anticipated arrival of the 21 Jul CME.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Jul 22-Jul 24 2024
+Solar Radiation Storm Forecast for Jul 23-Jul 25 2024
 
-              Jul 22  Jul 23  Jul 24
+              Jul 23  Jul 24  Jul 25
 S1 or greater   15%     15%     15%
 
 Rationale: There is a slight chance for S1 (Minor) solar radiation
-storms through 24 Jul.
+storms through 25 Jul.
 
 C. NOAA Radio Blackout Activity and Forecast
 
 Radio blackouts reaching the R3 levels were observed over the past 24
 hours. The largest was at Jul 16 2024 1326 UTC.
 
-Radio Blackout Forecast for Jul 22-Jul 24 2024
+Radio Blackout Forecast for Jul 23-Jul 25 2024
 
-              Jul 22        Jul 23        Jul 24
+              Jul 23        Jul 24        Jul 25
 R1-R2           60%           60%           60%
 R3 or greater   15%           15%           15%
 
-Rationale: R1-R2 (Minor-Moderate) radio blackouts are likely through 24
+Rationale: R1-R2 (Minor-Moderate) radio blackouts are likely through 25
 Jul, with a slight chance for an R3 (Strong) event, due to multiple
 complex regions on the visible disk.
 
