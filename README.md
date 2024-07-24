@@ -1,10 +1,10 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2024-07-23
-<br />**Title of the image:**  The Crab Nebula from Visible to X-Ray
-<br />**Description for the image:**  What powers the Crab Nebula? A city-sized magnetized neutron star spinning around 30 times a second. Known as the Crab Pulsar, it is the bright spot in the center of the gaseous swirl at the nebula's core.  About 10 light-years across, the spectacular picture of the Crab Nebula (M1) frames a swirling central disk and complex filaments of surrounding and expanding glowing gas. The picture combines visible light from the Hubble Space Telescope in red and blue with X-ray light from the Chandra X-ray Observatory shown in white, and diffuse X-ray emission detected by Imaging X-ray Polarimetry Explorer (IXPE) in diffuse purple.  The central pulsar powers the Crab Nebula's emission and expansion by slightly slowing its spin rate, which drives out a wind of energetic electrons.  The featured image released today, the 25th Anniversary of the launch of NASA's flagship-class X-ray Observatory: Chandra.    Many Discoveries: Chandra Celebrates 25th Anniversary
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2407/Crab_MultiChandra_4123.jpg
+<br />**Date image released:**  2024-07-24
+<br />**Title of the image:**  Exaggerated Moon
+<br />**Description for the image:**  Our Moon doesn't really have craters this big.  Earth's Moon, Luna, also doesn't naturally show this spikey texture, and its colors are more subtle. But this digital creation is based on reality.  The featured image is a digital composite of a good Moon image and surface height data taken from NASA's Lunar Orbiter Laser Altimeter (LOLA) mission -- and then exaggerated for educational understanding.  The digital enhancements, for example, accentuate lunar highlands and show more clearly craters that illustrate the tremendous bombardment our Moon has been through during its 4.6-billion-year history.  The dark areas, called maria, have fewer craters and were once seas of molten lava. Additionally, the image colors, although based on the moon's real composition, are changed and exaggerated.  Here, a blue hue indicates a region that is iron rich, while orange indicates a slight excess of aluminum.  Although the Moon has shown the same side to the Earth for billions of years, modern technology is allowing humanity to learn much more about it -- and how it affects the Earth.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2407/ExaggeratedMoon_Ibatulin_2610.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -48,27 +48,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Jul 23 0030 UTC
+:Issued: 2024 Jul 24 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Jul 23-Jul 25 2024 is 5.67 (NOAA Scale
+The greatest expected 3 hr Kp for Jul 24-Jul 26 2024 is 5.67 (NOAA Scale
 G2).
 
-NOAA Kp index breakdown Jul 23-Jul 25 2024
+NOAA Kp index breakdown Jul 24-Jul 26 2024
 
-             Jul 23       Jul 24       Jul 25
-00-03UT       1.33         3.67         3.67     
-03-06UT       1.67         5.00 (G1)    3.00     
-06-09UT       2.33         5.67 (G2)    2.67     
-09-12UT       2.67         4.67 (G1)    2.67     
-12-15UT       2.33         3.67         2.67     
-15-18UT       2.33         3.33         2.33     
-18-21UT       2.33         2.67         1.33     
-21-00UT       3.33         2.67         1.67     
+             Jul 24       Jul 25       Jul 26
+00-03UT       5.67 (G2)    3.67         1.67     
+03-06UT       4.67 (G1)    3.00         1.33     
+06-09UT       4.00         2.67         1.33     
+09-12UT       3.00         2.67         1.33     
+12-15UT       2.33         2.67         1.33     
+15-18UT       2.00         2.33         1.33     
+18-21UT       2.67         1.33         1.67     
+21-00UT       3.00         1.67         1.67     
 
 Rationale: G1-G2 (Minor-Moderate) storm levels are likely on 24 Jul due
 to the anticipated arrival of the 21 Jul CME.
@@ -76,28 +76,28 @@ to the anticipated arrival of the 21 Jul CME.
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
-below S-scale storm level thresholds.
+above S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Jul 23-Jul 25 2024
+Solar Radiation Storm Forecast for Jul 24-Jul 26 2024
 
-              Jul 23  Jul 24  Jul 25
-S1 or greater   15%     15%     15%
+              Jul 24  Jul 25  Jul 26
+S1 or greater   99%     15%     15%
 
-Rationale: There is a slight chance for S1 (Minor) solar radiation
-storms through 25 Jul.
+Rationale: S1 conditions are currently being observed. There is a slight
+chance for S1 (Minor) solar radiation storms between 25 to 26 Jul.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-Radio blackouts reaching the R3 levels were observed over the past 24
-hours. The largest was at Jul 16 2024 1326 UTC.
+Radio blackouts reaching the R2 levels were observed over the past 24
+hours. The largest was at Jul 17 2024 0639 UTC.
 
-Radio Blackout Forecast for Jul 23-Jul 25 2024
+Radio Blackout Forecast for Jul 24-Jul 26 2024
 
-              Jul 23        Jul 24        Jul 25
+              Jul 24        Jul 25        Jul 26
 R1-R2           60%           60%           60%
 R3 or greater   15%           15%           15%
 
-Rationale: R1-R2 (Minor-Moderate) radio blackouts are likely through 25
+Rationale: R1-R2 (Minor-Moderate) radio blackouts are likely through 26
 Jul, with a slight chance for an R3 (Strong) event, due to multiple
 complex regions on the visible disk.
 
