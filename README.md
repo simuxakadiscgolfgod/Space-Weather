@@ -2,6 +2,10 @@
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
 <br />**Sorry, Image not available!**
+<br />**Date image released:**  2024-07-30
+<br />**Title of the image:**  Arp 142: Interacting Galaxies from Webb
+<br />**Description for the image:**  To some, it looks like a penguin. But to people who study the universe, it is an interesting example of two big galaxies interacting. Just a few hundred million years ago, the upper NGC 2936 was likely a normal spiral galaxy: spinning, creating stars, and minding its own business.  Then it got too close to the massive elliptical galaxy NGC 2937, below, and took a dive.  Together known as Arp 142, they are featured in this new Webb infrared image, while a visible light Hubble image appears in comparison.  NGC 2936 is not only being deflected, but distorted, by this close gravitational interaction.  When massive galaxies pass near each other, gas is typically condensed from which new stars form.  A young group of stars appears as the nose of the penguin toward the right of the upper galaxy, while in the center of the spiral, bright stars together appear as an eye.  Before a billion years, the two galaxies will likely merge into one larger galaxy.   Explore Your Universe: Random APOD Generator
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2407/Arp142_Webb_1487.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -45,57 +49,58 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Jul 28 0030 UTC
+:Issued: 2024 Jul 30 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Jul 28-Jul 30 2024 is 5.67 (NOAA Scale
-G2).
+The greatest expected 3 hr Kp for Jul 30-Aug 01 2024 is 7.00 (NOAA Scale
+G3).
 
-NOAA Kp index breakdown Jul 28-Jul 30 2024
+NOAA Kp index breakdown Jul 30-Aug 01 2024
 
-             Jul 28       Jul 29       Jul 30
-00-03UT       2.67         2.33         4.67 (G1)
-03-06UT       1.67         2.33         4.67 (G1)
-06-09UT       2.00         2.00         5.67 (G2)
-09-12UT       2.00         2.00         4.00     
-12-15UT       1.67         3.00         4.00     
-15-18UT       2.00         3.67         3.67     
-18-21UT       2.00         4.33         2.67     
-21-00UT       2.33         4.67 (G1)    2.33     
+             Jul 30       Jul 31       Aug 01
+00-03UT       4.67 (G1)    5.67 (G2)    3.67     
+03-06UT       4.67 (G1)    5.00 (G1)    2.67     
+06-09UT       5.67 (G2)    4.67 (G1)    6.00 (G2)
+09-12UT       6.00 (G2)    4.67 (G1)    5.00 (G1)
+12-15UT       7.00 (G3)    4.00         4.33     
+15-18UT       6.67 (G3)    3.67         3.00     
+18-21UT       5.33 (G1)    3.67         3.67     
+21-00UT       5.00 (G1)    3.00         4.00     
 
-Rationale: Periods of G1 (Minor) storms are likely on 29-30 Jul, with
-periods of G2 (Moderate) storms likely on 30 Jul, due to the anticipated
-arrival of multiple CMEs.
+Rationale: Periods of G3 (Strong) storming are likely on 30 Jul, with G2
+(Moderate) storm periods likely on 31 Jul through 01 Aug, due to the
+anticipated arrival and passage of multiple CMEs from 27-29 Jul.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 above S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Jul 28-Jul 30 2024
+Solar Radiation Storm Forecast for Jul 30-Aug 01 2024
 
-              Jul 28  Jul 29  Jul 30
-S1 or greater   10%     10%     10%
+              Jul 30  Jul 31  Aug 01
+S1 or greater   20%     20%     20%
 
-Rationale: There is a slight chance for S1 (Minor) storms over 28-30
-Jul.
+Rationale: A slight chance for an S1 (Minor) solar radiation event will
+persist through 01 Aug.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-Radio blackouts reaching the R1 levels were observed over the past 24
-hours. The largest was at Jul 27 2024 0237 UTC.
+Radio blackouts reaching the R3 levels were observed over the past 24
+hours. The largest was at Jul 29 2024 0237 UTC.
 
-Radio Blackout Forecast for Jul 28-Jul 30 2024
+Radio Blackout Forecast for Jul 30-Aug 01 2024
 
-              Jul 28        Jul 29        Jul 30
-R1-R2           60%           60%           60%
-R3 or greater   10%           10%           10%
+              Jul 30        Jul 31        Aug 01
+R1-R2           80%           80%           80%
+R3 or greater   25%           25%           25%
 
-Rationale: R1-R2 (Minor-Moderate) events are likely, with a slight
-chance for R3 or greater events, over 28-30 Jul.
+Rationale: There is a chance for R3 or greater radio blackouts through
+01 Aug due to the potential of AR 3762 and the cluster of spotted groups
+containing ARs 3764, 3765, 3766 and 3767.
 
 ```
