@@ -1,11 +1,10 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Sorry, Image not available!**
-<br />**Date image released:**  2024-07-30
-<br />**Title of the image:**  Arp 142: Interacting Galaxies from Webb
-<br />**Description for the image:**  To some, it looks like a penguin. But to people who study the universe, it is an interesting example of two big galaxies interacting. Just a few hundred million years ago, the upper NGC 2936 was likely a normal spiral galaxy: spinning, creating stars, and minding its own business.  Then it got too close to the massive elliptical galaxy NGC 2937, below, and took a dive.  Together known as Arp 142, they are featured in this new Webb infrared image, while a visible light Hubble image appears in comparison.  NGC 2936 is not only being deflected, but distorted, by this close gravitational interaction.  When massive galaxies pass near each other, gas is typically condensed from which new stars form.  A young group of stars appears as the nose of the penguin toward the right of the upper galaxy, while in the center of the spiral, bright stars together appear as an eye.  Before a billion years, the two galaxies will likely merge into one larger galaxy.   Explore Your Universe: Random APOD Generator
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2407/Arp142_Webb_1487.jpg
+<br />**Date image released:**  2024-07-31
+<br />**Title of the image:**  Leopard Spots on Martian Rocks
+<br />**Description for the image:**  What is creating these unusual spots? Light-colored spots on Martian rocks, each surrounded by a dark border, were discovered earlier this month by NASA's Perseverance Rover currently exploring Mars.  Dubbed leopard spots because of their seemingly similarity to markings on famous Earth-bound predators, these curious patterns are being studied with the possibility they were created by ancient Martian life.  The pictured spots measure only millimeters across and were discovered on a larger rock named Cheyava Falls.  The exciting but unproven speculation is that long ago, microbes generated energy with chemical reactions that turned rock from red to white while leaving a dark ring, like some similarly appearing spots on Earth rocks. Although other non-biological explanations may ultimately prevail, speculation focusing on this potential biological origin is causing much intrigue.    New Mirror: APOD is now available from Brazil in Portuguese
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2407/LeopardSpots_Perseverance_1648.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,58 +48,56 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Jul 30 0030 UTC
+:Issued: 2024 Jul 31 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
-Scale levels).
-The greatest expected 3 hr Kp for Jul 30-Aug 01 2024 is 7.00 (NOAA Scale
-G3).
+The greatest observed 3 hr Kp over the past 24 hours was 5 (NOAA Scale
+G1).
+The greatest expected 3 hr Kp for Jul 31-Aug 02 2024 is 5.67 (NOAA Scale
+G2).
 
-NOAA Kp index breakdown Jul 30-Aug 01 2024
+NOAA Kp index breakdown Jul 31-Aug 02 2024
 
-             Jul 30       Jul 31       Aug 01
-00-03UT       4.67 (G1)    5.67 (G2)    3.67     
-03-06UT       4.67 (G1)    5.00 (G1)    2.67     
-06-09UT       5.67 (G2)    4.67 (G1)    6.00 (G2)
-09-12UT       6.00 (G2)    4.67 (G1)    5.00 (G1)
-12-15UT       7.00 (G3)    4.00         4.33     
-15-18UT       6.67 (G3)    3.67         3.00     
-18-21UT       5.33 (G1)    3.67         3.67     
-21-00UT       5.00 (G1)    3.00         4.00     
+             Jul 31       Aug 01       Aug 02
+00-03UT       4.33         3.00         4.00     
+03-06UT       4.67 (G1)    5.67 (G2)    3.33     
+06-09UT       3.33         5.00 (G1)    1.67     
+09-12UT       3.67         4.33         1.67     
+12-15UT       3.33         3.33         1.33     
+15-18UT       3.00         3.00         1.33     
+18-21UT       4.00         3.00         2.00     
+21-00UT       5.67 (G2)    4.00         2.33     
 
-Rationale: Periods of G3 (Strong) storming are likely on 30 Jul, with G2
-(Moderate) storm periods likely on 31 Jul through 01 Aug, due to the
-anticipated arrival and passage of multiple CMEs from 27-29 Jul.
+Rationale: G1-G2 (Minor-Moderate) geomagnetic storming is likely through
+01 Aug due to multiple CME arrivals from the events of 28 and 29 Jul.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
-above S-scale storm level thresholds.
+below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Jul 30-Aug 01 2024
+Solar Radiation Storm Forecast for Jul 31-Aug 02 2024
 
-              Jul 30  Jul 31  Aug 01
-S1 or greater   20%     20%     20%
+              Jul 31  Aug 01  Aug 02
+S1 or greater   20%     20%     25%
 
-Rationale: A slight chance for an S1 (Minor) solar radiation event will
-persist through 01 Aug.
+Rationale: There is a slight chance for S1 (minor) radiation storms on
+31 Jul - 01 Aug increasing to a chance on 02 Aug.
 
 C. NOAA Radio Blackout Activity and Forecast
 
 Radio blackouts reaching the R3 levels were observed over the past 24
 hours. The largest was at Jul 29 2024 0237 UTC.
 
-Radio Blackout Forecast for Jul 30-Aug 01 2024
+Radio Blackout Forecast for Jul 31-Aug 02 2024
 
-              Jul 30        Jul 31        Aug 01
-R1-R2           80%           80%           80%
+              Jul 31        Aug 01        Aug 02
+R1-R2           75%           75%           75%
 R3 or greater   25%           25%           25%
 
-Rationale: There is a chance for R3 or greater radio blackouts through
-01 Aug due to the potential of AR 3762 and the cluster of spotted groups
-containing ARs 3764, 3765, 3766 and 3767.
+Rationale: R1/R2 (minor/moderate) radio blackouts expected, with a
+chance for R3 (strong) radio blackouts, on 31 Jul - 02 Aug.
 
 ```
