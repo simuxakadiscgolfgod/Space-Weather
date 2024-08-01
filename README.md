@@ -1,10 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2024-07-31
-<br />**Title of the image:**  Leopard Spots on Martian Rocks
-<br />**Description for the image:**  What is creating these unusual spots? Light-colored spots on Martian rocks, each surrounded by a dark border, were discovered earlier this month by NASA's Perseverance Rover currently exploring Mars.  Dubbed leopard spots because of their seemingly similarity to markings on famous Earth-bound predators, these curious patterns are being studied with the possibility they were created by ancient Martian life.  The pictured spots measure only millimeters across and were discovered on a larger rock named Cheyava Falls.  The exciting but unproven speculation is that long ago, microbes generated energy with chemical reactions that turned rock from red to white while leaving a dark ring, like some similarly appearing spots on Earth rocks. Although other non-biological explanations may ultimately prevail, speculation focusing on this potential biological origin is causing much intrigue.    New Mirror: APOD is now available from Brazil in Portuguese
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2407/LeopardSpots_Perseverance_1648.jpg
+<br />**Date image released:**  2024-08-01
+<br />**This image is owned by:**  Petr Horálek
+<br />**Title of the image:**  Comet Olbers over Kunetice Castle
+<br />**Description for the image:**  A visitor to the inner solar system every 70 years or so Comet 13P/Olbers reached its most recent perihelion, or closest approach to the Sun, on June 30 2024. Now on a return voyage to the distant Oort cloud the Halley-type comet is recorded here sweeping through northern summer night skies over historic Kunetice Castle, Czech Republic. Along with a broad dust tail, and brighter coma, this comet's long ion tail buffeted by storms and winds from the Sun, is revealed in the composite of tracked exposures for comet and sky, and fixed exposures for foreground landscape recorded on July 28. The comet is about 16 light-minutes beyond the castle and seen against faint background stars below the northern constellation Ursa Major. The hilltop castle dates to the 15th century, while Heinrich Olbers discovered the comet in 1815. Captured here low in northwestern skies just after sunset Comet Olbers, for now, offers skywatchers on planet Earth rewarding telescopic and binocular views. Comet 13P/Olbers next perihelion passage will be in 2094.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2408/2024_07_28_Olbers_Kunka_Kunetice_1500px.png
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -48,56 +49,58 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Jul 31 0030 UTC
+:Issued: 2024 Aug 01 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 5 (NOAA Scale
 G1).
-The greatest expected 3 hr Kp for Jul 31-Aug 02 2024 is 5.67 (NOAA Scale
+The greatest expected 3 hr Kp for Aug 01-Aug 03 2024 is 5.67 (NOAA Scale
 G2).
 
-NOAA Kp index breakdown Jul 31-Aug 02 2024
+NOAA Kp index breakdown Aug 01-Aug 03 2024
 
-             Jul 31       Aug 01       Aug 02
-00-03UT       4.33         3.00         4.00     
-03-06UT       4.67 (G1)    5.67 (G2)    3.33     
-06-09UT       3.33         5.00 (G1)    1.67     
-09-12UT       3.67         4.33         1.67     
-12-15UT       3.33         3.33         1.33     
-15-18UT       3.00         3.00         1.33     
-18-21UT       4.00         3.00         2.00     
-21-00UT       5.67 (G2)    4.00         2.33     
+             Aug 01       Aug 02       Aug 03
+00-03UT       4.67 (G1)    4.00         1.67     
+03-06UT       4.33         3.33         1.33     
+06-09UT       4.00         1.67         1.67     
+09-12UT       3.33         1.67         1.33     
+12-15UT       3.00         1.33         1.00     
+15-18UT       3.00         1.33         1.33     
+18-21UT       4.00         2.00         1.67     
+21-00UT       5.67 (G2)    2.33         1.67     
 
-Rationale: G1-G2 (Minor-Moderate) geomagnetic storming is likely through
-01 Aug due to multiple CME arrivals from the events of 28 and 29 Jul.
+Rationale: G2 (Moderate) storm levels remain likely on 1 Aug due to
+continuing CME passage and the anticipated arrival from the 29 Jul CME.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Jul 31-Aug 02 2024
+Solar Radiation Storm Forecast for Aug 01-Aug 03 2024
 
-              Jul 31  Aug 01  Aug 02
-S1 or greater   20%     20%     25%
+              Aug 01  Aug 02  Aug 03
+S1 or greater   35%     25%     25%
 
-Rationale: There is a slight chance for S1 (minor) radiation storms on
-31 Jul - 01 Aug increasing to a chance on 02 Aug.
+Rationale: A chance for the greater than 10 MeV proton flux to reach S1
+(Minor) solar radiation storm levels will persist through 02 Aug given
+ongoing limb activity primarily from AR3762 and AR3768.
 
 C. NOAA Radio Blackout Activity and Forecast
 
 Radio blackouts reaching the R3 levels were observed over the past 24
 hours. The largest was at Jul 29 2024 0237 UTC.
 
-Radio Blackout Forecast for Jul 31-Aug 02 2024
+Radio Blackout Forecast for Aug 01-Aug 03 2024
 
-              Jul 31        Aug 01        Aug 02
+              Aug 01        Aug 02        Aug 03
 R1-R2           75%           75%           75%
 R3 or greater   25%           25%           25%
 
-Rationale: R1/R2 (minor/moderate) radio blackouts expected, with a
-chance for R3 (strong) radio blackouts, on 31 Jul - 02 Aug.
+Rationale: R1-R2 (Minor-Moderate) radio blackouts are expected, with a
+chance for R3 (Strong) radio blackouts on 1-3 Aug, due to the number of
+magnetically complex sunspot groups present on the visible solar disk.
 
 ```
