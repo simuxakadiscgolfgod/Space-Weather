@@ -1,11 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2024-08-02
-<br />**This image is owned by:**  Tunc Tezel
-<br />**Title of the image:**  Mars Passing By
-<br />**Description for the image:**  As Mars wanders through Earth's night, it passes about 5 degrees south of the Pleiades star cluster in this composite astrophoto. The skyview was constructed from a series of images captured over a run of 16 consecutive clear nights beginning on July 12. Mars' march across the field of view begins at the far right, the planet's ruddy hue. showing a nice contrast with the blue Pleiades stars. Moving much faster across the sky against the distant stars, the fourth planet from the Sun easily passes seventh planet Uranus, also moving across this field of view. Red planet Mars and the ice giant world were in close conjunction, about 1/2 degree apart, on July 16. Continuing its rapid eastward trek, Mars has now left the sister stars and outer planet behind though, passing north of red giant star Aldebaran. Mars will come within about 1/3 degree of Jupiter in planet Earth's sky on August 14.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2408/2024MaUrM45.jpg
+<br />**Date image released:**  2024-08-03
+<br />**This image is owned by:**  Cem Özkeser
+<br />**Title of the image:**  Glory and Fog Bow
+<br />**Description for the image:**  On a road trip up Mount Uludağ in Bursa province, Turkey these motorcyclists found themselves above low clouds and fog in late June. With the bright Sun directly behind them, the view down the side of the great mountain revealed a beautiful, atmospheric glory and fog bow. Known to some as the heiligenschein or the Specter of the Brocken, a glory can also sometimes be seen from airplanes or even high buildings. It often appears to be a dark giant surrounded by a bright halo. Of course the dark giant is just the shadow of the observer (90MB video) cast opposite the Sun. The clouds and fog are composed of very small water droplets, smaller than rain drops, that refract and reflect sunlight to create the glory's colorful halo and this more extensive fog bow.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2408/GloryFog1.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,55 +49,57 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Aug 02 0030 UTC
+:Issued: 2024 Aug 03 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 5 (NOAA Scale
-G1).
-The greatest expected 3 hr Kp for Aug 02-Aug 04 2024 is 6.00 (NOAA Scale
+The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
+Scale levels).
+The greatest expected 3 hr Kp for Aug 03-Aug 05 2024 is 6.00 (NOAA Scale
 G2).
 
-NOAA Kp index breakdown Aug 02-Aug 04 2024
+NOAA Kp index breakdown Aug 03-Aug 05 2024
 
-             Aug 02       Aug 03       Aug 04
-00-03UT       4.00         2.33         5.67 (G2)
-03-06UT       3.33         2.33         4.67 (G1)
-06-09UT       1.67         1.67         3.67     
-09-12UT       1.67         1.67         3.67     
-12-15UT       1.33         4.00         3.33     
-15-18UT       1.33         4.67 (G1)    2.67     
-18-21UT       2.00         5.67 (G2)    2.67     
-21-00UT       2.33         6.00 (G2)    2.00     
+             Aug 03       Aug 04       Aug 05
+00-03UT       2.33         5.67 (G2)    2.33     
+03-06UT       2.33         4.67 (G1)    2.00     
+06-09UT       1.67         3.67         2.00     
+09-12UT       1.67         3.67         2.00     
+12-15UT       4.00         3.33         2.00     
+15-18UT       4.67 (G1)    2.67         2.00     
+18-21UT       5.67 (G2)    2.67         2.00     
+21-00UT       6.00 (G2)    2.00         2.33     
 
-Rationale: Periods of G1-G2 (Minor-Moderate) storms are likely on 03-04
-Aug due the anticipated CME activity.
+Rationale: G1-G2 (Minor-Moderate) geomagnetic storm periods are likely
+on 03-04 Aug due to the anticipated arrival of CMEs from 31 Jul and 01
+Aug.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Aug 02-Aug 04 2024
+Solar Radiation Storm Forecast for Aug 03-Aug 05 2024
 
-              Aug 02  Aug 03  Aug 04
-S1 or greater   35%     25%     25%
+              Aug 03  Aug 04  Aug 05
+S1 or greater   25%     25%     25%
 
-Rationale: There is a chance for S1 (Minor) storms over 02-04 Aug.
+Rationale: There is a chance for S1 (Minor) solar radiation storms over
+03-05 Aug.
 
 C. NOAA Radio Blackout Activity and Forecast
 
 Radio blackouts reaching the R3 levels were observed over the past 24
 hours. The largest was at Jul 29 2024 0237 UTC.
 
-Radio Blackout Forecast for Aug 02-Aug 04 2024
+Radio Blackout Forecast for Aug 03-Aug 05 2024
 
-              Aug 02        Aug 03        Aug 04
+              Aug 03        Aug 04        Aug 05
 R1-R2           75%           75%           75%
 R3 or greater   25%           25%           25%
 
 Rationale: R1-R2 (Minor-Moderate) events are expected, with a chance for
-R3 or greater events, over 02-04 Aug.
+R3 or greater events, over 03-05 Aug.
 
 ```
