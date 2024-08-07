@@ -1,13 +1,15 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2024-08-06
+<br />**Date image released:**  2024-08-07
 <br />**This image is owned by:**  
-Laura Rowe (Used with permission) 
+Donato Lioce; 
+Text: Natalia Lewandowska 
+(SUNY Oswego)
 
-<br />**Title of the image:**  Storm Cloud Over Texas
-<br />**Description for the image:**  What makes this storm cloud so colorful?  First, the cloud itself is composed of millions of tiny droplets of water and ice.  Its bottom is almost completely flat -- but this isn't unusual.  Bottom flatness in clouds is generally caused by air temperature dropping as you go up, and that above a specific height, water-saturated air condenses out water droplets.  The shape of the cloud middle is caused by a water-droplet-laden column of air being blown upward.  Most unusual, though, are the orange and yellow colors.  Both colors are caused by the cloud's water drops reflecting sunlight. The orange color in the cloud's middle and bottom sections are reflections of a nearly red sunset.  In contrast, the yellow color of the cloud's top results from reflection of light from a not-yet-setting Sun, where some -- but less -- blue light is being scattered away. Appearing to float above the plains in Texas, the featured impressive image of a dynamic cumulonimbus cloud was captured in 2021 while investigating a tornado.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2408/StormCloud_Rowe_960.jpg
+<br />**Title of the image:**  Milky Way Behind Three Merlons
+<br />**Description for the image:**  To some, they look like battlements, here protecting us against the center of the Milky Way. The Three Merlons, also called the Three Peaks of Lavaredo, stand tall today because they are made of dense dolomite rock which has better resisted erosion than surrounding softer rock. They formed about 250 million years ago and so are comparable in age with one of the great extinctions of life on Earth. A leading hypothesis is that this great extinction was triggered by an asteroid about 10-km across, larger in size than Mount Everest, impacting the Earth. Humans have gazed up at the stars in the Milky Way and beyond for centuries, making these battlefield-like formations, based in the Sexten Dolomites, a popular place for current and ancient astronomers.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2408/DolomitesSky_Lioce_4681.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -51,27 +53,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Aug 06 0030 UTC
+:Issued: 2024 Aug 07 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Aug 06-Aug 08 2024 is 2.67 (below NOAA
+The greatest expected 3 hr Kp for Aug 07-Aug 09 2024 is 3.33 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Aug 06-Aug 08 2024
+NOAA Kp index breakdown Aug 07-Aug 09 2024
 
-             Aug 06       Aug 07       Aug 08
-00-03UT       2.67         2.67         1.67     
-03-06UT       2.00         2.33         1.67     
-06-09UT       2.33         1.67         1.67     
-09-12UT       2.33         1.67         1.33     
-12-15UT       2.33         1.67         1.33     
-15-18UT       2.33         1.67         1.33     
-18-21UT       2.33         2.00         1.33     
-21-00UT       2.67         2.33         1.33     
+             Aug 07       Aug 08       Aug 09
+00-03UT       2.67         2.33         1.67     
+03-06UT       2.33         1.67         1.67     
+06-09UT       1.67         1.67         1.67     
+09-12UT       1.67         1.33         3.33     
+12-15UT       1.67         1.33         3.00     
+15-18UT       1.67         1.67         3.00     
+18-21UT       2.00         1.67         3.00     
+21-00UT       2.33         2.00         3.33     
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
 significant transient or recurrent solar wind features are forecast.
@@ -81,26 +83,26 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Aug 06-Aug 08 2024
+Solar Radiation Storm Forecast for Aug 07-Aug 09 2024
 
-              Aug 06  Aug 07  Aug 08
+              Aug 07  Aug 08  Aug 09
 S1 or greater   20%     20%     20%
 
 Rationale: There is a slight chance for S1 (Minor) solar radiation
-storms through 08 Aug.
+storms through 09 Aug.
 
 C. NOAA Radio Blackout Activity and Forecast
 
 Radio blackouts reaching the R3 levels were observed over the past 24
 hours. The largest was at Aug 05 2024 1340 UTC.
 
-Radio Blackout Forecast for Aug 06-Aug 08 2024
+Radio Blackout Forecast for Aug 07-Aug 09 2024
 
-              Aug 06        Aug 07        Aug 08
+              Aug 07        Aug 08        Aug 09
 R1-R2           75%           75%           75%
 R3 or greater   25%           25%           25%
 
 Rationale: R1-R2 (Minor-Moderate) radio blackouts are expected, with a
-chance for R3 (Strong) or greater events, over 06-08 Aug.
+chance for R3 (Strong) or greater events, over 07-09 Aug.
 
 ```
