@@ -1,11 +1,10 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2024-08-08
-<br />**This image is owned by:**  Gerald Rhemann
-<br />**Title of the image:**  Periodic Comet Swift-Tuttle
-<br />**Description for the image:**  A Halley-type comet with an orbital period of about 133 years, Comet 109P/Swift-Tuttle is recognized as the parent of the annual Perseid Meteor Shower. The comet's last visit to the inner Solar System was in 1992. Then, it did not become easily visible to the naked eye, but it did become bright enough to see from most locations with binoculars and small telescopes. This stunning color image of Swift-Tuttle's greenish coma, long ion tail and dust tail was recorded using film on November 24, 1992. That was about 16 days after the large periodic comet's closest approach to Earth. Comet Swift-Tuttle is expected to next make an impressive appearance in night skies in 2126. Meanwhile, dusty cometary debris left along the orbit of Swift-Tuttle will continue to be swept up creating planet Earth's best-known July and August meteor shower.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2408/Rhemann799_109P_24_11_92.jpg
+<br />**Date image released:**  2024-08-09
+<br />**Title of the image:**  A Perseid Below
+<br />**Description for the image:**  Denizens of planet Earth typically watch meteor showers by looking up. But this remarkable view, captured on August 13, 2011 by astronaut Ron Garan, caught a Perseid meteor by looking down. From Garan's perspective on board the International Space Station orbiting at an altitude of about 380 kilometers, the Perseid meteors streak below, swept up dust from comet Swift-Tuttle. The vaporizing comet dust grains are traveling at about 60 kilometers per second through the denser atmosphere around 100 kilometers above Earth's surface. In this case, the foreshortened meteor flash is near frame center, below the curving limb of the Earth and a layer of greenish airglow, just below bright star Arcturus. Want to look up at a meteor shower?  You're in luck, as the 2024 Perseid meteor shower is active now and predicted to peak near August 12. With interfering bright moonlight absent, this year you'll likely see many Perseid meteors under clear, dark skies after midnight.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2408/perseid_iss_4256.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,56 +48,56 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Aug 08 0030 UTC
+:Issued: 2024 Aug 09 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Aug 08-Aug 10 2024 is 6.00 (NOAA Scale
+The greatest expected 3 hr Kp for Aug 09-Aug 11 2024 is 6.33 (NOAA Scale
 G2).
 
-NOAA Kp index breakdown Aug 08-Aug 10 2024
+NOAA Kp index breakdown Aug 09-Aug 11 2024
 
-             Aug 08       Aug 09       Aug 10
-00-03UT       2.33         1.67         5.00 (G1)
-03-06UT       1.67         1.67         5.67 (G2)
-06-09UT       1.67         3.00         5.67 (G2)
-09-12UT       1.33         3.00         5.00 (G1)
-12-15UT       1.33         4.00         4.00     
-15-18UT       1.67         5.00 (G1)    3.67     
-18-21UT       1.67         5.33 (G1)    3.67     
-21-00UT       2.00         6.00 (G2)    3.33     
+             Aug 09       Aug 10       Aug 11
+00-03UT       1.67         6.00 (G2)    6.33 (G2)
+03-06UT       1.67         5.67 (G2)    6.00 (G2)
+06-09UT       3.00         5.33 (G1)    4.67 (G1)
+09-12UT       3.00         4.00         3.67     
+12-15UT       4.00         3.33         2.67     
+15-18UT       4.33         4.33         2.00     
+18-21UT       6.00 (G2)    5.33 (G1)    3.33     
+21-00UT       6.33 (G2)    6.00 (G2)    3.33     
 
 Rationale: G1-G2 (Minor-Moderate) geomagnetic storm levels are likely on
-09-10 Aug due to the arrival of a CME from 07 Aug.
+09-11 Aug due to the arrival of CMEs from 07-08 Aug.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Aug 08-Aug 10 2024
+Solar Radiation Storm Forecast for Aug 09-Aug 11 2024
 
-              Aug 08  Aug 09  Aug 10
+              Aug 09  Aug 10  Aug 11
 S1 or greater   20%     20%     20%
 
 Rationale: There is a slight chance for S1 (Minor) solar radiation
-storms through 10 Aug.
+storms through 11 Aug.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-Radio blackouts reaching the R2 levels were observed over the past 24
-hours. The largest was at Aug 07 2024 1854 UTC.
+Radio blackouts reaching the R3 levels were observed over the past 24
+hours. The largest was at Aug 08 2024 1935 UTC.
 
-Radio Blackout Forecast for Aug 08-Aug 10 2024
+Radio Blackout Forecast for Aug 09-Aug 11 2024
 
-              Aug 08        Aug 09        Aug 10
+              Aug 09        Aug 10        Aug 11
 R1-R2           75%           75%           75%
 R3 or greater   25%           25%           25%
 
 Rationale: R1-R2 (Minor-Moderate) radio blackouts are expected, with a
-chance for R3 (Strong) or greater events, over 08-10 Aug.
+chance for R3 (Strong) or greater events, over 09-11 Aug.
 
 ```
