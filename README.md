@@ -1,11 +1,7 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2024-08-10
-<br />**This image is owned by:**  Robert Edelmaier and Gabriele Gegenbauer
-<br />**Title of the image:**  The Light, Dark, and Dusty Trifid
-<br />**Description for the image:**  Messier 20, popularly known as the Trifid Nebula, lies about 5,000 light-years away toward the nebula rich constellation Sagittarius. A star forming region in the plane of our galaxy, the Trifid does illustrate three different types of astronomical nebulae; red emission nebulae dominated by light from hydrogen atoms, blue reflection nebulae produced by dust reflecting starlight, and dark nebulae where dense dust clouds appear in silhouette. The reddish emission region, roughly separated into three parts by obscuring dust lanes, is what lends the Trifid its popular name. The cosmic cloud complex is over 40 light-years across and would cover the area of a full moon on planet Earth's sky. But the Trifid Nebula is too faint to be seen by the unaided eye. Over 75 hours of image data captured under dark night skies was used to create this stunning telescopic view.  Watch: The Perseid Meteor Shower
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2408/M20OriginalLRGBHaO3S2_1500x1100.jpg
+<br />**Sorry, Image not available!**
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,56 +45,57 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Aug 10 0030 UTC
+:Issued: 2024 Aug 11 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Aug 10-Aug 12 2024 is 5.67 (NOAA Scale
+The greatest expected 3 hr Kp for Aug 11-Aug 13 2024 is 5.67 (NOAA Scale
 G2).
 
-NOAA Kp index breakdown Aug 10-Aug 12 2024
+NOAA Kp index breakdown Aug 11-Aug 13 2024
 
-             Aug 10       Aug 11       Aug 12
-00-03UT       3.00         5.67 (G2)    5.67 (G2)
-03-06UT       5.67 (G2)    5.33 (G1)    5.67 (G2)
-06-09UT       5.67 (G2)    3.67         5.00 (G1)
-09-12UT       4.00         3.67         5.00 (G1)
-12-15UT       3.33         2.67         4.67 (G1)
-15-18UT       4.33         2.00         4.00     
-18-21UT       4.67 (G1)    3.33         3.67     
-21-00UT       5.67 (G2)    4.67 (G1)    3.67     
+             Aug 11       Aug 12       Aug 13
+00-03UT       3.67         5.00 (G1)    3.67     
+03-06UT       4.67 (G1)    5.67 (G2)    4.00     
+06-09UT       5.67 (G2)    5.00 (G1)    3.00     
+09-12UT       3.67         3.67         2.33     
+12-15UT       2.67         5.00 (G1)    2.00     
+15-18UT       2.00         4.33         2.00     
+18-21UT       2.33         3.00         2.67     
+21-00UT       3.33         3.67         3.33     
 
-Rationale: G1-G2 (Minor-Moderate) geomagnetic storm levels are likely on
-10-12 Aug due to the arrival of CMEs that left the Sun on 07-08 Aug.
+Rationale: Periods of G1-G2 (Minor-Moderate) geomagnetic storms are
+likely on 11-12 Aug due to the anticipated arrival of multiple CMEs from
+07-08 and 10 Aug.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Aug 10-Aug 12 2024
+Solar Radiation Storm Forecast for Aug 11-Aug 13 2024
 
-              Aug 10  Aug 11  Aug 12
+              Aug 11  Aug 12  Aug 13
 S1 or greater   20%     20%     20%
 
 Rationale: There is a slight chance for S1 (Minor) solar radiation
-storms through 12 Aug.
+storms over 11-13 Aug.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-Radio blackouts reaching the R1 levels were observed over the past 24
-hours. The largest was at Aug 09 2024 2123 UTC.
+Radio blackouts reaching the R2 levels were observed over the past 24
+hours. The largest was at Aug 10 2024 0237 UTC.
 
-Radio Blackout Forecast for Aug 10-Aug 12 2024
+Radio Blackout Forecast for Aug 11-Aug 13 2024
 
-              Aug 10        Aug 11        Aug 12
-R1-R2           75%           75%           75%
-R3 or greater   25%           25%           25%
+              Aug 11        Aug 12        Aug 13
+R1-R2           80%           80%           80%
+R3 or greater   30%           30%           30%
 
 Rationale: R1-R2 (Minor-Moderate) radio blackouts are expected, with a
-chance for R3 (Strong) or greater events, over 10-12 Aug.
+chance for R3 (Strong) or greater events, on 11-13 Aug.
 
 ```
