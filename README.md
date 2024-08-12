@@ -2,6 +2,13 @@
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
 <br />**Sorry, Image not available!**
+<br />**Date image released:**  2024-08-12
+<br />**This image is owned by:**  
+Josh Dury
+
+<br />**Title of the image:**  Perseid Meteors over Stonehenge
+<br />**Description for the image:**  What's happening in the sky above Stonehenge? A meteor shower: specifically, the Perseid meteor shower. A few nights ago, after the sky darkened, many images of meteors from this year's Perseids were captured separately and merged into a single frame. Although the meteors all traveled on straight paths, these paths appear slightly curved by the wide-angle lens of the capturing camera. The meteor streaks can all be traced back to a single point on the sky called the radiant, here just off the top of the frame in the constellation of Perseus. The same camera took a deep image of the background sky that brought up the central band of our Milky Way galaxy running nearly vertical through the image center. The featured image was taken from Wiltshire, England, being careful to include, at the bottom, the famous astronomical monument of Stonehenge. Although the Perseids peaked last night, some Perseid meteors should still be visible for a few more nights.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2408/PerseidsStonehenge_Dury_2780.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -45,57 +52,56 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Aug 11 0030 UTC
+:Issued: 2024 Aug 12 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
-Scale levels).
-The greatest expected 3 hr Kp for Aug 11-Aug 13 2024 is 5.67 (NOAA Scale
+The greatest observed 3 hr Kp over the past 24 hours was 5 (NOAA Scale
+G1).
+The greatest expected 3 hr Kp for Aug 12-Aug 14 2024 is 5.67 (NOAA Scale
 G2).
 
-NOAA Kp index breakdown Aug 11-Aug 13 2024
+NOAA Kp index breakdown Aug 12-Aug 14 2024
 
-             Aug 11       Aug 12       Aug 13
-00-03UT       3.67         5.00 (G1)    3.67     
-03-06UT       4.67 (G1)    5.67 (G2)    4.00     
-06-09UT       5.67 (G2)    5.00 (G1)    3.00     
-09-12UT       3.67         3.67         2.33     
-12-15UT       2.67         5.00 (G1)    2.00     
-15-18UT       2.00         4.33         2.00     
-18-21UT       2.33         3.00         2.67     
-21-00UT       3.33         3.67         3.33     
+             Aug 12       Aug 13       Aug 14
+00-03UT       5.00 (G1)    3.67         2.33     
+03-06UT       5.67 (G2)    4.00         2.00     
+06-09UT       5.00 (G1)    3.00         2.00     
+09-12UT       3.67         2.33         2.00     
+12-15UT       5.00 (G1)    2.00         2.00     
+15-18UT       4.33         2.00         2.00     
+18-21UT       3.00         2.67         2.00     
+21-00UT       3.67         3.33         2.33     
 
 Rationale: Periods of G1-G2 (Minor-Moderate) geomagnetic storms are
-likely on 11-12 Aug due to the anticipated arrival of multiple CMEs from
-07-08 and 10 Aug.
+likely on 12 Aug due to CME influence.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Aug 11-Aug 13 2024
+Solar Radiation Storm Forecast for Aug 12-Aug 14 2024
 
-              Aug 11  Aug 12  Aug 13
-S1 or greater   20%     20%     20%
+              Aug 12  Aug 13  Aug 14
+S1 or greater   15%     15%     15%
 
 Rationale: There is a slight chance for S1 (Minor) solar radiation
-storms over 11-13 Aug.
+storms over 12-14  Aug.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-Radio blackouts reaching the R2 levels were observed over the past 24
-hours. The largest was at Aug 10 2024 0237 UTC.
+Radio blackouts reaching the R1 levels were observed over the past 24
+hours. The largest was at Aug 11 2024 2018 UTC.
 
-Radio Blackout Forecast for Aug 11-Aug 13 2024
+Radio Blackout Forecast for Aug 12-Aug 14 2024
 
-              Aug 11        Aug 12        Aug 13
-R1-R2           80%           80%           80%
+              Aug 12        Aug 13        Aug 14
+R1-R2           75%           75%           75%
 R3 or greater   30%           30%           30%
 
 Rationale: R1-R2 (Minor-Moderate) radio blackouts are expected, with a
-chance for R3 (Strong) or greater events, on 11-13 Aug.
+chance for R3 (Strong) or greater events, through 14 Aug.
 
 ```
