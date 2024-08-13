@@ -1,14 +1,10 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Sorry, Image not available!**
-<br />**Date image released:**  2024-08-12
-<br />**This image is owned by:**  
-Josh Dury
-
-<br />**Title of the image:**  Perseid Meteors over Stonehenge
-<br />**Description for the image:**  What's happening in the sky above Stonehenge? A meteor shower: specifically, the Perseid meteor shower. A few nights ago, after the sky darkened, many images of meteors from this year's Perseids were captured separately and merged into a single frame. Although the meteors all traveled on straight paths, these paths appear slightly curved by the wide-angle lens of the capturing camera. The meteor streaks can all be traced back to a single point on the sky called the radiant, here just off the top of the frame in the constellation of Perseus. The same camera took a deep image of the background sky that brought up the central band of our Milky Way galaxy running nearly vertical through the image center. The featured image was taken from Wiltshire, England, being careful to include, at the bottom, the famous astronomical monument of Stonehenge. Although the Perseids peaked last night, some Perseid meteors should still be visible for a few more nights.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2408/PerseidsStonehenge_Dury_2780.jpg
+<br />**Date image released:**  2024-08-13
+<br />**Title of the image:**  Giant Jet from the International Space Station
+<br />**Description for the image:**  What's that on the horizon? When circling the Earth on the International Space Station early last month, astronaut Matthew Dominick saw an unusual type of lightning just beyond the Earth's edge: a gigantic jet. The powerful jet appears on the left of the featured image in red and blue. Giant jet lightning has only been known about for the past 23 years. The atmospheric jets are associated with thunderstorms and extend upwards towards Earth's ionosphere.  The lower part of the frame shows the Earth at night, with Earth's thin atmosphere tinted green from airglow. City lights are visible, sometimes resolved, but usually creating diffuse white glows in intervening clouds.  The top of the frame reveals distant stars in the dark night sky. The nature of gigantic jets and their possible association with other types of Transient Luminous Events (TLEs) such as blue jets and red sprites remains an active topic of research.   Growing Gallery: Perseid Meteor Shower 2024 and Aurorae
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2408/JetIss_Schmauss_1464.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -52,56 +48,56 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Aug 12 0030 UTC
+:Issued: 2024 Aug 13 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 5 (NOAA Scale
-G1).
-The greatest expected 3 hr Kp for Aug 12-Aug 14 2024 is 5.67 (NOAA Scale
+The greatest observed 3 hr Kp over the past 24 hours was 8 (NOAA Scale
+G4).
+The greatest expected 3 hr Kp for Aug 13-Aug 15 2024 is 5.67 (NOAA Scale
 G2).
 
-NOAA Kp index breakdown Aug 12-Aug 14 2024
+NOAA Kp index breakdown Aug 13-Aug 15 2024
 
-             Aug 12       Aug 13       Aug 14
-00-03UT       5.00 (G1)    3.67         2.33     
-03-06UT       5.67 (G2)    4.00         2.00     
-06-09UT       5.00 (G1)    3.00         2.00     
-09-12UT       3.67         2.33         2.00     
-12-15UT       5.00 (G1)    2.00         2.00     
-15-18UT       4.33         2.00         2.00     
-18-21UT       3.00         2.67         2.00     
-21-00UT       3.67         3.33         2.33     
+             Aug 13       Aug 14       Aug 15
+00-03UT       5.33 (G1)    4.00         3.00     
+03-06UT       5.67 (G2)    3.00         2.67     
+06-09UT       5.00 (G1)    2.67         2.33     
+09-12UT       5.00 (G1)    2.33         2.00     
+12-15UT       4.33         2.00         1.67     
+15-18UT       4.00         2.00         1.67     
+18-21UT       4.00         2.00         1.33     
+21-00UT       3.33         2.33         2.00     
 
-Rationale: Periods of G1-G2 (Minor-Moderate) geomagnetic storms are
-likely on 12 Aug due to CME influence.
+Rationale: G1-G2 (Minor-Moderate) geomagnetic storms are expected on 13
+Aug in response to CME influences.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Aug 12-Aug 14 2024
+Solar Radiation Storm Forecast for Aug 13-Aug 15 2024
 
-              Aug 12  Aug 13  Aug 14
+              Aug 13  Aug 14  Aug 15
 S1 or greater   15%     15%     15%
 
-Rationale: There is a slight chance for S1 (Minor) solar radiation
-storms over 12-14  Aug.
+Rationale: There is a slight chance for S1 (Minor) storms through 15
+Aug.
 
 C. NOAA Radio Blackout Activity and Forecast
 
 Radio blackouts reaching the R1 levels were observed over the past 24
-hours. The largest was at Aug 11 2024 2018 UTC.
+hours. The largest was at Aug 12 2024 2257 UTC.
 
-Radio Blackout Forecast for Aug 12-Aug 14 2024
+Radio Blackout Forecast for Aug 13-Aug 15 2024
 
-              Aug 12        Aug 13        Aug 14
+              Aug 13        Aug 14        Aug 15
 R1-R2           75%           75%           75%
 R3 or greater   30%           30%           30%
 
 Rationale: R1-R2 (Minor-Moderate) radio blackouts are expected, with a
-chance for R3 (Strong) or greater events, through 14 Aug.
+chance for R3 (Strong) or greater events, over 13-15 Aug.
 
 ```
