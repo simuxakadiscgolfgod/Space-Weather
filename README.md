@@ -1,13 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2024-08-14
-<br />**This image is owned by:**  
-Chantal Anders
-
-<br />**Title of the image:**  Meteors and Aurora over Germany
-<br />**Description for the image:**  This was an unusual night. For one thing, the night sky of August 11 and 12, earlier this week, occurred near the peak of the annual Perseid Meteor Shower. Therefore, meteors streaked across the dark night as small bits cast off from Comet Swift-Tuttle came crashing into the Earth's atmosphere. Even more unusually, for central Germany at least, the night sky glowed purple. The red-blue hue was due to aurora caused by an explosion of particles from the Sun a few days before. This auroral storm was so intense that it was seen as far south as Texas and Italy, in Earth's northern hemisphere.  The featured image composite was built from 7 exposures taken over 26 minutes from Ense, Germany. The Perseids occur predictably every August, but auroras visible this far south are more unusual and less predictable.   Gallery: Perseid Meteor Shower 2024 and Aurorae
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2408/AuroraPerseids_Anders_4855.jpg
+<br />**Date image released:**  2024-08-15
+<br />**This image is owned by:**  Clear Skies
+<br />**Title of the image:**  Late Night Vallentuna
+<br />**Description for the image:**  Bright Mars and even brighter Jupiter are in close conjunction just above the pine trees in this post-midnight skyscape from Vallentuna, Sweden. Taken on August 12 during a geomagnetic storm, the snapshot records the glow of aurora borealis or northern lights, beaming from the left side of the frame. Of course on that date Perseid meteors rained through planet Earth's skies, grains of dust from the shower's parent, periodic comet Swift-Tuttle. The meteor streak at the upper right is a Perseid plowing through the atmosphere at about 60 kilometers per second. Also well-known in in Earth's night sky, the bright Pleides star cluster shines below the Perseid meteor streak. In Greek myth, the Pleiades were seven daughters of the astronomical titan Atlas and sea-nymph Pleione. The Pleiades and their parents' names are given to the cluster's nine brightest stars.   Gallery: Perseid Meteor Shower 2024 and Aurorae
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2408/PerseidM45Aurora_Heden.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -51,56 +49,56 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Aug 14 0030 UTC
+:Issued: 2024 Aug 15 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 5 (NOAA Scale
-G1).
-The greatest expected 3 hr Kp for Aug 14-Aug 16 2024 is 4.67 (NOAA Scale
-G1).
+The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
+Scale levels).
+The greatest expected 3 hr Kp for Aug 15-Aug 17 2024 is 3.67 (below NOAA
+Scale levels).
 
-NOAA Kp index breakdown Aug 14-Aug 16 2024
+NOAA Kp index breakdown Aug 15-Aug 17 2024
 
-             Aug 14       Aug 15       Aug 16
-00-03UT       3.33         1.67         2.33     
-03-06UT       4.67 (G1)    1.33         1.67     
-06-09UT       3.67         1.33         2.00     
-09-12UT       3.00         1.33         2.33     
-12-15UT       2.33         1.33         2.33     
-15-18UT       1.33         1.33         2.33     
-18-21UT       1.33         1.67         2.33     
-21-00UT       1.67         1.67         2.33     
+             Aug 15       Aug 16       Aug 17
+00-03UT       3.00         2.33         3.00     
+03-06UT       3.67         2.67         2.67     
+06-09UT       2.67         2.67         2.67     
+09-12UT       2.33         2.00         2.00     
+12-15UT       1.33         1.67         1.67     
+15-18UT       1.33         2.00         1.67     
+18-21UT       1.67         2.00         2.67     
+21-00UT       1.67         2.00         2.00     
 
-Rationale: G1 (Minor) storm conditions are expected early on 14 Aug due
-to residual CME activity.
+Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
+significant transient or recurrent solar wind features are forecast.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Aug 14-Aug 16 2024
+Solar Radiation Storm Forecast for Aug 15-Aug 17 2024
 
-              Aug 14  Aug 15  Aug 16
-S1 or greater   15%     10%     10%
+              Aug 15  Aug 16  Aug 17
+S1 or greater   15%     15%     10%
 
-Rationale: There is a slight chance for S1 (Minor) solar radiation storm
-levels on 14-16 Aug.
+Rationale: There is a slight chance for S1 (Minor) solar radiation
+storms through 17 Aug.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-Radio blackouts reaching the R1 levels were observed over the past 24
-hours. The largest was at Aug 13 2024 2344 UTC.
+Radio blackouts reaching the R3 levels were observed over the past 24
+hours. The largest was at Aug 14 2024 0640 UTC.
 
-Radio Blackout Forecast for Aug 14-Aug 16 2024
+Radio Blackout Forecast for Aug 15-Aug 17 2024
 
-              Aug 14        Aug 15        Aug 16
+              Aug 15        Aug 16        Aug 17
 R1-R2           75%           75%           75%
 R3 or greater   25%           25%           25%
 
 Rationale: (R1-R2, Minor-Moderate) radio blackouts are expected, with a
-chance for (R3-Strong) through 16 Aug.
+chance for (R3-Strong) radio blackouts through 17 Aug.
 
 ```
