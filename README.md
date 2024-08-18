@@ -1,11 +1,7 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2024-08-17
-<br />**This image is owned by:**  Rory Gannaway
-<br />**Title of the image:**  Sky Full of Arcs
-<br />**Description for the image:**  On August 11 a Rocket Lab Electron rocket launched from a rotating planet. With a small satellite on board its mission was dubbed A Sky Full of SARs (Synthetic Aperture Radar satellites), departing for low Earth orbit from Mahia Peninsula on New Zealand's north island. The fiery trace of the Electron's graceful launch arc is toward the east in this southern sea and skyscape, a composite of 50 consecutive frames taken over 2.5 hours. Fixed to a tripod, the camera was pointing directly at the South Celestial Pole, the extension of planet Earth's axis of rotation in to space. But no bright star marks that location in the southern hemisphere's night sky. Still, the South Celestial Pole is easy to spot. It lies at the center of the concentric star trail arcs that fill the skyward field of view.   Gallery: Perseid Meteor Shower 2024 and Aurorae
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2408/RocketGannaway.jpg
+<br />**Sorry, Image not available!**
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,56 +45,56 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Aug 17 0030 UTC
+:Issued: 2024 Aug 18 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
-Scale levels).
-The greatest expected 3 hr Kp for Aug 17-Aug 19 2024 is 5.33 (NOAA Scale
+The greatest observed 3 hr Kp over the past 24 hours was 7 (NOAA Scale
+G3).
+The greatest expected 3 hr Kp for Aug 18-Aug 20 2024 is 5.00 (NOAA Scale
 G1).
 
-NOAA Kp index breakdown Aug 17-Aug 19 2024
+NOAA Kp index breakdown Aug 18-Aug 20 2024
 
-             Aug 17       Aug 18       Aug 19
-00-03UT       3.00         5.00 (G1)    3.33     
-03-06UT       2.67         5.33 (G1)    4.33     
-06-09UT       2.67         4.67 (G1)    4.00     
-09-12UT       2.00         4.00         4.00     
-12-15UT       2.67         3.67         3.67     
-15-18UT       3.33         3.67         3.67     
-18-21UT       4.33         3.00         3.00     
-21-00UT       4.33         2.67         2.67     
+             Aug 18       Aug 19       Aug 20
+00-03UT       5.00 (G1)    3.33         2.33     
+03-06UT       4.00         3.00         2.33     
+06-09UT       3.33         2.67         2.33     
+09-12UT       4.67 (G1)    2.67         2.33     
+12-15UT       3.67         2.00         2.00     
+15-18UT       3.33         1.67         2.00     
+18-21UT       2.67         1.67         1.33     
+21-00UT       2.67         1.67         1.33     
 
-Rationale: G1 (Minor) geomagnetic storming is likely on 18 Aug due to
-the anticipated arrival of a CME that left the Sun on 14 Aug.
+Rationale: Periods of G1 (Minor) geomagnetic storming are expected on 18
+Aug in response to influence from a CME that left the Sun on 14 Aug.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Aug 17-Aug 19 2024
+Solar Radiation Storm Forecast for Aug 18-Aug 20 2024
 
-              Aug 17  Aug 18  Aug 19
+              Aug 18  Aug 19  Aug 20
 S1 or greater   10%     10%     10%
 
 Rationale: There is a slight chance for S1 (Minor) solar radiation
-storms over 17-19 Aug.
+storms over 18-20 Aug.
 
 C. NOAA Radio Blackout Activity and Forecast
 
 Radio blackouts reaching the R1 levels were observed over the past 24
-hours. The largest was at Aug 16 2024 1324 UTC.
+hours. The largest was at Aug 17 2024 1033 UTC.
 
-Radio Blackout Forecast for Aug 17-Aug 19 2024
+Radio Blackout Forecast for Aug 18-Aug 20 2024
 
-              Aug 17        Aug 18        Aug 19
+              Aug 18        Aug 19        Aug 20
 R1-R2           70%           70%           70%
 R3 or greater   20%           20%           20%
 
 Rationale: R1-R2 (Minor-Moderate) radio blackouts are likely, with a
-slight chance for R3 or greater events, through 19 Aug.
+chance for R3 (Strong) or greater events, over 18-20 Aug.
 
 ```
