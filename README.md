@@ -2,6 +2,13 @@
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
 <br />**Sorry, Image not available!**
+<br />**Date image released:**  2024-08-19
+<br />**This image is owned by:**  
+Luis Romero Ventura
+
+<br />**Title of the image:**  IC 5146: The Cocoon Nebula
+<br />**Description for the image:**  Inside the Cocoon Nebula is a newly developing cluster of stars. Cataloged as IC 5146, the beautiful nebula is nearly 15 light-years wide. Soaring high in northern summer night skies, it's located some 4,000 light years away toward the constellation of the Swan (Cygnus).  Like other star forming regions, it stands out in red, glowing, hydrogen gas excited by young, hot stars, and dust-reflected starlight at the edge of an otherwise invisible molecular cloud.  In fact, the bright star found near the center of this nebula is likely only a few hundred thousand years old, powering the nebular glow as it clears out a cavity in the molecular cloud's star forming dust and gas. A 48-hour long integration resulted in this exceptionally deep color view tracing tantalizing features within and surrounding the dusty stellar nursery.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2408/Cocoon_Ventura_2047.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -45,56 +52,56 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Aug 18 0030 UTC
+:Issued: 2024 Aug 19 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 7 (NOAA Scale
-G3).
-The greatest expected 3 hr Kp for Aug 18-Aug 20 2024 is 5.00 (NOAA Scale
-G1).
+The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
+Scale levels).
+The greatest expected 3 hr Kp for Aug 19-Aug 21 2024 is 3.33 (below NOAA
+Scale levels).
 
-NOAA Kp index breakdown Aug 18-Aug 20 2024
+NOAA Kp index breakdown Aug 19-Aug 21 2024
 
-             Aug 18       Aug 19       Aug 20
-00-03UT       5.00 (G1)    3.33         2.33     
-03-06UT       4.00         3.00         2.33     
-06-09UT       3.33         2.67         2.33     
-09-12UT       4.67 (G1)    2.67         2.33     
-12-15UT       3.67         2.00         2.00     
-15-18UT       3.33         1.67         2.00     
-18-21UT       2.67         1.67         1.33     
-21-00UT       2.67         1.67         1.33     
+             Aug 19       Aug 20       Aug 21
+00-03UT       3.33         1.67         1.67     
+03-06UT       3.00         2.33         1.67     
+06-09UT       2.67         1.67         1.33     
+09-12UT       2.67         1.67         1.33     
+12-15UT       2.00         1.33         0.67     
+15-18UT       1.67         1.00         1.33     
+18-21UT       1.67         1.00         1.67     
+21-00UT       1.67         0.67         1.67     
 
-Rationale: Periods of G1 (Minor) geomagnetic storming are expected on 18
-Aug in response to influence from a CME that left the Sun on 14 Aug.
+Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
+significant transient or recurrent solar wind features are forecast.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Aug 18-Aug 20 2024
+Solar Radiation Storm Forecast for Aug 19-Aug 21 2024
 
-              Aug 18  Aug 19  Aug 20
+              Aug 19  Aug 20  Aug 21
 S1 or greater   10%     10%     10%
 
 Rationale: There is a slight chance for S1 (Minor) solar radiation
-storms over 18-20 Aug.
+storms over 19-21 Aug.
 
 C. NOAA Radio Blackout Activity and Forecast
 
 Radio blackouts reaching the R1 levels were observed over the past 24
-hours. The largest was at Aug 17 2024 1033 UTC.
+hours. The largest was at Aug 18 2024 0204 UTC.
 
-Radio Blackout Forecast for Aug 18-Aug 20 2024
+Radio Blackout Forecast for Aug 19-Aug 21 2024
 
-              Aug 18        Aug 19        Aug 20
+              Aug 19        Aug 20        Aug 21
 R1-R2           70%           70%           70%
 R3 or greater   20%           20%           20%
 
-Rationale: R1-R2 (Minor-Moderate) radio blackouts are likely, with a
-chance for R3 (Strong) or greater events, over 18-20 Aug.
+Rationale: R1-R2 (Minor-Moderate) radio blackouts are expected, with a
+slight chance for R3 (Strong) or greater events, over 19-21 Aug.
 
 ```
