@@ -1,14 +1,10 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Sorry, Image not available!**
-<br />**Date image released:**  2024-08-19
-<br />**This image is owned by:**  
-Luis Romero Ventura
-
-<br />**Title of the image:**  IC 5146: The Cocoon Nebula
-<br />**Description for the image:**  Inside the Cocoon Nebula is a newly developing cluster of stars. Cataloged as IC 5146, the beautiful nebula is nearly 15 light-years wide. Soaring high in northern summer night skies, it's located some 4,000 light years away toward the constellation of the Swan (Cygnus).  Like other star forming regions, it stands out in red, glowing, hydrogen gas excited by young, hot stars, and dust-reflected starlight at the edge of an otherwise invisible molecular cloud.  In fact, the bright star found near the center of this nebula is likely only a few hundred thousand years old, powering the nebular glow as it clears out a cavity in the molecular cloud's star forming dust and gas. A 48-hour long integration resulted in this exceptionally deep color view tracing tantalizing features within and surrounding the dusty stellar nursery.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2408/Cocoon_Ventura_2047.jpg
+<br />**Date image released:**  2024-08-20
+<br />**Title of the image:**  Supermoon Beyond the Temple of Poseidon
+<br />**Description for the image:**  A supermoon occurred yesterday. And tonight's moon should also look impressive.  Supermoons appear slightly larger and brighter than most full moons because they reach their full phase when slightly nearer to the Earth -- closer than 90 percent of all full moons.  This supermoon was also a blue moon given the definition that it is the third of four full moons occurring during a single season.  Blue moons are not usually blue, and a different definition holds that a blue moon is the second full moon that occurs during a single month.  The featured image captured the blue supermoon right near its peak size yesterday as it was rising beyond the Temple of Poseidon in Greece. This supermoon is particularly unusual in that it is the first of four successive supermoons, the next three occurring in September, October, and November.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2408/SupermoonPoseidon_Maragos_1601.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -52,27 +48,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Aug 19 0030 UTC
+:Issued: 2024 Aug 20 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Aug 19-Aug 21 2024 is 3.33 (below NOAA
+The greatest expected 3 hr Kp for Aug 20-Aug 22 2024 is 3.33 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Aug 19-Aug 21 2024
+NOAA Kp index breakdown Aug 20-Aug 22 2024
 
-             Aug 19       Aug 20       Aug 21
-00-03UT       3.33         1.67         1.67     
-03-06UT       3.00         2.33         1.67     
-06-09UT       2.67         1.67         1.33     
-09-12UT       2.67         1.67         1.33     
-12-15UT       2.00         1.33         0.67     
-15-18UT       1.67         1.00         1.33     
-18-21UT       1.67         1.00         1.67     
-21-00UT       1.67         0.67         1.67     
+             Aug 20       Aug 21       Aug 22
+00-03UT       1.67         1.67         1.67     
+03-06UT       2.33         1.67         2.67     
+06-09UT       1.67         1.33         3.00     
+09-12UT       1.67         1.33         3.33     
+12-15UT       1.33         0.67         2.67     
+15-18UT       1.00         1.33         2.00     
+18-21UT       1.00         1.67         2.00     
+21-00UT       0.67         1.67         1.67     
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
 significant transient or recurrent solar wind features are forecast.
@@ -82,26 +78,26 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Aug 19-Aug 21 2024
+Solar Radiation Storm Forecast for Aug 20-Aug 22 2024
 
-              Aug 19  Aug 20  Aug 21
+              Aug 20  Aug 21  Aug 22
 S1 or greater   10%     10%     10%
 
 Rationale: There is a slight chance for S1 (Minor) solar radiation
-storms over 19-21 Aug.
+storms over 20-22 Aug.
 
 C. NOAA Radio Blackout Activity and Forecast
 
 Radio blackouts reaching the R1 levels were observed over the past 24
-hours. The largest was at Aug 18 2024 0204 UTC.
+hours. The largest was at Aug 19 2024 2152 UTC.
 
-Radio Blackout Forecast for Aug 19-Aug 21 2024
+Radio Blackout Forecast for Aug 20-Aug 22 2024
 
-              Aug 19        Aug 20        Aug 21
-R1-R2           70%           70%           70%
+              Aug 20        Aug 21        Aug 22
+R1-R2           65%           65%           65%
 R3 or greater   20%           20%           20%
 
-Rationale: R1-R2 (Minor-Moderate) radio blackouts are expected, with a
-slight chance for R3 (Strong) or greater events, over 19-21 Aug.
+Rationale: R1-R2 (Minor-Moderate) radio blackouts are likely, with a
+slight chance for R3 (Strong) or greater events, over 20-22 Aug.
 
 ```
