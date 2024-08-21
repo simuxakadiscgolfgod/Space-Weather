@@ -1,10 +1,10 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2024-08-20
-<br />**Title of the image:**  Supermoon Beyond the Temple of Poseidon
-<br />**Description for the image:**  A supermoon occurred yesterday. And tonight's moon should also look impressive.  Supermoons appear slightly larger and brighter than most full moons because they reach their full phase when slightly nearer to the Earth -- closer than 90 percent of all full moons.  This supermoon was also a blue moon given the definition that it is the third of four full moons occurring during a single season.  Blue moons are not usually blue, and a different definition holds that a blue moon is the second full moon that occurs during a single month.  The featured image captured the blue supermoon right near its peak size yesterday as it was rising beyond the Temple of Poseidon in Greece. This supermoon is particularly unusual in that it is the first of four successive supermoons, the next three occurring in September, October, and November.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2408/SupermoonPoseidon_Maragos_1601.jpg
+<br />**Date image released:**  2024-08-21
+<br />**Title of the image:**  Fermi's 12-year All-Sky Gamma-ray Map
+<br />**Description for the image:**  Forget X-ray vision — imagine what you could see with gamma-ray vision!  The featured all-sky map shows what the universe looks like to NASA's Fermi Gamma-ray Space Telescope.  Fermi sees light with energies about a billion times what the human eye can see, and the map combines 12 years of Fermi observations.  The colors represent the brightness of the gamma-ray sources, with brighter sources appearing lighter in color.  The prominent stripe across the middle is the central plane of our Milky Way galaxy.  Most of the red and yellow dots scattered above and below the Milky Way’s plane are very distant galaxies, while most of those within the plane are nearby pulsars.  The blue background that fills the image is the diffuse glow of gamma-rays from distant sources that are too dim to be detected individually.  Some gamma-ray sources remain unidentified and topics of research — currently no one knows what they are.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2408/12YearMap_Fermi_2160.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -48,27 +48,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Aug 20 0030 UTC
+:Issued: 2024 Aug 21 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Aug 20-Aug 22 2024 is 3.33 (below NOAA
+The greatest expected 3 hr Kp for Aug 21-Aug 23 2024 is 3.67 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Aug 20-Aug 22 2024
+NOAA Kp index breakdown Aug 21-Aug 23 2024
 
-             Aug 20       Aug 21       Aug 22
-00-03UT       1.67         1.67         1.67     
-03-06UT       2.33         1.67         2.67     
-06-09UT       1.67         1.33         3.00     
-09-12UT       1.67         1.33         3.33     
-12-15UT       1.33         0.67         2.67     
-15-18UT       1.00         1.33         2.00     
-18-21UT       1.00         1.67         2.00     
-21-00UT       0.67         1.67         1.67     
+             Aug 21       Aug 22       Aug 23
+00-03UT       1.67         3.33         2.33     
+03-06UT       1.67         3.67         2.67     
+06-09UT       1.33         3.00         2.00     
+09-12UT       1.33         2.67         2.00     
+12-15UT       0.67         2.67         2.33     
+15-18UT       1.33         2.00         2.00     
+18-21UT       1.67         2.00         2.00     
+21-00UT       1.67         1.67         2.00     
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
 significant transient or recurrent solar wind features are forecast.
@@ -78,26 +78,29 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Aug 20-Aug 22 2024
+Solar Radiation Storm Forecast for Aug 21-Aug 23 2024
 
-              Aug 20  Aug 21  Aug 22
+              Aug 21  Aug 22  Aug 23
 S1 or greater   10%     10%     10%
 
-Rationale: There is a slight chance for S1 (Minor) solar radiation
-storms over 20-22 Aug.
+Rationale: A slight chance for an S1 (Minor) solar radiation event will
+persist through 23 Aug primarily given the development observed in
+AR3790.
 
 C. NOAA Radio Blackout Activity and Forecast
 
 Radio blackouts reaching the R1 levels were observed over the past 24
-hours. The largest was at Aug 19 2024 2152 UTC.
+hours. The largest was at Aug 20 2024 1708 UTC.
 
-Radio Blackout Forecast for Aug 20-Aug 22 2024
+Radio Blackout Forecast for Aug 21-Aug 23 2024
 
-              Aug 20        Aug 21        Aug 22
+              Aug 21        Aug 22        Aug 23
 R1-R2           65%           65%           65%
 R3 or greater   20%           20%           20%
 
-Rationale: R1-R2 (Minor-Moderate) radio blackouts are likely, with a
-slight chance for R3 (Strong) or greater events, over 20-22 Aug.
+Rationale: R1-2 (Minor-Moderate) radio blackouts due to M-class flare
+activity are likely through 23 Aug, along with a slight chance for R3
+(Strong) events, primarily given the potential exhibited by ARs 3790
+and 3795.
 
 ```
