@@ -1,10 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2024-08-21
-<br />**Title of the image:**  Fermi's 12-year All-Sky Gamma-ray Map
-<br />**Description for the image:**  Forget X-ray vision — imagine what you could see with gamma-ray vision!  The featured all-sky map shows what the universe looks like to NASA's Fermi Gamma-ray Space Telescope.  Fermi sees light with energies about a billion times what the human eye can see, and the map combines 12 years of Fermi observations.  The colors represent the brightness of the gamma-ray sources, with brighter sources appearing lighter in color.  The prominent stripe across the middle is the central plane of our Milky Way galaxy.  Most of the red and yellow dots scattered above and below the Milky Way’s plane are very distant galaxies, while most of those within the plane are nearby pulsars.  The blue background that fills the image is the diffuse glow of gamma-rays from distant sources that are too dim to be detected individually.  Some gamma-ray sources remain unidentified and topics of research — currently no one knows what they are.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2408/12YearMap_Fermi_2160.jpg
+<br />**Date image released:**  2024-08-22
+<br />**This image is owned by:**  Mike Selby
+<br />**Title of the image:**  The Dark Tower in Scorpius
+<br />**Description for the image:**  In silhouette against a crowded star field along the tail of the arachnological constellation Scorpius, this dusty cosmic cloud evokes for some the image of an ominous dark tower. In fact, monstrous clumps of dust and molecular gas collapsing to form stars may well lurk within the dark nebula, a structure that spans almost 40 light-years across this gorgeous telescopic portrait. A cometary globule, the swept-back cloud is shaped by intense ultraviolet radiation from the OB association of very hot stars in NGC 6231, off the upper right corner of the scene. That energetic ultraviolet light also powers the globule's bordering reddish glow of hydrogen gas. Hot stars embedded in the dust can be seen as bluish reflection nebulae. This dark tower and associated nebulae are about 5,000 light-years away.   Growing Gallery: Moon Eclipses Saturn in August 2024
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2408/DarkTowerCDK700-Selby.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -48,27 +49,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Aug 21 0030 UTC
+:Issued: 2024 Aug 22 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Aug 21-Aug 23 2024 is 3.67 (below NOAA
+The greatest expected 3 hr Kp for Aug 22-Aug 24 2024 is 3.67 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Aug 21-Aug 23 2024
+NOAA Kp index breakdown Aug 22-Aug 24 2024
 
-             Aug 21       Aug 22       Aug 23
-00-03UT       1.67         3.33         2.33     
-03-06UT       1.67         3.67         2.67     
-06-09UT       1.33         3.00         2.00     
-09-12UT       1.33         2.67         2.00     
-12-15UT       0.67         2.67         2.33     
-15-18UT       1.33         2.00         2.00     
-18-21UT       1.67         2.00         2.00     
-21-00UT       1.67         1.67         2.00     
+             Aug 22       Aug 23       Aug 24
+00-03UT       3.33         2.33         1.67     
+03-06UT       3.67         2.67         1.33     
+06-09UT       3.00         2.00         1.33     
+09-12UT       2.67         2.00         1.33     
+12-15UT       2.67         2.33         1.33     
+15-18UT       2.00         2.00         1.33     
+18-21UT       2.00         2.00         1.67     
+21-00UT       1.67         2.00         1.67     
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
 significant transient or recurrent solar wind features are forecast.
@@ -78,29 +79,29 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Aug 21-Aug 23 2024
+Solar Radiation Storm Forecast for Aug 22-Aug 24 2024
 
-              Aug 21  Aug 22  Aug 23
+              Aug 22  Aug 23  Aug 24
 S1 or greater   10%     10%     10%
 
-Rationale: A slight chance for an S1 (Minor) solar radiation event will
-persist through 23 Aug primarily given the development observed in
-AR3790.
+Rationale: A slight chance for a S1 (Minor) solar radiation event will
+persist through 24 Aug primarily due to the potential presented by
+AR3790 and AR3796.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-Radio blackouts reaching the R1 levels were observed over the past 24
-hours. The largest was at Aug 20 2024 1708 UTC.
+Radio blackouts reaching the R2 levels were observed over the past 24
+hours. The largest was at Aug 21 2024 2208 UTC.
 
-Radio Blackout Forecast for Aug 21-Aug 23 2024
+Radio Blackout Forecast for Aug 22-Aug 24 2024
 
-              Aug 21        Aug 22        Aug 23
-R1-R2           65%           65%           65%
+              Aug 22        Aug 23        Aug 24
+R1-R2           60%           60%           60%
 R3 or greater   20%           20%           20%
 
-Rationale: R1-2 (Minor-Moderate) radio blackouts due to M-class flare
-activity are likely through 23 Aug, along with a slight chance for R3
+Rationale: R1-R2 (Minor-Moderate) radio blackouts due to M-class flare
+activity are likely through 24 Aug, along with a slight chance for R3
 (Strong) events, primarily given the potential exhibited by ARs 3790
-and 3795.
+and 3796.
 
 ```
