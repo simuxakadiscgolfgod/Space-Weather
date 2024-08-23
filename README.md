@@ -1,11 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2024-08-22
-<br />**This image is owned by:**  Mike Selby
-<br />**Title of the image:**  The Dark Tower in Scorpius
-<br />**Description for the image:**  In silhouette against a crowded star field along the tail of the arachnological constellation Scorpius, this dusty cosmic cloud evokes for some the image of an ominous dark tower. In fact, monstrous clumps of dust and molecular gas collapsing to form stars may well lurk within the dark nebula, a structure that spans almost 40 light-years across this gorgeous telescopic portrait. A cometary globule, the swept-back cloud is shaped by intense ultraviolet radiation from the OB association of very hot stars in NGC 6231, off the upper right corner of the scene. That energetic ultraviolet light also powers the globule's bordering reddish glow of hydrogen gas. Hot stars embedded in the dust can be seen as bluish reflection nebulae. This dark tower and associated nebulae are about 5,000 light-years away.   Growing Gallery: Moon Eclipses Saturn in August 2024
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2408/DarkTowerCDK700-Selby.jpg
+<br />**Date image released:**  2024-08-23
+<br />**This image is owned by:**  Thomas Lelu
+<br />**Title of the image:**  Supernova Remnant CTA 1
+<br />**Description for the image:**  There is a quiet pulsar at the heart of CTA 1. The supernova remnant was discovered as a source of emission at radio wavelengths by astronomers in 1960 and since identified as the result of the death explosion of a massive star. But no radio pulses were detected from the expected pulsar, the rotating neutron star remnant of the massive star's collapsed core. Seen about 10,000 years after the initial supernova explosion, the interstellar debris cloud is faint at optical wavelengths. CTA 1's visible wavelength emission from still expanding shock fronts is revealed in this deep telescopic image, a frame that spans about 2 degrees across a starfield in the northern constellation of Cepheus. While no pulsar has since been found at radio wavelengths, in 2008 the Fermi Gamma-ray Space Telescope detected pulsed emission from CTA 1, identifying the supernova remnant's rotating neutron star. The source has been recognized as the first in a growing class of pulsars that are quiet at radio wavelengths but pulse in high-energy gamma-rays.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2408/CTA1_15_75_Lelu2048.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,27 +49,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Aug 22 0030 UTC
+:Issued: 2024 Aug 23 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Aug 22-Aug 24 2024 is 3.67 (below NOAA
+The greatest expected 3 hr Kp for Aug 23-Aug 25 2024 is 2.67 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Aug 22-Aug 24 2024
+NOAA Kp index breakdown Aug 23-Aug 25 2024
 
-             Aug 22       Aug 23       Aug 24
-00-03UT       3.33         2.33         1.67     
-03-06UT       3.67         2.67         1.33     
-06-09UT       3.00         2.00         1.33     
-09-12UT       2.67         2.00         1.33     
-12-15UT       2.67         2.33         1.33     
-15-18UT       2.00         2.00         1.33     
-18-21UT       2.00         2.00         1.67     
-21-00UT       1.67         2.00         1.67     
+             Aug 23       Aug 24       Aug 25
+00-03UT       2.33         1.67         1.67     
+03-06UT       2.67         1.33         1.33     
+06-09UT       2.00         1.33         1.33     
+09-12UT       2.00         1.33         1.33     
+12-15UT       2.33         1.33         1.33     
+15-18UT       2.00         1.33         1.33     
+18-21UT       2.00         1.67         1.67     
+21-00UT       2.00         1.67         1.67     
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
 significant transient or recurrent solar wind features are forecast.
@@ -79,28 +79,28 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Aug 22-Aug 24 2024
+Solar Radiation Storm Forecast for Aug 23-Aug 25 2024
 
-              Aug 22  Aug 23  Aug 24
-S1 or greater   10%     10%     10%
+              Aug 23  Aug 24  Aug 25
+S1 or greater    5%      5%      5%
 
-Rationale: A slight chance for a S1 (Minor) solar radiation event will
-persist through 24 Aug primarily due to the potential presented by
-AR3790 and AR3796.
+Rationale: No S1 (Minor) or greater solar radiation storms are expected.
+No significant active region activity favorable for radiation storm
+production is forecast.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-Radio blackouts reaching the R2 levels were observed over the past 24
-hours. The largest was at Aug 21 2024 2208 UTC.
+Radio blackouts reaching the R1 levels were observed over the past 24
+hours. The largest was at Aug 22 2024 1039 UTC.
 
-Radio Blackout Forecast for Aug 22-Aug 24 2024
+Radio Blackout Forecast for Aug 23-Aug 25 2024
 
-              Aug 22        Aug 23        Aug 24
-R1-R2           60%           60%           60%
-R3 or greater   20%           20%           20%
+              Aug 23        Aug 24        Aug 25
+R1-R2           55%           55%           55%
+R3 or greater   10%           10%           10%
 
 Rationale: R1-R2 (Minor-Moderate) radio blackouts due to M-class flare
-activity are likely through 24 Aug, along with a slight chance for R3
+activity are likely through 25 Aug, along with a slight chance for R3
 (Strong) events, primarily given the potential exhibited by ARs 3790
 and 3796.
 
