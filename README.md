@@ -1,11 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2024-08-23
-<br />**This image is owned by:**  Thomas Lelu
-<br />**Title of the image:**  Supernova Remnant CTA 1
-<br />**Description for the image:**  There is a quiet pulsar at the heart of CTA 1. The supernova remnant was discovered as a source of emission at radio wavelengths by astronomers in 1960 and since identified as the result of the death explosion of a massive star. But no radio pulses were detected from the expected pulsar, the rotating neutron star remnant of the massive star's collapsed core. Seen about 10,000 years after the initial supernova explosion, the interstellar debris cloud is faint at optical wavelengths. CTA 1's visible wavelength emission from still expanding shock fronts is revealed in this deep telescopic image, a frame that spans about 2 degrees across a starfield in the northern constellation of Cepheus. While no pulsar has since been found at radio wavelengths, in 2008 the Fermi Gamma-ray Space Telescope detected pulsed emission from CTA 1, identifying the supernova remnant's rotating neutron star. The source has been recognized as the first in a growing class of pulsars that are quiet at radio wavelengths but pulse in high-energy gamma-rays.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2408/CTA1_15_75_Lelu2048.jpg
+<br />**Date image released:**  2024-08-24
+<br />**This image is owned by:**  full Moon
+<br />**Title of the image:**  South Pacific Shadowset
+<br />**Description for the image:**  The full Moon and Earth's shadow set together in this island skyscape. The alluring scene was captured Tuesday morning, August 20, from Fiji, South Pacific Ocean, planet Earth. For early morning risers shadowset in the western sky is a daily apparition. Still, the grey-blue shadow is often overlooked in favor of a brighter eastern horizon. Extending through the dense atmosphere, Earth's setting shadow is bounded above by a pinkish glow or anti-twilight arch. Known as the Belt of Venus, the arch's lovely color is due to backscattering of reddened light from the opposite horizon's rising Sun. Of course, the setting Moon's light is reddened by the long sight-line through the atmosphere. But on that date the full Moon could be called a seasonal Blue Moon, the third full Moon in a season with four full Moons. And even though the full Moon is always impressive near the horizon, August's full Moon is considered by some the first of four consecutive full Supermoons in 2024.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2408/FijiMoonsetWangJin.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,27 +49,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Aug 23 0030 UTC
+:Issued: 2024 Aug 24 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Aug 23-Aug 25 2024 is 2.67 (below NOAA
+The greatest expected 3 hr Kp for Aug 24-Aug 26 2024 is 1.67 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Aug 23-Aug 25 2024
+NOAA Kp index breakdown Aug 24-Aug 26 2024
 
-             Aug 23       Aug 24       Aug 25
-00-03UT       2.33         1.67         1.67     
-03-06UT       2.67         1.33         1.33     
-06-09UT       2.00         1.33         1.33     
-09-12UT       2.00         1.33         1.33     
-12-15UT       2.33         1.33         1.33     
-15-18UT       2.00         1.33         1.33     
-18-21UT       2.00         1.67         1.67     
-21-00UT       2.00         1.67         1.67     
+             Aug 24       Aug 25       Aug 26
+00-03UT       1.67         1.67         1.67     
+03-06UT       1.33         1.33         1.67     
+06-09UT       1.33         1.33         1.67     
+09-12UT       1.33         1.33         1.33     
+12-15UT       1.33         1.33         1.33     
+15-18UT       1.33         1.33         1.33     
+18-21UT       1.67         1.67         1.33     
+21-00UT       1.67         1.67         1.33     
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
 significant transient or recurrent solar wind features are forecast.
@@ -79,28 +79,27 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Aug 23-Aug 25 2024
+Solar Radiation Storm Forecast for Aug 24-Aug 26 2024
 
-              Aug 23  Aug 24  Aug 25
-S1 or greater    5%      5%      5%
+              Aug 24  Aug 25  Aug 26
+S1 or greater   10%     10%     10%
 
-Rationale: No S1 (Minor) or greater solar radiation storms are expected.
-No significant active region activity favorable for radiation storm
-production is forecast.
+Rationale: A slight chance for S1 (Minor) or greater solar radiation
+storms are possible.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-Radio blackouts reaching the R1 levels were observed over the past 24
-hours. The largest was at Aug 22 2024 1039 UTC.
+Radio blackouts reaching the R2 levels were observed over the past 24
+hours. The largest was at Aug 23 2024 2012 UTC.
 
-Radio Blackout Forecast for Aug 23-Aug 25 2024
+Radio Blackout Forecast for Aug 24-Aug 26 2024
 
-              Aug 23        Aug 24        Aug 25
-R1-R2           55%           55%           55%
-R3 or greater   10%           10%           10%
+              Aug 24        Aug 25        Aug 26
+R1-R2           70%           70%           70%
+R3 or greater   15%           15%           15%
 
 Rationale: R1-R2 (Minor-Moderate) radio blackouts due to M-class flare
-activity are likely through 25 Aug, along with a slight chance for R3
+activity are likely through 26 Aug, along with a slight chance for R3
 (Strong) events, primarily given the potential exhibited by ARs 3790
 and 3796.
 
