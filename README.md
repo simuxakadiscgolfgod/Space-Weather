@@ -1,14 +1,13 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Sorry, Image not available!**
-<br />**Date image released:**  2024-08-27
+<br />**Date image released:**  2024-08-28
 <br />**This image is owned by:**  
-Pau Montplet Sanz
+Anirudh Shastry
 
-<br />**Title of the image:**  Moon Eclipses Saturn
-<br />**Description for the image:**  What if Saturn disappeared?  Sometimes, it does.  It doesn't really go away, though, it just disappears from view when our Moon moves in front.  Such a Saturnian eclipse, more formally called an occultation, was visible along a long swath of Earth -- from Peru, across the Atlantic Ocean, to Italy -- only a few days ago.  The featured color image is a digital fusion of the clearest images captured during the event and rebalanced for color and relative brightness between the relatively dim Saturn and the comparatively bright Moon. Saturn and the comparative bright Moon.  The exposures were all taken from Breda, Catalonia, Spain, just before occultation. Eclipses of Saturn by our Moon will occur each month for the rest of this year. Each time, though, the fleeting event will be visible only to those with clear skies -- and the right location on Earth.   Gallery: Moon Eclipses Saturn in August 2024
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2408/MoonEclipsesSaturn_Sanz_2000.jpg
+<br />**Title of the image:**  Tulip Nebula and Black Hole Cygnus X-1
+<br />**Description for the image:**  When can you see a black hole, a tulip, and a swan all at once? At night -- if the timing is right, and if your telescope is pointed in the right direction.  The complex and beautiful Tulip Nebula blossoms about 8,000 light-years away toward the constellation of Cygnus the Swan.  Ultraviolet radiation from young energetic stars at the edge of the Cygnus OB3 association, including O star HDE 227018, ionizes the atoms and powers the emission from the Tulip Nebula.  Stewart Sharpless cataloged this nearly 70 light-years across reddish glowing cloud of interstellar gas and dust in 1959, as Sh2-101. Also in the featured field of view is the black hole Cygnus X-1, which to be a microquasar because it is one of strongest X-ray sources in planet Earth's sky. Blasted by powerful jets from a lurking black hole, its fainter bluish curved shock front is only faintly visible beyond the cosmic Tulip's petals, near the right side of the frame.   Back to School? Learn Science with NASA
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2408/Tulip_Shastry_6144.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -52,56 +51,56 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Aug 27 0030 UTC
+:Issued: 2024 Aug 28 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Aug 27-Aug 29 2024 is 4.00 (below NOAA
+The greatest expected 3 hr Kp for Aug 28-Aug 30 2024 is 4.00 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Aug 27-Aug 29 2024
+NOAA Kp index breakdown Aug 28-Aug 30 2024
 
-             Aug 27       Aug 28       Aug 29
-00-03UT       2.00         3.67         1.67     
-03-06UT       2.00         3.67         1.67     
-06-09UT       2.00         2.67         1.33     
-09-12UT       2.00         2.67         1.33     
-12-15UT       2.00         2.00         1.33     
-15-18UT       3.00         1.67         1.33     
-18-21UT       3.00         1.67         1.33     
-21-00UT       4.00         2.00         1.67     
+             Aug 28       Aug 29       Aug 30
+00-03UT       4.00         1.67         2.00     
+03-06UT       3.67         1.67         2.67     
+06-09UT       3.00         1.33         2.33     
+09-12UT       2.67         1.33         2.00     
+12-15UT       2.00         1.33         1.67     
+15-18UT       2.00         1.33         1.33     
+18-21UT       2.00         1.33         2.00     
+21-00UT       2.67         1.67         2.33     
 
-Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
-significant transient or recurrent solar wind features are forecast.
+Rationale: Active periods, with a chance for G1 (Minor) storm levels,
+are expected on 28 Aug due to persistent CME effects.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Aug 27-Aug 29 2024
+Solar Radiation Storm Forecast for Aug 28-Aug 30 2024
 
-              Aug 27  Aug 28  Aug 29
+              Aug 28  Aug 29  Aug 30
 S1 or greater   10%     10%     10%
 
-Rationale: A slight chance for S1 (Minor) or greater solar radiation
-storms are possible.
+Rationale: There is a slight chance for an S1 (Minor) solar radiation
+storm through 30 Aug.
 
 C. NOAA Radio Blackout Activity and Forecast
 
 Radio blackouts reaching the R1 levels were observed over the past 24
-hours. The largest was at Aug 26 2024 1141 UTC.
+hours. The largest was at Aug 27 2024 0943 UTC.
 
-Radio Blackout Forecast for Aug 27-Aug 29 2024
+Radio Blackout Forecast for Aug 28-Aug 30 2024
 
-              Aug 27        Aug 28        Aug 29
-R1-R2           70%           70%           60%
-R3 or greater   20%           20%           10%
+              Aug 28        Aug 29        Aug 30
+R1-R2           70%           60%           60%
+R3 or greater   20%           10%           10%
 
-Rationale: R1-R2 (Minor-Moderate) radio blackouts are likely through 29
-Aug with a slight chance for R3 (Strong) events.
+Rationale: R1-R2 (Minor-Moderate) levels are likely, with a slight
+chance for R3 (strong) radio blackouts, through 30 Aug.
 
 ```
