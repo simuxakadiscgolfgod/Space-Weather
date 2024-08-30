@@ -1,11 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2024-08-29
-<br />**This image is owned by:**  Gaetan Maxant
-<br />**Title of the image:**  Star Factory Messier 17
-<br />**Description for the image:**  A nearby star factory known as Messier 17 lies some 5,500 light-years away in the nebula-rich constellation Sagittarius. At that distance, this 1.5 degree wide field-of-view would span about 150 light-years. In the sharp color composite image faint details of the region's gas and dust clouds are highlighted with narrowband image data against a backdrop of central Milky Way stars. The stellar winds and energetic radiation from hot, massive stars already formed from M17's stock of cosmic gas and dust have slowly carved away at the remaining interstellar material, producing the nebula's cavernous appearance and the undulating shapes within. A popular stop on telescopic tours of the cosmos, M17 is also known as the Omega or the Swan Nebula.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2408/M17SwanMaxant_2048.jpg
+<br />**Date image released:**  2024-08-30
+<br />**This image is owned by:**  Lorand Fenyes
+<br />**Title of the image:**  Southern Moonscape
+<br />**Description for the image:**  The Moon's south pole is toward the top left of this detailed telescopic moonscape. Captured on August 23, it looks across the rugged southern lunar highlands. The view's foreshortened perspective heightens the impression of a dense field of craters and makes the craters themselves appear more oval shaped close to the lunar limb. Prominent near center is 114 kilometer diameter crater Moretus. Moretus is young for a large lunar crater and features terraced inner walls and a 2.1 kilometer high, central peak, similar in appearance to the more northerly young crater Tycho. Mountains visible along the lunar limb at the top can rise about 6 kilometers or so above the surrounding terrain. Close to the lunar south pole, permanently shadowed crater floors with expected reservoirs of water-ice have made the rugged south polar region of the Moon a popular target for exploration.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2408/lorand_fenyes_hold_0016_Moretus_hegyvidek.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,55 +49,55 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Aug 29 0030 UTC
+:Issued: 2024 Aug 30 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 6 (NOAA Scale
-G2).
-The greatest expected 3 hr Kp for Aug 29-Aug 31 2024 is 4.67 (NOAA Scale
-G1).
+The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
+Scale levels).
+The greatest expected 3 hr Kp for Aug 30-Sep 01 2024 is 3.00 (below NOAA
+Scale levels).
 
-NOAA Kp index breakdown Aug 29-Aug 31 2024
+NOAA Kp index breakdown Aug 30-Sep 01 2024
 
-             Aug 29       Aug 30       Aug 31
-00-03UT       4.00         2.00         1.33     
-03-06UT       4.67 (G1)    2.67         1.67     
-06-09UT       3.67         2.33         1.33     
-09-12UT       2.33         2.00         1.33     
-12-15UT       1.67         1.67         1.67     
-15-18UT       2.00         1.33         1.67     
-18-21UT       1.33         2.00         1.33     
-21-00UT       2.00         2.33         1.33     
+             Aug 30       Aug 31       Sep 01
+00-03UT       2.00         2.00         2.00     
+03-06UT       2.67         2.33         2.33     
+06-09UT       2.33         2.33         3.00     
+09-12UT       2.00         2.33         2.00     
+12-15UT       1.67         2.33         2.00     
+15-18UT       1.33         2.33         2.00     
+18-21UT       2.00         2.33         2.00     
+21-00UT       2.33         1.67         2.00     
 
-Rationale: G1 (Minor) geomagnetic storm levels are likely on 29 Aug due
-to persistent CME activity.
+Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
+significant transient or recurrent solar wind features are forecast.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Aug 29-Aug 31 2024
+Solar Radiation Storm Forecast for Aug 30-Sep 01 2024
 
-              Aug 29  Aug 30  Aug 31
+              Aug 30  Aug 31  Sep 01
 S1 or greater   10%     10%     10%
 
 Rationale: There is a slight chance for an S1 (Minor) solar radiation
-storm through 31 Aug.
+storm through 01 Sep.
 
 C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Aug 29-Aug 31 2024
+Radio Blackout Forecast for Aug 30-Sep 01 2024
 
-              Aug 29        Aug 30        Aug 31
-R1-R2           55%           60%           60%
+              Aug 30        Aug 31        Sep 01
+R1-R2           60%           60%           60%
 R3 or greater   10%           10%           10%
 
 Rationale: R1-R2 (Minor-Moderate) levels are likely, with a slight
-chance for R3 (strong) radio blackouts, through 31 Aug.
+chance for R3 (strong) radio blackouts, through 01 Sep.
 
 ```
