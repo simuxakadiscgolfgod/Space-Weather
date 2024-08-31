@@ -1,11 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2024-08-30
-<br />**This image is owned by:**  Lorand Fenyes
-<br />**Title of the image:**  Southern Moonscape
-<br />**Description for the image:**  The Moon's south pole is toward the top left of this detailed telescopic moonscape. Captured on August 23, it looks across the rugged southern lunar highlands. The view's foreshortened perspective heightens the impression of a dense field of craters and makes the craters themselves appear more oval shaped close to the lunar limb. Prominent near center is 114 kilometer diameter crater Moretus. Moretus is young for a large lunar crater and features terraced inner walls and a 2.1 kilometer high, central peak, similar in appearance to the more northerly young crater Tycho. Mountains visible along the lunar limb at the top can rise about 6 kilometers or so above the surrounding terrain. Close to the lunar south pole, permanently shadowed crater floors with expected reservoirs of water-ice have made the rugged south polar region of the Moon a popular target for exploration.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2408/lorand_fenyes_hold_0016_Moretus_hegyvidek.jpg
+<br />**Date image released:**  2024-08-31
+<br />**This image is owned by:**  Steve Mandel
+<br />**Title of the image:**  IFN and the NGC 7771 Group
+<br />**Description for the image:**  Galaxies of the NGC 7771 Group are featured in this intriguing skyscape. Some 200 million light-years distant toward the constellation Pegasus, NGC 7771 is the large, edge-on spiral near center, about 75,000 light-years across, with two smaller galaxies below it. Large spiral NGC 7769 is seen face-on to the right. Galaxies of the NGC 7771 group are interacting, making repeated close passages that will ultimately result in galaxy-galaxy mergers on a cosmic timescale. The interactions can be traced by distortions in the shape of the galaxies themselves and faint streams of stars created by their mutual gravitational tides. But a clear view of this galaxy group is difficult to come by as the deep image also reveals extensive clouds of foreground dust sweeping across the field of view. The dim, dusty galactic cirrus clouds are known as Integrated Flux Nebulae. The faint IFN reflect starlight from our own Milky Way Galaxy and lie only a few hundred light-years above the galactic plane.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2408/NGC7769_70_71_Mandel.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,55 +49,56 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Aug 30 0030 UTC
+:Issued: 2024 Aug 31 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
-Scale levels).
-The greatest expected 3 hr Kp for Aug 30-Sep 01 2024 is 3.00 (below NOAA
-Scale levels).
+The greatest observed 3 hr Kp over the past 24 hours was 5 (NOAA Scale
+G1).
+The greatest expected 3 hr Kp for Aug 31-Sep 02 2024 is 4.67 (NOAA Scale
+G1).
 
-NOAA Kp index breakdown Aug 30-Sep 01 2024
+NOAA Kp index breakdown Aug 31-Sep 02 2024
 
-             Aug 30       Aug 31       Sep 01
-00-03UT       2.00         2.00         2.00     
-03-06UT       2.67         2.33         2.33     
-06-09UT       2.33         2.33         3.00     
-09-12UT       2.00         2.33         2.00     
-12-15UT       1.67         2.33         2.00     
-15-18UT       1.33         2.33         2.00     
-18-21UT       2.00         2.33         2.00     
-21-00UT       2.33         1.67         2.00     
+             Aug 31       Sep 01       Sep 02
+00-03UT       3.00         2.67         1.67     
+03-06UT       2.67         2.33         1.33     
+06-09UT       4.67 (G1)    2.33         1.33     
+09-12UT       2.67         1.67         1.33     
+12-15UT       1.67         2.00         1.33     
+15-18UT       1.00         2.00         1.33     
+18-21UT       1.00         2.00         1.67     
+21-00UT       1.67         2.00         1.67     
 
-Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
-significant transient or recurrent solar wind features are forecast.
+Rationale: G1 (Minor) geomagnetic storms due to gradually waning
+enhancements in the solar wind on 31 Aug.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Aug 30-Sep 01 2024
+Solar Radiation Storm Forecast for Aug 31-Sep 02 2024
 
-              Aug 30  Aug 31  Sep 01
+              Aug 31  Sep 01  Sep 02
 S1 or greater   10%     10%     10%
 
 Rationale: There is a slight chance for an S1 (Minor) solar radiation
-storm through 01 Sep.
+storm through 02 Sep
 
 C. NOAA Radio Blackout Activity and Forecast
 
-No radio blackouts were observed over the past 24 hours.
+Radio blackouts reaching the R1 levels were observed over the past 24
+hours. The largest was at Aug 30 2024 1220 UTC.
 
-Radio Blackout Forecast for Aug 30-Sep 01 2024
+Radio Blackout Forecast for Aug 31-Sep 02 2024
 
-              Aug 30        Aug 31        Sep 01
+              Aug 31        Sep 01        Sep 02
 R1-R2           60%           60%           60%
 R3 or greater   10%           10%           10%
 
 Rationale: R1-R2 (Minor-Moderate) levels are likely, with a slight
-chance for R3 (strong) radio blackouts, through 01 Sep.
+chance for R3 (strong) radio blackouts, through 02 Sep.
 
 ```
