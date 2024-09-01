@@ -1,11 +1,13 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2024-08-31
-<br />**This image is owned by:**  Steve Mandel
-<br />**Title of the image:**  IFN and the NGC 7771 Group
-<br />**Description for the image:**  Galaxies of the NGC 7771 Group are featured in this intriguing skyscape. Some 200 million light-years distant toward the constellation Pegasus, NGC 7771 is the large, edge-on spiral near center, about 75,000 light-years across, with two smaller galaxies below it. Large spiral NGC 7769 is seen face-on to the right. Galaxies of the NGC 7771 group are interacting, making repeated close passages that will ultimately result in galaxy-galaxy mergers on a cosmic timescale. The interactions can be traced by distortions in the shape of the galaxies themselves and faint streams of stars created by their mutual gravitational tides. But a clear view of this galaxy group is difficult to come by as the deep image also reveals extensive clouds of foreground dust sweeping across the field of view. The dim, dusty galactic cirrus clouds are known as Integrated Flux Nebulae. The faint IFN reflect starlight from our own Milky Way Galaxy and lie only a few hundred light-years above the galactic plane.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2408/NGC7769_70_71_Mandel.jpg
+<br />**Date image released:**  2024-09-01
+<br />**This image is owned by:**  
+Francisco Sojuel
+
+<br />**Title of the image:**  The Moon Dressed Like Saturn
+<br />**Description for the image:**  Why does Saturn appear so big? It doesn't -- what is pictured are foreground clouds on Earth crossing in front of the Moon. The Moon shows a slight crescent phase with most of its surface visible by reflected Earthlight, known as Da Vinci glow. The Sun directly illuminates the brightly lit lunar crescent from the bottom, which means that the Sun must be below the horizon and so the image was taken before sunrise.  This double take-inducing picture was captured on 2019 December 24, two days before the Moon slid in front of the Sun to create a solar eclipse. In the foreground, lights from small Guatemalan towns are visible behind the huge volcano Pacaya.    Your Sky Surprise: What picture did APOD feature on your birthday? (post 1995)
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2409/SaturnMoon_Sojuel_1824.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,56 +51,56 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Aug 31 0030 UTC
+:Issued: 2024 Sep 01 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 5 (NOAA Scale
 G1).
-The greatest expected 3 hr Kp for Aug 31-Sep 02 2024 is 4.67 (NOAA Scale
-G1).
+The greatest expected 3 hr Kp for Sep 01-Sep 03 2024 is 4.00 (below NOAA
+Scale levels).
 
-NOAA Kp index breakdown Aug 31-Sep 02 2024
+NOAA Kp index breakdown Sep 01-Sep 03 2024
 
-             Aug 31       Sep 01       Sep 02
-00-03UT       3.00         2.67         1.67     
-03-06UT       2.67         2.33         1.33     
-06-09UT       4.67 (G1)    2.33         1.33     
-09-12UT       2.67         1.67         1.33     
-12-15UT       1.67         2.00         1.33     
-15-18UT       1.00         2.00         1.33     
-18-21UT       1.00         2.00         1.67     
-21-00UT       1.67         2.00         1.67     
+             Sep 01       Sep 02       Sep 03
+00-03UT       3.00         1.67         1.67     
+03-06UT       2.00         1.33         1.33     
+06-09UT       2.00         1.33         1.33     
+09-12UT       4.00         1.33         1.33     
+12-15UT       2.00         1.33         1.33     
+15-18UT       1.00         1.33         1.33     
+18-21UT       2.00         1.67         1.67     
+21-00UT       2.00         1.67         1.67     
 
-Rationale: G1 (Minor) geomagnetic storms due to gradually waning
-enhancements in the solar wind on 31 Aug.
+Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
+significant transient or recurrent solar wind features are forecast.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Aug 31-Sep 02 2024
+Solar Radiation Storm Forecast for Sep 01-Sep 03 2024
 
-              Aug 31  Sep 01  Sep 02
+              Sep 01  Sep 02  Sep 03
 S1 or greater   10%     10%     10%
 
-Rationale: There is a slight chance for an S1 (Minor) solar radiation
-storm through 02 Sep
+Rationale: There is a slight chance for S1 (Minor) solar radiation
+storms through 03 Sep.
 
 C. NOAA Radio Blackout Activity and Forecast
 
 Radio blackouts reaching the R1 levels were observed over the past 24
-hours. The largest was at Aug 30 2024 1220 UTC.
+hours. The largest was at Aug 31 2024 1302 UTC.
 
-Radio Blackout Forecast for Aug 31-Sep 02 2024
+Radio Blackout Forecast for Sep 01-Sep 03 2024
 
-              Aug 31        Sep 01        Sep 02
+              Sep 01        Sep 02        Sep 03
 R1-R2           60%           60%           60%
 R3 or greater   10%           10%           10%
 
-Rationale: R1-R2 (Minor-Moderate) levels are likely, with a slight
-chance for R3 (strong) radio blackouts, through 02 Sep.
+Rationale: R1-R2 (Minor-Moderate) radio blackouts are likely, with a
+slight chance for R3 (Strong), through 03 Sep.
 
 ```
