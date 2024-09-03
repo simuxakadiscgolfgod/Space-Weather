@@ -1,13 +1,14 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2024-09-02
+<br />**Date image released:**  2024-09-03
 <br />**This image is owned by:**  
-Andrea Vanoni
+Alan Dyer, 
+TWAN
 
-<br />**Title of the image:**  A Triangular Prominence Hovers Over the Sun
-<br />**Description for the image:**  Why is there a triangle hovering over the Sun?  Although the shape is unusual, the type of structure is not: it is part of an evolving solar prominence.  Looping magnetic fields on the Sun channel the flow of energetic particles, sometimes holding glowing gaseous structures aloft for months.  A prominence glows brightly because it contains particularly hot, dense, or opaque solar plasma. The surprising triangular structure occurred last week. Larger than our Earth, the iconic prominence was imaged by several solar photographers and documented by NASA's Solar Dynamic Observatory to form and violently dissipate in about a day. The featured image was captured in a color of red light emitted strongly by hydrogen.  Below, solar fibrils carpet the Sun's chromosphere, while the background sky is so faint in comparison that no stars are visible.  Our Sun's surface has been quite active this year.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2409/SunTriangle_Vanoni_960.jpg
+<br />**Title of the image:**  Quarter Moon and Sister Stars
+<br />**Description for the image:**  Nine days ago, two quite different sky icons were imaged rising together. Specifically, Earth's Moon shared the eastern sky with the sister stars of the Pleiades cluster, as viewed from Alberta, Canada.  Astronomical images of the well-known Pleiades often show the star cluster's alluring blue reflection nebulas, but here they are washed-out by the orange moonrise sky. The half-lit Moon, known as a quarter moon, is overexposed, although the outline of the dim lunar night side can be seen by illuminating earthshine, light first reflected from the Earth. The featured image is a composite of eight successive exposures with brightnesses adjusted to match what the human eye would see.  The Moon passes nearly -- or directly -- in front of the Pleaides once a month.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2409/MoonPleiades_Dyer_2048.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -51,27 +52,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Sep 02 0030 UTC
+:Issued: 2024 Sep 03 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Sep 02-Sep 04 2024 is 2.67 (below NOAA
+The greatest expected 3 hr Kp for Sep 03-Sep 05 2024 is 3.00 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Sep 02-Sep 04 2024
+NOAA Kp index breakdown Sep 03-Sep 05 2024
 
-             Sep 02       Sep 03       Sep 04
-00-03UT       2.67         1.67         1.67     
-03-06UT       2.67         2.00         2.00     
-06-09UT       2.00         1.67         1.33     
-09-12UT       2.00         1.33         1.33     
-12-15UT       1.00         1.33         1.33     
-15-18UT       1.00         0.67         1.33     
-18-21UT       2.00         0.67         0.67     
-21-00UT       2.33         1.67         1.67     
+             Sep 03       Sep 04       Sep 05
+00-03UT       2.33         3.00         1.67     
+03-06UT       2.00         2.00         1.33     
+06-09UT       2.00         2.00         1.33     
+09-12UT       2.00         2.67         1.33     
+12-15UT       2.00         2.67         1.33     
+15-18UT       2.00         2.67         1.33     
+18-21UT       2.00         2.67         1.67     
+21-00UT       3.00         3.00         1.67     
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
 significant transient or recurrent solar wind features are forecast.
@@ -81,26 +82,26 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Sep 02-Sep 04 2024
+Solar Radiation Storm Forecast for Sep 03-Sep 05 2024
 
-              Sep 02  Sep 03  Sep 04
-S1 or greater   10%     10%     10%
+              Sep 03  Sep 04  Sep 05
+S1 or greater   25%     25%     25%
 
-Rationale: There is a slight chance for S1 (Minor) solar radiation
-storms through 04 Sep.
+Rationale: There is a chance for S1 (Minor) solar radiation storms over
+03-05 Sep.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-Radio blackouts reaching the R2 levels were observed over the past 24
-hours. The largest was at Sep 01 2024 1322 UTC.
+Radio blackouts reaching the R1 levels were observed over the past 24
+hours. The largest was at Sep 02 2024 1343 UTC.
 
-Radio Blackout Forecast for Sep 02-Sep 04 2024
+Radio Blackout Forecast for Sep 03-Sep 05 2024
 
-              Sep 02        Sep 03        Sep 04
-R1-R2           60%           60%           60%
-R3 or greater   10%           10%           10%
+              Sep 03        Sep 04        Sep 05
+R1-R2           70%           70%           70%
+R3 or greater   25%           25%           25%
 
 Rationale: R1-R2 (Minor-Moderate) radio blackouts are likely, with a
-slight chance for R3 (Strong), through 04 Sep.
+chance for R3 or greater events, over 03-05 Sep.
 
 ```
