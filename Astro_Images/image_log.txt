@@ -1,8 +1,7 @@
-<br />**Date image released:**  2024-09-03
+<br />**Date image released:**  2024-09-04
 <br />**This image is owned by:**  
-Alan Dyer, 
-TWAN
+Mike Taivalmaa
 
-<br />**Title of the image:**  Quarter Moon and Sister Stars
-<br />**Description for the image:**  Nine days ago, two quite different sky icons were imaged rising together. Specifically, Earth's Moon shared the eastern sky with the sister stars of the Pleiades cluster, as viewed from Alberta, Canada.  Astronomical images of the well-known Pleiades often show the star cluster's alluring blue reflection nebulas, but here they are washed-out by the orange moonrise sky. The half-lit Moon, known as a quarter moon, is overexposed, although the outline of the dim lunar night side can be seen by illuminating earthshine, light first reflected from the Earth. The featured image is a composite of eight successive exposures with brightnesses adjusted to match what the human eye would see.  The Moon passes nearly -- or directly -- in front of the Pleaides once a month.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2409/MoonPleiades_Dyer_2048.jpg
+<br />**Title of the image:**  NGC 6995: The Bat Nebula
+<br />**Description for the image:**  Can you see the bat?  It haunts this cosmic close-up of the eastern Veil Nebula.  The Veil Nebula itself is a large supernova remnant, the expanding debris cloud from the death explosion of a massive star. While the Veil is roughly circular in shape and covers nearly 3 degrees on the sky toward the constellation of the Swan (Cygnus), NGC 6995, known informally as the Bat Nebula, spans only 1/2 degree, about the apparent size of the Moon. That translates to 12 light-years at the Veil's estimated distance, a reassuring 1,400 light-years from planet Earth. In the composite of image data recorded through narrow band filters, emission from hydrogen atoms in the remnant is shown in red with strong emission from oxygen atoms shown in hues of blue. Of course, in the western part of the Veil lies another seasonal apparition: the Witch's Broom Nebula.   Teachers & Students: Ideas for using APOD in the classroom
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2409/Bat_Taivalnaa_4200.jpg

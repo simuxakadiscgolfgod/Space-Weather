@@ -1,14 +1,13 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2024-09-03
+<br />**Date image released:**  2024-09-04
 <br />**This image is owned by:**  
-Alan Dyer, 
-TWAN
+Mike Taivalmaa
 
-<br />**Title of the image:**  Quarter Moon and Sister Stars
-<br />**Description for the image:**  Nine days ago, two quite different sky icons were imaged rising together. Specifically, Earth's Moon shared the eastern sky with the sister stars of the Pleiades cluster, as viewed from Alberta, Canada.  Astronomical images of the well-known Pleiades often show the star cluster's alluring blue reflection nebulas, but here they are washed-out by the orange moonrise sky. The half-lit Moon, known as a quarter moon, is overexposed, although the outline of the dim lunar night side can be seen by illuminating earthshine, light first reflected from the Earth. The featured image is a composite of eight successive exposures with brightnesses adjusted to match what the human eye would see.  The Moon passes nearly -- or directly -- in front of the Pleaides once a month.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2409/MoonPleiades_Dyer_2048.jpg
+<br />**Title of the image:**  NGC 6995: The Bat Nebula
+<br />**Description for the image:**  Can you see the bat?  It haunts this cosmic close-up of the eastern Veil Nebula.  The Veil Nebula itself is a large supernova remnant, the expanding debris cloud from the death explosion of a massive star. While the Veil is roughly circular in shape and covers nearly 3 degrees on the sky toward the constellation of the Swan (Cygnus), NGC 6995, known informally as the Bat Nebula, spans only 1/2 degree, about the apparent size of the Moon. That translates to 12 light-years at the Veil's estimated distance, a reassuring 1,400 light-years from planet Earth. In the composite of image data recorded through narrow band filters, emission from hydrogen atoms in the remnant is shown in red with strong emission from oxygen atoms shown in hues of blue. Of course, in the western part of the Veil lies another seasonal apparition: the Witch's Broom Nebula.   Teachers & Students: Ideas for using APOD in the classroom
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2409/Bat_Taivalnaa_4200.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -52,27 +51,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Sep 03 0030 UTC
+:Issued: 2024 Sep 04 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Sep 03-Sep 05 2024 is 3.00 (below NOAA
+The greatest expected 3 hr Kp for Sep 04-Sep 06 2024 is 3.00 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Sep 03-Sep 05 2024
+NOAA Kp index breakdown Sep 04-Sep 06 2024
 
-             Sep 03       Sep 04       Sep 05
-00-03UT       2.33         3.00         1.67     
-03-06UT       2.00         2.00         1.33     
-06-09UT       2.00         2.00         1.33     
-09-12UT       2.00         2.67         1.33     
-12-15UT       2.00         2.67         1.33     
-15-18UT       2.00         2.67         1.33     
-18-21UT       2.00         2.67         1.67     
-21-00UT       3.00         3.00         1.67     
+             Sep 04       Sep 05       Sep 06
+00-03UT       3.00         1.67         1.67     
+03-06UT       2.00         1.33         1.33     
+06-09UT       2.00         1.33         1.33     
+09-12UT       2.67         1.33         1.33     
+12-15UT       2.67         1.33         1.33     
+15-18UT       2.67         1.33         1.33     
+18-21UT       2.67         1.67         1.67     
+21-00UT       3.00         1.67         1.67     
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
 significant transient or recurrent solar wind features are forecast.
@@ -82,22 +81,22 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Sep 03-Sep 05 2024
+Solar Radiation Storm Forecast for Sep 04-Sep 06 2024
 
-              Sep 03  Sep 04  Sep 05
-S1 or greater   25%     25%     25%
+              Sep 04  Sep 05  Sep 06
+S1 or greater   60%     25%     25%
 
-Rationale: There is a chance for S1 (Minor) solar radiation storms over
-03-05 Sep.
+Rationale: There is a likely chance for S1 (Minor) solar radiation
+storms over 04 Sep, decreasing to just a chance on 05-06 Sep.
 
 C. NOAA Radio Blackout Activity and Forecast
 
 Radio blackouts reaching the R1 levels were observed over the past 24
-hours. The largest was at Sep 02 2024 1343 UTC.
+hours. The largest was at Sep 03 2024 1602 UTC.
 
-Radio Blackout Forecast for Sep 03-Sep 05 2024
+Radio Blackout Forecast for Sep 04-Sep 06 2024
 
-              Sep 03        Sep 04        Sep 05
+              Sep 04        Sep 05        Sep 06
 R1-R2           70%           70%           70%
 R3 or greater   25%           25%           25%
 
