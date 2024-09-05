@@ -1,13 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2024-09-04
-<br />**This image is owned by:**  
-Mike Taivalmaa
-
-<br />**Title of the image:**  NGC 6995: The Bat Nebula
-<br />**Description for the image:**  Can you see the bat?  It haunts this cosmic close-up of the eastern Veil Nebula.  The Veil Nebula itself is a large supernova remnant, the expanding debris cloud from the death explosion of a massive star. While the Veil is roughly circular in shape and covers nearly 3 degrees on the sky toward the constellation of the Swan (Cygnus), NGC 6995, known informally as the Bat Nebula, spans only 1/2 degree, about the apparent size of the Moon. That translates to 12 light-years at the Veil's estimated distance, a reassuring 1,400 light-years from planet Earth. In the composite of image data recorded through narrow band filters, emission from hydrogen atoms in the remnant is shown in red with strong emission from oxygen atoms shown in hues of blue. Of course, in the western part of the Veil lies another seasonal apparition: the Witch's Broom Nebula.   Teachers & Students: Ideas for using APOD in the classroom
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2409/Bat_Taivalnaa_4200.jpg
+<br />**Date image released:**  2024-09-05
+<br />**This image is owned by:**  Eric Benson
+<br />**Title of the image:**  NGC 247 and Friends
+<br />**Description for the image:**  About 70,000 light-years across, NGC 247 is a spiral galaxy smaller than our Milky Way. Measured to be only 11 million light-years distant it is nearby though. Tilted nearly edge-on as seen from our perspective, it dominates this telescopic field of view toward the southern constellation Cetus. The pronounced void on one side of the galaxy's disk recalls for some its popular name, the Needle's Eye galaxy. Many background galaxies are visible in this sharp galaxy portrait, including the remarkable string of four galaxies just below and left of NGC 247 known as Burbidge's Chain. Burbidge's Chain galaxies are about 300 million light-years distant. NGC 247 itself is part of the Sculptor Group of galaxies along with shiny spiral NGC 253.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2409/NGC247-Hag-Ben2048.JPG
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -51,27 +49,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Sep 04 0030 UTC
+:Issued: 2024 Sep 05 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Sep 04-Sep 06 2024 is 3.00 (below NOAA
+The greatest expected 3 hr Kp for Sep 05-Sep 07 2024 is 3.33 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Sep 04-Sep 06 2024
+NOAA Kp index breakdown Sep 05-Sep 07 2024
 
-             Sep 04       Sep 05       Sep 06
-00-03UT       3.00         1.67         1.67     
-03-06UT       2.00         1.33         1.33     
-06-09UT       2.00         1.33         1.33     
-09-12UT       2.67         1.33         1.33     
-12-15UT       2.67         1.33         1.33     
-15-18UT       2.67         1.33         1.33     
-18-21UT       2.67         1.67         1.67     
-21-00UT       3.00         1.67         1.67     
+             Sep 05       Sep 06       Sep 07
+00-03UT       3.33         1.67         1.67     
+03-06UT       3.33         1.67         1.67     
+06-09UT       2.67         2.00         1.33     
+09-12UT       1.33         2.33         1.33     
+12-15UT       0.67         2.67         1.33     
+15-18UT       1.67         2.67         1.33     
+18-21UT       1.67         3.00         1.33     
+21-00UT       2.33         3.00         1.67     
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
 significant transient or recurrent solar wind features are forecast.
@@ -81,26 +79,26 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Sep 04-Sep 06 2024
+Solar Radiation Storm Forecast for Sep 05-Sep 07 2024
 
-              Sep 04  Sep 05  Sep 06
-S1 or greater   60%     25%     25%
+              Sep 05  Sep 06  Sep 07
+S1 or greater   10%     10%     10%
 
-Rationale: There is a likely chance for S1 (Minor) solar radiation
-storms over 04 Sep, decreasing to just a chance on 05-06 Sep.
+Rationale: No There is a slight chance for S1 (Minor) or greater solar
+radiation storms all three days.
 
 C. NOAA Radio Blackout Activity and Forecast
 
 Radio blackouts reaching the R1 levels were observed over the past 24
-hours. The largest was at Sep 03 2024 1602 UTC.
+hours. The largest was at Sep 04 2024 0255 UTC.
 
-Radio Blackout Forecast for Sep 04-Sep 06 2024
+Radio Blackout Forecast for Sep 05-Sep 07 2024
 
-              Sep 04        Sep 05        Sep 06
+              Sep 05        Sep 06        Sep 07
 R1-R2           70%           70%           70%
-R3 or greater   25%           25%           25%
+R3 or greater   20%           20%           20%
 
 Rationale: R1-R2 (Minor-Moderate) radio blackouts are likely, with a
-chance for R3 or greater events, over 03-05 Sep.
+slight chance for R3 or greater events, over 05-07 Sep.
 
 ```
