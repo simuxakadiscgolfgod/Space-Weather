@@ -1,11 +1,10 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2024-09-05
-<br />**This image is owned by:**  Eric Benson
-<br />**Title of the image:**  NGC 247 and Friends
-<br />**Description for the image:**  About 70,000 light-years across, NGC 247 is a spiral galaxy smaller than our Milky Way. Measured to be only 11 million light-years distant it is nearby though. Tilted nearly edge-on as seen from our perspective, it dominates this telescopic field of view toward the southern constellation Cetus. The pronounced void on one side of the galaxy's disk recalls for some its popular name, the Needle's Eye galaxy. Many background galaxies are visible in this sharp galaxy portrait, including the remarkable string of four galaxies just below and left of NGC 247 known as Burbidge's Chain. Burbidge's Chain galaxies are about 300 million light-years distant. NGC 247 itself is part of the Sculptor Group of galaxies along with shiny spiral NGC 253.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2409/NGC247-Hag-Ben2048.JPG
+<br />**Date image released:**  2024-09-06
+<br />**Title of the image:**  Ringed Ice Giant Neptune
+<br />**Description for the image:**  Ringed ice giant Neptune lies near the center of this sharp near-infrared image from the James Webb Space Telescope. The dim and distant world is the farthest planet from the Sun, about 30 times farther away than planet Earth. But in the stunning Webb view, the planet's dark and ghostly appearance is due to atmospheric methane that absorbs infrared light. High altitude clouds that reach above most of Neptune's absorbing methane easily stand out in the image though. Coated with frozen nitrogen, Neptune's largest moon Triton is brighter than Neptune in reflected sunlight, seen at the upper left sporting the Webb telescope's characteristic diffraction spikes. Including Triton, seven of Neptune's 14 known moons can be identified in the field of view. Neptune's faint rings are striking in this space-based planetary portrait. Details of the complex ring system are seen here for the first time since Neptune was visited by the Voyager 2 spacecraft in August 1989.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2409/NeptuneTriton_webb1059.png
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,27 +48,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Sep 05 0030 UTC
+:Issued: 2024 Sep 06 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Sep 05-Sep 07 2024 is 3.33 (below NOAA
+The greatest expected 3 hr Kp for Sep 06-Sep 08 2024 is 3.33 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Sep 05-Sep 07 2024
+NOAA Kp index breakdown Sep 06-Sep 08 2024
 
-             Sep 05       Sep 06       Sep 07
-00-03UT       3.33         1.67         1.67     
-03-06UT       3.33         1.67         1.67     
-06-09UT       2.67         2.00         1.33     
-09-12UT       1.33         2.33         1.33     
-12-15UT       0.67         2.67         1.33     
-15-18UT       1.67         2.67         1.33     
-18-21UT       1.67         3.00         1.33     
-21-00UT       2.33         3.00         1.67     
+             Sep 06       Sep 07       Sep 08
+00-03UT       2.00         1.67         2.00     
+03-06UT       2.00         1.67         2.00     
+06-09UT       2.00         1.33         2.00     
+09-12UT       1.67         1.33         2.00     
+12-15UT       1.67         1.33         2.67     
+15-18UT       3.00         1.33         2.67     
+18-21UT       3.00         1.33         3.00     
+21-00UT       3.33         1.67         3.00     
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
 significant transient or recurrent solar wind features are forecast.
@@ -79,23 +78,23 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Sep 05-Sep 07 2024
+Solar Radiation Storm Forecast for Sep 06-Sep 08 2024
 
-              Sep 05  Sep 06  Sep 07
+              Sep 06  Sep 07  Sep 08
 S1 or greater   10%     10%     10%
 
-Rationale: No There is a slight chance for S1 (Minor) or greater solar
+Rationale: There is a slight chance for S1 (Minor) or greater solar
 radiation storms all three days.
 
 C. NOAA Radio Blackout Activity and Forecast
 
 Radio blackouts reaching the R1 levels were observed over the past 24
-hours. The largest was at Sep 04 2024 0255 UTC.
+hours. The largest was at Sep 05 2024 0856 UTC.
 
-Radio Blackout Forecast for Sep 05-Sep 07 2024
+Radio Blackout Forecast for Sep 06-Sep 08 2024
 
-              Sep 05        Sep 06        Sep 07
-R1-R2           70%           70%           70%
+              Sep 06        Sep 07        Sep 08
+R1-R2           75%           75%           75%
 R3 or greater   20%           20%           20%
 
 Rationale: R1-R2 (Minor-Moderate) radio blackouts are likely, with a
