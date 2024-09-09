@@ -1,14 +1,10 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2024-09-08
-<br />**This image is owned by:**  
-R. Gendler & 
-R. Croman
-
-<br />**Title of the image:**  M31: The Andromeda Galaxy
-<br />**Description for the image:**  The most distant object easily visible to the unaided eye is M31, the great Andromeda Galaxy. Even at some two and a half million light-years distant, this immense spiral galaxy -- spanning over 200,000 light years -- is visible, although as a faint, nebulous cloud in the constellation Andromeda. A bright yellow nucleus, dark winding dust lanes, and expansive spiral arms dotted with blue star clusters and red nebulae, are recorded in this stunning telescopic image which combines data from orbiting Hubble with ground-based images from Subaru and Mayall. In only about 5 billion years, the Andromeda galaxy may be even easier to see -- as it will likely span the entire night sky -- just before it merges with, or passes right by, our Milky Way Galaxy.   Teachers & Students: Ideas for using APOD in the classroom
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2409/M31_HstSubaruGendler_5000.jpg
+<br />**Date image released:**  2024-09-09
+<br />**Title of the image:**  Mars: Moon, Craters, and Volcanos
+<br />**Description for the image:**  If you could fly over Mars, what might you see? The featured image shows exactly this in the form of a Mars Express vista captured over a particularly interesting region on Mars in July. The picture's most famous feature is Olympus Mons, the largest volcano in the Solar System, visible on the upper right.  Another large Martian volcano is visible on the right horizon: Pavonis Mons. Several circular impact craters can be seen on the surface of the aptly named red planet. Impressively, this image was timed to capture the dark and doomed Martian moon Phobos, visible just left of center.  The surface feature on the lower left, known as Orcus Patera, is unusual for its large size and oblong shape, and mysterious because the processes that created it still remain unknown.  ESA's robotic Mars Express spacecraft was launched in 2003 and, among many notable science discoveries, bolstered evidence that Mars was once home to large bodies of water.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2409/MarsPan_ExpressLuck_2048.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -52,39 +48,39 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Sep 08 0030 UTC
+:Issued: 2024 Sep 09 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Sep 08-Sep 10 2024 is 3.00 (below NOAA
-Scale levels).
+The greatest expected 3 hr Kp for Sep 09-Sep 11 2024 is 6.00 (NOAA Scale
+G2).
 
-NOAA Kp index breakdown Sep 08-Sep 10 2024
+NOAA Kp index breakdown Sep 09-Sep 11 2024
 
-             Sep 08       Sep 09       Sep 10
-00-03UT       2.00         2.67         2.67     
-03-06UT       2.00         2.33         2.33     
-06-09UT       2.00         2.33         2.00     
-09-12UT       2.00         2.33         2.00     
-12-15UT       2.67         2.00         2.00     
-15-18UT       2.67         2.33         2.00     
-18-21UT       3.00         2.33         2.00     
-21-00UT       3.00         2.67         2.33     
+             Sep 09       Sep 10       Sep 11
+00-03UT       2.67         2.67         5.00 (G1)
+03-06UT       2.33         2.33         4.33     
+06-09UT       2.33         2.00         4.67 (G1)
+09-12UT       2.33         2.00         3.00     
+12-15UT       2.00         4.00         2.67     
+15-18UT       2.33         5.33 (G1)    2.00     
+18-21UT       2.33         4.67 (G1)    2.67     
+21-00UT       2.67         6.00 (G2)    2.33     
 
-Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
-significant transient or recurrent solar wind features are forecast.
+Rationale: G1-G2 (Minor-Moderate) geomagnetic storming is likely on
+10-11 Sep due to arrival of a CME that left the sun on 08 Sep.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Sep 08-Sep 10 2024
+Solar Radiation Storm Forecast for Sep 09-Sep 11 2024
 
-              Sep 08  Sep 09  Sep 10
+              Sep 09  Sep 10  Sep 11
 S1 or greater   10%     10%     10%
 
 Rationale: There is a slight chance for S1 (Minor) or greater solar
@@ -93,15 +89,15 @@ radiation storms all three days.
 C. NOAA Radio Blackout Activity and Forecast
 
 Radio blackouts reaching the R1 levels were observed over the past 24
-hours. The largest was at Sep 07 2024 0747 UTC.
+hours. The largest was at Sep 08 2024 1530 UTC.
 
-Radio Blackout Forecast for Sep 08-Sep 10 2024
+Radio Blackout Forecast for Sep 09-Sep 11 2024
 
-              Sep 08        Sep 09        Sep 10
+              Sep 09        Sep 10        Sep 11
 R1-R2           55%           55%           55%
 R3 or greater   15%           15%           15%
 
 Rationale: R1-R2 (Minor-Moderate) radio blackouts are likely, with a
-slight chance for R3 or greater events, over 08-10 Sep.
+slight chance for R3 or greater events, over 09-11 Sep.
 
 ```
