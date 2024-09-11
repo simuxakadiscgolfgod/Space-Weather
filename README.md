@@ -1,13 +1,10 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2024-09-10
-<br />**This image is owned by:**  
-Antoine & Dalia Grelin
-
-<br />**Title of the image:**  Horsehead and Orion Nebulas
-<br />**Description for the image:**  The dark Horsehead Nebula and the glowing Orion Nebula are contrasting cosmic vistas. Adrift 1,500 light-years away in one of the night sky's most recognizable constellations, they appear in opposite corners of the above stunning mosaic. The familiar Horsehead nebula appears as a dark cloud, a small silhouette notched against the long glow of hydrogen -- here shown in gold -- at the lower left. Alnitak is the easternmost star in Orion's belt and is seen as the brightest star just below and to the left of the Horsehead. To the left of Alnitak is the Flame Nebula, with clouds of bright emission and dramatic dark dust lanes. The magnificent emission region, the Orion Nebula (aka M42), lies at the upper right. Immediately to its left is a prominent reflection nebula sometimes called the Running Man. Pervasive tendrils of glowing hydrogen gas are easily traced throughout the region.   Astrophysicists: Browse 3,500+ codes in the Astrophysics Source Code Library
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2409/OrionOrange_Grelin_9371.jpg
+<br />**Date image released:**  2024-09-11
+<br />**Title of the image:**  A Night Sky over the Tatra Mountains
+<br />**Description for the image:**  A natural border between Slovakia and Poland is the Tatra Mountains. A prominent destination for astrophotographers, the Tatras are the highest mountain range in the Carpathians. In the featured image taken in May, one can see the center of our Milky Way galaxy with two of its famous stellar nurseries, the Lagoon and Omega Nebula, just over the top of the Tatras. Stellar nurseries are full of ionized hydrogen, a fundamental component for the formation of Earth-abundant water. As a fundamental ingredient in all known forms of life, water is a crucial element in the Universe. Such water can be seen in the foreground in the form of the Bialka River.   Portal Universe: Random APOD Generator
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2409/NightTatra_Rosadzinski_5028.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -51,58 +48,60 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Sep 10 0030 UTC
+:Issued: 2024 Sep 11 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Sep 10-Sep 12 2024 is 6.00 (NOAA Scale
+The greatest expected 3 hr Kp for Sep 11-Sep 13 2024 is 6.00 (NOAA Scale
 G2).
 
-NOAA Kp index breakdown Sep 10-Sep 12 2024
+NOAA Kp index breakdown Sep 11-Sep 13 2024
 
-             Sep 10       Sep 11       Sep 12
-00-03UT       2.67         5.00 (G1)    2.33     
-03-06UT       2.33         4.33         2.00     
-06-09UT       2.00         4.67 (G1)    2.00     
-09-12UT       2.00         3.00         2.00     
-12-15UT       4.00         2.67         2.33     
-15-18UT       5.33 (G1)    2.00         2.00     
-18-21UT       4.67 (G1)    2.67         2.00     
-21-00UT       6.00 (G2)    2.33         2.00     
+             Sep 11       Sep 12       Sep 13
+00-03UT       5.00 (G1)    2.00         6.00 (G2)
+03-06UT       4.67 (G1)    2.00         5.00 (G1)
+06-09UT       4.00         2.33         4.67 (G1)
+09-12UT       2.67         2.00         4.67 (G1)
+12-15UT       2.67         2.00         4.33     
+15-18UT       2.33         3.00         3.67     
+18-21UT       2.33         5.00 (G1)    2.67     
+21-00UT       1.67         5.33 (G1)    1.67     
 
-Rationale: G1-G2 (Minor-Moderate) geomagnetic storming is likely on
-10-11 Sep due to arrival of a CME that left the sun on 08 Sep.
+Rationale: G1 (Minor) geomagnetic storming is likely on 11 Sep due to
+arrival of a CME that left the sun on 08 Sep. G1-G2 (Minor-Moderate)
+levels are also likely on 12-13 Sep due to the arrival of the 10 Sep
+CME.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 above S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Sep 10-Sep 12 2024
+Solar Radiation Storm Forecast for Sep 11-Sep 13 2024
 
-              Sep 10  Sep 11  Sep 12
-S1 or greater   75%     50%     20%
+              Sep 11  Sep 12  Sep 13
+S1 or greater   50%     50%     20%
 
-Rationale: The greater than 10 MeV proton flux is expected to remain
-over S1 (Minor) levels through 10 Sep. There is a chance for levels to
-continue above the threshold on 10 Sep followed by a slight chance on 11
-Sep.
+Rationale: The greater than 10 MeV proton flux is currently below
+threshold, however there is a chance for further enhancement with the
+arrival of the 08 Sep CME by early on 11 Sep. By 13 Sep, a slight chance
+for elevated proton flux exists.
 
 C. NOAA Radio Blackout Activity and Forecast
 
 Radio blackouts reaching the R1 levels were observed over the past 24
-hours. The largest was at Sep 09 2024 1708 UTC.
+hours. The largest was at Sep 10 2024 1547 UTC.
 
-Radio Blackout Forecast for Sep 10-Sep 12 2024
+Radio Blackout Forecast for Sep 11-Sep 13 2024
 
-              Sep 10        Sep 11        Sep 12
+              Sep 11        Sep 12        Sep 13
 R1-R2           55%           55%           55%
 R3 or greater   15%           15%           15%
 
 Rationale: R1-R2 (Minor-Moderate) radio blackouts are likely, with a
-slight chance for R3 or greater events, over 09-11 Sep.
+slight chance for R3 or greater events, over 11-13 Sep.
 
 ```
