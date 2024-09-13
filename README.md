@@ -1,10 +1,10 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2024-09-12
-<br />**Title of the image:**  Young Star Cluster NGC 1333
-<br />**Description for the image:**  This spectacular mosaic of images from the James Webb Space Telescope peers into the heart of young star cluster NGC 1333. A mere 1,000 light-years distant toward the heroic constellation Perseus, the nearby star cluster lies at the edge of the large Perseus molecular cloud. Part of Webb's deep exploration of the region to identify low mass brown dwarf stars and free floating planets, the space telescope's combined field of view spans nearly 2 light-years across the dusty cluster's turbulent stellar nursery. In fact, NGC 1333 is known to harbor stars less than a million years old, though most are hidden from optical telescopes by the pervasive stardust. The chaotic environment may be similar to one in which our own Sun formed over 4.5 billion years ago.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2409/NGC1333Webb.jpg
+<br />**Date image released:**  2024-09-13
+<br />**Title of the image:**  Aurora Australis and the International Space Station
+<br />**Description for the image:**  This snapshot from the International Space Station was taken on August 11 while orbiting about 430 kilometers above the Indian Ocean, Southern Hemisphere, planet Earth. The spectacular view looks south and east, down toward the planet's horizon and through red and green curtains of aurora australis. The auroral glow is caused by emission from excited oxygen atoms in the extremely rarefied upper atmosphere still present at the level of the orbiting outpost. Green emission from atomic oxygen dominates this scene at altitudes of 100 to 250 kilometers, while red emission from atomic oxygen can extend as high as 500 kilometers altitude. Beyond the glow of these southern lights, this view from low Earth orbit reveals the starry sky from a southern hemisphere perspective. Stars in Orion's belt and the Orion Nebula are near the Earth's limb just left of center. Sirius, alpha star of Canis Major and brightest star in planet Earth's night is above center along the right edge of the southern orbital skyscape.  Looking Up: International Observe the Moon Night
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2409/iss071e564695_4096.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -48,56 +48,56 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Sep 12 0030 UTC
+:Issued: 2024 Sep 13 0105 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
-Scale levels).
-The greatest expected 3 hr Kp for Sep 12-Sep 14 2024 is 6.00 (NOAA Scale
+The greatest observed 3 hr Kp over the past 24 hours was 7 (NOAA Scale
+G3).
+The greatest expected 3 hr Kp for Sep 13-Sep 15 2024 is 6.00 (NOAA Scale
 G2).
 
-NOAA Kp index breakdown Sep 12-Sep 14 2024
+NOAA Kp index breakdown Sep 13-Sep 15 2024
 
-             Sep 12       Sep 13       Sep 14
-00-03UT       2.00         6.00 (G2)    4.00     
-03-06UT       2.00         5.00 (G1)    3.33     
-06-09UT       2.33         4.67 (G1)    3.67     
-09-12UT       2.00         4.67 (G1)    4.00     
-12-15UT       2.00         4.33         4.00     
-15-18UT       3.00         3.67         4.00     
-18-21UT       5.00 (G1)    2.67         4.00     
-21-00UT       5.33 (G1)    1.67         4.00     
+             Sep 13       Sep 14       Sep 15
+00-03UT       6.00 (G2)    3.33         3.00     
+03-06UT       5.00 (G1)    4.67 (G1)    4.00     
+06-09UT       4.67 (G1)    4.67 (G1)    3.33     
+09-12UT       4.67 (G1)    4.00         3.00     
+12-15UT       4.33         3.00         3.00     
+15-18UT       3.67         3.00         2.33     
+18-21UT       2.67         3.33         2.33     
+21-00UT       1.67         4.00         3.00     
 
-Rationale: G1-G2 (Minor-Moderate) levels are likely on 12-13 Sep due to
-the arrival of the 10 Sep CME.
+Rationale: G1-G2 (Minor-Moderate) storm levels are expected 13-14 due
+to CME activity.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Sep 12-Sep 14 2024
+Solar Radiation Storm Forecast for Sep 13-Sep 15 2024
 
-              Sep 12  Sep 13  Sep 14
+              Sep 13  Sep 14  Sep 15
 S1 or greater   15%     15%     15%
 
-Rationale: There is a slight chance for S1 (Minor) solar radiation
-storm conditions 12-14 Sep.
+Rationale: There is a slight chance for S1 (Minor) solar radiation storm
+conditions on 13-15 Sep.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-Radio blackouts reaching the R1 levels were observed over the past 24
-hours. The largest was at Sep 11 2024 1752 UTC.
+Radio blackouts reaching the R3 levels were observed over the past 24
+hours. The largest was at Sep 12 2024 0943 UTC.
 
-Radio Blackout Forecast for Sep 12-Sep 14 2024
+Radio Blackout Forecast for Sep 13-Sep 15 2024
 
-              Sep 12        Sep 13        Sep 14
-R1-R2           55%           55%           55%
+              Sep 13        Sep 14        Sep 15
+R1-R2           60%           60%           60%
 R3 or greater   15%           15%           15%
 
 Rationale: R1-R2 (Minor-Moderate) radio blackouts are likely, with a
-slight chance for R3 or greater events, over 12-14 Sep.
+slight chance for R3 or greater events on 13-15 Sep.
 
 ```

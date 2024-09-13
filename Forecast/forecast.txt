@@ -1,55 +1,55 @@
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Sep 12 0030 UTC
+:Issued: 2024 Sep 13 0105 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
-Scale levels).
-The greatest expected 3 hr Kp for Sep 12-Sep 14 2024 is 6.00 (NOAA Scale
+The greatest observed 3 hr Kp over the past 24 hours was 7 (NOAA Scale
+G3).
+The greatest expected 3 hr Kp for Sep 13-Sep 15 2024 is 6.00 (NOAA Scale
 G2).
 
-NOAA Kp index breakdown Sep 12-Sep 14 2024
+NOAA Kp index breakdown Sep 13-Sep 15 2024
 
-             Sep 12       Sep 13       Sep 14
-00-03UT       2.00         6.00 (G2)    4.00     
-03-06UT       2.00         5.00 (G1)    3.33     
-06-09UT       2.33         4.67 (G1)    3.67     
-09-12UT       2.00         4.67 (G1)    4.00     
-12-15UT       2.00         4.33         4.00     
-15-18UT       3.00         3.67         4.00     
-18-21UT       5.00 (G1)    2.67         4.00     
-21-00UT       5.33 (G1)    1.67         4.00     
+             Sep 13       Sep 14       Sep 15
+00-03UT       6.00 (G2)    3.33         3.00     
+03-06UT       5.00 (G1)    4.67 (G1)    4.00     
+06-09UT       4.67 (G1)    4.67 (G1)    3.33     
+09-12UT       4.67 (G1)    4.00         3.00     
+12-15UT       4.33         3.00         3.00     
+15-18UT       3.67         3.00         2.33     
+18-21UT       2.67         3.33         2.33     
+21-00UT       1.67         4.00         3.00     
 
-Rationale: G1-G2 (Minor-Moderate) levels are likely on 12-13 Sep due to
-the arrival of the 10 Sep CME.
+Rationale: G1-G2 (Minor-Moderate) storm levels are expected 13-14 due
+to CME activity.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Sep 12-Sep 14 2024
+Solar Radiation Storm Forecast for Sep 13-Sep 15 2024
 
-              Sep 12  Sep 13  Sep 14
+              Sep 13  Sep 14  Sep 15
 S1 or greater   15%     15%     15%
 
-Rationale: There is a slight chance for S1 (Minor) solar radiation
-storm conditions 12-14 Sep.
+Rationale: There is a slight chance for S1 (Minor) solar radiation storm
+conditions on 13-15 Sep.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-Radio blackouts reaching the R1 levels were observed over the past 24
-hours. The largest was at Sep 11 2024 1752 UTC.
+Radio blackouts reaching the R3 levels were observed over the past 24
+hours. The largest was at Sep 12 2024 0943 UTC.
 
-Radio Blackout Forecast for Sep 12-Sep 14 2024
+Radio Blackout Forecast for Sep 13-Sep 15 2024
 
-              Sep 12        Sep 13        Sep 14
-R1-R2           55%           55%           55%
+              Sep 13        Sep 14        Sep 15
+R1-R2           60%           60%           60%
 R3 or greater   15%           15%           15%
 
 Rationale: R1-R2 (Minor-Moderate) radio blackouts are likely, with a
-slight chance for R3 or greater events, over 12-14 Sep.
+slight chance for R3 or greater events on 13-15 Sep.
 
 ```
