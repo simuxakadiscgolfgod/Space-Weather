@@ -1,13 +1,10 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2024-09-15
-<br />**This image is owned by:**  
-Dani Caxete
-
-<br />**Title of the image:**  Find the Man in the Moon
-<br />**Description for the image:**  Have you ever seen the Man in the Moon? This common question plays on the ability of humans to see pareidolia -- imagining familiar icons where they don't actually exist. The textured surface of Earth's full Moon is home to numerous identifications of iconic objects, not only in modern western culture but in world folklore throughout history. Examples, typically dependent on the Moon's perceived orientation, include the Woman in the Moon and the Rabbit in the Moon. One facial outline commonly identified as the Man in the Moon starts by imagining the two dark circular areas -- lunar maria -- here just above the Moon's center, to be the eyes.  Surprisingly, there actually is a man in this Moon image -- a close look will reveal a real person -- with a telescope -- silhouetted against the Moon. This well-planned image was taken in 2016 in Cadalso de los Vidrios in Madrid, Spain.   Observe the Moon Night: NASA Coverage
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2409/ManInMoon_Caxete_2770.jpg
+<br />**Date image released:**  2024-09-16
+<br />**Title of the image:**  Mercury's Vivaldi Crater from BepiColombo
+<br />**Description for the image:**  Why does this large crater on Mercury have two rings and a smooth floor?  No one is sure.  The unusual feature called Vivaldi Crater spans 215 kilometers and was imaged again in great detail by ESA's and JAXA's robotic BepiColombo spacecraft on a flyby earlier this month. A large circular feature on a rocky planet or moon is usually caused by either an impact by a small asteroid or a comet fragment, or a volcanic eruption. In the case of Vivaldi, it is possible that both occurred -- a heavy strike that caused a smooth internal lava flow.  Double-ringed craters are rare, and the cause of the inner rings remains a topic of research.  The speed-slowing gravity-assisted flyby of Mercury by BepiColombo was in preparation for the spacecraft entering orbit around the Solar System's innermost planet in 2026.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2409/MercuryCaloris_BepiColombo_1806.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -51,58 +48,59 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Sep 15 0030 UTC
+:Issued: 2024 Sep 16 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Sep 15-Sep 17 2024 is 7.00 (NOAA Scale
+The greatest expected 3 hr Kp for Sep 16-Sep 18 2024 is 7.00 (NOAA Scale
 G3).
 
-NOAA Kp index breakdown Sep 15-Sep 17 2024
+NOAA Kp index breakdown Sep 16-Sep 18 2024
 
-             Sep 15       Sep 16       Sep 17
-00-03UT       3.33         3.33         5.67 (G2)
-03-06UT       3.67         3.33         5.00 (G1)
-06-09UT       3.33         5.33 (G1)    4.67 (G1)
-09-12UT       3.33         7.00 (G3)    4.00     
-12-15UT       3.33         6.67 (G3)    2.67     
-15-18UT       3.00         6.00 (G2)    2.33     
-18-21UT       3.00         6.00 (G2)    2.33     
-21-00UT       3.33         5.67 (G2)    3.00     
+             Sep 16       Sep 17       Sep 18
+00-03UT       3.67         5.67 (G2)    2.67     
+03-06UT       3.00         5.00 (G1)    2.33     
+06-09UT       5.33 (G1)    4.67 (G1)    2.33     
+09-12UT       7.00 (G3)    4.00         2.33     
+12-15UT       6.67 (G3)    2.67         2.33     
+15-18UT       6.00 (G2)    2.33         2.00     
+18-21UT       6.00 (G2)    2.33         2.33     
+21-00UT       5.67 (G2)    3.00         2.67     
 
 Rationale: G1-G3 (Minor-Strong) geomagnetic storming is likely on 16 Sep
 and G1-G2 (Minor-Moderate) geomagnetic storms is likely on 17 Sep due to
 potential combined CH HSS and CME influences from separate events.
+Background conditions are expected on 18 Sep.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Sep 15-Sep 17 2024
+Solar Radiation Storm Forecast for Sep 16-Sep 18 2024
 
-              Sep 15  Sep 16  Sep 17
-S1 or greater   10%     10%     10%
+              Sep 16  Sep 17  Sep 18
+S1 or greater   20%     15%     10%
 
 Rationale: A slight chance for an S1 (Minor) solar radiation event will
-persist through 17 Sep as multiple active regions exist on the disk.
+persist through 18 Sep as multiple active regions exist on the disk.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-Radio blackouts reaching the R3 levels were observed over the past 24
-hours. The largest was at Sep 14 2024 1529 UTC.
+No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Sep 15-Sep 17 2024
+Radio Blackout Forecast for Sep 16-Sep 18 2024
 
-              Sep 15        Sep 16        Sep 17
-R1-R2           60%           60%           60%
-R3 or greater   15%           15%           15%
+              Sep 16        Sep 17        Sep 18
+R1-R2           55%           45%           40%
+R3 or greater   15%           10%           10%
 
-Rationale: R1-2 (Minor-Moderate) radio blackouts are likely on 15-17
-Sep. R1-2 (Minor-Moderate) radio blackouts event probabilities remain
-likely through the period as multiple regions exist on the disk.
+Rationale: R1-R2 (Minor-Moderate) radio blackouts are likely on 16 Sep,
+decreasing to a chance on 17-18 Sep. R3 (Strong) radio blackouts event
+probabilities remain at a slight chance through the period as multiple
+regions exist on the disk.
 
 ```
