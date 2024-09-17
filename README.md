@@ -1,10 +1,13 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2024-09-16
-<br />**Title of the image:**  Mercury's Vivaldi Crater from BepiColombo
-<br />**Description for the image:**  Why does this large crater on Mercury have two rings and a smooth floor?  No one is sure.  The unusual feature called Vivaldi Crater spans 215 kilometers and was imaged again in great detail by ESA's and JAXA's robotic BepiColombo spacecraft on a flyby earlier this month. A large circular feature on a rocky planet or moon is usually caused by either an impact by a small asteroid or a comet fragment, or a volcanic eruption. In the case of Vivaldi, it is possible that both occurred -- a heavy strike that caused a smooth internal lava flow.  Double-ringed craters are rare, and the cause of the inner rings remains a topic of research.  The speed-slowing gravity-assisted flyby of Mercury by BepiColombo was in preparation for the spacecraft entering orbit around the Solar System's innermost planet in 2026.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2409/MercuryCaloris_BepiColombo_1806.jpg
+<br />**Date image released:**  2024-09-17
+<br />**This image is owned by:**  
+Richard McInnis
+
+<br />**Title of the image:**  Melotte 15 in the Heart Nebula
+<br />**Description for the image:**  Cosmic clouds form fantastic shapes in the central regions of emission nebula IC 1805. The clouds are sculpted by stellar winds and radiation from massive hot stars in the nebula's newborn star cluster, Melotte 15. About 1.5 million years young, the cluster stars are scattered in this colorful skyscape, along with dark dust clouds in silhouette against glowing atomic gas. A composite of narrowband and broadband telescopic images, the view spans about 15 light-years and includes emission from ionized hydrogen, sulfur, and oxygen atoms mapped to green, red, and blue hues in the popular Hubble Palette. Wider field images reveal that IC 1805's simpler, overall outline suggests its popular name - the Heart Nebula. IC 1805 is located about 7,500 light years away toward the boastful constellation Cassiopeia.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2409/HeartMelotte_McInnis_1513.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -48,59 +51,58 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Sep 16 0030 UTC
+:Issued: 2024 Sep 17 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Sep 16-Sep 18 2024 is 7.00 (NOAA Scale
-G3).
+The greatest expected 3 hr Kp for Sep 17-Sep 19 2024 is 5.67 (NOAA Scale
+G2).
 
-NOAA Kp index breakdown Sep 16-Sep 18 2024
+NOAA Kp index breakdown Sep 17-Sep 19 2024
 
-             Sep 16       Sep 17       Sep 18
-00-03UT       3.67         5.67 (G2)    2.67     
-03-06UT       3.00         5.00 (G1)    2.33     
-06-09UT       5.33 (G1)    4.67 (G1)    2.33     
-09-12UT       7.00 (G3)    4.00         2.33     
-12-15UT       6.67 (G3)    2.67         2.33     
-15-18UT       6.00 (G2)    2.33         2.00     
-18-21UT       6.00 (G2)    2.33         2.33     
-21-00UT       5.67 (G2)    3.00         2.67     
+             Sep 17       Sep 18       Sep 19
+00-03UT       5.67 (G2)    2.67         2.33     
+03-06UT       5.00 (G1)    2.33         3.00     
+06-09UT       4.67 (G1)    2.33         2.33     
+09-12UT       4.00         2.33         2.00     
+12-15UT       2.67         2.33         1.67     
+15-18UT       2.33         2.00         1.33     
+18-21UT       2.33         2.33         1.33     
+21-00UT       3.00         2.67         2.00     
 
-Rationale: G1-G3 (Minor-Strong) geomagnetic storming is likely on 16 Sep
-and G1-G2 (Minor-Moderate) geomagnetic storms is likely on 17 Sep due to
-potential combined CH HSS and CME influences from separate events.
-Background conditions are expected on 18 Sep.
+Rationale: G1-G2 (Minor-Moderate) geomagnetic storming is likely on 17
+Sep due to potential combined CH HSS and CME influences from separate
+events. Background conditions are expected on 18-19 Sep.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Sep 16-Sep 18 2024
+Solar Radiation Storm Forecast for Sep 17-Sep 19 2024
 
-              Sep 16  Sep 17  Sep 18
+              Sep 17  Sep 18  Sep 19
 S1 or greater   20%     15%     10%
 
 Rationale: A slight chance for an S1 (Minor) solar radiation event will
-persist through 18 Sep as multiple active regions exist on the disk.
+persist through 19 Sep as multiple active regions exist on the disk.
 
 C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Sep 16-Sep 18 2024
+Radio Blackout Forecast for Sep 17-Sep 19 2024
 
-              Sep 16        Sep 17        Sep 18
+              Sep 17        Sep 18        Sep 19
 R1-R2           55%           45%           40%
 R3 or greater   15%           10%           10%
 
-Rationale: R1-R2 (Minor-Moderate) radio blackouts are likely on 16 Sep,
-decreasing to a chance on 17-18 Sep. R3 (Strong) radio blackouts event
-probabilities remain at a slight chance through the period as multiple
-regions exist on the disk.
+Rationale: Solar activity is likely to reach moderate (R1-R2,
+Minor-Moderate), with a slight chance for X-class flares (R3-Strong), on
+17 Sep. Probabilities are decreasing to a chance for M-class flares on
+18-19 Sep as Regions 3814 and 3822 rotate around the NW limb.
 
 ```
