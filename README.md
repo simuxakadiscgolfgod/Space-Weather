@@ -1,13 +1,15 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2024-09-17
+<br />**Date image released:**  2024-09-18
 <br />**This image is owned by:**  
-Richard McInnis
+Neil Corke; 
+Text: Natalia Lewandowska 
+(SUNY Oswego)
 
-<br />**Title of the image:**  Melotte 15 in the Heart Nebula
-<br />**Description for the image:**  Cosmic clouds form fantastic shapes in the central regions of emission nebula IC 1805. The clouds are sculpted by stellar winds and radiation from massive hot stars in the nebula's newborn star cluster, Melotte 15. About 1.5 million years young, the cluster stars are scattered in this colorful skyscape, along with dark dust clouds in silhouette against glowing atomic gas. A composite of narrowband and broadband telescopic images, the view spans about 15 light-years and includes emission from ionized hydrogen, sulfur, and oxygen atoms mapped to green, red, and blue hues in the popular Hubble Palette. Wider field images reveal that IC 1805's simpler, overall outline suggests its popular name - the Heart Nebula. IC 1805 is located about 7,500 light years away toward the boastful constellation Cassiopeia.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2409/HeartMelotte_McInnis_1513.jpg
+<br />**Title of the image:**  The Mermaid Nebula Supernova Remnant
+<br />**Description for the image:**  New stars are born from the remnants of dead stars. The gaseous remnant of the gravitational collapse and subsequent death of a very massive star in our Milky Way created the G296.5+10.0 supernova remnant, of which the featured Mermaid Nebula is part. Also known as the Betta Fish Nebula, the Mermaid Nebula makes up part of an unusual subclass of supernova remnants that are two-sided and nearly circular. Originally discovered in X-rays, the filamentary nebula is a frequently studied source also in radio and gamma-ray light.  The blue color visible here originates from doubly ionized oxygen (OIII), while the deep red is emitted by hydrogen gas. The nebula's mermaid-like shape has proven to be useful for measurements of the interstellar magnetic field.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2409/Mermaid_Corke_4205.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -51,58 +53,56 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Sep 17 0030 UTC
+:Issued: 2024 Sep 18 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
-Scale levels).
-The greatest expected 3 hr Kp for Sep 17-Sep 19 2024 is 5.67 (NOAA Scale
-G2).
+The greatest observed 3 hr Kp over the past 24 hours was 8 (NOAA Scale
+G4).
+The greatest expected 3 hr Kp for Sep 18-Sep 20 2024 is 4.67 (NOAA Scale
+G1).
 
-NOAA Kp index breakdown Sep 17-Sep 19 2024
+NOAA Kp index breakdown Sep 18-Sep 20 2024
 
-             Sep 17       Sep 18       Sep 19
-00-03UT       5.67 (G2)    2.67         2.33     
-03-06UT       5.00 (G1)    2.33         3.00     
-06-09UT       4.67 (G1)    2.33         2.33     
-09-12UT       4.00         2.33         2.00     
-12-15UT       2.67         2.33         1.67     
-15-18UT       2.33         2.00         1.33     
-18-21UT       2.33         2.33         1.33     
-21-00UT       3.00         2.67         2.00     
+             Sep 18       Sep 19       Sep 20
+00-03UT       4.67 (G1)    2.33         1.33     
+03-06UT       3.67         3.00         1.33     
+06-09UT       3.33         2.33         1.67     
+09-12UT       2.33         2.00         1.67     
+12-15UT       2.00         1.67         1.33     
+15-18UT       1.33         1.33         1.67     
+18-21UT       1.33         1.33         1.33     
+21-00UT       2.67         2.00         1.33     
 
-Rationale: G1-G2 (Minor-Moderate) geomagnetic storming is likely on 17
-Sep due to potential combined CH HSS and CME influences from separate
-events. Background conditions are expected on 18-19 Sep.
+Rationale: G1 (Minor) storm levels are expected early on 18 Sep as CME
+effects wane.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
-below S-scale storm level thresholds.
+above S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Sep 17-Sep 19 2024
+Solar Radiation Storm Forecast for Sep 18-Sep 20 2024
 
-              Sep 17  Sep 18  Sep 19
-S1 or greater   20%     15%     10%
+              Sep 18  Sep 19  Sep 20
+S1 or greater   30%     10%     10%
 
-Rationale: A slight chance for an S1 (Minor) solar radiation event will
-persist through 19 Sep as multiple active regions exist on the disk.
+Rationale: There is a slight chance for the 10 MeV proton flux to reach
+the S1 (Minor) levels on 18-20 Sep.
 
 C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Sep 17-Sep 19 2024
+Radio Blackout Forecast for Sep 18-Sep 20 2024
 
-              Sep 17        Sep 18        Sep 19
-R1-R2           55%           45%           40%
-R3 or greater   15%           10%           10%
+              Sep 18        Sep 19        Sep 20
+R1-R2           55%           55%           50%
+R3 or greater   20%           15%           10%
 
-Rationale: Solar activity is likely to reach moderate (R1-R2,
-Minor-Moderate), with a slight chance for X-class flares (R3-Strong), on
-17 Sep. Probabilities are decreasing to a chance for M-class flares on
-18-19 Sep as Regions 3814 and 3822 rotate around the NW limb.
+Rationale: R1 (Minor) or greater radio blackouts are likely with a
+slight chance for R3 (Strong) activity on 18-19 Sep. There is a
+decreasing chance for R1 or greater blackouts on 20 Sep.
 
 ```
