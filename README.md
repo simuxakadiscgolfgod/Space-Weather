@@ -1,15 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2024-09-18
-<br />**This image is owned by:**  
-Neil Corke; 
-Text: Natalia Lewandowska 
-(SUNY Oswego)
-
-<br />**Title of the image:**  The Mermaid Nebula Supernova Remnant
-<br />**Description for the image:**  New stars are born from the remnants of dead stars. The gaseous remnant of the gravitational collapse and subsequent death of a very massive star in our Milky Way created the G296.5+10.0 supernova remnant, of which the featured Mermaid Nebula is part. Also known as the Betta Fish Nebula, the Mermaid Nebula makes up part of an unusual subclass of supernova remnants that are two-sided and nearly circular. Originally discovered in X-rays, the filamentary nebula is a frequently studied source also in radio and gamma-ray light.  The blue color visible here originates from doubly ionized oxygen (OIII), while the deep red is emitted by hydrogen gas. The nebula's mermaid-like shape has proven to be useful for measurements of the interstellar magnetic field.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2409/Mermaid_Corke_4205.jpg
+<br />**Date image released:**  2024-09-19
+<br />**This image is owned by:**  Davide Broise
+<br />**Title of the image:**  The Dark Seahorse of Cepheus
+<br />**Description for the image:**  Spanning light-years, this suggestive shape known as the Seahorse Nebula floats in silhouette against a rich, luminous background of stars. Seen toward the royal northern constellation of Cepheus, the dusty, dark nebula is part of a Milky Way molecular cloud some 1,200 light-years distant. It is also listed as Barnard 150 (B150), one of 182 dark markings of the sky cataloged in the early 20th century by astronomer E. E. Barnard. Packs of low mass stars are forming within, but their collapsing cores are only visible at long infrared wavelengths. Still, the colorful Milky Way stars of Cepheus add to this stunning galactic skyscape.   Growing Gallery: This week's supermoon eclipse
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2409/LDN1082_px2048.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -53,56 +49,55 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Sep 18 0030 UTC
+:Issued: 2024 Sep 19 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 8 (NOAA Scale
-G4).
-The greatest expected 3 hr Kp for Sep 18-Sep 20 2024 is 4.67 (NOAA Scale
-G1).
+The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
+Scale levels).
+The greatest expected 3 hr Kp for Sep 19-Sep 21 2024 is 3.67 (below NOAA
+Scale levels).
 
-NOAA Kp index breakdown Sep 18-Sep 20 2024
+NOAA Kp index breakdown Sep 19-Sep 21 2024
 
-             Sep 18       Sep 19       Sep 20
-00-03UT       4.67 (G1)    2.33         1.33     
-03-06UT       3.67         3.00         1.33     
-06-09UT       3.33         2.33         1.67     
-09-12UT       2.33         2.00         1.67     
-12-15UT       2.00         1.67         1.33     
-15-18UT       1.33         1.33         1.67     
-18-21UT       1.33         1.33         1.33     
-21-00UT       2.67         2.00         1.33     
+             Sep 19       Sep 20       Sep 21
+00-03UT       3.67         1.33         1.67     
+03-06UT       2.00         1.33         2.00     
+06-09UT       3.00         1.67         2.33     
+09-12UT       2.67         1.67         3.00     
+12-15UT       2.67         1.33         3.00     
+15-18UT       2.67         1.67         2.33     
+18-21UT       2.67         1.33         2.33     
+21-00UT       2.00         1.33         2.33     
 
-Rationale: G1 (Minor) storm levels are expected early on 18 Sep as CME
-effects wane.
+Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
+significant transient or recurrent solar wind features are forecast.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
-above S-scale storm level thresholds.
+below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Sep 18-Sep 20 2024
+Solar Radiation Storm Forecast for Sep 19-Sep 21 2024
 
-              Sep 18  Sep 19  Sep 20
-S1 or greater   30%     10%     10%
+              Sep 19  Sep 20  Sep 21
+S1 or greater   10%     10%     10%
 
 Rationale: There is a slight chance for the 10 MeV proton flux to reach
-the S1 (Minor) levels on 18-20 Sep.
+the S1 (Minor) levels on 19-21 Sep.
 
 C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Sep 18-Sep 20 2024
+Radio Blackout Forecast for Sep 19-Sep 21 2024
 
-              Sep 18        Sep 19        Sep 20
-R1-R2           55%           55%           50%
-R3 or greater   20%           15%           10%
+              Sep 19        Sep 20        Sep 21
+R1-R2           55%           55%           55%
+R3 or greater   10%           10%           10%
 
 Rationale: R1 (Minor) or greater radio blackouts are likely with a
-slight chance for R3 (Strong) activity on 18-19 Sep. There is a
-decreasing chance for R1 or greater blackouts on 20 Sep.
+slight chance for R3 (Strong) activity on 19-21 Sep. 
 
 ```
