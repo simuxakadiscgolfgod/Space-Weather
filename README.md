@@ -1,11 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2024-09-19
-<br />**This image is owned by:**  Davide Broise
-<br />**Title of the image:**  The Dark Seahorse of Cepheus
-<br />**Description for the image:**  Spanning light-years, this suggestive shape known as the Seahorse Nebula floats in silhouette against a rich, luminous background of stars. Seen toward the royal northern constellation of Cepheus, the dusty, dark nebula is part of a Milky Way molecular cloud some 1,200 light-years distant. It is also listed as Barnard 150 (B150), one of 182 dark markings of the sky cataloged in the early 20th century by astronomer E. E. Barnard. Packs of low mass stars are forming within, but their collapsing cores are only visible at long infrared wavelengths. Still, the colorful Milky Way stars of Cepheus add to this stunning galactic skyscape.   Growing Gallery: This week's supermoon eclipse
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2409/LDN1082_px2048.jpg
+<br />**Date image released:**  2024-09-20
+<br />**This image is owned by:**  Petr Horálek
+<br />**Title of the image:**  A Hazy Harvest Moon
+<br />**Description for the image:**  For northern hemisphere dwellers, September's Full Moon was the Harvest Moon. On September 17/18 the sunlit lunar nearside passed into shadow, just grazing Earth's umbra, the planet's dark, central shadow cone, in a partial lunar eclipse. Over the two and half hours before dawn a camera fixed to a tripod was used to record this series of exposures as the eclipsed Harvest Moon set behind Spiš Castle in the hazy morning sky over eastern Slovakia. Famed in festival, story, and song, Harvest Moon is just the traditional name of the full moon nearest the autumnal equinox.  According to lore the name is a fitting one. Despite the diminishing daylight hours as the growing season drew to a close, farmers could harvest crops by the light of a full moon shining on from dusk to dawn. This September's Harvest Moon was also known to some as a supermoon, a term becoming a traditional name for a full moon near perigee.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2409/2024_09_18_ZM_Spis_50mm-Pano_Postupka_1500px.png
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,27 +49,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Sep 19 0030 UTC
+:Issued: 2024 Sep 20 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
-Scale levels).
-The greatest expected 3 hr Kp for Sep 19-Sep 21 2024 is 3.67 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 5 (NOAA Scale
+G1).
+The greatest expected 3 hr Kp for Sep 20-Sep 22 2024 is 3.00 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Sep 19-Sep 21 2024
+NOAA Kp index breakdown Sep 20-Sep 22 2024
 
-             Sep 19       Sep 20       Sep 21
-00-03UT       3.67         1.33         1.67     
-03-06UT       2.00         1.33         2.00     
-06-09UT       3.00         1.67         2.33     
-09-12UT       2.67         1.67         3.00     
-12-15UT       2.67         1.33         3.00     
-15-18UT       2.67         1.67         2.33     
-18-21UT       2.67         1.33         2.33     
-21-00UT       2.00         1.33         2.33     
+             Sep 20       Sep 21       Sep 22
+00-03UT       1.33         1.67         2.33     
+03-06UT       1.33         2.00         2.00     
+06-09UT       1.67         2.33         2.00     
+09-12UT       1.67         3.00         2.00     
+12-15UT       1.33         3.00         2.00     
+15-18UT       1.67         2.33         2.00     
+18-21UT       1.33         2.33         2.00     
+21-00UT       1.33         2.33         2.33     
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
 significant transient or recurrent solar wind features are forecast.
@@ -79,25 +79,25 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Sep 19-Sep 21 2024
+Solar Radiation Storm Forecast for Sep 20-Sep 22 2024
 
-              Sep 19  Sep 20  Sep 21
+              Sep 20  Sep 21  Sep 22
 S1 or greater   10%     10%     10%
 
-Rationale: There is a slight chance for the 10 MeV proton flux to reach
-the S1 (Minor) levels on 19-21 Sep.
+Rationale: There is a slight chance for S1 (Minor) solar radiation
+storms over 20-22 Sep.
 
 C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Sep 19-Sep 21 2024
+Radio Blackout Forecast for Sep 20-Sep 22 2024
 
-              Sep 19        Sep 20        Sep 21
-R1-R2           55%           55%           55%
+              Sep 20        Sep 21        Sep 22
+R1-R2           45%           45%           45%
 R3 or greater   10%           10%           10%
 
-Rationale: R1 (Minor) or greater radio blackouts are likely with a
-slight chance for R3 (Strong) activity on 19-21 Sep. 
+Rationale: There is a chance for R1-R2 (Minor-Moderate) radio blackouts,
+and a slight chance for R3 or greater events, over 20-22 Sep.
 
 ```
