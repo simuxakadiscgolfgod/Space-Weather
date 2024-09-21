@@ -1,11 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2024-09-20
-<br />**This image is owned by:**  Petr Horálek
-<br />**Title of the image:**  A Hazy Harvest Moon
-<br />**Description for the image:**  For northern hemisphere dwellers, September's Full Moon was the Harvest Moon. On September 17/18 the sunlit lunar nearside passed into shadow, just grazing Earth's umbra, the planet's dark, central shadow cone, in a partial lunar eclipse. Over the two and half hours before dawn a camera fixed to a tripod was used to record this series of exposures as the eclipsed Harvest Moon set behind Spiš Castle in the hazy morning sky over eastern Slovakia. Famed in festival, story, and song, Harvest Moon is just the traditional name of the full moon nearest the autumnal equinox.  According to lore the name is a fitting one. Despite the diminishing daylight hours as the growing season drew to a close, farmers could harvest crops by the light of a full moon shining on from dusk to dawn. This September's Harvest Moon was also known to some as a supermoon, a term becoming a traditional name for a full moon near perigee.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2409/2024_09_18_ZM_Spis_50mm-Pano_Postupka_1500px.png
+<br />**Date image released:**  2024-09-21
+<br />**This image is owned by:**  Emili Vilamala
+<br />**Title of the image:**  Sunrise Shadows in the Sky
+<br />**Description for the image:**  The defining astronomical moment of this September's equinox is at 12:44 UTC on September 22, when the Sun crosses the celestial equator moving south in its yearly journey through planet Earth's sky. That marks the beginning of fall for our fair planet in the northern hemisphere and spring in the southern hemisphere, when day and night are nearly equal around the globe.  Of course, if you celebrate the astronomical change of seasons by watching a sunrise you can also look for crepuscular rays. Outlined by shadows cast by clouds, crepuscular rays can have a dramatic appearance in the twilight sky during any sunrise (or sunset). Due to perspective, the parallel cloud shadows will seem to point back to the rising Sun and a place due east on your horizon on the equinox date. But in this spectacular sunrise skyscape captured in early June, the parallel shadows and crepuscular rays appear to converge toward an eastern horizon's more northerly sunrise.  The well-composed photo places the rising Sun just behind the bell tower of a church in the town of Vic, province of Barcelona, Catalonia, Spain.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2409/RayosCrepusculares.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,27 +49,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Sep 20 0030 UTC
+:Issued: 2024 Sep 21 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 5 (NOAA Scale
-G1).
-The greatest expected 3 hr Kp for Sep 20-Sep 22 2024 is 3.00 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
+Scale levels).
+The greatest expected 3 hr Kp for Sep 21-Sep 23 2024 is 3.00 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Sep 20-Sep 22 2024
+NOAA Kp index breakdown Sep 21-Sep 23 2024
 
-             Sep 20       Sep 21       Sep 22
-00-03UT       1.33         1.67         2.33     
-03-06UT       1.33         2.00         2.00     
-06-09UT       1.67         2.33         2.00     
-09-12UT       1.67         3.00         2.00     
-12-15UT       1.33         3.00         2.00     
-15-18UT       1.67         2.33         2.00     
-18-21UT       1.33         2.33         2.00     
-21-00UT       1.33         2.33         2.33     
+             Sep 21       Sep 22       Sep 23
+00-03UT       1.67         2.33         1.33     
+03-06UT       2.00         2.00         1.33     
+06-09UT       2.33         2.00         1.67     
+09-12UT       3.00         2.00         1.33     
+12-15UT       3.00         2.00         1.33     
+15-18UT       2.33         2.00         1.33     
+18-21UT       2.33         2.00         1.67     
+21-00UT       2.33         2.33         1.67     
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
 significant transient or recurrent solar wind features are forecast.
@@ -79,25 +79,26 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Sep 20-Sep 22 2024
+Solar Radiation Storm Forecast for Sep 21-Sep 23 2024
 
-              Sep 20  Sep 21  Sep 22
-S1 or greater   10%     10%     10%
+              Sep 21  Sep 22  Sep 23
+S1 or greater    5%      5%      5%
 
-Rationale: There is a slight chance for S1 (Minor) solar radiation
-storms over 20-22 Sep.
+Rationale: No S1 (Minor) or greater solar radiation storms are expected.
+No significant active region activity favorable for radiation storm
+production is forecast.
 
 C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Sep 20-Sep 22 2024
+Radio Blackout Forecast for Sep 21-Sep 23 2024
 
-              Sep 20        Sep 21        Sep 22
-R1-R2           45%           45%           45%
-R3 or greater   10%           10%           10%
+              Sep 21        Sep 22        Sep 23
+R1-R2           30%           30%           30%
+R3 or greater    5%            5%            5%
 
-Rationale: There is a chance for R1-R2 (Minor-Moderate) radio blackouts,
-and a slight chance for R3 or greater events, over 20-22 Sep.
+Rationale: There is a chance for R1-R2 (Minor-Moderate) radio blackouts
+over 21-23 Sep.
 
 ```
