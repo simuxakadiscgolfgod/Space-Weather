@@ -1,11 +1,13 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2024-09-21
-<br />**This image is owned by:**  Emili Vilamala
-<br />**Title of the image:**  Sunrise Shadows in the Sky
-<br />**Description for the image:**  The defining astronomical moment of this September's equinox is at 12:44 UTC on September 22, when the Sun crosses the celestial equator moving south in its yearly journey through planet Earth's sky. That marks the beginning of fall for our fair planet in the northern hemisphere and spring in the southern hemisphere, when day and night are nearly equal around the globe.  Of course, if you celebrate the astronomical change of seasons by watching a sunrise you can also look for crepuscular rays. Outlined by shadows cast by clouds, crepuscular rays can have a dramatic appearance in the twilight sky during any sunrise (or sunset). Due to perspective, the parallel cloud shadows will seem to point back to the rising Sun and a place due east on your horizon on the equinox date. But in this spectacular sunrise skyscape captured in early June, the parallel shadows and crepuscular rays appear to converge toward an eastern horizon's more northerly sunrise.  The well-composed photo places the rising Sun just behind the bell tower of a church in the town of Vic, province of Barcelona, Catalonia, Spain.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2409/RayosCrepusculares.jpg
+<br />**Date image released:**  2024-09-22
+<br />**This image is owned by:**  
+Anthony Artese
+
+<br />**Title of the image:**  Chicagohenge: Equinox in an Aligned City
+<br />**Description for the image:**  Chicago, in a way, is like a modern Stonehenge. The way is east to west, and the time is today.  Today, and every equinox, the Sun will set exactly to the west, everywhere on Earth. Therefore, today in Chicago, the Sun will set directly down the long equatorially-aligned grid of streets and buildings, an event dubbed #chicagohenge.  Featured here is a Chicago Henge picture taken during the  equinox in mid-September of 2017 looking along part of Upper Wacker Drive.  Many cities, though, have streets or other features that are well-aligned to Earth's spin axis. Therefore, quite possibly, your  favorite street may also run east - west. Tonight at sunset, with a quick glance, you can actually find out.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2409/Chicagohenge_Artese_1320.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,27 +51,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Sep 21 0030 UTC
+:Issued: 2024 Sep 22 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Sep 21-Sep 23 2024 is 3.00 (below NOAA
+The greatest expected 3 hr Kp for Sep 22-Sep 24 2024 is 2.67 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Sep 21-Sep 23 2024
+NOAA Kp index breakdown Sep 22-Sep 24 2024
 
-             Sep 21       Sep 22       Sep 23
-00-03UT       1.67         2.33         1.33     
-03-06UT       2.00         2.00         1.33     
-06-09UT       2.33         2.00         1.67     
-09-12UT       3.00         2.00         1.33     
-12-15UT       3.00         2.00         1.33     
-15-18UT       2.33         2.00         1.33     
-18-21UT       2.33         2.00         1.67     
-21-00UT       2.33         2.33         1.67     
+             Sep 22       Sep 23       Sep 24
+00-03UT       2.67         1.33         1.67     
+03-06UT       2.33         1.33         1.33     
+06-09UT       2.00         1.67         1.67     
+09-12UT       2.00         1.33         1.33     
+12-15UT       2.00         1.33         1.33     
+15-18UT       2.00         1.33         1.33     
+18-21UT       2.00         1.67         1.33     
+21-00UT       2.33         1.67         1.67     
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
 significant transient or recurrent solar wind features are forecast.
@@ -79,9 +81,9 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Sep 21-Sep 23 2024
+Solar Radiation Storm Forecast for Sep 22-Sep 24 2024
 
-              Sep 21  Sep 22  Sep 23
+              Sep 22  Sep 23  Sep 24
 S1 or greater    5%      5%      5%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -92,13 +94,13 @@ C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Sep 21-Sep 23 2024
+Radio Blackout Forecast for Sep 22-Sep 24 2024
 
-              Sep 21        Sep 22        Sep 23
+              Sep 22        Sep 23        Sep 24
 R1-R2           30%           30%           30%
 R3 or greater    5%            5%            5%
 
 Rationale: There is a chance for R1-R2 (Minor-Moderate) radio blackouts
-over 21-23 Sep.
+over 22-24 Sep.
 
 ```
