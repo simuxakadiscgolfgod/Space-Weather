@@ -1,14 +1,14 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2024-09-23
+<br />**Date image released:**  2024-09-24
 <br />**This image is owned by:**  
-Brian Valente
-& Greg Stein
+Alpha Zhang & 
+Ting Yu
 
-<br />**Title of the image:**  Comet Tsuchinshan-ATLAS Approaches
-<br />**Description for the image:**  What will happen as this already bright comet approaches?  Optimistic predictions have Comet C/2023 A3 (Tsuchinshan–ATLAS) briefly becoming easily visible to the unaided eye -- although the future brightness of comets are notoriously hard to predict, and this comet may even break up in warming sunlight. What is certain is that the comet is now unexpectedly bright and is on track to pass its closest to the Sun (0.39 AU) later this week and closest to the Earth (0.47 AU) early next month.  The featured image was taken in late May as Comet Tsuchinshan–ATLAS, discovered only last year, passed nearly in front of two distant galaxies.  The comet can now be found with binoculars in the early morning sky rising just before the Sun, while over the next few weeks it will brighten as it moves to the early evening sky.   Your Sky Surprise: What picture did APOD feature on your birthday? (post 1995)
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2409/Comet23A3_Valente_5672.jpg
+<br />**Title of the image:**  NGC 6727: The Rampaging Baboon Nebula
+<br />**Description for the image:**  This dusty region is forming stars. Part of a sprawling molecular cloud complex that resembles, to some, a rampaging baboon, the region is a relatively close by 500 light-years away toward the constellation Corona Australis. That's about one third the distance of the more famous stellar nursery known as the Orion Nebula.  Mixed with bright nebulosities, the brown dust clouds effectively block light from more distant background stars in the Milky Way and obscure from view embedded stars still in the process of formation.  The eyes of the dust creature in the featured image are actually blue reflection nebulas cataloged as NGC 6726, 6727, 6729, and IC 4812, while the red mouth glows with light emitted by hydrogen gas.  Just to the upper left of the baboon's head is NGC 6723, a whole globular cluster of stars nearly 30,000 light years in the distance.    Explore Your Universe: Random APOD Generator
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2409/Baboon_ZhangYu_2010.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -52,39 +52,39 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Sep 23 0030 UTC
+:Issued: 2024 Sep 24 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Sep 23-Sep 25 2024 is 3.00 (below NOAA
-Scale levels).
+The greatest expected 3 hr Kp for Sep 24-Sep 26 2024 is 4.67 (NOAA Scale
+G1).
 
-NOAA Kp index breakdown Sep 23-Sep 25 2024
+NOAA Kp index breakdown Sep 24-Sep 26 2024
 
-             Sep 23       Sep 24       Sep 25
-00-03UT       1.33         1.67         3.00     
-03-06UT       1.33         1.00         2.00     
-06-09UT       1.67         1.67         2.00     
-09-12UT       1.33         1.00         1.00     
-12-15UT       1.33         1.00         1.00     
-15-18UT       1.33         1.00         2.00     
-18-21UT       1.67         1.67         2.00     
-21-00UT       1.67         2.33         3.00     
+             Sep 24       Sep 25       Sep 26
+00-03UT       3.67         1.67         4.00     
+03-06UT       3.33         1.33         3.33     
+06-09UT       3.67         1.33         2.67     
+09-12UT       3.00         4.00         2.33     
+12-15UT       2.00         4.67 (G1)    2.00     
+15-18UT       1.67         3.33         1.33     
+18-21UT       1.67         3.33         1.33     
+21-00UT       2.67         3.67         3.00     
 
-Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
-significant transient or recurrent solar wind features are forecast.
+Rationale: G1 (Minor) storm levels are expected on 25 Sep due to a
+glancing blow CME along with High Speed Stream influence.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Sep 23-Sep 25 2024
+Solar Radiation Storm Forecast for Sep 24-Sep 26 2024
 
-              Sep 23  Sep 24  Sep 25
+              Sep 24  Sep 25  Sep 26
 S1 or greater    5%      5%      5%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -94,15 +94,15 @@ production is forecast.
 C. NOAA Radio Blackout Activity and Forecast
 
 Radio blackouts reaching the R1 levels were observed over the past 24
-hours. The largest was at Sep 22 2024 2139 UTC.
+hours. The largest was at Sep 23 2024 1456 UTC.
 
-Radio Blackout Forecast for Sep 23-Sep 25 2024
+Radio Blackout Forecast for Sep 24-Sep 26 2024
 
-              Sep 23        Sep 24        Sep 25
-R1-R2           25%           25%           25%
-R3 or greater    5%            5%            5%
+              Sep 24        Sep 25        Sep 26
+R1-R2           40%           40%           40%
+R3 or greater   10%           10%           10%
 
-Rationale: There is a chance for R1-R2 (Minor-Moderate) radio blackouts
-over 23-25 Sep.
+Rationale: There is a chance for M-class (R1-R2, Minor-Moderate) flares
+and a slight chance for X-class (R3- Strong) flares on 24-26 Sep.
 
 ```
