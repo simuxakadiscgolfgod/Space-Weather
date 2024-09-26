@@ -1,13 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2024-09-25
-<br />**This image is owned by:**  
-Lucy Yunxi Hu
-
-<br />**Title of the image:**  Comet A3 Through an Australian Sunrise
-<br />**Description for the image:**  Comet Tsuchinshan-ATLAS is now visible in the early morning sky.  Diving into the inner Solar System at an odd angle, this large dirty iceberg will pass its closest to the Sun -- between the orbits of Mercury and Venus -- in just two days. Long camera exposures are now capturing C/2023 A3 (Tsuchinshan–ATLAS), sometimes abbreviated as just A3, and its dust tail before and during sunrise.  The featured image composite was taken four days ago and captured the comet as it rose above Lake George, NSW, Australia.  Vertical bands further left are images of the comet as the rising Sun made the predawn sky increasingly bright and colorful. Just how bright the comet will become over the next month is currently unknown as it involves how much gas and dust the comet's nucleus will expel. Optimistic skywatchers are hoping for a great show where Tsuchinshan–ATLAS creates dust and ion tails visible across Earth's sky and becomes known as the Great Comet of 2024.   Survey: Color Blindness and Astronomical Images  Growing Gallery: Comet Tsuchinsan-ATLAS in 2024
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2409/Comet23A3_LucyHu_3000.jpg
+<br />**Date image released:**  2024-09-26
+<br />**This image is owned by:**  Jan Beckmann, Julian Zoller, Lukas Eisert, Wolfgang Hummel
+<br />**Title of the image:**  The Great Globular Cluster in Hercules
+<br />**Description for the image:**  In 1716, English astronomer Edmond Halley noted, "This is but a little Patch, but it shows itself to the naked Eye, when the Sky is serene and the Moon absent." Of course, M13 is now less modestly recognized as the Great Globular Cluster in Hercules, one of the brightest globular star clusters in the northern sky. Sharp telescopic views like this one reveal the spectacular cluster's hundreds of thousands of stars. At a distance of 25,000 light-years, the cluster stars crowd into a region 150 light-years in diameter. Approaching the cluster core, upwards of 100 stars could be contained in a cube just 3 light-years on a side. For comparison, the closest star to the Sun is over 4 light-years away. The deep, wide-field image also reveals distant background galaxies including NGC 6207 at the upper left, and faint, foreground Milky Way dust clouds known to some as integrated flux nebulae.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2409/M13IFN_2048.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -51,39 +49,39 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Sep 25 0030 UTC
+:Issued: 2024 Sep 26 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 5 (NOAA Scale
 G1).
-The greatest expected 3 hr Kp for Sep 25-Sep 27 2024 is 4.67 (NOAA Scale
+The greatest expected 3 hr Kp for Sep 26-Sep 28 2024 is 4.67 (NOAA Scale
 G1).
 
-NOAA Kp index breakdown Sep 25-Sep 27 2024
+NOAA Kp index breakdown Sep 26-Sep 28 2024
 
-             Sep 25       Sep 26       Sep 27
-00-03UT       3.67         4.00         1.67     
-03-06UT       2.33         3.33         1.33     
-06-09UT       2.00         2.67         1.67     
-09-12UT       4.00         2.33         1.33     
-12-15UT       4.67 (G1)    2.00         1.33     
-15-18UT       3.33         1.33         1.67     
-18-21UT       3.33         1.33         1.33     
-21-00UT       3.67         3.00         1.33     
+             Sep 26       Sep 27       Sep 28
+00-03UT       4.00         3.00         1.67     
+03-06UT       4.67 (G1)    2.67         1.67     
+06-09UT       3.67         2.33         1.33     
+09-12UT       4.00         1.67         1.33     
+12-15UT       3.33         1.33         1.33     
+15-18UT       2.33         1.00         1.33     
+18-21UT       2.33         2.00         1.67     
+21-00UT       3.00         2.33         1.33     
 
-Rationale: G1 (Minor) storm levels are expected on 25 Sep due to a
-glancing blow CME along with High Speed Stream influence.
+Rationale: G1 (Minor) storm levels are likely on 26 Sep due to continued
+High Speed Stream influence and a possible glancing blow CME.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Sep 25-Sep 27 2024
+Solar Radiation Storm Forecast for Sep 26-Sep 28 2024
 
-              Sep 25  Sep 26  Sep 27
+              Sep 26  Sep 27  Sep 28
 S1 or greater    5%      5%      5%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -92,15 +90,16 @@ production is forecast.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-No radio blackouts were observed over the past 24 hours.
+Radio blackouts reaching the R1 levels were observed over the past 24
+hours. The largest was at Sep 25 2024 2312 UTC.
 
-Radio Blackout Forecast for Sep 25-Sep 27 2024
+Radio Blackout Forecast for Sep 26-Sep 28 2024
 
-              Sep 25        Sep 26        Sep 27
+              Sep 26        Sep 27        Sep 28
 R1-R2           55%           55%           55%
 R3 or greater   20%           20%           20%
 
 Rationale: M-class (R1-R2, Minor-Moderate) flares are likely and there
-is a slight chance for X-class (R3- Strong) flares on 25-27 Sep.
+is a slight chance for X-class (R3- Strong) flares on 26-28 Sep.
 
 ```
