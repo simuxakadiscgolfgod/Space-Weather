@@ -1,11 +1,10 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2024-09-26
-<br />**This image is owned by:**  Jan Beckmann, Julian Zoller, Lukas Eisert, Wolfgang Hummel
-<br />**Title of the image:**  The Great Globular Cluster in Hercules
-<br />**Description for the image:**  In 1716, English astronomer Edmond Halley noted, "This is but a little Patch, but it shows itself to the naked Eye, when the Sky is serene and the Moon absent." Of course, M13 is now less modestly recognized as the Great Globular Cluster in Hercules, one of the brightest globular star clusters in the northern sky. Sharp telescopic views like this one reveal the spectacular cluster's hundreds of thousands of stars. At a distance of 25,000 light-years, the cluster stars crowd into a region 150 light-years in diameter. Approaching the cluster core, upwards of 100 stars could be contained in a cube just 3 light-years on a side. For comparison, the closest star to the Sun is over 4 light-years away. The deep, wide-field image also reveals distant background galaxies including NGC 6207 at the upper left, and faint, foreground Milky Way dust clouds known to some as integrated flux nebulae.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2409/M13IFN_2048.jpg
+<br />**Date image released:**  2024-09-27
+<br />**Title of the image:**  Stellar Streams in the Local Universe
+<br />**Description for the image:**  The twenty galaxies arrayed in these panels are part of an ambitious astronomical survey of tidal stellar streams. Each panel presents a composite view; a deep, inverted image taken from publicly available imaging surveys of a field that surrounds a nearby massive galaxy image. The inverted images reveal faint cosmic structures, star streams hundreds of thousands of light-years across, that result from the gravitational disruption and eventual merger of satellite galaxies in the local universe. Such surveys of mergers and gravitational tidal interactions between massive galaxies and their dwarf satellites are crucial guides for current models of galaxy formation and cosmology. Of course, the detection of stellar streams in the neighboring Andromeda Galaxy and our own Milky Way also offers spectacular evidence for ongoing satellite galaxy disruption within our more local galaxy group.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2409/SSSGreatestHits.png
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,39 +48,39 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Sep 26 0030 UTC
+:Issued: 2024 Sep 27 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 5 (NOAA Scale
-G1).
-The greatest expected 3 hr Kp for Sep 26-Sep 28 2024 is 4.67 (NOAA Scale
-G1).
+The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
+Scale levels).
+The greatest expected 3 hr Kp for Sep 27-Sep 29 2024 is 3.67 (below NOAA
+Scale levels).
 
-NOAA Kp index breakdown Sep 26-Sep 28 2024
+NOAA Kp index breakdown Sep 27-Sep 29 2024
 
-             Sep 26       Sep 27       Sep 28
-00-03UT       4.00         3.00         1.67     
-03-06UT       4.67 (G1)    2.67         1.67     
-06-09UT       3.67         2.33         1.33     
-09-12UT       4.00         1.67         1.33     
-12-15UT       3.33         1.33         1.33     
-15-18UT       2.33         1.00         1.33     
-18-21UT       2.33         2.00         1.67     
-21-00UT       3.00         2.33         1.33     
+             Sep 27       Sep 28       Sep 29
+00-03UT       2.00         1.67         2.00     
+03-06UT       2.00         1.67         3.00     
+06-09UT       1.00         1.33         2.00     
+09-12UT       1.67         1.33         2.00     
+12-15UT       1.00         1.33         3.67     
+15-18UT       1.00         1.33         2.00     
+18-21UT       1.00         1.00         1.67     
+21-00UT       2.00         2.00         2.67     
 
-Rationale: G1 (Minor) storm levels are likely on 26 Sep due to continued
-High Speed Stream influence and a possible glancing blow CME.
+Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
+significant transient or recurrent solar wind features are forecast.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Sep 26-Sep 28 2024
+Solar Radiation Storm Forecast for Sep 27-Sep 29 2024
 
-              Sep 26  Sep 27  Sep 28
+              Sep 27  Sep 28  Sep 29
 S1 or greater    5%      5%      5%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -91,15 +90,15 @@ production is forecast.
 C. NOAA Radio Blackout Activity and Forecast
 
 Radio blackouts reaching the R1 levels were observed over the past 24
-hours. The largest was at Sep 25 2024 2312 UTC.
+hours. The largest was at Sep 26 2024 2312 UTC.
 
-Radio Blackout Forecast for Sep 26-Sep 28 2024
+Radio Blackout Forecast for Sep 27-Sep 29 2024
 
-              Sep 26        Sep 27        Sep 28
-R1-R2           55%           55%           55%
-R3 or greater   20%           20%           20%
+              Sep 27        Sep 28        Sep 29
+R1-R2           60%           60%           60%
+R3 or greater   15%           15%           15%
 
 Rationale: M-class (R1-R2, Minor-Moderate) flares are likely and there
-is a slight chance for X-class (R3- Strong) flares on 26-28 Sep.
+is a slight chance for X-class (R3- Strong) flares on 27-29 Sep.
 
 ```
