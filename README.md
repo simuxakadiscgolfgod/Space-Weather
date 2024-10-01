@@ -1,13 +1,7 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2024-09-30
-<br />**This image is owned by:**  
-Daniel Korona
-
-<br />**Title of the image:**  Comet Tsuchinshan-ATLAS over Mexico
-<br />**Description for the image:**  The new comet has passed its closest to the Sun and is now moving closer to the Earth. C/2023 A3 (Tsuchinshan–ATLAS) is currently moving out from inside the orbit of Venus and on track to pass its nearest to the Earth in about two weeks.  Comet Tsuchinshan-ATLAS, pronounced "Choo-cheen-shahn At-less,", is near naked-eye visibility and easily picked up by long-exposure cameras.  The comet can also now be found by observers in Earth's northern hemisphere as well as the south.  The featured image was captured just a few days ago above Zacatecas, Mexico. Because clouds were obscuring much of the pre-dawn sky, the astrophotographer released a drone to take pictures from higher up, several of which were later merged to enhance the comet's visibility. Although the future brightness of comets is hard to predict, there is increasing hope that Comet Tsuchinshan-ATLAS will further brighten as it enters the early evening sky.   Growing Gallery: Comet Tsuchinsan-ATLAS in 2024
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2409/CometA3_Korona_2040.jpg
+<br />**Sorry, Image not available!**
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -51,27 +45,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Sep 30 0030 UTC
+:Issued: 2024 Oct 01 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Sep 30-Oct 02 2024 is 4.00 (below NOAA
+The greatest expected 3 hr Kp for Oct 01-Oct 03 2024 is 1.67 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Sep 30-Oct 02 2024
+NOAA Kp index breakdown Oct 01-Oct 03 2024
 
-             Sep 30       Oct 01       Oct 02
-00-03UT       3.00         1.33         1.67     
-03-06UT       2.00         1.33         1.33     
-06-09UT       4.00         1.33         1.33     
-09-12UT       2.00         1.67         1.33     
-12-15UT       2.67         1.67         1.33     
-15-18UT       1.00         1.67         1.33     
-18-21UT       1.00         1.33         1.67     
-21-00UT       1.00         1.33         1.67     
+             Oct 01       Oct 02       Oct 03
+00-03UT       1.33         1.67         1.67     
+03-06UT       1.33         1.33         1.33     
+06-09UT       1.33         1.33         1.33     
+09-12UT       1.67         1.33         1.67     
+12-15UT       1.67         1.33         1.67     
+15-18UT       1.67         1.33         1.33     
+18-21UT       1.33         1.67         1.33     
+21-00UT       1.33         1.67         1.33     
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
 significant transient or recurrent solar wind features are forecast.
@@ -81,9 +75,9 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Sep 30-Oct 02 2024
+Solar Radiation Storm Forecast for Oct 01-Oct 03 2024
 
-              Sep 30  Oct 01  Oct 02
+              Oct 01  Oct 02  Oct 03
 S1 or greater    5%      5%      5%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -92,13 +86,13 @@ production is forecast.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-Radio blackouts reaching the R1 levels were observed over the past 24
-hours. The largest was at Sep 29 2024 1441 UTC.
+Radio blackouts reaching the R2 levels were observed over the past 24
+hours. The largest was at Sep 30 2024 2359 UTC.
 
-Radio Blackout Forecast for Sep 30-Oct 02 2024
+Radio Blackout Forecast for Oct 01-Oct 03 2024
 
-              Sep 30        Oct 01        Oct 02
-R1-R2           55%           55%           55%
+              Oct 01        Oct 02        Oct 03
+R1-R2           50%           50%           50%
 R3 or greater   10%           10%           10%
 
 Rationale: R1-R2 (Minor-Moderate) radio blackouts are likely, with a
