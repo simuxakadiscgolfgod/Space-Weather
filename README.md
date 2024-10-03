@@ -1,16 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Sorry, Image not available!**
-<br />**Date image released:**  2024-10-02
-<br />**This image is owned by:**  
-Ireneusz Nowak;  
-Text: Natalia Lewandowska 
-(SUNY Oswego)
-
-<br />**Title of the image:**  The Large Magellanic Cloud Galaxy
-<br />**Description for the image:**  It is the largest satellite galaxy of our home Milky Way Galaxy. If you live in the south, the Large Magellanic Cloud (LMC) is quite noticeable, spanning about 10 degrees across the night sky, which is 20 times larger than the full moon towards the southern constellation of the dolphinfish (Dorado). Being only about 160,000 light years away, many details of the LMC's structure can be seen, such as its central bar and its single spiral arm. The LMC harbors numerous stellar nurseries where new stars are being born, which appear in pink in the featured image. It is home to the Tarantula Nebula, the currently most active star forming region in the entire Local Group, a small collection of nearby galaxies dominated by the massive Andromeda and Milky Way galaxies. Studies of the LMC and the Small Magellanic Cloud (SMC) by Henrietta Swan Leavitt led to the discovery of the period-luminosity relationship of Cepheid variable stars that are used to measure distances across the nearby universe.   Survey: Color Blindness and Astronomical Images
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2410/LMC_Nowak_2160.jpg
+<br />**Date image released:**  2024-10-03
+<br />**This image is owned by:**  Wang Letian
+<br />**Title of the image:**  Eclipse at Sunrise
+<br />**Description for the image:**  The second solar eclipse of 2024 began in the Pacific. On October 2nd the Moon's shadow swept from west to east, with an annular eclipse visible along a narrow antumbral shadow path tracking mostly over ocean, crossing land near the southern tip of South America, and ending in the southern Atlantic. The dramatic total annular eclipse phase is known to some as a ring of fire. Still, a partial eclipse of the Sun was experienced over a wide region. Captured at one of its earliest moments, October's eclipsed Sun is seen just above the clouds near sunrise in this snapshot. The partially eclipsed solar disk is close to the maximum eclipse as seen from Mauna Kea Observatory Visitor Center, Island of Hawaii, planet Earth.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2410/earliestsolareclipse.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -54,57 +49,60 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Oct 02 0030 UTC
+:Issued: 2024 Oct 03 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Oct 02-Oct 04 2024 is 1.67 (below NOAA
-Scale levels).
+The greatest expected 3 hr Kp for Oct 03-Oct 05 2024 is 7.00 (NOAA Scale
+G3).
 
-NOAA Kp index breakdown Oct 02-Oct 04 2024
+NOAA Kp index breakdown Oct 03-Oct 05 2024
 
-             Oct 02       Oct 03       Oct 04
-00-03UT       1.67         1.67         1.67     
-03-06UT       1.33         1.33         1.33     
-06-09UT       1.33         1.33         1.33     
-09-12UT       1.33         1.67         1.33     
-12-15UT       1.33         1.67         1.67     
-15-18UT       1.33         1.33         1.33     
-18-21UT       1.67         1.33         1.33     
-21-00UT       1.67         1.33         1.67     
+             Oct 03       Oct 04       Oct 05
+00-03UT       1.67         6.00 (G2)    6.33 (G2)
+03-06UT       1.33         6.67 (G3)    6.33 (G2)
+06-09UT       1.33         5.33 (G1)    5.33 (G1)
+09-12UT       1.67         4.33         5.00 (G1)
+12-15UT       1.67         4.00         4.67 (G1)
+15-18UT       1.33         5.33 (G1)    4.67 (G1)
+18-21UT       4.33         6.33 (G2)    3.67     
+21-00UT       5.33 (G1)    7.00 (G3)    3.67     
 
-Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
-significant transient or recurrent solar wind features are forecast.
+Rationale: G1-G3 (Minor-Strong) geomagnetic storms likely over the next
+three days due to influences from the halo CME that left the Sun late on
+01 Oct.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Oct 02-Oct 04 2024
+Solar Radiation Storm Forecast for Oct 03-Oct 05 2024
 
-              Oct 02  Oct 03  Oct 04
-S1 or greater    5%      5%      5%
+              Oct 03  Oct 04  Oct 05
+S1 or greater   35%     35%     35%
 
-Rationale: No S1 (Minor) or greater solar radiation storms are expected.
-No significant active region activity favorable for radiation storm
-production is forecast.
+Rationale: There is a chance for the greater than 10 MeV proton flux
+reaching the S1 (Minor) threshold on 03-05 Oct due to the flare
+potential of multiple regions on the disk.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-Radio blackouts reaching the R3 levels were observed over the past 24
-hours. The largest was at Oct 01 2024 2220 UTC.
+Radio blackouts reaching the R1 levels were observed over the past 24
+hours. The largest was at Oct 02 2024 0538 UTC.
 
-Radio Blackout Forecast for Oct 02-Oct 04 2024
+Radio Blackout Forecast for Oct 03-Oct 05 2024
 
-              Oct 02        Oct 03        Oct 04
-R1-R2           60%           60%           60%
-R3 or greater   15%           15%           15%
+              Oct 03        Oct 04        Oct 05
+R1-R2           75%           75%           75%
+R3 or greater   35%           35%           35%
 
-Rationale: R1-R2 (Minor-Moderate) radio blackouts are likely, with a
-slight chance or R3 or greater events, over 02-04 Oct.
+Rationale: Solar activity is expected to be moderate (R1-R2,
+Minor-Moderate) with a chance for X-class (R3-Strong or greater) flares
+on 03-05 Oct. ARs 3841, 3842, 3844, and 3848 are the main areas of
+interest.
 
 ```
