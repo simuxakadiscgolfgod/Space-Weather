@@ -1,11 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2024-10-03
-<br />**This image is owned by:**  Wang Letian
-<br />**Title of the image:**  Eclipse at Sunrise
-<br />**Description for the image:**  The second solar eclipse of 2024 began in the Pacific. On October 2nd the Moon's shadow swept from west to east, with an annular eclipse visible along a narrow antumbral shadow path tracking mostly over ocean, crossing land near the southern tip of South America, and ending in the southern Atlantic. The dramatic total annular eclipse phase is known to some as a ring of fire. Still, a partial eclipse of the Sun was experienced over a wide region. Captured at one of its earliest moments, October's eclipsed Sun is seen just above the clouds near sunrise in this snapshot. The partially eclipsed solar disk is close to the maximum eclipse as seen from Mauna Kea Observatory Visitor Center, Island of Hawaii, planet Earth.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2410/earliestsolareclipse.jpg
+<br />**Date image released:**  2024-10-04
+<br />**This image is owned by:**  Gabriel Zaparolli
+<br />**Title of the image:**  Comet at Moonrise
+<br />**Description for the image:**  Comet C/2023 A3 (Tsuchinshan–ATLAS) is growing brighter in planet Earth's sky. Fondly known as comet A3, this new visitor to the inner Solar System is traveling from the distant Oort cloud. The comet reached perihelion, its closest approach to the Sun, on September 27 and will reach perigee, its closest to our fair planet, on October 12, by then becoming an evening sky apparition. But comet A3 was an early morning riser on September 30 when this image was made. Its bright coma and already long tail share a pre-dawn skyscape from Praia Grande, Santa Catarina in southern Brazil with the waning crescent Moon just peeking above the eastern horizon. While the behaviour of comets is notoriously unpredictable, Tsuchinshan–ATLAS could become a comet visually rivaling C/2020 F3 (NEOWISE). Comet NEOWISE wowed skygazers in the summer of 2020.   Growing Gallery: Comet Tsuchinsan-ATLAS in 2024
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2410/zaparolliA3.png
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,40 +49,41 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Oct 03 0030 UTC
+:Issued: 2024 Oct 04 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Oct 03-Oct 05 2024 is 7.00 (NOAA Scale
+The greatest expected 3 hr Kp for Oct 04-Oct 06 2024 is 7.00 (NOAA Scale
 G3).
 
-NOAA Kp index breakdown Oct 03-Oct 05 2024
+NOAA Kp index breakdown Oct 04-Oct 06 2024
 
-             Oct 03       Oct 04       Oct 05
-00-03UT       1.67         6.00 (G2)    6.33 (G2)
-03-06UT       1.33         6.67 (G3)    6.33 (G2)
-06-09UT       1.33         5.33 (G1)    5.33 (G1)
-09-12UT       1.67         4.33         5.00 (G1)
-12-15UT       1.67         4.00         4.67 (G1)
-15-18UT       1.33         5.33 (G1)    4.67 (G1)
-18-21UT       4.33         6.33 (G2)    3.67     
-21-00UT       5.33 (G1)    7.00 (G3)    3.67     
+             Oct 04       Oct 05       Oct 06
+00-03UT       3.00         5.33 (G1)    6.33 (G2)
+03-06UT       3.33         6.00 (G2)    6.67 (G3)
+06-09UT       4.00         6.33 (G2)    6.33 (G2)
+09-12UT       4.33         6.33 (G2)    6.33 (G2)
+12-15UT       6.67 (G3)    6.33 (G2)    5.33 (G1)
+15-18UT       6.33 (G2)    6.33 (G2)    5.33 (G1)
+18-21UT       6.33 (G2)    7.00 (G3)    4.67 (G1)
+21-00UT       4.67 (G1)    6.67 (G3)    4.33     
 
 Rationale: G1-G3 (Minor-Strong) geomagnetic storms likely over the next
-three days due to influences from the halo CME that left the Sun late on
-01 Oct.
+three days due to influences from the halo CMEs that left the Sun late
+on
+01 Oct and midday on 03 Oct. 
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Oct 03-Oct 05 2024
+Solar Radiation Storm Forecast for Oct 04-Oct 06 2024
 
-              Oct 03  Oct 04  Oct 05
+              Oct 04  Oct 05  Oct 06
 S1 or greater   35%     35%     35%
 
 Rationale: There is a chance for the greater than 10 MeV proton flux
@@ -91,18 +92,18 @@ potential of multiple regions on the disk.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-Radio blackouts reaching the R1 levels were observed over the past 24
-hours. The largest was at Oct 02 2024 0538 UTC.
+Radio blackouts reaching the R3 levels were observed over the past 24
+hours. The largest was at Oct 03 2024 1218 UTC.
 
-Radio Blackout Forecast for Oct 03-Oct 05 2024
+Radio Blackout Forecast for Oct 04-Oct 06 2024
 
-              Oct 03        Oct 04        Oct 05
+              Oct 04        Oct 05        Oct 06
 R1-R2           75%           75%           75%
 R3 or greater   35%           35%           35%
 
 Rationale: Solar activity is expected to be moderate (R1-R2,
 Minor-Moderate) with a chance for X-class (R3-Strong or greater) flares
-on 03-05 Oct. ARs 3841, 3842, 3844, and 3848 are the main areas of
+on 04-06 Oct. ARs 3841, 3842, 3843, 3844, and 3848 are the main areas of
 interest.
 
 ```
