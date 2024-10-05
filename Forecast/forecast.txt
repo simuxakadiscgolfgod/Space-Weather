@@ -1,60 +1,64 @@
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Oct 04 0030 UTC
+:Issued: 2024 Oct 05 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Oct 04-Oct 06 2024 is 7.00 (NOAA Scale
+The greatest expected 3 hr Kp for Oct 05-Oct 07 2024 is 7.00 (NOAA Scale
 G3).
 
-NOAA Kp index breakdown Oct 04-Oct 06 2024
+NOAA Kp index breakdown Oct 05-Oct 07 2024
 
-             Oct 04       Oct 05       Oct 06
-00-03UT       3.00         5.33 (G1)    6.33 (G2)
-03-06UT       3.33         6.00 (G2)    6.67 (G3)
-06-09UT       4.00         6.33 (G2)    6.33 (G2)
-09-12UT       4.33         6.33 (G2)    6.33 (G2)
-12-15UT       6.67 (G3)    6.33 (G2)    5.33 (G1)
-15-18UT       6.33 (G2)    6.33 (G2)    5.33 (G1)
-18-21UT       6.33 (G2)    7.00 (G3)    4.67 (G1)
-21-00UT       4.67 (G1)    6.67 (G3)    4.33     
+             Oct 05       Oct 06       Oct 07
+00-03UT       5.00 (G1)    7.00 (G3)    3.67     
+03-06UT       5.00 (G1)    6.67 (G3)    3.00     
+06-09UT       3.67         6.00 (G2)    3.33     
+09-12UT       4.00         5.00 (G1)    4.67 (G1)
+12-15UT       4.67 (G1)    4.00         5.00 (G1)
+15-18UT       6.33 (G2)    4.67 (G1)    3.33     
+18-21UT       6.67 (G3)    5.00 (G1)    4.00     
+21-00UT       7.00 (G3)    5.33 (G1)    4.67 (G1)
 
-Rationale: G1-G3 (Minor-Strong) geomagnetic storms likely over the next
-three days due to influences from the halo CMEs that left the Sun late
-on
-01 Oct and midday on 03 Oct. 
+Rationale: G3 (Strong) geomagnetic storming is likely on 05-06 Oct due
+to the aforementioned CME effects. A chance for isolated periods of G4
+(Severe) storming is possible if the arrival of these CMEs coincide with
+one another, and are not separated by an appreciable amount of time as
+WSA-Enlil output suggests. However, confidence in this outcome is low.
+G1 (Minor) geomagnetic storming is likely on 07 Oct with any glancing
+influence from the CME that left the Sun early on 04 Oct coupled with
+positive polarity CH HSS onset.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Oct 04-Oct 06 2024
+Solar Radiation Storm Forecast for Oct 05-Oct 07 2024
 
-              Oct 04  Oct 05  Oct 06
+              Oct 05  Oct 06  Oct 07
 S1 or greater   35%     35%     35%
 
 Rationale: There is a chance for the greater than 10 MeV proton flux
-reaching the S1 (Minor) threshold on 03-05 Oct due to the flare
-potential of multiple regions on the disk.
+reaching the S1 (Minor) threshold on 05-07 Oct due to the enhanced flare
+potential from multiple, magnetically complex regions nearing the
+western limb of the solar disk.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-Radio blackouts reaching the R3 levels were observed over the past 24
-hours. The largest was at Oct 03 2024 1218 UTC.
+Radio blackouts reaching the R1 levels were observed over the past 24
+hours. The largest was at Oct 04 2024 1103 UTC.
 
-Radio Blackout Forecast for Oct 04-Oct 06 2024
+Radio Blackout Forecast for Oct 05-Oct 07 2024
 
-              Oct 04        Oct 05        Oct 06
+              Oct 05        Oct 06        Oct 07
 R1-R2           75%           75%           75%
 R3 or greater   35%           35%           35%
 
-Rationale: Solar activity is expected to be moderate (R1-R2,
-Minor-Moderate) with a chance for X-class (R3-Strong or greater) flares
-on 04-06 Oct. ARs 3841, 3842, 3843, 3844, and 3848 are the main areas of
-interest.
+Rationale: R1-R2 (Minor-Moderate) radio blackouts are expected, with a
+chance for isolated R3 (Strong or greater) radio blackouts on 05-07
+Oct.
 
 ```
