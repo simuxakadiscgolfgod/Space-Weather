@@ -1,13 +1,13 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2024-10-06
+<br />**Date image released:**  2024-10-07
 <br />**This image is owned by:**  
-Robert H. McNaught
+Jose Santivañez Mueras
 
-<br />**Title of the image:**  The Magnificent Tail of Comet McNaught
-<br />**Description for the image:**  Comet McNaught, the Great Comet of 2007, grew a spectacularly long and filamentary tail.  The magnificent tail spread across the sky and was visible for several days to Southern Hemisphere observers just after sunset.  The amazing ion tail showed its greatest extent on long-duration, wide-angle camera exposures.  During some times, just the tail itself was visible just above the horizon for many northern observers as well. Comet C/2006 P1 (McNaught), estimated to have attained a peak brightness of  magnitude -5 (minus five), was caught by the comet's discoverer in the featured image just after sunset in January 2007 from Siding Spring Observatory in Australia. Comet McNaught, the brightest comet in decades, then  faded as it moved further into southern skies and away from the Sun and Earth. Over the next month, Comet Tsuchinshan–ATLAS, a candidate for the Great Comet of 2024, should display its most spectacular tails  visible from the Earth.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2410/comet_mcnaught_960.jpg
+<br />**Title of the image:**  The Long Tails Comet Tsuchinshan-ATLAS
+<br />**Description for the image:**  A bright comet is moving into the evening skies. C/2023 A3 (Tsuchinshan–ATLAS) has brightened and even though it is now easily visible to the unaided eye, it is so near to the Sun that it is still difficult to see. Pictured, Comet Tsuchinshan–ATLAS was captured just before sunrise from an Andes Mountain in Peru. Braving cold weather, this unusually high perch gave the astrophotographer such a low eastern horizon that the comet was obvious in the pre-dawn sky.  Visible in the featured image is not only an impressively long dust tail extending over many degrees, but an impressively long and blue ion tail, too.  This month, as the comet moves out from the Sun and passes the Earth, evening observers should be able to see the huge dirty ice ball toward the west just after sunset.   Growing Gallery: Comet Tsuchinsan-ATLAS in 2024
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2410/CometA3_Mueras_1872.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -51,61 +51,59 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Oct 06 0030 UTC
+:Issued: 2024 Oct 07 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
-Scale levels).
-The greatest expected 3 hr Kp for Oct 06-Oct 08 2024 is 7.00 (NOAA Scale
-G3).
+The greatest observed 3 hr Kp over the past 24 hours was 5 (NOAA Scale
+G1).
+The greatest expected 3 hr Kp for Oct 07-Oct 09 2024 is 5.00 (NOAA Scale
+G1).
 
-NOAA Kp index breakdown Oct 06-Oct 08 2024
+NOAA Kp index breakdown Oct 07-Oct 09 2024
 
-             Oct 06       Oct 07       Oct 08
-00-03UT       7.00 (G3)    4.00         3.33     
-03-06UT       6.00 (G2)    3.00         3.67     
-06-09UT       5.33 (G1)    3.33         4.00     
-09-12UT       5.00 (G1)    4.67 (G1)    3.00     
-12-15UT       4.00         5.00 (G1)    2.00     
-15-18UT       4.00         3.33         2.33     
-18-21UT       4.67 (G1)    4.00         2.67     
-21-00UT       5.33 (G1)    4.33         2.67     
+             Oct 07       Oct 08       Oct 09
+00-03UT       5.00 (G1)    3.33         2.00     
+03-06UT       4.67 (G1)    3.67         1.33     
+06-09UT       4.33         3.00         1.33     
+09-12UT       4.00         2.00         1.00     
+12-15UT       3.67         1.67         1.00     
+15-18UT       3.00         1.67         1.67     
+18-21UT       3.00         2.00         1.67     
+21-00UT       3.67         2.67         1.33     
 
-Rationale: G3 (Strong) geomagnetic storming is likely on 06 Oct due to
-the anticipated CME effects. G1 (Minor) geomagnetic storming is likely
-on 07 Oct with any glancing influence from the CME that left the Sun
-early on 04 Oct coupled with positive polarity CH HSS onset.
+Rationale: G1 (Minor) geomagnetic storming is expected early on 07 Oct
+with any glancing influence from the CME that left the Sun early on 04
+Oct.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Oct 06-Oct 08 2024
+Solar Radiation Storm Forecast for Oct 07-Oct 09 2024
 
-              Oct 06  Oct 07  Oct 08
-S1 or greater   30%     30%     25%
+              Oct 07  Oct 08  Oct 09
+S1 or greater   30%     25%     25%
 
-Rationale: There is a chance for the greater than 10 MeV proton flux
-reaching the S1 (Minor) threshold on 06-08 Oct due to the enhanced flare
-potential from multiple regions.
+Rationale: There is a chance for the greater than 10 MeV proton flux to
+reach the S1 (Minor) threshold through 09 Sep due to the enhanced flare
+potential from multiple regions near the western limb of the solar disk.
 
 C. NOAA Radio Blackout Activity and Forecast
 
 Radio blackouts reaching the R1 levels were observed over the past 24
-hours. The largest was at Oct 05 2024 2320 UTC.
+hours. The largest was at Oct 06 2024 2119 UTC.
 
-Radio Blackout Forecast for Oct 06-Oct 08 2024
+Radio Blackout Forecast for Oct 07-Oct 09 2024
 
-              Oct 06        Oct 07        Oct 08
+              Oct 07        Oct 08        Oct 09
 R1-R2           75%           75%           75%
-R3 or greater   30%           30%           25%
+R3 or greater   30%           25%           25%
 
 Rationale: R1-R2 (Minor-Moderate) radio blackouts are expected, with
-a chance for isolated R3 (Strong or greater) radio blackouts on 06-08
-Oct as multiple active regions continue to maintain enhanced magnetic
-complexities.
+a chance for isolated R3 (Strong or greater) radio blackout events
+through 09 Oct.
 
 ```
