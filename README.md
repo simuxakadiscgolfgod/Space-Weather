@@ -1,14 +1,13 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2024-10-08
+<br />**Date image released:**  2024-10-09
 <br />**This image is owned by:**  
-Alexis
-Trigo
+Ali Al Obaidly
 
-<br />**Title of the image:**  Annular Eclipse over Patagonia
-<br />**Description for the image:**  Can you find the Sun? OK, but can you explain why there’s a big dark spot in the center? The spot is the Moon, and the impressive alignment shown, where the Moon lines up inside the Sun, is called an annular solar eclipse. Such an eclipse occurred just last week and was visible from a thin swath mostly in Earth's southern hemisphere. The featured image was captured from Patagonia, Chile. When the Moon is significantly closer to the Earth and it aligns with the Sun, a total solar eclipse is then visible from parts of the Earth. Annular eclipses are slightly more common than total eclipses, but as the Moon moves slowly away from the Earth, before a billion more years, the Moon's orbit will no longer bring it close enough for a total solar eclipse to be seen from anywhere on Earth.   Gallery: Annular Eclipse of October 2024
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2410/AnnularEclipse_Trigo_1080.jpg
+<br />**Title of the image:**  M106: A Spiral Galaxy with a Strange Center
+<br />**Description for the image:**  What's happening at the center of spiral galaxy M106? A swirling disk of stars and gas, M106's appearance is dominated by blue spiral arms and red  dust lanes near the nucleus, as shown in the featured image taken from the Kuwaiti desert.  The core of M106 glows brightly in radio waves and X-rays where twin jets have been found running the length of the galaxy.  An unusual central glow makes M106 one of the closest examples of the Seyfert class of galaxies, where vast amounts of glowing gas are thought to be falling into a central massive black hole.  M106, also designated NGC 4258, is a relatively close 23.5 million light years away, spans 60 thousand light years across, and can be seen with a small telescope towards the constellation of the Hunting Dogs (Canes Venatici).
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2410/M106_Obaidly_3500.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -52,58 +51,59 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Oct 08 0030 UTC
+:Issued: 2024 Oct 09 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 6 (NOAA Scale
-G2).
-The greatest expected 3 hr Kp for Oct 08-Oct 10 2024 is 5.67 (NOAA Scale
-G2).
+The greatest observed 3 hr Kp over the past 24 hours was 7 (NOAA Scale
+G3).
+The greatest expected 3 hr Kp for Oct 09-Oct 11 2024 is 4.67 (NOAA Scale
+G1).
 
-NOAA Kp index breakdown Oct 08-Oct 10 2024
+NOAA Kp index breakdown Oct 09-Oct 11 2024
 
-             Oct 08       Oct 09       Oct 10
-00-03UT       4.33         3.00         1.67     
-03-06UT       5.67 (G2)    2.33         1.33     
-06-09UT       5.00 (G1)    2.33         1.33     
-09-12UT       3.67         2.00         1.33     
-12-15UT       3.33         1.00         1.33     
-15-18UT       3.33         1.67         1.33     
-18-21UT       3.33         1.67         1.67     
-21-00UT       3.00         1.33         1.67     
+             Oct 09       Oct 10       Oct 11
+00-03UT       3.67         1.67         1.67     
+03-06UT       3.33         1.33         1.33     
+06-09UT       2.33         1.33         1.33     
+09-12UT       2.00         1.33         1.67     
+12-15UT       1.00         1.33         2.33     
+15-18UT       1.67         1.33         3.00     
+18-21UT       1.67         1.67         4.00     
+21-00UT       1.33         1.67         4.67 (G1)
 
-Rationale: G1-G2 (Minor-Moderate) geomagnetic storms are likely on 08
-Oct due to lingering CME influences.
+Rationale: G1 (Minor) geomagnetic storms are likely on 11 Oct due to CME
+influences.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Oct 08-Oct 10 2024
+Solar Radiation Storm Forecast for Oct 09-Oct 11 2024
 
-              Oct 08  Oct 09  Oct 10
+              Oct 09  Oct 10  Oct 11
 S1 or greater   30%     25%     25%
 
 Rationale: There is a chance for the greater than 10 MeV proton flux to
-reach the S1 (Minor) threshold through 09 Sep due to the enhanced flare
-potential from multiple regions near the western limb of the solar disk.
+reach the S1 (Minor) threshold through 11 Oct due to slightly enhanced
+conditions and the flare potential from multiple regions near the
+western limb of the solar disk.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-Radio blackouts reaching the R3 levels were observed over the past 24
-hours. The largest was at Oct 07 2024 1913 UTC.
+Radio blackouts reaching the R1 levels were observed over the past 24
+hours. The largest was at Oct 08 2024 0030 UTC.
 
-Radio Blackout Forecast for Oct 08-Oct 10 2024
+Radio Blackout Forecast for Oct 09-Oct 11 2024
 
-              Oct 08        Oct 09        Oct 10
+              Oct 09        Oct 10        Oct 11
 R1-R2           75%           75%           70%
 R3 or greater   30%           30%           25%
 
 Rationale: R1-R2 (Minor-Moderate) radio blackouts are expected, with
 a chance for isolated R3 (Strong or greater) radio blackout events
-through 09 Oct.
+through 11 Oct.
 
 ```
