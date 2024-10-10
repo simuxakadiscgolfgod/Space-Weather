@@ -1,13 +1,10 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2024-10-09
-<br />**This image is owned by:**  
-Ali Al Obaidly
-
-<br />**Title of the image:**  M106: A Spiral Galaxy with a Strange Center
-<br />**Description for the image:**  What's happening at the center of spiral galaxy M106? A swirling disk of stars and gas, M106's appearance is dominated by blue spiral arms and red  dust lanes near the nucleus, as shown in the featured image taken from the Kuwaiti desert.  The core of M106 glows brightly in radio waves and X-rays where twin jets have been found running the length of the galaxy.  An unusual central glow makes M106 one of the closest examples of the Seyfert class of galaxies, where vast amounts of glowing gas are thought to be falling into a central massive black hole.  M106, also designated NGC 4258, is a relatively close 23.5 million light years away, spans 60 thousand light years across, and can be seen with a small telescope towards the constellation of the Hunting Dogs (Canes Venatici).
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2410/M106_Obaidly_3500.jpg
+<br />**Date image released:**  2024-10-10
+<br />**Title of the image:**  Five Bright Comets from SOHO
+<br />**Description for the image:**  Five bright comets are compared in these panels, recorded by a coronograph on board the long-lived, sun-staring SOHO spacecraft. Arranged chronologically all are recognizable by their tails streaming away from the Sun at the center of each field of view, where a direct view of the overwhelmingly bright Sun is blocked by the coronagraph's occulting disk. Each comet was memorable for earthbound skygazers, starting at top left with Comet McNaught, the 21st century's brightest comet (so far). C/2023 A3 Tsuchinshan-Atlas, approaching its perihelion with the active Sun at bottom center, has most recently grabbed the attention of comet watchers around the globe. By the end of October 2024, the blank 6th panel may be filled with bright sungrazer comet C/2024 S1 Atlas. ... or not.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2410/SohoKy3.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -51,59 +48,61 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Oct 09 0030 UTC
+:Issued: 2024 Oct 10 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 7 (NOAA Scale
-G3).
-The greatest expected 3 hr Kp for Oct 09-Oct 11 2024 is 4.67 (NOAA Scale
+The greatest observed 3 hr Kp over the past 24 hours was 5 (NOAA Scale
 G1).
+The greatest expected 3 hr Kp for Oct 10-Oct 12 2024 is 8.33 (NOAA Scale
+G4).
 
-NOAA Kp index breakdown Oct 09-Oct 11 2024
+NOAA Kp index breakdown Oct 10-Oct 12 2024
 
-             Oct 09       Oct 10       Oct 11
-00-03UT       3.67         1.67         1.67     
-03-06UT       3.33         1.33         1.33     
-06-09UT       2.33         1.33         1.33     
-09-12UT       2.00         1.33         1.67     
-12-15UT       1.00         1.33         2.33     
-15-18UT       1.67         1.33         3.00     
-18-21UT       1.67         1.67         4.00     
-21-00UT       1.33         1.67         4.67 (G1)
+             Oct 10       Oct 11       Oct 12
+00-03UT       1.67         8.33 (G4)    5.33 (G1)
+03-06UT       1.33         8.00 (G4)    5.00 (G1)
+06-09UT       1.33         7.00 (G3)    4.67 (G1)
+09-12UT       1.33         6.67 (G3)    4.33     
+12-15UT       5.00 (G1)    6.33 (G2)    4.33     
+15-18UT       7.33 (G3)    6.33 (G2)    5.33 (G1)
+18-21UT       7.67 (G4)    6.00 (G2)    4.67 (G1)
+21-00UT       8.33 (G4)    5.33 (G1)    4.33     
 
-Rationale: G1 (Minor) geomagnetic storms are likely on 11 Oct due to CME
-influences.
+Rationale: G1 (Minor) Geomagnetic Storm conditions were already
+anticipated for 11 Oct due to possible enhancements associated with the
+filament eruption from 08 Oct. Analysis of the CME associated with
+the X1.8 flare suggests further enhancement 10 Oct into 11 Oct, reaching
+G4 (Severe) levels is likely with G5 (Extreme) levels possible.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
-below S-scale storm level thresholds.
+above S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Oct 09-Oct 11 2024
+Solar Radiation Storm Forecast for Oct 10-Oct 12 2024
 
-              Oct 09  Oct 10  Oct 11
-S1 or greater   30%     25%     25%
+              Oct 10  Oct 11  Oct 12
+S1 or greater   80%     50%     30%
 
-Rationale: There is a chance for the greater than 10 MeV proton flux to
-reach the S1 (Minor) threshold through 11 Oct due to slightly enhanced
-conditions and the flare potential from multiple regions near the
-western limb of the solar disk.
+Rationale: S1 (Minor) or greater solar radiation storm levels are
+expected to continue through 10 Oct and begin a slow recovery through
+the rest of the period.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-Radio blackouts reaching the R1 levels were observed over the past 24
-hours. The largest was at Oct 08 2024 0030 UTC.
+Radio blackouts reaching the R3 levels were observed over the past 24
+hours. The largest was at Oct 09 2024 0156 UTC.
 
-Radio Blackout Forecast for Oct 09-Oct 11 2024
+Radio Blackout Forecast for Oct 10-Oct 12 2024
 
-              Oct 09        Oct 10        Oct 11
+              Oct 10        Oct 11        Oct 12
 R1-R2           75%           75%           70%
-R3 or greater   30%           30%           25%
+R3 or greater   40%           40%           25%
 
 Rationale: R1-R2 (Minor-Moderate) radio blackouts are expected, with
 a chance for isolated R3 (Strong or greater) radio blackout events
-through 11 Oct.
+through 12 Oct.
 
 ```
