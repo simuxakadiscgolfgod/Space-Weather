@@ -1,11 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2024-10-11
-<br />**This image is owned by:**  Yuri Beletsky
-<br />**Title of the image:**  Ring of Fire over Easter Island
-<br />**Description for the image:**  The second solar eclipse of 2024 began in the Pacific. On October 2nd the Moon's shadow swept from west to east, with an annular eclipse visible along a narrow antumbral shadow path tracking mostly over ocean, making its only major landfall near the southern tip of South America, and then ending in the southern Atlantic. The dramatic total annular eclipse phase is known to some as a ring of fire. Also tracking across islands in the southern Pacific, the Moon's antumbral shadow grazed Easter Island allowing denizens to follow all phases of the annular eclipse. Framed by palm tree leaves this clear island view is a stack of two images, one taken with and one taken without a solar filter near the moment of the maximum annular phase. The New Moon's silhouette appears just off center, though still engulfed by the bright disk of the active Sun.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2410/eclipse_02.jpg
+<br />**Date image released:**  2024-10-12
+<br />**This image is owned by:**  Jonathan Eggleston
+<br />**Title of the image:**  Northern Lights, West Virginia
+<br />**Description for the image:**  A gravel country lane gently winds through this colorful rural night skyscape. Captured from Monroe County in southern West Virginia on the evening of October 10, the starry sky above is a familiar sight. Shimmering curtains of aurora borealis or northern lights definitely do not make regular appearances here, though. Surprisingly vivid auroral displays were present on that night at very low latitudes around the globe, far from their usual northern and southern high latitude realms. The extensive auroral activity was evidence of a severe geomagnetic storm triggered by the impact of a coronal mass ejection (CME), an immense magnetized cloud of energetic plasma. The CME was launched toward Earth from the active Sun following a powerful X-class solar flare.   Growing Gallery: Global aurora during October 10/11, 2024
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2410/241010_eggleston.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,62 +49,59 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Oct 11 0030 UTC
+:Issued: 2024 Oct 12 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 9 (NOAA Scale
-G5).
-The greatest expected 3 hr Kp for Oct 11-Oct 13 2024 is 8.67 (NOAA Scale
+The greatest observed 3 hr Kp over the past 24 hours was 8 (NOAA Scale
 G4).
+The greatest expected 3 hr Kp for Oct 12-Oct 14 2024 is 5.00 (NOAA Scale
+G1).
 
-NOAA Kp index breakdown Oct 11-Oct 13 2024
+NOAA Kp index breakdown Oct 12-Oct 14 2024
 
-             Oct 11       Oct 12       Oct 13
-00-03UT       8.67 (G4)    5.33 (G1)    3.33     
-03-06UT       8.33 (G4)    5.00 (G1)    2.67     
-06-09UT       8.00 (G4)    4.67 (G1)    2.67     
-09-12UT       7.33 (G3)    4.33         2.33     
-12-15UT       6.67 (G3)    4.33         1.67     
-15-18UT       6.33 (G2)    5.33 (G1)    2.00     
-18-21UT       6.00 (G2)    4.67 (G1)    2.67     
-21-00UT       5.33 (G1)    4.33         3.33     
+             Oct 12       Oct 13       Oct 14
+00-03UT       4.67 (G1)    3.67         4.00     
+03-06UT       5.00 (G1)    2.67         3.33     
+06-09UT       4.33         2.67         2.67     
+09-12UT       4.00         2.33         2.33     
+12-15UT       3.33         1.67         2.00     
+15-18UT       3.00         2.00         2.00     
+18-21UT       3.00         2.67         2.00     
+21-00UT       4.00         3.33         2.67     
 
-Rationale: The geomagnetic field is likely to maintain G3-G4 (Strong to
-Severe) conditions into 11 Oct if the Bz component continues to sustain
-a southward orientation and connect well with Earths magnetic field. A
-gradual recovery is anticipated on 12 Oct, with G1 (Minor) geomagnetic
-storm levels likely in the early hours of the UTC day.
+Rationale: The geomagnetic field is likely to reach G1 (Minor)
+geomagnetic storm levels, with a chance for an isolated G2 (Moderate)
+storm period, on 12 Oct as effects from a CME that left the sun on 09
+Oct continue to wane.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 above S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Oct 11-Oct 13 2024
+Solar Radiation Storm Forecast for Oct 12-Oct 14 2024
 
-              Oct 11  Oct 12  Oct 13
-S1 or greater   99%     99%     80%
+              Oct 12  Oct 13  Oct 14
+S1 or greater   20%     20%     20%
 
-Rationale: S2 (Moderate) solar radiation storm levels are expected to
-continue on 11 Oct and begin a slow recovery through the rest of the
-period. S1 (Minor) levels are expected to continue through 13 Oct.
+Rationale: The greater than 10 MeV proton flux is expected to remain at
+background levels with a slight chance for a solar radiation storm event
+through 14 Oct as AR 3848 approaches the western limb.
 
 C. NOAA Radio Blackout Activity and Forecast
 
 Radio blackouts reaching the R1 levels were observed over the past 24
-hours. The largest was at Oct 10 2024 2230 UTC.
+hours. The largest was at Oct 11 2024 1633 UTC.
 
-Radio Blackout Forecast for Oct 11-Oct 13 2024
+Radio Blackout Forecast for Oct 12-Oct 14 2024
 
-              Oct 11        Oct 12        Oct 13
-R1-R2           75%           75%           70%
-R3 or greater   35%           35%           35%
+              Oct 12        Oct 13        Oct 14
+R1-R2           60%           60%           60%
+R3 or greater   25%           25%           25%
 
-Rationale: R1-R2 (Minor-Moderate) radio blackouts are expected, with a
-chance for isolated R3 (Strong or greater) events, through 12 Oct. On 13
-Oct, R1-R2 (Minor-Moderate) radio blackouts are likely, while R3 (Strong
-or greater) events remain at chance levels.
+Rationale: R1-R2 (Minor-Moderate) radio blackouts are likely, with a
+chance for R3 (Strong) events through 14 Oct.
 
 ```
