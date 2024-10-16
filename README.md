@@ -2,6 +2,13 @@
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
 <br />**Sorry, Image not available!**
+<br />**Date image released:**  2024-10-16
+<br />**This image is owned by:**  
+Tristian McDonald
+
+<br />**Title of the image:**  Colorful Aurora over New Zealand
+<br />**Description for the image:**  Sometimes the night sky is full of surprises. Take the sky over Lindis Pass, South Island, New Zealand one-night last week.  Instead of a typically calm night sky filled with constant stars, a busy and dynamic night sky appeared. Suddenly visible were pervasive red aurora, green picket-fence aurora, a red SAR arc, a STEVE, a meteor, and the Moon. These outshone the center of our Milky Way Galaxy and both of its two satellite galaxies: the LMC and SMC. All of these were captured together on 28 exposures in five minutes, from which this panorama was composed.  Auroras lit up many skies last week, as a Coronal Mass Ejection from the Sun unleashed a burst of particles toward our Earth that created colorful skies over latitudes usually too far from the Earth's poles to see them.  More generally, night skies this month have other surprises, showing not only auroras -- but comets.   Jigsaw Challenge: Astronomy Puzzle of the Day
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2410/AuroraNz_McDonald_2048.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -45,27 +52,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Oct 15 0030 UTC
+:Issued: 2024 Oct 16 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Oct 15-Oct 17 2024 is 4.67 (NOAA Scale
+The greatest expected 3 hr Kp for Oct 16-Oct 18 2024 is 4.67 (NOAA Scale
 G1).
 
-NOAA Kp index breakdown Oct 15-Oct 17 2024
+NOAA Kp index breakdown Oct 16-Oct 18 2024
 
-             Oct 15       Oct 16       Oct 17
-00-03UT       2.67         4.67 (G1)    2.67     
-03-06UT       2.00         3.67         2.33     
-06-09UT       2.00         3.67         2.00     
-09-12UT       1.67         3.33         2.00     
-12-15UT       1.67         3.67         2.00     
-15-18UT       2.00         4.00         2.00     
-18-21UT       3.33         4.00         2.00     
-21-00UT       4.33         3.67         2.33     
+             Oct 16       Oct 17       Oct 18
+00-03UT       4.67 (G1)    2.67         1.67     
+03-06UT       3.67         2.33         1.33     
+06-09UT       3.67         2.00         1.33     
+09-12UT       3.33         2.00         1.33     
+12-15UT       3.67         2.00         1.33     
+15-18UT       4.00         2.00         1.33     
+18-21UT       4.00         2.00         1.67     
+21-00UT       3.67         2.33         1.67     
 
 Rationale: G1 (Minor) geomagnetic storms are likely on 16 Oct due to
 possible CME influences.
@@ -75,10 +82,10 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Oct 15-Oct 17 2024
+Solar Radiation Storm Forecast for Oct 16-Oct 18 2024
 
-              Oct 15  Oct 16  Oct 17
-S1 or greater   15%     15%      5%
+              Oct 16  Oct 17  Oct 18
+S1 or greater   15%      5%      5%
 
 Rationale: The greater than 10 MeV proton flux is expected to remain at
 background levels with a slight chance for a solar radiation storm event
@@ -87,16 +94,16 @@ through 16 Oct as ARs 3848 and 3849 transits the western limb.
 C. NOAA Radio Blackout Activity and Forecast
 
 Radio blackouts reaching the R1 levels were observed over the past 24
-hours. The largest was at Oct 14 2024 1337 UTC.
+hours. The largest was at Oct 15 2024 1833 UTC.
 
-Radio Blackout Forecast for Oct 15-Oct 17 2024
+Radio Blackout Forecast for Oct 16-Oct 18 2024
 
-              Oct 15        Oct 16        Oct 17
+              Oct 16        Oct 17        Oct 18
 R1-R2           55%           55%           55%
-R3 or greater   10%           10%            5%
+R3 or greater   10%            5%            5%
 
 Rationale: Solar activity is likely to be moderate due to isolated
-M-class flares (R1-R2, Minor-Moderate) on 15-17 Oct. There is a slight
+M-class flares (R1-R2, Minor-Moderate) on 16-18 Oct. There is a slight
 chance for X-class flares (R3, Strong) through 16 Oct.
 
 ```
