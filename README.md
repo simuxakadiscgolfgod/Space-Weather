@@ -1,11 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2024-10-17
-<br />**This image is owned by:**  Ben Cooper
-<br />**Title of the image:**  The Clipper and the Comet
-<br />**Description for the image:**  NASA's Europa Clipper is now headed toward an ocean world beyond Earth. The large spacecraft is tucked into the payload fairing atop the Falcon Heavy rocket in this photo, taken at Kennedy Space Center the day before the mission's successful October 14 launch. Europa Clipper's interplanetary voyage will first take it to Mars, then back to Earth, and then on to Jupiter on gravity assist trajectories that will allow it to enter orbit around Jupiter in April 2030. Once orbiting Jupiter, the spacecraft will fly past Europa 49 times, exploring a Jovian moon with a global subsurface ocean that may have conditions to support life. Posing in the background next to the floodlit rocket is Comet Tsuchinsan-ATLAS, about a day after the comet's closest approach to Earth. A current darling of evening skies, the naked-eye comet is a vistor from the distant Oort cloud  Growing Gallery: Comet Tsuchinshan-ATLAS in 2024
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2410/EuropaComet_cooper3.jpg
+<br />**Date image released:**  2024-10-18
+<br />**This image is owned by:**  Adam Block
+<br />**Title of the image:**  Most of Comet Tsuchinshan-ATLAS
+<br />**Description for the image:**  On October 14 it was hard to capture a full view of Comet C/2023 A3 Tsuchinshan-ATLAS. Taken after the comet's closest approach to our fair planet, this evening skyview almost does though. With two telephoto frames combined, the image stretches about 26 degrees across the sky from top to bottom, looking west from Gates Pass, Tucson, Arizona. Comet watchers that night could even identify globular star cluster M5 and the faint apparition of periodic comet 13P Olbers near the long the path of Tsuchinshan-ATLAS's whitish dust tail above the bright comet's coma. Due to perspective as the Earth is crossing the comet's orbital plane, Tsuchinshan-ATLAS also has a pronounced antitail. The antitail is composed of dust previously released and fanning out away from the Sun along the comet's orbit, visible as a needle-like extension below the bright coma toward the rugged western horizon.   Growing Gallery: Comet Tsuchinshan-ATLAS in 2024
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2410/a3_20241014_s.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,59 +49,59 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Oct 17 0030 UTC
+:Issued: 2024 Oct 18 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Oct 17-Oct 19 2024 is 4.00 (below NOAA
+The greatest expected 3 hr Kp for Oct 18-Oct 20 2024 is 4.00 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Oct 17-Oct 19 2024
+NOAA Kp index breakdown Oct 18-Oct 20 2024
 
-             Oct 17       Oct 18       Oct 19
-00-03UT       2.33         2.67         4.00     
-03-06UT       2.00         3.00         3.67     
-06-09UT       2.00         2.00         3.33     
-09-12UT       1.67         2.00         2.67     
-12-15UT       2.00         3.00         2.00     
-15-18UT       2.00         3.33         2.00     
-18-21UT       2.33         3.67         2.67     
-21-00UT       3.00         4.00         3.00     
+             Oct 18       Oct 19       Oct 20
+00-03UT       2.67         4.00         3.67     
+03-06UT       3.00         3.67         3.33     
+06-09UT       2.00         3.33         3.00     
+09-12UT       2.00         2.67         3.00     
+12-15UT       3.00         2.00         2.00     
+15-18UT       3.33         2.00         2.00     
+18-21UT       3.67         2.67         1.67     
+21-00UT       4.00         3.00         1.67     
 
-Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
-significant transient or recurrent solar wind features are forecast.
+Rationale: There is a chance of G1 (Minor storm) conditions on 18 Oct
+due to a potential glancing blow from an eruption on the western limb
+associated with the M2 flare from Region 3854 on 15 Oct at 1833 UTC.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Oct 17-Oct 19 2024
+Solar Radiation Storm Forecast for Oct 18-Oct 20 2024
 
-              Oct 17  Oct 18  Oct 19
-S1 or greater   15%     15%     15%
+              Oct 18  Oct 19  Oct 20
+S1 or greater   10%     10%     10%
 
 Rationale: The greater than 10 MeV proton flux is expected to remain at
 background levels with a slight chance for a solar radiation storm event
-through 19 Oct as Regions 3852 and 3854 transit the western limb.
+through 20 Oct as Regions 3852 and 3854 transit the western limb.
 
 C. NOAA Radio Blackout Activity and Forecast
 
 Radio blackouts reaching the R1 levels were observed over the past 24
-hours. The largest was at Oct 16 2024 0323 UTC.
+hours. The largest was at Oct 17 2024 0505 UTC.
 
-Radio Blackout Forecast for Oct 17-Oct 19 2024
+Radio Blackout Forecast for Oct 18-Oct 20 2024
 
-              Oct 17        Oct 18        Oct 19
-R1-R2           80%           75%           65%
-R3 or greater   20%           15%            5%
+              Oct 18        Oct 19        Oct 20
+R1-R2           60%           60%           55%
+R3 or greater   10%           10%           10%
 
-Rationale: Solar activity is expected to be moderate to high due to
-occasional M-class flares (R1-R2, Minor-Moderate) on 17-18 Oct, dropping
-to likely on 19 Oct. There is a slight chance for X-class flares (R3,
-Strong) through 18 Oct.
+Rationale: Solar activity is expected to be at low levels, with moderate
+levels (R1-R2, Minor-Moderate) likely on 18-20 Oct. There is a slight
+chance for X-class flares (R3, Strong) through 20 Oct.
 
 ```
