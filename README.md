@@ -1,11 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2024-10-18
-<br />**This image is owned by:**  Adam Block
-<br />**Title of the image:**  Most of Comet Tsuchinshan-ATLAS
-<br />**Description for the image:**  On October 14 it was hard to capture a full view of Comet C/2023 A3 Tsuchinshan-ATLAS. Taken after the comet's closest approach to our fair planet, this evening skyview almost does though. With two telephoto frames combined, the image stretches about 26 degrees across the sky from top to bottom, looking west from Gates Pass, Tucson, Arizona. Comet watchers that night could even identify globular star cluster M5 and the faint apparition of periodic comet 13P Olbers near the long the path of Tsuchinshan-ATLAS's whitish dust tail above the bright comet's coma. Due to perspective as the Earth is crossing the comet's orbital plane, Tsuchinshan-ATLAS also has a pronounced antitail. The antitail is composed of dust previously released and fanning out away from the Sun along the comet's orbit, visible as a needle-like extension below the bright coma toward the rugged western horizon.   Growing Gallery: Comet Tsuchinshan-ATLAS in 2024
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2410/a3_20241014_s.jpg
+<br />**Date image released:**  2024-10-19
+<br />**This image is owned by:**  Xingyang Cai
+<br />**Title of the image:**  Comet Tsuchinshan-ATLAS Flys Away
+<br />**Description for the image:**  These six panels follow daily apparitions of comet C/2023 A3 Tsuchinshan-ATLAS as it moved away from our fair planet during the past week. The images were taken with the same camera and lens at the indicated dates and locations from California, planet Earth. At far right on October 12 the visitor from the distant Oort cloud was near its closest approach, some 70 million kilometers (about 4 light-minutes) away. Its bright coma and long dust tail were close on the sky to the setting Sun but still easy to spot against a bright western horizon. Over the following days, the outbound comet steadily climbs above the ecliptic and north into the darker western evening sky, but begins to fade from view. Crossing the Earth's orbital plane around October 14, Tsuchinshan-ATLAS exhibits a noticeable antitail extended toward the western horizon. Higher in the evening sky at sunset by October 17 (far left) the comet has faded and reached a distance of around 77 million kilometers from planet Earth. Hopefully you enjoyed some of Tsuchinshan-ATLAS's bid to become the best comet of 2024. This comet's initial orbital period estimates were a mere 80,000 years, but in fact it may never return to the inner Solar System.   Growing Gallery: Comet Tsuchinshan-ATLAS in 2024
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2410/C2023A3-in-the-past-6-days.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,59 +49,55 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Oct 18 0030 UTC
+:Issued: 2024 Oct 19 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Oct 18-Oct 20 2024 is 4.00 (below NOAA
+The greatest expected 3 hr Kp for Oct 19-Oct 21 2024 is 4.00 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Oct 18-Oct 20 2024
+NOAA Kp index breakdown Oct 19-Oct 21 2024
 
-             Oct 18       Oct 19       Oct 20
-00-03UT       2.67         4.00         3.67     
-03-06UT       3.00         3.67         3.33     
-06-09UT       2.00         3.33         3.00     
-09-12UT       2.00         2.67         3.00     
-12-15UT       3.00         2.00         2.00     
-15-18UT       3.33         2.00         2.00     
-18-21UT       3.67         2.67         1.67     
-21-00UT       4.00         3.00         1.67     
+             Oct 19       Oct 20       Oct 21
+00-03UT       4.00         3.67         1.33     
+03-06UT       3.33         3.33         1.67     
+06-09UT       3.33         3.00         1.33     
+09-12UT       3.67         3.00         1.33     
+12-15UT       2.00         2.00         1.33     
+15-18UT       2.00         2.00         1.33     
+18-21UT       2.67         1.67         1.67     
+21-00UT       3.00         1.67         1.67     
 
-Rationale: There is a chance of G1 (Minor storm) conditions on 18 Oct
-due to a potential glancing blow from an eruption on the western limb
-associated with the M2 flare from Region 3854 on 15 Oct at 1833 UTC.
+Rationale: No G1 (Minor) or greater geomagnetic storms are expected. 
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Oct 18-Oct 20 2024
+Solar Radiation Storm Forecast for Oct 19-Oct 21 2024
 
-              Oct 18  Oct 19  Oct 20
+              Oct 19  Oct 20  Oct 21
 S1 or greater   10%     10%     10%
 
-Rationale: The greater than 10 MeV proton flux is expected to remain at
-background levels with a slight chance for a solar radiation storm event
-through 20 Oct as Regions 3852 and 3854 transit the western limb.
+Rationale: There is a slight chance for S1 (Minor) solar radiation
+storms over 19-21 Oct.
 
 C. NOAA Radio Blackout Activity and Forecast
 
 Radio blackouts reaching the R1 levels were observed over the past 24
-hours. The largest was at Oct 17 2024 0505 UTC.
+hours. The largest was at Oct 18 2024 1938 UTC.
 
-Radio Blackout Forecast for Oct 18-Oct 20 2024
+Radio Blackout Forecast for Oct 19-Oct 21 2024
 
-              Oct 18        Oct 19        Oct 20
-R1-R2           60%           60%           55%
+              Oct 19        Oct 20        Oct 21
+R1-R2           60%           55%           55%
 R3 or greater   10%           10%           10%
 
-Rationale: Solar activity is expected to be at low levels, with moderate
-levels (R1-R2, Minor-Moderate) likely on 18-20 Oct. There is a slight
-chance for X-class flares (R3, Strong) through 20 Oct.
+Rationale: R1-R2 (Minor-Moderate) radio blackouts are likely over 19-21
+Oct.
 
 ```
