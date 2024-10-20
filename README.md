@@ -1,11 +1,17 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2024-10-19
-<br />**This image is owned by:**  Xingyang Cai
-<br />**Title of the image:**  Comet Tsuchinshan-ATLAS Flys Away
-<br />**Description for the image:**  These six panels follow daily apparitions of comet C/2023 A3 Tsuchinshan-ATLAS as it moved away from our fair planet during the past week. The images were taken with the same camera and lens at the indicated dates and locations from California, planet Earth. At far right on October 12 the visitor from the distant Oort cloud was near its closest approach, some 70 million kilometers (about 4 light-minutes) away. Its bright coma and long dust tail were close on the sky to the setting Sun but still easy to spot against a bright western horizon. Over the following days, the outbound comet steadily climbs above the ecliptic and north into the darker western evening sky, but begins to fade from view. Crossing the Earth's orbital plane around October 14, Tsuchinshan-ATLAS exhibits a noticeable antitail extended toward the western horizon. Higher in the evening sky at sunset by October 17 (far left) the comet has faded and reached a distance of around 77 million kilometers from planet Earth. Hopefully you enjoyed some of Tsuchinshan-ATLAS's bid to become the best comet of 2024. This comet's initial orbital period estimates were a mere 80,000 years, but in fact it may never return to the inner Solar System.   Growing Gallery: Comet Tsuchinshan-ATLAS in 2024
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2410/C2023A3-in-the-past-6-days.jpg
+<br />**Date image released:**  2024-10-20
+<br />**This image is owned by:**  
+Tom Abel & 
+Ralf Kaehler 
+(KIPAC, 
+SLAC), 
+AMNH
+
+<br />**Title of the image:**  Dark Matter in a Simulated Universe
+<br />**Description for the image:**  Is our universe haunted?  It might look that way on this dark matter map.  The gravity of unseen dark matter is the leading explanation for why galaxies rotate so fast, why galaxies orbit clusters so fast, why gravitational lenses so strongly deflect light, and why visible matter is distributed as it is both in the local universe and on the cosmic microwave background.  The featured image from the American Museum of Natural History's Hayden Planetarium Space Show Dark Universe highlights one example of how pervasive dark matter might haunt our universe.  In this frame from a detailed computer simulation, complex filaments of dark matter, shown in black, are strewn about the universe like spider webs, while the relatively rare clumps of familiar baryonic matter are colored orange. These simulations are good statistical matches to astronomical observations.  In what is perhaps a scarier turn of events, dark matter -- although quite strange and in an unknown form -- is no longer thought to be the strangest source of gravity in the universe. That honor now falls to dark energy, a more uniform source of repulsive gravity that seems to now dominate the expansion of the entire universe.    Explore Your Universe: Random APOD Generator
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2410/DarkMatter_KipacAmnh_1200.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,55 +55,55 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Oct 19 0030 UTC
+:Issued: 2024 Oct 20 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 5 (NOAA Scale
+G1).
+The greatest expected 3 hr Kp for Oct 20-Oct 22 2024 is 4.33 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Oct 19-Oct 21 2024 is 4.00 (below NOAA
-Scale levels).
 
-NOAA Kp index breakdown Oct 19-Oct 21 2024
+NOAA Kp index breakdown Oct 20-Oct 22 2024
 
-             Oct 19       Oct 20       Oct 21
-00-03UT       4.00         3.67         1.33     
-03-06UT       3.33         3.33         1.67     
-06-09UT       3.33         3.00         1.33     
-09-12UT       3.67         3.00         1.33     
-12-15UT       2.00         2.00         1.33     
-15-18UT       2.00         2.00         1.33     
-18-21UT       2.67         1.67         1.67     
-21-00UT       3.00         1.67         1.67     
+             Oct 20       Oct 21       Oct 22
+00-03UT       3.67         1.33         4.33     
+03-06UT       3.33         1.67         2.67     
+06-09UT       3.00         1.33         2.67     
+09-12UT       3.00         1.33         2.67     
+12-15UT       2.00         1.33         2.67     
+15-18UT       2.00         1.33         2.67     
+18-21UT       1.67         1.67         2.67     
+21-00UT       1.67         1.67         2.67     
 
-Rationale: No G1 (Minor) or greater geomagnetic storms are expected. 
+Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Oct 19-Oct 21 2024
+Solar Radiation Storm Forecast for Oct 20-Oct 22 2024
 
-              Oct 19  Oct 20  Oct 21
-S1 or greater   10%     10%     10%
+              Oct 20  Oct 21  Oct 22
+S1 or greater   10%      5%      5%
 
 Rationale: There is a slight chance for S1 (Minor) solar radiation
-storms over 19-21 Oct.
+storms on 20 Oct.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-Radio blackouts reaching the R1 levels were observed over the past 24
-hours. The largest was at Oct 18 2024 1938 UTC.
+Radio blackouts reaching the R2 levels were observed over the past 24
+hours. The largest was at Oct 19 2024 0656 UTC.
 
-Radio Blackout Forecast for Oct 19-Oct 21 2024
+Radio Blackout Forecast for Oct 20-Oct 22 2024
 
-              Oct 19        Oct 20        Oct 21
+              Oct 20        Oct 21        Oct 22
 R1-R2           60%           55%           55%
-R3 or greater   10%           10%           10%
+R3 or greater   10%            5%            5%
 
-Rationale: R1-R2 (Minor-Moderate) radio blackouts are likely over 19-21
+Rationale: R1-R2 (Minor-Moderate) radio blackouts are likely over 20-22
 Oct.
 
 ```
