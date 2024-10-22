@@ -1,13 +1,10 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2024-10-21
-<br />**This image is owned by:**  
-Brian Fulda
-
-<br />**Title of the image:**  Comet Tsuchinshan-ATLAS over California
-<br />**Description for the image:**  The tails of Comet Tsuchinshan-ATLAS were a sight to behold. Pictured, C/2023 A3 (Tsuchinshan–ATLAS) was captured near peak impressiveness last week over the Eastern Sierra Mountains in California, USA.  The comet not only showed a bright tail, but a distinct anti-tail pointing in nearly the opposite direction. The globular star cluster M5 can be seen on the right, far in the distance.  As it approached, it was unclear if this crumbling iceberg would disintegrate completely as it warmed in the bright sunlight. In reality, the comet survived to become brighter than any star in the night (magnitude -4.9), but unfortunately was then so nearly in front of the Sun that it was hard for many casual observers to locate. Whether Comet Tsuchinshan-Atlas becomes known as the Great Comet of 2024 now depends, in part, on how impressive incoming comet C/2024 S1 (ATLAS) becomes over the next two weeks.   Your Sky Surprise: What picture did APOD feature on your birthday? (post 1995)
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2410/CometA3_Fulda_2549.jpg
+<br />**Date image released:**  2024-10-22
+<br />**Title of the image:**  M16: Pillars of Star Creation
+<br />**Description for the image:**  These dark pillars may look destructive, but they are creating stars.  This pillar-capturing picture of the Eagle Nebula combines visible light exposures taken with the Hubble Space Telescope with infrared images taken with the James Webb Space Telescope to highlight evaporating gaseous globules (EGGs) emerging from pillars of molecular hydrogen gas and dust.  The giant pillars are light years in length and are so dense that interior gas contracts gravitationally to form stars.  At each pillar's end, the intense radiation of bright young stars causes low density material to boil away, leaving stellar nurseries of dense EGGs exposed.  The Eagle Nebula, associated with the open star cluster M16, lies about 7000 light years away.   Jigsaw Challenge: Astronomy Puzzle of the Day
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2410/M16_HubbleWebbPisano_6500.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -51,39 +48,40 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Oct 21 0030 UTC
+:Issued: 2024 Oct 22 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Oct 21-Oct 23 2024 is 4.33 (below NOAA
+The greatest expected 3 hr Kp for Oct 22-Oct 24 2024 is 4.33 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Oct 21-Oct 23 2024
+NOAA Kp index breakdown Oct 22-Oct 24 2024
 
-             Oct 21       Oct 22       Oct 23
-00-03UT       1.33         4.33         2.67     
-03-06UT       1.67         2.67         2.67     
-06-09UT       1.33         2.67         2.33     
-09-12UT       1.33         2.67         2.33     
-12-15UT       1.33         2.67         2.33     
-15-18UT       1.33         2.67         2.33     
-18-21UT       1.67         2.67         2.33     
-21-00UT       1.67         2.67         2.00     
+             Oct 22       Oct 23       Oct 24
+00-03UT       4.33         2.67         2.67     
+03-06UT       2.67         2.67         2.33     
+06-09UT       2.67         2.33         2.00     
+09-12UT       2.67         2.33         2.00     
+12-15UT       2.67         2.33         2.00     
+15-18UT       2.67         2.33         2.00     
+18-21UT       2.67         2.33         2.00     
+21-00UT       2.67         2.00         2.00     
 
-Rationale: No G1 (Minor) or greater geomagnetic storms are expected. 
+Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
+significant transient or recurrent solar wind features are forecast.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Oct 21-Oct 23 2024
+Solar Radiation Storm Forecast for Oct 22-Oct 24 2024
 
-              Oct 21  Oct 22  Oct 23
-S1 or greater    5%      5%      5%
+              Oct 22  Oct 23  Oct 24
+S1 or greater    1%      1%      1%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
 No significant active region activity favorable for radiation storm
@@ -93,13 +91,17 @@ C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Oct 21-Oct 23 2024
+Radio Blackout Forecast for Oct 22-Oct 24 2024
 
-              Oct 21        Oct 22        Oct 23
-R1-R2           40%           40%           40%
-R3 or greater    5%            5%            5%
+              Oct 22        Oct 23        Oct 24
+R1-R2           50%           60%           60%
+R3 or greater    5%           10%           10%
 
-Rationale: There is a chance for R1-R2 (Minor-Moderate) blackouts over
-21-23 Oct.
+Rationale: Solar activity is expected to be at low levels, with a chance
+for moderate levels (R1-R2, Minor-Moderate) on 22 Oct. Moderate flare
+levels are expected to increase to likely on 23-24 Oct, with a slight
+chance for R3-Strong levels on 23-24 Oct. This flare level increase is
+in anticipation of the return of old active Region 3842 (S15, L=180)
+which produced M and X flares on its last transit.
 
 ```

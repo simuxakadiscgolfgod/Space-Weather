@@ -1,38 +1,39 @@
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Oct 21 0030 UTC
+:Issued: 2024 Oct 22 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Oct 21-Oct 23 2024 is 4.33 (below NOAA
+The greatest expected 3 hr Kp for Oct 22-Oct 24 2024 is 4.33 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Oct 21-Oct 23 2024
+NOAA Kp index breakdown Oct 22-Oct 24 2024
 
-             Oct 21       Oct 22       Oct 23
-00-03UT       1.33         4.33         2.67     
-03-06UT       1.67         2.67         2.67     
-06-09UT       1.33         2.67         2.33     
-09-12UT       1.33         2.67         2.33     
-12-15UT       1.33         2.67         2.33     
-15-18UT       1.33         2.67         2.33     
-18-21UT       1.67         2.67         2.33     
-21-00UT       1.67         2.67         2.00     
+             Oct 22       Oct 23       Oct 24
+00-03UT       4.33         2.67         2.67     
+03-06UT       2.67         2.67         2.33     
+06-09UT       2.67         2.33         2.00     
+09-12UT       2.67         2.33         2.00     
+12-15UT       2.67         2.33         2.00     
+15-18UT       2.67         2.33         2.00     
+18-21UT       2.67         2.33         2.00     
+21-00UT       2.67         2.00         2.00     
 
-Rationale: No G1 (Minor) or greater geomagnetic storms are expected. 
+Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
+significant transient or recurrent solar wind features are forecast.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Oct 21-Oct 23 2024
+Solar Radiation Storm Forecast for Oct 22-Oct 24 2024
 
-              Oct 21  Oct 22  Oct 23
-S1 or greater    5%      5%      5%
+              Oct 22  Oct 23  Oct 24
+S1 or greater    1%      1%      1%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
 No significant active region activity favorable for radiation storm
@@ -42,13 +43,17 @@ C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Oct 21-Oct 23 2024
+Radio Blackout Forecast for Oct 22-Oct 24 2024
 
-              Oct 21        Oct 22        Oct 23
-R1-R2           40%           40%           40%
-R3 or greater    5%            5%            5%
+              Oct 22        Oct 23        Oct 24
+R1-R2           50%           60%           60%
+R3 or greater    5%           10%           10%
 
-Rationale: There is a chance for R1-R2 (Minor-Moderate) blackouts over
-21-23 Oct.
+Rationale: Solar activity is expected to be at low levels, with a chance
+for moderate levels (R1-R2, Minor-Moderate) on 22 Oct. Moderate flare
+levels are expected to increase to likely on 23-24 Oct, with a slight
+chance for R3-Strong levels on 23-24 Oct. This flare level increase is
+in anticipation of the return of old active Region 3842 (S15, L=180)
+which produced M and X flares on its last transit.
 
 ```
