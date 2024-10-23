@@ -1,10 +1,7 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2024-10-22
-<br />**Title of the image:**  M16: Pillars of Star Creation
-<br />**Description for the image:**  These dark pillars may look destructive, but they are creating stars.  This pillar-capturing picture of the Eagle Nebula combines visible light exposures taken with the Hubble Space Telescope with infrared images taken with the James Webb Space Telescope to highlight evaporating gaseous globules (EGGs) emerging from pillars of molecular hydrogen gas and dust.  The giant pillars are light years in length and are so dense that interior gas contracts gravitationally to form stars.  At each pillar's end, the intense radiation of bright young stars causes low density material to boil away, leaving stellar nurseries of dense EGGs exposed.  The Eagle Nebula, associated with the open star cluster M16, lies about 7000 light years away.   Jigsaw Challenge: Astronomy Puzzle of the Day
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2410/M16_HubbleWebbPisano_6500.jpg
+<br />**Sorry, Image not available!**
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -48,27 +45,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Oct 22 0030 UTC
+:Issued: 2024 Oct 23 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Oct 22-Oct 24 2024 is 4.33 (below NOAA
+The greatest expected 3 hr Kp for Oct 23-Oct 25 2024 is 2.67 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Oct 22-Oct 24 2024
+NOAA Kp index breakdown Oct 23-Oct 25 2024
 
-             Oct 22       Oct 23       Oct 24
-00-03UT       4.33         2.67         2.67     
-03-06UT       2.67         2.67         2.33     
-06-09UT       2.67         2.33         2.00     
-09-12UT       2.67         2.33         2.00     
-12-15UT       2.67         2.33         2.00     
-15-18UT       2.67         2.33         2.00     
-18-21UT       2.67         2.33         2.00     
-21-00UT       2.67         2.00         2.00     
+             Oct 23       Oct 24       Oct 25
+00-03UT       2.67         2.67         1.33     
+03-06UT       2.67         2.33         1.33     
+06-09UT       2.33         2.00         1.67     
+09-12UT       2.33         2.00         1.33     
+12-15UT       2.33         2.00         1.33     
+15-18UT       2.33         2.00         1.67     
+18-21UT       2.33         2.00         1.67     
+21-00UT       2.00         2.00         1.33     
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
 significant transient or recurrent solar wind features are forecast.
@@ -78,9 +75,9 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Oct 22-Oct 24 2024
+Solar Radiation Storm Forecast for Oct 23-Oct 25 2024
 
-              Oct 22  Oct 23  Oct 24
+              Oct 23  Oct 24  Oct 25
 S1 or greater    1%      1%      1%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -91,17 +88,15 @@ C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Oct 22-Oct 24 2024
+Radio Blackout Forecast for Oct 23-Oct 25 2024
 
-              Oct 22        Oct 23        Oct 24
-R1-R2           50%           60%           60%
-R3 or greater    5%           10%           10%
+              Oct 23        Oct 24        Oct 25
+R1-R2           60%           60%           60%
+R3 or greater   10%           10%           10%
 
-Rationale: Solar activity is expected to be at low levels, with a chance
-for moderate levels (R1-R2, Minor-Moderate) on 22 Oct. Moderate flare
-levels are expected to increase to likely on 23-24 Oct, with a slight
-chance for R3-Strong levels on 23-24 Oct. This flare level increase is
-in anticipation of the return of old active Region 3842 (S15, L=180)
-which produced M and X flares on its last transit.
+Rationale: Solar levels are likely to be at moderate levels 23-25 Oct,
+with a slight chance for R3-Strong levels. Solar flare activity is
+expected to increase with the return of old active Region 3842 (S15,
+L=180) which produced four X flares during the last rotation.
 
 ```
