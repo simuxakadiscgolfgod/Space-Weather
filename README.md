@@ -1,12 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Sorry, Image not available!**
-<br />**Date image released:**  2024-10-24
-<br />**This image is owned by:**  Patrick Winkler
-<br />**Title of the image:**  NGC 7293: The Helix Nebula
-<br />**Description for the image:**  A mere seven hundred light years from Earth toward the constellation Aquarius, a star is dying. The once sun-like star's last few thousand years have produced the Helix Nebula. Also known as NGC 7293, the cosmic Helix is a well studied and nearby example of a Planetary Nebula, typical of this final phase of stellar evolution.  Combining narrow band data from emission lines of hydrogen atoms in red and oxygen atoms in blue-green hues, this deep image shows tantalizing details of the Helix, including its bright inner region about 3 light-years across. The white dot at the Helix's center is this Planetary Nebula's hot, dying central star. A simple looking nebula at first glance, the Helix is now understood to have a surprisingly complex geometry.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2410/NGC7293_preview.png
+<br />**Date image released:**  2024-10-25
+<br />**This image is owned by:**  Massimo Di Fusco
+<br />**Title of the image:**  Globular Star Cluster NGC 6752
+<br />**Description for the image:**  Some 13,000 light-years away toward the southern constellation Pavo, the globular star cluster NGC 6752 roams the halo of our Milky Way galaxy. Over 10 billion years old, NGC 6752 follows clusters Omega Centauri, 47 Tucanae, and Messier 22 as the fourth brightest globular in planet Earth's night sky. It holds over 100 thousand stars in a sphere about 100 light-years in diameter. Telescopic explorations of NGC 6752 have found that a remarkable fraction of the stars near the cluster's core, are multiple star systems. They also reveal the presence of blue straggle stars, stars which appear to be too young and massive to exist in a cluster whose stars are all expected to be at least twice as old as the Sun. The blue stragglers are thought to be formed by star mergers and collisions in the dense stellar environment at the cluster's core. This sharp color composite also features the cluster's ancient red giant stars in yellowish hues. (Note: The bright, spiky blue star about 8 o'clock from the cluster center is a foreground star along the line-of-sight to NGC 6752)
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2410/NGC6752_DiFusco.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -50,57 +49,59 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Oct 24 0030 UTC
+:Issued: 2024 Oct 25 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Oct 24-Oct 26 2024 is 4.33 (below NOAA
-Scale levels).
+The greatest expected 3 hr Kp for Oct 25-Oct 27 2024 is 4.67 (NOAA Scale
+G1).
 
-NOAA Kp index breakdown Oct 24-Oct 26 2024
+NOAA Kp index breakdown Oct 25-Oct 27 2024
 
-             Oct 24       Oct 25       Oct 26
-00-03UT       2.67         3.67         2.67     
-03-06UT       2.33         4.33         2.33     
-06-09UT       2.00         3.00         2.00     
-09-12UT       2.00         2.67         1.67     
-12-15UT       2.00         2.33         2.33     
-15-18UT       2.33         2.00         2.00     
-18-21UT       2.33         2.67         2.00     
-21-00UT       3.33         2.67         2.33     
+             Oct 25       Oct 26       Oct 27
+00-03UT       3.67         4.00         2.00     
+03-06UT       4.33         4.67 (G1)    2.00     
+06-09UT       3.00         3.67         1.67     
+09-12UT       2.67         3.00         1.67     
+12-15UT       2.33         3.00         1.33     
+15-18UT       2.00         2.67         2.00     
+18-21UT       2.67         2.00         2.00     
+21-00UT       2.67         2.33         2.33     
 
-Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
-significant transient or recurrent solar wind features are forecast.
+Rationale: G1 (Minor) or greater geomagnetic storms are likely on 26 Oct
+due to the anticipated arrival of a CME that left the Sun on 24 Oct.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Oct 24-Oct 26 2024
+Solar Radiation Storm Forecast for Oct 25-Oct 27 2024
 
-              Oct 24  Oct 25  Oct 26
-S1 or greater    1%      1%      1%
+              Oct 25  Oct 26  Oct 27
+S1 or greater   10%     10%     10%
 
-Rationale: No S1 (Minor) or greater solar radiation storms are expected.
-No significant active region activity favorable for radiation storm
-production is forecast.
+Rationale: There is a slight chance for S1 (Minor) solar radiation
+storms over 25-27 Oct due to the flare potential of several regions in
+the SE quadrant of the visible disk.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-No radio blackouts were observed over the past 24 hours.
+Radio blackouts reaching the R3 levels were observed over the past 24
+hours. The largest was at Oct 24 2024 0357 UTC.
 
-Radio Blackout Forecast for Oct 24-Oct 26 2024
+Radio Blackout Forecast for Oct 25-Oct 27 2024
 
-              Oct 24        Oct 25        Oct 26
-R1-R2           60%           60%           60%
-R3 or greater   10%           10%           10%
+              Oct 25        Oct 26        Oct 27
+R1-R2           70%           70%           70%
+R3 or greater   15%           15%           15%
 
-Rationale: Solar flare activity is expected to be at Minor to Moderate
-(R1-R2) levels 24-26 Oct with a slight chance for R3-Strong levels as
-more magnetically complex regions emerge in the SE part of the disk.
+Rationale: R1-R2 (Minor-Moderate) radio blackouts, with a slight chance
+for R3 (Strong), are likely over 25-27 Oct. This is primarily driven by
+a group of complex active regions in the SE quadrant of the visible
+disk.
 
 ```
