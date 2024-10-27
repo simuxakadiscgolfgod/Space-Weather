@@ -1,11 +1,18 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2024-10-26
-<br />**This image is owned by:**  Christophe Vergnes
-<br />**Title of the image:**  Phantoms in Cassiopeia
-<br />**Description for the image:**  These brightly outlined flowing shapes look ghostly on a cosmic scale. A telescopic view toward the constellation Cassiopeia, the colorful skyscape features the swept-back, comet-shaped clouds IC 59 (left) and IC 63. About 600 light-years distant, the clouds aren't actually ghosts. They are slowly disappearing though, under the influence of energetic radiation from hot, luminous star gamma Cas. Gamma Cas is physically located only 3 to 4 light-years from the nebulae and lies just above the right edge of the frame. Slightly closer to gamma Cas, IC 63 is dominated by red H-alpha light emitted as hydrogen atoms ionized by the hot star's ultraviolet radiation recombine with electrons. Farther from the star, IC 59 shows less H-alpha emission but more of the characteristic blue tint of dust reflected star light. The field of view spans over 1 degree or 10 light-years at the estimated distance of the interstellar apparitions.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2410/IC63.jpg
+<br />**Date image released:**  2024-10-27
+<br />**This image is owned by:**  
+Mark Hanson and 
+Mike Selby;
+Text: 
+Michelle Thaller 
+(NASA's 
+GSFC)
+
+<br />**Title of the image:**  LDN 43: The Cosmic Bat Nebula
+<br />**Description for the image:**  What is the most spook-tacular nebula in the galaxy?   One contender is LDN 43, which bears an astonishing resemblance to a vast cosmic bat flying amongst the stars on a dark Halloween night.  Located about 1400 light years away in the constellation Ophiuchus, this molecular cloud is dense enough to block light not only from background stars, but from wisps of gas lit up by the nearby reflection nebula LBN 7.  Far from being a harbinger of death, this 12-light year-long filament of gas and dust is actually a stellar nursery.  Glowing with eerie light, the bat is lit up from inside by dense gaseous knots that have just formed young stars.    Your Sky Surprise: What picture did APOD feature on your birthday? (post 1995)
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2410/LDN43_SelbyHanson_3993.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,59 +56,58 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Oct 26 0030 UTC
+:Issued: 2024 Oct 27 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Oct 26-Oct 28 2024 is 4.67 (NOAA Scale
+The greatest expected 3 hr Kp for Oct 27-Oct 29 2024 is 5.00 (NOAA Scale
 G1).
 
-NOAA Kp index breakdown Oct 26-Oct 28 2024
+NOAA Kp index breakdown Oct 27-Oct 29 2024
 
-             Oct 26       Oct 27       Oct 28
-00-03UT       4.00         2.00         3.00     
-03-06UT       4.67 (G1)    2.00         2.67     
-06-09UT       3.67         1.67         1.67     
-09-12UT       3.00         1.67         2.00     
-12-15UT       3.00         1.33         2.00     
-15-18UT       2.67         2.00         2.00     
-18-21UT       2.00         2.00         1.67     
-21-00UT       2.33         2.33         2.00     
+             Oct 27       Oct 28       Oct 29
+00-03UT       3.67         3.67         3.33     
+03-06UT       3.67         4.67 (G1)    3.67     
+06-09UT       3.33         5.00 (G1)    3.33     
+09-12UT       3.00         4.67 (G1)    3.33     
+12-15UT       2.67         3.67         3.00     
+15-18UT       2.33         3.00         2.67     
+18-21UT       1.67         1.67         2.67     
+21-00UT       2.67         2.00         1.33     
 
-Rationale: Periods of G1 (Minor) geomagnetic storming are likely on 26
-Oct due to possible CME effects coupled with CH influence.
+Rationale: G1 (Minor) conditions or greater are likely on 28 Oct due to
+anticipated onset of a CME that left the Sun on 26 Oct.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
-below S-scale storm level thresholds.
+above S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Oct 26-Oct 28 2024
+Solar Radiation Storm Forecast for Oct 27-Oct 29 2024
 
-              Oct 26  Oct 27  Oct 28
-S1 or greater   10%     10%     10%
+              Oct 27  Oct 28  Oct 29
+S1 or greater   99%     50%     50%
 
-Rationale: The greater than 10 MeV proton flux is expected to remain at
-background levels, with a slight chance for S1 (Minor) solar radiation
-storms, on 26-28 Oct.
+Rationale: S1 (Minor) or greater conditions are expected to continue
+through 27 Oct, with continued elevated favorable conditions 28-29 Oct
+as significant regions rotate closer to center disk.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-Radio blackouts reaching the R1 levels were observed over the past 24
-hours. The largest was at Oct 25 2024 0733 UTC.
+Radio blackouts reaching the R3 levels were observed over the past 24
+hours. The largest was at Oct 26 2024 0719 UTC.
 
-Radio Blackout Forecast for Oct 26-Oct 28 2024
+Radio Blackout Forecast for Oct 27-Oct 29 2024
 
-              Oct 26        Oct 27        Oct 28
-R1-R2           70%           70%           70%
-R3 or greater   15%           15%           15%
+              Oct 27        Oct 28        Oct 29
+R1-R2           75%           75%           75%
+R3 or greater   30%           30%           30%
 
-Rationale: R1-R2 (Minor-Moderate) radio blackouts are likely, with a
-slight chance for R3-Strong radio blackouts, on 26-28 Oct as more of the
-magnetically complex area of regions transits further across the SE
-portion of the solar disk.
+Rationale: R2 (Moderate) radio blackouts are expected, with a change of
+R3 (Strong), from 27-29 Oct due to several complex regions on the
+visible disk.
 
 ```
