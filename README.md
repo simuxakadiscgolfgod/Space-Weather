@@ -1,18 +1,13 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2024-10-27
+<br />**Date image released:**  2024-10-28
 <br />**This image is owned by:**  
-Mark Hanson and 
-Mike Selby;
-Text: 
-Michelle Thaller 
-(NASA's 
-GSFC)
+Louis LEROUX-GÉRÉ
 
-<br />**Title of the image:**  LDN 43: The Cosmic Bat Nebula
-<br />**Description for the image:**  What is the most spook-tacular nebula in the galaxy?   One contender is LDN 43, which bears an astonishing resemblance to a vast cosmic bat flying amongst the stars on a dark Halloween night.  Located about 1400 light years away in the constellation Ophiuchus, this molecular cloud is dense enough to block light not only from background stars, but from wisps of gas lit up by the nearby reflection nebula LBN 7.  Far from being a harbinger of death, this 12-light year-long filament of gas and dust is actually a stellar nursery.  Glowing with eerie light, the bat is lit up from inside by dense gaseous knots that have just formed young stars.    Your Sky Surprise: What picture did APOD feature on your birthday? (post 1995)
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2410/LDN43_SelbyHanson_3993.jpg
+<br />**Title of the image:**  STEVE: A Glowing River over France
+<br />**Description for the image:**  Sometimes a river of hot gas flows over your head. In this case the river created a Strong Thermal Emission Velocity Enhancement (STEVE) that glowed bright red, white, and pink. Details of how STEVEs work remain a topic of research, but recent evidence holds that their glow results from a fast-moving river of hot ions flowing over a hundred kilometers up in the Earth's atmosphere: the ionosphere. The more expansive dull red glow might be related to the flowing STEVE, but alternatively might be a Stable Auroral Red (SAR) arc, a more general heat-related glow. The featured picture, taken earlier this month in Côte d'Opale, France, is a wide-angle digital composite made as the STEVE arc formed nearly overhead.  Although the apparition lasted only a few minutes, this was long enough for the quick-thinking astrophotographer to get in the picture -- can you find him?
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2410/SteveFrance_leroux_2160.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -56,58 +51,59 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Oct 27 0030 UTC
+:Issued: 2024 Oct 28 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Oct 27-Oct 29 2024 is 5.00 (NOAA Scale
-G1).
+The greatest expected 3 hr Kp for Oct 28-Oct 30 2024 is 5.67 (NOAA Scale
+G2).
 
-NOAA Kp index breakdown Oct 27-Oct 29 2024
+NOAA Kp index breakdown Oct 28-Oct 30 2024
 
-             Oct 27       Oct 28       Oct 29
-00-03UT       3.67         3.67         3.33     
-03-06UT       3.67         4.67 (G1)    3.67     
-06-09UT       3.33         5.00 (G1)    3.33     
-09-12UT       3.00         4.67 (G1)    3.33     
-12-15UT       2.67         3.67         3.00     
-15-18UT       2.33         3.00         2.67     
-18-21UT       1.67         1.67         2.67     
-21-00UT       2.67         2.00         1.33     
+             Oct 28       Oct 29       Oct 30
+00-03UT       3.67         4.67 (G1)    2.67     
+03-06UT       5.67 (G2)    4.67 (G1)    2.00     
+06-09UT       5.67 (G2)    4.00         2.00     
+09-12UT       5.00 (G1)    3.33         2.00     
+12-15UT       5.00 (G1)    3.00         2.33     
+15-18UT       4.67 (G1)    2.67         2.00     
+18-21UT       4.67 (G1)    2.67         2.00     
+21-00UT       4.33         2.67         2.00     
 
-Rationale: G1 (Minor) conditions or greater are likely on 28 Oct due to
-anticipated onset of a CME that left the Sun on 26 Oct.
+Rationale: G1-G2 (Minor-Moderate) or greater geomagnetic storms are
+expected on 28 Oct due to the anticipated arrival of a CME that left the
+Sun on 26 Oct. G1 conditions are expected on 29 Oct due to waning CME
+influence.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 above S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Oct 27-Oct 29 2024
+Solar Radiation Storm Forecast for Oct 28-Oct 30 2024
 
-              Oct 27  Oct 28  Oct 29
-S1 or greater   99%     50%     50%
+              Oct 28  Oct 29  Oct 30
+S1 or greater   99%     75%     40%
 
-Rationale: S1 (Minor) or greater conditions are expected to continue
-through 27 Oct, with continued elevated favorable conditions 28-29 Oct
-as significant regions rotate closer to center disk.
+Rationale: S2 (Moderate) conditions on 28 Oct are expected to decline
+through 29-30 Oct, with a chance of S1 conditions continuing into 30
+Oct.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-Radio blackouts reaching the R3 levels were observed over the past 24
-hours. The largest was at Oct 26 2024 0719 UTC.
+Radio blackouts reaching the R1 levels were observed over the past 24
+hours. The largest was at Oct 27 2024 2324 UTC.
 
-Radio Blackout Forecast for Oct 27-Oct 29 2024
+Radio Blackout Forecast for Oct 28-Oct 30 2024
 
-              Oct 27        Oct 28        Oct 29
+              Oct 28        Oct 29        Oct 30
 R1-R2           75%           75%           75%
-R3 or greater   30%           30%           30%
+R3 or greater   25%           25%           25%
 
-Rationale: R2 (Moderate) radio blackouts are expected, with a change of
-R3 (Strong), from 27-29 Oct due to several complex regions on the
-visible disk.
+Rationale: R1-R2 (Minor-Moderate) flares are expected, with a chance of
+R3 (Strong) flares, on 28-30 Oct.
 
 ```
