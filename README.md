@@ -1,13 +1,10 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2024-10-28
-<br />**This image is owned by:**  
-Louis LEROUX-GÉRÉ
-
-<br />**Title of the image:**  STEVE: A Glowing River over France
-<br />**Description for the image:**  Sometimes a river of hot gas flows over your head. In this case the river created a Strong Thermal Emission Velocity Enhancement (STEVE) that glowed bright red, white, and pink. Details of how STEVEs work remain a topic of research, but recent evidence holds that their glow results from a fast-moving river of hot ions flowing over a hundred kilometers up in the Earth's atmosphere: the ionosphere. The more expansive dull red glow might be related to the flowing STEVE, but alternatively might be a Stable Auroral Red (SAR) arc, a more general heat-related glow. The featured picture, taken earlier this month in Côte d'Opale, France, is a wide-angle digital composite made as the STEVE arc formed nearly overhead.  Although the apparition lasted only a few minutes, this was long enough for the quick-thinking astrophotographer to get in the picture -- can you find him?
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2410/SteveFrance_leroux_2160.jpg
+<br />**Date image released:**  2024-10-29
+<br />**Title of the image:**  NGC 602: Stars Versus Pillars from Webb
+<br />**Description for the image:**  The stars are destroying the pillars. More specifically, some of the newly formed stars in the image center are emitting light so energetic that is evaporating the gas and dust in the surrounding pillars. Simultaneously, the pillars themselves are still trying to form new stars. The whole setting is the star cluster NGC 602, and this new vista was taken by the Webb Space Telescope in multiple infrared colors. In comparison, a roll-over image shows the same star cluster in visible light, taken previously by the Hubble Space Telescope. NGC 602 is located near the perimeter of the Small Magellanic Cloud (SMC), a small satellite galaxy of our Milky Way galaxy.  At the estimated distance of the SMC, the featured picture spans about 200 light-years. A tantalizing assortment of background galaxies are also visible -- mostly around the edges -- that are at least hundreds of millions of light-years beyond.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2410/NGC602_Webb_5863.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -51,59 +48,58 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Oct 28 0030 UTC
+:Issued: 2024 Oct 29 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 5 (NOAA Scale
+G1).
+The greatest expected 3 hr Kp for Oct 29-Oct 31 2024 is 4.00 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Oct 28-Oct 30 2024 is 5.67 (NOAA Scale
-G2).
 
-NOAA Kp index breakdown Oct 28-Oct 30 2024
+NOAA Kp index breakdown Oct 29-Oct 31 2024
 
-             Oct 28       Oct 29       Oct 30
-00-03UT       3.67         4.67 (G1)    2.67     
-03-06UT       5.67 (G2)    4.67 (G1)    2.00     
-06-09UT       5.67 (G2)    4.00         2.00     
-09-12UT       5.00 (G1)    3.33         2.00     
-12-15UT       5.00 (G1)    3.00         2.33     
-15-18UT       4.67 (G1)    2.67         2.00     
-18-21UT       4.67 (G1)    2.67         2.00     
-21-00UT       4.33         2.67         2.00     
+             Oct 29       Oct 30       Oct 31
+00-03UT       4.00         2.67         1.67     
+03-06UT       3.33         2.00         1.33     
+06-09UT       3.00         2.00         1.33     
+09-12UT       3.33         2.00         1.33     
+12-15UT       3.00         2.33         1.33     
+15-18UT       2.00         2.00         1.33     
+18-21UT       2.33         2.00         1.67     
+21-00UT       2.67         2.00         1.67     
 
-Rationale: G1-G2 (Minor-Moderate) or greater geomagnetic storms are
-expected on 28 Oct due to the anticipated arrival of a CME that left the
-Sun on 26 Oct. G1 conditions are expected on 29 Oct due to waning CME
-influence.
+Rationale: No G1 (Minor) or greater geomagnetic storms are expected.
+Solar wind parameters will likely remain elevated through 29 Oct due to
+waning CME and potential CH HSS influence.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 above S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Oct 28-Oct 30 2024
+Solar Radiation Storm Forecast for Oct 29-Oct 31 2024
 
-              Oct 28  Oct 29  Oct 30
+              Oct 29  Oct 30  Oct 31
 S1 or greater   99%     75%     40%
 
-Rationale: S2 (Moderate) conditions on 28 Oct are expected to decline
-through 29-30 Oct, with a chance of S1 conditions continuing into 30
-Oct.
+Rationale: S2 (Moderate) conditions on 29 Oct are expected to decline
+through 30-31 Oct, with a chance of S1 (Minor) conditions continuing
+into 31 Oct.
 
 C. NOAA Radio Blackout Activity and Forecast
 
 Radio blackouts reaching the R1 levels were observed over the past 24
-hours. The largest was at Oct 27 2024 2324 UTC.
+hours. The largest was at Oct 28 2024 1628 UTC.
 
-Radio Blackout Forecast for Oct 28-Oct 30 2024
+Radio Blackout Forecast for Oct 29-Oct 31 2024
 
-              Oct 28        Oct 29        Oct 30
+              Oct 29        Oct 30        Oct 31
 R1-R2           75%           75%           75%
-R3 or greater   25%           25%           25%
+R3 or greater   30%           30%           30%
 
 Rationale: R1-R2 (Minor-Moderate) flares are expected, with a chance of
-R3 (Strong) flares, on 28-30 Oct.
+R3 (Strong) flares, on 29-31 Oct.
 
 ```
