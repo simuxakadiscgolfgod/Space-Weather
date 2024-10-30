@@ -1,10 +1,13 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2024-10-29
-<br />**Title of the image:**  NGC 602: Stars Versus Pillars from Webb
-<br />**Description for the image:**  The stars are destroying the pillars. More specifically, some of the newly formed stars in the image center are emitting light so energetic that is evaporating the gas and dust in the surrounding pillars. Simultaneously, the pillars themselves are still trying to form new stars. The whole setting is the star cluster NGC 602, and this new vista was taken by the Webb Space Telescope in multiple infrared colors. In comparison, a roll-over image shows the same star cluster in visible light, taken previously by the Hubble Space Telescope. NGC 602 is located near the perimeter of the Small Magellanic Cloud (SMC), a small satellite galaxy of our Milky Way galaxy.  At the estimated distance of the SMC, the featured picture spans about 200 light-years. A tantalizing assortment of background galaxies are also visible -- mostly around the edges -- that are at least hundreds of millions of light-years beyond.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2410/NGC602_Webb_5863.jpg
+<br />**Date image released:**  2024-10-30
+<br />**This image is owned by:**  
+Chad Leader
+
+<br />**Title of the image:**  NGC 7635: The Bubble Nebula
+<br />**Description for the image:**  What created this huge space bubble? Blown by the wind from a star, this tantalizing, head-like apparition is cataloged as NGC 7635, but known simply as the Bubble Nebula. The featured striking view utilizes a long exposure to reveal the intricate details of this cosmic bubble and its environment. Although it looks delicate, the 10 light-year diameter bubble offers evidence of violent processes at work. Seen here above and right of the Bubble's center, a bright hot star is embedded in the nebula's reflecting dust. A fierce stellar wind and intense radiation from the star, which likely has a mass 10 to 20 times that of the Sun, has blasted out the structure of glowing gas against denser material in a surrounding molecular cloud. The intriguing Bubble Nebula lies a mere 11,000 light-years away toward the boastful constellation Cassiopeia.   Your Sky Surprise: What picture did APOD feature on your birthday? (post 1995)
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2410/BubbleRed_Leader_960.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -48,58 +51,58 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Oct 29 0030 UTC
+:Issued: 2024 Oct 30 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 5 (NOAA Scale
-G1).
-The greatest expected 3 hr Kp for Oct 29-Oct 31 2024 is 4.00 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
+Scale levels).
+The greatest expected 3 hr Kp for Oct 30-Nov 01 2024 is 3.67 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Oct 29-Oct 31 2024
+NOAA Kp index breakdown Oct 30-Nov 01 2024
 
-             Oct 29       Oct 30       Oct 31
-00-03UT       4.00         2.67         1.67     
-03-06UT       3.33         2.00         1.33     
-06-09UT       3.00         2.00         1.33     
-09-12UT       3.33         2.00         1.33     
-12-15UT       3.00         2.33         1.33     
-15-18UT       2.00         2.00         1.33     
-18-21UT       2.33         2.00         1.67     
-21-00UT       2.67         2.00         1.67     
+             Oct 30       Oct 31       Nov 01
+00-03UT       3.67         1.67         2.00     
+03-06UT       2.67         1.33         2.00     
+06-09UT       2.00         1.33         2.00     
+09-12UT       2.00         1.33         2.67     
+12-15UT       2.33         1.33         2.00     
+15-18UT       2.00         1.33         2.33     
+18-21UT       2.00         1.67         2.33     
+21-00UT       2.00         1.67         2.33     
 
-Rationale: No G1 (Minor) or greater geomagnetic storms are expected.
-Solar wind parameters will likely remain elevated through 29 Oct due to
-waning CME and potential CH HSS influence.
+Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
+significant transient or recurrent solar wind features are forecast.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 above S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Oct 29-Oct 31 2024
+Solar Radiation Storm Forecast for Oct 30-Nov 01 2024
 
-              Oct 29  Oct 30  Oct 31
+              Oct 30  Oct 31  Nov 01
 S1 or greater   99%     75%     40%
 
-Rationale: S2 (Moderate) conditions on 29 Oct are expected to decline
-through 30-31 Oct, with a chance of S1 (Minor) conditions continuing
-into 31 Oct.
+Rationale: The greater than 10 MeV proton flux is expected to continue
+its slow decline over 30 Oct, and likely drop below the S1 (Minor)
+threshold on 31 Oct.
 
 C. NOAA Radio Blackout Activity and Forecast
 
 Radio blackouts reaching the R1 levels were observed over the past 24
-hours. The largest was at Oct 28 2024 1628 UTC.
+hours. The largest was at Oct 29 2024 1633 UTC.
 
-Radio Blackout Forecast for Oct 29-Oct 31 2024
+Radio Blackout Forecast for Oct 30-Nov 01 2024
 
-              Oct 29        Oct 30        Oct 31
+              Oct 30        Oct 31        Nov 01
 R1-R2           75%           75%           75%
-R3 or greater   30%           30%           30%
+R3 or greater   25%           25%           25%
 
-Rationale: R1-R2 (Minor-Moderate) flares are expected, with a chance of
-R3 (Strong) flares, on 29-31 Oct.
+Rationale: Solar activity is expected to be moderate
+(R1-R2/Minor-Moderate), with a chance for R3 (Strong) levels, on 30 Oct
+- 01 Nov.
 
 ```
