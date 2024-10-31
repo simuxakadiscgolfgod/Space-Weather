@@ -1,13 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2024-10-30
-<br />**This image is owned by:**  
-Chad Leader
-
-<br />**Title of the image:**  NGC 7635: The Bubble Nebula
-<br />**Description for the image:**  What created this huge space bubble? Blown by the wind from a star, this tantalizing, head-like apparition is cataloged as NGC 7635, but known simply as the Bubble Nebula. The featured striking view utilizes a long exposure to reveal the intricate details of this cosmic bubble and its environment. Although it looks delicate, the 10 light-year diameter bubble offers evidence of violent processes at work. Seen here above and right of the Bubble's center, a bright hot star is embedded in the nebula's reflecting dust. A fierce stellar wind and intense radiation from the star, which likely has a mass 10 to 20 times that of the Sun, has blasted out the structure of glowing gas against denser material in a surrounding molecular cloud. The intriguing Bubble Nebula lies a mere 11,000 light-years away toward the boastful constellation Cassiopeia.   Your Sky Surprise: What picture did APOD feature on your birthday? (post 1995)
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2410/BubbleRed_Leader_960.jpg
+<br />**Date image released:**  2024-10-31
+<br />**This image is owned by:**  Simone Curzi
+<br />**Title of the image:**  Rigel and the Witch Head Nebula
+<br />**Description for the image:**  By starlight, this eerie visage shines in the dark with a crooked profile evoking its popular name, the Witch Head Nebula. In fact, this entrancing telescopic portrait gives the impression that a witch has fixed her gaze on Orion's bright supergiant star Rigel. More formally known as IC 2118, the Witch Head Nebula spans about 50 light-years and is composed of interstellar dust grains reflecting Rigel's starlight. The color of the Witch Head Nebula is caused not only by Rigel's intense blue light, but because the dust grains scatter blue light more efficiently than red. The same physical process causes Earth's daytime sky to appear blue, although the scatterers in Earth's atmosphere are molecules of nitrogen and oxygen. Rigel and this dusty cosmic crone are about 800 light-years away. You may still see a few witches in your neighborhood tonight though, so have a safe and Happy Halloween!
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2410/Strega_apod_3.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -51,27 +49,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Oct 30 0030 UTC
+:Issued: 2024 Oct 31 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Oct 30-Nov 01 2024 is 3.67 (below NOAA
+The greatest expected 3 hr Kp for Oct 31-Nov 02 2024 is 3.33 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Oct 30-Nov 01 2024
+NOAA Kp index breakdown Oct 31-Nov 02 2024
 
-             Oct 30       Oct 31       Nov 01
-00-03UT       3.67         1.67         2.00     
-03-06UT       2.67         1.33         2.00     
-06-09UT       2.00         1.33         2.00     
-09-12UT       2.00         1.33         2.67     
-12-15UT       2.33         1.33         2.00     
-15-18UT       2.00         1.33         2.33     
-18-21UT       2.00         1.67         2.33     
-21-00UT       2.00         1.67         2.33     
+             Oct 31       Nov 01       Nov 02
+00-03UT       1.67         2.00         3.33     
+03-06UT       1.33         2.00         2.33     
+06-09UT       1.33         2.00         1.67     
+09-12UT       1.33         2.33         1.67     
+12-15UT       1.33         2.00         1.67     
+15-18UT       1.33         2.33         2.33     
+18-21UT       1.67         2.33         1.67     
+21-00UT       1.67         2.67         2.00     
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
 significant transient or recurrent solar wind features are forecast.
@@ -81,28 +79,28 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 above S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Oct 30-Nov 01 2024
+Solar Radiation Storm Forecast for Oct 31-Nov 02 2024
 
-              Oct 30  Oct 31  Nov 01
+              Oct 31  Nov 01  Nov 02
 S1 or greater   99%     75%     40%
 
 Rationale: The greater than 10 MeV proton flux is expected to continue
-its slow decline over 30 Oct, and likely drop below the S1 (Minor)
-threshold on 31 Oct.
+its slow decline and likely drop below the S1 (Minor) threshold on 31
+Oct.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-Radio blackouts reaching the R1 levels were observed over the past 24
-hours. The largest was at Oct 29 2024 1633 UTC.
+Radio blackouts reaching the R2 levels were observed over the past 24
+hours. The largest was at Oct 30 2024 2053 UTC.
 
-Radio Blackout Forecast for Oct 30-Nov 01 2024
+Radio Blackout Forecast for Oct 31-Nov 02 2024
 
-              Oct 30        Oct 31        Nov 01
+              Oct 31        Nov 01        Nov 02
 R1-R2           75%           75%           75%
 R3 or greater   25%           25%           25%
 
 Rationale: Solar activity is expected to be moderate
-(R1-R2/Minor-Moderate), with a chance for R3 (Strong) levels, on 30 Oct
-- 01 Nov.
+(R1-R2/Minor-Moderate), with a chance for R3 (Strong) levels, on 31 Oct
+- 02 Nov.
 
 ```
