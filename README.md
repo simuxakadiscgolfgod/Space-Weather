@@ -1,11 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2024-10-31
-<br />**This image is owned by:**  Simone Curzi
-<br />**Title of the image:**  Rigel and the Witch Head Nebula
-<br />**Description for the image:**  By starlight, this eerie visage shines in the dark with a crooked profile evoking its popular name, the Witch Head Nebula. In fact, this entrancing telescopic portrait gives the impression that a witch has fixed her gaze on Orion's bright supergiant star Rigel. More formally known as IC 2118, the Witch Head Nebula spans about 50 light-years and is composed of interstellar dust grains reflecting Rigel's starlight. The color of the Witch Head Nebula is caused not only by Rigel's intense blue light, but because the dust grains scatter blue light more efficiently than red. The same physical process causes Earth's daytime sky to appear blue, although the scatterers in Earth's atmosphere are molecules of nitrogen and oxygen. Rigel and this dusty cosmic crone are about 800 light-years away. You may still see a few witches in your neighborhood tonight though, so have a safe and Happy Halloween!
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2410/Strega_apod_3.jpg
+<br />**Date image released:**  2024-11-01
+<br />**This image is owned by:**  John Hayes
+<br />**Title of the image:**  Spiral Galaxy NGC 6744
+<br />**Description for the image:**  Big, beautiful spiral galaxy NGC 6744 is nearly 175,000 light-years across, larger than our own Milky Way. It lies some 30 million light-years distant in the southern constellation Pavo but appears as only a faint smudge in the eyepiece of a small telescope. We see the disk of the nearby island universe tilted towards our line of sight in this remarkably deep and detailed galaxy portrait, a telescopic image that spans an area about the angular size of a full moon. In it, the giant galaxy's elongated yellowish core is dominated by the light from old, cool stars. Beyond the core, grand spiral arms are filled with young blue star clusters and speckled with pinkish star forming regions. An extended arm sweeps past smaller satellite galaxy NGC 6744A at the upper left. NGC 6744's galactic companion is reminiscent of the Milky Way's satellite galaxy the Large Magellanic Cloud.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2411/NGC6744_V2_8_sm.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,27 +49,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Oct 31 0030 UTC
+:Issued: 2024 Nov 01 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Oct 31-Nov 02 2024 is 3.33 (below NOAA
+The greatest expected 3 hr Kp for Nov 01-Nov 03 2024 is 3.67 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Oct 31-Nov 02 2024
+NOAA Kp index breakdown Nov 01-Nov 03 2024
 
-             Oct 31       Nov 01       Nov 02
-00-03UT       1.67         2.00         3.33     
-03-06UT       1.33         2.00         2.33     
-06-09UT       1.33         2.00         1.67     
-09-12UT       1.33         2.33         1.67     
-12-15UT       1.33         2.00         1.67     
-15-18UT       1.33         2.33         2.33     
-18-21UT       1.67         2.33         1.67     
-21-00UT       1.67         2.67         2.00     
+             Nov 01       Nov 02       Nov 03
+00-03UT       3.00         2.33         2.67     
+03-06UT       3.67         1.33         3.00     
+06-09UT       2.00         1.00         2.67     
+09-12UT       1.67         1.00         2.67     
+12-15UT       1.33         2.33         2.33     
+15-18UT       1.33         2.33         2.67     
+18-21UT       1.67         2.67         3.67     
+21-00UT       1.67         2.67         3.67     
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
 significant transient or recurrent solar wind features are forecast.
@@ -79,28 +79,28 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 above S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Oct 31-Nov 02 2024
+Solar Radiation Storm Forecast for Nov 01-Nov 03 2024
 
-              Oct 31  Nov 01  Nov 02
-S1 or greater   99%     75%     40%
+              Nov 01  Nov 02  Nov 03
+S1 or greater   90%     40%     20%
 
 Rationale: The greater than 10 MeV proton flux is expected to continue
-its slow decline and likely drop below the S1 (Minor) threshold on 31
-Oct.
+at S1 (Minor) levels into early 01 Nov. The greater than 10 MeV proton
+flux is expected to be elevated above background levels over 02-03 Nov,
+but remain below event threshold.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-Radio blackouts reaching the R2 levels were observed over the past 24
-hours. The largest was at Oct 30 2024 2053 UTC.
+Radio blackouts reaching the R3 levels were observed over the past 24
+hours. The largest was at Oct 31 2024 2120 UTC.
 
-Radio Blackout Forecast for Oct 31-Nov 02 2024
+Radio Blackout Forecast for Nov 01-Nov 03 2024
 
-              Oct 31        Nov 01        Nov 02
+              Nov 01        Nov 02        Nov 03
 R1-R2           75%           75%           75%
 R3 or greater   25%           25%           25%
 
-Rationale: Solar activity is expected to be moderate
-(R1-R2/Minor-Moderate), with a chance for R3 (Strong) levels, on 31 Oct
-- 02 Nov.
+Rationale: M-class flares are expected, with a chance for X-class
+flares, through 03 Nov.
 
 ```
