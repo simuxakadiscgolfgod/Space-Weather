@@ -1,11 +1,10 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2024-11-01
-<br />**This image is owned by:**  John Hayes
-<br />**Title of the image:**  Spiral Galaxy NGC 6744
-<br />**Description for the image:**  Big, beautiful spiral galaxy NGC 6744 is nearly 175,000 light-years across, larger than our own Milky Way. It lies some 30 million light-years distant in the southern constellation Pavo but appears as only a faint smudge in the eyepiece of a small telescope. We see the disk of the nearby island universe tilted towards our line of sight in this remarkably deep and detailed galaxy portrait, a telescopic image that spans an area about the angular size of a full moon. In it, the giant galaxy's elongated yellowish core is dominated by the light from old, cool stars. Beyond the core, grand spiral arms are filled with young blue star clusters and speckled with pinkish star forming regions. An extended arm sweeps past smaller satellite galaxy NGC 6744A at the upper left. NGC 6744's galactic companion is reminiscent of the Milky Way's satellite galaxy the Large Magellanic Cloud.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2411/NGC6744_V2_8_sm.jpg
+<br />**Date image released:**  2024-11-02
+<br />**Title of the image:**  Saturn at Night
+<br />**Description for the image:**  Saturn is bright in Earth's night skies. Telescopic views of the outer gas giant planet and its beautiful rings often make it a star at star parties. But this stunning view of Saturn's rings and night side just isn't possible from telescopes in the vicinity of planet Earth. Peering out from the inner Solar System they can only bring Saturn's day side into view. In fact, this image of Saturn's slender sunlit crescent with night's shadow cast across its broad and complex ring system was captured by the Cassini spacecraft. A robot spacecraft from planet Earth, Cassini called Saturn orbit home for 13 years before it was directed to dive into the atmosphere of the gas giant on September 15, 2017. This magnificent mosaic is composed of frames recorded by Cassini's wide-angle camera only two days before its grand final plunge. Saturn's night will not be seen again until another spaceship from Earth calls.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2411/LastRingPortrait_Cassini_4472.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,27 +48,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Nov 01 0030 UTC
+:Issued: 2024 Nov 02 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Nov 01-Nov 03 2024 is 3.67 (below NOAA
+The greatest expected 3 hr Kp for Nov 02-Nov 04 2024 is 3.67 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Nov 01-Nov 03 2024
+NOAA Kp index breakdown Nov 02-Nov 04 2024
 
-             Nov 01       Nov 02       Nov 03
-00-03UT       3.00         2.33         2.67     
-03-06UT       3.67         1.33         3.00     
-06-09UT       2.00         1.00         2.67     
-09-12UT       1.67         1.00         2.67     
-12-15UT       1.33         2.33         2.33     
-15-18UT       1.33         2.33         2.67     
-18-21UT       1.67         2.67         3.67     
-21-00UT       1.67         2.67         3.67     
+             Nov 02       Nov 03       Nov 04
+00-03UT       2.33         2.67         3.67     
+03-06UT       1.33         3.00         2.67     
+06-09UT       1.00         2.67         2.67     
+09-12UT       1.00         2.67         2.00     
+12-15UT       2.33         2.33         1.67     
+15-18UT       2.33         2.67         1.67     
+18-21UT       2.67         3.67         1.67     
+21-00UT       2.67         3.67         2.67     
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
 significant transient or recurrent solar wind features are forecast.
@@ -79,28 +78,26 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 above S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Nov 01-Nov 03 2024
+Solar Radiation Storm Forecast for Nov 02-Nov 04 2024
 
-              Nov 01  Nov 02  Nov 03
-S1 or greater   90%     40%     20%
+              Nov 02  Nov 03  Nov 04
+S1 or greater   50%     30%     30%
 
-Rationale: The greater than 10 MeV proton flux is expected to continue
-at S1 (Minor) levels into early 01 Nov. The greater than 10 MeV proton
-flux is expected to be elevated above background levels over 02-03 Nov,
-but remain below event threshold.
+Rationale: There is a chance for the greater than 10 MeV proton flux to
+remain elevated but below threshold over 02-04 Nov.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-Radio blackouts reaching the R3 levels were observed over the past 24
-hours. The largest was at Oct 31 2024 2120 UTC.
+Radio blackouts reaching the R1 levels were observed over the past 24
+hours. The largest was at Nov 01 2024 1431 UTC.
 
-Radio Blackout Forecast for Nov 01-Nov 03 2024
+Radio Blackout Forecast for Nov 02-Nov 04 2024
 
-              Nov 01        Nov 02        Nov 03
+              Nov 02        Nov 03        Nov 04
 R1-R2           75%           75%           75%
-R3 or greater   25%           25%           25%
+R3 or greater   35%           35%           35%
 
-Rationale: M-class flares are expected, with a chance for X-class
-flares, through 03 Nov.
+Rationale: M-class flares (R1-minor) are expected, with a chance for
+X-class (R3-strong), through 04 Nov.
 
 ```
