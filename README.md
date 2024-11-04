@@ -1,10 +1,13 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2024-11-03
-<br />**Title of the image:**  Jupiter Abyss
-<br />**Description for the image:**  What's that black spot on Jupiter? No one is sure.  During one pass of NASA's Juno over  Jupiter, the robotic spacecraft imaged an usually dark cloud feature informally dubbed the Abyss. Surrounding cloud patterns show the Abyss to be at the center of a vortex. Since dark features on Jupiter's atmosphere tend to run deeper than light features, the Abyss may really be the deep hole that it appears -- but without more evidence that remains conjecture.  The Abyss is surrounded by a complex of meandering clouds and other swirling storm systems, some of which are topped by light colored, high-altitude clouds.  The featured image was captured in 2019 while Juno passed only about 15,000 kilometers above Jupiter's cloud tops.  The next close pass of Juno near Jupiter will be in about three weeks.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2411/JupiterAbyss_JunoEichstadt_1080.jpg
+<br />**Date image released:**  2024-11-04
+<br />**This image is owned by:**  
+Fényes Lóránd
+
+<br />**Title of the image:**  M42: The Great Nebula in Orion
+<br />**Description for the image:**  The Great Nebula in Orion, an immense, nearby starbirth region, is probably the most famous of all astronomical nebulas.  Here, glowing gas surrounds hot young stars at the edge of an immense interstellar molecular cloud only 1500 light-years away.  In the featured deep image in assigned colors highlighted by emission in oxygen and hydrogen, wisps and sheets of dust and gas are particularly evident.  The Great Nebula in Orion can be found with the unaided eye near the easily identifiable belt of three stars in the popular constellation Orion.  In addition to housing a bright open cluster of stars known as the Trapezium, the Orion Nebula contains many stellar nurseries.   These nurseries contain much hydrogen gas, hot young stars, proplyds, and stellar jets spewing material at high speeds.  Also known as M42, the Orion Nebula spans about 40 light years and is located in the same spiral arm of our Galaxy as the Sun.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2411/Orion_Lorand_1992.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -48,27 +51,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Nov 03 0030 UTC
+:Issued: 2024 Nov 04 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Nov 03-Nov 05 2024 is 3.67 (below NOAA
+The greatest expected 3 hr Kp for Nov 04-Nov 06 2024 is 3.67 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Nov 03-Nov 05 2024
+NOAA Kp index breakdown Nov 04-Nov 06 2024
 
-             Nov 03       Nov 04       Nov 05
-00-03UT       2.67         3.67         1.67     
-03-06UT       3.00         2.67         2.00     
-06-09UT       2.67         2.67         1.67     
-09-12UT       2.67         2.00         1.67     
-12-15UT       2.33         1.67         1.33     
-15-18UT       2.67         1.67         1.00     
-18-21UT       3.67         1.67         1.00     
-21-00UT       3.67         2.67         1.33     
+             Nov 04       Nov 05       Nov 06
+00-03UT       3.00         2.67         1.33     
+03-06UT       3.00         2.67         1.33     
+06-09UT       3.67         2.67         1.33     
+09-12UT       2.67         2.00         1.33     
+12-15UT       2.00         1.67         1.33     
+15-18UT       1.67         1.00         1.67     
+18-21UT       2.00         1.67         1.67     
+21-00UT       2.00         1.67         1.67     
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
 significant transient or recurrent solar wind features are forecast.
@@ -78,28 +81,29 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Nov 03-Nov 05 2024
+Solar Radiation Storm Forecast for Nov 04-Nov 06 2024
 
-              Nov 03  Nov 04  Nov 05
-S1 or greater   30%     30%      5%
+              Nov 04  Nov 05  Nov 06
+S1 or greater   20%     10%      5%
 
-Rationale: There is a chance for the greater than 10 MeV proton flux to
-remain elevated but below the threshold over 03-04 Nov.
+Rationale: There is a slight chance for the greater than 10 MeV proton
+flux to remain elevated but below the threshold over 04-05 Nov.
 
 C. NOAA Radio Blackout Activity and Forecast
 
 Radio blackouts reaching the R1 levels were observed over the past 24
-hours. The largest was at Nov 02 2024 0831 UTC.
+hours. The largest was at Nov 03 2024 1524 UTC.
 
-Radio Blackout Forecast for Nov 03-Nov 05 2024
+Radio Blackout Forecast for Nov 04-Nov 06 2024
 
-              Nov 03        Nov 04        Nov 05
-R1-R2           75%           75%           50%
-R3 or greater   35%           35%           10%
+              Nov 04        Nov 05        Nov 06
+R1-R2           75%           65%           50%
+R3 or greater   30%           20%           10%
 
 Rationale: M-class (R1-minor) are expected, with a chance for X-class
-(R3-strong), through 04 Nov. On 05 Nov, there is a chance for M-class
-(R1-minor) activity and a slight chance for X-class (R3-strong)
-activity.
+(R3-strong), on 04 Nov. On 05 Nov, M-class (R1-minor) activity is likely
+and a slight chance for X-class (R3-strong) activity. On 06 Nov, there
+is a chance for M-class (R1-minor) activity and a slight chance for
+X-class (R3-strong) activity.
 
 ```
