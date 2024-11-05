@@ -1,13 +1,13 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2024-11-04
+<br />**Date image released:**  2024-11-05
 <br />**This image is owned by:**  
-Fényes Lóránd
+Josh Dury
 
-<br />**Title of the image:**  M42: The Great Nebula in Orion
-<br />**Description for the image:**  The Great Nebula in Orion, an immense, nearby starbirth region, is probably the most famous of all astronomical nebulas.  Here, glowing gas surrounds hot young stars at the edge of an immense interstellar molecular cloud only 1500 light-years away.  In the featured deep image in assigned colors highlighted by emission in oxygen and hydrogen, wisps and sheets of dust and gas are particularly evident.  The Great Nebula in Orion can be found with the unaided eye near the easily identifiable belt of three stars in the popular constellation Orion.  In addition to housing a bright open cluster of stars known as the Trapezium, the Orion Nebula contains many stellar nurseries.   These nurseries contain much hydrogen gas, hot young stars, proplyds, and stellar jets spewing material at high speeds.  Also known as M42, the Orion Nebula spans about 40 light years and is located in the same spiral arm of our Galaxy as the Sun.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2411/Orion_Lorand_1992.jpg
+<br />**Title of the image:**  Milky Way over Easter Island
+<br />**Description for the image:**  Why were the statues on Easter Island built?  No one is sure.  What is sure is that over 900 large stone statues called moais exist there.  The Rapa Nui (Easter Island) moais stand, on average, over twice as tall as a person and have over 200 times as much mass.  It is thought that the unusual statues were created about 600 years ago in the images of local leaders of a vibrant and ancient civilization.  Rapa Nui has been declared by UNESCO to a World Heritage Site. Pictured here, some of the stone giants were imaged last month under the central band of our Milky Way galaxy.  Previously unknown moais are still being discovered.    Alternative Multi-APOD Front Page: MyUniverseHub.com
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2411/IslandMoai_Dury_2831.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -51,59 +51,57 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Nov 04 0030 UTC
+:Issued: 2024 Nov 05 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Nov 04-Nov 06 2024 is 3.67 (below NOAA
-Scale levels).
+The greatest expected 3 hr Kp for Nov 05-Nov 07 2024 is 5.00 (NOAA Scale
+G1).
 
-NOAA Kp index breakdown Nov 04-Nov 06 2024
+NOAA Kp index breakdown Nov 05-Nov 07 2024
 
-             Nov 04       Nov 05       Nov 06
-00-03UT       3.00         2.67         1.33     
-03-06UT       3.00         2.67         1.33     
-06-09UT       3.67         2.67         1.33     
-09-12UT       2.67         2.00         1.33     
-12-15UT       2.00         1.67         1.33     
-15-18UT       1.67         1.00         1.67     
-18-21UT       2.00         1.67         1.67     
-21-00UT       2.00         1.67         1.67     
+             Nov 05       Nov 06       Nov 07
+00-03UT       3.33         2.67         5.00 (G1)
+03-06UT       3.67         2.33         4.33     
+06-09UT       4.00         2.67         4.00     
+09-12UT       4.33         3.00         3.33     
+12-15UT       3.33         4.00         4.33     
+15-18UT       2.67         2.67         2.67     
+18-21UT       2.33         4.33         2.00     
+21-00UT       2.33         4.00         3.33     
 
-Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
-significant transient or recurrent solar wind features are forecast.
+Rationale: No G1 (Minor) or greater geomagnetic storms are expected on
+05-06 Nov. G1 (Minor) or greater geomagnetic storms are likely on 07 Nov
+due to possible CME effects.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Nov 04-Nov 06 2024
+Solar Radiation Storm Forecast for Nov 05-Nov 07 2024
 
-              Nov 04  Nov 05  Nov 06
-S1 or greater   20%     10%      5%
+              Nov 05  Nov 06  Nov 07
+S1 or greater   10%     10%     10%
 
 Rationale: There is a slight chance for the greater than 10 MeV proton
-flux to remain elevated but below the threshold over 04-05 Nov.
+flux to remain elevated but below the threshold over 05-07 Nov.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-Radio blackouts reaching the R1 levels were observed over the past 24
-hours. The largest was at Nov 03 2024 1524 UTC.
+Radio blackouts reaching the R2 levels were observed over the past 24
+hours. The largest was at Nov 04 2024 1538 UTC.
 
-Radio Blackout Forecast for Nov 04-Nov 06 2024
+Radio Blackout Forecast for Nov 05-Nov 07 2024
 
-              Nov 04        Nov 05        Nov 06
-R1-R2           75%           65%           50%
-R3 or greater   30%           20%           10%
+              Nov 05        Nov 06        Nov 07
+R1-R2           75%           75%           75%
+R3 or greater   25%           25%           25%
 
-Rationale: M-class (R1-minor) are expected, with a chance for X-class
-(R3-strong), on 04 Nov. On 05 Nov, M-class (R1-minor) activity is likely
-and a slight chance for X-class (R3-strong) activity. On 06 Nov, there
-is a chance for M-class (R1-minor) activity and a slight chance for
-X-class (R3-strong) activity.
+Rationale: M-class (R1-minor) are expected through 07 Nov. There is a
+chance for X-class (R3-strong) through 07 Nov.
 
 ```
