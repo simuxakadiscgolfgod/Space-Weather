@@ -1,13 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2024-11-06
-<br />**This image is owned by:**  
-Alessandra Masi
-
-<br />**Title of the image:**  Comet Tsuchinshan-Atlas over the Dolomites
-<br />**Description for the image:**  Comet Tsuchinshan-Atlas is now headed back to the outer Solar System.  The massive dusty snowball put on quite a show during its trip near the Sun, resulting in many impressive pictures from planet Earth during October.  The featured image was taken in mid-October and shows a defining visual feature of the comet -- its impressive anti-tail. The image captures Comet C/2023 A3 (Tsuchinshan–ATLAS) with impressively long dust and ion tails pointing up and away from the Sun, while the strong anti-tail -- composed of more massive dust particles -- trails the comet and points down and (nearly) toward the recently-set Sun. In the foreground is village of Tai di Cadore, Italy, with the tremendous Dolomite Mountains in the background.  Another comet, C/2024 S1 (ATLAS), once a candidate to rival Comet Tsuchinshan-Atlas in brightness, broke up last week during its close approach to our Sun.    Growing Gallery: Comet Tsuchinshan-ATLAS in 2024
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2411/CometA3Dolomites_Masi_960.jpg
+<br />**Date image released:**  2024-11-07
+<br />**This image is owned by:**  George Williams
+<br />**Title of the image:**  Shell Galaxies in Pisces
+<br />**Description for the image:**  This spectacular intergalactic skyscape features Arp 227, a curious system of galaxies from the 1966 Atlas of Peculiar Galaxies. Some 100 million light-years distant within the boundaries of the constellation Pisces, Arp 227 consists of the two galaxies prominent above and left of center, the shell galaxy NGC 474 and its blue, spiral-armed neighbor NGC 470. The readily apparent shells and star streams of NGC 474 are likely tidal features originating from the accretion of another smaller galaxy during close gravitational encounters that began over a billion years ago. The large galaxy on the bottom righthand side of the deep image, NGC 467, appears to be surrounded by faint shells and streams too, evidence of another merging galaxy system. Intriguing background galaxies are scattered around the field that also includes spiky foreground stars. Of course, those stars lie well within our own Milky Way Galaxy. The telescopic field of view spans 25 arc minutes or just under 1/2 degree on the sky.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2411/NGC474_S1_Crop.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -51,27 +49,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Nov 06 0030 UTC
+:Issued: 2024 Nov 07 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Nov 06-Nov 08 2024 is 5.00 (NOAA Scale
+The greatest expected 3 hr Kp for Nov 07-Nov 09 2024 is 5.00 (NOAA Scale
 G1).
 
-NOAA Kp index breakdown Nov 06-Nov 08 2024
+NOAA Kp index breakdown Nov 07-Nov 09 2024
 
-             Nov 06       Nov 07       Nov 08
-00-03UT       2.67         5.00 (G1)    2.00     
-03-06UT       2.33         4.33         2.00     
-06-09UT       2.00         4.00         2.00     
-09-12UT       2.00         3.33         3.33     
-12-15UT       1.67         4.33         3.00     
-15-18UT       2.00         2.67         3.00     
-18-21UT       2.00         2.00         3.00     
-21-00UT       2.67         3.33         3.00     
+             Nov 07       Nov 08       Nov 09
+00-03UT       5.00 (G1)    4.00         3.67     
+03-06UT       4.33         2.67         3.00     
+06-09UT       4.00         3.33         3.00     
+09-12UT       3.33         3.67         3.00     
+12-15UT       4.33         3.00         3.33     
+15-18UT       2.67         3.33         3.33     
+18-21UT       3.00         2.00         3.67     
+21-00UT       3.67         2.33         4.33     
 
 Rationale: G1 (Minor) or greater geomagnetic storms are likely on 07 Nov
 due to possible CME effects.
@@ -81,28 +79,28 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Nov 06-Nov 08 2024
+Solar Radiation Storm Forecast for Nov 07-Nov 09 2024
 
-              Nov 06  Nov 07  Nov 08
+              Nov 07  Nov 08  Nov 09
 S1 or greater   10%     10%     10%
 
 Rationale: There is a slight chance for an S1 (Minor) solar radiation
-storm on 06-08 Nov.
+storm on 07-09 Nov.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-Radio blackouts reaching the R1 levels were observed over the past 24
-hours. The largest was at Nov 05 2024 1526 UTC.
+Radio blackouts reaching the R3 levels were observed over the past 24
+hours. The largest was at Nov 06 2024 1340 UTC.
 
-Radio Blackout Forecast for Nov 06-Nov 08 2024
+Radio Blackout Forecast for Nov 07-Nov 09 2024
 
-              Nov 06        Nov 07        Nov 08
+              Nov 07        Nov 08        Nov 09
 R1-R2           80%           80%           80%
 R3 or greater   35%           35%           35%
 
 Rationale: Solar activity is expected to be moderate with continued
 M-Class (R1-R2/Minor-Moderate) flaring and a chance for X-Class
-(R3-Strong) levels 06-08 Nov. Solar flare probabilities are being driven
+(R3-Strong) levels 07-09 Nov. Solar flare probabilities are being driven
 by Regions 3883 and 3886 due to their magnetic complexities.
 
 ```
