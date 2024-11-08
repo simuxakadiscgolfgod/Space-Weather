@@ -1,11 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2024-11-07
-<br />**This image is owned by:**  George Williams
-<br />**Title of the image:**  Shell Galaxies in Pisces
-<br />**Description for the image:**  This spectacular intergalactic skyscape features Arp 227, a curious system of galaxies from the 1966 Atlas of Peculiar Galaxies. Some 100 million light-years distant within the boundaries of the constellation Pisces, Arp 227 consists of the two galaxies prominent above and left of center, the shell galaxy NGC 474 and its blue, spiral-armed neighbor NGC 470. The readily apparent shells and star streams of NGC 474 are likely tidal features originating from the accretion of another smaller galaxy during close gravitational encounters that began over a billion years ago. The large galaxy on the bottom righthand side of the deep image, NGC 467, appears to be surrounded by faint shells and streams too, evidence of another merging galaxy system. Intriguing background galaxies are scattered around the field that also includes spiky foreground stars. Of course, those stars lie well within our own Milky Way Galaxy. The telescopic field of view spans 25 arc minutes or just under 1/2 degree on the sky.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2411/NGC474_S1_Crop.jpg
+<br />**Date image released:**  2024-11-08
+<br />**This image is owned by:**  Francesco Radici
+<br />**Title of the image:**  Helping Hand in Cassiopeia
+<br />**Description for the image:**  Drifting near the plane of our Milky Way galaxy these dusty molecular clouds seem to extend a helping hand on a cosmic scale. Part of a local complex of star-forming interstellar clouds they include LDN 1358, 1357, and 1355 from American astronomer Beverly Lynds' 1962 Catalog of Dark Nebulae. Presenting a challenging target for astro-imagers, the obscuring dark nebulae are nearly 3,000 light-years away, toward rich starfields in the northern constellation Cassiopeia. At that distance, this deep, telescopic field of view would span about 80 light-years.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2411/Ldn1355HelpingHandFR2048.png
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,58 +49,59 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Nov 07 0030 UTC
+:Issued: 2024 Nov 08 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Nov 07-Nov 09 2024 is 5.00 (NOAA Scale
-G1).
+The greatest expected 3 hr Kp for Nov 08-Nov 10 2024 is 4.33 (below NOAA
+Scale levels).
 
-NOAA Kp index breakdown Nov 07-Nov 09 2024
+NOAA Kp index breakdown Nov 08-Nov 10 2024
 
-             Nov 07       Nov 08       Nov 09
-00-03UT       5.00 (G1)    4.00         3.67     
-03-06UT       4.33         2.67         3.00     
-06-09UT       4.00         3.33         3.00     
-09-12UT       3.33         3.67         3.00     
-12-15UT       4.33         3.00         3.33     
-15-18UT       2.67         3.33         3.33     
-18-21UT       3.00         2.00         3.67     
-21-00UT       3.67         2.33         4.33     
+             Nov 08       Nov 09       Nov 10
+00-03UT       3.33         3.67         4.00     
+03-06UT       3.67         3.00         4.00     
+06-09UT       3.00         3.00         4.00     
+09-12UT       2.33         3.00         3.67     
+12-15UT       2.33         3.33         3.67     
+15-18UT       2.33         3.33         2.00     
+18-21UT       2.33         3.67         1.67     
+21-00UT       2.33         4.33         2.33     
 
-Rationale: G1 (Minor) or greater geomagnetic storms are likely on 07 Nov
-due to possible CME effects.
+Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
+significant transient or recurrent solar wind features are forecast.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Nov 07-Nov 09 2024
+Solar Radiation Storm Forecast for Nov 08-Nov 10 2024
 
-              Nov 07  Nov 08  Nov 09
+              Nov 08  Nov 09  Nov 10
 S1 or greater   10%     10%     10%
 
 Rationale: There is a slight chance for an S1 (Minor) solar radiation
-storm on 07-09 Nov.
+storm on 08-10 Nov.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-Radio blackouts reaching the R3 levels were observed over the past 24
-hours. The largest was at Nov 06 2024 1340 UTC.
+Radio blackouts reaching the R1 levels were observed over the past 24
+hours. The largest was at Nov 07 2024 0754 UTC.
 
-Radio Blackout Forecast for Nov 07-Nov 09 2024
+Radio Blackout Forecast for Nov 08-Nov 10 2024
 
-              Nov 07        Nov 08        Nov 09
-R1-R2           80%           80%           80%
+              Nov 08        Nov 09        Nov 10
+R1-R2           85%           85%           80%
 R3 or greater   35%           35%           35%
 
 Rationale: Solar activity is expected to be moderate with continued
 M-Class (R1-R2/Minor-Moderate) flaring and a chance for X-Class
-(R3-Strong) levels 07-09 Nov. Solar flare probabilities are being driven
-by Regions 3883 and 3886 due to their magnetic complexities.
+(R3-Strong) levels 08-10 Nov. Solar flare probabilities are being driven
+by Regions 3883, 3886, and 3889 due to their history and magnetic
+complexities.
 
 ```
