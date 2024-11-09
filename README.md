@@ -1,11 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2024-11-08
-<br />**This image is owned by:**  Francesco Radici
-<br />**Title of the image:**  Helping Hand in Cassiopeia
-<br />**Description for the image:**  Drifting near the plane of our Milky Way galaxy these dusty molecular clouds seem to extend a helping hand on a cosmic scale. Part of a local complex of star-forming interstellar clouds they include LDN 1358, 1357, and 1355 from American astronomer Beverly Lynds' 1962 Catalog of Dark Nebulae. Presenting a challenging target for astro-imagers, the obscuring dark nebulae are nearly 3,000 light-years away, toward rich starfields in the northern constellation Cassiopeia. At that distance, this deep, telescopic field of view would span about 80 light-years.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2411/Ldn1355HelpingHandFR2048.png
+<br />**Date image released:**  2024-11-09
+<br />**This image is owned by:**  Voyager
+<br />**Title of the image:**  Neptune at Night
+<br />**Description for the image:**  Ice giant Neptune is faint in Earth's night sky. Some 30 times farther from the Sun than our fair planet, telescopes are needed to catch a glimpse of the dim and distant world. This dramatic view of Neptune's night just isn't possible for telescopes in the vicinity of planet Earth though. Peering out from the inner Solar System they can only bring Neptune's day side into view.  In fact this night side image with Neptune's slender crescent next to the crescent of its large moon Triton was captured by Voyager 2. Launched from planet Earth in 1977 the Voyager 2 spacecraft made a close fly by of the Solar System's outermost planet in 1989, looking back on Neptune as the robotic spacecraft continued its voyage to interstellar space.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2411/neptunetriton_voyager_960.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,59 +49,57 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Nov 08 0030 UTC
+:Issued: 2024 Nov 09 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Nov 08-Nov 10 2024 is 4.33 (below NOAA
+The greatest expected 3 hr Kp for Nov 09-Nov 11 2024 is 4.33 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Nov 08-Nov 10 2024
+NOAA Kp index breakdown Nov 09-Nov 11 2024
 
-             Nov 08       Nov 09       Nov 10
-00-03UT       3.33         3.67         4.00     
-03-06UT       3.67         3.00         4.00     
-06-09UT       3.00         3.00         4.00     
-09-12UT       2.33         3.00         3.67     
-12-15UT       2.33         3.33         3.67     
-15-18UT       2.33         3.33         2.00     
-18-21UT       2.33         3.67         1.67     
-21-00UT       2.33         4.33         2.33     
+             Nov 09       Nov 10       Nov 11
+00-03UT       3.33         3.67         2.67     
+03-06UT       2.67         4.00         3.00     
+06-09UT       3.00         4.33         2.67     
+09-12UT       3.67         4.00         2.33     
+12-15UT       2.00         3.00         2.33     
+15-18UT       2.00         2.67         2.00     
+18-21UT       2.00         2.33         2.67     
+21-00UT       3.33         2.67         3.67     
 
-Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
-significant transient or recurrent solar wind features are forecast.
+Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Nov 08-Nov 10 2024
+Solar Radiation Storm Forecast for Nov 09-Nov 11 2024
 
-              Nov 08  Nov 09  Nov 10
-S1 or greater   10%     10%     10%
+              Nov 09  Nov 10  Nov 11
+S1 or greater   15%     15%     15%
 
-Rationale: There is a slight chance for an S1 (Minor) solar radiation
-storm on 08-10 Nov.
+Rationale: There exists a slight chance for S1 (Minor) solar radiation
+storms over 09-11 Nov due to potential from multiple complex regions on
+the visible disk.
 
 C. NOAA Radio Blackout Activity and Forecast
 
 Radio blackouts reaching the R1 levels were observed over the past 24
-hours. The largest was at Nov 07 2024 0754 UTC.
+hours. The largest was at Nov 08 2024 0301 UTC.
 
-Radio Blackout Forecast for Nov 08-Nov 10 2024
+Radio Blackout Forecast for Nov 09-Nov 11 2024
 
-              Nov 08        Nov 09        Nov 10
-R1-R2           85%           85%           80%
+              Nov 09        Nov 10        Nov 11
+R1-R2           85%           85%           85%
 R3 or greater   35%           35%           35%
 
-Rationale: Solar activity is expected to be moderate with continued
-M-Class (R1-R2/Minor-Moderate) flaring and a chance for X-Class
-(R3-Strong) levels 08-10 Nov. Solar flare probabilities are being driven
-by Regions 3883, 3886, and 3889 due to their history and magnetic
-complexities.
+Rationale: R1-R2 (Minor-Moderate) radio blackouts are expected, with a
+chance for R3 (Strong), over 09-11 Nov due to the flare potential from
+multiple complex regions on the visible disk.
 
 ```
