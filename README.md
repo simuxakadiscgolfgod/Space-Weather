@@ -1,11 +1,10 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2024-11-09
-<br />**This image is owned by:**  Voyager
-<br />**Title of the image:**  Neptune at Night
-<br />**Description for the image:**  Ice giant Neptune is faint in Earth's night sky. Some 30 times farther from the Sun than our fair planet, telescopes are needed to catch a glimpse of the dim and distant world. This dramatic view of Neptune's night just isn't possible for telescopes in the vicinity of planet Earth though. Peering out from the inner Solar System they can only bring Neptune's day side into view.  In fact this night side image with Neptune's slender crescent next to the crescent of its large moon Triton was captured by Voyager 2. Launched from planet Earth in 1977 the Voyager 2 spacecraft made a close fly by of the Solar System's outermost planet in 1989, looking back on Neptune as the robotic spacecraft continued its voyage to interstellar space.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2411/neptunetriton_voyager_960.jpg
+<br />**Date image released:**  2024-11-10
+<br />**Title of the image:**  Valles Marineris: The Grand Canyon of Mars
+<br />**Description for the image:**  The largest canyon in the Solar System cuts a wide swath across the face of Mars.  Named Valles Marineris, the grand valley extends over 3,000 kilometers long, spans as much as 600 kilometers across, and delves as much as 8 kilometers deep.  By comparison, the Earth's Grand Canyon in Arizona, USA is 800 kilometers long, 30 kilometers across, and 1.8 kilometers deep.  The origin of the Valles Marineris remains unknown, although a leading hypothesis holds that it started as a crack billions of years ago as the planet cooled.  Several geologic processes have been identified in the canyon.  The featured mosaic was  created from over 100 images of Mars taken by Viking Orbiters in the 1970s.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2411/marsglobe_viking_1552.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,27 +48,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Nov 09 0030 UTC
+:Issued: 2024 Nov 10 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
-Scale levels).
-The greatest expected 3 hr Kp for Nov 09-Nov 11 2024 is 4.33 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 5 (NOAA Scale
+G1).
+The greatest expected 3 hr Kp for Nov 10-Nov 12 2024 is 4.33 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Nov 09-Nov 11 2024
+NOAA Kp index breakdown Nov 10-Nov 12 2024
 
-             Nov 09       Nov 10       Nov 11
-00-03UT       3.33         3.67         2.67     
-03-06UT       2.67         4.00         3.00     
-06-09UT       3.00         4.33         2.67     
-09-12UT       3.67         4.00         2.33     
-12-15UT       2.00         3.00         2.33     
-15-18UT       2.00         2.67         2.00     
-18-21UT       2.00         2.33         2.67     
-21-00UT       3.33         2.67         3.67     
+             Nov 10       Nov 11       Nov 12
+00-03UT       3.67         2.67         3.00     
+03-06UT       4.00         3.67         2.67     
+06-09UT       4.33         2.67         2.67     
+09-12UT       4.00         2.00         2.67     
+12-15UT       3.00         1.67         1.67     
+15-18UT       2.67         1.67         1.67     
+18-21UT       2.33         2.67         1.67     
+21-00UT       2.67         3.67         2.67     
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  
 
@@ -78,28 +77,28 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Nov 09-Nov 11 2024
+Solar Radiation Storm Forecast for Nov 10-Nov 12 2024
 
-              Nov 09  Nov 10  Nov 11
-S1 or greater   15%     15%     15%
+              Nov 10  Nov 11  Nov 12
+S1 or greater   10%     10%     10%
 
 Rationale: There exists a slight chance for S1 (Minor) solar radiation
-storms over 09-11 Nov due to potential from multiple complex regions on
-the visible disk.
+storms over 10-12 Nov.
+
 
 C. NOAA Radio Blackout Activity and Forecast
 
 Radio blackouts reaching the R1 levels were observed over the past 24
-hours. The largest was at Nov 08 2024 0301 UTC.
+hours. The largest was at Nov 09 2024 2050 UTC.
 
-Radio Blackout Forecast for Nov 09-Nov 11 2024
+Radio Blackout Forecast for Nov 10-Nov 12 2024
 
-              Nov 09        Nov 10        Nov 11
-R1-R2           85%           85%           85%
-R3 or greater   35%           35%           35%
+              Nov 10        Nov 11        Nov 12
+R1-R2           70%           70%           70%
+R3 or greater   20%           20%           20%
 
 Rationale: R1-R2 (Minor-Moderate) radio blackouts are expected, with a
-chance for R3 (Strong), over 09-11 Nov due to the flare potential from
-multiple complex regions on the visible disk.
+chance for R3 (Strong), over 10-12 Nov due to the flare potential from
+multiple complex active regions on the visible disk.
 
 ```

@@ -1,26 +1,26 @@
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Nov 09 0030 UTC
+:Issued: 2024 Nov 10 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
-Scale levels).
-The greatest expected 3 hr Kp for Nov 09-Nov 11 2024 is 4.33 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 5 (NOAA Scale
+G1).
+The greatest expected 3 hr Kp for Nov 10-Nov 12 2024 is 4.33 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Nov 09-Nov 11 2024
+NOAA Kp index breakdown Nov 10-Nov 12 2024
 
-             Nov 09       Nov 10       Nov 11
-00-03UT       3.33         3.67         2.67     
-03-06UT       2.67         4.00         3.00     
-06-09UT       3.00         4.33         2.67     
-09-12UT       3.67         4.00         2.33     
-12-15UT       2.00         3.00         2.33     
-15-18UT       2.00         2.67         2.00     
-18-21UT       2.00         2.33         2.67     
-21-00UT       3.33         2.67         3.67     
+             Nov 10       Nov 11       Nov 12
+00-03UT       3.67         2.67         3.00     
+03-06UT       4.00         3.67         2.67     
+06-09UT       4.33         2.67         2.67     
+09-12UT       4.00         2.00         2.67     
+12-15UT       3.00         1.67         1.67     
+15-18UT       2.67         1.67         1.67     
+18-21UT       2.33         2.67         1.67     
+21-00UT       2.67         3.67         2.67     
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  
 
@@ -29,28 +29,28 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Nov 09-Nov 11 2024
+Solar Radiation Storm Forecast for Nov 10-Nov 12 2024
 
-              Nov 09  Nov 10  Nov 11
-S1 or greater   15%     15%     15%
+              Nov 10  Nov 11  Nov 12
+S1 or greater   10%     10%     10%
 
 Rationale: There exists a slight chance for S1 (Minor) solar radiation
-storms over 09-11 Nov due to potential from multiple complex regions on
-the visible disk.
+storms over 10-12 Nov.
+
 
 C. NOAA Radio Blackout Activity and Forecast
 
 Radio blackouts reaching the R1 levels were observed over the past 24
-hours. The largest was at Nov 08 2024 0301 UTC.
+hours. The largest was at Nov 09 2024 2050 UTC.
 
-Radio Blackout Forecast for Nov 09-Nov 11 2024
+Radio Blackout Forecast for Nov 10-Nov 12 2024
 
-              Nov 09        Nov 10        Nov 11
-R1-R2           85%           85%           85%
-R3 or greater   35%           35%           35%
+              Nov 10        Nov 11        Nov 12
+R1-R2           70%           70%           70%
+R3 or greater   20%           20%           20%
 
 Rationale: R1-R2 (Minor-Moderate) radio blackouts are expected, with a
-chance for R3 (Strong), over 09-11 Nov due to the flare potential from
-multiple complex regions on the visible disk.
+chance for R3 (Strong), over 10-12 Nov due to the flare potential from
+multiple complex active regions on the visible disk.
 
 ```
