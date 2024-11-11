@@ -1,10 +1,13 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2024-11-10
-<br />**Title of the image:**  Valles Marineris: The Grand Canyon of Mars
-<br />**Description for the image:**  The largest canyon in the Solar System cuts a wide swath across the face of Mars.  Named Valles Marineris, the grand valley extends over 3,000 kilometers long, spans as much as 600 kilometers across, and delves as much as 8 kilometers deep.  By comparison, the Earth's Grand Canyon in Arizona, USA is 800 kilometers long, 30 kilometers across, and 1.8 kilometers deep.  The origin of the Valles Marineris remains unknown, although a leading hypothesis holds that it started as a crack billions of years ago as the planet cooled.  Several geologic processes have been identified in the canyon.  The featured mosaic was  created from over 100 images of Mars taken by Viking Orbiters in the 1970s.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2411/marsglobe_viking_1552.jpg
+<br />**Date image released:**  2024-11-11
+<br />**This image is owned by:**  
+Bray Falls
+
+<br />**Title of the image:**  The Unusual Tails of Comet Tsuchinshan-Atlas
+<br />**Description for the image:**  What created an unusual dark streak in Comet Tsuchinshan-Atlas's tail? Some images of the bright comet during mid-October not only caught its impressively long tail and its thin anti-tail, but a rather unexpected feature: a dark streak in the long tail. The reason for the dark streak is currently unclear and a topic of some debate.  Possible reasons include a plume of dark dust, different parts of the bright tail being unusually superposed, and a shadow of a dense part of the coma on smaller dust particles. The streak is visible in the featured image taken on October 14 from Texas, USA. To help future analyses, if you have taken a good image of the comet that clearly shows this dark streak, please send it in to APOD. Comet Tsuchinshan–ATLAS has now faded considerably and is returning to the outer Solar System.   Gallery: Comet Tsuchinshan-ATLAS in 2024
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2411/CometDarkTail_Falls_5122.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -48,57 +51,57 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Nov 10 0030 UTC
+:Issued: 2024 Nov 11 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 5 (NOAA Scale
 G1).
-The greatest expected 3 hr Kp for Nov 10-Nov 12 2024 is 4.33 (below NOAA
-Scale levels).
+The greatest expected 3 hr Kp for Nov 11-Nov 13 2024 is 4.67 (NOAA Scale
+G1).
 
-NOAA Kp index breakdown Nov 10-Nov 12 2024
+NOAA Kp index breakdown Nov 11-Nov 13 2024
 
-             Nov 10       Nov 11       Nov 12
-00-03UT       3.67         2.67         3.00     
-03-06UT       4.00         3.67         2.67     
-06-09UT       4.33         2.67         2.67     
-09-12UT       4.00         2.00         2.67     
-12-15UT       3.00         1.67         1.67     
-15-18UT       2.67         1.67         1.67     
-18-21UT       2.33         2.67         1.67     
-21-00UT       2.67         3.67         2.67     
+             Nov 11       Nov 12       Nov 13
+00-03UT       4.67 (G1)    3.00         2.67     
+03-06UT       3.67         2.67         4.00     
+06-09UT       2.67         2.67         4.00     
+09-12UT       2.00         2.67         3.00     
+12-15UT       1.00         1.67         2.67     
+15-18UT       1.00         1.67         2.00     
+18-21UT       2.67         1.67         2.00     
+21-00UT       3.67         2.67         2.67     
 
-Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  
+Rationale: G1 (Minor) geomagnetic storms are likely on 11 No, while
+12-13 Nov are expected to quiet to active, due to influence from several
+large coronal holes.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Nov 10-Nov 12 2024
+Solar Radiation Storm Forecast for Nov 11-Nov 13 2024
 
-              Nov 10  Nov 11  Nov 12
-S1 or greater   10%     10%     10%
+              Nov 11  Nov 12  Nov 13
+S1 or greater   15%     15%     15%
 
-Rationale: There exists a slight chance for S1 (Minor) solar radiation
-storms over 10-12 Nov.
-
+Rationale: There is a slight chance for S1 (Minor) solar radiation
+storms over 11-13 Nov.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-Radio blackouts reaching the R1 levels were observed over the past 24
-hours. The largest was at Nov 09 2024 2050 UTC.
+Radio blackouts reaching the R2 levels were observed over the past 24
+hours. The largest was at Nov 10 2024 1206 UTC.
 
-Radio Blackout Forecast for Nov 10-Nov 12 2024
+Radio Blackout Forecast for Nov 11-Nov 13 2024
 
-              Nov 10        Nov 11        Nov 12
+              Nov 11        Nov 12        Nov 13
 R1-R2           70%           70%           70%
-R3 or greater   20%           20%           20%
+R3 or greater   30%           30%           30%
 
-Rationale: R1-R2 (Minor-Moderate) radio blackouts are expected, with a
-chance for R3 (Strong), over 10-12 Nov due to the flare potential from
-multiple complex active regions on the visible disk.
+Rationale: R1-R2 (Minor-Moderate) radio blackouts are likely, with a
+chance for R3 (Strong), over 11-13 Nov.
 
 ```
