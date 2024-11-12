@@ -1,13 +1,13 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2024-11-11
+<br />**Date image released:**  2024-11-12
 <br />**This image is owned by:**  
-Bray Falls
+Team ARO
 
-<br />**Title of the image:**  The Unusual Tails of Comet Tsuchinshan-Atlas
-<br />**Description for the image:**  What created an unusual dark streak in Comet Tsuchinshan-Atlas's tail? Some images of the bright comet during mid-October not only caught its impressively long tail and its thin anti-tail, but a rather unexpected feature: a dark streak in the long tail. The reason for the dark streak is currently unclear and a topic of some debate.  Possible reasons include a plume of dark dust, different parts of the bright tail being unusually superposed, and a shadow of a dense part of the coma on smaller dust particles. The streak is visible in the featured image taken on October 14 from Texas, USA. To help future analyses, if you have taken a good image of the comet that clearly shows this dark streak, please send it in to APOD. Comet Tsuchinshan–ATLAS has now faded considerably and is returning to the outer Solar System.   Gallery: Comet Tsuchinshan-ATLAS in 2024
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2411/CometDarkTail_Falls_5122.jpg
+<br />**Title of the image:**  NGC 6888: The Crescent Nebula
+<br />**Description for the image:**  How was the Crescent Nebula created?  Looking like an emerging space cocoon, the Crescent Nebula, visible in the center of the featured image, was created by the brightest star in its center.  A leading progenitor hypothesis has the Crescent Nebula beginning to form about 250,000 years ago.  At that time, the massive central star had evolved to become a Wolf-Rayet star (WR 136), shedding its outer envelope in a strong stellar wind, ejecting the equivalent of our Sun's mass every 10,000 years.  This wind impacted surrounding gas left over from a previous phase, compacting it into a series of complex shells, and lighting it up.  The Crescent Nebula, also known as NGC 6888, lies about 4,700 light-years away in the constellation of Cygnus.  Star WR 136 will probably undergo a supernova explosion sometime in the next million years.   Jigsaw Challenge: Astronomy Puzzle of the Day
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2411/Ngc6888Hoo_Aro_2466.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -51,55 +51,55 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Nov 11 0030 UTC
+:Issued: 2024 Nov 12 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 5 (NOAA Scale
-G1).
-The greatest expected 3 hr Kp for Nov 11-Nov 13 2024 is 4.67 (NOAA Scale
-G1).
+The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
+Scale levels).
+The greatest expected 3 hr Kp for Nov 12-Nov 14 2024 is 4.00 (below NOAA
+Scale levels).
 
-NOAA Kp index breakdown Nov 11-Nov 13 2024
+NOAA Kp index breakdown Nov 12-Nov 14 2024
 
-             Nov 11       Nov 12       Nov 13
-00-03UT       4.67 (G1)    3.00         2.67     
-03-06UT       3.67         2.67         4.00     
-06-09UT       2.67         2.67         4.00     
-09-12UT       2.00         2.67         3.00     
-12-15UT       1.00         1.67         2.67     
-15-18UT       1.00         1.67         2.00     
-18-21UT       2.67         1.67         2.00     
-21-00UT       3.67         2.67         2.67     
+             Nov 12       Nov 13       Nov 14
+00-03UT       3.00         2.67         4.00     
+03-06UT       2.67         4.00         2.67     
+06-09UT       2.67         4.00         2.67     
+09-12UT       2.67         3.00         2.33     
+12-15UT       1.67         2.67         2.00     
+15-18UT       1.67         2.00         2.00     
+18-21UT       1.67         2.00         2.33     
+21-00UT       2.67         2.67         3.00     
 
-Rationale: G1 (Minor) geomagnetic storms are likely on 11 No, while
-12-13 Nov are expected to quiet to active, due to influence from several
-large coronal holes.
+Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
+significant transient or recurrent solar wind features are forecast.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Nov 11-Nov 13 2024
+Solar Radiation Storm Forecast for Nov 12-Nov 14 2024
 
-              Nov 11  Nov 12  Nov 13
+              Nov 12  Nov 13  Nov 14
 S1 or greater   15%     15%     15%
 
-Rationale: There is a slight chance for S1 (Minor) solar radiation
+Rationale: There is a slight chance for S1 (Minor)  solar radiation
 storms over 11-13 Nov.
+
 
 C. NOAA Radio Blackout Activity and Forecast
 
-Radio blackouts reaching the R2 levels were observed over the past 24
-hours. The largest was at Nov 10 2024 1206 UTC.
+Radio blackouts reaching the R1 levels were observed over the past 24
+hours. The largest was at Nov 11 2024 0543 UTC.
 
-Radio Blackout Forecast for Nov 11-Nov 13 2024
+Radio Blackout Forecast for Nov 12-Nov 14 2024
 
-              Nov 11        Nov 12        Nov 13
+              Nov 12        Nov 13        Nov 14
 R1-R2           70%           70%           70%
-R3 or greater   30%           30%           30%
+R3 or greater   25%           25%           25%
 
 Rationale: R1-R2 (Minor-Moderate) radio blackouts are likely, with a
 chance for R3 (Strong), over 11-13 Nov.
