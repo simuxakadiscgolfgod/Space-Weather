@@ -1,13 +1,10 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2024-11-12
-<br />**This image is owned by:**  
-Team ARO
-
-<br />**Title of the image:**  NGC 6888: The Crescent Nebula
-<br />**Description for the image:**  How was the Crescent Nebula created?  Looking like an emerging space cocoon, the Crescent Nebula, visible in the center of the featured image, was created by the brightest star in its center.  A leading progenitor hypothesis has the Crescent Nebula beginning to form about 250,000 years ago.  At that time, the massive central star had evolved to become a Wolf-Rayet star (WR 136), shedding its outer envelope in a strong stellar wind, ejecting the equivalent of our Sun's mass every 10,000 years.  This wind impacted surrounding gas left over from a previous phase, compacting it into a series of complex shells, and lighting it up.  The Crescent Nebula, also known as NGC 6888, lies about 4,700 light-years away in the constellation of Cygnus.  Star WR 136 will probably undergo a supernova explosion sometime in the next million years.   Jigsaw Challenge: Astronomy Puzzle of the Day
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2411/Ngc6888Hoo_Aro_2466.jpg
+<br />**Date image released:**  2024-11-13
+<br />**Title of the image:**  Barred Spiral Galaxy NGC 1365 from Webb
+<br />**Description for the image:**  A mere 56 million light-years distant toward the southern constellation Fornax, NGC 1365 is an enormous barred spiral galaxy about 200,000 light-years in diameter. That's twice the size of our own barred spiral Milky Way. This sharp image from the James Webb Space Telescope's Mid-Infrared Instrument (MIRI) reveals stunning details of this magnificent spiral in infrared light. Webb's field of view stretches about 60,000 light-years across NGC 1365, exploring the galaxy's core and bright newborn star clusters. The intricate network of dusty filaments and bubbles is created by young stars along spiral arms winding from the galaxy's central bar. Astronomers suspect the gravity field of NGC 1365's bar plays a crucial role in the galaxy's evolution, funneling gas and dust into a star-forming maelstrom and ultimately feeding material into the active galaxy's central, supermassive black hole.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2411/JWSTMIRI_ngc1365.png
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -51,27 +48,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Nov 12 0030 UTC
+:Issued: 2024 Nov 13 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Nov 12-Nov 14 2024 is 4.00 (below NOAA
+The greatest expected 3 hr Kp for Nov 13-Nov 15 2024 is 4.00 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Nov 12-Nov 14 2024
+NOAA Kp index breakdown Nov 13-Nov 15 2024
 
-             Nov 12       Nov 13       Nov 14
-00-03UT       3.00         2.67         4.00     
-03-06UT       2.67         4.00         2.67     
-06-09UT       2.67         4.00         2.67     
-09-12UT       2.67         3.00         2.33     
-12-15UT       1.67         2.67         2.00     
-15-18UT       1.67         2.00         2.00     
-18-21UT       1.67         2.00         2.33     
-21-00UT       2.67         2.67         3.00     
+             Nov 13       Nov 14       Nov 15
+00-03UT       1.67         4.00         3.67     
+03-06UT       2.00         2.67         2.67     
+06-09UT       2.00         2.67         2.33     
+09-12UT       1.67         2.33         2.33     
+12-15UT       4.00         2.00         2.33     
+15-18UT       4.00         2.00         2.00     
+18-21UT       3.33         2.33         2.67     
+21-00UT       3.33         3.00         2.67     
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
 significant transient or recurrent solar wind features are forecast.
@@ -81,27 +78,25 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Nov 12-Nov 14 2024
+Solar Radiation Storm Forecast for Nov 13-Nov 15 2024
 
-              Nov 12  Nov 13  Nov 14
+              Nov 13  Nov 14  Nov 15
 S1 or greater   15%     15%     15%
 
-Rationale: There is a slight chance for S1 (Minor)  solar radiation
-storms over 11-13 Nov.
-
+Rationale: There is a slight chance for the greater than 10 MeV proton
+flux to reach S1 (Minor) levels over 13-15 Nov.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-Radio blackouts reaching the R1 levels were observed over the past 24
-hours. The largest was at Nov 11 2024 0543 UTC.
+No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Nov 12-Nov 14 2024
+Radio Blackout Forecast for Nov 13-Nov 15 2024
 
-              Nov 12        Nov 13        Nov 14
-R1-R2           70%           70%           70%
+              Nov 13        Nov 14        Nov 15
+R1-R2           65%           65%           65%
 R3 or greater   25%           25%           25%
 
 Rationale: R1-R2 (Minor-Moderate) radio blackouts are likely, with a
-chance for R3 (Strong), over 11-13 Nov.
+chance for R3 (Strong), over 13-15 Nov.
 
 ```
