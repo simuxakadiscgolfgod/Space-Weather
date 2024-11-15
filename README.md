@@ -1,11 +1,10 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2024-11-14
-<br />**This image is owned by:**  Ashraf Abu Sara
-<br />**Title of the image:**  IC 348 and Barnard 3
-<br />**Description for the image:**  A great nebulous region near bright star omicron Persei offers this study in cosmic contrasts.  Captured in the telescopic frame the colorful complex of dust, gas, and stars spans about 3 degrees on the sky along the edge of the Perseus molecular cloud some 1000 light-years away. Surrounded by a bluish halo of dust reflected starlight, omicron Persei itself is just left of center. Immediately below it lies the intriguing young star cluster IC 348 recently explored by the James Webb Space Telescope. In silhouette against the diffuse reddish glow of hydrogen gas, dark and obscuring interstellar dust cloud Barnard 3 is at upper right. Of course the cosmic dust also tends to hide newly formed stars and young stellar objects or protostars from prying optical telescopes. At the Perseus molecular cloud's estimated distance, this field of view would span about 50 light-years.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2411/IC348_B3_2048.jpg
+<br />**Date image released:**  2024-11-15
+<br />**Title of the image:**  Apollo 12 and Surveyor 3
+<br />**Description for the image:**  Put on your red/blue glasses and gaze across the western Ocean of Storms on the surface of the Moon. The 3D anaglyph features Apollo 12 astronaut Pete Conrad visiting the Surveyor 3 spacecraft in November of 1969. Surveyor 3 had landed at the site on the inside slope of a small crater about 2 1/2 years earlier in April of 1967. Visible on the horizon beyond the far crater wall, Apollo 12's Lunar Module Intrepid touched down less than 200 meters (650 feet) away, easy moonwalking distance from the robotic Surveyor spacecraft. This stereo image was carefully created from two separate pictures (AS12-48-7133, AS12-48-7134) captured on the lunar surface. They depict the scene from only slightly different viewpoints, approximating the separation between human eyes.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2411/KF-ApAn48-7133-4.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,27 +48,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Nov 14 0030 UTC
+:Issued: 2024 Nov 15 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Nov 14-Nov 16 2024 is 4.00 (below NOAA
+The greatest expected 3 hr Kp for Nov 15-Nov 17 2024 is 3.67 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Nov 14-Nov 16 2024
+NOAA Kp index breakdown Nov 15-Nov 17 2024
 
-             Nov 14       Nov 15       Nov 16
-00-03UT       4.00         3.67         3.00     
-03-06UT       2.67         2.67         3.00     
-06-09UT       2.67         2.33         2.33     
-09-12UT       2.33         2.33         2.00     
-12-15UT       2.00         2.33         1.67     
-15-18UT       2.00         2.00         1.33     
-18-21UT       2.33         2.67         2.33     
-21-00UT       3.00         2.67         2.67     
+             Nov 15       Nov 16       Nov 17
+00-03UT       3.67         3.00         2.33     
+03-06UT       2.67         3.00         3.00     
+06-09UT       2.33         2.33         2.67     
+09-12UT       2.33         2.00         2.33     
+12-15UT       2.33         1.67         1.33     
+15-18UT       2.00         1.33         1.00     
+18-21UT       2.67         2.33         1.67     
+21-00UT       2.67         2.67         2.00     
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
 significant transient or recurrent solar wind features are forecast.
@@ -79,26 +78,25 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Nov 14-Nov 16 2024
+Solar Radiation Storm Forecast for Nov 15-Nov 17 2024
 
-              Nov 14  Nov 15  Nov 16
+              Nov 15  Nov 16  Nov 17
 S1 or greater   10%     10%     10%
 
 Rationale: There is a slight chance for the greater than 10 MeV proton
-flux to reach S1 (Minor) levels over 14-16 Nov.
+flux to reach S1 (Minor) levels over 15-17 Nov.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-Radio blackouts reaching the R1 levels were observed over the past 24
-hours. The largest was at Nov 13 2024 1708 UTC.
+No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Nov 14-Nov 16 2024
+Radio Blackout Forecast for Nov 15-Nov 17 2024
 
-              Nov 14        Nov 15        Nov 16
+              Nov 15        Nov 16        Nov 17
 R1-R2           60%           60%           60%
 R3 or greater   20%           20%           20%
 
 Rationale: R1-R2 (Minor-Moderate) radio blackouts are likely, with a
-chance for R3 (Strong), over 14-16 Nov.
+chance for R3 (Strong), over 15-17 Nov.
 
 ```
