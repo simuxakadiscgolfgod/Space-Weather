@@ -1,10 +1,13 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2024-11-17
-<br />**Title of the image:**  LDN 1471: A Windblown Star Cavity
-<br />**Description for the image:**  What is the cause of this unusual parabolic structure?  This illuminated cavity, known as LDN 1471, was created by a newly forming star, seen as the bright source at the peak of the parabola.  This protostar is experiencing a stellar outflow which is then interacting with the surrounding material in the Perseus Molecular Cloud, causing it to brighten.  We see only one side of the cavity -- the other side is hidden by dark dust.  The parabolic shape is caused by the widening of the stellar-wind blown cavity over time. Two additional structures can also be seen either side of the protostar; these are known as Herbig-Haro objects, again caused by the interaction of the outflow with the surrounding material.  What causes the striations on the cavity walls, though, remains unknown.  The featured image was taken by NASA and ESA’s Hubble Space Telescope after an original detection by the Spitzer Space Telescope.   Explore Your Universe: Random APOD Generator
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2411/LDN1471_HubbleSchmidt_1024.jpg
+<br />**Date image released:**  2024-11-18
+<br />**This image is owned by:**  
+Malcolm Loro
+
+<br />**Title of the image:**  Stars and Dust in the Pacman Nebula
+<br />**Description for the image:**  Stars can create huge and intricate dust sculptures from the dense and dark molecular clouds from which they are born.  The tools the stars use to carve their detailed works are high energy light and fast stellar winds.  The heat they generate evaporates the dark molecular dust as well as causing ambient hydrogen gas to disperse and glow.   Pictured here, a new open cluster of stars designated IC 1590 is nearing completion around the intricate interstellar dust structures in the emission nebula  NGC 281, dubbed the Pac-man Nebula because of its overall shape.  The dust cloud just above center is classified as a  Bok Globule as it may gravitationally collapse and form a star -- or stars. The Pacman Nebula lies about 10,000 light years away toward the constellation of Cassiopeia.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2411/BokMan_Loro_1311.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -48,27 +51,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Nov 17 0030 UTC
+:Issued: 2024 Nov 18 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Nov 17-Nov 19 2024 is 3.67 (below NOAA
+The greatest expected 3 hr Kp for Nov 18-Nov 20 2024 is 3.67 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Nov 17-Nov 19 2024
+NOAA Kp index breakdown Nov 18-Nov 20 2024
 
-             Nov 17       Nov 18       Nov 19
-00-03UT       1.33         2.33         2.00     
-03-06UT       1.67         2.00         3.00     
-06-09UT       1.67         2.00         2.67     
-09-12UT       1.67         2.67         2.33     
-12-15UT       2.67         3.00         1.33     
-15-18UT       2.67         3.00         1.00     
-18-21UT       2.67         3.67         1.67     
-21-00UT       3.67         2.67         2.00     
+             Nov 18       Nov 19       Nov 20
+00-03UT       2.33         2.00         1.67     
+03-06UT       2.00         3.00         1.67     
+06-09UT       2.00         2.67         1.67     
+09-12UT       2.67         2.33         1.33     
+12-15UT       3.00         1.33         1.33     
+15-18UT       3.00         1.00         1.33     
+18-21UT       3.67         1.67         1.33     
+21-00UT       2.67         2.00         1.33     
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
 significant transient or recurrent solar wind features are forecast.
@@ -78,27 +81,28 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Nov 17-Nov 19 2024
+Solar Radiation Storm Forecast for Nov 18-Nov 20 2024
 
-              Nov 17  Nov 18  Nov 19
-S1 or greater   10%     10%     10%
+              Nov 18  Nov 19  Nov 20
+S1 or greater    5%      5%      5%
 
-Rationale: There is a slight chance for the greater than 10 MeV proton
-flux to reach S1 (Minor) levels over 17-19 Nov.
+Rationale: No S1 (Minor) or greater solar radiation storms are expected.
+No significant active region activity favorable for radiation storm
+production is forecast.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-Radio blackouts reaching the R1 levels were observed over the past 24
-hours. The largest was at Nov 16 2024 0137 UTC.
+No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Nov 17-Nov 19 2024
+Radio Blackout Forecast for Nov 18-Nov 20 2024
 
-              Nov 17        Nov 18        Nov 19
-R1-R2           50%           50%           50%
-R3 or greater   15%           15%           15%
+              Nov 18        Nov 19        Nov 20
+R1-R2           50%           55%           60%
+R3 or greater   10%           10%           15%
 
 Rationale: A chance for R1-2 (Minor-Moderate) radio blackouts will
-persist through 19 Nov along with a slight chance for an R3 (Strong) or
-great event.
+persist on 18 Nov along with a slight chance for an R3 (Strong) or
+great event. A likely chance for R1-2 (Minor-Moderate) radio blackouts
+will persist on 19-20 Nov.
 
 ```
