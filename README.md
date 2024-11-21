@@ -1,10 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2024-11-20
-<br />**Title of the image:**  Earthset from Orion
-<br />**Description for the image:**  ght billion people are about to disappear in this snapshot from space taken on 2022 November 21. On the sixth day of the Artemis I mission, their home world is setting behind the Moon's bright edge as viewed by an external camera on the outbound Orion spacecraft. Orion was headed for a powered flyby that took it to within 130 kilometers of the lunar surface. Velocity gained in the flyby maneuver was used to reach a distant retrograde orbit around the Moon. That orbit is considered distant because it's another 92,000 kilometers beyond the Moon, and retrograde because the spacecraft orbited in the opposite direction of the Moon's orbit around planet Earth. Orion entered its distant retrograde orbit on November 25. Swinging around the Moon, Orion reached a maximum distance (just over 400,000 kilometers) from Earth on November 28, exceeding a record set by Apollo 13 for most distant spacecraft designed for human space exploration. The Artemis II mission, carrying 4 astronauts around the moon and back again, is scheduled to launch no earlier than September 2025.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2411/earthset-snap00.png
+<br />**Date image released:**  2024-11-21
+<br />**This image is owned by:**  Giorgio Ferrari
+<br />**Title of the image:**  The Elephant's Trunk in Cepheus
+<br />**Description for the image:**  Like an illustration in a galactic Just So Story, the Elephant's Trunk Nebula winds through the emission region and young star cluster complex IC 1396, in the high and far off constellation of Cepheus. Also known as vdB 142, this cosmic elephant's trunk is over 20 light-years long. The detailed telescopic view features the bright swept-back ridges and pockets of cool interstellar dust and gas that abound in the region. But the dark, tendril-shaped clouds contain the raw material for star formation and hide protostars within. Nearly 3,000 light-years distant, the relatively faint IC 1396 complex covers a large region on the sky, spanning over 5 degrees. This rendition spans a 1 degree wide field of view though, about the angular size of 2 full moons.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2411/LDN1105ElephantTrunk2048.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -48,27 +49,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Nov 20 0030 UTC
+:Issued: 2024 Nov 21 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Nov 20-Nov 22 2024 is 3.00 (below NOAA
+The greatest expected 3 hr Kp for Nov 21-Nov 23 2024 is 3.00 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Nov 20-Nov 22 2024
+NOAA Kp index breakdown Nov 21-Nov 23 2024
 
-             Nov 20       Nov 21       Nov 22
-00-03UT       1.67         1.67         2.00     
-03-06UT       1.67         1.33         1.67     
-06-09UT       1.67         1.33         2.33     
-09-12UT       1.33         1.33         1.00     
+             Nov 21       Nov 22       Nov 23
+00-03UT       1.67         2.00         2.33     
+03-06UT       1.33         1.67         3.00     
+06-09UT       1.33         2.33         2.33     
+09-12UT       1.33         1.00         2.00     
 12-15UT       1.33         1.33         1.33     
-15-18UT       1.33         1.33         1.67     
-18-21UT       1.33         1.67         3.00     
-21-00UT       1.33         1.67         3.00     
+15-18UT       1.33         1.67         1.33     
+18-21UT       1.67         3.00         1.67     
+21-00UT       1.67         3.00         2.33     
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
 significant transient or recurrent solar wind features are forecast.
@@ -78,9 +79,9 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Nov 20-Nov 22 2024
+Solar Radiation Storm Forecast for Nov 21-Nov 23 2024
 
-              Nov 20  Nov 21  Nov 22
+              Nov 21  Nov 22  Nov 23
 S1 or greater    5%      5%      5%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -89,18 +90,17 @@ production is forecast.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-No radio blackouts were observed over the past 24 hours.
+Radio blackouts reaching the R1 levels were observed over the past 24
+hours. The largest was at Nov 20 2024 1948 UTC.
 
-Radio Blackout Forecast for Nov 20-Nov 22 2024
+Radio Blackout Forecast for Nov 21-Nov 23 2024
 
-              Nov 20        Nov 21        Nov 22
+              Nov 21        Nov 22        Nov 23
 R1-R2           50%           50%           50%
 R3 or greater   10%           10%           10%
 
 Rationale: Solar activity is expected to be low, with a chance for
-M-class flares (R1-R2; Minor-Moderate) activity and a slight chance of
-X-class (R3; Strong) events 20-22 Nov due primarily to the flare
-potential of Regions 3897 - which will rotate out of view by 21 Nov -
-and Regions 3899 and 3898.
+M-class flares (R1/R2-Minor/Moderate) and a slight chance of X-class
+(R3-Strong) events 21-23 Nov.
 
 ```
