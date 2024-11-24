@@ -1,10 +1,7 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2024-11-23
-<br />**Title of the image:**  Interplanetary Earth
-<br />**Description for the image:**  In an interplanetary first, on July 19, 2013 Earth was photographed on the same day from two other worlds of the Solar System, innermost planet Mercury and ringed gas giant Saturn. Pictured on the left, Earth is the pale blue dot just below the rings of Saturn, as captured by the robotic Cassini spacecraft then orbiting the outermost gas giant. On that same day people across planet Earth snapped many of their own pictures of Saturn. On the right, the Earth-Moon system is seen against the dark background of space as captured by the sunward MESSENGER spacecraft, then in Mercury orbit. MESSENGER took its image as part of a search for small natural satellites of Mercury, moons that would be expected to be quite dim. In the MESSENGER image, the brighter Earth and Moon are both overexposed and shine brightly with reflected sunlight. Destined not to return to their home world, both Cassini and MESSENGER have since retired from their missions of Solar System exploration.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2411/earth_cassinimessenger_1799.jpg
+<br />**Sorry, Image not available!**
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -48,55 +45,56 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Nov 23 0030 UTC
+:Issued: 2024 Nov 24 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Nov 23-Nov 25 2024 is 3.67 (below NOAA
+The greatest expected 3 hr Kp for Nov 24-Nov 26 2024 is 3.33 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Nov 23-Nov 25 2024
+NOAA Kp index breakdown Nov 24-Nov 26 2024
 
-             Nov 23       Nov 24       Nov 25
-00-03UT       3.00         2.33         2.33     
-03-06UT       3.67         2.67         3.00     
-06-09UT       2.00         2.33         2.00     
-09-12UT       1.67         2.33         2.00     
-12-15UT       1.33         2.00         1.67     
-15-18UT       0.67         2.00         2.00     
-18-21UT       1.00         2.00         2.00     
-21-00UT       1.00         1.67         2.33     
+             Nov 24       Nov 25       Nov 26
+00-03UT       2.67         2.33         1.67     
+03-06UT       3.33         2.33         1.67     
+06-09UT       2.33         1.33         1.33     
+09-12UT       2.00         1.00         1.33     
+12-15UT       1.67         0.67         1.33     
+15-18UT       1.33         0.67         1.33     
+18-21UT       1.33         1.00         1.33     
+21-00UT       1.33         1.67         1.67     
 
-Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  
+Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
+significant transient or recurrent solar wind features are forecast.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
-above S-scale storm level thresholds.
+below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Nov 23-Nov 25 2024
+Solar Radiation Storm Forecast for Nov 24-Nov 26 2024
 
-              Nov 23  Nov 24  Nov 25
-S1 or greater   10%      5%      5%
+              Nov 24  Nov 25  Nov 26
+S1 or greater    5%      5%      5%
 
-Rationale: There is a slight chance of S1 (Minor) or greater solar
-radiation storms on 23-25 Nov.
+Rationale: S1 (Minor) solar radiation are expected at nominal levels on
+24-26 Nov.
 
 C. NOAA Radio Blackout Activity and Forecast
 
 Radio blackouts reaching the R1 levels were observed over the past 24
-hours. The largest was at Nov 22 2024 1546 UTC.
+hours. The largest was at Nov 23 2024 1607 UTC.
 
-Radio Blackout Forecast for Nov 23-Nov 25 2024
+Radio Blackout Forecast for Nov 24-Nov 26 2024
 
-              Nov 23        Nov 24        Nov 25
+              Nov 24        Nov 25        Nov 26
 R1-R2           60%           60%           60%
 R3 or greater   15%           15%           15%
 
 Rationale: M-class flares (R1/R2-Minor/Moderate) are likely, with a
-slight chance of X-class (R3-Strong) flares, on 23-25 Nov.
+slight chance of X-class (R3-Strong) flares, on 24-26 Nov.
 
 ```
