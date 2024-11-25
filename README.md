@@ -2,6 +2,14 @@
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
 <br />**Sorry, Image not available!**
+<br />**Date image released:**  2024-11-25
+<br />**This image is owned by:**  
+Alex Lin 
+(Chilescope) 
+
+<br />**Title of the image:**  The Horsehead Nebula
+<br />**Description for the image:**  One of the most identifiable nebulas in the sky, the Horsehead Nebula in Orion, is part of a large, dark, molecular cloud.  Also known as Barnard 33, the unusual shape was first discovered on a photographic plate in the late 1800s.  The red glow originates from hydrogen gas predominantly behind the nebula, ionized by the nearby bright star Sigma Orionis.  The darkness of the Horsehead is caused mostly by thick dust, although the lower part of the Horsehead's neck casts a shadow to the left.  Streams of gas leaving the nebula are funneled by a strong magnetic field.  Bright spots in the Horsehead Nebula's base are young stars just in the process of forming.  Light takes about 1,500 years to reach us from the Horsehead Nebula.  The featured image was taken from the Chilescope Observatory in the mountains of Chile.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2411/Horsehead_Lin_2596.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -45,27 +53,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Nov 24 0030 UTC
+:Issued: 2024 Nov 25 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Nov 24-Nov 26 2024 is 3.33 (below NOAA
+The greatest expected 3 hr Kp for Nov 25-Nov 27 2024 is 3.67 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Nov 24-Nov 26 2024
+NOAA Kp index breakdown Nov 25-Nov 27 2024
 
-             Nov 24       Nov 25       Nov 26
-00-03UT       2.67         2.33         1.67     
-03-06UT       3.33         2.33         1.67     
-06-09UT       2.33         1.33         1.33     
-09-12UT       2.00         1.00         1.33     
-12-15UT       1.67         0.67         1.33     
-15-18UT       1.33         0.67         1.33     
-18-21UT       1.33         1.00         1.33     
-21-00UT       1.33         1.67         1.67     
+             Nov 25       Nov 26       Nov 27
+00-03UT       3.67         1.67         1.67     
+03-06UT       3.67         1.67         1.33     
+06-09UT       1.33         1.33         1.33     
+09-12UT       1.00         1.33         1.33     
+12-15UT       0.67         1.33         1.33     
+15-18UT       0.67         1.33         1.33     
+18-21UT       1.00         1.33         1.67     
+21-00UT       1.67         1.67         1.67     
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
 significant transient or recurrent solar wind features are forecast.
@@ -75,23 +83,23 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Nov 24-Nov 26 2024
+Solar Radiation Storm Forecast for Nov 25-Nov 27 2024
 
-              Nov 24  Nov 25  Nov 26
+              Nov 25  Nov 26  Nov 27
 S1 or greater    5%      5%      5%
 
-Rationale: S1 (Minor) solar radiation are expected at nominal levels on
-24-26 Nov.
+Rationale: S1 (Minor) or greater solar radiation storms are expected at
+nominal levels on 25-27 Nov.
 
 C. NOAA Radio Blackout Activity and Forecast
 
 Radio blackouts reaching the R1 levels were observed over the past 24
-hours. The largest was at Nov 23 2024 1607 UTC.
+hours. The largest was at Nov 24 2024 2022 UTC.
 
-Radio Blackout Forecast for Nov 24-Nov 26 2024
+Radio Blackout Forecast for Nov 25-Nov 27 2024
 
-              Nov 24        Nov 25        Nov 26
-R1-R2           60%           60%           60%
+              Nov 25        Nov 26        Nov 27
+R1-R2           55%           55%           55%
 R3 or greater   15%           15%           15%
 
 Rationale: M-class flares (R1/R2-Minor/Moderate) are likely, with a
