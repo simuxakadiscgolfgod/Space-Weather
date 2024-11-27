@@ -1,56 +1,55 @@
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Nov 26 0030 UTC
+:Issued: 2024 Nov 27 0040 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Nov 26-Nov 28 2024 is 2.67 (below NOAA
-Scale levels).
+The greatest expected 3 hr Kp for Nov 27-Nov 29 2024 is 5.67 (NOAA Scale
+G2).
 
-NOAA Kp index breakdown Nov 26-Nov 28 2024
+NOAA Kp index breakdown Nov 27-Nov 29 2024
 
-             Nov 26       Nov 27       Nov 28
-00-03UT       2.67         1.67         1.67     
-03-06UT       2.33         1.33         1.33     
-06-09UT       1.67         1.33         1.33     
-09-12UT       2.33         1.33         1.33     
-12-15UT       2.33         1.33         1.67     
-15-18UT       2.00         1.33         1.33     
-18-21UT       2.00         1.67         1.33     
-21-00UT       2.00         1.67         1.67     
+             Nov 27       Nov 28       Nov 29
+00-03UT       1.67         3.00         4.33     
+03-06UT       1.33         1.00         5.67 (G2)
+06-09UT       1.33         2.00         3.67     
+09-12UT       1.33         1.67         3.33     
+12-15UT       1.33         3.33         4.33     
+15-18UT       1.33         4.00         3.33     
+18-21UT       1.67         5.00 (G1)    3.00     
+21-00UT       1.67         4.33         3.33     
 
-Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
-significant transient or recurrent solar wind features are forecast.
+Rationale: G1-G2 (Minor-Moderate) or greater geomagnetic storms are
+likely on 28-29 Nov due to possible impacts from a filament eruption on
+25 Nov.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Nov 26-Nov 28 2024
+Solar Radiation Storm Forecast for Nov 27-Nov 29 2024
 
-              Nov 26  Nov 27  Nov 28
-S1 or greater    5%      5%      5%
+              Nov 27  Nov 28  Nov 29
+S1 or greater   10%     10%     10%
 
-Rationale: No S1 (Minor) or greater solar radiation storms are expected.
-No significant active region activity favorable for radiation storm
-production is forecast.
+Rationale: There is a slight chance for S1 (Minor) or greater solar
+radiation storm over the next three days.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-Radio blackouts reaching the R2 levels were observed over the past 24
-hours. The largest was at Nov 25 2024 0742 UTC.
+No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Nov 26-Nov 28 2024
+Radio Blackout Forecast for Nov 27-Nov 29 2024
 
-              Nov 26        Nov 27        Nov 28
-R1-R2           55%           55%           55%
-R3 or greater   15%           15%           15%
+              Nov 27        Nov 28        Nov 29
+R1-R2           65%           65%           65%
+R3 or greater   20%           20%           20%
 
 Rationale: R1-R2 (Minor-Moderate) radio blackout activity is likely,
-with a slight chance for R3 (Strong) events, through 28 Nov.
+with a slight chance for R3 (Strong) events, through 29 Nov.
 
 ```

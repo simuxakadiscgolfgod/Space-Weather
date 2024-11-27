@@ -1,10 +1,14 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2024-11-26
-<br />**Title of the image:**  The Sombrero Galaxy from Webb and Hubble
-<br />**Description for the image:**  This floating ring is the size of a galaxy.  In fact, it is a galaxy -- or at least part of one: the photogenic Sombrero Galaxy is one of the largest galaxies in the nearby Virgo Cluster of Galaxies.  The dark band of dust that obscures the mid-section of the Sombrero Galaxy in visible light (bottom panel) actually glows brightly in infrared light (top panel).  The featured image shows the infrared glow in false blue, recorded recently by the space-based James Webb Space Telescope (JWST) and released yesterday,  pictured above an archival image taken by NASA's Hubble Space Telescope in visible light. The Sombrero Galaxy, also known as M104, spans about 50,000 light years and lies 28 million light years away.  M104 can be seen with a small telescope in the direction of the constellation Virgo.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2411/Sombrero_WebbHubble_2290.jpg
+<br />**Date image released:**  2024-11-27
+<br />**This image is owned by:**  
+Wang Hao;
+Processing: Song Wentao
+
+<br />**Title of the image:**  The Meteor and the Comet
+<br />**Description for the image:**  How different are these two streaks?  The streak on the upper right is Comet Tsuchinshan-Atlas showing an impressive dust tail. The comet is a large and dirty iceberg that entered the inner Solar System and is shedding gas and dust as it is warmed by the Sun's light. The streak on the lower left is a meteor showing an impressive evaporation trail.  The meteor is a small and cold rock that entered the Earth's atmosphere and is shedding gas and dust as it is warmed by molecular collisions.  The meteor was likely once part of a comet or asteroid -- perhaps later composing part of its tail.  The meteor was gone in a flash and was only caught by coincidence during a series of exposures documenting the comet's long tail. The featured image was captured just over a month ago from Sichuan Province in China.   Gallery: Comet Tsuchinshan-ATLAS in 2024
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2411/MeteorComet_WangHao_1959.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -48,57 +52,56 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Nov 26 0030 UTC
+:Issued: 2024 Nov 27 0040 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Nov 26-Nov 28 2024 is 2.67 (below NOAA
-Scale levels).
+The greatest expected 3 hr Kp for Nov 27-Nov 29 2024 is 5.67 (NOAA Scale
+G2).
 
-NOAA Kp index breakdown Nov 26-Nov 28 2024
+NOAA Kp index breakdown Nov 27-Nov 29 2024
 
-             Nov 26       Nov 27       Nov 28
-00-03UT       2.67         1.67         1.67     
-03-06UT       2.33         1.33         1.33     
-06-09UT       1.67         1.33         1.33     
-09-12UT       2.33         1.33         1.33     
-12-15UT       2.33         1.33         1.67     
-15-18UT       2.00         1.33         1.33     
-18-21UT       2.00         1.67         1.33     
-21-00UT       2.00         1.67         1.67     
+             Nov 27       Nov 28       Nov 29
+00-03UT       1.67         3.00         4.33     
+03-06UT       1.33         1.00         5.67 (G2)
+06-09UT       1.33         2.00         3.67     
+09-12UT       1.33         1.67         3.33     
+12-15UT       1.33         3.33         4.33     
+15-18UT       1.33         4.00         3.33     
+18-21UT       1.67         5.00 (G1)    3.00     
+21-00UT       1.67         4.33         3.33     
 
-Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
-significant transient or recurrent solar wind features are forecast.
+Rationale: G1-G2 (Minor-Moderate) or greater geomagnetic storms are
+likely on 28-29 Nov due to possible impacts from a filament eruption on
+25 Nov.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Nov 26-Nov 28 2024
+Solar Radiation Storm Forecast for Nov 27-Nov 29 2024
 
-              Nov 26  Nov 27  Nov 28
-S1 or greater    5%      5%      5%
+              Nov 27  Nov 28  Nov 29
+S1 or greater   10%     10%     10%
 
-Rationale: No S1 (Minor) or greater solar radiation storms are expected.
-No significant active region activity favorable for radiation storm
-production is forecast.
+Rationale: There is a slight chance for S1 (Minor) or greater solar
+radiation storm over the next three days.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-Radio blackouts reaching the R2 levels were observed over the past 24
-hours. The largest was at Nov 25 2024 0742 UTC.
+No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Nov 26-Nov 28 2024
+Radio Blackout Forecast for Nov 27-Nov 29 2024
 
-              Nov 26        Nov 27        Nov 28
-R1-R2           55%           55%           55%
-R3 or greater   15%           15%           15%
+              Nov 27        Nov 28        Nov 29
+R1-R2           65%           65%           65%
+R3 or greater   20%           20%           20%
 
 Rationale: R1-R2 (Minor-Moderate) radio blackout activity is likely,
-with a slight chance for R3 (Strong) events, through 28 Nov.
+with a slight chance for R3 (Strong) events, through 29 Nov.
 
 ```
