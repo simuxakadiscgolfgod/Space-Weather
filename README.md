@@ -1,14 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2024-11-27
-<br />**This image is owned by:**  
-Wang Hao;
-Processing: Song Wentao
-
-<br />**Title of the image:**  The Meteor and the Comet
-<br />**Description for the image:**  How different are these two streaks?  The streak on the upper right is Comet Tsuchinshan-Atlas showing an impressive dust tail. The comet is a large and dirty iceberg that entered the inner Solar System and is shedding gas and dust as it is warmed by the Sun's light. The streak on the lower left is a meteor showing an impressive evaporation trail.  The meteor is a small and cold rock that entered the Earth's atmosphere and is shedding gas and dust as it is warmed by molecular collisions.  The meteor was likely once part of a comet or asteroid -- perhaps later composing part of its tail.  The meteor was gone in a flash and was only caught by coincidence during a series of exposures documenting the comet's long tail. The featured image was captured just over a month ago from Sichuan Province in China.   Gallery: Comet Tsuchinshan-ATLAS in 2024
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2411/MeteorComet_WangHao_1959.jpg
+<br />**Date image released:**  2024-11-28
+<br />**This image is owned by:**  Roberto Marinoni
+<br />**Title of the image:**  NGC 206 and the Star Clouds of Andromeda
+<br />**Description for the image:**  The large stellar association cataloged as NGC 206 is nestled within the dusty arms of the neighboring Andromeda galaxy along with the galaxy's pinkish star-forming regions. Also known as M31, the spiral galaxy is a mere 2.5 million light-years away. NGC 206 is found at the center of this sharp and detailed close-up of the southwestern extent of Andromeda's disk. The bright, blue stars of NGC 206 indicate its youth. In fact, its youngest massive stars are less than 10 million years old. Much larger than the open or galactic clusters of young stars in the disk of our Milky Way galaxy, NGC 206 spans about 4,000 light-years. That's comparable in size to the giant stellar nurseries NGC 604 in nearby spiral M33 and the Tarantula Nebula in the Large Magellanic Cloud.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2411/NGC206_APOD.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -52,27 +49,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Nov 27 0040 UTC
+:Issued: 2024 Nov 28 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Nov 27-Nov 29 2024 is 5.67 (NOAA Scale
+The greatest expected 3 hr Kp for Nov 28-Nov 30 2024 is 5.67 (NOAA Scale
 G2).
 
-NOAA Kp index breakdown Nov 27-Nov 29 2024
+NOAA Kp index breakdown Nov 28-Nov 30 2024
 
-             Nov 27       Nov 28       Nov 29
-00-03UT       1.67         3.00         4.33     
-03-06UT       1.33         1.00         5.67 (G2)
-06-09UT       1.33         2.00         3.67     
-09-12UT       1.33         1.67         3.33     
-12-15UT       1.33         3.33         4.33     
-15-18UT       1.33         4.00         3.33     
-18-21UT       1.67         5.00 (G1)    3.00     
-21-00UT       1.67         4.33         3.33     
+             Nov 28       Nov 29       Nov 30
+00-03UT       3.00         4.33         3.67     
+03-06UT       1.00         5.67 (G2)    3.00     
+06-09UT       2.00         3.67         3.00     
+09-12UT       1.67         3.33         2.33     
+12-15UT       3.33         4.33         1.67     
+15-18UT       4.00         3.33         2.00     
+18-21UT       5.00 (G1)    3.00         2.67     
+21-00UT       4.33         3.33         2.33     
 
 Rationale: G1-G2 (Minor-Moderate) or greater geomagnetic storms are
 likely on 28-29 Nov due to possible impacts from a filament eruption on
@@ -83,9 +80,9 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Nov 27-Nov 29 2024
+Solar Radiation Storm Forecast for Nov 28-Nov 30 2024
 
-              Nov 27  Nov 28  Nov 29
+              Nov 28  Nov 29  Nov 30
 S1 or greater   10%     10%     10%
 
 Rationale: There is a slight chance for S1 (Minor) or greater solar
@@ -93,15 +90,16 @@ radiation storm over the next three days.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-No radio blackouts were observed over the past 24 hours.
+Radio blackouts reaching the R1 levels were observed over the past 24
+hours. The largest was at Nov 27 2024 1246 UTC.
 
-Radio Blackout Forecast for Nov 27-Nov 29 2024
+Radio Blackout Forecast for Nov 28-Nov 30 2024
 
-              Nov 27        Nov 28        Nov 29
+              Nov 28        Nov 29        Nov 30
 R1-R2           65%           65%           65%
 R3 or greater   20%           20%           20%
 
 Rationale: R1-R2 (Minor-Moderate) radio blackout activity is likely,
-with a slight chance for R3 (Strong) events, through 29 Nov.
+with a slight chance for R3 (Strong) events, through 30 Nov.
 
 ```
