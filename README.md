@@ -1,11 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2024-11-29
-<br />**This image is owned by:**  Steve Crouch
-<br />**Title of the image:**  Messier 4
-<br />**Description for the image:**  Messier 4 can be found west of bright red-giant star Antares, alpha star of the constellation Scorpius. M4 itself is only just visible from dark sky locations, even though the globular cluster of 100,000 stars or so is a mere 5,500 light-years away. Still, its proximity to prying telescopic eyes makes it a prime target for astronomical explorations. Recent studies have included Hubble observations of M4's pulsating cepheid variable stars, cooling white dwarf stars, and ancient, pulsar orbiting exoplanet PSR B1620-26 b. This sharp image was captured with a small telescope on planet Earth. At M4's estimated distance it spans about 50 light-years across the core of the globular star cluster.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2411/m4_STXL16200_RC14_LRGB.jpg
+<br />**Date image released:**  2024-11-30
+<br />**This image is owned by:**  Camille Niel
+<br />**Title of the image:**  Winter and Summer on a Little Planet
+<br />**Description for the image:**  Winter and summer appear to come on a single night to this stunning little planet. It's planet Earth of course. The digitally mapped, nadir centered panorama covers 360x180 degrees and is composed of frames recorded during January and July from the Col du Galibier in the French Alps. Stars and nebulae of the northern winter (bottom) and summer Milky Way form the complete arcs traversing the rugged, curved horizon. Cars driving along on the road during a summer night illuminate the 2,642 meter high mountain pass, but snow makes access difficult during winter months except by serious ski touring. Cycling fans will recognize the Col du Galibier as one of the most famous climbs in planet Earth's Tour de France.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2411/LittleplanetGalibier-CamilleNIEL2048.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,56 +49,55 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Nov 29 0030 UTC
+:Issued: 2024 Nov 30 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Nov 29-Dec 01 2024 is 5.67 (NOAA Scale
-G2).
+The greatest expected 3 hr Kp for Nov 30-Dec 02 2024 is 3.67 (below NOAA
+Scale levels).
 
-NOAA Kp index breakdown Nov 29-Dec 01 2024
+NOAA Kp index breakdown Nov 30-Dec 02 2024
 
-             Nov 29       Nov 30       Dec 01
-00-03UT       4.33         3.67         1.67     
-03-06UT       5.67 (G2)    3.00         1.67     
-06-09UT       3.67         2.33         1.33     
-09-12UT       3.33         2.33         1.33     
-12-15UT       2.33         1.67         1.33     
-15-18UT       3.33         2.00         1.33     
-18-21UT       2.33         1.00         1.33     
-21-00UT       3.00         2.33         1.67     
+             Nov 30       Dec 01       Dec 02
+00-03UT       3.67         1.67         2.33     
+03-06UT       3.00         1.67         1.67     
+06-09UT       2.33         1.33         2.33     
+09-12UT       2.33         1.33         2.33     
+12-15UT       1.67         1.33         2.33     
+15-18UT       2.00         1.33         2.33     
+18-21UT       1.00         1.33         2.00     
+21-00UT       2.33         1.67         2.33     
 
-Rationale: G1-G2 (Minor-Moderate) or greater geomagnetic storms are
-likely on 29 Nov due to possible impacts from a filament eruption on
-25 Nov.
+Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
+significant transient or recurrent solar wind features are forecast.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Nov 29-Dec 01 2024
+Solar Radiation Storm Forecast for Nov 30-Dec 02 2024
 
-              Nov 29  Nov 30  Dec 01
+              Nov 30  Dec 01  Dec 02
 S1 or greater   10%     10%     10%
 
-Rationale: There is a slight chance for S1 (Minor) or greater solar
-radiation storm over the next three days.
+Rationale: There is a slight chance for S1 (Minor) solar radiation
+storms over 30 Nov-02 Dec.
 
 C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Nov 29-Dec 01 2024
+Radio Blackout Forecast for Nov 30-Dec 02 2024
 
-              Nov 29        Nov 30        Dec 01
-R1-R2           55%           55%           55%
-R3 or greater   20%           20%           20%
+              Nov 30        Dec 01        Dec 02
+R1-R2           40%           40%           40%
+R3 or greater   10%           10%           10%
 
-Rationale: R1-R2 (Minor-Moderate) radio blackout activity is likely,
-with a slight chance for R3 (Strong) events, through 01 Dec.
+Rationale: There is a chance for R1-R2 (Minor-Moderate) radio blackouts,
+and a slight chance for R3 or greater events, over 30 Nov-02 Dec.
 
 ```
