@@ -1,11 +1,10 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2024-11-30
-<br />**This image is owned by:**  Camille Niel
-<br />**Title of the image:**  Winter and Summer on a Little Planet
-<br />**Description for the image:**  Winter and summer appear to come on a single night to this stunning little planet. It's planet Earth of course. The digitally mapped, nadir centered panorama covers 360x180 degrees and is composed of frames recorded during January and July from the Col du Galibier in the French Alps. Stars and nebulae of the northern winter (bottom) and summer Milky Way form the complete arcs traversing the rugged, curved horizon. Cars driving along on the road during a summer night illuminate the 2,642 meter high mountain pass, but snow makes access difficult during winter months except by serious ski touring. Cycling fans will recognize the Col du Galibier as one of the most famous climbs in planet Earth's Tour de France.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2411/LittleplanetGalibier-CamilleNIEL2048.jpg
+<br />**Date image released:**  2024-12-01
+<br />**Title of the image:**  Cosmic Latte: The Average Color of the Universe
+<br />**Description for the image:**  What color is the universe?  More precisely, if the entire sky were smeared out, what color would the final mix be?  This whimsical question came up when trying to determine what stars are commonplace in nearby galaxies. The answer, depicted here, is a conditionally perceived shade of beige. In computer parlance: #FFF8E7.  To determine this, astronomers computationally averaged the light emitted by one of the larger samples of galaxies analyzed: the 200,000 galaxies of the 2dF Galaxy Redshift Survey.  The resulting cosmic spectrum has some emission in all parts of the electromagnetic spectrum, but a single perceived composite color.  This color has become much less blue over the past 10 billion years, indicating that redder stars are becoming more prevalent.  In a contest to better name the color, notable entries included skyvory, univeige, and the winner: cosmic latte.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2412/CosmicLatte_jhu_960.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,27 +48,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Nov 30 0030 UTC
+:Issued: 2024 Dec 01 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
-Scale levels).
-The greatest expected 3 hr Kp for Nov 30-Dec 02 2024 is 3.67 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 5 (NOAA Scale
+G1).
+The greatest expected 3 hr Kp for Dec 01-Dec 03 2024 is 4.00 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Nov 30-Dec 02 2024
+NOAA Kp index breakdown Dec 01-Dec 03 2024
 
-             Nov 30       Dec 01       Dec 02
-00-03UT       3.67         1.67         2.33     
-03-06UT       3.00         1.67         1.67     
-06-09UT       2.33         1.33         2.33     
-09-12UT       2.33         1.33         2.33     
-12-15UT       1.67         1.33         2.33     
-15-18UT       2.00         1.33         2.33     
-18-21UT       1.00         1.33         2.00     
-21-00UT       2.33         1.67         2.33     
+             Dec 01       Dec 02       Dec 03
+00-03UT       2.00         2.67         2.00     
+03-06UT       1.00         1.67         1.67     
+06-09UT       1.67         2.67         1.33     
+09-12UT       1.00         2.00         1.00     
+12-15UT       0.67         0.67         1.00     
+15-18UT       1.00         1.67         1.33     
+18-21UT       2.67         3.00         1.33     
+21-00UT       4.00         1.67         1.67     
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
 significant transient or recurrent solar wind features are forecast.
@@ -79,25 +78,25 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Nov 30-Dec 02 2024
+Solar Radiation Storm Forecast for Dec 01-Dec 03 2024
 
-              Nov 30  Dec 01  Dec 02
+              Dec 01  Dec 02  Dec 03
 S1 or greater   10%     10%     10%
 
 Rationale: There is a slight chance for S1 (Minor) solar radiation
-storms over 30 Nov-02 Dec.
+storms on 01-03 Dec.
 
 C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Nov 30-Dec 02 2024
+Radio Blackout Forecast for Dec 01-Dec 03 2024
 
-              Nov 30        Dec 01        Dec 02
+              Dec 01        Dec 02        Dec 03
 R1-R2           40%           40%           40%
-R3 or greater   10%           10%           10%
+R3 or greater    5%            5%            5%
 
-Rationale: There is a chance for R1-R2 (Minor-Moderate) radio blackouts,
-and a slight chance for R3 or greater events, over 30 Nov-02 Dec.
+Rationale: There is a chance for R1-R2 (Minor-Moderate) radio blackouts
+over 01-03 Dec.
 
 ```
