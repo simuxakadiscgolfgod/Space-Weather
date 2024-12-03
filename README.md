@@ -1,13 +1,10 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2024-12-02
-<br />**This image is owned by:**  
-Daniel Stern
-
-<br />**Title of the image:**  NGC 300: A Galaxy of Stars
-<br />**Description for the image:**  This galaxy is unusual for how many stars it seems that you can see. Stars are so abundantly evident in this deep exposure of the spiral galaxy NGC 300 because so many of these stars are bright blue and grouped into resolvable bright star clusters.  Additionally, NGC 300 is so clear because it is one of the closest spiral galaxies to Earth, as light takes only about 6 million years to get here.  Of course, galaxies are composed of many more faint stars than bright, and even more of a galaxy's mass is attributed to unseen dark matter.  NGC 300 spans nearly the same amount of sky as the full moon and is visible with a small telescope toward the southern constellation of the Sculptor. The featured image was captured in October from Rio Hurtado, Chile and is a composite of over 20 hours of exposure.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2412/Ngc300_Stern_7032.jpg
+<br />**Date image released:**  2024-12-03
+<br />**Title of the image:**  Ice Clouds over a Red Planet
+<br />**Description for the image:**  If you could stand on Mars -- what might you see?  You might look out over a vast orange landscape covered with rocks under a dusty orange sky, with a blue-tinted Sun setting over the horizon, and odd-shaped water clouds hovering high overhead. This was just the view captured last March by NASA's rolling explorer,  Perseverance. The orange coloring is caused by rusted iron in the Martian dirt, some of which is small enough to be swept up by winds into the atmosphere. The blue tint near the setting Sun is caused by blue light being preferentially scattered out from the Sun by the floating dust. The light-colored clouds on the right are likely composed of water-ice and appear high in the Martian atmosphere.  The shapes of some of these clouds are unusual for Earth and remain a topic of research.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2412/MarsClouds_Perseverance_2048.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -51,27 +48,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Dec 02 0030 UTC
+:Issued: 2024 Dec 03 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Dec 02-Dec 04 2024 is 3.00 (below NOAA
+The greatest expected 3 hr Kp for Dec 03-Dec 05 2024 is 3.67 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Dec 02-Dec 04 2024
+NOAA Kp index breakdown Dec 03-Dec 05 2024
 
-             Dec 02       Dec 03       Dec 04
-00-03UT       2.67         2.00         1.33     
-03-06UT       1.67         1.67         1.33     
-06-09UT       2.67         1.33         1.33     
-09-12UT       2.00         1.00         1.33     
-12-15UT       0.67         1.00         1.33     
-15-18UT       1.67         1.33         1.67     
-18-21UT       3.00         1.33         1.67     
-21-00UT       1.67         1.67         1.67     
+             Dec 03       Dec 04       Dec 05
+00-03UT       3.67         1.33         1.67     
+03-06UT       3.00         1.33         1.33     
+06-09UT       3.67         1.33         1.33     
+09-12UT       2.33         1.33         1.33     
+12-15UT       2.33         1.33         1.33     
+15-18UT       2.00         1.67         1.33     
+18-21UT       1.67         1.67         1.67     
+21-00UT       2.67         1.67         1.67     
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
 significant transient or recurrent solar wind features are forecast.
@@ -81,9 +78,9 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Dec 02-Dec 04 2024
+Solar Radiation Storm Forecast for Dec 03-Dec 05 2024
 
-              Dec 02  Dec 03  Dec 04
+              Dec 03  Dec 04  Dec 05
 S1 or greater    5%      5%      5%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -94,13 +91,13 @@ C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Dec 02-Dec 04 2024
+Radio Blackout Forecast for Dec 03-Dec 05 2024
 
-              Dec 02        Dec 03        Dec 04
+              Dec 03        Dec 04        Dec 05
 R1-R2           30%           30%           30%
 R3 or greater    5%            5%            5%
 
-Rationale: No R1 (Minor) or greater radio blackouts are expected.  No
-significant active region flare activity is forecast.
+Rationale: Theres a chance for R1-R2 (Minor-Moderate) radio blackouts
+all three days.
 
 ```
