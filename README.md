@@ -1,12 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Sorry, Image not available!**
-<br />**Date image released:**  2024-12-05
-<br />**This image is owned by:**  Marco Lorenzi
-<br />**Title of the image:**  Stereo Jupiter near Opposition
-<br />**Description for the image:**  Jupiter looks sharp in these two rooftop telescope images. Both were captured last year on November 17 from Singapore, planet Earth, about two weeks after Jupiter's 2023 opposition. Climbing high in midnight skies the giant planet was a mere 33.4 light-minutes from Singapore. That's about 4 astronomical units away. Jupiter's planet girdling dark belts and light zones are visible in remarkable detail, along with the giant world's whitish oval vortices. Its signature Great Red Spot is prominent in the south. Jupiter rotates rapidly on its axis once every 10 hours. So, based on video frames taken only 15 minutes apart, these images form a stereo pair. Look at the center of the pair and cross your eyes until the separate images come together to see the 3D effect. Of course Jupiter is now not far from its 2024 opposition. Planet Earth is set to pass between the Solar System's ruling gas giant and the Sun on December 7.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2412/2023-11-17-1617_1632-Jupiter_Stereo.png
+<br />**Date image released:**  2024-12-06
+<br />**This image is owned by:**  Purple Mountain (Tsuchinshan)
+<br />**Title of the image:**  Xuyi Station and the Fireball
+<br />**Description for the image:**  Colorful and bright, this streaking fireball meteor was captured in a single exposure taken at Purple Mountain (Tsuchinshan) Observatory’s Xuyi Station in 2020, during planet Earth's annual Perseid meteor shower. The dome in the foreground houses the China Near Earth Object Survey Telescope (CNEOST), the largest multi-purpose Schmidt telescope in China. Located in Xuyi County, Jiangsu Province, the station began its operation as an extension of China's Purple Mountain Observatory in 2006. Darling of planet Earth's night skies in 2024, the bright comet designated Tsuchinshan-ATLAS (C/2023 A3) was discovered in images taken there on 2023 January 9. The discovery is jointly credited to NASA's ATLAS robotic survey telescope at Sutherland Observatory, South Africa. Other comet discoveries associated with the historic Purple Mountain Observatory and bearing the observatory's transliterated Mandarin name include periodic comets 60/P Tsuchinshan and 62/P Tsuchinshan.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2412/PurpleMountainObservatoryXuYiStationFireball.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -50,27 +49,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Dec 05 0030 UTC
+:Issued: 2024 Dec 06 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Dec 05-Dec 07 2024 is 3.00 (below NOAA
+The greatest expected 3 hr Kp for Dec 06-Dec 08 2024 is 3.00 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Dec 05-Dec 07 2024
+NOAA Kp index breakdown Dec 06-Dec 08 2024
 
-             Dec 05       Dec 06       Dec 07
-00-03UT       1.67         1.00         2.67     
-03-06UT       1.33         1.67         2.00     
-06-09UT       1.33         2.00         1.67     
-09-12UT       1.33         1.00         3.00     
-12-15UT       1.33         2.33         2.00     
-15-18UT       1.33         3.00         2.33     
-18-21UT       1.67         2.33         1.67     
-21-00UT       1.67         2.67         1.00     
+             Dec 06       Dec 07       Dec 08
+00-03UT       1.00         2.67         2.00     
+03-06UT       1.67         2.00         2.00     
+06-09UT       2.00         1.67         2.33     
+09-12UT       1.00         3.00         2.33     
+12-15UT       2.33         2.00         2.33     
+15-18UT       3.00         2.33         2.67     
+18-21UT       2.33         1.67         2.00     
+21-00UT       2.67         1.00         1.33     
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
 significant transient or recurrent solar wind features are forecast.
@@ -80,9 +79,9 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Dec 05-Dec 07 2024
+Solar Radiation Storm Forecast for Dec 06-Dec 08 2024
 
-              Dec 05  Dec 06  Dec 07
+              Dec 06  Dec 07  Dec 08
 S1 or greater    5%      5%      5%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -92,15 +91,15 @@ production is forecast.
 C. NOAA Radio Blackout Activity and Forecast
 
 Radio blackouts reaching the R1 levels were observed over the past 24
-hours. The largest was at Dec 04 2024 1000 UTC.
+hours. The largest was at Dec 05 2024 1040 UTC.
 
-Radio Blackout Forecast for Dec 05-Dec 07 2024
+Radio Blackout Forecast for Dec 06-Dec 08 2024
 
-              Dec 05        Dec 06        Dec 07
-R1-R2           30%           30%           30%
+              Dec 06        Dec 07        Dec 08
+R1-R2           30%           35%           35%
 R3 or greater    5%            5%            5%
 
 Rationale: There is a chance for R1-R2 (Minor-Moderate) radio blackouts
-through 07 Dec.
+over 06-08 Dec.
 
 ```
