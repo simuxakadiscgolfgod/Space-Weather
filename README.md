@@ -1,11 +1,10 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2024-12-06
-<br />**This image is owned by:**  Purple Mountain (Tsuchinshan)
-<br />**Title of the image:**  Xuyi Station and the Fireball
-<br />**Description for the image:**  Colorful and bright, this streaking fireball meteor was captured in a single exposure taken at Purple Mountain (Tsuchinshan) Observatory’s Xuyi Station in 2020, during planet Earth's annual Perseid meteor shower. The dome in the foreground houses the China Near Earth Object Survey Telescope (CNEOST), the largest multi-purpose Schmidt telescope in China. Located in Xuyi County, Jiangsu Province, the station began its operation as an extension of China's Purple Mountain Observatory in 2006. Darling of planet Earth's night skies in 2024, the bright comet designated Tsuchinshan-ATLAS (C/2023 A3) was discovered in images taken there on 2023 January 9. The discovery is jointly credited to NASA's ATLAS robotic survey telescope at Sutherland Observatory, South Africa. Other comet discoveries associated with the historic Purple Mountain Observatory and bearing the observatory's transliterated Mandarin name include periodic comets 60/P Tsuchinshan and 62/P Tsuchinshan.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2412/PurpleMountainObservatoryXuYiStationFireball.jpg
+<br />**Date image released:**  2024-12-07
+<br />**Title of the image:**  Rocket Engine Fireplace
+<br />**Description for the image:**  You might not think a close up view of rocket engines producing 8.8 million pounds of thrust would be relaxing, but here it can be. In fact, you can get a warm and cozy feeling just spending a few moments watching NASA's holiday rocket engine fireplace. The video features a loop of the Space Launch System rocket's RS-25 main engines throttled up and running flanked by solid rocket boosters and framed by a stone fireplace. The accompanying audio track mixes the drastically muted sounds of the rocket engines firing with the more familiar sounds of a burning, crackling wood fire. AI elements are included in the composed video along with an image and logo from the Artemis I mission. The Artemis I uncrewed mission to the Moon and back again launched in November 2022 on a Space Launch System rocket.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2412/NASARocketEngineFireplaceSnap600.png
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,27 +48,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Dec 06 0030 UTC
+:Issued: 2024 Dec 07 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Dec 06-Dec 08 2024 is 3.00 (below NOAA
+The greatest expected 3 hr Kp for Dec 07-Dec 09 2024 is 3.00 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Dec 06-Dec 08 2024
+NOAA Kp index breakdown Dec 07-Dec 09 2024
 
-             Dec 06       Dec 07       Dec 08
-00-03UT       1.00         2.67         2.00     
-03-06UT       1.67         2.00         2.00     
-06-09UT       2.00         1.67         2.33     
-09-12UT       1.00         3.00         2.33     
-12-15UT       2.33         2.00         2.33     
-15-18UT       3.00         2.33         2.67     
-18-21UT       2.33         1.67         2.00     
-21-00UT       2.67         1.00         1.33     
+             Dec 07       Dec 08       Dec 09
+00-03UT       2.67         2.00         1.67     
+03-06UT       2.00         2.00         1.33     
+06-09UT       1.67         2.33         1.33     
+09-12UT       3.00         2.33         1.33     
+12-15UT       2.00         2.33         1.33     
+15-18UT       2.33         2.67         1.33     
+18-21UT       1.67         2.00         1.67     
+21-00UT       1.00         1.33         1.67     
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
 significant transient or recurrent solar wind features are forecast.
@@ -79,9 +78,9 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Dec 06-Dec 08 2024
+Solar Radiation Storm Forecast for Dec 07-Dec 09 2024
 
-              Dec 06  Dec 07  Dec 08
+              Dec 07  Dec 08  Dec 09
 S1 or greater    5%      5%      5%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -91,15 +90,15 @@ production is forecast.
 C. NOAA Radio Blackout Activity and Forecast
 
 Radio blackouts reaching the R1 levels were observed over the past 24
-hours. The largest was at Dec 05 2024 1040 UTC.
+hours. The largest was at Dec 06 2024 0926 UTC.
 
-Radio Blackout Forecast for Dec 06-Dec 08 2024
+Radio Blackout Forecast for Dec 07-Dec 09 2024
 
-              Dec 06        Dec 07        Dec 08
-R1-R2           30%           35%           35%
+              Dec 07        Dec 08        Dec 09
+R1-R2           35%           35%           35%
 R3 or greater    5%            5%            5%
 
 Rationale: There is a chance for R1-R2 (Minor-Moderate) radio blackouts
-over 06-08 Dec.
+over 07-09 Dec.
 
 ```
