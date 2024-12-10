@@ -1,13 +1,10 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2024-12-09
-<br />**This image is owned by:**  
-Francesco Pelizzo
-
-<br />**Title of the image:**  Pleiades: The Seven Sisters Star Cluster
-<br />**Description for the image:**  Have you ever seen the Pleiades star cluster? Even if you have, you probably have never seen it as large and clear as this. Perhaps the most famous star cluster on the sky, the bright stars of the Pleiades can be seen with the unaided eye even from the depths of a light-polluted city.  With a long exposure from a dark location, though, the dust cloud surrounding the Pleiades star cluster becomes very evident. The featured 23-hour exposure, taken from Fagagna, Italy  covers a sky area several times the size of the full moon.  Also known as the Seven Sisters and M45, the Pleiades lies about 400 light years away toward the constellation of the Bull (Taurus).  A common legend with a modern twist is that one of the brighter stars faded since the cluster was named, leaving only six of the sister stars visible to the unaided eye. The actual number of Pleiades stars visible, however, may be more or less than seven, depending on the darkness of the surrounding sky and the clarity of the observer's eyesight.   New: Alternative multi-APOD front page
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2412/Pleiades_Pelizzo_9396.jpg
+<br />**Date image released:**  2024-12-10
+<br />**Title of the image:**  The Great Meteor Storm of 1833
+<br />**Description for the image:**  It was a night of 100,000 meteors.  The Great Meteor Storm of 1833 was perhaps the most impressive meteor event in recent history.  Best visible over eastern North America during the pre-dawn hours of November 13, many people -- including a young Abraham Lincoln -- were woken up to see the sky erupt in streaks and flashes. Hundreds of thousands of meteors blazed across the sky, seemingly pouring out of the constellation of the Lion (Leo).  The featured image is a digitization of a wood engraving which itself was based on a painting from a first-person account. We know today that the Great Meteor Storm of 1833 was caused by the Earth moving through a dense part of the dust trail expelled from Comet Tempel-Tuttle. The Earth moves through this dust stream every November during the Leonid meteor shower. Later this week you might get a slight taste of the intensity of that 1833 meteor storm by witnessing the annual Geminid meteor shower.   Explore Your Universe: Random APOD Generator
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2412/LeonidsWoodcut_Vollmy_1293.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -51,27 +48,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Dec 09 0030 UTC
+:Issued: 2024 Dec 10 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Dec 09-Dec 11 2024 is 2.67 (below NOAA
+The greatest expected 3 hr Kp for Dec 10-Dec 12 2024 is 3.67 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Dec 09-Dec 11 2024
+NOAA Kp index breakdown Dec 10-Dec 12 2024
 
-             Dec 09       Dec 10       Dec 11
-00-03UT       2.67         2.33         2.67     
-03-06UT       2.33         2.67         2.33     
-06-09UT       2.00         2.33         2.33     
-09-12UT       2.00         2.00         2.00     
-12-15UT       1.67         2.00         2.00     
-15-18UT       2.00         2.00         2.00     
-18-21UT       2.00         2.00         2.00     
-21-00UT       2.33         2.33         2.33     
+             Dec 10       Dec 11       Dec 12
+00-03UT       3.00         2.67         2.33     
+03-06UT       2.00         3.00         2.33     
+06-09UT       3.67         2.00         2.33     
+09-12UT       2.67         2.67         1.67     
+12-15UT       2.33         2.00         2.33     
+15-18UT       2.00         2.67         2.33     
+18-21UT       2.67         2.67         2.33     
+21-00UT       2.67         3.00         2.00     
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
 significant transient or recurrent solar wind features are forecast.
@@ -81,26 +78,27 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Dec 09-Dec 11 2024
+Solar Radiation Storm Forecast for Dec 10-Dec 12 2024
 
-              Dec 09  Dec 10  Dec 11
+              Dec 10  Dec 11  Dec 12
 S1 or greater   10%      5%      5%
 
-Rationale: There is a slight chance for S1 (Minor) solar radiation
-storms on 09 Dec.
+Rationale: No S1 (Minor) or greater solar radiation storms are expected.
+No significant active region activity favorable for radiation storm
+production is forecast.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-Radio blackouts reaching the R3 levels were observed over the past 24
-hours. The largest was at Dec 08 2024 0906 UTC.
+No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Dec 09-Dec 11 2024
+Radio Blackout Forecast for Dec 10-Dec 12 2024
 
-              Dec 09        Dec 10        Dec 11
-R1-R2           60%           50%           50%
-R3 or greater   10%           10%            5%
+              Dec 10        Dec 11        Dec 12
+R1-R2           60%           55%           55%
+R3 or greater   10%           10%           10%
 
-Rationale: R1-R2 (Minor-Moderate) radio blackouts are likely on 09 Dec,
-with a slight chance for R3 (Strong) or greater events on 09-10 Dec.
+Rationale: R1-R2 (Minor-Moderate) radio blackouts are likely with a
+slight chance for R3 (Strong) levels 10-12 Dec based primarily on the
+flare potential of Region 3912 and 3917.
 
 ```
