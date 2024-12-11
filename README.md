@@ -1,10 +1,10 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2024-12-10
-<br />**Title of the image:**  The Great Meteor Storm of 1833
-<br />**Description for the image:**  It was a night of 100,000 meteors.  The Great Meteor Storm of 1833 was perhaps the most impressive meteor event in recent history.  Best visible over eastern North America during the pre-dawn hours of November 13, many people -- including a young Abraham Lincoln -- were woken up to see the sky erupt in streaks and flashes. Hundreds of thousands of meteors blazed across the sky, seemingly pouring out of the constellation of the Lion (Leo).  The featured image is a digitization of a wood engraving which itself was based on a painting from a first-person account. We know today that the Great Meteor Storm of 1833 was caused by the Earth moving through a dense part of the dust trail expelled from Comet Tempel-Tuttle. The Earth moves through this dust stream every November during the Leonid meteor shower. Later this week you might get a slight taste of the intensity of that 1833 meteor storm by witnessing the annual Geminid meteor shower.   Explore Your Universe: Random APOD Generator
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2412/LeonidsWoodcut_Vollmy_1293.jpg
+<br />**Date image released:**  2024-12-11
+<br />**Title of the image:**  The Shells and Jets of Galaxy Centaurus A
+<br />**Description for the image:**  What's the closest active galaxy to planet Earth? That would be Centaurus A, cataloged as NGC 5128, which is only 12 million light-years distant. Forged in a collision of two otherwise normal galaxies, Centaurus A shows several distinctive features including a dark dust lane across its center, outer shells of stars and gas, and jets of particles shooting out from a supermassive black hole at its center.  The featured image captures all of these in a composite series of visible light images totaling over 310 hours captured over the past 10 years with a homebuilt telescope operating in Auckland, New Zealand. The brightness of Cen A's center from low-energy radio waves to high-energy gamma rays underlies its designation as an active galaxy.    Astrophysicists: Browse 3,500+ codes in the Astrophysics Source Code Library
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2412/CenAShellsJets_Olsen_6150.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -48,27 +48,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Dec 10 0030 UTC
+:Issued: 2024 Dec 11 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Dec 10-Dec 12 2024 is 3.67 (below NOAA
+The greatest expected 3 hr Kp for Dec 11-Dec 13 2024 is 3.00 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Dec 10-Dec 12 2024
+NOAA Kp index breakdown Dec 11-Dec 13 2024
 
-             Dec 10       Dec 11       Dec 12
-00-03UT       3.00         2.67         2.33     
-03-06UT       2.00         3.00         2.33     
-06-09UT       3.67         2.00         2.33     
-09-12UT       2.67         2.67         1.67     
-12-15UT       2.33         2.00         2.33     
-15-18UT       2.00         2.67         2.33     
-18-21UT       2.67         2.67         2.33     
-21-00UT       2.67         3.00         2.00     
+             Dec 11       Dec 12       Dec 13
+00-03UT       2.67         2.33         1.67     
+03-06UT       3.00         2.33         1.67     
+06-09UT       2.00         2.33         1.67     
+09-12UT       2.67         1.67         1.33     
+12-15UT       2.00         2.33         1.33     
+15-18UT       2.67         2.33         1.33     
+18-21UT       2.67         2.33         1.33     
+21-00UT       3.00         2.00         1.33     
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
 significant transient or recurrent solar wind features are forecast.
@@ -78,10 +78,10 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Dec 10-Dec 12 2024
+Solar Radiation Storm Forecast for Dec 11-Dec 13 2024
 
-              Dec 10  Dec 11  Dec 12
-S1 or greater   10%      5%      5%
+              Dec 11  Dec 12  Dec 13
+S1 or greater    5%      5%      5%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
 No significant active region activity favorable for radiation storm
@@ -89,16 +89,17 @@ production is forecast.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-No radio blackouts were observed over the past 24 hours.
+Radio blackouts reaching the R2 levels were observed over the past 24
+hours. The largest was at Dec 10 2024 0648 UTC.
 
-Radio Blackout Forecast for Dec 10-Dec 12 2024
+Radio Blackout Forecast for Dec 11-Dec 13 2024
 
-              Dec 10        Dec 11        Dec 12
-R1-R2           60%           55%           55%
+              Dec 11        Dec 12        Dec 13
+R1-R2           55%           55%           55%
 R3 or greater   10%           10%           10%
 
 Rationale: R1-R2 (Minor-Moderate) radio blackouts are likely with a
-slight chance for R3 (Strong) levels 10-12 Dec based primarily on the
-flare potential of Region 3912 and 3917.
+slight chance for R3 (Strong) levels 11-13 Dec based primarily on the
+flare potential of Regions 3917 and 3922.
 
 ```
