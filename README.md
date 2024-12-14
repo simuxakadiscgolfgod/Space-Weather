@@ -1,11 +1,10 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2024-12-13
-<br />**This image is owned by:**  The Deep Sky Collective
-<br />**Title of the image:**  M51: Tidal Streams and H-alpha Cliffs
-<br />**Description for the image:**  An intriguing pair of interacting galaxies, M51 is the 51st entry in Charles Messier's famous catalog. Perhaps the original spiral nebula, the large galaxy with whirlpool-like spiral structure seen nearly face-on is also cataloged as NGC 5194. Its spiral arms and dust lanes sweep in front of its smaller companion galaxy, NGC 5195. Some 31 million light-years distant, within the boundaries of the well-trained constellation Canes Venatici, M51 looks faint and fuzzy to the eye in direct telescopic views. But this remarkably deep image shows off stunning details of the galaxy pair's striking colors and fainter tidal streams. The image includes extensive narrowband data to highlight a vast reddish cloud of ionized hydrogen gas recently discovered in the M51 system and known to some as the H-alpha cliffs. Foreground dust clouds in the Milky Way and distant background galaxies are captured in the wide-field view. A continuing collaboration of astro-imagers using telescopes on planet Earth assembled over 3 weeks of exposure time to create this evolving portrait of M51.  Watch: The 2024 Geminid Meteor Shower
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2412/M51_HaLRGB_APOD2048.jpg
+<br />**Date image released:**  2024-12-14
+<br />**Title of the image:**  Apollo 17's Moonship
+<br />**Description for the image:**  Awkward and angular looking, Apollo 17's lunar module Challenger was designed for flight in the near vacuum of space.  Digitally enhanced and reprocessed, this picture taken from Apollo 17's command module America shows Challenger's ascent stage in lunar orbit. Small reaction control thrusters are at the sides of the moonship with the bell of the ascent rocket engine underneath. The hatch allowing access to the lunar surface is seen at the front, with a round radar antenna at the top. Mission commander Gene Cernan is clearly visible through the triangular window. This spaceship performed gracefully, landing on the Moon and returning the Apollo astronauts to the orbiting command module in December of 1972. So where is Challenger now? Its descent stage remains at the Apollo 17 landing site in the Taurus-Littrow valley. The ascent stage pictured was intentionally crashed nearby after being jettisoned from the command module prior to the astronauts' return to planet Earth.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2412/AS17-149-22859-2v2SmlWmk.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,27 +48,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Dec 13 0030 UTC
+:Issued: 2024 Dec 14 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Dec 13-Dec 15 2024 is 2.67 (below NOAA
+The greatest expected 3 hr Kp for Dec 14-Dec 16 2024 is 3.00 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Dec 13-Dec 15 2024
+NOAA Kp index breakdown Dec 14-Dec 16 2024
 
-             Dec 13       Dec 14       Dec 15
-00-03UT       1.67         1.67         2.33     
-03-06UT       1.67         1.67         2.00     
-06-09UT       1.67         1.33         1.67     
-09-12UT       1.33         1.33         1.33     
-12-15UT       1.33         1.67         2.00     
-15-18UT       1.33         1.33         2.00     
-18-21UT       1.33         1.33         2.67     
-21-00UT       1.33         1.33         2.67     
+             Dec 14       Dec 15       Dec 16
+00-03UT       1.67         2.00         3.00     
+03-06UT       1.67         2.00         2.33     
+06-09UT       1.33         2.33         2.67     
+09-12UT       1.33         2.33         2.00     
+12-15UT       1.67         2.33         1.33     
+15-18UT       1.33         2.33         1.67     
+18-21UT       1.33         2.67         1.67     
+21-00UT       1.33         3.00         2.00     
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
 significant transient or recurrent solar wind features are forecast.
@@ -79,9 +78,9 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Dec 13-Dec 15 2024
+Solar Radiation Storm Forecast for Dec 14-Dec 16 2024
 
-              Dec 13  Dec 14  Dec 15
+              Dec 14  Dec 15  Dec 16
 S1 or greater    5%      5%      5%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -91,16 +90,16 @@ production is forecast.
 C. NOAA Radio Blackout Activity and Forecast
 
 Radio blackouts reaching the R1 levels were observed over the past 24
-hours. The largest was at Dec 12 2024 1743 UTC.
+hours. The largest was at Dec 13 2024 1124 UTC.
 
-Radio Blackout Forecast for Dec 13-Dec 15 2024
+Radio Blackout Forecast for Dec 14-Dec 16 2024
 
-              Dec 13        Dec 14        Dec 15
+              Dec 14        Dec 15        Dec 16
 R1-R2           55%           55%           55%
 R3 or greater    5%            5%            5%
 
-Rationale: R1-R2 (Minor-Moderate) radio blackouts are likely on 13-15
-Dec based primarily on the flare potential of Regions 3917, 3920 and
-3922.
+Rationale: R1-R2 (Minor-Moderate) radio blackouts are likely through 16
+Dec based primarily on the flare potential of Region 3917 and the growth
+currently being exhibited by Region 3924.
 
 ```
