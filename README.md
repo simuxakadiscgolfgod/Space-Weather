@@ -1,10 +1,14 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2024-12-16
-<br />**Title of the image:**  A Kilometer High Cliff on Comet Churyumov - Gerasimenko
-<br />**Description for the image:**  This kilometer high cliff occurs on the surface of a comet.  It was discovered on the dark nucleus of Comet Churyumov - Gerasimenko (CG) by Rosetta, a robotic spacecraft launched by ESA, which orbited the comet from 2014 to 2016.  The ragged cliff, as featured here, was imaged by Rosetta early in its mission. Although towering about one kilometer high, the low surface gravity of Comet CG would likely make a jump from the cliffs by a human survivable.  At the foot of the cliffs is relatively smooth terrain dotted with boulders as large as 20 meters across. Data from Rosetta indicates that the ice in Comet CG has a significantly different deuterium fraction -- and hence likely a different origin -- than the water in Earth's oceans.  The probe was named after the Rosetta Stone, a rock slab featuring the same text written in three different languages that helped humanity decipher ancient Egyptian writing.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2412/CometCliffs_Rosetta_960.jpg
+<br />**Date image released:**  2024-12-17
+<br />**This image is owned by:**  
+Jeff Horne & 
+Drew Evans
+
+<br />**Title of the image:**  Near to the Heart Nebula
+<br />**Description for the image:**  What excites the Heart Nebula? First, the large emission nebula on the upper left, catalogued as IC 1805, looks somewhat like a human heart.  The nebula glows brightly in red light emitted by its most prominent element, hydrogen, but this long-exposure image was also blended with light emitted by sulfur (yellow) and oxygen (blue).  In the center of the Heart Nebula are young stars from the open star cluster Melotte 15 that are eroding away several picturesque dust pillars with their atom-exciting energetic light and winds. The Heart Nebula is located about 7,500 light years away toward the constellation of Cassiopeia.  This wide field image shows much more, though, including the Fishhead Nebula just below the Heart, a supernova remnant on the lower left, and three planetary nebulas on the image right.  Taken over 57 nights, this image is so deep, though, that it clearly shows fainter long and complex filaments.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2412/Heart_HorneEvans_4096.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -48,27 +52,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Dec 16 0030 UTC
+:Issued: 2024 Dec 17 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Dec 16-Dec 18 2024 is 4.33 (below NOAA
+The greatest expected 3 hr Kp for Dec 17-Dec 19 2024 is 4.33 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Dec 16-Dec 18 2024
+NOAA Kp index breakdown Dec 17-Dec 19 2024
 
-             Dec 16       Dec 17       Dec 18
-00-03UT       3.00         2.00         2.67     
-03-06UT       2.33         2.00         2.00     
-06-09UT       2.67         2.67         2.00     
-09-12UT       2.00         4.33         2.00     
-12-15UT       1.33         4.00         2.00     
-15-18UT       1.67         3.00         2.00     
-18-21UT       1.67         2.33         2.33     
-21-00UT       2.00         2.67         2.33     
+             Dec 17       Dec 18       Dec 19
+00-03UT       2.00         2.33         1.33     
+03-06UT       2.00         2.00         1.33     
+06-09UT       2.67         2.33         1.33     
+09-12UT       4.33         2.33         1.33     
+12-15UT       4.00         2.33         1.67     
+15-18UT       3.00         2.33         1.67     
+18-21UT       2.33         2.67         1.33     
+21-00UT       2.67         2.67         1.67     
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
 significant transient or recurrent solar wind features are forecast.
@@ -78,9 +82,9 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Dec 16-Dec 18 2024
+Solar Radiation Storm Forecast for Dec 17-Dec 19 2024
 
-              Dec 16  Dec 17  Dec 18
+              Dec 17  Dec 18  Dec 19
 S1 or greater    5%      5%      5%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -89,16 +93,15 @@ production is forecast.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-Radio blackouts reaching the R1 levels were observed over the past 24
-hours. The largest was at Dec 15 2024 2024 UTC.
+No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Dec 16-Dec 18 2024
+Radio Blackout Forecast for Dec 17-Dec 19 2024
 
-              Dec 16        Dec 17        Dec 18
-R1-R2           45%           45%           35%
+              Dec 17        Dec 18        Dec 19
+R1-R2           40%           30%           30%
 R3 or greater    5%            5%            5%
 
 Rationale: There is a chance for R1-R2 (Minor-Moderate) events over
-16-18 Dec.
+17-19 Dec.
 
 ```
