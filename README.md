@@ -1,14 +1,13 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2024-12-17
+<br />**Date image released:**  2024-12-18
 <br />**This image is owned by:**  
-Jeff Horne & 
-Drew Evans
+Mike Selby
 
-<br />**Title of the image:**  Near to the Heart Nebula
-<br />**Description for the image:**  What excites the Heart Nebula? First, the large emission nebula on the upper left, catalogued as IC 1805, looks somewhat like a human heart.  The nebula glows brightly in red light emitted by its most prominent element, hydrogen, but this long-exposure image was also blended with light emitted by sulfur (yellow) and oxygen (blue).  In the center of the Heart Nebula are young stars from the open star cluster Melotte 15 that are eroding away several picturesque dust pillars with their atom-exciting energetic light and winds. The Heart Nebula is located about 7,500 light years away toward the constellation of Cassiopeia.  This wide field image shows much more, though, including the Fishhead Nebula just below the Heart, a supernova remnant on the lower left, and three planetary nebulas on the image right.  Taken over 57 nights, this image is so deep, though, that it clearly shows fainter long and complex filaments.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2412/Heart_HorneEvans_4096.jpg
+<br />**Title of the image:**  NGC 660: Polar Ring Galaxy
+<br />**Description for the image:**  What kind of strange galaxy is this? This rare structure is known as a polar ring galaxy, and it seems to have two different rings of stars.  In this galaxy, NGC 660, one ring of bright stars, gas, and dark dust appears nearly vertical, while another similar but shorter ring runs diagonally from the upper left.  How polar ring galaxies obtain their striking appearance remains a topic of research, but a leading theory holds that it is usually the result of two galaxies with different central ring planes colliding.  NGC 660 spans about 50,000 light years and is located about 40 million light years away toward the constellation of the Fish (Pisces).  The featured image was captured recently from Observatorio El Sauce in Chile.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2412/NGC660_Selby_1720.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -52,39 +51,39 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Dec 17 0030 UTC
+:Issued: 2024 Dec 18 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 5 (NOAA Scale
+G1).
+The greatest expected 3 hr Kp for Dec 18-Dec 20 2024 is 4.00 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Dec 17-Dec 19 2024 is 4.33 (below NOAA
-Scale levels).
 
-NOAA Kp index breakdown Dec 17-Dec 19 2024
+NOAA Kp index breakdown Dec 18-Dec 20 2024
 
-             Dec 17       Dec 18       Dec 19
-00-03UT       2.00         2.33         1.33     
-03-06UT       2.00         2.00         1.33     
-06-09UT       2.67         2.33         1.33     
-09-12UT       4.33         2.33         1.33     
-12-15UT       4.00         2.33         1.67     
-15-18UT       3.00         2.33         1.67     
-18-21UT       2.33         2.67         1.33     
-21-00UT       2.67         2.67         1.67     
+             Dec 18       Dec 19       Dec 20
+00-03UT       4.00         1.33         1.67     
+03-06UT       3.00         1.33         1.33     
+06-09UT       2.67         1.33         1.33     
+09-12UT       2.00         1.33         1.33     
+12-15UT       1.33         1.67         1.67     
+15-18UT       2.00         1.67         1.33     
+18-21UT       2.33         1.33         1.67     
+21-00UT       3.00         1.67         1.33     
 
-Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
-significant transient or recurrent solar wind features are forecast.
+Rationale: There is a chance for an isolated period of G1 (Minor) storm
+levels early on 18 Dec due to influence of CME(s) from 13-15 Dec.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Dec 17-Dec 19 2024
+Solar Radiation Storm Forecast for Dec 18-Dec 20 2024
 
-              Dec 17  Dec 18  Dec 19
+              Dec 18  Dec 19  Dec 20
 S1 or greater    5%      5%      5%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -95,13 +94,13 @@ C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Dec 17-Dec 19 2024
+Radio Blackout Forecast for Dec 18-Dec 20 2024
 
-              Dec 17        Dec 18        Dec 19
-R1-R2           40%           30%           30%
+              Dec 18        Dec 19        Dec 20
+R1-R2           30%           40%           40%
 R3 or greater    5%            5%            5%
 
-Rationale: There is a chance for R1-R2 (Minor-Moderate) events over
-17-19 Dec.
+Rationale: There is a chance for R1-R2 (Minor-Moderate) radio blackout
+events over 18-20 Dec.
 
 ```
