@@ -1,10 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2024-12-19
-<br />**Title of the image:**  Messier 2
-<br />**Description for the image:**  After the Crab Nebula, this giant star cluster is the second entry in 18th century astronomer Charles Messier's famous list of things that are not comets. M2 is one of the largest globular star clusters now known to roam the halo of our Milky Way galaxy. Though Messier originally described it as a nebula without stars, this stunning Hubble image resolves stars across the cluster's central 40 light-years. Its population of stars numbers close to 150,000, concentrated within a total diameter of around 175 light-years. About 55,000 light-years distant toward the constellation Aquarius, this ancient denizen of the Milky Way, also known as NGC 7089, is 13 billion years old. An extended stellar debris stream, a signature of past gravitational tidal disruption, was recently found to be associated with Messier 2.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2412/potw1913aa.jpg
+<br />**Date image released:**  2024-12-20
+<br />**This image is owned by:**  Giorgia Hofer
+<br />**Title of the image:**  The Long Night Moon
+<br />**Description for the image:**  On the night of December 15, the Full Moon was bright. Known to some as the Cold Moon or the Long Night Moon, it was the closest Full Moon to the northern winter solstice and the last Full Moon of 2024. This Full Moon was also at a major lunar standstill. A major lunar standstill is an extreme in the monthly north-south range of moonrise and moonset caused by the precession of the Moon's orbit over an 18.6 year cycle. As a result, the full lunar phase was near the Moon's northernmost moonrise (and moonset) along the horizon.  December's Full Moon is rising in this stacked image, a composite of exposures recording the range of brightness visible to the eye on the northern winter night. Along with a colorful lunar corona and aircraft contrail this Long Night Moon shines in a cold sky above the rugged, snowy peaks of the Italian Dolomites.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2412/CoronaLunareRevdgpicc.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -48,27 +49,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Dec 19 0030 UTC
+:Issued: 2024 Dec 20 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Dec 19-Dec 21 2024 is 3.67 (below NOAA
+The greatest expected 3 hr Kp for Dec 20-Dec 22 2024 is 1.67 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Dec 19-Dec 21 2024
+NOAA Kp index breakdown Dec 20-Dec 22 2024
 
-             Dec 19       Dec 20       Dec 21
-00-03UT       3.00         1.67         1.67     
-03-06UT       3.67         1.33         1.33     
-06-09UT       2.67         1.33         1.33     
-09-12UT       2.00         1.33         1.33     
-12-15UT       2.00         1.67         1.33     
-15-18UT       1.67         1.33         1.33     
-18-21UT       1.33         1.67         1.67     
-21-00UT       1.67         1.33         1.67     
+             Dec 20       Dec 21       Dec 22
+00-03UT       1.67         1.67         1.67     
+03-06UT       1.33         1.33         1.33     
+06-09UT       1.33         1.33         1.33     
+09-12UT       1.33         1.33         1.33     
+12-15UT       1.67         1.33         1.33     
+15-18UT       1.33         1.33         1.67     
+18-21UT       1.67         1.67         1.33     
+21-00UT       1.33         1.67         1.67     
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
 significant transient or recurrent solar wind features are forecast.
@@ -78,9 +79,9 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Dec 19-Dec 21 2024
+Solar Radiation Storm Forecast for Dec 20-Dec 22 2024
 
-              Dec 19  Dec 20  Dec 21
+              Dec 20  Dec 21  Dec 22
 S1 or greater    5%      5%      5%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -89,16 +90,16 @@ production is forecast.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-No radio blackouts were observed over the past 24 hours.
+Radio blackouts reaching the R1 levels were observed over the past 24
+hours. The largest was at Dec 19 2024 1534 UTC.
 
-Radio Blackout Forecast for Dec 19-Dec 21 2024
+Radio Blackout Forecast for Dec 20-Dec 22 2024
 
-              Dec 19        Dec 20        Dec 21
-R1-R2           40%           45%           45%
+              Dec 20        Dec 21        Dec 22
+R1-R2           50%           45%           45%
 R3 or greater    5%            5%            5%
 
-Rationale: There is an increasing chance for R1-R2 (Minor-Moderate)
-events over 19-21 Dec as Region 3927 rotates fully onto the visible
-disk.
+Rationale: No R1 (Minor) or greater radio blackouts are expected.  No
+significant active region flare activity is forecast.
 
 ```
