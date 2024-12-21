@@ -1,11 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2024-12-20
-<br />**This image is owned by:**  Giorgia Hofer
-<br />**Title of the image:**  The Long Night Moon
-<br />**Description for the image:**  On the night of December 15, the Full Moon was bright. Known to some as the Cold Moon or the Long Night Moon, it was the closest Full Moon to the northern winter solstice and the last Full Moon of 2024. This Full Moon was also at a major lunar standstill. A major lunar standstill is an extreme in the monthly north-south range of moonrise and moonset caused by the precession of the Moon's orbit over an 18.6 year cycle. As a result, the full lunar phase was near the Moon's northernmost moonrise (and moonset) along the horizon.  December's Full Moon is rising in this stacked image, a composite of exposures recording the range of brightness visible to the eye on the northern winter night. Along with a colorful lunar corona and aircraft contrail this Long Night Moon shines in a cold sky above the rugged, snowy peaks of the Italian Dolomites.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2412/CoronaLunareRevdgpicc.jpg
+<br />**Date image released:**  2024-12-21
+<br />**This image is owned by:**  Wael Omar
+<br />**Title of the image:**  A Year in Sunsets
+<br />**Description for the image:**  A year in sunsets, from April 2023 to March 2024, track along the western horizon in these stacked panoramic views. The well-planed sequence is constructed of images recorded near the 21st day of the indicated month from the same location overlooking Cairo, Egypt. But for any location on planet Earth the yearly extreme northern (picture right) and southern limits of the setting Sun mark the solstice days. The word solstice is from Latin for "Sun" and "stand still". On the solstice date the seasonal drift of the Sun's daily path through the sky appears to pause and reverse direction in its annual celestial journey. Of course the Sun reaches a stand still on today's date. The 21 December 2024 solstice at 09:21 UTC is the moment of the Sun's southernmost declination, the start of astronomical winter in the north and summer in the south.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2412/SunsetYearOmar.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,27 +49,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Dec 20 0030 UTC
+:Issued: 2024 Dec 21 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Dec 20-Dec 22 2024 is 1.67 (below NOAA
+The greatest expected 3 hr Kp for Dec 21-Dec 23 2024 is 3.00 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Dec 20-Dec 22 2024
+NOAA Kp index breakdown Dec 21-Dec 23 2024
 
-             Dec 20       Dec 21       Dec 22
-00-03UT       1.67         1.67         1.67     
-03-06UT       1.33         1.33         1.33     
-06-09UT       1.33         1.33         1.33     
-09-12UT       1.33         1.33         1.33     
-12-15UT       1.67         1.33         1.33     
-15-18UT       1.33         1.33         1.67     
-18-21UT       1.67         1.67         1.33     
-21-00UT       1.33         1.67         1.67     
+             Dec 21       Dec 22       Dec 23
+00-03UT       3.00         1.67         2.33     
+03-06UT       2.00         1.33         2.67     
+06-09UT       3.00         1.33         2.00     
+09-12UT       2.00         1.33         2.00     
+12-15UT       1.67         1.33         1.00     
+15-18UT       1.00         1.67         2.00     
+18-21UT       1.00         1.33         2.00     
+21-00UT       2.33         1.67         2.67     
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
 significant transient or recurrent solar wind features are forecast.
@@ -79,9 +79,9 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Dec 20-Dec 22 2024
+Solar Radiation Storm Forecast for Dec 21-Dec 23 2024
 
-              Dec 20  Dec 21  Dec 22
+              Dec 21  Dec 22  Dec 23
 S1 or greater    5%      5%      5%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -91,15 +91,15 @@ production is forecast.
 C. NOAA Radio Blackout Activity and Forecast
 
 Radio blackouts reaching the R1 levels were observed over the past 24
-hours. The largest was at Dec 19 2024 1534 UTC.
+hours. The largest was at Dec 20 2024 1118 UTC.
 
-Radio Blackout Forecast for Dec 20-Dec 22 2024
+Radio Blackout Forecast for Dec 21-Dec 23 2024
 
-              Dec 20        Dec 21        Dec 22
-R1-R2           50%           45%           45%
-R3 or greater    5%            5%            5%
+              Dec 21        Dec 22        Dec 23
+R1-R2           65%           60%           60%
+R3 or greater   10%           10%           10%
 
-Rationale: No R1 (Minor) or greater radio blackouts are expected.  No
-significant active region flare activity is forecast.
+Rationale: R1 (Minor) or greater radio blackouts are likely on 21-23
+Dec.
 
 ```
