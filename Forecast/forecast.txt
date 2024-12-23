@@ -1,26 +1,26 @@
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Dec 22 0030 UTC
+:Issued: 2024 Dec 23 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Dec 22-Dec 24 2024 is 3.67 (below NOAA
+The greatest expected 3 hr Kp for Dec 23-Dec 25 2024 is 3.67 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Dec 22-Dec 24 2024
+NOAA Kp index breakdown Dec 23-Dec 25 2024
 
-             Dec 22       Dec 23       Dec 24
-00-03UT       2.67         2.33         2.67     
-03-06UT       3.33         2.67         2.00     
-06-09UT       3.67         2.00         2.33     
-09-12UT       2.00         2.00         2.33     
-12-15UT       2.00         1.00         2.33     
-15-18UT       1.00         2.00         2.33     
-18-21UT       1.00         2.00         2.33     
-21-00UT       2.00         2.67         2.67     
+             Dec 23       Dec 24       Dec 25
+00-03UT       2.33         2.67         2.33     
+03-06UT       2.67         3.00         2.67     
+06-09UT       3.67         2.33         2.67     
+09-12UT       2.00         2.33         2.00     
+12-15UT       1.00         1.67         2.00     
+15-18UT       2.00         2.33         0.67     
+18-21UT       2.00         2.33         2.00     
+21-00UT       2.67         2.67         2.33     
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
 significant transient or recurrent solar wind features are forecast.
@@ -30,27 +30,27 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Dec 22-Dec 24 2024
+Solar Radiation Storm Forecast for Dec 23-Dec 25 2024
 
-              Dec 22  Dec 23  Dec 24
-S1 or greater    5%      5%      5%
+              Dec 23  Dec 24  Dec 25
+S1 or greater   10%     10%     10%
 
-Rationale: No S1 (Minor) or greater solar radiation storms are expected.
-No significant active region activity favorable for radiation storm
-production is forecast.
+Rationale: There remains a slight chance for the greater than 10 MeV
+proton flux to reach S1 (Minor) levels over 23-25 Dec.
 
 C. NOAA Radio Blackout Activity and Forecast
 
 Radio blackouts reaching the R1 levels were observed over the past 24
-hours. The largest was at Dec 21 2024 0038 UTC.
+hours. The largest was at Dec 22 2024 2049 UTC.
 
-Radio Blackout Forecast for Dec 22-Dec 24 2024
+Radio Blackout Forecast for Dec 23-Dec 25 2024
 
-              Dec 22        Dec 23        Dec 24
-R1-R2           60%           60%           60%
+              Dec 23        Dec 24        Dec 25
+R1-R2           65%           65%           65%
 R3 or greater   10%           10%           10%
 
-Rationale: R1-R2 (Minor-Moderate) events are likely, with a slight
-chance for R3 (Strong) or greater events, over 22-24 Dec.
+Rationale: M-class flare activity is likely (R1/R2-Minor/Moderate), with
+a slight chance for an isolated X-class flare (R3/Strong), over 23-25
+Dec.
 
 ```
