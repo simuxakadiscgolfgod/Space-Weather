@@ -1,13 +1,13 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2024-12-24
+<br />**Date image released:**  2024-12-25
 <br />**This image is owned by:**  
-Tim White
+Jaroslav Fous
 
-<br />**Title of the image:**  Fox Fur, Cone, and Christmas Tree
-<br />**Description for the image:**  What do the following things have in common: a cone, the fur of a fox, and a Christmas tree?  Answer: they all occur in the constellation of the Unicorn (Monoceros).  Considered as a star forming region and cataloged as NGC 2264, the complex jumble of cosmic gas and dust is about 2,700 light-years distant and mixes reddish emission nebulae excited by energetic light from newborn stars with dark interstellar dust clouds. The featured image spans an angle larger than a full moon, covering over 50 light-years at the distance of NGC 2264. Its cast of cosmic characters includes the Fox Fur Nebula, whose convoluted pelt lies just to the left of the image center, bright variable star S Mon visible just to the right of the Fox Fur, and the Cone Nebula near the image top.  With the Cone Nebula at the peak, the shape of the general glow of the region give it the nickname of the Christmas Tree Cluster, where stars are tree ornaments.   Explore Your Universe: Random APOD Generator
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2412/ConeTree_White_2154.jpg
+<br />**Title of the image:**  Diamond Dust Sky Eye
+<br />**Description for the image:**  Why is there a huge eye in the sky? Diamond dust. That is an informal term for small ice crystals that form in the air and flitter to the ground. Because these crystals are geometrically shaped, they can together reflect light from the Sun or Moon to your eyes in a systematic way, causing huge halos and unusual arcs to appear. And sometimes, together the result can seem like a giant eye looking right back at you. In the featured image taken in the Ore Mountains of the Czech Republic last week, a bright Moon rising through ice fog-filled air resulted in many of these magnificent sky illusions to be visible simultaneously.  Besides Moon dogs, tangent arcs, halos, and a parhelic circle, light pillars above distant lights are visible on the far left, while Jupiter and Mars can be found just inside the bottom of the 22-degree halo.    Your Sky Surprise: What picture did APOD feature on your birthday? (post 1995)
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2412/IceHalos_Fous_5568.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -51,58 +51,57 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Dec 24 0035 UTC
+:Issued: 2024 Dec 25 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Dec 24-Dec 26 2024 is 5.33 (NOAA Scale
+The greatest expected 3 hr Kp for Dec 25-Dec 27 2024 is 5.33 (NOAA Scale
 G1).
 
-NOAA Kp index breakdown Dec 24-Dec 26 2024
+NOAA Kp index breakdown Dec 25-Dec 27 2024
 
-             Dec 24       Dec 25       Dec 26
-00-03UT       2.67         2.33         3.67     
-03-06UT       3.00         2.67         3.00     
-06-09UT       2.33         2.67         2.33     
-09-12UT       2.33         2.00         2.33     
-12-15UT       1.67         4.33         1.67     
-15-18UT       2.33         5.00 (G1)    2.00     
-18-21UT       2.33         5.33 (G1)    1.67     
-21-00UT       2.67         3.67         2.00     
+             Dec 25       Dec 26       Dec 27
+00-03UT       2.33         3.67         3.67     
+03-06UT       2.00         3.33         2.67     
+06-09UT       2.67         3.67         2.33     
+09-12UT       3.00         4.33         2.33     
+12-15UT       4.33         5.00 (G1)    2.00     
+15-18UT       5.00 (G1)    4.00         1.67     
+18-21UT       5.33 (G1)    3.33         2.00     
+21-00UT       3.67         3.00         2.33     
 
-Rationale: A CME associated with an M8.9 flare at 23/1112 UTC will
-likely produce G1 (Minor) geomagnetic storming conditions late 25 Dec.
-The geomagnetic field is expected to be quiet to unsettled otherwise.
+Rationale: Multiple CMEs are expected to bring G1 (Minor) geomagnetic
+storming conditions 25-26 Dec.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Dec 24-Dec 26 2024
+Solar Radiation Storm Forecast for Dec 25-Dec 27 2024
 
-              Dec 24  Dec 25  Dec 26
+              Dec 25  Dec 26  Dec 27
 S1 or greater   10%     10%     10%
 
-Rationale: There is a slight chance for S1 (Minor) solar radiation
-storms over 24-26 Dec.
+Rationale: There is a slight chance for S1 (Minor) radiation storms
+25-27 Dec.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-Radio blackouts reaching the R2 levels were observed over the past 24
-hours. The largest was at Dec 23 2024 1112 UTC.
+Radio blackouts reaching the R1 levels were observed over the past 24
+hours. The largest was at Dec 24 2024 0841 UTC.
 
-Radio Blackout Forecast for Dec 24-Dec 26 2024
+Radio Blackout Forecast for Dec 25-Dec 27 2024
 
-              Dec 24        Dec 25        Dec 26
-R1-R2           65%           65%           65%
+              Dec 25        Dec 26        Dec 27
+R1-R2           75%           75%           75%
 R3 or greater   10%           10%           10%
 
-Rationale: R1-R2 (Minor-Moderate) radio blackouts are likely, with a
-slight chance for R3 or greater events, over 24-26 Dec due to multiple
-complex active regions near center disk.
+Rationale: R1-R2 (Minor-Moderate) radio blackouts are expected 25-27 Dec
+due to multiple magnetically complex regions that have been actively
+producing flares.
 
 ```
