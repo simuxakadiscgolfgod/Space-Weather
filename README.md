@@ -1,10 +1,10 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2024-12-26
-<br />**Title of the image:**  Grand Spiral NGC 5643
-<br />**Description for the image:**  Viewed face-on, grand spiral galaxy NGC 5643 has a festive appearance in this colorful cosmic portrait. Some 55 million light-years distant, the galaxy extends for over 100,000 light-years, seen within the boundaries of the southern constellation Lupus. Its inner 40,000 light-years are shown in sharp detail in this composite of Hubble Space Telescope image data. The galaxy's magnificent spiral arms wind from a yellowish central region dominated by light from old stars, while the spiral arms themselves are traced by dust lanes, young blue stars and reddish star forming regions. The bright compact core of NGC 5643 is also known as a strong emitter of radio waves and X-rays. In fact, NGC 5643 is one of the closest examples of the Seyfert class of active galaxies, where vast amounts of dust and gas are thought to be falling into a central massive black hole.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2412/Hubble_NGC5643_potw2450a.jpg
+<br />**Date image released:**  2024-12-27
+<br />**Title of the image:**  Planet Earth at Twilight
+<br />**Description for the image:**  No sudden, sharp boundary marks the passage of day into night in this gorgeous view of ocean and clouds over our fair planet Earth. Instead, the shadow line or terminator is diffuse and shows the gradual transition to darkness we experience as twilight. With the Sun illuminating the scene from the right, the cloud tops reflect gently reddened sunlight filtered through the dusty troposphere, the lowest layer of the planet's nurturing atmosphere. A clear high altitude layer, visible along the dayside's upper edge, scatters blue sunlight and fades into the blackness of space. This picture was taken from the International Space Station orbiting at an altitude of 211 nautical miles. Of course from home, you can check out the Earth Now.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2412/ISS002-E-7377_2048c.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -48,58 +48,56 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Dec 26 0030 UTC
+:Issued: 2024 Dec 27 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 1 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Dec 26-Dec 28 2024 is 4.67 (NOAA Scale
-G1).
+The greatest expected 3 hr Kp for Dec 27-Dec 29 2024 is 3.67 (below NOAA
+Scale levels).
 
-NOAA Kp index breakdown Dec 26-Dec 28 2024
+NOAA Kp index breakdown Dec 27-Dec 29 2024
 
-             Dec 26       Dec 27       Dec 28
-00-03UT       4.33         3.67         2.67     
-03-06UT       3.00         2.67         2.33     
-06-09UT       3.33         2.33         2.00     
-09-12UT       4.33         2.33         1.67     
-12-15UT       4.67 (G1)    2.00         2.00     
-15-18UT       4.00         1.67         2.00     
-18-21UT       3.33         2.00         2.00     
-21-00UT       3.33         2.33         2.33     
+             Dec 27       Dec 28       Dec 29
+00-03UT       3.67         2.67         1.67     
+03-06UT       2.67         2.33         1.33     
+06-09UT       2.33         2.00         1.33     
+09-12UT       2.33         1.67         1.33     
+12-15UT       2.00         2.00         1.33     
+15-18UT       1.67         2.00         1.33     
+18-21UT       2.00         2.00         1.67     
+21-00UT       2.33         2.33         1.67     
 
-Rationale: G1 (Minor) storming conditions are expected on 26 Dec, with a
-slight chance for isolated G2 (Moderate) periods, due to the arrival of
-a CME from 24 Dec.
+Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
+significant transient or recurrent solar wind features are forecast.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Dec 26-Dec 28 2024
+Solar Radiation Storm Forecast for Dec 27-Dec 29 2024
 
-              Dec 26  Dec 27  Dec 28
+              Dec 27  Dec 28  Dec 29
 S1 or greater   10%     10%     10%
 
-Rationale: There is a slight chance for S1 (Minor) radiation storming
-conditions 26-28 Dec.
+Rationale: There is a slight chance for S1 (Minor) radiation storms are
+expected 27-29 Dec.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-Radio blackouts reaching the R1 levels were observed over the past 24
-hours. The largest was at Dec 25 2024 0449 UTC.
+Radio blackouts reaching the R2 levels were observed over the past 24
+hours. The largest was at Dec 26 2024 0315 UTC.
 
-Radio Blackout Forecast for Dec 26-Dec 28 2024
+Radio Blackout Forecast for Dec 27-Dec 29 2024
 
-              Dec 26        Dec 27        Dec 28
+              Dec 27        Dec 28        Dec 29
 R1-R2           75%           75%           75%
 R3 or greater   10%           10%           10%
 
 Rationale: R1-R2 (Minor-Moderate) radio blackout conditions are expected
-26-28 Dec as there remains multiple complex regions that have been
-actively flaring.
+27-29 Dec due to multiple complex active regions on the disk.
 
 ```
