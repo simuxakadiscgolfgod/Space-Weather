@@ -1,10 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2024-12-27
-<br />**Title of the image:**  Planet Earth at Twilight
-<br />**Description for the image:**  No sudden, sharp boundary marks the passage of day into night in this gorgeous view of ocean and clouds over our fair planet Earth. Instead, the shadow line or terminator is diffuse and shows the gradual transition to darkness we experience as twilight. With the Sun illuminating the scene from the right, the cloud tops reflect gently reddened sunlight filtered through the dusty troposphere, the lowest layer of the planet's nurturing atmosphere. A clear high altitude layer, visible along the dayside's upper edge, scatters blue sunlight and fades into the blackness of space. This picture was taken from the International Space Station orbiting at an altitude of 211 nautical miles. Of course from home, you can check out the Earth Now.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2412/ISS002-E-7377_2048c.jpg
+<br />**Date image released:**  2024-12-28
+<br />**This image is owned by:**  Włodzimierz Bubak
+<br />**Title of the image:**  A December Winter Night
+<br />**Description for the image:**  Orion seems to come up sideways, climbing over a distant mountain range in this deep skyscape. The wintry scene was captured from southern Poland on the northern hemisphere's long solstice night. Otherwise unseen nebulae hang in the sky, revealed by the camera modified to record red hydrogen-alpha light. The nebulae lie near the edge of the Orion molecular cloud and join the Hunter's familiar belt stars and bright giants Betelgeuse and Rigel. Eye of Taurus the Bull, yellowish Aldebaran anchors the V-shaped Hyades star cluster near top center. Still, near opposition in planet Earth's sky, the Solar System's ruling gas giant Jupiter is the brightest celestial beacon above this horizon's snowy peaks.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2412/bubak-poland.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -48,27 +49,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Dec 27 0030 UTC
+:Issued: 2024 Dec 28 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 1 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Dec 27-Dec 29 2024 is 3.67 (below NOAA
+The greatest expected 3 hr Kp for Dec 28-Dec 30 2024 is 3.00 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Dec 27-Dec 29 2024
+NOAA Kp index breakdown Dec 28-Dec 30 2024
 
-             Dec 27       Dec 28       Dec 29
-00-03UT       3.67         2.67         1.67     
-03-06UT       2.67         2.33         1.33     
-06-09UT       2.33         2.00         1.33     
-09-12UT       2.33         1.67         1.33     
-12-15UT       2.00         2.00         1.33     
-15-18UT       1.67         2.00         1.33     
-18-21UT       2.00         2.00         1.67     
-21-00UT       2.33         2.33         1.67     
+             Dec 28       Dec 29       Dec 30
+00-03UT       2.67         2.33         2.67     
+03-06UT       3.00         2.00         2.67     
+06-09UT       2.00         2.33         2.00     
+09-12UT       1.33         2.33         1.33     
+12-15UT       1.67         2.33         1.67     
+15-18UT       1.67         2.33         2.33     
+18-21UT       2.00         3.00         2.00     
+21-00UT       2.33         2.67         2.33     
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
 significant transient or recurrent solar wind features are forecast.
@@ -78,26 +79,29 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Dec 27-Dec 29 2024
+Solar Radiation Storm Forecast for Dec 28-Dec 30 2024
 
-              Dec 27  Dec 28  Dec 29
-S1 or greater   10%     10%     10%
+              Dec 28  Dec 29  Dec 30
+S1 or greater   10%     10%     15%
 
-Rationale: There is a slight chance for S1 (Minor) radiation storms are
-expected 27-29 Dec.
+Rationale: A slight chance for an S1 (Minor) solar radiation storm event
+will persist through 30 Dec given the current total disk potential.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-Radio blackouts reaching the R2 levels were observed over the past 24
-hours. The largest was at Dec 26 2024 0315 UTC.
+Radio blackouts reaching the R1 levels were observed over the past 24
+hours. The largest was at Dec 27 2024 2035 UTC.
 
-Radio Blackout Forecast for Dec 27-Dec 29 2024
+Radio Blackout Forecast for Dec 28-Dec 30 2024
 
-              Dec 27        Dec 28        Dec 29
-R1-R2           75%           75%           75%
-R3 or greater   10%           10%           10%
+              Dec 28        Dec 29        Dec 30
+R1-R2           70%           70%           75%
+R3 or greater   20%           20%           25%
 
-Rationale: R1-R2 (Minor-Moderate) radio blackout conditions are expected
-27-29 Dec due to multiple complex active regions on the disk.
+Rationale: R1-2 (Minor-Moderate) radio blackouts are likely, with a
+slight chance for an isolated R3 (Strong) event, through 29 Dec. R1-2
+(Minor-Moderate) radio blackouts are expected, with a chance for an
+isolated R3 (Strong) event, on 30 Dec as a complex of regions approaches
+the western limb.
 
 ```
