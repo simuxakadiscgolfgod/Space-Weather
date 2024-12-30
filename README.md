@@ -1,13 +1,13 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2024-12-29
+<br />**Date image released:**  2024-12-30
 <br />**This image is owned by:**  
-Kristina Makeeva
+Christopher Stobie
 
-<br />**Title of the image:**  Methane Bubbles Frozen in Lake Baikal
-<br />**Description for the image:**  What are these bubbles frozen into Lake Baikal? Methane.  Lake Baikal, a UNESCO World Heritage Site in Russia, is the world's largest (by volume), oldest, and deepest lake, containing over 20% of the world's fresh water. The lake is also a vast storehouse of methane, a greenhouse gas that, if released, could potentially increase the amount of infrared light absorbed by Earth's atmosphere, and so increase the average temperature of the entire planet. Fortunately, the amount of methane currently bubbling out is not climatologically important. It is not clear what would happen, though, were temperatures to significantly increase in the region, or if the water level in Lake Baikal were to drop.  Pictured, bubbles of rising methane froze during winter into the exceptionally clear ice covering the lake.   Jigsaw Challenge: Astronomy Puzzle of the Day
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2412/BaikalBubbles_Makeeva_1000.jpg
+<br />**Title of the image:**  M27: The Dumbbell Nebula
+<br />**Description for the image:**  Is this what will become of our Sun? Quite possibly.  The first hint of our Sun's future was discovered inadvertently in 1764. At that time, Charles Messier was compiling a list of diffuse objects not to be confused with comets. The 27th object on Messier's list, now known as M27 or the Dumbbell Nebula, is a planetary nebula, one of the brightest planetary nebulas on the sky and visible with binoculars toward the constellation of the Fox (Vulpecula). It takes light about 1000 years to reach us from M27, featured here in colors emitted by sulfur (red), hydrogen (green) and oxygen (blue). We now know that in about 6 billion years, our Sun will shed its outer gases into a planetary nebula like M27, while its remaining center will become an X-ray hot white dwarf star.  Understanding the physics and significance of M27 was well beyond 18th century science, though. Even today, many things remain mysterious about planetary nebulas, including how their intricate shapes are created.    APOD Year in Review: Night Sky Network Presentation for 2024
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2412/M27_Stobie_1432.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -51,60 +51,60 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Dec 29 0030 UTC
+:Issued: 2024 Dec 30 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Dec 29-Dec 31 2024 is 3.00 (below NOAA
-Scale levels).
+The greatest expected 3 hr Kp for Dec 30-Jan 01 2025 is 6.67 (NOAA Scale
+G3).
 
-NOAA Kp index breakdown Dec 29-Dec 31 2024
+NOAA Kp index breakdown Dec 30-Jan 01 2025
 
-             Dec 29       Dec 30       Dec 31
-00-03UT       2.33         3.00         1.67     
-03-06UT       2.00         2.67         1.33     
-06-09UT       2.00         2.00         1.33     
-09-12UT       1.67         1.33         1.33     
-12-15UT       1.67         1.33         1.33     
-15-18UT       2.00         2.00         1.33     
-18-21UT       2.00         2.00         1.67     
-21-00UT       2.67         2.33         1.67     
+             Dec 30       Dec 31       Jan 01
+00-03UT       1.33         1.67         5.00 (G1)
+03-06UT       1.33         5.00 (G1)    4.00     
+06-09UT       1.33         6.00 (G2)    3.33     
+09-12UT       1.33         6.67 (G3)    3.67     
+12-15UT       1.00         5.33 (G1)    2.67     
+15-18UT       1.33         4.33         2.33     
+18-21UT       1.67         4.00         2.00     
+21-00UT       2.67         4.67 (G1)    3.00     
 
-Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
-significant transient or recurrent solar wind features are forecast.
+Rationale: No significant transient or recurrent solar wind features are
+forecast on 30 Dec. G1-G3 (Minor-Strong) geomagnetic storms are likely
+on 31 Dec followed by G1 (Minor) geomagnetic storms likely on 01 Jan,
+all due to CME activity from significant X-ray activity on 29 Dec.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Dec 29-Dec 31 2024
+Solar Radiation Storm Forecast for Dec 30-Jan 01 2025
 
-              Dec 29  Dec 30  Dec 31
-S1 or greater   10%     15%     15%
+              Dec 30  Dec 31  Jan 01
+S1 or greater   20%     20%     15%
 
 Rationale: A slight chance for an S1 (Minor) solar radiation storm event
-will persist through 30 Dec given the current total disk potential.
+will persist through 01 Jan given the current total disk potential.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-Radio blackouts reaching the R1 levels were observed over the past 24
-hours. The largest was at Dec 28 2024 1121 UTC.
+Radio blackouts reaching the R3 levels were observed over the past 24
+hours. The largest was at Dec 29 2024 0718 UTC.
 
-Radio Blackout Forecast for Dec 29-Dec 31 2024
+Radio Blackout Forecast for Dec 30-Jan 01 2025
 
-              Dec 29        Dec 30        Dec 31
-R1-R2           70%           75%           75%
-R3 or greater   20%           25%           25%
+              Dec 30        Dec 31        Jan 01
+R1-R2           80%           80%           75%
+R3 or greater   30%           30%           25%
 
-Rationale: R1-R2 (Minor-Moderate) radio blackouts are likely, with a
-slight chance for an isolated R3 (Strong) event, through 29 Dec. R1-R2
-(Minor-Moderate) radio blackouts are then expected, with a chance for an
-isolated R3 (Strong) event, on 30-31 Dec as a complex of regions
-approaches
-the western limb.
+Rationale: R1-R2 (Minor-Moderate) radio blackouts are expected, with a
+chance for an isolated R3 (Strong) event, through 01 Jan as the
+conglomeration of regions approaches the western limb and new,
+developing regions rotate onto the eastern limb.
 
 ```
