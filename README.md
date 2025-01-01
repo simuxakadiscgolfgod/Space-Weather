@@ -1,10 +1,14 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2024-12-31
-<br />**Title of the image:**  The Twisted Disk of NGC 4753
-<br />**Description for the image:**  What do you think this is?  Here’s a clue: it's bigger than a bread box. Much bigger. The answer is that pictured NGC 4753 is a twisted disk galaxy, where unusual dark dust filaments provide clues about its history. No one is sure what happened, but a leading model holds that a relatively normal disk galaxy gravitationally ripped apart a dusty satellite galaxy while its precession distorted the plane of the accreted debris as it rotated.  The cosmic collision is hypothesized to have started about a billion years ago.  NGC 4753 is seen from the side, and possibly would look like a normal spiral galaxy from the top.  The bright orange halo is composed of many older stars that might trace dark matter. The featured Hubble image was recently reprocessed to highlight ultraviolet and red-light emissions.    APOD Year in Review: NASA Night Sky Network Presentation for 2024
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2412/NGC4753_HubbleReinartz_3900.jpg
+<br />**Date image released:**  2025-01-01
+<br />**This image is owned by:**  
+Telescope Live, Heaven's Mirror Observatory; 
+Processing: Chris Cantrell
+
+<br />**Title of the image:**  Alpha Centauri: The Closest Star System
+<br />**Description for the image:**  The closest star system to the Sun is the Alpha Centauri system. Of the three stars in the system, the dimmest -- called Proxima Centauri -- is actually the nearest star. The bright stars Alpha Centauri A and B form a close binary as they are separated by only 23 times the Earth- Sun distance - slightly greater than the distance between Uranus and the Sun. The Alphasystem is not visible in much of the northern hemisphere. Alpha Centauri A, also known as Rigil Kentaurus, is the brightest star in the constellation of Centaurus and is the fourth brightest star in the night sky. Sirius is the brightest even though it is more than twice as far away. By an exciting coincidence, Alpha Centauri A is the same type of star as our Sun, and Proxima Centauri is now known to have a potentially habitable exoplanet.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2501/AlphaCen_Cantrell_3429.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -48,60 +52,57 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2024 Dec 31 0030 UTC
+:Issued: 2025 Jan 01 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Dec 31-Jan 02 2025 is 6.67 (NOAA Scale
-G3).
+The greatest expected 3 hr Kp for Jan 01-Jan 03 2025 is 5.00 (NOAA Scale
+G1).
 
-NOAA Kp index breakdown Dec 31-Jan 02 2025
+NOAA Kp index breakdown Jan 01-Jan 03 2025
 
-             Dec 31       Jan 01       Jan 02
-00-03UT       1.67         5.00 (G1)    2.67     
-03-06UT       3.67         3.33         2.00     
-06-09UT       4.33         4.33         2.00     
-09-12UT       5.00 (G1)    3.67         2.00     
-12-15UT       6.00 (G2)    2.67         2.00     
-15-18UT       6.67 (G3)    2.33         2.00     
-18-21UT       5.33 (G1)    2.00         2.00     
-21-00UT       5.00 (G1)    3.00         2.33     
+             Jan 01       Jan 02       Jan 03
+00-03UT       4.33         2.67         1.67     
+03-06UT       5.00 (G1)    2.00         1.33     
+06-09UT       3.67         2.00         1.33     
+09-12UT       3.67         2.00         1.33     
+12-15UT       3.00         2.00         1.33     
+15-18UT       2.33         2.00         1.33     
+18-21UT       2.33         2.00         1.67     
+21-00UT       2.00         2.33         1.67     
 
-Rationale: Isolated periods of G3 (Strong) geomagnetic storming are
-likely by mid UTC day on 31 Dec due to CME effects from a partial-halo
-event from 29 Dec. Lingering G1 (Minor) geomagnetic storming is likely,
-with a chance for G2 (Moderate) levels, on 01 Jan with the likely
-arrival of the second CME, also from 29 Dec.
+Rationale: G1 (Minor) geomagnetic storms are expected on 01 Jan due to
+CME influences.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Dec 31-Jan 02 2025
+Solar Radiation Storm Forecast for Jan 01-Jan 03 2025
 
-              Dec 31  Jan 01  Jan 02
+              Jan 01  Jan 02  Jan 03
 S1 or greater   20%     20%     15%
 
-Rationale:  A slight chance for an S1 (Minor) solar radiation storm
-event will persist through 02 Jan given the current total disk
-potential.
+Rationale: A slight chance for an S1 (Minor) solar radiation storm event
+will persist through 03 Jan given the current total disk potential.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-Radio blackouts reaching the R3 levels were observed over the past 24
-hours. The largest was at Dec 30 2024 0414 UTC.
+Radio blackouts reaching the R1 levels were observed over the past 24
+hours. The largest was at Dec 31 2024 2250 UTC.
 
-Radio Blackout Forecast for Dec 31-Jan 02 2025
+Radio Blackout Forecast for Jan 01-Jan 03 2025
 
-              Dec 31        Jan 01        Jan 02
-R1-R2           80%           80%           80%
-R3 or greater   30%           30%           25%
+              Jan 01        Jan 02        Jan 03
+R1-R2           80%           80%           70%
+R3 or greater   25%           25%           15%
 
-Rationale: R1-R2 (Minor-Moderate) radio blackouts are expected, with a
-chance for an isolated R3 (Strong) event, through 02 Jan.
+Rationale: M-class flares are expected (R1-R2/Minor-Moderate), with a
+chance for an isolated X-class flares (R3/Strong) through 03 Jan,
+primarily due to the flare potential of Region 3936.
 
 ```
