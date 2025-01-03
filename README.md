@@ -1,11 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2025-01-02
-<br />**This image is owned by:**  Betul Turksoy
-<br />**Title of the image:**  Solar Analemma 2024
-<br />**Description for the image:**  Recorded during 2024, this year-spanning series of images reveals a pattern in the seasonal drift of the Sun's daily motion through planet Earth's sky. Known to some as an analemma, the figure-eight curve was captured in exposures taken only at 1pm local time on clear days from Kayseri, Turkiye. Of course the Sun's position on the 2024 solstice dates was at the top and bottom of the curve. They correspond to the astronomical beginning of summer and winter in the north. The points along the curve half-way between the solstices, but not the figure-eight curve crossing point, mark the 2024 equinoxes and the start of spring and fall. Regional peaks and dormant volcano Mount Erciyes lie along the southern horizon in the 2024 timelapse skyscape.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2501/solaranalemma2024-4-5BetulT.jpeg
+<br />**Date image released:**  2025-01-03
+<br />**This image is owned by:**  Josh Dury
+<br />**Title of the image:**  Eclipse Pair
+<br />**Description for the image:**  clipses tend to come in pairs. Twice a year, during an eclipse season that lasts about 34 days, Sun, Moon, and Earth can nearly align. Then the full and new phases of the Moon, separated by just over 14 days, create a lunar and a solar eclipse. But only rarely is the alignment at both new moon and full moon phases during a single eclipse season close enough to produce a pair with both total (or a total and an annular) lunar and solar eclipses. More often, partial eclipses are part of any eclipse season. In fact, the last eclipse season of 2024 produced this fortnight-separated eclipse pair: a partial lunar eclipse on 18 September and an annular solar eclipse on 2 October. The time-lapse composite images were captured from Somerset, UK (left) and Rapa Nui planet Earth. The 2025 eclipse seasons will see a total lunar eclipse on 14 March paired with a partial solar eclipse on 29 March, and a total lunar eclipse on 8 September followed by a partial solar eclipse on 21 September.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2501/APODEclipsePair2048.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,57 +49,57 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 Jan 02 0030 UTC
+:Issued: 2025 Jan 03 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 8 (NOAA Scale
-G4).
-The greatest expected 3 hr Kp for Jan 02-Jan 04 2025 is 6.67 (NOAA Scale
-G3).
+The greatest observed 3 hr Kp over the past 24 hours was 5 (NOAA Scale
+G1).
+The greatest expected 3 hr Kp for Jan 03-Jan 05 2025 is 4.67 (NOAA Scale
+G1).
 
-NOAA Kp index breakdown Jan 02-Jan 04 2025
+NOAA Kp index breakdown Jan 03-Jan 05 2025
 
-             Jan 02       Jan 03       Jan 04
-00-03UT       4.67 (G1)    4.00         2.33     
-03-06UT       6.67 (G3)    3.67         1.33     
-06-09UT       4.33         3.33         1.33     
-09-12UT       3.00         2.33         1.00     
-12-15UT       2.67         1.33         0.67     
-15-18UT       2.33         1.33         1.33     
-18-21UT       2.00         2.67         1.67     
-21-00UT       2.67         3.33         1.67     
+             Jan 03       Jan 04       Jan 05
+00-03UT       3.33         2.00         3.00     
+03-06UT       3.00         3.67         4.67 (G1)
+06-09UT       3.00         4.67 (G1)    4.00     
+09-12UT       2.67         4.00         3.33     
+12-15UT       2.33         3.00         2.67     
+15-18UT       2.33         2.33         2.33     
+18-21UT       2.33         2.67         2.67     
+21-00UT       2.33         3.00         3.00     
 
-Rationale: Unsettled to G2-G3 (Moderate-Strong) storm levels are
-expected early on 01 Jan as CME activity persists.
+Rationale: Active to G1 (Minor) storm levels are expected on 04-05 Jan
+due to CME effects on 04 and 05 Jan and CH HSS effects on 05 Jan.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Jan 02-Jan 04 2025
+Solar Radiation Storm Forecast for Jan 03-Jan 05 2025
 
-              Jan 02  Jan 03  Jan 04
-S1 or greater   10%     10%      5%
+              Jan 03  Jan 04  Jan 05
+S1 or greater   10%     15%     15%
 
 Rationale: A slight chance for an S1 (Minor) solar radiation storm event
-will persist through 04 Jan given the current total disk potential.
+will persist through 05 Jan given the current total disk potential.
 
 C. NOAA Radio Blackout Activity and Forecast
 
 Radio blackouts reaching the R1 levels were observed over the past 24
-hours. The largest was at Jan 01 2025 1817 UTC.
+hours. The largest was at Jan 02 2025 1740 UTC.
 
-Radio Blackout Forecast for Jan 02-Jan 04 2025
+Radio Blackout Forecast for Jan 03-Jan 05 2025
 
-              Jan 02        Jan 03        Jan 04
-R1-R2           80%           75%           70%
-R3 or greater   10%           10%            5%
+              Jan 03        Jan 04        Jan 05
+R1-R2           55%           60%           60%
+R3 or greater   10%           15%           15%
 
-Rationale: M-class flares are expected (R1-R2/Minor-Moderate), with a
-slight chance for isolated X-class flares (R3/Strong) through 03 Jan,
-primarily due to the flare potential of Region 3936.
+Rationale: M-class flares (R1-R2/Minor-Moderate) are likely, with a
+slight chance for isolated X-class flares (R3/Strong) through 05 Jan,
+primarily due to the flare potential of Regions 3939 and 3945. 
 
 ```
