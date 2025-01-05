@@ -1,11 +1,7 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2025-01-04
-<br />**This image is owned by:**  Barden Ridge Observatory
-<br />**Title of the image:**  Welcome to Perihelion
-<br />**Description for the image:**  rth's orbit around the Sun is not a circle, it's an ellipse. The point along its elliptical orbit where our fair planet is closest to the Sun is called perihelion. This year perihelion is today, January 4, at 13:28 UTC, with the Earth about 147 million kilometers from the Sun. For comparison, at aphelion on last July 3 Earth was at its farthest distance from the Sun, some 152 million kilometers away. But distance from the Sun doesn't determine Earth's seasons. It's only by coincidence that the beginning of southern summer (northern winter) on the December solstice - when this H-alpha picture of the active Sun was taken - is within 14 days of Earth's perihelion date. And it's only by coincidence that Earth's perihelion date is within 11 days of the historic perihelion of NASA's Parker Solar Probe. Launched in 2018, the Parker Solar Probe flew within 6.2 million kilometers of the Sun's surface on 2024 December 24, breaking its own record for closest perihelion for a spacecraft from planet Earth.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2501/20242112SolNeg.jpg
+<br />**Sorry, Image not available!**
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,59 +45,62 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 Jan 04 0030 UTC
+:Issued: 2025 Jan 05 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
-Scale levels).
-The greatest expected 3 hr Kp for Jan 04-Jan 06 2025 is 4.67 (NOAA Scale
+The greatest observed 3 hr Kp over the past 24 hours was 5 (NOAA Scale
+G1).
+The greatest expected 3 hr Kp for Jan 05-Jan 07 2025 is 4.67 (NOAA Scale
 G1).
 
-NOAA Kp index breakdown Jan 04-Jan 06 2025
+NOAA Kp index breakdown Jan 05-Jan 07 2025
 
-             Jan 04       Jan 05       Jan 06
-00-03UT       1.33         3.00         3.00     
-03-06UT       1.33         4.67 (G1)    3.67     
-06-09UT       2.33         4.00         2.67     
-09-12UT       3.67         3.33         2.33     
-12-15UT       4.67 (G1)    2.67         2.00     
-15-18UT       4.00         2.33         2.33     
-18-21UT       3.67         2.67         2.67     
-21-00UT       3.33         3.00         2.67     
+             Jan 05       Jan 06       Jan 07
+00-03UT       4.33         3.00         2.67     
+03-06UT       4.67 (G1)    3.67         2.33     
+06-09UT       4.67 (G1)    2.67         2.00     
+09-12UT       3.33         2.33         2.33     
+12-15UT       2.67         2.00         1.33     
+15-18UT       2.33         2.33         2.00     
+18-21UT       3.67         2.67         2.00     
+21-00UT       4.00         2.67         2.33     
 
-Rationale: G1 (Minor) geomagnetic storming is likely 04-05 Jan, first
-due to possible glancing CME effects from an event that left the Sun on
-01 Jan and then to recurrent, positive polarity CH HSS effects.
+Rationale: Isolated periods of G1 (Minor) geomagnetic storming are
+expected on 05 Jan, first due to lingering CME effects, then to positive
+polarity CH HSS effects. More ambient conditions are likely on 05-06 Jan
+as CH HSS influence persists.
+
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
-below S-scale storm level thresholds.
+above S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Jan 04-Jan 06 2025
+Solar Radiation Storm Forecast for Jan 05-Jan 07 2025
 
-              Jan 04  Jan 05  Jan 06
-S1 or greater   10%     10%     10%
+              Jan 05  Jan 06  Jan 07
+S1 or greater   99%     25%     10%
 
-Rationale: A slight chance for an S1 (Minor) solar radiation storm event
-will persist through 06 Jan given the current total disk potential and
-as AR 3939 approaches the western limb.
+Rationale: S1 (Minor) or greater solar radiation storms are currently
+observed at the 10 MeV threshold. Radiation storms are expected to
+continue into 05 Jan and decay to a chance on 06 Jan and a slight chance
+on 07 Jan.
 
 C. NOAA Radio Blackout Activity and Forecast
 
 Radio blackouts reaching the R3 levels were observed over the past 24
-hours. The largest was at Jan 03 2025 1139 UTC.
+hours. The largest was at Jan 04 2025 1248 UTC.
 
-Radio Blackout Forecast for Jan 04-Jan 06 2025
+Radio Blackout Forecast for Jan 05-Jan 07 2025
 
-              Jan 04        Jan 05        Jan 06
-R1-R2           55%           55%           55%
-R3 or greater   15%           15%           10%
+              Jan 05        Jan 06        Jan 07
+R1-R2           75%           75%           75%
+R3 or greater   25%           25%           25%
 
-Rationale: R1-R2 (Minor-Moderate) radio blackouts due to M-class flare
-activity are likely and a slight chance for R3 (Strong) radio blackouts,
-exists through 06 Jan.
+Rationale: R1-R2 (Minor-Moderate) radio blackouts are expected, with a
+chance for an isolated R3 (Strong) event, through 07 Jan as M-flares
+continue and Region 3947 continues to evolve.
 
 ```
