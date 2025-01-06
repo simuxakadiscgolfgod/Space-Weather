@@ -2,6 +2,10 @@
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
 <br />**Sorry, Image not available!**
+<br />**Date image released:**  2025-01-06
+<br />**Title of the image:**  Colliding Spiral Galaxies from Webb and Hubble
+<br />**Description for the image:**  Billions of years from now, only one of these two galaxies will remain.  Until then, spiral galaxies NGC 2207 and IC 2163 will slowly pull each other apart, creating tides of matter, sheets of shocked gas, lanes of dark dust, bursts of star formation, and streams of cast-away stars.  The featured image in scientifically assigned colors is a composite of Hubble exposures in visible light and Webb exposures in infrared light. Astronomers predict that NGC 2207, the larger galaxy on the right, will eventually incorporate IC 2163, the smaller galaxy on the left.  In the most recent encounter that about peaked 40 million years ago, the smaller galaxy is swinging around counter-clockwise and is now slightly behind the larger galaxy.  The space between stars is so vast that when galaxies collide, the stars in them usually do not collide.   Jigsaw Challenge: Astronomy Puzzle of the Day
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2501/CollidingGalaxies_WebbHubble_1877.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -45,62 +49,58 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 Jan 05 0030 UTC
+:Issued: 2025 Jan 06 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 5 (NOAA Scale
+The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
+Scale levels).
+The greatest expected 3 hr Kp for Jan 06-Jan 08 2025 is 4.67 (NOAA Scale
 G1).
-The greatest expected 3 hr Kp for Jan 05-Jan 07 2025 is 4.67 (NOAA Scale
-G1).
 
-NOAA Kp index breakdown Jan 05-Jan 07 2025
+NOAA Kp index breakdown Jan 06-Jan 08 2025
 
-             Jan 05       Jan 06       Jan 07
-00-03UT       4.33         3.00         2.67     
-03-06UT       4.67 (G1)    3.67         2.33     
-06-09UT       4.67 (G1)    2.67         2.00     
-09-12UT       3.33         2.33         2.33     
-12-15UT       2.67         2.00         1.33     
-15-18UT       2.33         2.33         2.00     
-18-21UT       3.67         2.67         2.00     
-21-00UT       4.00         2.67         2.33     
+             Jan 06       Jan 07       Jan 08
+00-03UT       3.33         4.00         2.33     
+03-06UT       3.00         3.33         2.67     
+06-09UT       3.67         2.67         2.67     
+09-12UT       4.67 (G1)    2.33         1.67     
+12-15UT       4.33         2.00         1.67     
+15-18UT       3.33         2.00         1.67     
+18-21UT       3.33         2.00         2.00     
+21-00UT       3.33         2.67         2.33     
 
-Rationale: Isolated periods of G1 (Minor) geomagnetic storming are
-expected on 05 Jan, first due to lingering CME effects, then to positive
-polarity CH HSS effects. More ambient conditions are likely on 05-06 Jan
-as CH HSS influence persists.
-
+Rationale: Isolated G1 periods remain likely on 06 Jan due to glancing
+blow effects from a CME.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 above S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Jan 05-Jan 07 2025
+Solar Radiation Storm Forecast for Jan 06-Jan 08 2025
 
-              Jan 05  Jan 06  Jan 07
-S1 or greater   99%     25%     10%
+              Jan 06  Jan 07  Jan 08
+S1 or greater   15%     15%     15%
 
-Rationale: S1 (Minor) or greater solar radiation storms are currently
-observed at the 10 MeV threshold. Radiation storms are expected to
-continue into 05 Jan and decay to a chance on 06 Jan and a slight chance
-on 07 Jan.
+Rationale: A slight chance for S1 (Minor) or greater solar radiation
+storms exists through the period.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-Radio blackouts reaching the R3 levels were observed over the past 24
-hours. The largest was at Jan 04 2025 1248 UTC.
+Radio blackouts reaching the R1 levels were observed over the past 24
+hours. The largest was at Jan 05 2025 0239 UTC.
 
-Radio Blackout Forecast for Jan 05-Jan 07 2025
+Radio Blackout Forecast for Jan 06-Jan 08 2025
 
-              Jan 05        Jan 06        Jan 07
-R1-R2           75%           75%           75%
-R3 or greater   25%           25%           25%
+              Jan 06        Jan 07        Jan 08
+R1-R2           75%           75%           60%
+R3 or greater   25%           25%           15%
 
 Rationale: R1-R2 (Minor-Moderate) radio blackouts are expected, with a
-chance for an isolated R3 (Strong) event, through 07 Jan as M-flares
-continue and Region 3947 continues to evolve.
+chance for isolated R3 (Strong) or greater events through 07 Jan, as AR
+3947 continues to mature. R1-R2 (Minor-Moderate) radio blackouts are
+likely on 08 Jan.
 
 ```
