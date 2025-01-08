@@ -1,13 +1,14 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2025-01-07
+<br />**Date image released:**  2025-01-08
 <br />**This image is owned by:**  
-Alessandra Masi
+Stéphane Vetter
+(Nuits sacrées)
 
-<br />**Title of the image:**  A New Year's Aurora and SAR Arc
-<br />**Description for the image:**  It was a new year, and the sky was doubly red.  The new year meant that the Earth had returned to its usual place in its orbit on January 1, a place a few days before its closest approach to the Sun.  The first of the two red skyglows, on the left, was a red aurora, complete with vertical rays, caused by a blast from the Sun pushing charged particles into Earth's atmosphere.  The second red glow, most prominent on the far right, was possibly a SAR arc caused by a river of charged particles flowing across Earth's atmosphere.  Although both appear red, the slight color difference is likely due to the aurora being emitted by both oxygen and nitrogen, whereas the higher SAR arc was possibly emitted more purely by atmospheric oxygen. The featured image was taken on January 1 from near Pieve di Cadore in Italy.   Portal Universe: Random APOD Generator
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2501/AuroraSar_Masi_1280.jpg
+<br />**Title of the image:**  Supernova Remnants Big and Small
+<br />**Description for the image:**  What happens after a star explodes?  A huge fireball of hot gas shoots out in all directions.  When this gas slams into the existing interstellar medium, it heats up so much it glows. Two different supernova remnants (SNRs) are visible in the featured image, taken at the Oukaïmeden Observatory in Morocco.  The blue soccer ball-looking nebula toward the upper left is SNR G179.0+02.6, which appears to be the smaller one.  This supernova, about 11,000 light years distant, detonated about 50,000 years ago. Although composed mostly of hydrogen gas, the blue light is emitted by a trace amount of oxygen.  The seemingly larger SNR, dominating the lower right of the frame, is the Spaghetti Nebula, cataloged as Simeis 147 and sh2-240.  This supernova, only about 3,000 light years away, exploded about 40,000 years ago. Comparatively, even though they appear different sizes, both supernova remnants are not only roughly the same age, but about the same size, too.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2501/Supernovas_Vetter_1653.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -51,27 +52,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 Jan 07 0030 UTC
+:Issued: 2025 Jan 08 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Jan 07-Jan 09 2025 is 4.00 (below NOAA
+The greatest expected 3 hr Kp for Jan 08-Jan 10 2025 is 2.67 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Jan 07-Jan 09 2025
+NOAA Kp index breakdown Jan 08-Jan 10 2025
 
-             Jan 07       Jan 08       Jan 09
-00-03UT       4.00         2.33         1.33     
-03-06UT       3.33         2.67         1.33     
-06-09UT       2.67         2.67         1.67     
-09-12UT       2.33         1.67         1.33     
-12-15UT       2.00         1.67         1.33     
-15-18UT       2.00         1.67         1.33     
-18-21UT       2.00         2.00         1.67     
-21-00UT       2.67         2.33         1.67     
+             Jan 08       Jan 09       Jan 10
+00-03UT       2.33         1.33         1.33     
+03-06UT       2.67         1.33         1.33     
+06-09UT       2.67         1.67         1.33     
+09-12UT       1.67         1.33         1.33     
+12-15UT       1.67         1.33         1.33     
+15-18UT       1.67         1.33         1.67     
+18-21UT       2.00         1.67         1.67     
+21-00UT       2.33         1.67         1.67     
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
 significant transient or recurrent solar wind features are forecast.
@@ -81,28 +82,29 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Jan 07-Jan 09 2025
+Solar Radiation Storm Forecast for Jan 08-Jan 10 2025
 
-              Jan 07  Jan 08  Jan 09
+              Jan 08  Jan 09  Jan 10
 S1 or greater   15%     15%     15%
 
 Rationale: A slight chance for S1 (Minor) solar radiation storming will
-persist through 09 Jan as multiple CME producing regions transit and
+persist through 10 Jan as multiple CME producing regions transit and
 exit the western limb.
 
 C. NOAA Radio Blackout Activity and Forecast
 
 Radio blackouts reaching the R1 levels were observed over the past 24
-hours. The largest was at Jan 06 2025 1624 UTC.
+hours. The largest was at Jan 07 2025 2305 UTC.
 
-Radio Blackout Forecast for Jan 07-Jan 09 2025
+Radio Blackout Forecast for Jan 08-Jan 10 2025
 
-              Jan 07        Jan 08        Jan 09
+              Jan 08        Jan 09        Jan 10
 R1-R2           70%           65%           60%
-R3 or greater   25%           20%           15%
+R3 or greater   20%           20%           15%
 
 Rationale: R1-R2 (Minor-Moderate) radio blackouts are likely, with a
-decreasing chance for isolated R3 (Strong) or greater events through 09
-Jan.
+slight chance for isolated R3 (Strong) or greater events through 10 Jan.
+This is based on the magnetic complexity and persistent activity of
+Region 3947.
 
 ```
