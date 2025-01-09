@@ -1,8 +1,5 @@
-<br />**Date image released:**  2025-01-08
-<br />**This image is owned by:**  
-Stéphane Vetter
-(Nuits sacrées)
-
-<br />**Title of the image:**  Supernova Remnants Big and Small
-<br />**Description for the image:**  What happens after a star explodes?  A huge fireball of hot gas shoots out in all directions.  When this gas slams into the existing interstellar medium, it heats up so much it glows. Two different supernova remnants (SNRs) are visible in the featured image, taken at the Oukaïmeden Observatory in Morocco.  The blue soccer ball-looking nebula toward the upper left is SNR G179.0+02.6, which appears to be the smaller one.  This supernova, about 11,000 light years distant, detonated about 50,000 years ago. Although composed mostly of hydrogen gas, the blue light is emitted by a trace amount of oxygen.  The seemingly larger SNR, dominating the lower right of the frame, is the Spaghetti Nebula, cataloged as Simeis 147 and sh2-240.  This supernova, only about 3,000 light years away, exploded about 40,000 years ago. Comparatively, even though they appear different sizes, both supernova remnants are not only roughly the same age, but about the same size, too.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2501/Supernovas_Vetter_1653.jpg
+<br />**Date image released:**  2025-01-09
+<br />**This image is owned by:**  Dave Doctor
+<br />**Title of the image:**  Peculiar Galaxies of Arp 273
+<br />**Description for the image:**  The colorful, spiky stars are in the foreground of this image taken with a small telescope on planet Earth. They lie well within our own Milky Way Galaxy. But the two eye-catching galaxies in the frame lie far beyond the Milky Way, at a distance of over 300 million light-years. The galaxies' twisted and distorted appearance is due to mutual gravitational tides as the pair engage in close encounters. Cataloged as Arp 273 (also as UGC 1810), these galaxies do look peculiar, but interacting galaxies are now understood to be common in the universe. Closer to home, the large spiral Andromeda Galaxy is known to be some 2 million light-years away and inexorably approaching the Milky Way.  In fact the far away peculiar galaxies of Arp 273 may offer an analog of the far future encounter of Andromeda and Milky Way. Repeated galaxy encounters on a cosmic timescale ultimately result in a merger into a single galaxy of stars. From our perspective, the bright cores of the Arp 273 galaxies are separated by only a little over 100,000 light-years.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2501/Image171a.jpg

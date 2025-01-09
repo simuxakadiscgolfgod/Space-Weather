@@ -1,14 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2025-01-08
-<br />**This image is owned by:**  
-Stéphane Vetter
-(Nuits sacrées)
-
-<br />**Title of the image:**  Supernova Remnants Big and Small
-<br />**Description for the image:**  What happens after a star explodes?  A huge fireball of hot gas shoots out in all directions.  When this gas slams into the existing interstellar medium, it heats up so much it glows. Two different supernova remnants (SNRs) are visible in the featured image, taken at the Oukaïmeden Observatory in Morocco.  The blue soccer ball-looking nebula toward the upper left is SNR G179.0+02.6, which appears to be the smaller one.  This supernova, about 11,000 light years distant, detonated about 50,000 years ago. Although composed mostly of hydrogen gas, the blue light is emitted by a trace amount of oxygen.  The seemingly larger SNR, dominating the lower right of the frame, is the Spaghetti Nebula, cataloged as Simeis 147 and sh2-240.  This supernova, only about 3,000 light years away, exploded about 40,000 years ago. Comparatively, even though they appear different sizes, both supernova remnants are not only roughly the same age, but about the same size, too.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2501/Supernovas_Vetter_1653.jpg
+<br />**Date image released:**  2025-01-09
+<br />**This image is owned by:**  Dave Doctor
+<br />**Title of the image:**  Peculiar Galaxies of Arp 273
+<br />**Description for the image:**  The colorful, spiky stars are in the foreground of this image taken with a small telescope on planet Earth. They lie well within our own Milky Way Galaxy. But the two eye-catching galaxies in the frame lie far beyond the Milky Way, at a distance of over 300 million light-years. The galaxies' twisted and distorted appearance is due to mutual gravitational tides as the pair engage in close encounters. Cataloged as Arp 273 (also as UGC 1810), these galaxies do look peculiar, but interacting galaxies are now understood to be common in the universe. Closer to home, the large spiral Andromeda Galaxy is known to be some 2 million light-years away and inexorably approaching the Milky Way.  In fact the far away peculiar galaxies of Arp 273 may offer an analog of the far future encounter of Andromeda and Milky Way. Repeated galaxy encounters on a cosmic timescale ultimately result in a merger into a single galaxy of stars. From our perspective, the bright cores of the Arp 273 galaxies are separated by only a little over 100,000 light-years.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2501/Image171a.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -52,27 +49,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 Jan 08 0030 UTC
+:Issued: 2025 Jan 09 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Jan 08-Jan 10 2025 is 2.67 (below NOAA
+The greatest expected 3 hr Kp for Jan 09-Jan 11 2025 is 2.33 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Jan 08-Jan 10 2025
+NOAA Kp index breakdown Jan 09-Jan 11 2025
 
-             Jan 08       Jan 09       Jan 10
-00-03UT       2.33         1.33         1.33     
-03-06UT       2.67         1.33         1.33     
-06-09UT       2.67         1.67         1.33     
-09-12UT       1.67         1.33         1.33     
-12-15UT       1.67         1.33         1.33     
-15-18UT       1.67         1.33         1.67     
-18-21UT       2.00         1.67         1.67     
-21-00UT       2.33         1.67         1.67     
+             Jan 09       Jan 10       Jan 11
+00-03UT       1.33         1.33         2.33     
+03-06UT       1.33         1.33         2.33     
+06-09UT       1.67         1.33         2.00     
+09-12UT       1.33         1.33         2.00     
+12-15UT       1.33         1.33         2.33     
+15-18UT       1.33         1.67         2.00     
+18-21UT       1.67         1.67         2.00     
+21-00UT       1.67         1.67         2.00     
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
 significant transient or recurrent solar wind features are forecast.
@@ -82,28 +79,27 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Jan 08-Jan 10 2025
+Solar Radiation Storm Forecast for Jan 09-Jan 11 2025
 
-              Jan 08  Jan 09  Jan 10
-S1 or greater   15%     15%     15%
+              Jan 09  Jan 10  Jan 11
+S1 or greater   10%     10%     10%
 
 Rationale: A slight chance for S1 (Minor) solar radiation storming will
-persist through 10 Jan as multiple CME producing regions transit and
+persist through 11 Jan as multiple CME producing regions transit and
 exit the western limb.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-Radio blackouts reaching the R1 levels were observed over the past 24
-hours. The largest was at Jan 07 2025 2305 UTC.
+No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Jan 08-Jan 10 2025
+Radio Blackout Forecast for Jan 09-Jan 11 2025
 
-              Jan 08        Jan 09        Jan 10
-R1-R2           70%           65%           60%
-R3 or greater   20%           20%           15%
+              Jan 09        Jan 10        Jan 11
+R1-R2           60%           60%           60%
+R3 or greater   15%           15%           15%
 
 Rationale: R1-R2 (Minor-Moderate) radio blackouts are likely, with a
-slight chance for isolated R3 (Strong) or greater events through 10 Jan.
+slight chance for isolated R3 (Strong) or greater events through 11 Jan.
 This is based on the magnetic complexity and persistent activity of
 Region 3947.
 
