@@ -1,11 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2025-01-10
-<br />**This image is owned by:**  Long Xin
-<br />**Title of the image:**  Young Stars, Dark Nebulae
-<br />**Description for the image:**  An unassuming region in the constellation Taurus holds these dark and dusty nebulae. Scattered through the scene, stars in multiple star systems are forming within their natal Taurus molecular cloud complex some 450 light-years away. Millions of years young and still going through stellar adolescence, the stars are variable in brightness and in the late phases of their gravitational collapse. Known as T-Tauri class stars they tend to be faint and take on a yellowish hue in the image. One of the brightest T-Tauri stars in Taurus, V773 (aka HD283447) is near the center of the telescopic frame that spans over 1 degree. Toward the top is the dense, dark marking on the sky cataloged as Barnard 209.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2501/B209V773Tau.png
+<br />**Date image released:**  2025-01-11
+<br />**This image is owned by:**  Dario Giannobile
+<br />**Title of the image:**  An Evening Sky Full of Planets
+<br />**Description for the image:**  Only Mercury is missing from a Solar System parade of planets in this early evening skyscape. Rising nearly opposite the Sun, bright Mars is at the far left. The other naked-eye planets Jupiter, Saturn, and Venus, can also be spotted, with the the position of too-faint Uranus and Neptune marked near the arcing trace of the ecliptic plane. On the far right and close to the western horizon after sunset is a young crescent Moon whose surface is partly illuminated by earthshine.  In the foreground of the composite panorama captured on 2 January, planet Earth is represented by Mount Etna's lower Silvestri Crater. Of course Earth's early evening skies are full of planets for the entire month of January. On 13 January, a nearly Full Moon will appear to pass in front of Mars for skywatchers in the continental U.S. and Eastern Canada.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2501/PlanetsMoonSilvestriCraterCaptionLD.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,58 +49,54 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 Jan 10 0030 UTC
+:Issued: 2025 Jan 11 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Jan 10-Jan 12 2025 is 3.67 (below NOAA
+The greatest expected 3 hr Kp for Jan 11-Jan 13 2025 is 2.67 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Jan 10-Jan 12 2025
+NOAA Kp index breakdown Jan 11-Jan 13 2025
 
-             Jan 10       Jan 11       Jan 12
-00-03UT       1.33         2.33         1.67     
-03-06UT       1.33         0.67         2.67     
-06-09UT       1.33         1.33         1.33     
-09-12UT       1.33         2.00         1.33     
-12-15UT       1.33         1.67         2.67     
-15-18UT       1.67         2.00         3.00     
-18-21UT       1.67         3.33         3.67     
-21-00UT       1.67         2.67         1.67     
+             Jan 11       Jan 12       Jan 13
+00-03UT       2.67         1.33         1.67     
+03-06UT       2.67         1.67         1.67     
+06-09UT       2.33         1.33         1.67     
+09-12UT       2.33         1.33         1.33     
+12-15UT       2.33         1.33         1.33     
+15-18UT       2.67         1.33         1.33     
+18-21UT       2.00         1.67         1.33     
+21-00UT       2.33         1.67         1.33     
 
-Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
-significant transient or recurrent solar wind features are forecast.
+Rationale: No G1 (Minor) or greater geomagnetic storms are expected. 
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Jan 10-Jan 12 2025
+Solar Radiation Storm Forecast for Jan 11-Jan 13 2025
 
-              Jan 10  Jan 11  Jan 12
-S1 or greater   10%      5%      5%
+              Jan 11  Jan 12  Jan 13
+S1 or greater   10%     10%     10%
 
-Rationale: A slight chance for S1 (Minor) solar radiation storming will
-persist through 10 Jan as multiple CME producing regions transit and
-exit the western limb.
+Rationale: There exists a slight chance for S1 (Minor) solar radiation
+storms over 11-13 Jan.
 
 C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Jan 10-Jan 12 2025
+Radio Blackout Forecast for Jan 11-Jan 13 2025
 
-              Jan 10        Jan 11        Jan 12
-R1-R2           55%           55%           55%
-R3 or greater   15%           10%            5%
+              Jan 11        Jan 12        Jan 13
+R1-R2           50%           50%           50%
+R3 or greater   10%           10%           10%
 
-Rationale: R1-R2 (Minor-Moderate) radio blackouts are likely through 12
-Jan, with a slight chance for isolated R3 (Strong) or greater events
-through 11 Jan. This is based on the magnetic complexity and persistent
-activity of Region 3947.
+Rationale: There is a chance for R1-R2 (Minor-Moderate) radio blackouts,
+with a slight chance for R3 (Strong), over 11-13 Jan.
 
 ```
