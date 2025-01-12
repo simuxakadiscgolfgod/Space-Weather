@@ -1,11 +1,10 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2025-01-11
-<br />**This image is owned by:**  Dario Giannobile
-<br />**Title of the image:**  An Evening Sky Full of Planets
-<br />**Description for the image:**  Only Mercury is missing from a Solar System parade of planets in this early evening skyscape. Rising nearly opposite the Sun, bright Mars is at the far left. The other naked-eye planets Jupiter, Saturn, and Venus, can also be spotted, with the the position of too-faint Uranus and Neptune marked near the arcing trace of the ecliptic plane. On the far right and close to the western horizon after sunset is a young crescent Moon whose surface is partly illuminated by earthshine.  In the foreground of the composite panorama captured on 2 January, planet Earth is represented by Mount Etna's lower Silvestri Crater. Of course Earth's early evening skies are full of planets for the entire month of January. On 13 January, a nearly Full Moon will appear to pass in front of Mars for skywatchers in the continental U.S. and Eastern Canada.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2501/PlanetsMoonSilvestriCraterCaptionLD.jpg
+<br />**Date image released:**  2025-01-12
+<br />**Title of the image:**  Mimas: Small Moon with a Big Crater
+<br />**Description for the image:**  Whatever hit Mimas nearly destroyed it.  What remains is one of the largest impact craters on one of Saturn's smallest round moons.  Analysis indicates that a slightly larger impact would have destroyed Mimas entirely.  The huge crater, named Herschel after the 1789 discoverer of Mimas, Sir William Herschel, spans about 130 kilometers and is featured here. Mimas' low mass produces a surface gravity just strong enough to create a spherical body but weak enough to allow such relatively large surface features. Mimas is made of mostly water ice with a smattering of rock - so it is accurately described as a big dirty snowball. The featured image was taken during the closest-ever flyby of the robot spacecraft Cassini past Mimas in 2010 while in orbit around Saturn.    Interactive: Take a trek across Mimas  January 14: Zoom APOD Lecture hosted by the Amateur Astronomers of Association of New York
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2501/Mimas_Cassini_1800.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,27 +48,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 Jan 11 0030 UTC
+:Issued: 2025 Jan 12 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Jan 11-Jan 13 2025 is 2.67 (below NOAA
+The greatest expected 3 hr Kp for Jan 12-Jan 14 2025 is 2.67 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Jan 11-Jan 13 2025
+NOAA Kp index breakdown Jan 12-Jan 14 2025
 
-             Jan 11       Jan 12       Jan 13
-00-03UT       2.67         1.33         1.67     
-03-06UT       2.67         1.67         1.67     
-06-09UT       2.33         1.33         1.67     
-09-12UT       2.33         1.33         1.33     
-12-15UT       2.33         1.33         1.33     
-15-18UT       2.67         1.33         1.33     
-18-21UT       2.00         1.67         1.33     
-21-00UT       2.33         1.67         1.33     
+             Jan 12       Jan 13       Jan 14
+00-03UT       1.33         1.67         1.67     
+03-06UT       1.67         2.67         2.00     
+06-09UT       2.67         1.67         2.67     
+09-12UT       1.33         1.33         2.67     
+12-15UT       1.33         1.33         2.00     
+15-18UT       1.33         1.33         2.33     
+18-21UT       1.67         1.33         1.67     
+21-00UT       1.67         1.33         2.00     
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected. 
 
@@ -78,25 +77,26 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Jan 11-Jan 13 2025
+Solar Radiation Storm Forecast for Jan 12-Jan 14 2025
 
-              Jan 11  Jan 12  Jan 13
-S1 or greater   10%     10%     10%
+              Jan 12  Jan 13  Jan 14
+S1 or greater    5%      5%      5%
 
-Rationale: There exists a slight chance for S1 (Minor) solar radiation
-storms over 11-13 Jan.
+Rationale: No S1 (Minor) or greater solar radiation storms are expected.
+No significant active region activity favorable for radiation storm
+production is forecast.
 
 C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Jan 11-Jan 13 2025
+Radio Blackout Forecast for Jan 12-Jan 14 2025
 
-              Jan 11        Jan 12        Jan 13
-R1-R2           50%           50%           50%
+              Jan 12        Jan 13        Jan 14
+R1-R2           40%           40%           40%
 R3 or greater   10%           10%           10%
 
-Rationale: There is a chance for R1-R2 (Minor-Moderate) radio blackouts,
-with a slight chance for R3 (Strong), over 11-13 Jan.
+Rationale: There remains a chance for R1-R2 (Minor-Moderate) radio
+blackouts, with a slight chance for R3 (Strong), over 12-14 Jan.
 
 ```
