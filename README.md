@@ -1,13 +1,13 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2025-01-14
+<br />**Date image released:**  2025-01-15
 <br />**This image is owned by:**  
-Davide Coverta
+Imran Sultan
 
-<br />**Title of the image:**  North Star: Polaris and Surrounding Dust
-<br />**Description for the image:**  Why is Polaris called the North Star? First, Polaris is the nearest bright star toward the north spin axis of the Earth.  Therefore, as the Earth turns, stars appear to revolve around Polaris, but Polaris itself always stays in the same northerly direction -- making it the North Star.  Since no bright star is near the south spin axis of the Earth, there is currently no bright South Star.  Thousands of years ago, Earth's spin axis pointed in a slightly different direction so that Vega was the North Star.  Although Polaris is not the brightest star on the sky, it is easily located because it is nearly aligned with two stars in the cup of the Big Dipper. Polaris is near the center of the five-degree wide featured image, a digital composite of hundreds of exposures that brings out faint gas and dust of the Integrated Flux Nebula (IFN) all over the frame. The surface of Cepheid Polaris slowly pulsates, causing the famous star to change its brightness by a few percent over the course of a few days.    Today: Zoom APOD Lecture hosted by the Amateur Astronomers of Association of New York
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2501/PolarisIfn_Coverta_3050.jpg
+<br />**Title of the image:**  Wolf Moon Engulfs Mars
+<br />**Description for the image:**  Does the Moon ever engulf Mars? Yes, but only in the sense that it moves in front, which happens on rare occasions.  This happened just yesterday, though, as seen from some locations in North America and western Africa.  This occultation was notable not only because the Moon was a fully lit Wolf Moon, but because Mars was near its largest and brightest, moving to opposition -- the closest to the Earth in its orbit -- only tomorrow.  The engulfing, more formally called an occultation, typically lasting about an hour. The featured image was taken from near Chicago, Illinois, USA just as Earth's largest satellite was angularly moving away from the much more distant red planet. Our  Moon occasionally moves in front of all of the Solar System's planets.  Given the temporary alignment of orbital planes, the next time our Moon eclipses Mars will be a relatively soon February 9.   Growing Gallery: Moon-Mars Occultation in January 2025
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2501/MoonMars_Sultan_960.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -51,27 +51,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 Jan 14 0030 UTC
+:Issued: 2025 Jan 15 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Jan 14-Jan 16 2025 is 2.67 (below NOAA
+The greatest expected 3 hr Kp for Jan 15-Jan 17 2025 is 3.67 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Jan 14-Jan 16 2025
+NOAA Kp index breakdown Jan 15-Jan 17 2025
 
-             Jan 14       Jan 15       Jan 16
-00-03UT       1.67         2.67         2.00     
-03-06UT       2.00         2.67         2.00     
-06-09UT       1.67         2.67         1.67     
-09-12UT       1.67         2.33         1.67     
-12-15UT       2.00         2.33         1.67     
-15-18UT       2.33         2.33         1.67     
-18-21UT       2.67         2.00         2.00     
-21-00UT       2.67         2.67         1.67     
+             Jan 15       Jan 16       Jan 17
+00-03UT       3.00         2.00         2.33     
+03-06UT       3.33         1.67         2.33     
+06-09UT       2.67         1.33         1.67     
+09-12UT       2.33         1.00         1.67     
+12-15UT       2.33         1.00         2.00     
+15-18UT       2.33         1.00         2.33     
+18-21UT       2.67         1.67         2.33     
+21-00UT       2.00         1.67         2.67     
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
 significant transient or recurrent solar wind features are forecast.
@@ -81,9 +81,9 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Jan 14-Jan 16 2025
+Solar Radiation Storm Forecast for Jan 15-Jan 17 2025
 
-              Jan 14  Jan 15  Jan 16
+              Jan 15  Jan 16  Jan 17
 S1 or greater    5%      5%      5%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -94,14 +94,13 @@ C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Jan 14-Jan 16 2025
+Radio Blackout Forecast for Jan 15-Jan 17 2025
 
-              Jan 14        Jan 15        Jan 16
-R1-R2           40%           40%           35%
-R3 or greater   10%           10%            5%
+              Jan 15        Jan 16        Jan 17
+R1-R2           35%           35%           35%
+R3 or greater    5%            5%            5%
 
-Rationale: There is a chance for R1-R2 (Minor-Moderate) events over
-14-16 Jan, with a slight chance for an R3 or greater event, on 14-15
-Jan.
+Rationale: There is a chance for R1-R2 (Minor-Moderate) radio blackout
+events over 15-17 Jan.
 
 ```
