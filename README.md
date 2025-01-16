@@ -1,13 +1,10 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2025-01-15
-<br />**This image is owned by:**  
-Imran Sultan
-
-<br />**Title of the image:**  Wolf Moon Engulfs Mars
-<br />**Description for the image:**  Does the Moon ever engulf Mars? Yes, but only in the sense that it moves in front, which happens on rare occasions.  This happened just yesterday, though, as seen from some locations in North America and western Africa.  This occultation was notable not only because the Moon was a fully lit Wolf Moon, but because Mars was near its largest and brightest, moving to opposition -- the closest to the Earth in its orbit -- only tomorrow.  The engulfing, more formally called an occultation, typically lasting about an hour. The featured image was taken from near Chicago, Illinois, USA just as Earth's largest satellite was angularly moving away from the much more distant red planet. Our  Moon occasionally moves in front of all of the Solar System's planets.  Given the temporary alignment of orbital planes, the next time our Moon eclipses Mars will be a relatively soon February 9.   Growing Gallery: Moon-Mars Occultation in January 2025
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2501/MoonMars_Sultan_960.jpg
+<br />**Date image released:**  2025-01-16
+<br />**Title of the image:**  M83: The Southern Pinwheel
+<br />**Description for the image:**  Beautiful and bright spiral galaxy M83 lies a some twelve million light-years away, near the southeastern tip of the very long constellation Hydra. Prominent spiral arms traced by dark dust lanes and blue star clusters lend this galaxy its popular name, The Southern Pinwheel.  Still, reddish star forming regions that dot this cosmic pinwheel's spiral arms have suggested another nickname, the Thousand-Ruby Galaxy. A mere 40,000 light-years across, smaller than the Milky Way, M83 is a member of a group of galaxies that includes active galaxy Centaurus A. In fact, the core of M83 itself is bright at x-ray energies, showing a high concentration of neutron stars and black holes left from an intense burst of star formation. This sharp color image also features spiky foreground Milky Way stars and distant background galaxies. The image data was captured with the Dark Energy Camera and Blanco 4-meter telescope at Cerro Tololo Inter-American Observatory.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2501/noirlab2429a.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -51,27 +48,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 Jan 15 0030 UTC
+:Issued: 2025 Jan 16 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Jan 15-Jan 17 2025 is 3.67 (below NOAA
+The greatest expected 3 hr Kp for Jan 16-Jan 18 2025 is 2.67 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Jan 15-Jan 17 2025
+NOAA Kp index breakdown Jan 16-Jan 18 2025
 
-             Jan 15       Jan 16       Jan 17
-00-03UT       3.00         2.00         2.33     
-03-06UT       3.33         1.67         2.33     
-06-09UT       2.67         1.33         1.67     
-09-12UT       2.33         1.00         1.67     
-12-15UT       2.33         1.00         2.00     
-15-18UT       2.33         1.00         2.33     
-18-21UT       2.67         1.67         2.33     
-21-00UT       2.00         1.67         2.67     
+             Jan 16       Jan 17       Jan 18
+00-03UT       2.33         2.33         2.33     
+03-06UT       1.67         2.33         2.00     
+06-09UT       1.67         1.67         2.33     
+09-12UT       1.00         1.67         2.67     
+12-15UT       1.00         2.00         2.33     
+15-18UT       1.00         2.33         2.33     
+18-21UT       2.33         2.33         2.33     
+21-00UT       2.33         2.67         2.67     
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
 significant transient or recurrent solar wind features are forecast.
@@ -81,9 +78,9 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Jan 15-Jan 17 2025
+Solar Radiation Storm Forecast for Jan 16-Jan 18 2025
 
-              Jan 15  Jan 16  Jan 17
+              Jan 16  Jan 17  Jan 18
 S1 or greater    5%      5%      5%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -94,13 +91,13 @@ C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Jan 15-Jan 17 2025
+Radio Blackout Forecast for Jan 16-Jan 18 2025
 
-              Jan 15        Jan 16        Jan 17
+              Jan 16        Jan 17        Jan 18
 R1-R2           35%           35%           35%
 R3 or greater    5%            5%            5%
 
 Rationale: There is a chance for R1-R2 (Minor-Moderate) radio blackout
-events over 15-17 Jan.
+events over 16-18 Jan.
 
 ```
