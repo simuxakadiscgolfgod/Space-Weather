@@ -1,10 +1,10 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2025-01-16
-<br />**Title of the image:**  M83: The Southern Pinwheel
-<br />**Description for the image:**  Beautiful and bright spiral galaxy M83 lies a some twelve million light-years away, near the southeastern tip of the very long constellation Hydra. Prominent spiral arms traced by dark dust lanes and blue star clusters lend this galaxy its popular name, The Southern Pinwheel.  Still, reddish star forming regions that dot this cosmic pinwheel's spiral arms have suggested another nickname, the Thousand-Ruby Galaxy. A mere 40,000 light-years across, smaller than the Milky Way, M83 is a member of a group of galaxies that includes active galaxy Centaurus A. In fact, the core of M83 itself is bright at x-ray energies, showing a high concentration of neutron stars and black holes left from an intense burst of star formation. This sharp color image also features spiky foreground Milky Way stars and distant background galaxies. The image data was captured with the Dark Energy Camera and Blanco 4-meter telescope at Cerro Tololo Inter-American Observatory.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2501/noirlab2429a.jpg
+<br />**Date image released:**  2025-01-17
+<br />**Title of the image:**  Supernova Remnant Cassiopeia A
+<br />**Description for the image:**  Massive stars in our Milky Way Galaxy live spectacular lives.  Collapsing from vast cosmic clouds, their nuclear furnaces ignite and create heavy elements in their cores. After only a few million years for the most massive stars, the enriched material is blasted back into interstellar space where star formation can begin anew. The expanding debris cloud known as Cassiopeia A is an example of this final phase of the stellar life cycle. Light from the supernova explosion that created this remnant would have been first seen in planet Earth's sky about 350 years ago, although it took that light 11,000 years to reach us. This sharp NIRCam image from the James Webb Space Telescope shows the still hot filaments and knots in the supernova remnant. The whitish, smoke-like outer shell of the expanding blast wave is about 20 light-years across. A series of light echoes from the massive star's cataclysmic explosion are also identified in Webb's detailed images of the surrounding interstellar medium.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2501/CasA_nircam_4096.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -48,27 +48,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 Jan 16 0030 UTC
+:Issued: 2025 Jan 17 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Jan 16-Jan 18 2025 is 2.67 (below NOAA
+The greatest expected 3 hr Kp for Jan 17-Jan 19 2025 is 3.67 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Jan 16-Jan 18 2025
+NOAA Kp index breakdown Jan 17-Jan 19 2025
 
-             Jan 16       Jan 17       Jan 18
-00-03UT       2.33         2.33         2.33     
-03-06UT       1.67         2.33         2.00     
-06-09UT       1.67         1.67         2.33     
-09-12UT       1.00         1.67         2.67     
-12-15UT       1.00         2.00         2.33     
-15-18UT       1.00         2.33         2.33     
-18-21UT       2.33         2.33         2.33     
-21-00UT       2.33         2.67         2.67     
+             Jan 17       Jan 18       Jan 19
+00-03UT       3.67         2.67         2.67     
+03-06UT       2.67         3.67         2.67     
+06-09UT       3.67         2.67         2.67     
+09-12UT       2.67         2.67         2.67     
+12-15UT       3.67         2.67         2.00     
+15-18UT       2.67         1.67         1.67     
+18-21UT       1.67         1.67         2.33     
+21-00UT       2.67         3.00         2.67     
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
 significant transient or recurrent solar wind features are forecast.
@@ -78,9 +78,9 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Jan 16-Jan 18 2025
+Solar Radiation Storm Forecast for Jan 17-Jan 19 2025
 
-              Jan 16  Jan 17  Jan 18
+              Jan 17  Jan 18  Jan 19
 S1 or greater    5%      5%      5%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -91,13 +91,14 @@ C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Jan 16-Jan 18 2025
+Radio Blackout Forecast for Jan 17-Jan 19 2025
 
-              Jan 16        Jan 17        Jan 18
-R1-R2           35%           35%           35%
-R3 or greater    5%            5%            5%
+              Jan 17        Jan 18        Jan 19
+R1-R2           50%           50%           50%
+R3 or greater   15%           15%           15%
 
-Rationale: There is a chance for R1-R2 (Minor-Moderate) radio blackout
-events over 16-18 Jan.
+Rationale: There is an increased chance for R1-R2 (Minor-Moderate) radio
+blackouts, with a slight chance for R3 (Strong) radio blackouts, over
+17-19 Jan.
 
 ```
