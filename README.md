@@ -1,11 +1,7 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2025-01-18
-<br />**This image is owned by:**  On January 13
-<br />**Title of the image:**  Full Moon, Full Mars
-<br />**Description for the image:**  On January 13 a Full Moon and a Full Mars were close, both bright and opposite the Sun in planet Earth's sky. In fact Mars was occulted, passing behind the Moon, when viewed from some locations in North America and northwest Africa.  As seen from Richmond, Virginia, USA, this composite image sequence follows the evening lunar occultation before, during, and after the much anticipated celestial spectacle. The telescopic time series is constructed from an exposure made every two minutes while tracking the Moon over the hours encompassing the event. As a result, the Red Planet's trajectory seems to follow a gently curved path due to the Moon's slightly different rate of apparent motion. The next lunar occultation of bright planet Mars will be on February 9 when the moon is in a waxing gibbous phase. Lunar occultations are only ever visible from a fraction of the Earth's surface, though. The February 9 occultation of Mars will be seen from parts of Russia, China, eastern Canada, Greenland and other (mostly northern) locations, but a close conjunction of a bright Moon with Mars will be more widely visible from planet Earth.   Growing Gallery: Moon-Mars Occultation in January 2025
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2501/MarsLOc_Jan13.jpg
+<br />**Sorry, Image not available!**
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,27 +45,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 Jan 18 0030 UTC
+:Issued: 2025 Jan 19 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Jan 18-Jan 20 2025 is 3.67 (below NOAA
+The greatest expected 3 hr Kp for Jan 19-Jan 21 2025 is 3.00 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Jan 18-Jan 20 2025
+NOAA Kp index breakdown Jan 19-Jan 21 2025
 
-             Jan 18       Jan 19       Jan 20
-00-03UT       2.67         2.67         2.00     
-03-06UT       3.67         3.00         2.67     
-06-09UT       2.67         2.67         2.67     
-09-12UT       2.67         2.67         2.00     
-12-15UT       3.67         2.00         2.00     
-15-18UT       2.67         1.67         1.67     
-18-21UT       2.67         1.67         2.00     
-21-00UT       3.00         2.67         2.33     
+             Jan 19       Jan 20       Jan 21
+00-03UT       2.67         2.00         2.67     
+03-06UT       3.00         2.67         2.67     
+06-09UT       2.67         2.67         2.00     
+09-12UT       2.67         2.00         2.00     
+12-15UT       2.00         2.00         1.33     
+15-18UT       1.67         1.67         1.33     
+18-21UT       1.67         2.00         2.00     
+21-00UT       2.67         2.33         2.00     
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected. 
 
@@ -78,28 +74,28 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Jan 18-Jan 20 2025
+Solar Radiation Storm Forecast for Jan 19-Jan 21 2025
 
-              Jan 18  Jan 19  Jan 20
-S1 or greater   15%     15%     15%
+              Jan 19  Jan 20  Jan 21
+S1 or greater   10%     10%     10%
 
 Rationale: There is a slight chance for S1 (Minor) or greater solar
-radiation storms over 18-20 Jan due to multiple complex regions on the
+radiation storms over 19-21 Jan due to multiple complex regions on the
 visible disk.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-Radio blackouts reaching the R2 levels were observed over the past 24
-hours. The largest was at Jan 17 2025 1335 UTC.
+Radio blackouts reaching the R1 levels were observed over the past 24
+hours. The largest was at Jan 18 2025 0058 UTC.
 
-Radio Blackout Forecast for Jan 18-Jan 20 2025
+Radio Blackout Forecast for Jan 19-Jan 21 2025
 
-              Jan 18        Jan 19        Jan 20
+              Jan 19        Jan 20        Jan 21
 R1-R2           70%           70%           70%
-R3 or greater   30%           30%           30%
+R3 or greater   25%           25%           25%
 
-Rationale: R1-R2 (Minor-Moderate) radio blackouts are likely, with a
-chance for R3 (Strong), over 18-19 Jan due to multiple complex regions
-on the visible disk.
+Rationale: R1-R2 (Minor-Moderate) radio blackouts are like, with a
+slight chance for R3 (Strong), over 19-21 Jan due to the flare potential
+of multiple complex regions on the visible disk.
 
 ```
