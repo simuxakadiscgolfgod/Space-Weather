@@ -2,6 +2,10 @@
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
 <br />**Sorry, Image not available!**
+<br />**Date image released:**  2025-01-20
+<br />**Title of the image:**  Comet ATLAS Rounds the Sun
+<br />**Description for the image:**  Why does Comet ATLAS have such colorful tails? Last week Comet C/2024 G3 (ATLAS) passed its closest to the Sun -- well inside the orbit of Mercury -- and brightened dramatically.  Unfortunately, the comet was then so angularly near the Sun that it was very hard for humans to see. But NASA's SOHO spacecraft saw it. Pictured is a SOHO (LASCO C3) image of Comet ATLAS that is a composite of several different color filters. Of the several tails visible, the central white tails are likely made of dust and just reflecting back sunlight. The red, blue, and green tails are likely ion tails with their colors dominated by light emitted by specific gases that were ejected from the comet and energized by the Sun.  Currently, Comet ATLAS is showing long tails in southern skies but fading as it moves out of the inner Solar System.   Growing Gallery: Comet ATLAS (G3)
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2501/CometG3Perihelion_SohoLigustri_960.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -45,57 +49,57 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 Jan 19 0030 UTC
+:Issued: 2025 Jan 20 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Jan 19-Jan 21 2025 is 3.00 (below NOAA
+The greatest expected 3 hr Kp for Jan 20-Jan 22 2025 is 3.67 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Jan 19-Jan 21 2025
+NOAA Kp index breakdown Jan 20-Jan 22 2025
 
-             Jan 19       Jan 20       Jan 21
-00-03UT       2.67         2.00         2.67     
-03-06UT       3.00         2.67         2.67     
-06-09UT       2.67         2.67         2.00     
-09-12UT       2.67         2.00         2.00     
-12-15UT       2.00         2.00         1.33     
-15-18UT       1.67         1.67         1.33     
-18-21UT       1.67         2.00         2.00     
-21-00UT       2.67         2.33         2.00     
+             Jan 20       Jan 21       Jan 22
+00-03UT       3.00         2.67         1.33     
+03-06UT       3.67         2.67         1.33     
+06-09UT       2.67         2.00         1.67     
+09-12UT       2.67         2.00         1.33     
+12-15UT       3.67         1.33         1.33     
+15-18UT       2.00         1.33         1.33     
+18-21UT       1.00         2.00         1.67     
+21-00UT       1.00         2.00         1.67     
 
-Rationale: No G1 (Minor) or greater geomagnetic storms are expected. 
+Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Jan 19-Jan 21 2025
+Solar Radiation Storm Forecast for Jan 20-Jan 22 2025
 
-              Jan 19  Jan 20  Jan 21
+              Jan 20  Jan 21  Jan 22
 S1 or greater   10%     10%     10%
 
 Rationale: There is a slight chance for S1 (Minor) or greater solar
-radiation storms over 19-21 Jan due to multiple complex regions on the
+radiation storms over 20-22 Jan due to multiple complex regions on the
 visible disk.
 
 C. NOAA Radio Blackout Activity and Forecast
 
 Radio blackouts reaching the R1 levels were observed over the past 24
-hours. The largest was at Jan 18 2025 0058 UTC.
+hours. The largest was at Jan 19 2025 0332 UTC.
 
-Radio Blackout Forecast for Jan 19-Jan 21 2025
+Radio Blackout Forecast for Jan 20-Jan 22 2025
 
-              Jan 19        Jan 20        Jan 21
-R1-R2           70%           70%           70%
-R3 or greater   25%           25%           25%
+              Jan 20        Jan 21        Jan 22
+R1-R2           60%           60%           60%
+R3 or greater   20%           20%           20%
 
-Rationale: R1-R2 (Minor-Moderate) radio blackouts are like, with a
-slight chance for R3 (Strong), over 19-21 Jan due to the flare potential
+Rationale: R1-R2 (Minor-Moderate) radio blackouts are likely, with a
+chance for R3 (Strong), over 20-22 Jan due to the flare potential
 of multiple complex regions on the visible disk.
 
 ```
