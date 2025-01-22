@@ -1,10 +1,13 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2025-01-21
-<br />**Title of the image:**  Comet ATLAS over Brasília
-<br />**Description for the image:**  What's that in the sky? Above the city, above most clouds, far in the distance: it's a comet. Pictured, the impressive tail of Comet C/2024 G3 (ATLAS) was imaged from Brasília, Brazil four days ago. Last week the evolving  comet rounded the Sun well inside the orbit of planet Mercury, going so close there was early concern that it might break up -- and recent evidence that it really did.  At one point near perihelion, Comet ATLAS was so bright that sightings were even reported during the day -- over the bright sky near the Sun -- by careful observers.  Over the past few days, Comet ATLAS has developed a long tail that has been partly visible with unaided eyes after sunset, most notably in Earth's southern hemisphere.    Growing Gallery: Comet ATLAS (G3)
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2501/CometATLAS_Danin_1080.jpg
+<br />**Date image released:**  2025-01-22
+<br />**This image is owned by:**  
+Dimitris Valianos
+
+<br />**Title of the image:**  The North America Nebula
+<br />**Description for the image:**  The North America nebula on the sky can do what the North America continent on Earth cannot -- form stars.  Specifically, in analogy to the Earth-confined continent, the bright part that appears as the east coast  is actually a hot bed of gas, dust, and newly formed stars known as the Cygnus Wall.  The featured image shows the star forming wall lit and eroded by bright young stars and partly hidden by the dark dust they have created.  The part of the North America nebula (NGC 7000) shown spans about 50 light years and lies about 1,500 light years away toward the constellation of the Swan (Cygnus).   Jigsaw Challenge: Astronomy Puzzle of the Day
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2501/NGC7000_Valianos_3132.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -48,57 +51,56 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 Jan 21 0030 UTC
+:Issued: 2025 Jan 22 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Jan 21-Jan 23 2025 is 4.00 (below NOAA
+The greatest expected 3 hr Kp for Jan 22-Jan 24 2025 is 4.33 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Jan 21-Jan 23 2025
+NOAA Kp index breakdown Jan 22-Jan 24 2025
 
-             Jan 21       Jan 22       Jan 23
-00-03UT       4.00         1.33         1.67     
-03-06UT       3.00         1.33         1.33     
-06-09UT       2.00         1.67         1.33     
-09-12UT       2.33         1.33         1.33     
-12-15UT       2.33         1.33         1.33     
-15-18UT       2.00         1.33         1.33     
-18-21UT       2.67         1.67         1.67     
-21-00UT       2.67         1.67         1.67     
+             Jan 22       Jan 23       Jan 24
+00-03UT       3.00         1.67         1.67     
+03-06UT       2.67         1.33         1.33     
+06-09UT       2.33         1.33         1.33     
+09-12UT       2.00         1.33         1.33     
+12-15UT       1.33         1.33         4.00     
+15-18UT       1.00         1.33         2.67     
+18-21UT       1.33         1.67         4.00     
+21-00UT       2.00         1.67         4.33     
 
-Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
-significant transient or recurrent solar wind features are forecast.
+Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Jan 21-Jan 23 2025
+Solar Radiation Storm Forecast for Jan 22-Jan 24 2025
 
-              Jan 21  Jan 22  Jan 23
+              Jan 22  Jan 23  Jan 24
 S1 or greater   10%     10%     10%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
-No significant active region activity favorable for radiation storm
-production is forecast.
+
 
 C. NOAA Radio Blackout Activity and Forecast
 
-No radio blackouts were observed over the past 24 hours.
+Radio blackouts reaching the R1 levels were observed over the past 24
+hours. The largest was at Jan 21 2025 1039 UTC.
 
-Radio Blackout Forecast for Jan 21-Jan 23 2025
+Radio Blackout Forecast for Jan 22-Jan 24 2025
 
-              Jan 21        Jan 22        Jan 23
-R1-R2           65%           65%           65%
-R3 or greater   20%           20%           20%
+              Jan 22        Jan 23        Jan 24
+R1-R2           60%           60%           60%
+R3 or greater   15%           15%           15%
 
 Rationale: R1-R2 (Minor-Moderate) radio blackout events are likely, with
-a slight chance for R3 (Strong) events, over 21-23 Jan due to the flare
+a slight chance for R3 (Strong) events, over 22-24 Jan due to the flare
 potential of multiple regions on the visible disk.
 
 ```
