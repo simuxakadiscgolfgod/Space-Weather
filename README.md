@@ -1,11 +1,16 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2025-01-25
-<br />**This image is owned by:**  Jeff Schilling
-<br />**Title of the image:**  Stardust in the Perseus Molecular Cloud
-<br />**Description for the image:**  Clouds of stardust drift through this deep skyscape, across the Perseus molecular cloud some 850 light-years away. Dusty nebulae reflecting light from embedded young stars stand out in the nearly 4 degree wide field of view. With a characteristic bluish color reflection nebula NGC 1333 is prominent near center. Hints of contrasting red emission from Herbig-Haro objects, the jets and shocked glowing gas emanating from recently formed stars, are scattered across the dusty expanse. While many stars are forming in the molecular cloud, most are obscured at visible wavelengths by the pervasive dust. The chaotic environment surrounding NGC 1333 may be similar to one in which our own Sun formed over 4.5 billion years ago. At the estimated distance of the Perseus molecular cloud, this cosmic scene would span about 80 light-years.   Growing Gallery: Comet ATLAS (G3)
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2501/ngc1333_jeff_version_4_2048.jpg
+<br />**Date image released:**  2025-01-26
+<br />**This image is owned by:**  
+Martin Mašek 
+(FZU, Czech Academy of Sciences) 
+& 
+Jakub Kuřák
+
+<br />**Title of the image:**  The Many Tails of Comet G3 ATLAS
+<br />**Description for the image:**  Why does this comet have so many tails? C/2024 G3 (ATLAS) has developed several long and intricate tails visible from Earth's southern hemisphere over the past two weeks. Many observers reported seeing the impressive comet without any optical aid above the western horizon just after sunset. At least six different tails appear in the featured image captured five days ago from the dark skies above Paranal Observatory in Chile.  One possible cause for the multiple tails is dust and gas being expelled from the comet's rotating nucleus. The outward push of the Sun's complex solar wind may also play a role. The huge iceberg-like nucleus of Comet ATLAS appears to have broken up near its closest approach to the Sun two weeks ago.  Unfortunately, Comet ATLAS and its tails are expected to fade significantly over the coming weeks.    Your Sky Surprise: What picture did APOD feature on your birthday? (post 1995)
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2501/AtlasParanal_Kurak_2000.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,57 +54,56 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 Jan 25 0030 UTC
+:Issued: 2025 Jan 26 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 1 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Jan 25-Jan 27 2025 is 5.33 (NOAA Scale
-G1).
+The greatest expected 3 hr Kp for Jan 26-Jan 28 2025 is 1.67 (below NOAA
+Scale levels).
 
-NOAA Kp index breakdown Jan 25-Jan 27 2025
+NOAA Kp index breakdown Jan 26-Jan 28 2025
 
-             Jan 25       Jan 26       Jan 27
-00-03UT       3.33         4.00         1.33     
-03-06UT       5.33 (G1)    3.67         1.33     
-06-09UT       5.00 (G1)    3.00         1.33     
-09-12UT       4.00         2.67         1.33     
-12-15UT       4.00         2.33         1.33     
-15-18UT       3.33         2.00         1.67     
-18-21UT       3.33         2.00         1.67     
-21-00UT       4.00         3.33         1.67     
+             Jan 26       Jan 27       Jan 28
+00-03UT       1.67         1.33         1.33     
+03-06UT       1.67         1.33         1.33     
+06-09UT       1.00         1.33         1.33     
+09-12UT       1.00         1.33         1.33     
+12-15UT       1.00         1.33         1.67     
+15-18UT       1.00         1.67         1.67     
+18-21UT       1.00         1.67         1.67     
+21-00UT       1.00         1.67         1.33     
 
-Rationale: G1 (Minor) or greater geomagnetic storms are expected on 25
-Jan due to the potential arrival of a CME from 22 Jan.
+Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
+significant transient or recurrent solar wind features are forecast.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Jan 25-Jan 27 2025
+Solar Radiation Storm Forecast for Jan 26-Jan 28 2025
 
-              Jan 25  Jan 26  Jan 27
+              Jan 26  Jan 27  Jan 28
 S1 or greater   10%     10%     10%
 
 Rationale: There is a slight chance for S1 (Minor) or greater solar
-radiation storms over 24-26 Jun.
+radiation storms over 26-28 Jun.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-Radio blackouts reaching the R1 levels were observed over the past 24
-hours. The largest was at Jan 24 2025 2104 UTC.
+No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Jan 25-Jan 27 2025
+Radio Blackout Forecast for Jan 26-Jan 28 2025
 
-              Jan 25        Jan 26        Jan 27
-R1-R2           55%           55%           55%
+              Jan 26        Jan 27        Jan 28
+R1-R2           45%           45%           45%
 R3 or greater   10%           10%           10%
 
-Rationale: R1-R2 (Minor-Moderate) radio blackout events are likely, with
-slight chance for R2 (Strong) events, over 24-26 Jan due to the flare
-potential of multiple regions on the visible disk.
+Rationale: There is a chance for R1-R2 (Minor-Moderate) radio blackout
+events, with slight chance for R2 (Strong) events, over 24-26 Jan due to
+the flare potential of multiple regions on the visible disk.
 
 ```
