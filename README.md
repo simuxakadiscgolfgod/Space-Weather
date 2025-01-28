@@ -1,13 +1,13 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2025-01-27
+<br />**Date image released:**  2025-01-28
 <br />**This image is owned by:**  
-Dheera Venkatraman
+Mauricio Salazar
 
-<br />**Title of the image:**  Pleiades over Half Dome
-<br />**Description for the image:**  Stars come in bunches.  The most famous bunch of stars on the sky is the Pleiades, a bright cluster that can be easily seen with the unaided eye.  The Pleiades lies only about 450 light years away, formed about 100 million years ago, and will likely last about another 250 million years. Our Sun was likely born in a star cluster, but now, being about 4.5 billion years old, its stellar birth companions have long since dispersed. The Pleiades star cluster is pictured over Half Dome, a famous rock structure in Yosemite National Park in California, USA. The featured image is a composite of 28 foreground exposures and 174 images of the stellar background, all taken from the same location and by the same camera on the same night in October 2019. After calculating the timing of a future juxtaposition of the Pleiades and Half Dome, the astrophotographer was unexpectedly rewarded by an electrical blackout, making the background sky unusually dark.    Astrophysicists: Browse 3,500+ codes in the Astrophysics Source Code Library
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2501/HalfPleiades_Venkatraman_1365.jpg
+<br />**Title of the image:**  Comet G3 ATLAS over Uruguay
+<br />**Description for the image:**  Comets can be huge. When far from the Sun, a comet's size usually refers to its hard nucleus of ice and rock, which typically spans a few kilometers -- smaller than even a small moon. When nearing the Sun, however, this nucleus can eject dust and gas and leave a thin tail that can spread to an enormous length -- even greater than the distance between the Earth and the Sun. Pictured, C/2024 G3 (ATLAS) sports a tail of sunlight-reflecting dust and glowing gas that spans several times the apparent size of a full moon, appearing even larger on long duration camera images than to the unaided eye. The featured image shows impressive Comet ATLAS over trees and a grass field in Sierras de Mahoma, San Jose, Uruguay about a week ago.  After being prominent in the sunset skies of Earth's southern hemisphere, Comet G3 ATLAS is now fading as it moves away from the Sun, making its impressive tails increasingly hard to see.    Gallery: Comet ATLAS (G3)
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2501/AtlasFields_Salazar_3214.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -51,57 +51,56 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 Jan 27 0030 UTC
+:Issued: 2025 Jan 28 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 1 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Jan 27-Jan 29 2025 is 2.67 (below NOAA
+The greatest expected 3 hr Kp for Jan 28-Jan 30 2025 is 2.67 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Jan 27-Jan 29 2025
+NOAA Kp index breakdown Jan 28-Jan 30 2025
 
-             Jan 27       Jan 28       Jan 29
-00-03UT       1.33         1.33         2.67     
-03-06UT       1.33         1.33         2.00     
-06-09UT       1.67         1.33         2.33     
-09-12UT       1.67         1.33         2.67     
-12-15UT       1.67         1.67         2.33     
-15-18UT       1.33         1.67         2.33     
-18-21UT       1.33         1.67         2.33     
-21-00UT       1.33         1.33         2.33     
+             Jan 28       Jan 29       Jan 30
+00-03UT       1.33         2.67         1.67     
+03-06UT       1.33         2.00         1.67     
+06-09UT       1.33         2.33         1.33     
+09-12UT       1.33         2.67         1.33     
+12-15UT       1.67         2.33         1.33     
+15-18UT       1.67         2.33         1.33     
+18-21UT       1.67         2.33         1.33     
+21-00UT       1.33         2.33         1.67     
 
-Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
-significant transient or recurrent solar wind features are forecast.
+Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Jan 27-Jan 29 2025
+Solar Radiation Storm Forecast for Jan 28-Jan 30 2025
 
-              Jan 27  Jan 28  Jan 29
-S1 or greater   10%      5%      1%
+              Jan 28  Jan 29  Jan 30
+S1 or greater    5%      1%      1%
 
-Rationale: There is a slight chance for S1 (Minor) or greater solar
-radiation storms over 26-27 Jun.
+Rationale: No S1 (Minor) or greater solar radiation storms are expected.
+
 
 C. NOAA Radio Blackout Activity and Forecast
 
-No radio blackouts were observed over the past 24 hours.
+Radio blackouts reaching the R1 levels were observed over the past 24
+hours. The largest was at Jan 27 2025 0812 UTC.
 
-Radio Blackout Forecast for Jan 27-Jan 29 2025
+Radio Blackout Forecast for Jan 28-Jan 30 2025
 
-              Jan 27        Jan 28        Jan 29
-R1-R2           45%           35%           30%
-R3 or greater   10%            5%            1%
+              Jan 28        Jan 29        Jan 30
+R1-R2           25%           15%           15%
+R3 or greater    5%            1%            1%
 
-Rationale: There is a chance for R1-R2 (Minor-Moderate) radio blackout
-events on 26-28 Jan, with slight chance for R2 (Strong) events over
-26-27 Jan, due to the flare potential of multiple regions on the visible
-disk.
+Rationale: There is a chance for R1-R2 (Minor-Moderate) radio blackouts
+on 28 Jan, decreasing to a slight chance on 29-30 Jan. There is a slight
+chance for R3 (Strong) radio blackout events on 28-30 Jan.
 
 ```

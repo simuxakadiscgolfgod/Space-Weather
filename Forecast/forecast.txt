@@ -1,56 +1,55 @@
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 Jan 27 0030 UTC
+:Issued: 2025 Jan 28 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 1 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Jan 27-Jan 29 2025 is 2.67 (below NOAA
+The greatest expected 3 hr Kp for Jan 28-Jan 30 2025 is 2.67 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Jan 27-Jan 29 2025
+NOAA Kp index breakdown Jan 28-Jan 30 2025
 
-             Jan 27       Jan 28       Jan 29
-00-03UT       1.33         1.33         2.67     
-03-06UT       1.33         1.33         2.00     
-06-09UT       1.67         1.33         2.33     
-09-12UT       1.67         1.33         2.67     
-12-15UT       1.67         1.67         2.33     
-15-18UT       1.33         1.67         2.33     
-18-21UT       1.33         1.67         2.33     
-21-00UT       1.33         1.33         2.33     
+             Jan 28       Jan 29       Jan 30
+00-03UT       1.33         2.67         1.67     
+03-06UT       1.33         2.00         1.67     
+06-09UT       1.33         2.33         1.33     
+09-12UT       1.33         2.67         1.33     
+12-15UT       1.67         2.33         1.33     
+15-18UT       1.67         2.33         1.33     
+18-21UT       1.67         2.33         1.33     
+21-00UT       1.33         2.33         1.67     
 
-Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
-significant transient or recurrent solar wind features are forecast.
+Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Jan 27-Jan 29 2025
+Solar Radiation Storm Forecast for Jan 28-Jan 30 2025
 
-              Jan 27  Jan 28  Jan 29
-S1 or greater   10%      5%      1%
+              Jan 28  Jan 29  Jan 30
+S1 or greater    5%      1%      1%
 
-Rationale: There is a slight chance for S1 (Minor) or greater solar
-radiation storms over 26-27 Jun.
+Rationale: No S1 (Minor) or greater solar radiation storms are expected.
+
 
 C. NOAA Radio Blackout Activity and Forecast
 
-No radio blackouts were observed over the past 24 hours.
+Radio blackouts reaching the R1 levels were observed over the past 24
+hours. The largest was at Jan 27 2025 0812 UTC.
 
-Radio Blackout Forecast for Jan 27-Jan 29 2025
+Radio Blackout Forecast for Jan 28-Jan 30 2025
 
-              Jan 27        Jan 28        Jan 29
-R1-R2           45%           35%           30%
-R3 or greater   10%            5%            1%
+              Jan 28        Jan 29        Jan 30
+R1-R2           25%           15%           15%
+R3 or greater    5%            1%            1%
 
-Rationale: There is a chance for R1-R2 (Minor-Moderate) radio blackout
-events on 26-28 Jan, with slight chance for R2 (Strong) events over
-26-27 Jan, due to the flare potential of multiple regions on the visible
-disk.
+Rationale: There is a chance for R1-R2 (Minor-Moderate) radio blackouts
+on 28 Jan, decreasing to a slight chance on 29-30 Jan. There is a slight
+chance for R3 (Strong) radio blackout events on 28-30 Jan.
 
 ```
