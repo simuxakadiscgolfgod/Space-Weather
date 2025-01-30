@@ -1,10 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2025-01-29
-<br />**Title of the image:**  Dust Shells around WR 140 from Webb
-<br />**Description for the image:**  What are those strange rings? Rich in dust, the rings are likely 3D shells -- but how they were created remains a topic of research.  Where they were created is well known: in a binary star system that lies about 6,000 light years away toward the constellation of the Swan (Cygnus) -- a system dominated by the Wolf-Rayet star WR 140.  Wolf-Rayet stars are massive, bright, and known for their tumultuous winds. They are also known for creating and dispersing heavy elements such as carbon, which is a building block of interstellar dust. The other star in the binary is also bright and massive -- but not as active.  The two great stars joust in an oblong orbit as they approach each other about every eight years. When at closest approach, the X-ray emission from the system increases, as, apparently, does the dust expelled into space -- creating another shell.  The featured infrared image by the Webb Space Telescope resolves greater details and more dust shells than ever before. Images taken over consecutive years show the shells moving outward.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2501/Wr140Rings_Webb_960_2023.jpg
+<br />**Date image released:**  2025-01-30
+<br />**This image is owned by:**  Pea Mauro
+<br />**Title of the image:**  Hydrogen Clouds of M33
+<br />**Description for the image:**  Gorgeous spiral galaxy Messier 33 seems to have more than its fair share of glowing hydrogen gas. A prominent member of the local group of galaxies, M33 is also known as the Triangulum Galaxy and lies a mere 3 million light-years away.  The galaxy's central 60,000 light-years or so are shown in this sharp galaxy portrait. The portrait features M33's reddish ionized hydrogen clouds or HII regions. Sprawling along loose spiral arms that wind toward the core, M33's giant HII regions are some of the largest known stellar nurseries, sites of the formation of short-lived but very massive stars. Intense ultraviolet radiation from the luminous, massive stars ionizes the surrounding hydrogen gas and ultimately produces the characteristic red glow. In this image, broadband data were combined with narrowband data recorded through a filter that transmits the light of the strongest visible hydrogen and oxygen emission lines.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2501/M33_2048.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -48,27 +49,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 Jan 29 0030 UTC
+:Issued: 2025 Jan 30 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Jan 29-Jan 31 2025 is 2.67 (below NOAA
+The greatest expected 3 hr Kp for Jan 30-Feb 01 2025 is 4.33 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Jan 29-Jan 31 2025
+NOAA Kp index breakdown Jan 30-Feb 01 2025
 
-             Jan 29       Jan 30       Jan 31
-00-03UT       2.67         1.67         2.00     
-03-06UT       2.00         1.67         2.67     
-06-09UT       2.33         1.33         2.67     
-09-12UT       2.67         1.33         2.33     
-12-15UT       2.33         1.33         2.33     
-15-18UT       2.33         1.33         2.67     
-18-21UT       2.33         1.33         2.67     
-21-00UT       2.33         1.67         2.33     
+             Jan 30       Jan 31       Feb 01
+00-03UT       1.67         2.00         3.00     
+03-06UT       1.67         2.67         2.00     
+06-09UT       1.33         2.67         1.67     
+09-12UT       1.33         2.33         2.33     
+12-15UT       1.33         2.33         1.67     
+15-18UT       1.33         2.67         2.67     
+18-21UT       1.33         2.67         2.67     
+21-00UT       1.67         2.33         4.33     
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  
 
@@ -77,26 +78,27 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Jan 29-Jan 31 2025
+Solar Radiation Storm Forecast for Jan 30-Feb 01 2025
 
-              Jan 29  Jan 30  Jan 31
+              Jan 30  Jan 31  Feb 01
 S1 or greater    1%      1%      1%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
-
+No significant active region activity favorable for radiation storm
+production is forecast.
 
 C. NOAA Radio Blackout Activity and Forecast
 
 Radio blackouts reaching the R1 levels were observed over the past 24
-hours. The largest was at Jan 28 2025 1945 UTC.
+hours. The largest was at Jan 29 2025 0408 UTC.
 
-Radio Blackout Forecast for Jan 29-Jan 31 2025
+Radio Blackout Forecast for Jan 30-Feb 01 2025
 
-              Jan 29        Jan 30        Jan 31
-R1-R2           25%           25%           25%
+              Jan 30        Jan 31        Feb 01
+R1-R2           35%           35%           35%
 R3 or greater    5%            5%            5%
 
-Rationale: There is chance for R1-R2 (Minor-Moderate) radio blackout
-events, with a slight chance for R3 (Strong) events, through 31 Jan.
+Rationale: There is a chance for R1-R2 (Minor-Moderate) radio blackout
+events, with a slight chance for R3 (Strong) events, through 01 Feb.
 
 ```
