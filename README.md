@@ -1,11 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2025-01-30
-<br />**This image is owned by:**  Pea Mauro
-<br />**Title of the image:**  Hydrogen Clouds of M33
-<br />**Description for the image:**  Gorgeous spiral galaxy Messier 33 seems to have more than its fair share of glowing hydrogen gas. A prominent member of the local group of galaxies, M33 is also known as the Triangulum Galaxy and lies a mere 3 million light-years away.  The galaxy's central 60,000 light-years or so are shown in this sharp galaxy portrait. The portrait features M33's reddish ionized hydrogen clouds or HII regions. Sprawling along loose spiral arms that wind toward the core, M33's giant HII regions are some of the largest known stellar nurseries, sites of the formation of short-lived but very massive stars. Intense ultraviolet radiation from the luminous, massive stars ionizes the surrounding hydrogen gas and ultimately produces the characteristic red glow. In this image, broadband data were combined with narrowband data recorded through a filter that transmits the light of the strongest visible hydrogen and oxygen emission lines.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2501/M33_2048.jpg
+<br />**Date image released:**  2025-01-31
+<br />**This image is owned by:**  Tommy Lease
+<br />**Title of the image:**  The Variable Nebula NGC 2261
+<br />**Description for the image:**  The interstellar cloud of dust and gas captured in this sharp telescopic snapshot is seen to change its appearance noticeably over periods as short as a few weeks. Discovered over 200 years ago and cataloged as NGC 2261, bright star R Monocerotis lies at the tip of the fan-shaped nebula. About one light-year across and 2500 light-years away, NGC 2261 was studied early last century by astronomer Edwin Hubble and the mysterious cosmic cloud is now more famous as Hubble's Variable Nebula. So what makes Hubble's nebula vary? NGC 2261 is composed of a dusty reflection nebula fanning out from the star R Monocerotis.  The leading variability explanation holds that dense knots of obscuring dust pass close to R Mon and cast moving shadows across the dust clouds in the rest of Hubble's Variable Nebula.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2501/HubblesVariablecopy.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,39 +49,41 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 Jan 30 0030 UTC
+:Issued: 2025 Jan 31 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Jan 30-Feb 01 2025 is 4.33 (below NOAA
-Scale levels).
+The greatest expected 3 hr Kp for Jan 31-Feb 02 2025 is 4.67 (NOAA Scale
+G1).
 
-NOAA Kp index breakdown Jan 30-Feb 01 2025
+NOAA Kp index breakdown Jan 31-Feb 02 2025
 
-             Jan 30       Jan 31       Feb 01
-00-03UT       1.67         2.00         3.00     
-03-06UT       1.67         2.67         2.00     
-06-09UT       1.33         2.67         1.67     
-09-12UT       1.33         2.33         2.33     
-12-15UT       1.33         2.33         1.67     
-15-18UT       1.33         2.67         2.67     
-18-21UT       1.33         2.67         2.67     
-21-00UT       1.67         2.33         4.33     
+             Jan 31       Feb 01       Feb 02
+00-03UT       2.00         3.67         3.00     
+03-06UT       1.67         4.67 (G1)    3.67     
+06-09UT       2.00         4.67 (G1)    3.67     
+09-12UT       2.00         4.00         2.67     
+12-15UT       2.00         3.33         2.00     
+15-18UT       2.33         3.33         2.00     
+18-21UT       2.67         3.00         2.00     
+21-00UT       4.67 (G1)    2.67         2.67     
 
-Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  
+Rationale: G1 (Minor) or greater geomagnetic storms are likely late on
+31 Jan through 01 Feb due to possible transient effects. No significant
+transient or recurrent solar wind features are forecast for 02 Feb.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Jan 30-Feb 01 2025
+Solar Radiation Storm Forecast for Jan 31-Feb 02 2025
 
-              Jan 30  Jan 31  Feb 01
-S1 or greater    1%      1%      1%
+              Jan 31  Feb 01  Feb 02
+S1 or greater    1%      1%      5%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
 No significant active region activity favorable for radiation storm
@@ -89,16 +91,15 @@ production is forecast.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-Radio blackouts reaching the R1 levels were observed over the past 24
-hours. The largest was at Jan 29 2025 0408 UTC.
+No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Jan 30-Feb 01 2025
+Radio Blackout Forecast for Jan 31-Feb 02 2025
 
-              Jan 30        Jan 31        Feb 01
-R1-R2           35%           35%           35%
-R3 or greater    5%            5%            5%
+              Jan 31        Feb 01        Feb 02
+R1-R2           45%           50%           60%
+R3 or greater    5%            5%           10%
 
 Rationale: There is a chance for R1-R2 (Minor-Moderate) radio blackout
-events, with a slight chance for R3 (Strong) events, through 01 Feb.
+events through 01 Feb increasing to likely on 02 Feb.
 
 ```
