@@ -1,12 +1,10 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2025-02-01
-<br />**This image is owned by:**  Known as nacreous
-clouds
-<br />**Title of the image:**  Nacreous Clouds over Sweden
-<br />**Description for the image:**  Vivid and lustrous, wafting iridescent waves of color wash across this skyscape from northern Sweden. Known as nacreous clouds or mother-of-pearl clouds, they are rare. But their unforgettable appearance was captured in this snapshot on January 12 with the Sun just below the local horizon. A type of polar stratospheric cloud, they form when unusually cold temperatures in the usually cloudless lower stratosphere form ice crystals. Still sunlit at altitudes of around 15 to 25 kilometers, the clouds diffract the sunlight even when the Sun itself is hidden from direct view.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2502/IMG_0340-Internet-2.jpg
+<br />**Date image released:**  2025-02-02
+<br />**Title of the image:**  Comet G3 ATLAS Disintegrates
+<br />**Description for the image:**  What's happening to Comet G3 ATLAS? After passing near the Sun in mid-January, the head of the comet has become dimmer and dimmer. By late January, Comet C/2024 G3 (ATLAS) had become a headless wonder -- even though it continued to show impressive tails after sunset in the skies of Earth's Southern Hemisphere. Pictured are images of Comet G3 ATLAS on successive January nights taken from Río Hurtado, Chile. Clearly, the comet's head is brighter and more centrally condensed on the earlier days (left) than on later days (right).  A key reason is likely that the comet's nucleus of ice and rock, at the head's center, has fragmented. Comet G3 ATLAS passed well inside the orbit of planet Mercury when at its solar closest, a distance that where heat destroys many comets.  Some of comet G3 ATLAS' scattering remains will continue to orbit the Sun.   Gallery: Comet G3 ATLAS
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2502/AtlasDisintegrating_Majzik_3600.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -50,58 +48,58 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 Feb 01 0030 UTC
+:Issued: 2025 Feb 02 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Feb 01-Feb 03 2025 is 5.00 (NOAA Scale
+The greatest expected 3 hr Kp for Feb 02-Feb 04 2025 is 4.67 (NOAA Scale
 G1).
 
-NOAA Kp index breakdown Feb 01-Feb 03 2025
+NOAA Kp index breakdown Feb 02-Feb 04 2025
 
-             Feb 01       Feb 02       Feb 03
-00-03UT       2.33         3.00         2.33     
-03-06UT       4.33         3.67         2.00     
-06-09UT       4.67 (G1)    3.67         2.00     
-09-12UT       5.00 (G1)    2.67         2.00     
-12-15UT       3.33         2.00         2.00     
-15-18UT       3.33         2.00         2.33     
-18-21UT       3.00         2.00         2.00     
-21-00UT       2.67         2.67         2.00     
+             Feb 02       Feb 03       Feb 04
+00-03UT       4.00         2.33         2.00     
+03-06UT       3.67         2.67         2.00     
+06-09UT       3.67         3.00         3.00     
+09-12UT       3.67         2.67         4.00     
+12-15UT       4.00         2.00         4.00     
+15-18UT       4.33         2.33         3.33     
+18-21UT       4.33         2.00         3.33     
+21-00UT       4.67 (G1)    2.00         3.67     
 
-Rationale: G1 (Minor) or greater geomagnetic storms are likely late on
-01 Feb due to possible transient effects.
+Rationale: G1 (Minor) geomagnetic storms are likely on 02 Feb due to
+influence from a CH HSS.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Feb 01-Feb 03 2025
+Solar Radiation Storm Forecast for Feb 02-Feb 04 2025
 
-              Feb 01  Feb 02  Feb 03
+              Feb 02  Feb 03  Feb 04
 S1 or greater   10%     10%     10%
 
-Rationale: The greater than 10 MeV proton levels have a slight chance of
-reaching S1 (Minor) levels over 01 Feb - 03 Feb.
+Rationale: There is a slight chance for S1 (Minor) or greater solar
+radiation storms over 01-03 Feb.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-Radio blackouts reaching the R2 levels were observed over the past 24
-hours. The largest was at Jan 31 2025 1406 UTC.
+Radio blackouts reaching the R1 levels were observed over the past 24
+hours. The largest was at Feb 01 2025 1319 UTC.
 
-Radio Blackout Forecast for Feb 01-Feb 03 2025
+Radio Blackout Forecast for Feb 02-Feb 04 2025
 
-              Feb 01        Feb 02        Feb 03
-R1-R2           55%           60%           60%
+              Feb 02        Feb 03        Feb 04
+R1-R2           55%           55%           55%
 R3 or greater   15%           15%           15%
 
-Rationale: Solar activity is likely to reach minor levels
+Rationale: Solar activity is likely to reach moderate levels
 (R1/R2-Minor/Moderate radio blackouts), with a slight chance for
-isolated X-Class (R3-Strong) events, over 01 - 03 Feb, primarily due to
+isolated X-Class (R3-Strong) events, over 02 - 04 Feb, primarily due to
 potential from an active region cluster in the NE quadrant.
 
 ```
