@@ -1,10 +1,13 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2025-02-03
-<br />**Title of the image:**  Wolf-Rayet Star 124: Stellar Wind Machine
-<br />**Description for the image:**  Some stars explode in slow motion.  Rare, massive Wolf-Rayet stars are so tumultuous and hot that they are slowly disintegrating right before our telescopes.  Glowing gas globs each typically over 30 times more massive than the Earth are being expelled by violent stellar winds.  Wolf-Rayet star WR 124, visible near the featured image center and spanning six light years across, is thus creating the surrounding nebula known as M1-67.  Details of why this star has been slowly blowing itself apart over the past 20,000 years remains a topic of research.  WR 124 lies 15,000 light-years away towards the constellation of the Arrow (Sagitta).  The fate of any given Wolf-Rayet star likely depends on how massive it is, but many are thought to end their lives with spectacular explosions such as supernovas or gamma-ray bursts.   Explore Your Universe: Random APOD Generator
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2502/wr124_hubbleschmidt_1289.jpg
+<br />**Date image released:**  2025-02-04
+<br />**This image is owned by:**  
+Julene Eiguren
+
+<br />**Title of the image:**  Anticrepuscular Rays: A Rainbow Fan over Spain
+<br />**Description for the image:**  Yes, but can your rainbow do this? Late in the day, the Sun set as usual toward the west. However, on this day, the more interesting display was 180 degrees around -- toward the east. There, not only was a rainbow visible, but an impressive display of anticrepuscular rays from the rainbow's center. In the featured image from Lekeitio in northern Spain, the Sun is behind the camera. The rainbow resulted from sunlight reflecting back from falling rain. Anticrepuscular rays result from sunlight, blocked by some clouds, going all the way around the sky, overhead, and appearing to converge on the opposite horizon -- an optical illusion.  Rainbows by themselves can be exciting to see, and anticrepuscular rays a rare treat, but capturing them both together is even more unusual -- and can look both serene and surreal.   Jigsaw Challenge: Astronomy Puzzle of the Day
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2502/RainbowFan_Eiguren_3228.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -48,27 +51,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 Feb 03 0030 UTC
+:Issued: 2025 Feb 04 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Feb 03-Feb 05 2025 is 4.00 (below NOAA
+The greatest expected 3 hr Kp for Feb 04-Feb 06 2025 is 3.67 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Feb 03-Feb 05 2025
+NOAA Kp index breakdown Feb 04-Feb 06 2025
 
-             Feb 03       Feb 04       Feb 05
-00-03UT       3.33         2.00         2.00     
-03-06UT       3.67         2.00         2.67     
-06-09UT       3.00         3.00         2.67     
-09-12UT       3.00         4.00         2.00     
-12-15UT       3.00         4.00         2.33     
-15-18UT       2.67         3.33         2.00     
-18-21UT       2.33         3.33         2.00     
-21-00UT       2.00         3.67         1.67     
+             Feb 04       Feb 05       Feb 06
+00-03UT       1.67         2.00         1.33     
+03-06UT       1.67         2.67         1.67     
+06-09UT       1.67         2.67         1.33     
+09-12UT       2.33         2.00         1.67     
+12-15UT       2.33         2.33         1.33     
+15-18UT       2.67         2.00         1.33     
+18-21UT       2.67         2.00         1.33     
+21-00UT       3.67         1.67         1.67     
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
 significant transient or recurrent solar wind features are forecast.
@@ -78,28 +81,28 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Feb 03-Feb 05 2025
+Solar Radiation Storm Forecast for Feb 04-Feb 06 2025
 
-              Feb 03  Feb 04  Feb 05
+              Feb 04  Feb 05  Feb 06
 S1 or greater   15%     15%     15%
 
-Rationale: There is a slight chance for S1 (Minor) or greater solar
-radiation storms over the next three days.
+Rationale: There exists a slight chance for S1 (Minor) or greater solar
+radiation storms over 04-06 Feb.
 
 C. NOAA Radio Blackout Activity and Forecast
 
 Radio blackouts reaching the R2 levels were observed over the past 24
-hours. The largest was at Feb 02 2025 1404 UTC.
+hours. The largest was at Feb 03 2025 0358 UTC.
 
-Radio Blackout Forecast for Feb 03-Feb 05 2025
+Radio Blackout Forecast for Feb 04-Feb 06 2025
 
-              Feb 03        Feb 04        Feb 05
-R1-R2           60%           60%           60%
-R3 or greater   15%           15%           15%
+              Feb 04        Feb 05        Feb 06
+R1-R2           85%           85%           85%
+R3 or greater   20%           20%           20%
 
-Rationale: Solar activity is likely to reach moderate levels
-(R1/R2-Minor/Moderate radio blackouts), with a slight chance for
-isolated X-Class (R3-Strong) events, over 03 - 05 Feb, primarily due to
-potential from an active region cluster in the Suns NE quadrant.
+Rationale: R1-R2(Minor-Moderate) radio blackouts are expected, with a
+slight chance for isolated R3 (Strong) events, over 04-06 Feb,
+primarily due to potential from an active region cluster in the Suns
+northern hemisphere.
 
 ```
