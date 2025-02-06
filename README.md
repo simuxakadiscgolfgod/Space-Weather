@@ -2,6 +2,11 @@
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
 <br />**Sorry, Image not available!**
+<br />**Date image released:**  2025-02-06
+<br />**This image is owned by:**  Lorand Fenyes
+<br />**Title of the image:**  IC 2574: Coddington's Nebula
+<br />**Description for the image:**  Grand spiral galaxies often seem to get all the glory, flaunting their young, bright, blue star clusters in beautiful, symmetric spiral arms. But small, irregular galaxies form stars too. In fact dwarf galaxy IC 2574 shows clear evidence of intense star forming activity in its telltale reddish regions of glowing hydrogen gas. Just as in spiral galaxies, the turbulent star-forming regions in IC 2574 are churned by stellar winds and supernova explosions spewing material into the galaxy's interstellar medium and triggering further star formation. A mere 12 million light-years distant, IC 2574 is part of the M81 group of galaxies, seen toward the northern constellation Ursa Major. Also known as Coddington's Nebula, the lovely island universe is about 50,000 light-years across, discovered by American astronomer Edwin Coddington in 1898.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2502/289_lorand_fenyes_coddington_ic2574_nagy.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -45,27 +50,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 Feb 05 0030 UTC
+:Issued: 2025 Feb 06 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Feb 05-Feb 07 2025 is 2.67 (below NOAA
+The greatest expected 3 hr Kp for Feb 06-Feb 08 2025 is 3.67 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Feb 05-Feb 07 2025
+NOAA Kp index breakdown Feb 06-Feb 08 2025
 
-             Feb 05       Feb 06       Feb 07
-00-03UT       2.00         1.33         2.33     
-03-06UT       2.67         1.67         2.00     
-06-09UT       2.67         1.33         2.33     
-09-12UT       2.00         1.67         1.67     
-12-15UT       2.33         1.33         2.00     
-15-18UT       2.00         1.33         2.33     
-18-21UT       2.00         1.33         2.00     
-21-00UT       1.67         1.67         2.67     
+             Feb 06       Feb 07       Feb 08
+00-03UT       2.00         1.67         2.67     
+03-06UT       3.00         1.33         3.00     
+06-09UT       2.67         3.00         3.00     
+09-12UT       2.00         3.67         2.33     
+12-15UT       1.67         2.67         2.00     
+15-18UT       1.33         2.33         1.67     
+18-21UT       1.67         2.33         1.33     
+21-00UT       2.00         3.00         2.00     
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
 significant transient or recurrent solar wind features are forecast.
@@ -75,26 +80,27 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Feb 05-Feb 07 2025
+Solar Radiation Storm Forecast for Feb 06-Feb 08 2025
 
-              Feb 05  Feb 06  Feb 07
-S1 or greater   15%     15%     15%
+              Feb 06  Feb 07  Feb 08
+S1 or greater   25%     25%     25%
 
-Rationale: There is a slight chance for S1 (Minor) or greater solar
-radiation storms 04-07 Feb.
+Rationale: There is a slight chance for the greater than 10 MeV protons
+to cross the S1 (Minor) or greater solar radiation storm alert
+threshold.
 
 C. NOAA Radio Blackout Activity and Forecast
 
 Radio blackouts reaching the R1 levels were observed over the past 24
-hours. The largest was at Feb 04 2025 1121 UTC.
+hours. The largest was at Feb 05 2025 0750 UTC.
 
-Radio Blackout Forecast for Feb 05-Feb 07 2025
+Radio Blackout Forecast for Feb 06-Feb 08 2025
 
-              Feb 05        Feb 06        Feb 07
+              Feb 06        Feb 07        Feb 08
 R1-R2           85%           85%           85%
-R3 or greater   20%           20%           20%
+R3 or greater   25%           25%           25%
 
-Rationale: R1-R2 (Minor-Moderate) radio blackout events are expected
-04-06 Feb, with a slight chance for R3 (Strong) events.
+Rationale: R1-R2 (Minor-Moderate) radio blackout events are expected,
+with a slight chance for R3 (Strong) events.
 
 ```
