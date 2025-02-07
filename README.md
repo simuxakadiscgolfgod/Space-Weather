@@ -1,12 +1,10 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Sorry, Image not available!**
-<br />**Date image released:**  2025-02-06
-<br />**This image is owned by:**  Lorand Fenyes
-<br />**Title of the image:**  IC 2574: Coddington's Nebula
-<br />**Description for the image:**  Grand spiral galaxies often seem to get all the glory, flaunting their young, bright, blue star clusters in beautiful, symmetric spiral arms. But small, irregular galaxies form stars too. In fact dwarf galaxy IC 2574 shows clear evidence of intense star forming activity in its telltale reddish regions of glowing hydrogen gas. Just as in spiral galaxies, the turbulent star-forming regions in IC 2574 are churned by stellar winds and supernova explosions spewing material into the galaxy's interstellar medium and triggering further star formation. A mere 12 million light-years distant, IC 2574 is part of the M81 group of galaxies, seen toward the northern constellation Ursa Major. Also known as Coddington's Nebula, the lovely island universe is about 50,000 light-years across, discovered by American astronomer Edwin Coddington in 1898.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2502/289_lorand_fenyes_coddington_ic2574_nagy.jpg
+<br />**Date image released:**  2025-02-07
+<br />**Title of the image:**  LEDA 1313424: The Bullseye Galaxy
+<br />**Description for the image:**  The giant galaxy cataloged as LEDA 1313424 is about two and a half times the size of our own Milky Way. Its remarkable appearance in this recently released Hubble Space Telescope image strongly suggests its nickname "The Bullseye Galaxy". Known as a collisional ring galaxy it has nine rings confirmed by telescopic observations, rippling from its center like waves from a pebble dropped into a pond. Of course, the pebble dropped into the Bullseye galaxy was a galaxy itself. Telescopic observations identify the blue dwarf galaxy at center-left as the likely collider, passing through the giant galaxy's center and forming concentric rings in the wake of their gravitational interaction. The Bullseye Galaxy lies some 567 million light-years away toward the constellation Pisces. At that distance, this stunning Hubble image would span about 530,000 light-years.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2502/Hubble_LEDA1313424_STScI-01.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -50,27 +48,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 Feb 06 0030 UTC
+:Issued: 2025 Feb 07 0455 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Feb 06-Feb 08 2025 is 3.67 (below NOAA
+The greatest expected 3 hr Kp for Feb 07-Feb 09 2025 is 3.00 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Feb 06-Feb 08 2025
+NOAA Kp index breakdown Feb 07-Feb 09 2025
 
-             Feb 06       Feb 07       Feb 08
-00-03UT       2.00         1.67         2.67     
-03-06UT       3.00         1.33         3.00     
-06-09UT       2.67         3.00         3.00     
-09-12UT       2.00         3.67         2.33     
-12-15UT       1.67         2.67         2.00     
-15-18UT       1.33         2.33         1.67     
-18-21UT       1.67         2.33         1.33     
-21-00UT       2.00         3.00         2.00     
+             Feb 07       Feb 08       Feb 09
+00-03UT       0.67         2.67         1.67     
+03-06UT       0.67         3.00         1.33     
+06-09UT       1.67         3.00         1.33     
+09-12UT       2.00         2.33         1.33     
+12-15UT       3.67         2.00         1.33     
+15-18UT       2.67         1.67         1.33     
+18-21UT       2.67         1.33         1.67     
+21-00UT       3.00         2.00         1.67     
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
 significant transient or recurrent solar wind features are forecast.
@@ -80,27 +78,29 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Feb 06-Feb 08 2025
+Solar Radiation Storm Forecast for Feb 07-Feb 09 2025
 
-              Feb 06  Feb 07  Feb 08
+              Feb 07  Feb 08  Feb 09
 S1 or greater   25%     25%     25%
 
-Rationale: There is a slight chance for the greater than 10 MeV protons
-to cross the S1 (Minor) or greater solar radiation storm alert
-threshold.
+Rationale: There is a chance for S1 (Minor) or greater solar radiation
+storms due to the complex cluster of sunspot groups in the NW
+Quadrant rotating closer to the western limb and thus a better potential
+magnetic connection with Earth.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-Radio blackouts reaching the R1 levels were observed over the past 24
-hours. The largest was at Feb 05 2025 0750 UTC.
+Radio blackouts reaching the R2 levels were observed over the past 24
+hours. The largest was at Feb 06 2025 1104 UTC.
 
-Radio Blackout Forecast for Feb 06-Feb 08 2025
+Radio Blackout Forecast for Feb 07-Feb 09 2025
 
-              Feb 06        Feb 07        Feb 08
-R1-R2           85%           85%           85%
+              Feb 07        Feb 08        Feb 09
+R1-R2           80%           80%           80%
 R3 or greater   25%           25%           25%
 
-Rationale: R1-R2 (Minor-Moderate) radio blackout events are expected,
-with a slight chance for R3 (Strong) events.
+Rationale: R1-R2 (Minor-Moderate) radio blackouts are expected through
+09 Feb, with a chance for R3 (Strong) events, due to several
+magnetically complex sunspot groups.
 
 ```
