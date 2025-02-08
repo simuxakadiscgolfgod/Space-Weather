@@ -1,10 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2025-02-07
-<br />**Title of the image:**  LEDA 1313424: The Bullseye Galaxy
-<br />**Description for the image:**  The giant galaxy cataloged as LEDA 1313424 is about two and a half times the size of our own Milky Way. Its remarkable appearance in this recently released Hubble Space Telescope image strongly suggests its nickname "The Bullseye Galaxy". Known as a collisional ring galaxy it has nine rings confirmed by telescopic observations, rippling from its center like waves from a pebble dropped into a pond. Of course, the pebble dropped into the Bullseye galaxy was a galaxy itself. Telescopic observations identify the blue dwarf galaxy at center-left as the likely collider, passing through the giant galaxy's center and forming concentric rings in the wake of their gravitational interaction. The Bullseye Galaxy lies some 567 million light-years away toward the constellation Pisces. At that distance, this stunning Hubble image would span about 530,000 light-years.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2502/Hubble_LEDA1313424_STScI-01.jpg
+<br />**Date image released:**  2025-02-08
+<br />**This image is owned by:**  Aldo S. Kleiman
+<br />**Title of the image:**  A Conjunction of Crescents
+<br />**Description for the image:**  A waxing crescent Moon and a waning crescent Venus are found at opposite corners of this twilight telephoto field of view. The close conjunction of the two brightest celestial beacons in planet Earth's western evening sky was captured on February 1 from Rosario, Argentina. On that date, the slender crescent Moon was about 3 days old. But the Moon's visible sunlit crescent will grow to a bright Full Moon by February 14. Like the Moon, Venus cycles through phases as it orbits the Sun. And while its visible sunlit crescent narrows, the inner planet's apparent size increases as it gets closer to Earth. In a Valentine from the Solar System, Venus, named for the Roman goddess of Love, will also reach its peak brightness in planet Earth's evening skies around February 14.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2502/IMG_3775M.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -48,59 +49,56 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 Feb 07 0455 UTC
+:Issued: 2025 Feb 08 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 1 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Feb 07-Feb 09 2025 is 3.00 (below NOAA
-Scale levels).
+The greatest expected 3 hr Kp for Feb 08-Feb 10 2025 is 5.00 (NOAA Scale
+G1).
 
-NOAA Kp index breakdown Feb 07-Feb 09 2025
+NOAA Kp index breakdown Feb 08-Feb 10 2025
 
-             Feb 07       Feb 08       Feb 09
-00-03UT       0.67         2.67         1.67     
-03-06UT       0.67         3.00         1.33     
-06-09UT       1.67         3.00         1.33     
-09-12UT       2.00         2.33         1.33     
-12-15UT       3.67         2.00         1.33     
-15-18UT       2.67         1.67         1.33     
-18-21UT       2.67         1.33         1.67     
-21-00UT       3.00         2.00         1.67     
+             Feb 08       Feb 09       Feb 10
+00-03UT       2.67         2.33         5.00 (G1)
+03-06UT       2.00         2.00         4.33     
+06-09UT       2.33         1.67         3.67     
+09-12UT       2.00         2.00         3.33     
+12-15UT       1.67         2.00         2.67     
+15-18UT       2.00         3.00         3.00     
+18-21UT       2.00         4.00         3.67     
+21-00UT       2.33         4.33         4.00     
 
-Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
-significant transient or recurrent solar wind features are forecast.
+Rationale: G1 (Minor) geomagnetic storms are likely on 10 Feb due to CH
+HSS influences.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Feb 07-Feb 09 2025
+Solar Radiation Storm Forecast for Feb 08-Feb 10 2025
 
-              Feb 07  Feb 08  Feb 09
-S1 or greater   25%     25%     25%
+              Feb 08  Feb 09  Feb 10
+S1 or greater   20%     20%     20%
 
-Rationale: There is a chance for S1 (Minor) or greater solar radiation
-storms due to the complex cluster of sunspot groups in the NW
-Quadrant rotating closer to the western limb and thus a better potential
-magnetic connection with Earth.
+Rationale: There is a slight chance for S1 (Minor) solar radiation
+storms over 08-10 Feb.
 
 C. NOAA Radio Blackout Activity and Forecast
 
 Radio blackouts reaching the R2 levels were observed over the past 24
-hours. The largest was at Feb 06 2025 1104 UTC.
+hours. The largest was at Feb 07 2025 0921 UTC.
 
-Radio Blackout Forecast for Feb 07-Feb 09 2025
+Radio Blackout Forecast for Feb 08-Feb 10 2025
 
-              Feb 07        Feb 08        Feb 09
-R1-R2           80%           80%           80%
+              Feb 08        Feb 09        Feb 10
+R1-R2           70%           70%           70%
 R3 or greater   25%           25%           25%
 
-Rationale: R1-R2 (Minor-Moderate) radio blackouts are expected through
-09 Feb, with a chance for R3 (Strong) events, due to several
-magnetically complex sunspot groups.
+Rationale: R1-R2 (Minor-Moderate) radio blackouts are likely, with a
+chance for R3 or greater events, over 08-10 Feb.
 
 ```
