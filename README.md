@@ -1,11 +1,13 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2025-02-08
-<br />**This image is owned by:**  Aldo S. Kleiman
-<br />**Title of the image:**  A Conjunction of Crescents
-<br />**Description for the image:**  A waxing crescent Moon and a waning crescent Venus are found at opposite corners of this twilight telephoto field of view. The close conjunction of the two brightest celestial beacons in planet Earth's western evening sky was captured on February 1 from Rosario, Argentina. On that date, the slender crescent Moon was about 3 days old. But the Moon's visible sunlit crescent will grow to a bright Full Moon by February 14. Like the Moon, Venus cycles through phases as it orbits the Sun. And while its visible sunlit crescent narrows, the inner planet's apparent size increases as it gets closer to Earth. In a Valentine from the Solar System, Venus, named for the Roman goddess of Love, will also reach its peak brightness in planet Earth's evening skies around February 14.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2502/IMG_3775M.jpg
+<br />**Date image released:**  2025-02-09
+<br />**This image is owned by:**  
+Michael Goh
+
+<br />**Title of the image:**  Milky Way over the Australian Pinnacles
+<br />**Description for the image:**  What strange world is this? Earth. In the foreground of the featured image are the Pinnacles, unusual rock spires in Nambung National Park in Western Australia. Made of ancient sea shells (limestone), how these human-sized picturesque spires formed remains unknown.  In the background, just past the end of the central Pinnacle, is a bright crescent Moon. The eerie glow around the Moon is mostly zodiacal light, sunlight reflected by dust grains orbiting between the planets in the Solar System. Arching across the top is the central band of our Milky Way Galaxy. Many famous stars and nebulas are also visible in the background night sky. The featured 29-panel panorama was taken and composed in 2015 September after detailed planning that involved the Moon, the rock spires, and their corresponding shadows. Even so, the strong zodiacal light was a pleasant surprise.   Your Sky Surprise: What picture did APOD feature on your birthday? (post 1995)
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2502/PinnaclesGalaxy_Goh_2400.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,56 +51,56 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 Feb 08 0030 UTC
+:Issued: 2025 Feb 09 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 1 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Feb 08-Feb 10 2025 is 5.00 (NOAA Scale
+The greatest expected 3 hr Kp for Feb 09-Feb 11 2025 is 5.00 (NOAA Scale
 G1).
 
-NOAA Kp index breakdown Feb 08-Feb 10 2025
+NOAA Kp index breakdown Feb 09-Feb 11 2025
 
-             Feb 08       Feb 09       Feb 10
-00-03UT       2.67         2.33         5.00 (G1)
-03-06UT       2.00         2.00         4.33     
-06-09UT       2.33         1.67         3.67     
-09-12UT       2.00         2.00         3.33     
-12-15UT       1.67         2.00         2.67     
-15-18UT       2.00         3.00         3.00     
-18-21UT       2.00         4.00         3.67     
-21-00UT       2.33         4.33         4.00     
+             Feb 09       Feb 10       Feb 11
+00-03UT       3.00         5.00 (G1)    4.00     
+03-06UT       3.00         4.33         3.33     
+06-09UT       2.00         3.67         3.33     
+09-12UT       1.67         3.33         2.67     
+12-15UT       2.00         2.67         2.67     
+15-18UT       2.33         3.00         3.00     
+18-21UT       3.67         3.67         3.33     
+21-00UT       4.00         4.00         3.67     
 
-Rationale: G1 (Minor) geomagnetic storms are likely on 10 Feb due to CH
-HSS influences.
+Rationale: G1 (Minor) geomagnetic storm conditions are likely on 10 Feb
+due to CH HSS influences.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Feb 08-Feb 10 2025
+Solar Radiation Storm Forecast for Feb 09-Feb 11 2025
 
-              Feb 08  Feb 09  Feb 10
+              Feb 09  Feb 10  Feb 11
 S1 or greater   20%     20%     20%
 
 Rationale: There is a slight chance for S1 (Minor) solar radiation
-storms over 08-10 Feb.
+storms over 09-11 Feb.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-Radio blackouts reaching the R2 levels were observed over the past 24
-hours. The largest was at Feb 07 2025 0921 UTC.
+Radio blackouts reaching the R1 levels were observed over the past 24
+hours. The largest was at Feb 08 2025 0927 UTC.
 
-Radio Blackout Forecast for Feb 08-Feb 10 2025
+Radio Blackout Forecast for Feb 09-Feb 11 2025
 
-              Feb 08        Feb 09        Feb 10
-R1-R2           70%           70%           70%
-R3 or greater   25%           25%           25%
+              Feb 09        Feb 10        Feb 11
+R1-R2           60%           60%           60%
+R3 or greater   20%           20%           20%
 
 Rationale: R1-R2 (Minor-Moderate) radio blackouts are likely, with a
-chance for R3 or greater events, over 08-10 Feb.
+slight chance for R3 or greater events, over 09-11 Feb.
 
 ```
