@@ -1,13 +1,13 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2025-02-09
+<br />**Date image released:**  2025-02-10
 <br />**This image is owned by:**  
-Michael Goh
+Mickael Coulon
 
-<br />**Title of the image:**  Milky Way over the Australian Pinnacles
-<br />**Description for the image:**  What strange world is this? Earth. In the foreground of the featured image are the Pinnacles, unusual rock spires in Nambung National Park in Western Australia. Made of ancient sea shells (limestone), how these human-sized picturesque spires formed remains unknown.  In the background, just past the end of the central Pinnacle, is a bright crescent Moon. The eerie glow around the Moon is mostly zodiacal light, sunlight reflected by dust grains orbiting between the planets in the Solar System. Arching across the top is the central band of our Milky Way Galaxy. Many famous stars and nebulas are also visible in the background night sky. The featured 29-panel panorama was taken and composed in 2015 September after detailed planning that involved the Moon, the rock spires, and their corresponding shadows. Even so, the strong zodiacal light was a pleasant surprise.   Your Sky Surprise: What picture did APOD feature on your birthday? (post 1995)
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2502/PinnaclesGalaxy_Goh_2400.jpg
+<br />**Title of the image:**  Auroral Hummingbird over Norway
+<br />**Description for the image:**  Is this the largest hummingbird ever?  Although it may look like a popular fluttering nectarivore, what is pictured is actually a beautifully detailed and colorful aurora, complete with rays reminiscent of feathers. This aurora was so bright that it was visible to the unaided eye during blue hour -- just after sunset when the sky appears a darkening blue.  However, the aurora only looked like a hummingbird through a sensitive camera able to pick up faint glows. As reds typically occurring higher in the Earth's atmosphere than the greens, the real 3D shape of this aurora would likely appear unfamiliar.  Auroras are created when an explosion on the Sun causes high energy particles to flow into the Earth's atmosphere and excite atoms and molecules of nitrogen and oxygen.  The featured image was captured about two weeks ago above Lyngseidt, Norway.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2502/BirdAurora_Coulon_2581.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -51,56 +51,55 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 Feb 09 0030 UTC
+:Issued: 2025 Feb 10 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
-Scale levels).
-The greatest expected 3 hr Kp for Feb 09-Feb 11 2025 is 5.00 (NOAA Scale
+The greatest observed 3 hr Kp over the past 24 hours was 5 (NOAA Scale
+G1).
+The greatest expected 3 hr Kp for Feb 10-Feb 12 2025 is 5.00 (NOAA Scale
 G1).
 
-NOAA Kp index breakdown Feb 09-Feb 11 2025
+NOAA Kp index breakdown Feb 10-Feb 12 2025
 
-             Feb 09       Feb 10       Feb 11
-00-03UT       3.00         5.00 (G1)    4.00     
-03-06UT       3.00         4.33         3.33     
-06-09UT       2.00         3.67         3.33     
-09-12UT       1.67         3.33         2.67     
-12-15UT       2.00         2.67         2.67     
-15-18UT       2.33         3.00         3.00     
-18-21UT       3.67         3.67         3.33     
-21-00UT       4.00         4.00         3.67     
+             Feb 10       Feb 11       Feb 12
+00-03UT       5.00 (G1)    4.00         3.33     
+03-06UT       5.00 (G1)    3.33         3.00     
+06-09UT       4.00         3.33         2.00     
+09-12UT       3.33         2.67         2.00     
+12-15UT       2.67         2.67         3.00     
+15-18UT       3.00         3.00         3.00     
+18-21UT       3.67         3.33         3.33     
+21-00UT       4.00         3.67         4.00     
 
-Rationale: G1 (Minor) geomagnetic storm conditions are likely on 10 Feb
-due to CH HSS influences.
+Rationale: G1 (Minor) geomagnetic storming is expected on 10 Feb due to
+CH HSS influences.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Feb 09-Feb 11 2025
+Solar Radiation Storm Forecast for Feb 10-Feb 12 2025
 
-              Feb 09  Feb 10  Feb 11
-S1 or greater   20%     20%     20%
+              Feb 10  Feb 11  Feb 12
+S1 or greater   10%     10%      5%
 
 Rationale: There is a slight chance for S1 (Minor) solar radiation
-storms over 09-11 Feb.
+storms over 10-12 Feb.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-Radio blackouts reaching the R1 levels were observed over the past 24
-hours. The largest was at Feb 08 2025 0927 UTC.
+No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Feb 09-Feb 11 2025
+Radio Blackout Forecast for Feb 10-Feb 12 2025
 
-              Feb 09        Feb 10        Feb 11
-R1-R2           60%           60%           60%
-R3 or greater   20%           20%           20%
+              Feb 10        Feb 11        Feb 12
+R1-R2           55%           55%           40%
+R3 or greater   10%           10%            5%
 
 Rationale: R1-R2 (Minor-Moderate) radio blackouts are likely, with a
-slight chance for R3 or greater events, over 09-11 Feb.
+slight chance for R3 or greater events, over 10-11 Feb.
 
 ```
