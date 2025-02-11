@@ -1,13 +1,13 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2025-02-10
+<br />**Date image released:**  2025-02-11
 <br />**This image is owned by:**  
-Mickael Coulon
+Dave Boddington
 
-<br />**Title of the image:**  Auroral Hummingbird over Norway
-<br />**Description for the image:**  Is this the largest hummingbird ever?  Although it may look like a popular fluttering nectarivore, what is pictured is actually a beautifully detailed and colorful aurora, complete with rays reminiscent of feathers. This aurora was so bright that it was visible to the unaided eye during blue hour -- just after sunset when the sky appears a darkening blue.  However, the aurora only looked like a hummingbird through a sensitive camera able to pick up faint glows. As reds typically occurring higher in the Earth's atmosphere than the greens, the real 3D shape of this aurora would likely appear unfamiliar.  Auroras are created when an explosion on the Sun causes high energy particles to flow into the Earth's atmosphere and excite atoms and molecules of nitrogen and oxygen.  The featured image was captured about two weeks ago above Lyngseidt, Norway.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2502/BirdAurora_Coulon_2581.jpg
+<br />**Title of the image:**  The Spider and the Fly
+<br />**Description for the image:**  Will the spider ever catch the fly? Not if both are large emission nebulas toward the constellation of the Charioteer (Auriga).  The spider-shaped gas cloud in the image center is actually an emission nebula labelled IC 417, while the smaller fly-shaped cloud on the left is dubbed  NGC 1931 and is both an emission nebula and a reflection nebula.  About 10,000 light-years distant, both nebulas harbor young star clusters. For scale, the more compact NGC 1931 (Fly) is about 10 light-years across. The featured deep image, captured over 20 hours during late January in Berkshire UK, also shows more diffuse and red-glowing interstellar gas and dust.   Explore Your Universe: Random APOD Generator
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2502/SpiderFly_Boddington_4788.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -51,55 +51,60 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 Feb 10 0030 UTC
+:Issued: 2025 Feb 11 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 5 (NOAA Scale
 G1).
-The greatest expected 3 hr Kp for Feb 10-Feb 12 2025 is 5.00 (NOAA Scale
+The greatest expected 3 hr Kp for Feb 11-Feb 13 2025 is 4.67 (NOAA Scale
 G1).
 
-NOAA Kp index breakdown Feb 10-Feb 12 2025
+NOAA Kp index breakdown Feb 11-Feb 13 2025
 
-             Feb 10       Feb 11       Feb 12
-00-03UT       5.00 (G1)    4.00         3.33     
-03-06UT       5.00 (G1)    3.33         3.00     
-06-09UT       4.00         3.33         2.00     
-09-12UT       3.33         2.67         2.00     
-12-15UT       2.67         2.67         3.00     
-15-18UT       3.00         3.00         3.00     
-18-21UT       3.67         3.33         3.33     
-21-00UT       4.00         3.67         4.00     
+             Feb 11       Feb 12       Feb 13
+00-03UT       4.00         3.33         3.67     
+03-06UT       3.33         3.00         3.33     
+06-09UT       3.33         2.00         2.67     
+09-12UT       2.67         2.00         2.67     
+12-15UT       2.67         3.00         3.33     
+15-18UT       3.00         3.00         3.33     
+18-21UT       3.33         3.33         3.67     
+21-00UT       3.67         4.00         4.67 (G1)
 
-Rationale: G1 (Minor) geomagnetic storming is expected on 10 Feb due to
-CH HSS influences.
+Rationale: G1 (Minor) storm periods are likely on 13 Feb due to onset of
+a subsequent negative polarity CH HSS.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Feb 10-Feb 12 2025
+Solar Radiation Storm Forecast for Feb 11-Feb 13 2025
 
-              Feb 10  Feb 11  Feb 12
-S1 or greater   10%     10%      5%
+              Feb 11  Feb 12  Feb 13
+S1 or greater   10%      5%      5%
 
 Rationale: There is a slight chance for S1 (Minor) solar radiation
-storms over 10-12 Feb.
+storms on 11 Feb.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-No radio blackouts were observed over the past 24 hours.
+Radio blackouts reaching the R1 levels were observed over the past 24
+hours. The largest was at Feb 10 2025 0046 UTC.
 
-Radio Blackout Forecast for Feb 10-Feb 12 2025
+Radio Blackout Forecast for Feb 11-Feb 13 2025
 
-              Feb 10        Feb 11        Feb 12
-R1-R2           55%           55%           40%
-R3 or greater   10%           10%            5%
+              Feb 11        Feb 12        Feb 13
+R1-R2           55%           40%           30%
+R3 or greater   10%            5%            5%
 
-Rationale: R1-R2 (Minor-Moderate) radio blackouts are likely, with a
-slight chance for R3 or greater events, over 10-11 Feb.
+Rationale: Solar activity will likely reach moderate levels (R1-R2,
+Minor-Moderate), with a slight chance for isolated X-Class (R3-Strong)
+events, through 11 Feb due to the cluster of sunspot groups in the NW
+quadrant. Activity will likely decrease further on 12-13 Feb to only a
+isolated chance for R1-R2 events as AR 3981 rotates beyond the western
+limb.
 
 ```
