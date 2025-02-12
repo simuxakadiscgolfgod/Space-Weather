@@ -1,13 +1,7 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2025-02-11
-<br />**This image is owned by:**  
-Dave Boddington
-
-<br />**Title of the image:**  The Spider and the Fly
-<br />**Description for the image:**  Will the spider ever catch the fly? Not if both are large emission nebulas toward the constellation of the Charioteer (Auriga).  The spider-shaped gas cloud in the image center is actually an emission nebula labelled IC 417, while the smaller fly-shaped cloud on the left is dubbed  NGC 1931 and is both an emission nebula and a reflection nebula.  About 10,000 light-years distant, both nebulas harbor young star clusters. For scale, the more compact NGC 1931 (Fly) is about 10 light-years across. The featured deep image, captured over 20 hours during late January in Berkshire UK, also shows more diffuse and red-glowing interstellar gas and dust.   Explore Your Universe: Random APOD Generator
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2502/SpiderFly_Boddington_4788.jpg
+<br />**Sorry, Image not available!**
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -51,27 +45,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 Feb 11 0030 UTC
+:Issued: 2025 Feb 12 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 5 (NOAA Scale
-G1).
-The greatest expected 3 hr Kp for Feb 11-Feb 13 2025 is 4.67 (NOAA Scale
+The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
+Scale levels).
+The greatest expected 3 hr Kp for Feb 12-Feb 14 2025 is 4.67 (NOAA Scale
 G1).
 
-NOAA Kp index breakdown Feb 11-Feb 13 2025
+NOAA Kp index breakdown Feb 12-Feb 14 2025
 
-             Feb 11       Feb 12       Feb 13
-00-03UT       4.00         3.33         3.67     
-03-06UT       3.33         3.00         3.33     
-06-09UT       3.33         2.00         2.67     
-09-12UT       2.67         2.00         2.67     
-12-15UT       2.67         3.00         3.33     
-15-18UT       3.00         3.00         3.33     
-18-21UT       3.33         3.33         3.67     
-21-00UT       3.67         4.00         4.67 (G1)
+             Feb 12       Feb 13       Feb 14
+00-03UT       3.33         3.67         3.33     
+03-06UT       3.00         3.33         2.00     
+06-09UT       2.00         2.67         2.00     
+09-12UT       2.00         2.67         3.00     
+12-15UT       3.00         3.33         3.00     
+15-18UT       3.00         3.33         3.00     
+18-21UT       3.33         3.67         3.33     
+21-00UT       4.00         4.67 (G1)    4.00     
 
 Rationale: G1 (Minor) storm periods are likely on 13 Feb due to onset of
 a subsequent negative polarity CH HSS.
@@ -81,30 +75,29 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Feb 11-Feb 13 2025
+Solar Radiation Storm Forecast for Feb 12-Feb 14 2025
 
-              Feb 11  Feb 12  Feb 13
-S1 or greater   10%      5%      5%
+              Feb 12  Feb 13  Feb 14
+S1 or greater    5%      1%      1%
 
-Rationale: There is a slight chance for S1 (Minor) solar radiation
-storms on 11 Feb.
+Rationale: No S1 (Minor) or greater solar radiation storms are expected.
+No significant active region activity favorable for radiation storm
+production is forecast.
 
 C. NOAA Radio Blackout Activity and Forecast
 
 Radio blackouts reaching the R1 levels were observed over the past 24
-hours. The largest was at Feb 10 2025 0046 UTC.
+hours. The largest was at Feb 11 2025 0535 UTC.
 
-Radio Blackout Forecast for Feb 11-Feb 13 2025
+Radio Blackout Forecast for Feb 12-Feb 14 2025
 
-              Feb 11        Feb 12        Feb 13
-R1-R2           55%           40%           30%
-R3 or greater   10%            5%            5%
+              Feb 12        Feb 13        Feb 14
+R1-R2           40%           30%           30%
+R3 or greater    5%            1%            1%
 
-Rationale: Solar activity will likely reach moderate levels (R1-R2,
-Minor-Moderate), with a slight chance for isolated X-Class (R3-Strong)
-events, through 11 Feb due to the cluster of sunspot groups in the NW
-quadrant. Activity will likely decrease further on 12-13 Feb to only a
-isolated chance for R1-R2 events as AR 3981 rotates beyond the western
-limb.
+Rationale: Solar activity is expected to be low with a chance for
+(R1-R2,
+Minor-Moderate) activity on 12-14 Feb as AR 3981 continues to rotate
+around the western limb.
 
 ```
