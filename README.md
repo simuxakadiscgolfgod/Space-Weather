@@ -2,6 +2,11 @@
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
 <br />**Sorry, Image not available!**
+<br />**Date image released:**  2025-02-13
+<br />**This image is owned by:**  Roberto Marinoni
+<br />**Title of the image:**  Reflections on VdB 31
+<br />**Description for the image:**  Riding high in the constellation of Auriga, beautiful, blue VdB 31 is the 31st object in Sidney van den Bergh's 1966 catalog of reflection nebulae. It shares this well-composed celestial still life with dark, obscuring clouds B26, B27, and B28, recorded in Edward E. Barnard's 1919 catalog of dark markings in the sky. All are these nebulae are interstellar dust clouds. Barnard's dark nebulae block the light from background stars. For VdB 31 the dust preferentially reflects bluish starlight from embedded, hot, variable star AB Aurigae. Exploring the environs of AB Aurigae with the Hubble Space Telescope has revealed the several million year young star is itself surrounded by a flattened dusty disk with evidence for the ongoing formation of a planetary system. AB Aurigae is about 470 light-years away. At that distance this cosmic canvas would span about eight light-years.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2502/Vdb31_Astrobin2048.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -45,27 +50,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 Feb 12 0030 UTC
+:Issued: 2025 Feb 13 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Feb 12-Feb 14 2025 is 4.67 (NOAA Scale
+The greatest expected 3 hr Kp for Feb 13-Feb 15 2025 is 4.67 (NOAA Scale
 G1).
 
-NOAA Kp index breakdown Feb 12-Feb 14 2025
+NOAA Kp index breakdown Feb 13-Feb 15 2025
 
-             Feb 12       Feb 13       Feb 14
-00-03UT       3.33         3.67         3.33     
-03-06UT       3.00         3.33         2.00     
-06-09UT       2.00         2.67         2.00     
-09-12UT       2.00         2.67         3.00     
-12-15UT       3.00         3.33         3.00     
-15-18UT       3.00         3.33         3.00     
-18-21UT       3.33         3.67         3.33     
-21-00UT       4.00         4.67 (G1)    4.00     
+             Feb 13       Feb 14       Feb 15
+00-03UT       3.67         3.33         2.33     
+03-06UT       3.33         2.00         2.00     
+06-09UT       2.67         2.00         2.67     
+09-12UT       2.67         3.00         2.33     
+12-15UT       3.33         3.00         2.33     
+15-18UT       3.33         3.00         2.33     
+18-21UT       3.67         3.33         2.33     
+21-00UT       4.67 (G1)    4.00         2.67     
 
 Rationale: G1 (Minor) storm periods are likely on 13 Feb due to onset of
 a subsequent negative polarity CH HSS.
@@ -75,9 +80,9 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Feb 12-Feb 14 2025
+Solar Radiation Storm Forecast for Feb 13-Feb 15 2025
 
-              Feb 12  Feb 13  Feb 14
+              Feb 13  Feb 14  Feb 15
 S1 or greater    5%      1%      1%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -86,18 +91,15 @@ production is forecast.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-Radio blackouts reaching the R1 levels were observed over the past 24
-hours. The largest was at Feb 11 2025 0535 UTC.
+No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Feb 12-Feb 14 2025
+Radio Blackout Forecast for Feb 13-Feb 15 2025
 
-              Feb 12        Feb 13        Feb 14
-R1-R2           40%           30%           30%
-R3 or greater    5%            1%            1%
+              Feb 13        Feb 14        Feb 15
+R1-R2           40%           40%           40%
+R3 or greater    5%            5%            5%
 
 Rationale: Solar activity is expected to be low with a chance for
-(R1-R2,
-Minor-Moderate) activity on 12-14 Feb as AR 3981 continues to rotate
-around the western limb.
+(R1-R2, Minor-Moderate) activity on 13-15 Feb.
 
 ```
