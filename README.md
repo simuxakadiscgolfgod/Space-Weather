@@ -1,12 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Sorry, Image not available!**
-<br />**Date image released:**  2025-02-13
-<br />**This image is owned by:**  Roberto Marinoni
-<br />**Title of the image:**  Reflections on VdB 31
-<br />**Description for the image:**  Riding high in the constellation of Auriga, beautiful, blue VdB 31 is the 31st object in Sidney van den Bergh's 1966 catalog of reflection nebulae. It shares this well-composed celestial still life with dark, obscuring clouds B26, B27, and B28, recorded in Edward E. Barnard's 1919 catalog of dark markings in the sky. All are these nebulae are interstellar dust clouds. Barnard's dark nebulae block the light from background stars. For VdB 31 the dust preferentially reflects bluish starlight from embedded, hot, variable star AB Aurigae. Exploring the environs of AB Aurigae with the Hubble Space Telescope has revealed the several million year young star is itself surrounded by a flattened dusty disk with evidence for the ongoing formation of a planetary system. AB Aurigae is about 470 light-years away. At that distance this cosmic canvas would span about eight light-years.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2502/Vdb31_Astrobin2048.jpg
+<br />**Date image released:**  2025-02-14
+<br />**This image is owned by:**  Harry Karamitsos
+<br />**Title of the image:**  A Cosmic Rose: NGC 2237 in Monoceros
+<br />**Description for the image:**  The Rosette Nebula, NGC 2237, is not the only cosmic cloud of gas and dust to evoke the imagery of flowers, but it is probably the most famous.  At the edge of a large molecular cloud in Monoceros some 5,000 light years away, the petals of this cosmic rose are actually a stellar nursery. The lovely, symmetric shape is sculpted by the winds and radiation from its central cluster of hot young, O-type stars. Stars in the energetic cluster, cataloged as NGC 2244, are only a few million years young, while the central cavity in the Rosette Nebula, is about 50 light-years in diameter. The nebula can be seen with a small telescope toward the constellation of Monoceros, the Unicorn. This natural appearing telescopic portrait of the Rosette Nebula was made using broadband color filters, but sometimes roses aren't red.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2502/RosetteNeb.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -50,40 +49,40 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 Feb 13 0030 UTC
+:Issued: 2025 Feb 14 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Feb 13-Feb 15 2025 is 4.67 (NOAA Scale
+The greatest expected 3 hr Kp for Feb 14-Feb 16 2025 is 4.67 (NOAA Scale
 G1).
 
-NOAA Kp index breakdown Feb 13-Feb 15 2025
+NOAA Kp index breakdown Feb 14-Feb 16 2025
 
-             Feb 13       Feb 14       Feb 15
-00-03UT       3.67         3.33         2.33     
-03-06UT       3.33         2.00         2.00     
-06-09UT       2.67         2.00         2.67     
-09-12UT       2.67         3.00         2.33     
-12-15UT       3.33         3.00         2.33     
-15-18UT       3.33         3.00         2.33     
-18-21UT       3.67         3.33         2.33     
-21-00UT       4.67 (G1)    4.00         2.67     
+             Feb 14       Feb 15       Feb 16
+00-03UT       4.67 (G1)    3.00         3.33     
+03-06UT       3.67         3.67         3.00     
+06-09UT       2.67         3.00         2.33     
+09-12UT       3.67         1.67         2.00     
+12-15UT       4.67 (G1)    2.33         1.67     
+15-18UT       3.67         2.33         2.00     
+18-21UT       2.67         2.67         2.33     
+21-00UT       1.67         3.67         2.67     
 
-Rationale: G1 (Minor) storm periods are likely on 13 Feb due to onset of
-a subsequent negative polarity CH HSS.
+Rationale: Periods of G1 (Minor) geomagnetic storms are expected on 14
+Feb due to CH HSS influences.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Feb 13-Feb 15 2025
+Solar Radiation Storm Forecast for Feb 14-Feb 16 2025
 
-              Feb 13  Feb 14  Feb 15
-S1 or greater    5%      1%      1%
+              Feb 14  Feb 15  Feb 16
+S1 or greater    5%      5%      5%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
 No significant active region activity favorable for radiation storm
@@ -91,15 +90,16 @@ production is forecast.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-No radio blackouts were observed over the past 24 hours.
+Radio blackouts reaching the R1 levels were observed over the past 24
+hours. The largest was at Feb 13 2025 1109 UTC.
 
-Radio Blackout Forecast for Feb 13-Feb 15 2025
+Radio Blackout Forecast for Feb 14-Feb 16 2025
 
-              Feb 13        Feb 14        Feb 15
+              Feb 14        Feb 15        Feb 16
 R1-R2           40%           40%           40%
 R3 or greater    5%            5%            5%
 
-Rationale: Solar activity is expected to be low with a chance for
-(R1-R2, Minor-Moderate) activity on 13-15 Feb.
+Rationale: There is a chance for R1-R2 (Minor-Moderate) radio blackouts
+over 14-16 Feb.
 
 ```
