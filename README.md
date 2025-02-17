@@ -2,6 +2,13 @@
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
 <br />**Sorry, Image not available!**
+<br />**Date image released:**  2025-02-17
+<br />**This image is owned by:**  
+Martin LaMontagne
+
+<br />**Title of the image:**  SpaceX Rocket Launch Plume over California
+<br />**Description for the image:**  What's happened to the sky? Last Monday, the photogenic launch plume from a SpaceX rocket launch created quite a spectacle over parts of southern California and Arizona.  Looking at times like a giant space fish, the impressive rocket launch from Vandenberg Air Force Base near Lompoc, California, was so bright because it was backlit by the setting Sun. The Falcon 9 rocket successfully delivered to low Earth orbit 23 Starlink communications satellites.  The plume from the first stage is seen on the right, while the soaring upper stage rocket is seen at the apex of the plume toward the left. Venus appears at the top of the frame, while a bright streetlight shines on the far right.  The featured image was captured toward the west after sunset from near Phoenix, Arizona.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2502/FishPlume_LaMontagne_2272.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -45,38 +52,39 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 Feb 16 0030 UTC
+:Issued: 2025 Feb 17 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 5 (NOAA Scale
-G1).
-The greatest expected 3 hr Kp for Feb 16-Feb 18 2025 is 4.67 (NOAA Scale
-G1).
+The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
+Scale levels).
+The greatest expected 3 hr Kp for Feb 17-Feb 19 2025 is 4.33 (below NOAA
+Scale levels).
 
-NOAA Kp index breakdown Feb 16-Feb 18 2025
+NOAA Kp index breakdown Feb 17-Feb 19 2025
 
-             Feb 16       Feb 17       Feb 18
-00-03UT       4.33         2.67         2.67     
-03-06UT       3.67         3.00         4.00     
-06-09UT       2.67         2.67         4.33     
-09-12UT       2.67         2.33         3.00     
-12-15UT       2.67         2.33         2.33     
-15-18UT       4.67 (G1)    2.33         2.00     
-18-21UT       4.00         2.67         2.33     
-21-00UT       3.33         3.00         3.00     
+             Feb 17       Feb 18       Feb 19
+00-03UT       3.00         2.67         3.00     
+03-06UT       3.67         4.00         2.67     
+06-09UT       2.67         4.33         2.33     
+09-12UT       2.33         3.00         2.00     
+12-15UT       1.33         2.33         2.00     
+15-18UT       2.33         2.00         2.33     
+18-21UT       2.67         2.33         2.33     
+21-00UT       3.00         3.00         2.67     
 
-Rationale: G1 (Minor) geomagnetic storming is likely on 16 Feb.
+Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
+significant transient or recurrent solar wind features are forecast.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Feb 16-Feb 18 2025
+Solar Radiation Storm Forecast for Feb 17-Feb 19 2025
 
-              Feb 16  Feb 17  Feb 18
+              Feb 17  Feb 18  Feb 19
 S1 or greater    5%      5%      5%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -87,13 +95,13 @@ C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Feb 16-Feb 18 2025
+Radio Blackout Forecast for Feb 17-Feb 19 2025
 
-              Feb 16        Feb 17        Feb 18
-R1-R2           45%           45%           45%
+              Feb 17        Feb 18        Feb 19
+R1-R2           45%           45%           40%
 R3 or greater   10%           10%           10%
 
-Rationale: There is a chance for R1-R2 (Minor-Moderate) radio blackouts
-over 16-18 Feb.
+Rationale: There is a chance for R1-R2 (Minor-Moderate) radio blackouts,
+and a slight chance for R3 or greater events, over 17-19 Feb.
 
 ```
