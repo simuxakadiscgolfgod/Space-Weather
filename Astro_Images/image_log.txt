@@ -1,8 +1,8 @@
-<br />**Sorry, Image not available!**
-<br />**Date image released:**  2025-02-17
+<br />**Date image released:**  2025-02-18
 <br />**This image is owned by:**  
-Martin LaMontagne
+Nicolas Martino, Adrien Soto, Louis Leroux & 
+Yann Sainty
 
-<br />**Title of the image:**  SpaceX Rocket Launch Plume over California
-<br />**Description for the image:**  What's happened to the sky? Last Monday, the photogenic launch plume from a SpaceX rocket launch created quite a spectacle over parts of southern California and Arizona.  Looking at times like a giant space fish, the impressive rocket launch from Vandenberg Air Force Base near Lompoc, California, was so bright because it was backlit by the setting Sun. The Falcon 9 rocket successfully delivered to low Earth orbit 23 Starlink communications satellites.  The plume from the first stage is seen on the right, while the soaring upper stage rocket is seen at the apex of the plume toward the left. Venus appears at the top of the frame, while a bright streetlight shines on the far right.  The featured image was captured toward the west after sunset from near Phoenix, Arizona.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2502/FishPlume_LaMontagne_2272.jpg
+<br />**Title of the image:**  Thor's Helmet versus the Seagull
+<br />**Description for the image:**  Seen as a seagull and a duck, these nebulae are not the only cosmic clouds to evoke images of flight. But both are winging their way across this broad celestial landscape, spanning almost 7 degrees across planet Earth's night sky toward the constellation of the Big Dog (Canis Major). The expansive Seagull (top center) is itself composed of two major cataloged emission nebulas. Brighter NGC 2327 forms the head with the more diffuse IC 2177 as the wings and body. Impressively, the Seagull's wingspan would correspond to about 250 light-years at the nebula's estimated distance of 3,800 light-years. At the lower right, the Duck appears much more compact and would span only about 50 light-years given its 15,000 light-year distance estimate. Blown by energetic winds from an extremely massive, hot star near its center, the Duck nebula is cataloged as NGC 2359. Of course, the Duck's thick body and winged appendages also lend it the slightly more dramatic popular moniker, Thor's Helmet.   Portal Universe: Random APOD Generator
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2502/SeagullThor_Martino_5149.jpg
