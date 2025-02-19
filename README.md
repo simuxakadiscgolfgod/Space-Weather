@@ -1,14 +1,10 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2025-02-18
-<br />**This image is owned by:**  
-Nicolas Martino, Adrien Soto, Louis Leroux & 
-Yann Sainty
-
-<br />**Title of the image:**  Thor's Helmet versus the Seagull
-<br />**Description for the image:**  Seen as a seagull and a duck, these nebulae are not the only cosmic clouds to evoke images of flight. But both are winging their way across this broad celestial landscape, spanning almost 7 degrees across planet Earth's night sky toward the constellation of the Big Dog (Canis Major). The expansive Seagull (top center) is itself composed of two major cataloged emission nebulas. Brighter NGC 2327 forms the head with the more diffuse IC 2177 as the wings and body. Impressively, the Seagull's wingspan would correspond to about 250 light-years at the nebula's estimated distance of 3,800 light-years. At the lower right, the Duck appears much more compact and would span only about 50 light-years given its 15,000 light-year distance estimate. Blown by energetic winds from an extremely massive, hot star near its center, the Duck nebula is cataloged as NGC 2359. Of course, the Duck's thick body and winged appendages also lend it the slightly more dramatic popular moniker, Thor's Helmet.   Portal Universe: Random APOD Generator
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2502/SeagullThor_Martino_5149.jpg
+<br />**Date image released:**  2025-02-19
+<br />**Title of the image:**  HH 30: A Star System with Planets Now Forming
+<br />**Description for the image:**  How do stars and planets form? New clues have been found in the protoplanetary system Herbig-Haro 30 by the James Webb Space Telescope in concert with Hubble and the Earth-bound ALMA.  The observations show, among other things, that large dust grains are more concentrated into a central disk where they can form planets. The featured image from Webb shows many attributes of the active HH-30 system. Jets of particles are being expelled vertically, shown in red, while a dark dust-rich disk is seen across the center, blocking the light from the star or stars still forming there. Blue-reflecting dust is seen in a parabolic arc above and below the central disk, although why a tail appears on the lower left is currently unknown. Studying how planets form in HH 30 can help astronomers better understand how planets in our own Solar System once formed, including our Earth.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2502/HH30_Webb_960.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -52,39 +48,40 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 Feb 18 0030 UTC
+:Issued: 2025 Feb 19 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
-Scale levels).
-The greatest expected 3 hr Kp for Feb 18-Feb 20 2025 is 4.33 (below NOAA
-Scale levels).
+The greatest observed 3 hr Kp over the past 24 hours was 5 (NOAA Scale
+G1).
+The greatest expected 3 hr Kp for Feb 19-Feb 21 2025 is 4.67 (NOAA Scale
+G1).
 
-NOAA Kp index breakdown Feb 18-Feb 20 2025
+NOAA Kp index breakdown Feb 19-Feb 21 2025
 
-             Feb 18       Feb 19       Feb 20
-00-03UT       2.67         3.00         2.33     
-03-06UT       4.00         2.67         2.00     
-06-09UT       4.33         2.33         2.00     
-09-12UT       3.00         2.00         2.00     
-12-15UT       2.33         2.00         2.00     
-15-18UT       2.00         2.33         2.00     
-18-21UT       2.33         2.33         2.00     
-21-00UT       3.00         2.67         2.33     
+             Feb 19       Feb 20       Feb 21
+00-03UT       4.67 (G1)    3.00         1.67     
+03-06UT       4.00         2.67         1.33     
+06-09UT       3.00         2.33         1.33     
+09-12UT       2.33         2.00         1.33     
+12-15UT       2.00         1.33         1.33     
+15-18UT       2.00         1.33         1.33     
+18-21UT       2.00         1.00         1.67     
+21-00UT       2.67         2.00         1.67     
 
-Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
-significant transient or recurrent solar wind features are forecast.
+Rationale: Unsettled to G1 (Minor) storming is expected early on 19 Feb
+as any remaining negative polarity CH HSS effects end and a possible
+transition to a weak, positive polarity CH HSS regime begins.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Feb 18-Feb 20 2025
+Solar Radiation Storm Forecast for Feb 19-Feb 21 2025
 
-              Feb 18  Feb 19  Feb 20
+              Feb 19  Feb 20  Feb 21
 S1 or greater    5%      5%      5%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -93,17 +90,17 @@ production is forecast.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-Radio blackouts reaching the R1 levels were observed over the past 24
-hours. The largest was at Feb 17 2025 1513 UTC.
+Radio blackouts, as observed by NOAA GOES-16 over the past 24 hours, was
+below R-scale thresholds.
 
-Radio Blackout Forecast for Feb 18-Feb 20 2025
+Radio Blackout Forecast for Feb 19-Feb 21 2025
 
-              Feb 18        Feb 19        Feb 20
+              Feb 19        Feb 20        Feb 21
 R1-R2           45%           45%           45%
 R3 or greater   10%           10%           10%
 
 Rationale: Solar activity is expected to be low with a chance for
-M-class (R1-R2, Minor-Moderate) activity and a slight chance for X-class
-(R3, Strong) activity through 20 Feb.
+isolated M-class (R1-R2, Minor-Moderate) activity and a slight chance
+for X-class (R3, Strong) activity through 21 Feb.
 
 ```
