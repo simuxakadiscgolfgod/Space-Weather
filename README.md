@@ -1,10 +1,10 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2025-02-19
-<br />**Title of the image:**  HH 30: A Star System with Planets Now Forming
-<br />**Description for the image:**  How do stars and planets form? New clues have been found in the protoplanetary system Herbig-Haro 30 by the James Webb Space Telescope in concert with Hubble and the Earth-bound ALMA.  The observations show, among other things, that large dust grains are more concentrated into a central disk where they can form planets. The featured image from Webb shows many attributes of the active HH-30 system. Jets of particles are being expelled vertically, shown in red, while a dark dust-rich disk is seen across the center, blocking the light from the star or stars still forming there. Blue-reflecting dust is seen in a parabolic arc above and below the central disk, although why a tail appears on the lower left is currently unknown. Studying how planets form in HH 30 can help astronomers better understand how planets in our own Solar System once formed, including our Earth.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2502/HH30_Webb_960.jpg
+<br />**Date image released:**  2025-02-20
+<br />**Title of the image:**  Messier 87
+<br />**Description for the image:**  rmous elliptical galaxy Messier 87 is about 50 million light-years away. Also known as NGC 4486, the giant galaxy holds trillions of stars compared to the mere billions of stars in our large spiral Milky Way. M87 reigns as the large central elliptical galaxy in the Virgo galaxy cluster. An energetic jet from the giant galaxy's core is seen to stretch outward for about 5,000 light-years in this sharp optical and near-infrared view from the Hubble Space Telescope. In fact, the cosmic blow torch is seen across the electromagnetic spectrum from gamma-rays to radio wavelengths. Its ultimate power source is M87's central, supermassive black hole. An image of this monster in the middle of M87 has been captured by planet Earth's Event Horizon Telescope.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2502/m87-full.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -48,40 +48,39 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 Feb 19 0030 UTC
+:Issued: 2025 Feb 20 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 5 (NOAA Scale
 G1).
-The greatest expected 3 hr Kp for Feb 19-Feb 21 2025 is 4.67 (NOAA Scale
-G1).
+The greatest expected 3 hr Kp for Feb 20-Feb 22 2025 is 3.67 (below NOAA
+Scale levels).
 
-NOAA Kp index breakdown Feb 19-Feb 21 2025
+NOAA Kp index breakdown Feb 20-Feb 22 2025
 
-             Feb 19       Feb 20       Feb 21
-00-03UT       4.67 (G1)    3.00         1.67     
-03-06UT       4.00         2.67         1.33     
-06-09UT       3.00         2.33         1.33     
-09-12UT       2.33         2.00         1.33     
-12-15UT       2.00         1.33         1.33     
-15-18UT       2.00         1.33         1.33     
-18-21UT       2.00         1.00         1.67     
-21-00UT       2.67         2.00         1.67     
+             Feb 20       Feb 21       Feb 22
+00-03UT       3.00         1.67         1.67     
+03-06UT       3.67         1.33         1.33     
+06-09UT       3.00         1.33         1.33     
+09-12UT       2.00         1.33         1.33     
+12-15UT       1.33         1.33         1.33     
+15-18UT       1.33         1.33         1.33     
+18-21UT       1.00         1.67         1.67     
+21-00UT       2.00         1.67         1.67     
 
-Rationale: Unsettled to G1 (Minor) storming is expected early on 19 Feb
-as any remaining negative polarity CH HSS effects end and a possible
-transition to a weak, positive polarity CH HSS regime begins.
+Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
+significant transient or recurrent solar wind features are forecast.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Feb 19-Feb 21 2025
+Solar Radiation Storm Forecast for Feb 20-Feb 22 2025
 
-              Feb 19  Feb 20  Feb 21
+              Feb 20  Feb 21  Feb 22
 S1 or greater    5%      5%      5%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -90,17 +89,16 @@ production is forecast.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-Radio blackouts, as observed by NOAA GOES-16 over the past 24 hours, was
-below R-scale thresholds.
+No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Feb 19-Feb 21 2025
+Radio Blackout Forecast for Feb 20-Feb 22 2025
 
-              Feb 19        Feb 20        Feb 21
-R1-R2           45%           45%           45%
+              Feb 20        Feb 21        Feb 22
+R1-R2           40%           40%           40%
 R3 or greater   10%           10%           10%
 
 Rationale: Solar activity is expected to be low with a chance for
 isolated M-class (R1-R2, Minor-Moderate) activity and a slight chance
-for X-class (R3, Strong) activity through 21 Feb.
+for X-class (R3, Strong) activity through 22 Feb.
 
 ```
