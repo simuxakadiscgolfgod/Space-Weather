@@ -1,10 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2025-02-21
-<br />**Title of the image:**  Hubble's Andromeda Galaxy Mosaic
-<br />**Description for the image:**  The largest photomosaic ever assembled from Hubble Space Telescope image data is a panoramic view of our neighboring spiral Andromeda Galaxy. With 600 overlapping frames assembled from observations made from July 2010 to December 2022, the full Hubble Andromeda Galaxy mosaic spans almost six full moons across planet Earth's sky. A cropped version shown above is nearly two full moons across and partially covers Andromeda's core and inner spiral arms. Also known as M31, the Andromeda Galaxy is 2.5 million light-years away. That makes it the closest large spiral galaxy to our own Milky Way. Our perspective on the spiral Milky Way is anchored to the view from the location of the Sun, a star found within the Milky Way's galactic disk. But Hubble's magnificent Andromeda mosaic offers an expansive view of a large spiral galaxy from the outside looking in. Hubble's comprehensive, detailed data set extending across the Andromeda Galaxy will allow astronomers to make an unprecedented holistic exploration of the mysteries of spiral galaxy structure and evolution.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2502/M31_HubbleMosaic1024H.jpg
+<br />**Date image released:**  2025-02-22
+<br />**This image is owned by:**  Vincenzo Mirabella
+<br />**Title of the image:**  Rima Hyginus
+<br />**Description for the image:**  Rima Hyginus is a spectacular fissure, some 220 kilometers long, found near the center of the lunar near side. Easy to spot in telescopic views of the Moon, it stretches top left to bottom right across this lunar closeup. The image was made with exaggerated colors that reflect the mineral composition of the lunar soil. Hyginus crater lies near the center of the narrow lunar surface groove. About 10 kilometers in diameter, the low-walled crater is a volcanic caldera, one of the larger non-impact craters on the lunar surface. Dotted with small pits formed by surface collapse, Hyginus rima itself was likely created by stresses due to internal magma upwelling and collapse along a long surface fault. The intriguing region was a candidate landing site for the canceled Apollo 19 mission.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2502/20250205_rima_hyginus_mirabella_1500px.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -48,27 +49,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 Feb 21 0030 UTC
+:Issued: 2025 Feb 22 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Feb 21-Feb 23 2025 is 1.67 (below NOAA
+The greatest expected 3 hr Kp for Feb 22-Feb 24 2025 is 2.67 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Feb 21-Feb 23 2025
+NOAA Kp index breakdown Feb 22-Feb 24 2025
 
-             Feb 21       Feb 22       Feb 23
-00-03UT       1.67         1.67         1.67     
+             Feb 22       Feb 23       Feb 24
+00-03UT       1.67         1.67         1.33     
 03-06UT       1.33         1.33         1.33     
-06-09UT       1.33         1.33         1.33     
-09-12UT       1.33         1.33         1.33     
-12-15UT       1.33         1.33         1.33     
-15-18UT       1.33         1.33         1.67     
-18-21UT       1.67         1.67         1.67     
-21-00UT       1.67         1.67         1.33     
+06-09UT       1.33         1.33         2.00     
+09-12UT       1.33         1.33         2.00     
+12-15UT       1.33         1.33         2.33     
+15-18UT       1.33         1.67         2.33     
+18-21UT       1.67         1.67         2.67     
+21-00UT       1.67         1.33         2.67     
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
 significant transient or recurrent solar wind features are forecast.
@@ -78,10 +79,10 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Feb 21-Feb 23 2025
+Solar Radiation Storm Forecast for Feb 22-Feb 24 2025
 
-              Feb 21  Feb 22  Feb 23
-S1 or greater    5%      5%      5%
+              Feb 22  Feb 23  Feb 24
+S1 or greater   10%     10%     10%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
 No significant active region activity favorable for radiation storm
@@ -89,16 +90,16 @@ production is forecast.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-No radio blackouts were observed over the past 24 hours.
+Radio blackouts reaching the R1 levels were observed over the past 24
+hours. The largest was at Feb 21 2025 1215 UTC.
 
-Radio Blackout Forecast for Feb 21-Feb 23 2025
+Radio Blackout Forecast for Feb 22-Feb 24 2025
 
-              Feb 21        Feb 22        Feb 23
+              Feb 22        Feb 23        Feb 24
 R1-R2           40%           40%           40%
 R3 or greater   10%           10%           10%
 
-Rationale: Solar activity is expected to be low with a chance for
-isolated M-class (R1-R2, Minor-Moderate) activity and a slight chance
-for X-class (R3, Strong) activity through 23 Feb.
+Rationale: There is a chance for isolated R1-R2 (Minor-Moderate)
+activity, and a slight chance for R3 (Strong) activity over 22-24 Feb.
 
 ```
