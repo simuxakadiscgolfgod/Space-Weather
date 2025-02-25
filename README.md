@@ -1,13 +1,13 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2025-02-24
+<br />**Date image released:**  2025-02-25
 <br />**This image is owned by:**  
-Davide Caliò
+Xinran Li
 
-<br />**Title of the image:**  Light Pillar over Erupting Etna
-<br />**Description for the image:**  Can a lava flow extend into the sky? No, but light from the lava flow can. One effect is something quite unusual -- a volcanic light pillar. More typically, light pillars are caused by sunlight and so appear as a bright column that extends upward above a rising or setting Sun. Alternatively, other light pillars -- some quite colorful -- have been recorded above street and house lights. This light pillar, though, was illuminated by the red light emitted by the glowing magma of an erupting volcano. The volcano is Italy's Mount Etna, and the featured image was captured with a single shot during an early morning in mid-February. Freezing temperatures above the volcano's lava flow created ice-crystals either in the air above the volcano or in condensed water vapor expelled by Mount Etna. These ice crystals -- mostly flat toward the ground but fluttering -- then reflected away light from the volcano's caldera.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2502/LightPillarVolcano_Calio_1333.jpg
+<br />**Title of the image:**  M41: The Little Beehive Star Cluster
+<br />**Description for the image:**  Why are there so many bright blue stars?  Stars are usually born in clusters, and the brightest and most massive of these stars typically glow blue. Less-bright, non-blue stars like our Sun surely also exist in this M41 star cluster but are harder to see. A few bright orange-appearing red giant stars are visible. The red-light filaments are emitted by diffuse hydrogen gas, a color that was specifically filtered and enhanced in this image.  In a hundred million years or so, the bright blue stars will have exploded in supernovas and disappeared, while the slightly different trajectories of the fainter stars will cause this picturesque open cluster to disperse. Similarly, billions of years ago, our own Sun was likely born into a star cluster like M41, but it has long since drifted apart from its sister stars. The featured image was captured over four hours with Chilescope T2 in Chile.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2502/M41_Li_4000.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -51,27 +51,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 Feb 24 0030 UTC
+:Issued: 2025 Feb 25 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Feb 24-Feb 26 2025 is 3.33 (below NOAA
+The greatest expected 3 hr Kp for Feb 25-Feb 27 2025 is 3.67 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Feb 24-Feb 26 2025
+NOAA Kp index breakdown Feb 25-Feb 27 2025
 
-             Feb 24       Feb 25       Feb 26
-00-03UT       2.67         1.67         1.67     
-03-06UT       2.33         3.33         2.67     
-06-09UT       2.00         3.00         1.67     
-09-12UT       2.00         2.00         1.67     
-12-15UT       1.33         1.67         1.67     
-15-18UT       1.33         1.67         0.67     
-18-21UT       2.33         1.33         1.67     
-21-00UT       2.67         1.00         1.67     
+             Feb 25       Feb 26       Feb 27
+00-03UT       3.67         1.67         2.67     
+03-06UT       2.00         2.67         2.00     
+06-09UT       2.33         1.67         2.33     
+09-12UT       1.67         1.67         2.33     
+12-15UT       2.33         1.67         2.33     
+15-18UT       2.33         0.67         2.33     
+18-21UT       2.33         1.67         2.33     
+21-00UT       2.67         1.67         2.67     
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
 significant transient or recurrent solar wind features are forecast.
@@ -81,26 +81,27 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Feb 24-Feb 26 2025
+Solar Radiation Storm Forecast for Feb 25-Feb 27 2025
 
-              Feb 24  Feb 25  Feb 26
-S1 or greater   10%     10%     10%
+              Feb 25  Feb 26  Feb 27
+S1 or greater   99%     75%     60%
 
-Rationale: There is a slight chance for the greater than 10 MeV proton
-flux to reach S1 (Minor) storm levels over 24-26 Feb.
+Rationale: An S1 (Minor) level proton event is expected, with a chance
+of reaching S2 (Moderate), over 25-26 Feb and likely on 27 Feb following
+an enhancement associated with a todays M3.9 flare.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-Radio blackouts reaching the R3 levels were observed over the past 24
-hours. The largest was at Feb 23 2025 1927 UTC.
+Radio blackouts reaching the R1 levels were observed over the past 24
+hours. The largest was at Feb 24 2025 2306 UTC.
 
-Radio Blackout Forecast for Feb 24-Feb 26 2025
+Radio Blackout Forecast for Feb 25-Feb 27 2025
 
-              Feb 24        Feb 25        Feb 26
-R1-R2           65%           60%           60%
-R3 or greater   15%           10%           10%
+              Feb 25        Feb 26        Feb 27
+R1-R2           65%           65%           65%
+R3 or greater   25%           25%           25%
 
-Rationale: R1-R2 (Minor-Moderate) events are likely, with a slight
-chance for R3 (Strong) or greater events, over 24-26 Feb.
+Rationale: R1-R2 (Minor-Moderate) events are likely, with a chance for
+R3 (Strong) or greater events, over 25-27 Feb.
 
 ```
