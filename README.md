@@ -1,13 +1,18 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2025-02-25
+<br />**Date image released:**  2025-02-26
 <br />**This image is owned by:**  
-Xinran Li
+ESA, 
+NASA, 
+Euclid Consortium;
+Processing: 
+J.-C. Cuillandre, 
+G. Anselmi, T. Li
 
-<br />**Title of the image:**  M41: The Little Beehive Star Cluster
-<br />**Description for the image:**  Why are there so many bright blue stars?  Stars are usually born in clusters, and the brightest and most massive of these stars typically glow blue. Less-bright, non-blue stars like our Sun surely also exist in this M41 star cluster but are harder to see. A few bright orange-appearing red giant stars are visible. The red-light filaments are emitted by diffuse hydrogen gas, a color that was specifically filtered and enhanced in this image.  In a hundred million years or so, the bright blue stars will have exploded in supernovas and disappeared, while the slightly different trajectories of the fainter stars will cause this picturesque open cluster to disperse. Similarly, billions of years ago, our own Sun was likely born into a star cluster like M41, but it has long since drifted apart from its sister stars. The featured image was captured over four hours with Chilescope T2 in Chile.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2502/M41_Li_4000.jpg
+<br />**Title of the image:**  Einstein Ring Surrounds Nearby Galaxy Center
+<br />**Description for the image:**  Do you see the ring?  If you look very closely at the center of the featured galaxy NGC 6505, a ring becomes evident. It is the gravity of NGC 6505, the nearby (z = 0.042) elliptical galaxy that you can easily see, that is magnifying and distorting the image of a distant galaxy into a complete circle. To create a complete Einstein ring there must be perfect alignment of the nearby galaxy's center and part of the background galaxy. Analysis of this ring and the multiple images of the background galaxy help to determine the mass and fraction of dark matter in NGC 6505's center, as well as uncover previously unseen details in the distorted galaxy.  The featured image was captured by ESA's Earth-orbiting Euclid telescope in 2023 and released earlier this month.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2502/ClusterRing_Euclid_2665.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -51,27 +56,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 Feb 25 0030 UTC
+:Issued: 2025 Feb 26 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Feb 25-Feb 27 2025 is 3.67 (below NOAA
+The greatest expected 3 hr Kp for Feb 26-Feb 28 2025 is 4.00 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Feb 25-Feb 27 2025
+NOAA Kp index breakdown Feb 26-Feb 28 2025
 
-             Feb 25       Feb 26       Feb 27
-00-03UT       3.67         1.67         2.67     
-03-06UT       2.00         2.67         2.00     
-06-09UT       2.33         1.67         2.33     
-09-12UT       1.67         1.67         2.33     
-12-15UT       2.33         1.67         2.33     
-15-18UT       2.33         0.67         2.33     
-18-21UT       2.33         1.67         2.33     
-21-00UT       2.67         1.67         2.67     
+             Feb 26       Feb 27       Feb 28
+00-03UT       3.67         2.67         4.00     
+03-06UT       2.67         2.00         3.67     
+06-09UT       1.67         2.33         3.00     
+09-12UT       1.67         2.33         2.67     
+12-15UT       1.67         2.33         3.00     
+15-18UT       0.67         2.33         3.33     
+18-21UT       1.67         2.33         3.67     
+21-00UT       1.67         2.67         3.00     
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
 significant transient or recurrent solar wind features are forecast.
@@ -79,29 +84,29 @@ significant transient or recurrent solar wind features are forecast.
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
-below S-scale storm level thresholds.
+above S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Feb 25-Feb 27 2025
+Solar Radiation Storm Forecast for Feb 26-Feb 28 2025
 
-              Feb 25  Feb 26  Feb 27
-S1 or greater   99%     75%     60%
+              Feb 26  Feb 27  Feb 28
+S1 or greater   95%     55%     25%
 
 Rationale: An S1 (Minor) level proton event is expected, with a chance
-of reaching S2 (Moderate), over 25-26 Feb and likely on 27 Feb following
-an enhancement associated with a todays M3.9 flare.
+of reaching S2 (Moderate), on 26-27 Feb following possible further
+enhancement associated with a todays M3.6 flare from Region 3998.
 
 C. NOAA Radio Blackout Activity and Forecast
 
 Radio blackouts reaching the R1 levels were observed over the past 24
-hours. The largest was at Feb 24 2025 2306 UTC.
+hours. The largest was at Feb 25 2025 1159 UTC.
 
-Radio Blackout Forecast for Feb 25-Feb 27 2025
+Radio Blackout Forecast for Feb 26-Feb 28 2025
 
-              Feb 25        Feb 26        Feb 27
+              Feb 26        Feb 27        Feb 28
 R1-R2           65%           65%           65%
 R3 or greater   25%           25%           25%
 
 Rationale: R1-R2 (Minor-Moderate) events are likely, with a chance for
-R3 (Strong) or greater events, over 25-27 Feb.
+R3 (Strong) or greater events, over 26-28 Feb.
 
 ```
