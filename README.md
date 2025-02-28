@@ -1,11 +1,10 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2025-02-27
-<br />**This image is owned by:**  Evan Tsai
-<br />**Title of the image:**  Open Star Clusters M35 and NGC 2158
-<br />**Description for the image:**  Framed in this single, starry, telescopic field of view are two open star clusters, M35 and NGC 2158. Located within the boundaries of the constellation Gemini, they do appear to be side by side. Its stars concentrated toward the upper right, M35 is relatively nearby, though. M35 (also cataloged as NGC 2168) is a mere 2800 light-years distant, with 400 or so stars spread out over a volume about 30 light-years across. Bright blue stars frequently distinguish younger open clusters like M35, whose age is estimated at 150 million years. At lower left, NGC 2158 is about four times more distant than M35 and much more compact, shining with the more yellowish light of a population of stars over 10 times older. In general, open star clusters are found along the plane of our Milky Way Galaxy. Loosely gravitationally bound, their member stars tend to be dispersed over billions of years as the open star clusters orbit the galactic center.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2502/M35_NGC2158_2048.jpg
+<br />**Date image released:**  2025-02-28
+<br />**Title of the image:**  Athena to the Moon
+<br />**Description for the image:**  Planet Earth hangs in the background of this space age selfie. The snapshot was captured by the IM-2 Nova-C lander Athena, just after stage separation following its February 26 launch to the Moon. A tall robotic lander, Athena is scheduled to touch down on Thursday, March 6, in Mons Mouton, a plateau near the Moon’s South Pole. The intended landing site is in the central portion of one of the Artemis 3 potential landing regions. Athena carries rovers and experiments as part of NASA's Commercial Lunar Payload Services program, including a drill intended to explore beneath the lunar surface in a search for evidence of frozen water. It also carries a propulsive drone dubbed the Micro Nova Hopper. After release to the lunar surface, the autonomous drone is intended to hop into a nearby crater and send science data back to the lander.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2502/AthenaEarth.png
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,55 +48,60 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 Feb 27 0030 UTC
+:Issued: 2025 Feb 28 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
-Scale levels).
-The greatest expected 3 hr Kp for Feb 27-Mar 01 2025 is 4.00 (below NOAA
-Scale levels).
+The greatest observed 3 hr Kp over the past 24 hours was 6 (NOAA Scale
+G2).
+The greatest expected 3 hr Kp for Feb 28-Mar 02 2025 is 4.67 (NOAA Scale
+G1).
 
-NOAA Kp index breakdown Feb 27-Mar 01 2025
+NOAA Kp index breakdown Feb 28-Mar 02 2025
 
-             Feb 27       Feb 28       Mar 01
-00-03UT       2.67         4.00         3.67     
-03-06UT       2.00         3.67         2.67     
-06-09UT       2.33         3.00         2.67     
-09-12UT       2.33         2.67         2.67     
-12-15UT       1.67         3.00         2.67     
-15-18UT       2.33         3.33         3.00     
-18-21UT       2.33         3.67         2.00     
-21-00UT       3.67         3.00         2.00     
+             Feb 28       Mar 01       Mar 02
+00-03UT       4.67 (G1)    3.67         2.67     
+03-06UT       4.67 (G1)    2.67         2.00     
+06-09UT       3.33         2.67         2.33     
+09-12UT       2.67         2.67         2.33     
+12-15UT       3.00         2.67         2.33     
+15-18UT       3.33         3.00         2.33     
+18-21UT       3.67         2.00         2.33     
+21-00UT       3.00         2.00         2.67     
 
-Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
-significant transient or recurrent solar wind features are forecast.
+Rationale: G1 (Minor) storming conditions are expected early on 28 Feb
+as CH HSS influence continues. By 01 Mar, a chance for G1 (Minor)
+storming conditions remains possible as CH HSS influence persists, in
+addition to potential for a glancing blow a CME that left the Sun on 25
+Feb.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Feb 27-Mar 01 2025
+Solar Radiation Storm Forecast for Feb 28-Mar 02 2025
 
-              Feb 27  Feb 28  Mar 01
-S1 or greater   25%     10%     10%
+              Feb 28  Mar 01  Mar 02
+S1 or greater   10%     10%      5%
 
-Rationale: A chance for S1 (Minor) levels exists on 27 Feb as levels
-slowly decline to background.
+Rationale: A slight chance for S1 (Minor) levels exists on 28 Feb - 01
+Mar due to complex regions near the Suns W limb.
 
 C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Feb 27-Mar 01 2025
+Radio Blackout Forecast for Feb 28-Mar 02 2025
 
-              Feb 27        Feb 28        Mar 01
-R1-R2           65%           65%           65%
-R3 or greater   25%           25%           25%
+              Feb 28        Mar 01        Mar 02
+R1-R2           55%           55%           25%
+R3 or greater   10%           10%            5%
 
 Rationale: R1-R2 (Minor-Moderate) events are likely, with a chance for
-R3 (Strong) or greater events, over 27 Feb - 01 Mar.
+R3 (Strong) or greater events, over 28 Feb - 01 Mar. Only a chance for
+R1-R2 events will exists over 02 Mar as most of the complex active
+regions will have rotated beyond the W. limb.
 
 ```
