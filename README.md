@@ -1,11 +1,13 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Sorry, Image not available!**
-<br />**Date image released:**  2025-03-03
-<br />**Title of the image:**  Blue Ghost on the Moon
-<br />**Description for the image:**  There's a new lander on the Moon. Yesterday Firefly Aerospace's Blue Ghost executed the first-ever successful commercial lunar landing. During its planned 60-day mission, Blue Ghost will deploy several NASA-commissioned scientific instruments, including PlanetVac which captures lunar dust after creating a small whirlwind of gas. Blue Ghost will also host the telescope LEXI that captures X-ray images of the Earth's magnetosphere. LEXI data should enable a better understanding of how Earth's magnetic field protects the Earth from the Sun's wind and flares.  Pictured, the shadow of the Blue Ghost lander is visible on the cratered lunar surface, while the glowing orb of the planet Earth hovers just over the horizon. Goals for future robotic Blue Ghost landers include supporting lunar astronauts in NASA's Artemis program, with Artemis III currently scheduled to land humans back on the Moon in 2027.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2503/BlueGhostShadow_Firefly_4096.jpg
+<br />**Date image released:**  2025-03-04
+<br />**This image is owned by:**  
+Valerio Minato
+
+<br />**Title of the image:**  A Quadruple Alignment over Italy
+<br />**Description for the image:**  Why does this Moon look so unusual?  A key reason is its vivid red color. The color is caused by the deflection of blue light by Earth's atmosphere -- the same reason that the daytime sky appears blue.  The Moon also appears unusually distorted.  Its strange structuring is an optical effect arising from layers in the Earth's atmosphere that refract light differently due to sudden differences in temperature or pressure.  A third reason the Moon looks so unusual is that there is, by chance, an airplane flying in front. The featured picturesque gibbous Moon was captured about two weeks ago above Turin, Italy. Our familiar hovering sky orb was part of an unusual quadruple alignment that included two historic ground structures: the Sacra di San Michele on the near hill and Basilica of Superga just beyond.   Your Sky Surprise: What picture did APOD feature on your friend's birthday? (post 1995)
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2503/QuadMoon_Minato_960.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,40 +51,39 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 Mar 03 0030 UTC
+:Issued: 2025 Mar 04 0035 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Mar 03-Mar 05 2025 is 5.00 (NOAA Scale
+The greatest expected 3 hr Kp for Mar 04-Mar 06 2025 is 5.00 (NOAA Scale
 G1).
 
-NOAA Kp index breakdown Mar 03-Mar 05 2025
+NOAA Kp index breakdown Mar 04-Mar 06 2025
 
-             Mar 03       Mar 04       Mar 05
-00-03UT       2.33         1.67         5.00 (G1)
-03-06UT       2.67         1.67         4.67 (G1)
-06-09UT       2.67         1.67         4.33     
-09-12UT       2.00         1.33         4.00     
-12-15UT       2.00         3.00         3.33     
-15-18UT       1.67         3.67         3.00     
-18-21UT       0.67         4.67 (G1)    2.67     
-21-00UT       2.00         5.00 (G1)    2.00     
+             Mar 04       Mar 05       Mar 06
+00-03UT       1.67         5.00 (G1)    2.67     
+03-06UT       1.67         4.67 (G1)    2.67     
+06-09UT       1.67         4.33         2.33     
+09-12UT       1.33         4.00         2.33     
+12-15UT       3.00         3.33         1.67     
+15-18UT       3.67         3.00         2.33     
+18-21UT       4.67 (G1)    2.67         2.33     
+21-00UT       5.00 (G1)    2.00         2.67     
 
-Rationale: Periods of G1 (Minor) geomagnetic storming are likely on
-04-05 Mar due to the anticipated arrival of a CME that left the Sun on
-01 Mar.
+Rationale: G1 (Minor) geomagnetic storms are likely on 04-05 Mar due to
+possible influences from a CME that left the Sun on 01 Mar.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Mar 03-Mar 05 2025
+Solar Radiation Storm Forecast for Mar 04-Mar 06 2025
 
-              Mar 03  Mar 04  Mar 05
+              Mar 04  Mar 05  Mar 06
 S1 or greater    1%      1%      1%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -93,13 +94,13 @@ C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Mar 03-Mar 05 2025
+Radio Blackout Forecast for Mar 04-Mar 06 2025
 
-              Mar 03        Mar 04        Mar 05
+              Mar 04        Mar 05        Mar 06
 R1-R2           30%           30%           30%
 R3 or greater    1%            1%            1%
 
-Rationale: There is a chance for R1-R2 (Minor-Moderate) events over
-03-05 Mar.
+Rationale: There is a chance for R1-R2 (Minor-Moderate) radio blackouts
+through 06 Mar.
 
 ```
