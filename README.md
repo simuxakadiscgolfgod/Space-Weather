@@ -1,13 +1,10 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2025-03-05
-<br />**This image is owned by:**  
-Todd Anderson
-
-<br />**Title of the image:**  Seven Sisters versus California
-<br />**Description for the image:**  On the right, dressed in blue, is the Pleiades.  Also known as the Seven Sisters and M45, the Pleiades is one of the brightest and most easily visible open clusters on the sky. The Pleiades contains over 3,000 stars, is about 400 light years away, and only 13 light years across. Surrounding the stars is a spectacular blue reflection nebula made of fine dust.  A common legend is that one of the brighter stars faded since the cluster was named. On the left, shining in red, is the California Nebula.  Named for its shape, the California Nebula is much dimmer and hence harder to see than the Pleiades.  Also known as NGC 1499, this mass of red glowing hydrogen gas is about 1,500 light years away. Although about 25 full moons could fit between them, the featured wide angle, deep field image composite has captured them both.  A careful inspection of the deep image will also reveal the star forming region IC 348 and the molecular cloud LBN 777 (the Baby Eagle Nebula).    Jump Around the Universe: Random APOD Generator
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2503/California2Pleiades_Anderson_9953.jpg
+<br />**Date image released:**  2025-03-06
+<br />**Title of the image:**  Starburst Galaxy Messier 94
+<br />**Description for the image:**  Beautiful island universe Messier 94 lies a mere 15 million light-years distant in the northern constellation of the hunting dogs, Canes Venatici. A popular target for earth-based astronomers, the face-on spiral galaxy is about 30,000 light-years across, with spiral arms sweeping through the outskirts of its broad disk. But this Hubble Space Telescope field of view spans about 7,000 light-years or so across M94's central region. The sharp close-up examines the galaxy's compact, bright nucleus and prominent inner dust lanes, surrounded by a remarkable bluish ring of young, massive stars. The massive stars in the ring appear to be less than about 10 million years old, indicating the galaxy experienced a corresponding well-defined era of rapid star formation. As a result, while the small, bright nucleus is typical of the Seyfert class of active galaxies, M94 is also known as a starburst galaxy. Because M94 is relatively nearby, astronomers can explore in detail reasons for the galaxy's burst of star formation.  Today's Coverage: Moon Landing
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2503/M94_hst1542a_1280.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -51,40 +48,40 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 Mar 05 0030 UTC
+:Issued: 2025 Mar 06 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Mar 05-Mar 07 2025 is 5.00 (NOAA Scale
-G1).
+The greatest expected 3 hr Kp for Mar 06-Mar 08 2025 is 4.00 (below NOAA
+Scale levels).
 
-NOAA Kp index breakdown Mar 05-Mar 07 2025
+NOAA Kp index breakdown Mar 06-Mar 08 2025
 
-             Mar 05       Mar 06       Mar 07
-00-03UT       5.00 (G1)    2.67         1.33     
-03-06UT       4.67 (G1)    2.67         1.33     
-06-09UT       4.33         2.33         1.67     
-09-12UT       4.00         2.33         1.67     
-12-15UT       3.33         1.67         1.67     
-15-18UT       3.00         2.33         1.33     
-18-21UT       2.67         2.33         1.33     
-21-00UT       2.00         2.67         1.33     
+             Mar 06       Mar 07       Mar 08
+00-03UT       3.00         1.33         2.00     
+03-06UT       2.67         1.33         1.67     
+06-09UT       2.33         1.67         2.00     
+09-12UT       2.33         1.67         2.33     
+12-15UT       1.67         1.67         2.33     
+15-18UT       2.00         1.33         2.67     
+18-21UT       2.33         1.33         3.00     
+21-00UT       2.33         1.33         4.00     
 
-Rationale: G1 (Minor) geomagnetic storms are likely on 05 Mar due to
-possible influences from a CME that left the Sun on 01 Mar.
+Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
+significant transient or recurrent solar wind features are forecast.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Mar 05-Mar 07 2025
+Solar Radiation Storm Forecast for Mar 06-Mar 08 2025
 
-              Mar 05  Mar 06  Mar 07
-S1 or greater    1%      1%      1%
+              Mar 06  Mar 07  Mar 08
+S1 or greater    5%      5%      5%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
 No significant active region activity favorable for radiation storm
@@ -92,15 +89,16 @@ production is forecast.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-No radio blackouts were observed over the past 24 hours.
+Radio blackouts reaching the R1 levels were observed over the past 24
+hours. The largest was at Mar 05 2025 1150 UTC.
 
-Radio Blackout Forecast for Mar 05-Mar 07 2025
+Radio Blackout Forecast for Mar 06-Mar 08 2025
 
-              Mar 05        Mar 06        Mar 07
-R1-R2           40%           40%           40%
-R3 or greater    5%            5%            5%
+              Mar 06        Mar 07        Mar 08
+R1-R2           45%           45%           45%
+R3 or greater   10%           10%           10%
 
 Rationale: There is a chance for R1-R2 (Minor-Moderate) radio blackouts
-through 07 Mar.
+through 08 Mar.
 
 ```
