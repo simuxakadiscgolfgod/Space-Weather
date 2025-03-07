@@ -1,10 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2025-03-06
-<br />**Title of the image:**  Starburst Galaxy Messier 94
-<br />**Description for the image:**  Beautiful island universe Messier 94 lies a mere 15 million light-years distant in the northern constellation of the hunting dogs, Canes Venatici. A popular target for earth-based astronomers, the face-on spiral galaxy is about 30,000 light-years across, with spiral arms sweeping through the outskirts of its broad disk. But this Hubble Space Telescope field of view spans about 7,000 light-years or so across M94's central region. The sharp close-up examines the galaxy's compact, bright nucleus and prominent inner dust lanes, surrounded by a remarkable bluish ring of young, massive stars. The massive stars in the ring appear to be less than about 10 million years old, indicating the galaxy experienced a corresponding well-defined era of rapid star formation. As a result, while the small, bright nucleus is typical of the Seyfert class of active galaxies, M94 is also known as a starburst galaxy. Because M94 is relatively nearby, astronomers can explore in detail reasons for the galaxy's burst of star formation.  Today's Coverage: Moon Landing
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2503/M94_hst1542a_1280.jpg
+<br />**Date image released:**  2025-03-07
+<br />**This image is owned by:**  Vikas Chander
+<br />**Title of the image:**  Planetary Nebula Abell 7
+<br />**Description for the image:**  Very faint planetary nebula Abell 7 is about 1,800 light-years distant. It lies just south of Orion in planet Earth's skies toward the constellation Lepus, The Hare. Surrounded by Milky Way stars and near the line-of-sight to distant background galaxies its generally simple spherical shape, about 8 light-years in diameter, is revealed in this deep telescopic image. Within the cosmic cloud are beautiful and complex structures though, enhanced by the use of long exposures and narrowband filters that capture emission from hydrogen, sulfur, and oxygen atoms. Otherwise Abell 7 would be much too faint to be appreciated by eye. A planetary nebula represents a very brief final phase in stellar evolution that our own Sun will experience 5 billion years hence, as the nebula's central, once sun-like star shrugs off its outer layers. Abell 7 itself is estimated to be 20,000 years old. But its central star, seen here as a fading white dwarf, is some 10 billion years old.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2503/Abell7_VChander4096.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -48,39 +49,39 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 Mar 06 0030 UTC
+:Issued: 2025 Mar 07 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Mar 06-Mar 08 2025 is 4.00 (below NOAA
-Scale levels).
+The greatest expected 3 hr Kp for Mar 07-Mar 09 2025 is 4.67 (NOAA Scale
+G1).
 
-NOAA Kp index breakdown Mar 06-Mar 08 2025
+NOAA Kp index breakdown Mar 07-Mar 09 2025
 
-             Mar 06       Mar 07       Mar 08
-00-03UT       3.00         1.33         2.00     
-03-06UT       2.67         1.33         1.67     
-06-09UT       2.33         1.67         2.00     
-09-12UT       2.33         1.67         2.33     
-12-15UT       1.67         1.67         2.33     
-15-18UT       2.00         1.33         2.67     
-18-21UT       2.33         1.33         3.00     
-21-00UT       2.33         1.33         4.00     
+             Mar 07       Mar 08       Mar 09
+00-03UT       1.33         2.00         3.33     
+03-06UT       1.33         1.67         4.67 (G1)
+06-09UT       1.67         2.00         3.67     
+09-12UT       1.67         2.33         3.67     
+12-15UT       1.67         2.33         3.00     
+15-18UT       1.33         2.67         2.33     
+18-21UT       1.33         3.00         3.00     
+21-00UT       1.33         4.00         3.67     
 
-Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
-significant transient or recurrent solar wind features are forecast.
+Rationale: G1 (Minor) geomagnetic storms are likely on 09 Mar due to the
+anticipated arrival of a CIR and subsequent CH HSS.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Mar 06-Mar 08 2025
+Solar Radiation Storm Forecast for Mar 07-Mar 09 2025
 
-              Mar 06  Mar 07  Mar 08
+              Mar 07  Mar 08  Mar 09
 S1 or greater    5%      5%      5%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -89,16 +90,15 @@ production is forecast.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-Radio blackouts reaching the R1 levels were observed over the past 24
-hours. The largest was at Mar 05 2025 1150 UTC.
+No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Mar 06-Mar 08 2025
+Radio Blackout Forecast for Mar 07-Mar 09 2025
 
-              Mar 06        Mar 07        Mar 08
+              Mar 07        Mar 08        Mar 09
 R1-R2           45%           45%           45%
 R3 or greater   10%           10%           10%
 
-Rationale: There is a chance for R1-R2 (Minor-Moderate) radio blackouts
-through 08 Mar.
+Rationale: There is a chance for R1-R2 (Minor-Moderate), with a slight
+chance for R3 (Strong) or greater radio blackouts through 09 Mar.
 
 ```
