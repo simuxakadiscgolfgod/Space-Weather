@@ -1,10 +1,10 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2025-03-08
-<br />**Title of the image:**  Galaxies in Space
-<br />**Description for the image:**  The plane of our Milky Way galaxy extends beyond the limb of planet Earth in this space age exposure captured by astronaut Don Pettit. His camera, with low light and long duration settings, was pointed out the window of a Dragon crew spacecraft docked with the International Space Station on January 29. The orbital outpost was at an altitude of about 400 kilometers above the Pacific Ocean at the time. Motion blurs the Earth below, while the gorgeous view from low Earth orbit includes the Milky Way's prominent satellite galaxies, known as the Large and Small Magellanic Clouds, near the upper left in the frame. Fans of southern skies can also spot the Southern Cross. The four brightest stars of the famous southern constellation Crux are near picture center, just beyond the edge of the bright horizon and shining through Earth's orange tinted atmospheric glow.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2503/iss072e574593_DonPetit2048.jpg
+<br />**Date image released:**  2025-03-09
+<br />**Title of the image:**  Cyclones at Jupiter's North Pole
+<br />**Description for the image:**  Why are there so many cyclones around the north pole of Jupiter? The topic is still being researched.  NASA's robotic Juno mission orbiting Jupiter took data in 2018 that was used to construct this stunning view of the curious cyclones at Jupiter's north pole. Measuring the thermal emission from Jovian cloud tops, the infrared observations are not restricted to the hemisphere illuminated by sunlight. They reveal eight cyclonic features that surround a cyclone about 4,000 kilometers in diameter, just offset from the giant planet's geographic north pole. Similar data show a cyclone at the Jovian south pole with five circumpolar cyclones. The south pole cyclones are slightly larger than their northern cousins. Oddly, data from the once Saturn-orbiting Cassini mission has shown that Saturn's north and south poles each have only a single cyclonic storm system.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2503/JupiterCyclones_Juno_2362.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -48,39 +48,39 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 Mar 08 0030 UTC
+:Issued: 2025 Mar 09 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
-Scale levels).
-The greatest expected 3 hr Kp for Mar 08-Mar 10 2025 is 5.00 (NOAA Scale
+The greatest observed 3 hr Kp over the past 24 hours was 5 (NOAA Scale
+G1).
+The greatest expected 3 hr Kp for Mar 09-Mar 11 2025 is 5.00 (NOAA Scale
 G1).
 
-NOAA Kp index breakdown Mar 08-Mar 10 2025
+NOAA Kp index breakdown Mar 09-Mar 11 2025
 
-             Mar 08       Mar 09       Mar 10
-00-03UT       2.00         3.33         4.00     
-03-06UT       1.67         4.67 (G1)    5.00 (G1)
-06-09UT       2.00         3.67         4.00     
-09-12UT       2.33         3.67         3.33     
-12-15UT       2.33         3.00         3.00     
-15-18UT       2.67         2.33         3.00     
-18-21UT       3.00         3.00         3.67     
-21-00UT       4.00         3.67         4.00     
+             Mar 09       Mar 10       Mar 11
+00-03UT       3.33         4.00         3.67     
+03-06UT       4.67 (G1)    5.00 (G1)    3.67     
+06-09UT       3.67         4.00         3.33     
+09-12UT       3.67         3.33         3.33     
+12-15UT       3.00         3.00         3.33     
+15-18UT       2.33         3.00         3.33     
+18-21UT       3.00         3.67         3.67     
+21-00UT       3.67         4.00         3.33     
 
-Rationale: G1 (Minor) geomagnetic storms are likely on 09-10 Mar due to
-anticipated influence from a negative polarity coronal hole.
+Rationale: G1 (Minor) conditions are expected on 09-10 Mar due to
+influence from a negative polarity coronal hole.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Mar 08-Mar 10 2025
+Solar Radiation Storm Forecast for Mar 09-Mar 11 2025
 
-              Mar 08  Mar 09  Mar 10
+              Mar 09  Mar 10  Mar 11
 S1 or greater    1%      1%      1%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -89,16 +89,15 @@ production is forecast.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-Radio blackouts reaching the R1 levels were observed over the past 24
-hours. The largest was at Mar 07 2025 2100 UTC.
+No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Mar 08-Mar 10 2025
+Radio Blackout Forecast for Mar 09-Mar 11 2025
 
-              Mar 08        Mar 09        Mar 10
-R1-R2           40%           40%           40%
+              Mar 09        Mar 10        Mar 11
+R1-R2           30%           30%           30%
 R3 or greater    5%            5%            5%
 
 Rationale: There is a chance for R1-R2 (Minor-Moderate) radio blackouts
-over 08-10 Mar.
+over 09-11 Mar.
 
 ```
