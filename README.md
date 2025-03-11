@@ -1,13 +1,10 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2025-03-10
-<br />**This image is owned by:**  
-Toni Fabiani Mendez
-
-<br />**Title of the image:**  NGC 1499: The California Nebula
-<br />**Description for the image:**  Could Queen Calafia's mythical island exist in space? Perhaps not, but by chance the outline of this molecular space cloud echoes the outline of the state of California, USA. Our Sun has its home within the Milky Way's Orion Arm, only about 1,000 light-years from the California Nebula. Also known as NGC 1499, the classic emission nebula is around 100 light-years long. On the featured image, the most prominent glow of the California Nebula is the red light characteristic of hydrogen atoms recombining with long lost electrons, stripped away (ionized) by energetic starlight. The star most likely providing the energetic starlight that ionizes much of the nebular gas is the bright, hot, bluish Xi Persei just to the right of the nebula.  A regular target for astrophotographers, the California Nebula can be spotted with a wide-field telescope under a dark sky toward the constellation of Perseus, not far from the Pleiades.   Explore Your Universe: Random APOD Generator
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2503/California_Mendez_2604.jpg
+<br />**Date image released:**  2025-03-11
+<br />**Title of the image:**  NGC 1672: Barred Spiral Galaxy from Hubble
+<br />**Description for the image:**  Many spiral galaxies have bars across their centers.  Even our own Milky Way Galaxy is thought to have a modest central bar. Prominently barred spiral galaxy NGC 1672, featured here, was captured in spectacular detail in an image taken by the orbiting Hubble Space Telescope. Visible are dark filamentary dust lanes, young clusters of bright blue stars, red emission nebulas of glowing hydrogen gas, a long bright bar of stars across the center, and a bright active nucleus that likely houses a supermassive black hole.  Light takes about 60 million years to reach us from NGC 1672, which spans about 75,000 light years across. NGC 1672, which appears toward the constellation of the Dolphinfish (Dorado), has been studied to find out how a spiral bar contributes to star formation in a galaxy's central regions.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2503/NGC1672B_Hubble_4000.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -51,39 +48,39 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 Mar 10 0030 UTC
+:Issued: 2025 Mar 11 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 6 (NOAA Scale
-G2).
-The greatest expected 3 hr Kp for Mar 10-Mar 12 2025 is 5.00 (NOAA Scale
-G1).
+The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
+Scale levels).
+The greatest expected 3 hr Kp for Mar 11-Mar 13 2025 is 3.67 (below NOAA
+Scale levels).
 
-NOAA Kp index breakdown Mar 10-Mar 12 2025
+NOAA Kp index breakdown Mar 11-Mar 13 2025
 
-             Mar 10       Mar 11       Mar 12
-00-03UT       4.00         3.67         3.67     
-03-06UT       5.00 (G1)    3.67         2.67     
-06-09UT       4.00         3.33         2.33     
-09-12UT       3.33         3.33         2.33     
-12-15UT       3.00         3.33         2.33     
-15-18UT       3.00         3.33         2.00     
-18-21UT       3.67         3.67         2.67     
-21-00UT       4.00         3.33         2.67     
+             Mar 11       Mar 12       Mar 13
+00-03UT       3.67         3.67         3.67     
+03-06UT       3.67         2.67         2.67     
+06-09UT       3.33         2.33         2.67     
+09-12UT       3.33         2.33         2.67     
+12-15UT       3.33         2.33         3.67     
+15-18UT       3.33         2.00         2.67     
+18-21UT       3.67         2.67         2.67     
+21-00UT       3.33         2.67         2.67     
 
-Rationale: G1 (Minor) geomagnetic storms are likely on 10 Mar due to CH
-HSS influences.
+Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
+significant transient or recurrent solar wind features are forecast.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Mar 10-Mar 12 2025
+Solar Radiation Storm Forecast for Mar 11-Mar 13 2025
 
-              Mar 10  Mar 11  Mar 12
+              Mar 11  Mar 12  Mar 13
 S1 or greater    1%      1%      1%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -94,13 +91,13 @@ C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Mar 10-Mar 12 2025
+Radio Blackout Forecast for Mar 11-Mar 13 2025
 
-              Mar 10        Mar 11        Mar 12
+              Mar 11        Mar 12        Mar 13
 R1-R2           30%           30%           30%
 R3 or greater    5%            5%            5%
 
-Rationale: A chance for R1-R2 (Minor-Moderate) radio blackouts will
-persist through 12 Mar mainly due to the flare potential of Region 4012.
+Rationale: A chance remains for R1-R2 (Minor-Moderate) radio blackouts
+through 13 Mar as Region 4019 continues develop.
 
 ```
