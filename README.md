@@ -1,10 +1,17 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2025-03-11
-<br />**Title of the image:**  NGC 1672: Barred Spiral Galaxy from Hubble
-<br />**Description for the image:**  Many spiral galaxies have bars across their centers.  Even our own Milky Way Galaxy is thought to have a modest central bar. Prominently barred spiral galaxy NGC 1672, featured here, was captured in spectacular detail in an image taken by the orbiting Hubble Space Telescope. Visible are dark filamentary dust lanes, young clusters of bright blue stars, red emission nebulas of glowing hydrogen gas, a long bright bar of stars across the center, and a bright active nucleus that likely houses a supermassive black hole.  Light takes about 60 million years to reach us from NGC 1672, which spans about 75,000 light years across. NGC 1672, which appears toward the constellation of the Dolphinfish (Dorado), has been studied to find out how a spiral bar contributes to star formation in a galaxy's central regions.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2503/NGC1672B_Hubble_4000.jpg
+<br />**Date image released:**  2025-03-12
+<br />**This image is owned by:**  
+Jean-François Bax & Serge Brunier,  
+OCA/C2PU; 
+Text: 
+Ogetay Kayali 
+(Michigan Tech U.)
+
+<br />**Title of the image:**  NGC 772: The Fiddlehead Galaxy
+<br />**Description for the image:**  Why does this galaxy look like a curly vegetable?  The Fiddlehead spiral galaxy likely gets its distorted spiral appearance from a gravitational interaction with its close-by elliptical companion NGC 770, seen just below.  Cataloged as NGC 772 and Arp 78, the Fiddlehead spans over 200,000 light years, is a nearby 100 million light years beyond the stars of our Milky Way galaxy, and is visible toward the constellation of the Ram (Aries).  But in the featured image, the Fiddlehead appears to have another companion -- one with a long and fuzzy tail: Comet 43P/Wolf-Harrington.  Though the comet appears to be aimed straight at the massive galaxy, it is actually much closer to us, residing only light minutes away -- well within our Solar System.  The comet will never reach the distant spiral galaxy, nor is it physically related to it.  By a fortunate trick of perspective, though, these two cosmic wonders briefly share the same frame taken late last year from Calern, France.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2503/NGC772Comet_Bax_4724.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -48,27 +55,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 Mar 11 0030 UTC
+:Issued: 2025 Mar 12 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Mar 11-Mar 13 2025 is 3.67 (below NOAA
+The greatest expected 3 hr Kp for Mar 12-Mar 14 2025 is 3.67 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Mar 11-Mar 13 2025
+NOAA Kp index breakdown Mar 12-Mar 14 2025
 
-             Mar 11       Mar 12       Mar 13
-00-03UT       3.67         3.67         3.67     
-03-06UT       3.67         2.67         2.67     
-06-09UT       3.33         2.33         2.67     
-09-12UT       3.33         2.33         2.67     
-12-15UT       3.33         2.33         3.67     
-15-18UT       3.33         2.00         2.67     
-18-21UT       3.67         2.67         2.67     
-21-00UT       3.33         2.67         2.67     
+             Mar 12       Mar 13       Mar 14
+00-03UT       3.67         3.67         3.33     
+03-06UT       3.67         2.67         3.00     
+06-09UT       2.67         2.67         3.67     
+09-12UT       2.33         2.67         3.33     
+12-15UT       2.00         3.67         3.00     
+15-18UT       2.33         2.67         3.67     
+18-21UT       2.67         2.67         3.33     
+21-00UT       3.00         2.67         3.00     
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
 significant transient or recurrent solar wind features are forecast.
@@ -78,9 +85,9 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Mar 11-Mar 13 2025
+Solar Radiation Storm Forecast for Mar 12-Mar 14 2025
 
-              Mar 11  Mar 12  Mar 13
+              Mar 12  Mar 13  Mar 14
 S1 or greater    1%      1%      1%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -89,15 +96,16 @@ production is forecast.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-No radio blackouts were observed over the past 24 hours.
+Radio blackouts reaching the R1 levels were observed over the past 24
+hours. The largest was at Mar 11 2025 1304 UTC.
 
-Radio Blackout Forecast for Mar 11-Mar 13 2025
+Radio Blackout Forecast for Mar 12-Mar 14 2025
 
-              Mar 11        Mar 12        Mar 13
-R1-R2           30%           30%           30%
+              Mar 12        Mar 13        Mar 14
+R1-R2           35%           40%           40%
 R3 or greater    5%            5%            5%
 
-Rationale: A chance remains for R1-R2 (Minor-Moderate) radio blackouts
-through 13 Mar as Region 4019 continues develop.
+Rationale: A chance for isolated R1-R2 (Minor-Moderate) radio blackouts
+will persist through 14 Mar.
 
 ```
