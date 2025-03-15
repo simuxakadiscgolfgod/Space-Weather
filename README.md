@@ -1,11 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2025-03-14
-<br />**This image is owned by:**  El Cielo de Canarias
-<br />**Title of the image:**  Moon Pi and Mountain Shadow
-<br />**Description for the image:**  What phase of the Moon is 3.14 radians from the Sun? The Full Moon, of course. Even though the Moon might look full for several days, the Moon is truly at its full phase when it is Pi radians (aka 180 degrees) from the Sun in ecliptic longitude. That's opposite the Sun in planet Earth's sky. Rising as the Sun set on March 9, 2020, only an hour or so after the moment of its full phase, this orange tinted and slightly flattened Moon still looked full. It was photographed opposite the setting Sun from Teide National Park on the Canary Island of Tenerife. Also opposite the setting Sun, seen from near the Teide volcano peak about 3,500 meters above sea level, is the mountain's rising triangular shadow extending into Earth's dense atmosphere. Below the distant ridge line on the left are the white telescope domes of Teide Observatory. Today, March 14 2025, the moon is Pi radians from the Sun at exactly 06:55 UTC. That's about three minutes before the midpoint of the March Full Moon's total lunar eclipse.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2503/MoonriseShadowDLopez_1.jpg
+<br />**Date image released:**  2025-03-15
+<br />**This image is owned by:**  Petr Horálek
+<br />**Title of the image:**  Tololo Totality
+<br />**Description for the image:**  On March 14 the Moon was Full. In an appropriate celebration of Pi day, that put the Moon 3.14 radians (180 degrees) in ecliptic longitude from the Sun in planet Earth's sky. As a bonus for fans of Pi and the night sky, on that date the Moon also passed directly through Earth's umbral shadow in a total lunar eclipse. In clear skies, the colors of an eclipsed Moon can be vivid. Reflecting the deeply reddened sunlight scattered into Earth's shadow, the darkened lunar disk was recorded in this time series composite image from Cerro Tololo Observatory, Chile. The lunar triptych captures the start, middle, and end of the total eclipse phase that lasted about an hour. A faint bluish tint seen just along the brighter lunar limb at the shadow's edge is due to sunlight filtered through Earth's stratospheric ozone layer.   Growing Gallery: Total Lunar Eclipse of 2025 March
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2503/2025_03_14_ZM_Tololo_Totalita_Fin_1500py.png
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,40 +49,40 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 Mar 14 0030 UTC
+:Issued: 2025 Mar 15 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 5 (NOAA Scale
-G1).
-The greatest expected 3 hr Kp for Mar 14-Mar 16 2025 is 4.67 (NOAA Scale
-G1).
+The greatest observed 3 hr Kp over the past 24 hours was 6 (NOAA Scale
+G2).
+The greatest expected 3 hr Kp for Mar 15-Mar 17 2025 is 4.00 (below NOAA
+Scale levels).
 
-NOAA Kp index breakdown Mar 14-Mar 16 2025
+NOAA Kp index breakdown Mar 15-Mar 17 2025
 
-             Mar 14       Mar 15       Mar 16
-00-03UT       4.67 (G1)    4.00         3.33     
-03-06UT       4.00         4.00         3.33     
-06-09UT       4.00         3.33         2.00     
-09-12UT       4.33         3.67         2.00     
-12-15UT       4.00         3.67         3.00     
-15-18UT       4.33         3.33         3.33     
-18-21UT       4.33         4.00         3.00     
-21-00UT       4.00         4.00         3.33     
+             Mar 15       Mar 16       Mar 17
+00-03UT       3.67         4.00         3.67     
+03-06UT       3.33         3.33         3.00     
+06-09UT       3.33         2.67         2.67     
+09-12UT       3.33         2.33         2.00     
+12-15UT       3.33         2.33         2.00     
+15-18UT       3.33         2.67         2.33     
+18-21UT       3.67         3.00         2.67     
+21-00UT       3.67         3.33         3.00     
 
-Rationale: G1 (Minor) storming is expected on 14 Mar due to CH HSS
-activity.
+Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
+significant transient or recurrent solar wind features are forecast.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Mar 14-Mar 16 2025
+Solar Radiation Storm Forecast for Mar 15-Mar 17 2025
 
-              Mar 14  Mar 15  Mar 16
-S1 or greater    1%      1%      1%
+              Mar 15  Mar 16  Mar 17
+S1 or greater    5%      5%      5%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
 No significant active region activity favorable for radiation storm
@@ -90,15 +90,16 @@ production is forecast.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-No radio blackouts were observed over the past 24 hours.
+Radio blackouts reaching the R1 levels were observed over the past 24
+hours. The largest was at Mar 14 2025 2221 UTC.
 
-Radio Blackout Forecast for Mar 14-Mar 16 2025
+Radio Blackout Forecast for Mar 15-Mar 17 2025
 
-              Mar 14        Mar 15        Mar 16
+              Mar 15        Mar 16        Mar 17
 R1-R2           45%           45%           45%
-R3 or greater    5%            5%            5%
+R3 or greater   10%           10%           10%
 
-Rationale: There is a chance for M-Class (R1-R2 Minor-Moderate)
-flaring 14-16 Mar.
+Rationale: There is an increased chance for M-class flaring (R1-R2,
+Minor-Moderate) on 15-17 Mar.
 
 ```
