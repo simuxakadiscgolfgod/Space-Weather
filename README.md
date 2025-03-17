@@ -1,10 +1,14 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2025-03-16
-<br />**Title of the image:**  Venus and the Triply Ultraviolet Sun
-<br />**Description for the image:**  This was a very unusual type of solar eclipse.  Typically, it is the Earth's Moon that eclipses the Sun.  In 2012, though, the planet Venus took a turn.  Like a solar eclipse by the Moon, the phase of Venus became a continually thinner crescent as Venus became increasingly better aligned with the Sun.  Eventually the alignment became perfect and the phase of Venus dropped to zero.  The dark spot of Venus crossed our parent star.  The situation could technically be labeled a Venusian annular eclipse with an extraordinarily large ring of fire.  Pictured here during the occultation, the Sun was imaged in three colors of ultraviolet light by the Earth-orbiting Solar Dynamics Observatory, with the dark region toward the right corresponding to a coronal hole. Hours later, as Venus continued in its orbit, a slight crescent phase appeared again.  The next Venusian transit across the Sun will occur in 2117.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2503/SunVenusUv3_SdoDove_960.jpg
+<br />**Date image released:**  2025-03-17
+<br />**This image is owned by:**  
+Brian Hopkins 
+(East Coast Astronomer)
+
+<br />**Title of the image:**  Thor's Helmet
+<br />**Description for the image:**  Thor not only has his own day (Thursday), but a helmet in the heavens.  Popularly called Thor's Helmet, NGC 2359 is a hat-shaped cosmic cloud with wing-like appendages. Heroically sized even for a Norse god, Thor's Helmet is about 30 light-years across. In fact, the cosmic head-covering is more like an interstellar bubble, blown by a fast wind from the bright, massive star near the bubble's center. Known as a Wolf-Rayet star, the central star is an extremely hot giant thought to be in a brief, pre-supernova stage of evolution. NGC 2359 is located about 15,000 light-years away toward the constellation of the Great Overdog. This sharp image is a mixed cocktail of data from  narrowband filters, capturing not only natural looking stars but details of the nebula's filamentary structures. The star in the center of Thor's Helmet is expected to explode in a spectacular supernova sometime within the next few thousand years.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2503/ThorHelmet_Hopkins_3888.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -48,27 +52,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 Mar 16 0030 UTC
+:Issued: 2025 Mar 17 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Mar 16-Mar 18 2025 is 3.67 (below NOAA
+The greatest expected 3 hr Kp for Mar 17-Mar 19 2025 is 3.67 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Mar 16-Mar 18 2025
+NOAA Kp index breakdown Mar 17-Mar 19 2025
 
-             Mar 16       Mar 17       Mar 18
-00-03UT       1.67         3.67         3.67     
-03-06UT       2.33         3.00         3.33     
-06-09UT       3.00         2.67         3.00     
-09-12UT       3.00         2.00         2.00     
-12-15UT       3.33         2.00         2.00     
-15-18UT       3.33         2.33         3.00     
-18-21UT       3.33         2.67         3.33     
-21-00UT       3.67         3.00         3.33     
+             Mar 17       Mar 18       Mar 19
+00-03UT       3.67         3.67         3.00     
+03-06UT       3.00         3.33         2.67     
+06-09UT       2.67         3.00         2.33     
+09-12UT       2.00         2.00         2.33     
+12-15UT       2.00         2.00         2.33     
+15-18UT       2.33         3.00         2.00     
+18-21UT       2.67         3.33         2.33     
+21-00UT       3.00         3.33         2.67     
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
 significant transient or recurrent solar wind features are forecast.
@@ -78,9 +82,9 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Mar 16-Mar 18 2025
+Solar Radiation Storm Forecast for Mar 17-Mar 19 2025
 
-              Mar 16  Mar 17  Mar 18
+              Mar 17  Mar 18  Mar 19
 S1 or greater    5%      5%      5%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -91,13 +95,14 @@ C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Mar 16-Mar 18 2025
+Radio Blackout Forecast for Mar 17-Mar 19 2025
 
-              Mar 16        Mar 17        Mar 18
-R1-R2           45%           45%           45%
+              Mar 17        Mar 18        Mar 19
+R1-R2           40%           40%           40%
 R3 or greater   10%           10%           10%
 
-Rationale: There is a chance for M-class flaring (R1-R2, Minor-Moderate)
-and a slight chance for X-class flares through 17 Mar.
+Rationale: Solar activity is expected to be low with a chance for
+M-class flaring (R1-R2, Minor-Moderate) and a slight chance for X-class
+flares (R3, strong) through 19 Mar.
 
 ```
