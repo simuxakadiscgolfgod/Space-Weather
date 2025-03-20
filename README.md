@@ -1,10 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2025-03-19
-<br />**Title of the image:**  Blue Ghost's Diamond Ring
-<br />**Description for the image:**  On March 14 the Full Moon slid through Earth's dark umbral shadow and denizens of planet Earth were treated to a total lunar eclipse. Of course, from the Moon's near side that same astronomical syzygy was seen as a solar eclipse. Operating in the Mare Crisium on the lunar surface, the Blue Ghost lander captured this video frame of Earth in silhouette around 3:30am CDT, just as the Sun was emerging from behind the terrestrial disk. From Blue Ghost's lunar perspective the beautiful diamond ring effect, familiar to earthbound solar eclipse watchers, is striking. Since Earth appears about four times the apparent size of the Sun from the lunar surface the inner solar corona, the atmosphere of the Sun most easily seen from Earth during a total solar eclipse, is hidden from view. Still, scattering in Earth's dense atmosphere creates the glowing band of sunlight embracing our fair planet.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2503/eclipse-shot-from-blue-ghost-mission-1.jpg
+<br />**Date image released:**  2025-03-20
+<br />**This image is owned by:**  Hunter Wells
+<br />**Title of the image:**  The Solar Eclipse Analemma Project
+<br />**Description for the image:**  Recorded from 2024 March 10, to 2025 March 1, this composited series of images reveals a pattern in the seasonal drift of the Sun's daily motion through planet Earth's sky. Known to some as an analemma, the figure-eight curve was captured in exposures taken on the indicated dates only at 18:38 UTC from the exact same location south of Stephenville, Texas. The Sun's position on the 2024 solstice dates of June 20 and December 21 would be at the top and bottom of the curve and correspond to the astronomical beginning of summer and winter in the north. Points that lie along the curve half-way between the solstices would mark the equinoxes. The 2024 equinox on September 22, and in 2025 the equinox on March 20 (today) are the start of northern fall and spring. And since one of the exposures was made on 2024 April 8 from the Stephenville location at 18:38:40 UTC, this analemma project also reveals the solar corona in planet Earth's sky during a total solar eclipse.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2503/HunterWells_submission3-3.png
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -48,39 +49,39 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 Mar 19 0030 UTC
+:Issued: 2025 Mar 20 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
-Scale levels).
-The greatest expected 3 hr Kp for Mar 19-Mar 21 2025 is 4.00 (below NOAA
-Scale levels).
+The greatest observed 3 hr Kp over the past 24 hours was 5 (NOAA Scale
+G1).
+The greatest expected 3 hr Kp for Mar 20-Mar 22 2025 is 4.67 (NOAA Scale
+G1).
 
-NOAA Kp index breakdown Mar 19-Mar 21 2025
+NOAA Kp index breakdown Mar 20-Mar 22 2025
 
-             Mar 19       Mar 20       Mar 21
-00-03UT       3.67         3.00         4.00     
-03-06UT       3.67         2.67         3.00     
-06-09UT       2.33         2.33         2.67     
-09-12UT       1.67         2.00         2.33     
-12-15UT       2.00         2.00         2.00     
-15-18UT       2.33         2.33         2.00     
-18-21UT       2.67         3.33         2.33     
-21-00UT       2.67         3.67         2.67     
+             Mar 20       Mar 21       Mar 22
+00-03UT       4.67 (G1)    3.00         2.00     
+03-06UT       3.67         2.67         2.00     
+06-09UT       3.00         2.00         2.33     
+09-12UT       2.00         1.67         2.67     
+12-15UT       3.00         1.67         2.00     
+15-18UT       3.00         1.67         2.67     
+18-21UT       3.67         2.00         3.33     
+21-00UT       4.00         2.00         3.67     
 
-Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
-significant transient or recurrent solar wind features are forecast.
+Rationale: G1 (Minor) geomagnetic storms are expected early on 20 Mar
+due to ongoing enhancements in the solar wind.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Mar 19-Mar 21 2025
+Solar Radiation Storm Forecast for Mar 20-Mar 22 2025
 
-              Mar 19  Mar 20  Mar 21
+              Mar 20  Mar 21  Mar 22
 S1 or greater    5%      5%      5%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -89,16 +90,16 @@ production is forecast.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-No radio blackouts were observed over the past 24 hours.
+Radio blackouts reaching the R1 levels were observed over the past 24
+hours. The largest was at Mar 19 2025 2040 UTC.
 
-Radio Blackout Forecast for Mar 19-Mar 21 2025
+Radio Blackout Forecast for Mar 20-Mar 22 2025
 
-              Mar 19        Mar 20        Mar 21
-R1-R2           50%           50%           50%
-R3 or greater   10%           10%           10%
+              Mar 20        Mar 21        Mar 22
+R1-R2           30%           30%           30%
+R3 or greater    5%            5%            5%
 
-Rationale: A high chance for M-class flares (R1-R2, Minor-Moderate), and
-a slight chance for an isolated X-class flare (R3, Strong), will persist
-through 21 Mar.
+Rationale: There is a chance for R1-R2 (Minor) radio blackouts over
+20-22 Mar.
 
 ```
