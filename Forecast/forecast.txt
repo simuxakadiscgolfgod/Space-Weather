@@ -1,38 +1,37 @@
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 Mar 20 0030 UTC
+:Issued: 2025 Mar 21 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 5 (NOAA Scale
-G1).
-The greatest expected 3 hr Kp for Mar 20-Mar 22 2025 is 4.67 (NOAA Scale
-G1).
+The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
+Scale levels).
+The greatest expected 3 hr Kp for Mar 21-Mar 23 2025 is 3.67 (below NOAA
+Scale levels).
 
-NOAA Kp index breakdown Mar 20-Mar 22 2025
+NOAA Kp index breakdown Mar 21-Mar 23 2025
 
-             Mar 20       Mar 21       Mar 22
-00-03UT       4.67 (G1)    3.00         2.00     
-03-06UT       3.67         2.67         2.00     
-06-09UT       3.00         2.00         2.33     
-09-12UT       2.00         1.67         2.67     
-12-15UT       3.00         1.67         2.00     
-15-18UT       3.00         1.67         2.67     
-18-21UT       3.67         2.00         3.33     
-21-00UT       4.00         2.00         3.67     
+             Mar 21       Mar 22       Mar 23
+00-03UT       1.67         2.00         3.67     
+03-06UT       1.33         2.00         3.33     
+06-09UT       1.33         2.33         2.67     
+09-12UT       1.33         2.67         2.67     
+12-15UT       1.33         2.00         2.00     
+15-18UT       1.33         2.67         2.00     
+18-21UT       1.67         3.33         2.33     
+21-00UT       1.67         3.67         2.67     
 
-Rationale: G1 (Minor) geomagnetic storms are expected early on 20 Mar
-due to ongoing enhancements in the solar wind.
+Rationale: No G1 (Minor) or greater geomagnetic storms are expected. 
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Mar 20-Mar 22 2025
+Solar Radiation Storm Forecast for Mar 21-Mar 23 2025
 
-              Mar 20  Mar 21  Mar 22
+              Mar 21  Mar 22  Mar 23
 S1 or greater    5%      5%      5%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -41,16 +40,15 @@ production is forecast.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-Radio blackouts reaching the R1 levels were observed over the past 24
-hours. The largest was at Mar 19 2025 2040 UTC.
+No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Mar 20-Mar 22 2025
+Radio Blackout Forecast for Mar 21-Mar 23 2025
 
-              Mar 20        Mar 21        Mar 22
+              Mar 21        Mar 22        Mar 23
 R1-R2           30%           30%           30%
 R3 or greater    5%            5%            5%
 
-Rationale: There is a chance for R1-R2 (Minor) radio blackouts over
-20-22 Mar.
+Rationale: There exists a chance for R1-R2 (Minor-Moderate) radio
+blackouts over 21-23 Mar.
 
 ```
