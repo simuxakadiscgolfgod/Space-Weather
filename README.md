@@ -1,11 +1,10 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2025-03-21
-<br />**This image is owned by:**  Rabeea Alkuwari
-<br />**Title of the image:**  The Leo Trio
-<br />**Description for the image:**  This popular group leaps into the early evening sky around the March equinox and the northern hemisphere spring.  Famous as the Leo Triplet, the three magnificent galaxies found in the prominent constellation Leo gather here in one astronomical field of view. Crowd pleasers when imaged with even modest telescopes, they can be introduced individually as NGC 3628 (bottom left), M66 (middle right), and M65 (top center). All three are large spiral galaxies but tend to look dissimilar, because their galactic disks are tilted at different angles to our line of sight. NGC 3628, also known as the Hamburger Galaxy, is temptingly seen edge-on, with obscuring dust lanes cutting across its puffy galactic plane. The disks of M66 and M65 are both inclined enough to show off their spiral structure.  Gravitational interactions between galaxies in the group have left telltale signs, including the tidal tails and warped, inflated disk of NGC 3628 and the drawn out spiral arms of M66. This gorgeous view of the region spans over 1 degree (two full moons) on the sky. Captured with a telescope from Sawda Natheel, Qatar, planet Earth, the frame covers over half a million light-years at the Leo Trio's estimated 30 million light-year distance.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2503/image_1236LeoTrio.JPG
+<br />**Date image released:**  2025-03-22
+<br />**Title of the image:**  SuperCam Target on Ma'az
+<br />**Description for the image:**  What's the sound of one laser zapping? There's no need to consult a Zen master to find out, just listen to the first acoustic recording of laser shots on Mars. On Mars Rover Perseverance mission sol 12 (March 2, 2021) the SuperCam instrument atop the rover's mast zapped a rock dubbed Ma'az 30 times from a range of about 3.1 meters. Its microphone recorded the soft staccato popping sounds of the rapid series of SuperCam laser zaps. Shockwaves created in the thin Martian atmosphere as bits of rock are vaporized by the laser shots make the popping sounds, sounds that offer clues to the physical structure of the target. This SuperCam close-up of the Ma'az target region is 6 centimeters (2.3 inches) across. Ma'az means Mars in the Navajo language.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2503/pia24493-2-1041.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,38 +48,40 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 Mar 21 0030 UTC
+:Issued: 2025 Mar 22 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
-Scale levels).
-The greatest expected 3 hr Kp for Mar 21-Mar 23 2025 is 3.67 (below NOAA
-Scale levels).
+The greatest observed 3 hr Kp over the past 24 hours was 5 (NOAA Scale
+G1).
+The greatest expected 3 hr Kp for Mar 22-Mar 24 2025 is 5.33 (NOAA Scale
+G1).
 
-NOAA Kp index breakdown Mar 21-Mar 23 2025
+NOAA Kp index breakdown Mar 22-Mar 24 2025
 
-             Mar 21       Mar 22       Mar 23
-00-03UT       1.67         2.00         3.67     
-03-06UT       1.33         2.00         3.33     
-06-09UT       1.33         2.33         2.67     
-09-12UT       1.33         2.67         2.67     
-12-15UT       1.33         2.00         2.00     
-15-18UT       1.33         2.67         2.00     
-18-21UT       1.67         3.33         2.33     
-21-00UT       1.67         3.67         2.67     
+             Mar 22       Mar 23       Mar 24
+00-03UT       5.33 (G1)    3.67         2.67     
+03-06UT       5.33 (G1)    3.33         2.00     
+06-09UT       4.00         2.67         2.00     
+09-12UT       2.67         2.67         1.67     
+12-15UT       2.67         2.00         2.00     
+15-18UT       2.33         2.00         2.00     
+18-21UT       2.00         2.33         2.67     
+21-00UT       2.33         2.67         2.33     
 
-Rationale: No G1 (Minor) or greater geomagnetic storms are expected. 
+Rationale: G1 (Minor) or greater geomagnetic storms are expected early
+on 22 Mar due to lingering CME effects. No significant transient or
+recurrent solar wind features are forecast on 23-24 March.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Mar 21-Mar 23 2025
+Solar Radiation Storm Forecast for Mar 22-Mar 24 2025
 
-              Mar 21  Mar 22  Mar 23
+              Mar 22  Mar 23  Mar 24
 S1 or greater    5%      5%      5%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -89,15 +90,16 @@ production is forecast.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-No radio blackouts were observed over the past 24 hours.
+Radio blackouts reaching the R1 levels were observed over the past 24
+hours. The largest was at Mar 21 2025 1558 UTC.
 
-Radio Blackout Forecast for Mar 21-Mar 23 2025
+Radio Blackout Forecast for Mar 22-Mar 24 2025
 
-              Mar 21        Mar 22        Mar 23
-R1-R2           30%           30%           30%
+              Mar 22        Mar 23        Mar 24
+R1-R2           25%           25%           25%
 R3 or greater    5%            5%            5%
 
-Rationale: There exists a chance for R1-R2 (Minor-Moderate) radio
-blackouts over 21-23 Mar.
+Rationale: A chance for R1-R2 (Minor-Moderate) radio blackouts due to
+M-class flares will persist through 24 Mar.
 
 ```
