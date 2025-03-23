@@ -1,10 +1,10 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2025-03-22
-<br />**Title of the image:**  SuperCam Target on Ma'az
-<br />**Description for the image:**  What's the sound of one laser zapping? There's no need to consult a Zen master to find out, just listen to the first acoustic recording of laser shots on Mars. On Mars Rover Perseverance mission sol 12 (March 2, 2021) the SuperCam instrument atop the rover's mast zapped a rock dubbed Ma'az 30 times from a range of about 3.1 meters. Its microphone recorded the soft staccato popping sounds of the rapid series of SuperCam laser zaps. Shockwaves created in the thin Martian atmosphere as bits of rock are vaporized by the laser shots make the popping sounds, sounds that offer clues to the physical structure of the target. This SuperCam close-up of the Ma'az target region is 6 centimeters (2.3 inches) across. Ma'az means Mars in the Navajo language.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2503/pia24493-2-1041.jpg
+<br />**Date image released:**  2025-03-23
+<br />**Title of the image:**  Ancient Ogunquit Beach on Mars
+<br />**Description for the image:**  This was once a beach -- on ancient Mars. The featured 360-degree panorama, horizontally compressed, was taken in 2017 by the robotic Curiosity rover that explored the red planet. Named Ogunquit Beach after its terrestrial counterpart, evidence shows that at times long ago the area was underwater, while at other times it was at the edge of an ancient lake.  The light peak in the central background is the top of Mount Sharp, the central feature in Gale Crater where Curiosity explored. Portions of the dark sands in the foreground were  scooped up for analysis.  The light colored bedrock is composed of sediment that likely settled at the bottom of the now-dried lakebed.  The featured panorama (interactive version here) was created from over 100 images and seemingly signed by the rover on the lower left.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2503/OgunquitBeach_Curiosity_8776.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -48,40 +48,41 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 Mar 22 0030 UTC
+:Issued: 2025 Mar 23 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 5 (NOAA Scale
-G1).
-The greatest expected 3 hr Kp for Mar 22-Mar 24 2025 is 5.33 (NOAA Scale
-G1).
+The greatest observed 3 hr Kp over the past 24 hours was 6 (NOAA Scale
+G2).
+The greatest expected 3 hr Kp for Mar 23-Mar 25 2025 is 7.00 (NOAA Scale
+G3).
 
-NOAA Kp index breakdown Mar 22-Mar 24 2025
+NOAA Kp index breakdown Mar 23-Mar 25 2025
 
-             Mar 22       Mar 23       Mar 24
-00-03UT       5.33 (G1)    3.67         2.67     
-03-06UT       5.33 (G1)    3.33         2.00     
-06-09UT       4.00         2.67         2.00     
-09-12UT       2.67         2.67         1.67     
-12-15UT       2.67         2.00         2.00     
-15-18UT       2.33         2.00         2.00     
-18-21UT       2.00         2.33         2.67     
-21-00UT       2.33         2.67         2.33     
+             Mar 23       Mar 24       Mar 25
+00-03UT       6.00 (G2)    4.67 (G1)    3.00     
+03-06UT       7.00 (G3)    4.33         2.67     
+06-09UT       6.00 (G2)    3.67         2.67     
+09-12UT       5.00 (G1)    3.00         3.00     
+12-15UT       4.33         2.33         3.67     
+15-18UT       4.67 (G1)    2.67         5.00 (G1)
+18-21UT       5.33 (G1)    2.67         5.00 (G1)
+21-00UT       5.33 (G1)    3.00         5.67 (G2)
 
-Rationale: G1 (Minor) or greater geomagnetic storms are expected early
-on 22 Mar due to lingering CME effects. No significant transient or
-recurrent solar wind features are forecast on 23-24 March.
+Rationale: G3 (Strong) geomagnetic storming is likely on 23 Mar due to
+CME arrival. G1 (Minor) geomagnetic storming is likely on 24 Mar as CME
+and CH HSS wane. G1 (Minor) to G2 (Moderate) geomagnetic storming is
+likely on 25 Mar under the influence of CH HSS.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Mar 22-Mar 24 2025
+Solar Radiation Storm Forecast for Mar 23-Mar 25 2025
 
-              Mar 22  Mar 23  Mar 24
+              Mar 23  Mar 24  Mar 25
 S1 or greater    5%      5%      5%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -90,16 +91,15 @@ production is forecast.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-Radio blackouts reaching the R1 levels were observed over the past 24
-hours. The largest was at Mar 21 2025 1558 UTC.
+No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Mar 22-Mar 24 2025
+Radio Blackout Forecast for Mar 23-Mar 25 2025
 
-              Mar 22        Mar 23        Mar 24
-R1-R2           25%           25%           25%
+              Mar 23        Mar 24        Mar 25
+R1-R2           30%           30%           30%
 R3 or greater    5%            5%            5%
 
-Rationale: A chance for R1-R2 (Minor-Moderate) radio blackouts due to
-M-class flares will persist through 24 Mar.
+Rationale: A chance for R1-R2 (Minor-Moderate) radio blackouts exists
+due to M-class flares through 25 Mar.
 
 ```
