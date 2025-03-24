@@ -1,10 +1,7 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2025-03-23
-<br />**Title of the image:**  Ancient Ogunquit Beach on Mars
-<br />**Description for the image:**  This was once a beach -- on ancient Mars. The featured 360-degree panorama, horizontally compressed, was taken in 2017 by the robotic Curiosity rover that explored the red planet. Named Ogunquit Beach after its terrestrial counterpart, evidence shows that at times long ago the area was underwater, while at other times it was at the edge of an ancient lake.  The light peak in the central background is the top of Mount Sharp, the central feature in Gale Crater where Curiosity explored. Portions of the dark sands in the foreground were  scooped up for analysis.  The light colored bedrock is composed of sediment that likely settled at the bottom of the now-dried lakebed.  The featured panorama (interactive version here) was created from over 100 images and seemingly signed by the rover on the lower left.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2503/OgunquitBeach_Curiosity_8776.jpg
+<br />**Sorry, Image not available!**
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -48,41 +45,42 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 Mar 23 0030 UTC
+:Issued: 2025 Mar 24 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 6 (NOAA Scale
+The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
+Scale levels).
+The greatest expected 3 hr Kp for Mar 24-Mar 26 2025 is 5.67 (NOAA Scale
 G2).
-The greatest expected 3 hr Kp for Mar 23-Mar 25 2025 is 7.00 (NOAA Scale
-G3).
 
-NOAA Kp index breakdown Mar 23-Mar 25 2025
+NOAA Kp index breakdown Mar 24-Mar 26 2025
 
-             Mar 23       Mar 24       Mar 25
-00-03UT       6.00 (G2)    4.67 (G1)    3.00     
-03-06UT       7.00 (G3)    4.33         2.67     
-06-09UT       6.00 (G2)    3.67         2.67     
-09-12UT       5.00 (G1)    3.00         3.00     
-12-15UT       4.33         2.33         3.67     
-15-18UT       4.67 (G1)    2.67         5.00 (G1)
-18-21UT       5.33 (G1)    2.67         5.00 (G1)
-21-00UT       5.33 (G1)    3.00         5.67 (G2)
+             Mar 24       Mar 25       Mar 26
+00-03UT       1.67         3.00         4.67 (G1)
+03-06UT       1.67         2.67         3.67     
+06-09UT       3.33         2.67         3.33     
+09-12UT       4.33         3.00         3.33     
+12-15UT       4.67 (G1)    3.67         2.67     
+15-18UT       4.00         5.00 (G1)    2.67     
+18-21UT       3.33         5.00 (G1)    3.33     
+21-00UT       2.67         5.67 (G2)    3.67     
 
-Rationale: G3 (Strong) geomagnetic storming is likely on 23 Mar due to
-CME arrival. G1 (Minor) geomagnetic storming is likely on 24 Mar as CME
-and CH HSS wane. G1 (Minor) to G2 (Moderate) geomagnetic storming is
-likely on 25 Mar under the influence of CH HSS.
+Rationale: G1 (Minor) geomagnetic storming is likely on 24 Mar as CME
+and CH HSS effects wane. G1-G2 (Minor-Moderate) geomagnetic storming is
+likely on 25 Mar due to positive polarity CH HSS effects. G1 (Minor)
+geomagnetic storming is likely on 26 Mar due to positive polarity CH HSS
+effects.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Mar 23-Mar 25 2025
+Solar Radiation Storm Forecast for Mar 24-Mar 26 2025
 
-              Mar 23  Mar 24  Mar 25
+              Mar 24  Mar 25  Mar 26
 S1 or greater    5%      5%      5%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -93,13 +91,13 @@ C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Mar 23-Mar 25 2025
+Radio Blackout Forecast for Mar 24-Mar 26 2025
 
-              Mar 23        Mar 24        Mar 25
+              Mar 24        Mar 25        Mar 26
 R1-R2           30%           30%           30%
 R3 or greater    5%            5%            5%
 
-Rationale: A chance for R1-R2 (Minor-Moderate) radio blackouts exists
-due to M-class flares through 25 Mar.
+Rationale: A chance for R1 (Minor) radio blackouts due to isolated
+M-class flare activity will persist through 26 Mar.
 
 ```
