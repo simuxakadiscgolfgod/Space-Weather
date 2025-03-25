@@ -2,6 +2,13 @@
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
 <br />**Sorry, Image not available!**
+<br />**Date image released:**  2025-03-25
+<br />**This image is owned by:**  
+Zixiong Jin
+
+<br />**Title of the image:**  A Blue Banded Blood Moon
+<br />**Description for the image:**  What causes a blue band to cross the Moon during a lunar eclipse? The blue band is real but usually quite hard to see. The featured HDR image of last week's lunar eclipse, however -- taken from Norman, Oklahoma (USA) -- has been digitally processed to exaggerate  the colors.  The gray color on the upper right of the top lunar image is the Moon's natural color, directly illuminated by sunlight. The lower parts of the Moon on all three images are not directly lit by the Sun since it is being eclipsed -- it is in the Earth's shadow. It is faintly lit, though, by sunlight that has passed deep through Earth's atmosphere. This part of the Moon is red -- and called a blood Moon -- for the same reason that Earth's sunsets are red: because air scatters away more blue light than red. The unusual purple-blue band visible on the upper right of the top and middle images is different -- its color is augmented by sunlight that has passed high through Earth's atmosphere, where red light is better absorbed by ozone than blue.   Celestial Surprise: What picture did APOD feature on your birthday? (post 1995)
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2503/LunarEclipseColors_Jin_2700.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -45,42 +52,39 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 Mar 24 0030 UTC
+:Issued: 2025 Mar 25 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Mar 24-Mar 26 2025 is 5.67 (NOAA Scale
+The greatest expected 3 hr Kp for Mar 25-Mar 27 2025 is 5.67 (NOAA Scale
 G2).
 
-NOAA Kp index breakdown Mar 24-Mar 26 2025
+NOAA Kp index breakdown Mar 25-Mar 27 2025
 
-             Mar 24       Mar 25       Mar 26
-00-03UT       1.67         3.00         4.67 (G1)
-03-06UT       1.67         2.67         3.67     
-06-09UT       3.33         2.67         3.33     
-09-12UT       4.33         3.00         3.33     
-12-15UT       4.67 (G1)    3.67         2.67     
-15-18UT       4.00         5.00 (G1)    2.67     
-18-21UT       3.33         5.00 (G1)    3.33     
-21-00UT       2.67         5.67 (G2)    3.67     
+             Mar 25       Mar 26       Mar 27
+00-03UT       3.00         4.67 (G1)    3.67     
+03-06UT       2.67         3.67         3.67     
+06-09UT       2.67         3.33         3.33     
+09-12UT       3.00         3.33         2.67     
+12-15UT       3.67         2.67         2.33     
+15-18UT       5.00 (G1)    2.67         2.33     
+18-21UT       5.00 (G1)    3.33         2.67     
+21-00UT       5.67 (G2)    3.67         3.33     
 
-Rationale: G1 (Minor) geomagnetic storming is likely on 24 Mar as CME
-and CH HSS effects wane. G1-G2 (Minor-Moderate) geomagnetic storming is
-likely on 25 Mar due to positive polarity CH HSS effects. G1 (Minor)
-geomagnetic storming is likely on 26 Mar due to positive polarity CH HSS
-effects.
+Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
+significant transient or recurrent solar wind features are forecast.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Mar 24-Mar 26 2025
+Solar Radiation Storm Forecast for Mar 25-Mar 27 2025
 
-              Mar 24  Mar 25  Mar 26
+              Mar 25  Mar 26  Mar 27
 S1 or greater    5%      5%      5%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -91,13 +95,13 @@ C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Mar 24-Mar 26 2025
+Radio Blackout Forecast for Mar 25-Mar 27 2025
 
-              Mar 24        Mar 25        Mar 26
+              Mar 25        Mar 26        Mar 27
 R1-R2           30%           30%           30%
 R3 or greater    5%            5%            5%
 
-Rationale: A chance for R1 (Minor) radio blackouts due to isolated
-M-class flare activity will persist through 26 Mar.
+Rationale: No R1 (Minor) or greater radio blackouts are expected.  No
+significant active region flare activity is forecast.
 
 ```
