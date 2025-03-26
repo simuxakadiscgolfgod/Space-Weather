@@ -1,14 +1,14 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Sorry, Image not available!**
-<br />**Date image released:**  2025-03-25
+<br />**Date image released:**  2025-03-26
 <br />**This image is owned by:**  
-Zixiong Jin
+Juan Montilla 
+(AAE)
 
-<br />**Title of the image:**  A Blue Banded Blood Moon
-<br />**Description for the image:**  What causes a blue band to cross the Moon during a lunar eclipse? The blue band is real but usually quite hard to see. The featured HDR image of last week's lunar eclipse, however -- taken from Norman, Oklahoma (USA) -- has been digitally processed to exaggerate  the colors.  The gray color on the upper right of the top lunar image is the Moon's natural color, directly illuminated by sunlight. The lower parts of the Moon on all three images are not directly lit by the Sun since it is being eclipsed -- it is in the Earth's shadow. It is faintly lit, though, by sunlight that has passed deep through Earth's atmosphere. This part of the Moon is red -- and called a blood Moon -- for the same reason that Earth's sunsets are red: because air scatters away more blue light than red. The unusual purple-blue band visible on the upper right of the top and middle images is different -- its color is augmented by sunlight that has passed high through Earth's atmosphere, where red light is better absorbed by ozone than blue.   Celestial Surprise: What picture did APOD feature on your birthday? (post 1995)
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2503/LunarEclipseColors_Jin_2700.jpg
+<br />**Title of the image:**  Star Formation in the Pacman Nebula
+<br />**Description for the image:**  You'd think the Pacman Nebula would be eating stars, but actually it is forming them. Within the nebula, a cluster's young, massive stars are powering the pervasive nebular glow. The eye-catching shapes looming in the featured portrait of NGC 281 are sculpted dusty columns and dense Bok globules seen in silhouette, eroded by intense, energetic winds and radiation from the hot cluster stars. If they survive long enough, the dusty structures could also be sites of future star formation. Playfully called the Pacman Nebula because of its overall shape, NGC 281 is about 10,000 light-years away in the constellation Cassiopeia. This sharp composite image was made through narrow-band filters in Spain in mid 2024. It combines emissions from the nebula's hydrogen and oxygen atoms to synthesize red, green, and blue colors. The scene spans well over 80 light-years at the estimated distance of NGC 281.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2503/Pacman_Montilla_1500.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -52,40 +52,41 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 Mar 25 0030 UTC
+:Issued: 2025 Mar 26 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Mar 25-Mar 27 2025 is 5.67 (NOAA Scale
+The greatest expected 3 hr Kp for Mar 26-Mar 28 2025 is 5.67 (NOAA Scale
 G2).
 
-NOAA Kp index breakdown Mar 25-Mar 27 2025
+NOAA Kp index breakdown Mar 26-Mar 28 2025
 
-             Mar 25       Mar 26       Mar 27
-00-03UT       3.00         4.67 (G1)    3.67     
-03-06UT       2.67         3.67         3.67     
-06-09UT       2.67         3.33         3.33     
-09-12UT       3.00         3.33         2.67     
-12-15UT       3.67         2.67         2.33     
-15-18UT       5.00 (G1)    2.67         2.33     
-18-21UT       5.00 (G1)    3.33         2.67     
-21-00UT       5.67 (G2)    3.67         3.33     
+             Mar 26       Mar 27       Mar 28
+00-03UT       5.67 (G2)    4.00         3.00     
+03-06UT       5.00 (G1)    5.00 (G1)    3.67     
+06-09UT       4.33         4.00         3.33     
+09-12UT       3.67         3.67         3.00     
+12-15UT       4.33         3.67         3.00     
+15-18UT       3.67         4.00         3.00     
+18-21UT       4.00         4.00         3.33     
+21-00UT       5.00 (G1)    3.67         3.67     
 
-Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
-significant transient or recurrent solar wind features are forecast.
+Rationale: G2 (Moderate) geomagnetic storming is likely on 26 Mar and G1
+(Minor) geomagnetic storming is likely on 27 Mar due to positive
+polarity CH HSS effects.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Mar 25-Mar 27 2025
+Solar Radiation Storm Forecast for Mar 26-Mar 28 2025
 
-              Mar 25  Mar 26  Mar 27
-S1 or greater    5%      5%      5%
+              Mar 26  Mar 27  Mar 28
+S1 or greater    5%      5%      1%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
 No significant active region activity favorable for radiation storm
@@ -95,13 +96,13 @@ C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Mar 25-Mar 27 2025
+Radio Blackout Forecast for Mar 26-Mar 28 2025
 
-              Mar 25        Mar 26        Mar 27
-R1-R2           30%           30%           30%
-R3 or greater    5%            5%            5%
+              Mar 26        Mar 27        Mar 28
+R1-R2           30%           25%           25%
+R3 or greater    5%            5%            1%
 
-Rationale: No R1 (Minor) or greater radio blackouts are expected.  No
-significant active region flare activity is forecast.
+Rationale: A chance for R1 (Minor) radio blackouts due to isolated
+M-class flares will persist through 28 Mar.
 
 ```
