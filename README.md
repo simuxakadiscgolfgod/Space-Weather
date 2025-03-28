@@ -1,11 +1,10 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2025-03-27
-<br />**This image is owned by:**  Lorand Fenyes
-<br />**Title of the image:**  Messier 81
-<br />**Description for the image:**  One of the brightest galaxies in planet Earth's sky is similar in size to our Milky Way Galaxy: big, beautiful Messier 81. Also known as NGC 3031 or Bode's galaxy for its 18th century discoverer, this grand spiral can be found toward the northern constellation of Ursa Major, the Great Bear. The sharp, detailed telescopic view reveals M81's bright yellow nucleus, blue spiral arms, pinkish starforming regions, and sweeping cosmic dust lanes. But some dust lanes actually run through the galactic disk (left of center), contrary to other prominent spiral features. The errant dust lanes may be the lingering result of a close encounter between M81 and the nearby galaxy M82 lurking outside of this frame. Scrutiny of variable stars in M81 has yielded a well-determined distance for an external galaxy -- 11.8 million light-years.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2503/291_lorand_fenyes_m81_kicsi.jpg
+<br />**Date image released:**  2025-03-28
+<br />**Title of the image:**  Lunar Dust and Duct Tape
+<br />**Description for the image:**  Why is the Moon so dusty? On Earth, rocks are weathered by wind and water, creating soil and sand. On the Moon, eons of constant micrometeorite bombardment have blasted away at the rocky surface creating a layer of powdery lunar soil or regolith.  For the Apollo astronauts and their equipment, the pervasive, fine, gritty dust was definitely a problem. On the lunar surface in December 1972, Apollo 17 astronauts Harrison Schmitt and Eugene Cernan needed to repair one of their rover's fenders in an effort to keep the rooster tails of dust away from themselves and their gear. This picture reveals the wheel and fender of their dust covered rover along with the ingenious application of spare maps, clamps, and a grey strip of "duct tape".   Northern Hemisphere Alert : March 29 Partial Solar Eclipse
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2503/AS17-137-20979.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,40 +48,40 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 Mar 27 0030 UTC
+:Issued: 2025 Mar 28 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 6 (NOAA Scale
-G2).
-The greatest expected 3 hr Kp for Mar 27-Mar 29 2025 is 5.67 (NOAA Scale
-G2).
+The greatest observed 3 hr Kp over the past 24 hours was 5 (NOAA Scale
+G1).
+The greatest expected 3 hr Kp for Mar 28-Mar 30 2025 is 4.00 (below NOAA
+Scale levels).
 
-NOAA Kp index breakdown Mar 27-Mar 29 2025
+NOAA Kp index breakdown Mar 28-Mar 30 2025
 
-             Mar 27       Mar 28       Mar 29
-00-03UT       5.67 (G2)    3.67         3.33     
-03-06UT       5.33 (G1)    4.00         2.00     
-06-09UT       4.33         4.00         2.00     
-09-12UT       4.33         3.67         3.00     
-12-15UT       4.00         3.67         3.00     
-15-18UT       4.00         3.67         3.33     
-18-21UT       3.67         4.00         3.33     
-21-00UT       4.00         4.00         3.33     
+             Mar 28       Mar 29       Mar 30
+00-03UT       3.67         3.33         3.00     
+03-06UT       4.00         2.00         2.67     
+06-09UT       4.67         2.00         2.00     
+09-12UT       3.67         3.00         2.00     
+12-15UT       3.67         3.00         2.00     
+15-18UT       3.67         3.33         1.33     
+18-21UT       4.00         3.33         1.33     
+21-00UT       4.00         3.33         2.33     
 
-Rationale: The geomagnetic field should continue to see periods of G1-G2
-(Minor-Moderate) storming levels into 27 Mar due to the CH HSS.
+Rationale: The geomagnetic field is expected to observe periods of G1
+(Minor) geomagnetic storm levels on 28 Mar due to CH HSS influence.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Mar 27-Mar 29 2025
+Solar Radiation Storm Forecast for Mar 28-Mar 30 2025
 
-              Mar 27  Mar 28  Mar 29
-S1 or greater    5%      1%      1%
+              Mar 28  Mar 29  Mar 30
+S1 or greater    1%      1%      1%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
 No significant active region activity favorable for radiation storm
@@ -91,17 +90,15 @@ production is forecast.
 C. NOAA Radio Blackout Activity and Forecast
 
 Radio blackouts reaching the R1 levels were observed over the past 24
-hours. The largest was at Mar 26 2025 0809 UTC.
+hours. The largest was at Mar 27 2025 0037 UTC.
 
-Radio Blackout Forecast for Mar 27-Mar 29 2025
+Radio Blackout Forecast for Mar 28-Mar 30 2025
 
-              Mar 27        Mar 28        Mar 29
-R1-R2           30%           25%           25%
-R3 or greater    5%            1%            1%
+              Mar 28        Mar 29        Mar 30
+R1-R2           25%           25%           25%
+R3 or greater    1%            1%            1%
 
-Rationale: There is a chance for isolated R1-R2 (Minor-Moderate) radio
-blackout activity through 27 Mar, with chances decreasing as Region 4036
-continues to move beyond the western limb. Chances for R3 (Strong)
-events remain very low through 29 Mar.
+Rationale: There exists a chance for R1-R2 (Minor-Moderate) radio
+blackouts over 28-30 Mar.
 
 ```
