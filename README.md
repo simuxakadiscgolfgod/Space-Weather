@@ -1,10 +1,10 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2025-03-28
-<br />**Title of the image:**  Lunar Dust and Duct Tape
-<br />**Description for the image:**  Why is the Moon so dusty? On Earth, rocks are weathered by wind and water, creating soil and sand. On the Moon, eons of constant micrometeorite bombardment have blasted away at the rocky surface creating a layer of powdery lunar soil or regolith.  For the Apollo astronauts and their equipment, the pervasive, fine, gritty dust was definitely a problem. On the lunar surface in December 1972, Apollo 17 astronauts Harrison Schmitt and Eugene Cernan needed to repair one of their rover's fenders in an effort to keep the rooster tails of dust away from themselves and their gear. This picture reveals the wheel and fender of their dust covered rover along with the ingenious application of spare maps, clamps, and a grey strip of "duct tape".   Northern Hemisphere Alert : March 29 Partial Solar Eclipse
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2503/AS17-137-20979.jpg
+<br />**Date image released:**  2025-03-29
+<br />**Title of the image:**  Stereo Helene
+<br />**Description for the image:**  Get out your red/blue glasses and float next to Helene, small, icy moon of Saturn. Appropriately named, Helene is a Trojan moon, so called because it orbits at a Lagrange point. A Lagrange point is a gravitationally stable position near two massive bodies, in this case Saturn and larger moon Dione. In fact, irregularly shaped ( about 36 by 32 by 30 kilometers) Helene orbits at Dione's leading Lagrange point while brotherly ice moon Polydeuces follows at Dione's trailing Lagrange point. The sharp stereo anaglyph was constructed from two Cassini images captured during a close flyby in 2011. It shows part of the Saturn-facing hemisphere of Helene mottled with craters and gully-like features.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2503/N00172886_92_beltramini.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -48,40 +48,39 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 Mar 28 0030 UTC
+:Issued: 2025 Mar 29 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 5 (NOAA Scale
-G1).
-The greatest expected 3 hr Kp for Mar 28-Mar 30 2025 is 4.00 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
+Scale levels).
+The greatest expected 3 hr Kp for Mar 29-Mar 31 2025 is 3.67 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Mar 28-Mar 30 2025
+NOAA Kp index breakdown Mar 29-Mar 31 2025
 
-             Mar 28       Mar 29       Mar 30
-00-03UT       3.67         3.33         3.00     
-03-06UT       4.00         2.00         2.67     
-06-09UT       4.67         2.00         2.00     
-09-12UT       3.67         3.00         2.00     
-12-15UT       3.67         3.00         2.00     
-15-18UT       3.67         3.33         1.33     
-18-21UT       4.00         3.33         1.33     
-21-00UT       4.00         3.33         2.33     
+             Mar 29       Mar 30       Mar 31
+00-03UT       3.33         3.00         1.67     
+03-06UT       2.00         2.67         1.33     
+06-09UT       2.00         2.00         1.33     
+09-12UT       3.67         2.00         1.33     
+12-15UT       3.00         2.00         1.33     
+15-18UT       3.33         1.33         1.33     
+18-21UT       3.33         1.33         1.67     
+21-00UT       3.33         2.33         1.67     
 
-Rationale: The geomagnetic field is expected to observe periods of G1
-(Minor) geomagnetic storm levels on 28 Mar due to CH HSS influence.
+Rationale: No G1 (Minor) or greater geomagnetic storms are expected. 
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Mar 28-Mar 30 2025
+Solar Radiation Storm Forecast for Mar 29-Mar 31 2025
 
-              Mar 28  Mar 29  Mar 30
-S1 or greater    1%      1%      1%
+              Mar 29  Mar 30  Mar 31
+S1 or greater    5%      5%      5%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
 No significant active region activity favorable for radiation storm
@@ -89,16 +88,18 @@ production is forecast.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-Radio blackouts reaching the R1 levels were observed over the past 24
-hours. The largest was at Mar 27 2025 0037 UTC.
+Radio blackouts reaching the R3 levels were observed over the past 24
+hours. The largest was at Mar 28 2025 1520 UTC.
 
-Radio Blackout Forecast for Mar 28-Mar 30 2025
+Radio Blackout Forecast for Mar 29-Mar 31 2025
 
-              Mar 28        Mar 29        Mar 30
-R1-R2           25%           25%           25%
-R3 or greater    1%            1%            1%
+              Mar 29        Mar 30        Mar 31
+R1-R2           50%           50%           50%
+R3 or greater   20%           20%           20%
 
-Rationale: There exists a chance for R1-R2 (Minor-Moderate) radio
-blackouts over 28-30 Mar.
+Rationale: A chance for isolated R1-R2 (Minor-Moderate), and slight
+chance for R3 (Strong), radio blackouts will persist through 31 Mar
+primarily due to the potential exhibited by multiple regions near the E.
+limb.
 
 ```
