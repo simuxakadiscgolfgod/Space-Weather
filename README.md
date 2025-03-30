@@ -1,10 +1,13 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2025-03-29
-<br />**Title of the image:**  Stereo Helene
-<br />**Description for the image:**  Get out your red/blue glasses and float next to Helene, small, icy moon of Saturn. Appropriately named, Helene is a Trojan moon, so called because it orbits at a Lagrange point. A Lagrange point is a gravitationally stable position near two massive bodies, in this case Saturn and larger moon Dione. In fact, irregularly shaped ( about 36 by 32 by 30 kilometers) Helene orbits at Dione's leading Lagrange point while brotherly ice moon Polydeuces follows at Dione's trailing Lagrange point. The sharp stereo anaglyph was constructed from two Cassini images captured during a close flyby in 2011. It shows part of the Saturn-facing hemisphere of Helene mottled with craters and gully-like features.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2503/N00172886_92_beltramini.jpg
+<br />**Date image released:**  2025-03-30
+<br />**This image is owned by:**  
+Wioleta Gorecka
+
+<br />**Title of the image:**  A Partial Solar Eclipse over Iceland
+<br />**Description for the image:**  What if the Sun and Moon rose together? That happened yesterday over some northern parts of planet Earth as a partial solar eclipse occurred shortly after sunrise. Regions that experienced the Moon blocking part of the Sun included northeastern parts of North America and northwestern parts of Europe, Asia, and Africa.  The featured image was captured yesterday over the Grábrók volcanic crater in Iceland where much of the Sun became momentarily hidden behind the Moon. The image was taken through a cloudy sky but so well planned that the photographer's friend appeared to be pulling the Sun out from behind the Moon. No part of the Earth experienced a total solar eclipse this time. In the distant past, some of humanity was so surprised when an eclipse occurred that ongoing battles suddenly stopped.  Today, eclipses are not a surprise and are predicted with an accuracy of seconds.   Growing Gallery: Partial Solar Eclipse of 2025 March
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2504/PartialSolar_Gorecka_3453.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -48,27 +51,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 Mar 29 0030 UTC
+:Issued: 2025 Mar 30 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Mar 29-Mar 31 2025 is 3.67 (below NOAA
+The greatest expected 3 hr Kp for Mar 30-Apr 01 2025 is 4.33 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Mar 29-Mar 31 2025
+NOAA Kp index breakdown Mar 30-Apr 01 2025
 
-             Mar 29       Mar 30       Mar 31
-00-03UT       3.33         3.00         1.67     
-03-06UT       2.00         2.67         1.33     
-06-09UT       2.00         2.00         1.33     
-09-12UT       3.67         2.00         1.33     
-12-15UT       3.00         2.00         1.33     
-15-18UT       3.33         1.33         1.33     
-18-21UT       3.33         1.33         1.67     
-21-00UT       3.33         2.33         1.67     
+             Mar 30       Mar 31       Apr 01
+00-03UT       4.00         1.67         2.33     
+03-06UT       4.33         1.33         3.00     
+06-09UT       2.67         1.33         3.00     
+09-12UT       2.00         1.33         2.33     
+12-15UT       1.33         1.33         2.00     
+15-18UT       1.33         1.33         2.00     
+18-21UT       1.33         1.67         2.33     
+21-00UT       1.67         1.67         2.00     
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected. 
 
@@ -77,9 +80,9 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Mar 29-Mar 31 2025
+Solar Radiation Storm Forecast for Mar 30-Apr 01 2025
 
-              Mar 29  Mar 30  Mar 31
+              Mar 30  Mar 31  Apr 01
 S1 or greater    5%      5%      5%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -88,18 +91,16 @@ production is forecast.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-Radio blackouts reaching the R3 levels were observed over the past 24
-hours. The largest was at Mar 28 2025 1520 UTC.
+Radio blackouts reaching the R1 levels were observed over the past 24
+hours. The largest was at Mar 29 2025 2300 UTC.
 
-Radio Blackout Forecast for Mar 29-Mar 31 2025
+Radio Blackout Forecast for Mar 30-Apr 01 2025
 
-              Mar 29        Mar 30        Mar 31
-R1-R2           50%           50%           50%
-R3 or greater   20%           20%           20%
+              Mar 30        Mar 31        Apr 01
+R1-R2           40%           40%           40%
+R3 or greater   10%           10%           10%
 
-Rationale: A chance for isolated R1-R2 (Minor-Moderate), and slight
-chance for R3 (Strong), radio blackouts will persist through 31 Mar
-primarily due to the potential exhibited by multiple regions near the E.
-limb.
+Rationale: There exists a chance for R1-R2 (Minor-Moderate) radio
+blackouts, with a slight chance for R3 (Strong), over 03 Mar - 01 Apr.
 
 ```
