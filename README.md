@@ -2,6 +2,7 @@
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
 <br />**Sorry, Image not available!**
+<br />**Sorry, Image not available!**
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -45,57 +46,58 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 Mar 31 0030 UTC
+:Issued: 2025 Apr 01 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Mar 31-Apr 02 2025 is 3.00 (below NOAA
+The greatest expected 3 hr Kp for Apr 01-Apr 03 2025 is 3.00 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Mar 31-Apr 02 2025
+NOAA Kp index breakdown Apr 01-Apr 03 2025
 
-             Mar 31       Apr 01       Apr 02
-00-03UT       2.33         2.33         2.67     
-03-06UT       2.00         3.00         2.67     
-06-09UT       2.00         3.00         2.00     
-09-12UT       2.00         2.33         2.00     
-12-15UT       2.00         2.00         1.67     
-15-18UT       2.00         2.00         1.67     
-18-21UT       2.33         2.33         2.00     
-21-00UT       2.67         2.00         2.33     
+             Apr 01       Apr 02       Apr 03
+00-03UT       2.33         2.67         1.67     
+03-06UT       3.00         2.67         1.67     
+06-09UT       3.00         2.00         1.33     
+09-12UT       2.33         2.00         1.33     
+12-15UT       2.00         1.67         1.33     
+15-18UT       2.00         1.67         1.33     
+18-21UT       2.33         2.00         1.67     
+21-00UT       2.00         2.33         1.33     
 
-Rationale: No G1 (Minor) or greater geomagnetic storms are expected.
+Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
+significant transient or recurrent solar wind features are forecast.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
-below S-scale storm level thresholds.
+above S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Mar 31-Apr 02 2025
+Solar Radiation Storm Forecast for Apr 01-Apr 03 2025
 
-              Mar 31  Apr 01  Apr 02
-S1 or greater    5%      5%      5%
+              Apr 01  Apr 02  Apr 03
+S1 or greater   80%     35%     25%
 
-Rationale: No S1 (Minor) or greater solar radiation storms are expected.
-No significant active region activity favorable for radiation storm
-production is forecast.
+Rationale: The greater than 10 MeV proton flux is expected to persist
+above the S1 (Minor) threshold on 01 Apr. There is a chance for the
+levels to continue above the S1 level on 02-03 Apr.
+
 
 C. NOAA Radio Blackout Activity and Forecast
 
 Radio blackouts reaching the R1 levels were observed over the past 24
-hours. The largest was at Mar 30 2025 1642 UTC.
+hours. The largest was at Mar 31 2025 1024 UTC.
 
-Radio Blackout Forecast for Mar 31-Apr 02 2025
+Radio Blackout Forecast for Apr 01-Apr 03 2025
 
-              Mar 31        Apr 01        Apr 02
-R1-R2           55%           50%           50%
-R3 or greater   10%           10%           10%
+              Apr 01        Apr 02        Apr 03
+R1-R2           75%           75%           75%
+R3 or greater   25%           25%           25%
 
-Rationale: R1-R2 (Minor-Moderate) radio blackouts are likely on 31 Mar,
-with a chance for up to R2 events persists through 02 Apr. A slight
-chance for R3 (Strong) events exists for 31 Mar - 02 Apr.
+Rationale: R1-R2 (Minor-Moderate) radio blackouts are expected, with a
+chance for R3 (Strong) events on 01-03 Apr.
 
 ```
