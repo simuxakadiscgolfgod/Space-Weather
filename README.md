@@ -1,12 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Sorry, Image not available!**
-<br />**Sorry, Image not available!**
-<br />**Date image released:**  2025-04-02
-<br />**Title of the image:**  Jupiter and Ring in Infrared from Webb
-<br />**Description for the image:**  Why does Jupiter have rings?  Jupiter's main ring was discovered in 1979 by NASA's passing Voyager 1 spacecraft, but its origin was then a mystery.  Data from NASA's Galileo spacecraft that orbited Jupiter from 1995 to 2003, however, confirmed the hypothesis that this ring was created by meteoroid impacts on small nearby moons.  As a small meteoroid strikes tiny Metis, for example, it will bore into the moon, vaporize, and explode dirt and dust off into a Jovian orbit. The featured image of Jupiter in infrared light by the James Webb Space Telescope shows not only Jupiter and its clouds, but this ring as well. Jupiter's Great Red Spot (GRS) -- in comparatively light color on the right, Jupiter's large moon Europa -- in the center of diffraction spikes on the left, and Europa's shadow -- next to the GRS -- are also visible. Several features in the image are not yet well understood, including the seemingly separated cloud layer on Jupiter's right limb.    Celestial Surprise: What picture did APOD feature on your birthday? (post 1995)
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2503/JupiterRing_WebbSchmidt_2429.jpg
+<br />**Date image released:**  2025-04-03
+<br />**This image is owned by:**  Giorgia Hofer
+<br />**Title of the image:**  The Da Vinci Glow
+<br />**Description for the image:**  A 26 hour old Moon poses behind the craggy outline of the Italian Dolomites in this twilight mountain and skyscape. The one second long exposure was captured near moonset on March 30. And while only a a sliver of its sunlit surface is visible, most of the Moon's disk can be seen by earthshine as light reflected from a bright planet Earth illuminates the lunar nearside. Also known as the Moon's ashen glow, a description of earthshine in terms of sunlight reflected by Earth's oceans illuminating the Moon's dark surface was written over 500 years ago by Leonardo da Vinci. Of course earthshine is just the most familiar example of planetshine, the faint illumination of the dark portion of a moon by light reflected from its planet.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2504/GHR5997Luna1giornofirmapicc.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -50,58 +49,56 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 Apr 02 0030 UTC
+:Issued: 2025 Apr 03 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Apr 02-Apr 04 2025 is 5.00 (NOAA Scale
+The greatest expected 3 hr Kp for Apr 03-Apr 05 2025 is 5.00 (NOAA Scale
 G1).
 
-NOAA Kp index breakdown Apr 02-Apr 04 2025
+NOAA Kp index breakdown Apr 03-Apr 05 2025
 
-             Apr 02       Apr 03       Apr 04
-00-03UT       1.00         1.67         1.00     
-03-06UT       3.67         1.67         1.00     
-06-09UT       2.67         1.33         2.33     
-09-12UT       2.67         1.33         3.67     
-12-15UT       2.33         1.33         3.33     
-15-18UT       2.00         1.33         3.33     
-18-21UT       2.00         1.67         3.67     
-21-00UT       2.67         1.33         5.00 (G1)
+             Apr 03       Apr 04       Apr 05
+00-03UT       3.67         1.00         5.00 (G1)
+03-06UT       3.33         1.00         4.00     
+06-09UT       3.00         2.33         3.67     
+09-12UT       2.33         3.67         3.33     
+12-15UT       2.00         3.33         2.33     
+15-18UT       1.33         3.33         2.33     
+18-21UT       2.00         3.67         2.67     
+21-00UT       2.33         5.00 (G1)    2.67     
 
-Rationale: G1 (Minor) storm conditions are likely on 04 Apr as a CIR
-preceding a recurrent CH HSS is expected to become geoeffective.
+Rationale: G1 (Minor) geomagnetic storms are likely on 04-05 Apr due to
+anticipated recurrent coronal hole activity.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 above S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Apr 02-Apr 04 2025
+Solar Radiation Storm Forecast for Apr 03-Apr 05 2025
 
-              Apr 02  Apr 03  Apr 04
-S1 or greater   60%     25%     25%
+              Apr 03  Apr 04  Apr 05
+S1 or greater   15%     15%     15%
 
-Rationale: The greater than 10 MeV proton flux is expected to persist
-above the S1 (Minor) threshold through midday on 02 Apr. There is a
-chance for an S1 (Minor) event on 02-03 Apr due to the flare potential
-of Regions 4046 and 4048.
+Rationale: There is a slight chance for S1 (Minor) solar radiation
+storms over 03-05 Apr, primarily due to the flare potential from Region
+4048.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-Radio blackouts reaching the R2 levels were observed over the past 24
-hours. The largest was at Apr 01 2025 0646 UTC.
+No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Apr 02-Apr 04 2025
+Radio Blackout Forecast for Apr 03-Apr 05 2025
 
-              Apr 02        Apr 03        Apr 04
-R1-R2           75%           75%           75%
-R3 or greater   25%           25%           25%
+              Apr 03        Apr 04        Apr 05
+R1-R2           70%           70%           70%
+R3 or greater   15%           15%           15%
 
-Rationale: R1-R2 (Minor-Moderate) radio blackouts are expected, with a
-chance for R3 (Strong) events, on 02-04 Apr.
+Rationale: R1-R2 (Minor-Moderate) radio blackouts are likely over 03-05
+Apr, primarily due to the flare potential from Region 4048.
 
 ```
