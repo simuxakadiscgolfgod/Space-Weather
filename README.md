@@ -1,11 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2025-04-03
-<br />**This image is owned by:**  Giorgia Hofer
-<br />**Title of the image:**  The Da Vinci Glow
-<br />**Description for the image:**  A 26 hour old Moon poses behind the craggy outline of the Italian Dolomites in this twilight mountain and skyscape. The one second long exposure was captured near moonset on March 30. And while only a a sliver of its sunlit surface is visible, most of the Moon's disk can be seen by earthshine as light reflected from a bright planet Earth illuminates the lunar nearside. Also known as the Moon's ashen glow, a description of earthshine in terms of sunlight reflected by Earth's oceans illuminating the Moon's dark surface was written over 500 years ago by Leonardo da Vinci. Of course earthshine is just the most familiar example of planetshine, the faint illumination of the dark portion of a moon by light reflected from its planet.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2504/GHR5997Luna1giornofirmapicc.jpg
+<br />**Date image released:**  2025-04-04
+<br />**This image is owned by:**  Jiang Wu
+<br />**Title of the image:**  Hickson 44 in Leo
+<br />**Description for the image:**  Scanning the skies for galaxies, Canadian astronomer Paul Hickson and colleagues identified some 100 compact groups of galaxies, now appropriately called Hickson Compact Groups. The four prominent galaxies seen in this intriguing telescopic skyscape are one such group, Hickson 44. The galaxy group is about 100 million light-years distant, far beyond the spiky foreground Milky Way stars, toward the constellation Leo. The two spiral galaxies in the center of the image are edge-on NGC 3190 with its distinctive, warped dust lanes, and S-shaped NGC 3187. Along with the bright elliptical, NGC 3193 (above and left) they are also known as Arp 316. The spiral toward the lower right corner is NGC 3185, the 4th member of the Hickson group. Like other galaxies in Hickson groups, these show signs of distortion and enhanced star formation, evidence of a gravitational tug of war that will eventually result in galaxy mergers on a cosmic timescale. The merger process is now understood to be a normal part of the evolution of galaxies, including our own Milky Way. For scale, NGC 3190 is about 75,000 light-years across at the estimated distance of Hickson 44.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2504/ARP316.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,56 +49,55 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 Apr 03 0030 UTC
+:Issued: 2025 Apr 04 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
-Scale levels).
-The greatest expected 3 hr Kp for Apr 03-Apr 05 2025 is 5.00 (NOAA Scale
+The greatest observed 3 hr Kp over the past 24 hours was 5 (NOAA Scale
+G1).
+The greatest expected 3 hr Kp for Apr 04-Apr 06 2025 is 5.00 (NOAA Scale
 G1).
 
-NOAA Kp index breakdown Apr 03-Apr 05 2025
+NOAA Kp index breakdown Apr 04-Apr 06 2025
 
-             Apr 03       Apr 04       Apr 05
-00-03UT       3.67         1.00         5.00 (G1)
-03-06UT       3.33         1.00         4.00     
-06-09UT       3.00         2.33         3.67     
-09-12UT       2.33         3.67         3.33     
-12-15UT       2.00         3.33         2.33     
-15-18UT       1.33         3.33         2.33     
-18-21UT       2.00         3.67         2.67     
-21-00UT       2.33         5.00 (G1)    2.67     
+             Apr 04       Apr 05       Apr 06
+00-03UT       1.00         4.00         2.67     
+03-06UT       4.67 (G1)    5.00 (G1)    3.33     
+06-09UT       2.33         3.67         2.33     
+09-12UT       3.67         3.33         2.00     
+12-15UT       3.33         2.33         2.33     
+15-18UT       3.33         2.33         2.00     
+18-21UT       3.67         2.67         2.33     
+21-00UT       4.33         2.67         2.67     
 
-Rationale: G1 (Minor) geomagnetic storms are likely on 04-05 Apr due to
-anticipated recurrent coronal hole activity.
+Rationale: G1 (Minor) geomagnetic storms are likely on 04-05 Apr due
+primarily to coronal hole influence.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
-above S-scale storm level thresholds.
+below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Apr 03-Apr 05 2025
+Solar Radiation Storm Forecast for Apr 04-Apr 06 2025
 
-              Apr 03  Apr 04  Apr 05
+              Apr 04  Apr 05  Apr 06
 S1 or greater   15%     15%     15%
 
 Rationale: There is a slight chance for S1 (Minor) solar radiation
-storms over 03-05 Apr, primarily due to the flare potential from Region
-4048.
+storms over 04-06 Apr.
 
 C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Apr 03-Apr 05 2025
+Radio Blackout Forecast for Apr 04-Apr 06 2025
 
-              Apr 03        Apr 04        Apr 05
+              Apr 04        Apr 05        Apr 06
 R1-R2           70%           70%           70%
 R3 or greater   15%           15%           15%
 
-Rationale: R1-R2 (Minor-Moderate) radio blackouts are likely over 03-05
-Apr, primarily due to the flare potential from Region 4048.
+Rationale: R1-R2 (Minor-Moderate) radio blackouts are likely, with a
+slight chance for R3 (Strong), over 04-05 Apr.
 
 ```
