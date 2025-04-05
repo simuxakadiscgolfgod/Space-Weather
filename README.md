@@ -1,11 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2025-04-04
-<br />**This image is owned by:**  Jiang Wu
-<br />**Title of the image:**  Hickson 44 in Leo
-<br />**Description for the image:**  Scanning the skies for galaxies, Canadian astronomer Paul Hickson and colleagues identified some 100 compact groups of galaxies, now appropriately called Hickson Compact Groups. The four prominent galaxies seen in this intriguing telescopic skyscape are one such group, Hickson 44. The galaxy group is about 100 million light-years distant, far beyond the spiky foreground Milky Way stars, toward the constellation Leo. The two spiral galaxies in the center of the image are edge-on NGC 3190 with its distinctive, warped dust lanes, and S-shaped NGC 3187. Along with the bright elliptical, NGC 3193 (above and left) they are also known as Arp 316. The spiral toward the lower right corner is NGC 3185, the 4th member of the Hickson group. Like other galaxies in Hickson groups, these show signs of distortion and enhanced star formation, evidence of a gravitational tug of war that will eventually result in galaxy mergers on a cosmic timescale. The merger process is now understood to be a normal part of the evolution of galaxies, including our own Milky Way. For scale, NGC 3190 is about 75,000 light-years across at the estimated distance of Hickson 44.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2504/ARP316.jpg
+<br />**Date image released:**  2025-04-05
+<br />**This image is owned by:**  Bertrand Kulik
+<br />**Title of the image:**  The Gargoyles' Eclipse
+<br />**Description for the image:**  In dramatic silhouette against a cloudy daytime sky over Paris, France, gargoyles cast their monstrous gaze outward from the west facade of Notre Dame Cathedral.  Taken on March 29, this telephoto snapshot also captures the dramatic silhouette of a New Moon against the bright solar disk in a partial solar eclipse. Happening high in Parisian skies, the partial eclipse was close to its maximum phase of about 23 percent. Occurring near the end of the first eclipse season of 2025, this partial solar eclipse followed the total eclipse of the Full Moon on March 13/14. The upcoming second eclipse season of 2025 will see a total lunar eclipse on September 7/8 and partial solar eclipse on September 21. The partial solar eclipse will be seen only from locations in planet Earth's southern hemisphere.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2504/NDGargoylesEclipse_kulik.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,55 +49,55 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 Apr 04 0030 UTC
+:Issued: 2025 Apr 05 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 5 (NOAA Scale
 G1).
-The greatest expected 3 hr Kp for Apr 04-Apr 06 2025 is 5.00 (NOAA Scale
+The greatest expected 3 hr Kp for Apr 05-Apr 07 2025 is 5.00 (NOAA Scale
 G1).
 
-NOAA Kp index breakdown Apr 04-Apr 06 2025
+NOAA Kp index breakdown Apr 05-Apr 07 2025
 
-             Apr 04       Apr 05       Apr 06
-00-03UT       1.00         4.00         2.67     
-03-06UT       4.67 (G1)    5.00 (G1)    3.33     
-06-09UT       2.33         3.67         2.33     
-09-12UT       3.67         3.33         2.00     
-12-15UT       3.33         2.33         2.33     
-15-18UT       3.33         2.33         2.00     
-18-21UT       3.67         2.67         2.33     
-21-00UT       4.33         2.67         2.67     
+             Apr 05       Apr 06       Apr 07
+00-03UT       5.00 (G1)    2.67         2.33     
+03-06UT       4.33         3.67         2.67     
+06-09UT       4.00         3.33         2.00     
+09-12UT       3.67         3.00         2.00     
+12-15UT       3.67         2.33         2.33     
+15-18UT       3.33         2.00         2.00     
+18-21UT       2.67         2.33         2.00     
+21-00UT       2.67         2.67         2.00     
 
-Rationale: G1 (Minor) geomagnetic storms are likely on 04-05 Apr due
-primarily to coronal hole influence.
+Rationale: G1 (Minor) storms are likely on 05 Apr due to continued
+elevated solar wind conditions.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Apr 04-Apr 06 2025
+Solar Radiation Storm Forecast for Apr 05-Apr 07 2025
 
-              Apr 04  Apr 05  Apr 06
-S1 or greater   15%     15%     15%
+              Apr 05  Apr 06  Apr 07
+S1 or greater   10%      5%      5%
 
-Rationale: There is a slight chance for S1 (Minor) solar radiation
-storms over 04-06 Apr.
+Rationale: There exists a slight chance for S1 (Minor) solar radiation
+storms over 05-07 Apr.
 
 C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Apr 04-Apr 06 2025
+Radio Blackout Forecast for Apr 05-Apr 07 2025
 
-              Apr 04        Apr 05        Apr 06
-R1-R2           70%           70%           70%
-R3 or greater   15%           15%           15%
+              Apr 05        Apr 06        Apr 07
+R1-R2           65%           60%           55%
+R3 or greater   15%           10%           10%
 
 Rationale: R1-R2 (Minor-Moderate) radio blackouts are likely, with a
-slight chance for R3 (Strong), over 04-05 Apr.
+slight chance for R3 (Strong), over 05-07 Apr.
 
 ```
