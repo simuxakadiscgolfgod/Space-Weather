@@ -1,11 +1,10 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2025-04-05
-<br />**This image is owned by:**  Bertrand Kulik
-<br />**Title of the image:**  The Gargoyles' Eclipse
-<br />**Description for the image:**  In dramatic silhouette against a cloudy daytime sky over Paris, France, gargoyles cast their monstrous gaze outward from the west facade of Notre Dame Cathedral.  Taken on March 29, this telephoto snapshot also captures the dramatic silhouette of a New Moon against the bright solar disk in a partial solar eclipse. Happening high in Parisian skies, the partial eclipse was close to its maximum phase of about 23 percent. Occurring near the end of the first eclipse season of 2025, this partial solar eclipse followed the total eclipse of the Full Moon on March 13/14. The upcoming second eclipse season of 2025 will see a total lunar eclipse on September 7/8 and partial solar eclipse on September 21. The partial solar eclipse will be seen only from locations in planet Earth's southern hemisphere.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2504/NDGargoylesEclipse_kulik.jpg
+<br />**Date image released:**  2025-04-06
+<br />**Title of the image:**  Moonquakes Surprisingly Common
+<br />**Description for the image:**  Why are there so many moonquakes?   Analyses of seismometers left on the moon during the Apollo moon landings reveal a surprising number of moonquakes occurring within 100 kilometers of the surface.   In fact, 62 moonquakes were detected in data recorded between 1972 and 1977.   Many of these moonquakes are not only strong enough to move furniture in a lunar apartment, but the stiff rock of the moon continues to vibrate for many minutes, significantly longer than the softer rock earthquakes on Earth.   The cause of the moonquakes remains unknown, but a leading hypothesis include tidal gravity from -- and relative heating by -- our Earth. Regardless of the source, future moon dwellings need to be built to withstand the frequent shakings.   Pictured here, Apollo 11 astronaut Buzz Aldrin stands beside a recently deployed lunar seismometer, looking back toward the lunar landing module.    Explore Your Universe: Random APOD Generator
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2504/AldrinSeismometer_Apollo11_3000.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,55 +48,57 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 Apr 05 0030 UTC
+:Issued: 2025 Apr 06 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 5 (NOAA Scale
-G1).
-The greatest expected 3 hr Kp for Apr 05-Apr 07 2025 is 5.00 (NOAA Scale
-G1).
+The greatest observed 3 hr Kp over the past 24 hours was 6 (NOAA Scale
+G2).
+The greatest expected 3 hr Kp for Apr 06-Apr 08 2025 is 5.67 (NOAA Scale
+G2).
 
-NOAA Kp index breakdown Apr 05-Apr 07 2025
+NOAA Kp index breakdown Apr 06-Apr 08 2025
 
-             Apr 05       Apr 06       Apr 07
-00-03UT       5.00 (G1)    2.67         2.33     
-03-06UT       4.33         3.67         2.67     
-06-09UT       4.00         3.33         2.00     
-09-12UT       3.67         3.00         2.00     
-12-15UT       3.67         2.33         2.33     
-15-18UT       3.33         2.00         2.00     
-18-21UT       2.67         2.33         2.00     
-21-00UT       2.67         2.67         2.00     
+             Apr 06       Apr 07       Apr 08
+00-03UT       5.67 (G2)    2.33         3.33     
+03-06UT       4.00         2.67         3.67     
+06-09UT       3.33         2.00         3.00     
+09-12UT       3.00         2.00         2.67     
+12-15UT       2.33         2.33         2.33     
+15-18UT       2.33         3.00         2.33     
+18-21UT       2.00         3.33         2.00     
+21-00UT       1.67         3.67         1.67     
 
-Rationale: G1 (Minor) storms are likely on 05 Apr due to continued
-elevated solar wind conditions.
+Rationale: G1-G2 (Minor-Moderate) geomagnetic storms are expected on 06
+Apr due to continued coronal hole influence.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Apr 05-Apr 07 2025
+Solar Radiation Storm Forecast for Apr 06-Apr 08 2025
 
-              Apr 05  Apr 06  Apr 07
-S1 or greater   10%      5%      5%
+              Apr 06  Apr 07  Apr 08
+S1 or greater    5%      5%      5%
 
-Rationale: There exists a slight chance for S1 (Minor) solar radiation
-storms over 05-07 Apr.
+Rationale: No S1 (Minor) or greater solar radiation storms are expected.
+No significant active region activity favorable for radiation storm
+production is forecast.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-No radio blackouts were observed over the past 24 hours.
+Radio blackouts reaching the R1 levels were observed over the past 24
+hours. The largest was at Apr 05 2025 2005 UTC.
 
-Radio Blackout Forecast for Apr 05-Apr 07 2025
+Radio Blackout Forecast for Apr 06-Apr 08 2025
 
-              Apr 05        Apr 06        Apr 07
-R1-R2           65%           60%           55%
+              Apr 06        Apr 07        Apr 08
+R1-R2           60%           60%           55%
 R3 or greater   15%           10%           10%
 
 Rationale: R1-R2 (Minor-Moderate) radio blackouts are likely, with a
-slight chance for R3 (Strong), over 05-07 Apr.
+slight chance for R3 (Strong), over 06-08 Apr.
 
 ```
