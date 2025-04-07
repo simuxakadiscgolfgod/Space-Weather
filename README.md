@@ -1,10 +1,10 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2025-04-06
-<br />**Title of the image:**  Moonquakes Surprisingly Common
-<br />**Description for the image:**  Why are there so many moonquakes?   Analyses of seismometers left on the moon during the Apollo moon landings reveal a surprising number of moonquakes occurring within 100 kilometers of the surface.   In fact, 62 moonquakes were detected in data recorded between 1972 and 1977.   Many of these moonquakes are not only strong enough to move furniture in a lunar apartment, but the stiff rock of the moon continues to vibrate for many minutes, significantly longer than the softer rock earthquakes on Earth.   The cause of the moonquakes remains unknown, but a leading hypothesis include tidal gravity from -- and relative heating by -- our Earth. Regardless of the source, future moon dwellings need to be built to withstand the frequent shakings.   Pictured here, Apollo 11 astronaut Buzz Aldrin stands beside a recently deployed lunar seismometer, looking back toward the lunar landing module.    Explore Your Universe: Random APOD Generator
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2504/AldrinSeismometer_Apollo11_3000.jpg
+<br />**Date image released:**  2025-04-07
+<br />**Title of the image:**  NGC 4414: A Flocculent Spiral Galaxy
+<br />**Description for the image:**  How much mass do flocculent spirals hide?  The featured image of flocculent spiral galaxy NGC 4414 was taken with the Hubble Space Telescope to help answer this question. Flocculent spirals -- galaxies without well-defined spiral arms -- are a quite common form of galaxy, and NGC 4414 is one of the closest.  Stars and gas near the visible edge of spiral galaxies orbit the center so fast that the gravity from a large amount of unseen dark matter must be present to hold them together.  Understanding the matter and dark matter distribution of NGC 4414 helps humanity calibrate the rest of the galaxy and, by deduction, flocculent spirals in general.  Further, calibrating the distance to NGC 4414 helps  humanity calibrate the cosmological distance scale of the entire  visible universe.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2504/Ngc4414B_Hubble_1280.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -48,40 +48,40 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 Apr 06 0030 UTC
+:Issued: 2025 Apr 07 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 6 (NOAA Scale
-G2).
-The greatest expected 3 hr Kp for Apr 06-Apr 08 2025 is 5.67 (NOAA Scale
-G2).
+The greatest observed 3 hr Kp over the past 24 hours was 5 (NOAA Scale
+G1).
+The greatest expected 3 hr Kp for Apr 07-Apr 09 2025 is 4.00 (below NOAA
+Scale levels).
 
-NOAA Kp index breakdown Apr 06-Apr 08 2025
+NOAA Kp index breakdown Apr 07-Apr 09 2025
 
-             Apr 06       Apr 07       Apr 08
-00-03UT       5.67 (G2)    2.33         3.33     
-03-06UT       4.00         2.67         3.67     
-06-09UT       3.33         2.00         3.00     
-09-12UT       3.00         2.00         2.67     
-12-15UT       2.33         2.33         2.33     
-15-18UT       2.33         3.00         2.33     
-18-21UT       2.00         3.33         2.00     
-21-00UT       1.67         3.67         1.67     
+             Apr 07       Apr 08       Apr 09
+00-03UT       3.33         4.00         2.67     
+03-06UT       3.67         3.67         2.33     
+06-09UT       2.33         3.00         2.00     
+09-12UT       1.67         3.00         2.00     
+12-15UT       1.67         2.67         2.00     
+15-18UT       2.67         2.33         1.67     
+18-21UT       4.00         2.00         2.33     
+21-00UT       4.00         1.67         2.33     
 
-Rationale: G1-G2 (Minor-Moderate) geomagnetic storms are expected on 06
-Apr due to continued coronal hole influence.
+Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
+significant transient or recurrent solar wind features are forecast.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Apr 06-Apr 08 2025
+Solar Radiation Storm Forecast for Apr 07-Apr 09 2025
 
-              Apr 06  Apr 07  Apr 08
-S1 or greater    5%      5%      5%
+              Apr 07  Apr 08  Apr 09
+S1 or greater    1%      1%      1%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
 No significant active region activity favorable for radiation storm
@@ -89,16 +89,15 @@ production is forecast.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-Radio blackouts reaching the R1 levels were observed over the past 24
-hours. The largest was at Apr 05 2025 2005 UTC.
+No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Apr 06-Apr 08 2025
+Radio Blackout Forecast for Apr 07-Apr 09 2025
 
-              Apr 06        Apr 07        Apr 08
-R1-R2           60%           60%           55%
-R3 or greater   15%           10%           10%
+              Apr 07        Apr 08        Apr 09
+R1-R2           55%           55%           55%
+R3 or greater   10%           10%           10%
 
-Rationale: R1-R2 (Minor-Moderate) radio blackouts are likely, with a
-slight chance for R3 (Strong), over 06-08 Apr.
+Rationale: No R1 (Minor) or greater radio blackouts are expected.  No
+significant active region flare activity is forecast.
 
 ```
