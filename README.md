@@ -1,10 +1,10 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2025-04-08
-<br />**Title of the image:**  Moon Visits Sister Stars
-<br />**Description for the image:**  Sometimes, the Moon visits the Pleiades. Technically, this means that the orbit of our Moon takes it directly in front of the famous Pleiades star cluster, which is far in the distance.  The technical term for the event is an occultation, and the Moon is famous for its rare occultations of all planets and several well-known bright stars. The Moon's tilted and precessing orbit makes its occultations of the Seven Sisters star cluster bunchy, with the current epoch starting in 2023 continuing monthly until 2029. After that, though, the next occultation won't occur until 2042.  Taken from Cantabria, Spain on April 1, the featured image is a composite where previous exposures of the Pleiades from the same camera and location were digitally added to the last image to bring up the star cluster's iconic blue glow.   Jigsaw Challenge: Astronomy Puzzle of the Day
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2504/PleiadesMoon_Saiz_6000.jpg
+<br />**Date image released:**  2025-04-09
+<br />**Title of the image:**  HH 49: Interstellar Jet from Webb
+<br />**Description for the image:**  What's at the tip of this interstellar jet?  First let's consider the jet: it is being expelled by a star system just forming and is cataloged as Herbig-Haro 49 (HH 49).  The star system expelling this jet is not visible -- it is off to the lower right.  The complex conical structure featured in this infrared image by the James Webb Space Telescope also includes another jet cataloged as HH 50.  The fast jet particles impact the surrounding interstellar gas and form shock waves that glow prominently in infrared light -- shown here as reddish-brown ridges.  This JWST image also resolved the mystery of the unusual object at HH 49's tip: it is a spiral galaxy far in the distance.  The blue center is therefore not one star but many, and the surrounding circular rings are actually spiral arms.   Jump Around the Universe: Random APOD Generator
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2504/HH49_Webb_4152.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -48,39 +48,39 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 Apr 08 0030 UTC
+:Issued: 2025 Apr 09 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
-Scale levels).
-The greatest expected 3 hr Kp for Apr 08-Apr 10 2025 is 4.00 (below NOAA
-Scale levels).
+The greatest observed 3 hr Kp over the past 24 hours was 5 (NOAA Scale
+G1).
+The greatest expected 3 hr Kp for Apr 09-Apr 11 2025 is 4.67 (NOAA Scale
+G1).
 
-NOAA Kp index breakdown Apr 08-Apr 10 2025
+NOAA Kp index breakdown Apr 09-Apr 11 2025
 
-             Apr 08       Apr 09       Apr 10
-00-03UT       4.00         2.67         3.00     
-03-06UT       3.67         3.00         2.33     
-06-09UT       3.00         2.00         2.00     
-09-12UT       3.00         2.00         1.67     
-12-15UT       2.67         1.67         1.67     
-15-18UT       2.33         1.67         2.00     
-18-21UT       2.00         2.67         2.67     
-21-00UT       1.67         3.00         3.00     
+             Apr 09       Apr 10       Apr 11
+00-03UT       4.00         3.00         1.67     
+03-06UT       3.67         3.67         1.67     
+06-09UT       4.67 (G1)    3.00         2.00     
+09-12UT       2.33         2.33         3.00     
+12-15UT       2.00         2.00         4.00     
+15-18UT       2.00         2.00         3.33     
+18-21UT       2.67         2.33         2.00     
+21-00UT       3.33         3.00         2.00     
 
-Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
-significant transient or recurrent solar wind features are forecast.
+Rationale: G1 (Minor) geomagnetic storming is expected on 09 Apr under
+negative polarity CH HSS effects.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Apr 08-Apr 10 2025
+Solar Radiation Storm Forecast for Apr 09-Apr 11 2025
 
-              Apr 08  Apr 09  Apr 10
+              Apr 09  Apr 10  Apr 11
 S1 or greater    5%      5%      5%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -89,15 +89,17 @@ production is forecast.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-No radio blackouts were observed over the past 24 hours.
+Radio blackouts reaching the R1 levels were observed over the past 24
+hours. The largest was at Apr 08 2025 2222 UTC.
 
-Radio Blackout Forecast for Apr 08-Apr 10 2025
+Radio Blackout Forecast for Apr 09-Apr 11 2025
 
-              Apr 08        Apr 09        Apr 10
-R1-R2           55%           55%           55%
-R3 or greater   10%           10%           10%
+              Apr 09        Apr 10        Apr 11
+R1-R2           40%           40%           40%
+R3 or greater    5%            5%            5%
 
-Rationale: (R1-R2/Minor-Moderate) radio blackouts are likely, with a
-slight chance for R3 (Strong) levels over 08-10 Apr.
+Rationale: A chance for R1-2 (Minor-Moderate) radio blackouts will
+persist through 11 Apr primarily due to the flare potential observed in
+ARs 4048 and 4054.
 
 ```
