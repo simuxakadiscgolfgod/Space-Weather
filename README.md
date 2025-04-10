@@ -1,10 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2025-04-09
-<br />**Title of the image:**  HH 49: Interstellar Jet from Webb
-<br />**Description for the image:**  What's at the tip of this interstellar jet?  First let's consider the jet: it is being expelled by a star system just forming and is cataloged as Herbig-Haro 49 (HH 49).  The star system expelling this jet is not visible -- it is off to the lower right.  The complex conical structure featured in this infrared image by the James Webb Space Telescope also includes another jet cataloged as HH 50.  The fast jet particles impact the surrounding interstellar gas and form shock waves that glow prominently in infrared light -- shown here as reddish-brown ridges.  This JWST image also resolved the mystery of the unusual object at HH 49's tip: it is a spiral galaxy far in the distance.  The blue center is therefore not one star but many, and the surrounding circular rings are actually spiral arms.   Jump Around the Universe: Random APOD Generator
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2504/HH49_Webb_4152.jpg
+<br />**Date image released:**  2025-04-10
+<br />**This image is owned by:**  Daniel Yang K.
+<br />**Title of the image:**  38 Hours with the M81 Group
+<br />**Description for the image:**  From a garden on planet Earth, 38 hours of exposure with a camera and small telescope produced this cosmic photo of the M81 galaxy group. In fact, the group's dominant galaxy M81 is near the center of the frame sporting grand spiral arms and a bright yellow core. Also known as Bode's galaxy, M81 itself spans some 100,000 light-years. Near the top is cigar-shaped irregular galaxy M82.  The pair have been locked in gravitational combat for a billion years. Gravity from each galaxy has profoundly affected the other during a series of cosmic close encounters.  Their last go-round lasted about 100 million years and likely raised density waves rippling around M81, resulting in massive star forming regions arrayed along M81's spiral arms.  M82 was left with violent star forming regions too, and colliding gas clouds so energetic that the galaxy glows in X-rays.  In the next few billion years, their continuing gravitational encounters will result in a merger, and a single galaxy will remain. Another group member, NGC 3077 is below and left of the large spiral M81. Far far away, about 12 million light-years distant the M81 group galaxies are seen toward the northern constellation Ursa Major (the Great Bear). But in the closer foreground the wide-field image is filled with integrated flux nebulae whose faint, dusty interstellar clouds reflect starlight above the plane of our own Milky Way galaxy.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2504/38h_M81-group_Jpeg.jpeg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -48,39 +49,39 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 Apr 09 0030 UTC
+:Issued: 2025 Apr 10 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 5 (NOAA Scale
 G1).
-The greatest expected 3 hr Kp for Apr 09-Apr 11 2025 is 4.67 (NOAA Scale
-G1).
+The greatest expected 3 hr Kp for Apr 10-Apr 12 2025 is 3.67 (below NOAA
+Scale levels).
 
-NOAA Kp index breakdown Apr 09-Apr 11 2025
+NOAA Kp index breakdown Apr 10-Apr 12 2025
 
-             Apr 09       Apr 10       Apr 11
-00-03UT       4.00         3.00         1.67     
-03-06UT       3.67         3.67         1.67     
-06-09UT       4.67 (G1)    3.00         2.00     
-09-12UT       2.33         2.33         3.00     
-12-15UT       2.00         2.00         4.00     
-15-18UT       2.00         2.00         3.33     
-18-21UT       2.67         2.33         2.00     
-21-00UT       3.33         3.00         2.00     
+             Apr 10       Apr 11       Apr 12
+00-03UT       3.00         3.33         3.33     
+03-06UT       3.33         3.67         3.33     
+06-09UT       3.00         3.67         3.67     
+09-12UT       2.33         3.00         3.67     
+12-15UT       2.00         3.00         3.33     
+15-18UT       2.00         3.33         3.33     
+18-21UT       2.33         3.00         3.33     
+21-00UT       3.00         3.00         3.67     
 
-Rationale: G1 (Minor) geomagnetic storming is expected on 09 Apr under
-negative polarity CH HSS effects.
+Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
+significant transient or recurrent solar wind features are forecast.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Apr 09-Apr 11 2025
+Solar Radiation Storm Forecast for Apr 10-Apr 12 2025
 
-              Apr 09  Apr 10  Apr 11
+              Apr 10  Apr 11  Apr 12
 S1 or greater    5%      5%      5%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -89,17 +90,15 @@ production is forecast.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-Radio blackouts reaching the R1 levels were observed over the past 24
-hours. The largest was at Apr 08 2025 2222 UTC.
+No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Apr 09-Apr 11 2025
+Radio Blackout Forecast for Apr 10-Apr 12 2025
 
-              Apr 09        Apr 10        Apr 11
-R1-R2           40%           40%           40%
+              Apr 10        Apr 11        Apr 12
+R1-R2           45%           45%           45%
 R3 or greater    5%            5%            5%
 
-Rationale: A chance for R1-2 (Minor-Moderate) radio blackouts will
-persist through 11 Apr primarily due to the flare potential observed in
-ARs 4048 and 4054.
+Rationale: There is a chance for R1-R2 (Minor-Moderate) radio blackouts
+on 10-12 Apr.
 
 ```
