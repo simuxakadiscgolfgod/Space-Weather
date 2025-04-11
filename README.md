@@ -1,11 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2025-04-10
-<br />**This image is owned by:**  Daniel Yang K.
-<br />**Title of the image:**  38 Hours with the M81 Group
-<br />**Description for the image:**  From a garden on planet Earth, 38 hours of exposure with a camera and small telescope produced this cosmic photo of the M81 galaxy group. In fact, the group's dominant galaxy M81 is near the center of the frame sporting grand spiral arms and a bright yellow core. Also known as Bode's galaxy, M81 itself spans some 100,000 light-years. Near the top is cigar-shaped irregular galaxy M82.  The pair have been locked in gravitational combat for a billion years. Gravity from each galaxy has profoundly affected the other during a series of cosmic close encounters.  Their last go-round lasted about 100 million years and likely raised density waves rippling around M81, resulting in massive star forming regions arrayed along M81's spiral arms.  M82 was left with violent star forming regions too, and colliding gas clouds so energetic that the galaxy glows in X-rays.  In the next few billion years, their continuing gravitational encounters will result in a merger, and a single galaxy will remain. Another group member, NGC 3077 is below and left of the large spiral M81. Far far away, about 12 million light-years distant the M81 group galaxies are seen toward the northern constellation Ursa Major (the Great Bear). But in the closer foreground the wide-field image is filled with integrated flux nebulae whose faint, dusty interstellar clouds reflect starlight above the plane of our own Milky Way galaxy.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2504/38h_M81-group_Jpeg.jpeg
+<br />**Date image released:**  2025-04-11
+<br />**This image is owned by:**  A.J. Smadi
+<br />**Title of the image:**  The ISS Meets Venus
+<br />**Description for the image:**  Made with a telescope shaded from bright sunlight by an umbrella, on April 5 a well-planned video captured a crescent Venus shining in clear daytime skies from Shoreline, Washington, USA at 11:57AM Pacific Time. It also caught the International Space Station in this single video frame. In close conjunction with the bright planet, the faint outline of the orbital outpost seen at a range of about 400 kilometers appears to be similar in size to the slender planetary crescent. Of course the ISS is much smaller than Venus. Now appearing as planet Earth's brilliant morning star and climbing above the eastern horizon in predawn skies, inner planet Venus was nearly 45 million kilometers from Shoreline.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2504/Venus-ISSsingleframe.jpeg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,40 +49,41 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 Apr 10 0030 UTC
+:Issued: 2025 Apr 11 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 5 (NOAA Scale
-G1).
-The greatest expected 3 hr Kp for Apr 10-Apr 12 2025 is 3.67 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
 Scale levels).
+The greatest expected 3 hr Kp for Apr 11-Apr 13 2025 is 4.67 (NOAA Scale
+G1).
 
-NOAA Kp index breakdown Apr 10-Apr 12 2025
+NOAA Kp index breakdown Apr 11-Apr 13 2025
 
-             Apr 10       Apr 11       Apr 12
-00-03UT       3.00         3.33         3.33     
-03-06UT       3.33         3.67         3.33     
-06-09UT       3.00         3.67         3.67     
-09-12UT       2.33         3.00         3.67     
-12-15UT       2.00         3.00         3.33     
-15-18UT       2.00         3.33         3.33     
-18-21UT       2.33         3.00         3.33     
-21-00UT       3.00         3.00         3.67     
+             Apr 11       Apr 12       Apr 13
+00-03UT       4.67 (G1)    4.33         3.67     
+03-06UT       3.67         4.00         3.00     
+06-09UT       2.67         4.00         2.67     
+09-12UT       2.33         4.00         2.00     
+12-15UT       2.33         2.67         3.00     
+15-18UT       2.67         2.67         3.00     
+18-21UT       3.00         2.67         3.00     
+21-00UT       3.67         2.33         3.00     
 
-Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
-significant transient or recurrent solar wind features are forecast.
+Rationale: An isolated early period of a G1 (Minor) geomagnetic storm is
+expected on 11 Apr in response to waning, but continuing CH HSS
+influences.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Apr 10-Apr 12 2025
+Solar Radiation Storm Forecast for Apr 11-Apr 13 2025
 
-              Apr 10  Apr 11  Apr 12
-S1 or greater    5%      5%      5%
+              Apr 11  Apr 12  Apr 13
+S1 or greater    1%      1%      1%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
 No significant active region activity favorable for radiation storm
@@ -92,13 +93,13 @@ C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Apr 10-Apr 12 2025
+Radio Blackout Forecast for Apr 11-Apr 13 2025
 
-              Apr 10        Apr 11        Apr 12
+              Apr 11        Apr 12        Apr 13
 R1-R2           45%           45%           45%
 R3 or greater    5%            5%            5%
 
-Rationale: There is a chance for R1-R2 (Minor-Moderate) radio blackouts
-on 10-12 Apr.
+Rationale: No R1 (Minor) or greater radio blackouts are expected.  No
+significant active region flare activity is forecast.
 
 ```
