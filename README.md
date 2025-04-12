@@ -1,11 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2025-04-11
-<br />**This image is owned by:**  A.J. Smadi
-<br />**Title of the image:**  The ISS Meets Venus
-<br />**Description for the image:**  Made with a telescope shaded from bright sunlight by an umbrella, on April 5 a well-planned video captured a crescent Venus shining in clear daytime skies from Shoreline, Washington, USA at 11:57AM Pacific Time. It also caught the International Space Station in this single video frame. In close conjunction with the bright planet, the faint outline of the orbital outpost seen at a range of about 400 kilometers appears to be similar in size to the slender planetary crescent. Of course the ISS is much smaller than Venus. Now appearing as planet Earth's brilliant morning star and climbing above the eastern horizon in predawn skies, inner planet Venus was nearly 45 million kilometers from Shoreline.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2504/Venus-ISSsingleframe.jpeg
+<br />**Date image released:**  2025-04-12
+<br />**This image is owned by:**  Jordi Coy
+<br />**Title of the image:**  Moon Near the Edge
+<br />**Description for the image:**  Most of us watch the Moon at night. But the Moon spends nearly as many daylight hours above our horizon, though in bright daytime skies the lunar disk looks pale and can be a little harder to see. Of course in daytime skies the Moon also appears to cycle through its phases, shining by reflected sunlight as it orbits our fair planet. For daytime moonwatchers, the Moon is probably easier to spot when the visible sunlit portion of the lunar disk is large and waxing following first quarter or waning approaching its third quarter phase. And though it might look unusual, a daytime moon is often seen even in urban skies. Captured here in a telephoto snapshot taken on March 12, a waxing daytime Moon is aligned near the edge of a popular observation deck that overlooks New York City's borough of Manahattan.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2504/PlataformaRecorteHorizontalRedes.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,41 +49,40 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 Apr 11 0030 UTC
+:Issued: 2025 Apr 12 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Apr 11-Apr 13 2025 is 4.67 (NOAA Scale
+The greatest expected 3 hr Kp for Apr 12-Apr 14 2025 is 4.67 (NOAA Scale
 G1).
 
-NOAA Kp index breakdown Apr 11-Apr 13 2025
+NOAA Kp index breakdown Apr 12-Apr 14 2025
 
-             Apr 11       Apr 12       Apr 13
-00-03UT       4.67 (G1)    4.33         3.67     
-03-06UT       3.67         4.00         3.00     
-06-09UT       2.67         4.00         2.67     
-09-12UT       2.33         4.00         2.00     
-12-15UT       2.33         2.67         3.00     
-15-18UT       2.67         2.67         3.00     
-18-21UT       3.00         2.67         3.00     
-21-00UT       3.67         2.33         3.00     
+             Apr 12       Apr 13       Apr 14
+00-03UT       3.67         3.67         3.00     
+03-06UT       3.67         3.67         3.33     
+06-09UT       4.67 (G1)    2.67         2.67     
+09-12UT       4.67 (G1)    3.00         2.67     
+12-15UT       3.67         3.00         2.67     
+15-18UT       2.67         3.00         2.00     
+18-21UT       2.67         3.00         2.00     
+21-00UT       2.33         3.00         2.67     
 
-Rationale: An isolated early period of a G1 (Minor) geomagnetic storm is
-expected on 11 Apr in response to waning, but continuing CH HSS
-influences.
+Rationale: G1 (Minor) geomagnetic storm levels are likely on 12 Apr due
+to CH HSS activity.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Apr 11-Apr 13 2025
+Solar Radiation Storm Forecast for Apr 12-Apr 14 2025
 
-              Apr 11  Apr 12  Apr 13
-S1 or greater    1%      1%      1%
+              Apr 12  Apr 13  Apr 14
+S1 or greater    5%      5%      5%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
 No significant active region activity favorable for radiation storm
@@ -91,15 +90,17 @@ production is forecast.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-No radio blackouts were observed over the past 24 hours.
+Radio blackouts reaching the R1 levels were observed over the past 24
+hours. The largest was at Apr 11 2025 1650 UTC.
 
-Radio Blackout Forecast for Apr 11-Apr 13 2025
+Radio Blackout Forecast for Apr 12-Apr 14 2025
 
-              Apr 11        Apr 12        Apr 13
-R1-R2           45%           45%           45%
+              Apr 12        Apr 13        Apr 14
+R1-R2           50%           50%           50%
 R3 or greater    5%            5%            5%
 
-Rationale: No R1 (Minor) or greater radio blackouts are expected.  No
-significant active region flare activity is forecast.
+Rationale: There is an increased chance for M-class flares (R1-R2,
+Minor-Moderate) on 12-14 Apr due primarily to the flare potential from
+Regions 4055 and 4060.
 
 ```
