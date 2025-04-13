@@ -1,11 +1,10 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2025-04-12
-<br />**This image is owned by:**  Jordi Coy
-<br />**Title of the image:**  Moon Near the Edge
-<br />**Description for the image:**  Most of us watch the Moon at night. But the Moon spends nearly as many daylight hours above our horizon, though in bright daytime skies the lunar disk looks pale and can be a little harder to see. Of course in daytime skies the Moon also appears to cycle through its phases, shining by reflected sunlight as it orbits our fair planet. For daytime moonwatchers, the Moon is probably easier to spot when the visible sunlit portion of the lunar disk is large and waxing following first quarter or waning approaching its third quarter phase. And though it might look unusual, a daytime moon is often seen even in urban skies. Captured here in a telephoto snapshot taken on March 12, a waxing daytime Moon is aligned near the edge of a popular observation deck that overlooks New York City's borough of Manahattan.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2504/PlataformaRecorteHorizontalRedes.jpg
+<br />**Date image released:**  2025-04-13
+<br />**Title of the image:**  An Unusual Hole in Mars
+<br />**Description for the image:**  What created this unusual hole in Mars? Actually, there are numerous holes pictured in this Swiss cheese-like landscape, with all-but-one of them showing a dusty, dark, Martian terrain beneath evaporating, light, carbon dioxide ice.  The most unusual hole is on the upper right, spans about 100 meters, and seems to punch through to a lower level. Why this hole exists and why it is surrounded by a circular crater remains a topic of speculation, although a leading hypothesis is that it was created by a meteor impact.  Holes such as this are of particular interest because they might be portals to lower levels that extend into expansive underground caves. If so, these naturally occurring tunnels are relatively protected from the harsh surface of Mars, making them relatively good candidates to contain Martian life. These pits are therefore also prime targets for possible future spacecraft, robots, and even human interplanetary explorers.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2504/MarsPit_mro_2628.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,58 +48,57 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 Apr 12 0030 UTC
+:Issued: 2025 Apr 13 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
-Scale levels).
-The greatest expected 3 hr Kp for Apr 12-Apr 14 2025 is 4.67 (NOAA Scale
+The greatest observed 3 hr Kp over the past 24 hours was 5 (NOAA Scale
+G1).
+The greatest expected 3 hr Kp for Apr 13-Apr 15 2025 is 4.67 (NOAA Scale
 G1).
 
-NOAA Kp index breakdown Apr 12-Apr 14 2025
+NOAA Kp index breakdown Apr 13-Apr 15 2025
 
-             Apr 12       Apr 13       Apr 14
-00-03UT       3.67         3.67         3.00     
-03-06UT       3.67         3.67         3.33     
-06-09UT       4.67 (G1)    2.67         2.67     
-09-12UT       4.67 (G1)    3.00         2.67     
-12-15UT       3.67         3.00         2.67     
-15-18UT       2.67         3.00         2.00     
-18-21UT       2.67         3.00         2.00     
-21-00UT       2.33         3.00         2.67     
+             Apr 13       Apr 14       Apr 15
+00-03UT       4.67 (G1)    3.00         1.67     
+03-06UT       4.67 (G1)    4.00         2.33     
+06-09UT       3.67         2.67         2.33     
+09-12UT       3.33         2.67         2.33     
+12-15UT       2.67         2.67         2.33     
+15-18UT       3.00         2.00         2.00     
+18-21UT       3.00         2.00         2.33     
+21-00UT       3.00         2.00         2.33     
 
-Rationale: G1 (Minor) geomagnetic storm levels are likely on 12 Apr due
-to CH HSS activity.
+Rationale: G1 (Minor) storms are expected on 13 Apr due to continued CH
+HSS influences.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Apr 12-Apr 14 2025
+Solar Radiation Storm Forecast for Apr 13-Apr 15 2025
 
-              Apr 12  Apr 13  Apr 14
-S1 or greater    5%      5%      5%
+              Apr 13  Apr 14  Apr 15
+S1 or greater   10%     10%     10%
 
-Rationale: No S1 (Minor) or greater solar radiation storms are expected.
-No significant active region activity favorable for radiation storm
-production is forecast.
+Rationale: There is a slight chance for S1 (Minor) or greater solar
+radiation storms through 15 Apr due to the flare potential of AR 4055.
 
 C. NOAA Radio Blackout Activity and Forecast
 
 Radio blackouts reaching the R1 levels were observed over the past 24
-hours. The largest was at Apr 11 2025 1650 UTC.
+hours. The largest was at Apr 12 2025 1143 UTC.
 
-Radio Blackout Forecast for Apr 12-Apr 14 2025
+Radio Blackout Forecast for Apr 13-Apr 15 2025
 
-              Apr 12        Apr 13        Apr 14
-R1-R2           50%           50%           50%
-R3 or greater    5%            5%            5%
+              Apr 13        Apr 14        Apr 15
+R1-R2           70%           70%           70%
+R3 or greater   15%           15%           15%
 
-Rationale: There is an increased chance for M-class flares (R1-R2,
-Minor-Moderate) on 12-14 Apr due primarily to the flare potential from
-Regions 4055 and 4060.
+Rationale: R1-R2 (Minor-Moderate) radio blackouts are likely, with a
+slight chance for R3 (Strong), over 12-14 Apr due to the flare potential
+from Region 4055.
 
 ```
