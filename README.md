@@ -1,10 +1,10 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2025-04-14
-<br />**Title of the image:**  The Galactic Center in Radio from MeerKAT
-<br />**Description for the image:**  What's happening at the center of our galaxy? It's hard to tell with optical telescopes since visible light is blocked by intervening interstellar dust. In other bands of light, though, such as radio, the galactic center can be imaged and shows itself to be quite an interesting and active place.  The featured picture shows an image of our Milky Way's center by the MeerKAT array of 64 radio dishes in South Africa. Spanning four times the angular size of the Moon (2 degrees), the image is impressively vast, deep, and detailed.  Many known sources are shown in clear detail, including many with a prefix of Sgr, since the galactic center is in the direction of the constellation Sagittarius.  In our galaxy's center lies Sgr A, found here in the image center, which houses the Milky Way's central supermassive black hole.  Other sources in the image are not as well understood, including the Arc, just to the left of Sgr A, and numerous filamentary threads. The inset image shows a small patch recently imaged in infrared light with the James Webb Space Telescope to investigate the effects of magnetic fields on star formation.    Open Science: Browse 3,600+ codes in the Astrophysics Source Code Library
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2504/GCenter_MeerKatWebb_7642.jpg
+<br />**Date image released:**  2025-04-15
+<br />**Title of the image:**  Planetary Nebula NGC 1514 from Webb
+<br />**Description for the image:**  What happens when a star runs out of nuclear fuel?  For stars like our Sun, the center condenses into a white dwarf while the outer atmosphere is expelled into space to appear as a planetary nebula.  The expelled outer atmosphere of planetary nebula NGC 1514 appears to be a jumble of bubbles -- when seen in visible light.  But the view from the James Webb Space Telescope in infrared, as featured here, confirms a different story: in this light the nebula shows a distinct hourglass shape, which is interpreted as a cylinder seen along a diagonal.  If you look closely at the center of the nebula, you can also see a bright central star that is part of a binary system.  More observations might better reveal how this nebula is evolving and how the central stars are working together to produce the interesting cylinder and bubbles observed.    Jump Around the Universe: Random APOD Generator
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2504/NGC1514_WebbSchmidt_1983.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -48,56 +48,57 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 Apr 14 0030 UTC
+:Issued: 2025 Apr 15 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Apr 14-Apr 16 2025 is 6.00 (NOAA Scale
+The greatest expected 3 hr Kp for Apr 15-Apr 17 2025 is 6.00 (NOAA Scale
 G2).
 
-NOAA Kp index breakdown Apr 14-Apr 16 2025
+NOAA Kp index breakdown Apr 15-Apr 17 2025
 
-             Apr 14       Apr 15       Apr 16
-00-03UT       3.00         1.67         2.67     
-03-06UT       4.00         2.33         3.00     
-06-09UT       2.67         2.67         3.00     
-09-12UT       2.67         2.33         2.67     
-12-15UT       2.67         2.67         6.00 (G2)
-15-18UT       2.00         2.00         5.67 (G2)
-18-21UT       2.00         3.00         5.00 (G1)
-21-00UT       2.00         3.67         4.67 (G1)
+             Apr 15       Apr 16       Apr 17
+00-03UT       3.67         4.00         4.33     
+03-06UT       3.00         3.00         4.33     
+06-09UT       3.00         5.00 (G1)    4.00     
+09-12UT       3.67         4.00         3.67     
+12-15UT       2.67         6.00 (G2)    4.33     
+15-18UT       2.00         4.00         3.00     
+18-21UT       2.00         5.00 (G1)    2.67     
+21-00UT       3.67         4.33         4.00     
 
-Rationale: G1-G2 (Minor-Moderate) storm levels are likely on 16 Apr due
-to the arrival of a CME that left the Sun on 13 Apr.
+Rationale: G1-G2 (Minor-Moderate) storming is likely on 16 Apr due to
+CME arrival from filament eruptions that left the Sun on 13 Apr.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Apr 14-Apr 16 2025
+Solar Radiation Storm Forecast for Apr 15-Apr 17 2025
 
-              Apr 14  Apr 15  Apr 16
+              Apr 15  Apr 16  Apr 17
 S1 or greater   10%     10%      5%
 
-Rationale: There is a slight chance for S1 (Minor) or greater solar
-radiation storms on 14-15 Apr.
+Rationale: There is a slight chance for S1 (minor) solar radiation
+storms on 15-16 Apr.
 
 C. NOAA Radio Blackout Activity and Forecast
 
 Radio blackouts reaching the R1 levels were observed over the past 24
-hours. The largest was at Apr 13 2025 1851 UTC.
+hours. The largest was at Apr 14 2025 0650 UTC.
 
-Radio Blackout Forecast for Apr 14-Apr 16 2025
+Radio Blackout Forecast for Apr 15-Apr 17 2025
 
-              Apr 14        Apr 15        Apr 16
+              Apr 15        Apr 16        Apr 17
 R1-R2           80%           75%           60%
 R3 or greater   15%           10%           10%
 
-Rationale: R1-R2 (Minor-Moderate) radio blackouts are expected, with a
-slight chance for R3 (Strong), over 14-16 Apr.
+Rationale: R1-R2 (Minor-Moderate) radio blackouts are expected on 16-17
+Apr, with a slight chance for R3 (Strong) events. Probabilities decrease
+slightly on 17 Apr.
 
 ```
