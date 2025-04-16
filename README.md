@@ -1,10 +1,14 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2025-04-15
-<br />**Title of the image:**  Planetary Nebula NGC 1514 from Webb
-<br />**Description for the image:**  What happens when a star runs out of nuclear fuel?  For stars like our Sun, the center condenses into a white dwarf while the outer atmosphere is expelled into space to appear as a planetary nebula.  The expelled outer atmosphere of planetary nebula NGC 1514 appears to be a jumble of bubbles -- when seen in visible light.  But the view from the James Webb Space Telescope in infrared, as featured here, confirms a different story: in this light the nebula shows a distinct hourglass shape, which is interpreted as a cylinder seen along a diagonal.  If you look closely at the center of the nebula, you can also see a bright central star that is part of a binary system.  More observations might better reveal how this nebula is evolving and how the central stars are working together to produce the interesting cylinder and bubbles observed.    Jump Around the Universe: Random APOD Generator
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2504/NGC1514_WebbSchmidt_1983.jpg
+<br />**Date image released:**  2025-04-16
+<br />**This image is owned by:**  
+Taavi Niittee  
+(Tõrva Astronomy Club) 
+
+<br />**Title of the image:**  Halo of the Cat's Eye
+<br />**Description for the image:**  What created the unusual halo around the Cat's Eye Nebula? No one is sure. What is sure is that the Cat's Eye Nebula (NGC 6543) is one of the best known planetary nebulae on the sky.  Although haunting symmetries are seen in the bright central region, this image was taken to feature its intricately structured outer halo, which spans over three light-years across.  Planetary nebulae have long been appreciated as a final phase in the life of a Sun-like star. Only recently however, have some planetaries been found to have expansive halos, likely formed from material shrugged off during earlier puzzling episodes in the star's evolution. While the planetary nebula phase is thought to last for around 10,000 years, astronomers estimate the age of the outer filamentary portions of the Cat's Eye Nebula's halo to be 50,000 to 90,000 years.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2504/CatsEyeWide_Niittee_960.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -48,57 +52,56 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 Apr 15 0030 UTC
+:Issued: 2025 Apr 16 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
-Scale levels).
-The greatest expected 3 hr Kp for Apr 15-Apr 17 2025 is 6.00 (NOAA Scale
+The greatest observed 3 hr Kp over the past 24 hours was 6 (NOAA Scale
 G2).
+The greatest expected 3 hr Kp for Apr 16-Apr 18 2025 is 6.67 (NOAA Scale
+G3).
 
-NOAA Kp index breakdown Apr 15-Apr 17 2025
+NOAA Kp index breakdown Apr 16-Apr 18 2025
 
-             Apr 15       Apr 16       Apr 17
-00-03UT       3.67         4.00         4.33     
-03-06UT       3.00         3.00         4.33     
-06-09UT       3.00         5.00 (G1)    4.00     
-09-12UT       3.67         4.00         3.67     
-12-15UT       2.67         6.00 (G2)    4.33     
-15-18UT       2.00         4.00         3.00     
-18-21UT       2.00         5.00 (G1)    2.67     
-21-00UT       3.67         4.33         4.00     
+             Apr 16       Apr 17       Apr 18
+00-03UT       6.33 (G2)    5.33 (G1)    3.67     
+03-06UT       6.67 (G3)    4.67 (G1)    4.33     
+06-09UT       4.33         4.33         3.00     
+09-12UT       4.00         4.33         3.00     
+12-15UT       4.33         4.00         2.67     
+15-18UT       4.33         3.00         3.00     
+18-21UT       5.00 (G1)    2.67         3.00     
+21-00UT       5.00 (G1)    4.00         3.00     
 
-Rationale: G1-G2 (Minor-Moderate) storming is likely on 16 Apr due to
-CME arrival from filament eruptions that left the Sun on 13 Apr.
+Rationale: G3 (Strong) geomagnetic storming is likely on 16 Apr,
+followed by G1 (Minor) storming on 17 Apr.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Apr 15-Apr 17 2025
+Solar Radiation Storm Forecast for Apr 16-Apr 18 2025
 
-              Apr 15  Apr 16  Apr 17
+              Apr 16  Apr 17  Apr 18
 S1 or greater   10%     10%      5%
 
-Rationale: There is a slight chance for S1 (minor) solar radiation
-storms on 15-16 Apr.
+Rationale: There is a slight chance for S1 (Minor) solar radiation
+storms on 16-17 Apr.
 
 C. NOAA Radio Blackout Activity and Forecast
 
 Radio blackouts reaching the R1 levels were observed over the past 24
-hours. The largest was at Apr 14 2025 0650 UTC.
+hours. The largest was at Apr 15 2025 1020 UTC.
 
-Radio Blackout Forecast for Apr 15-Apr 17 2025
+Radio Blackout Forecast for Apr 16-Apr 18 2025
 
-              Apr 15        Apr 16        Apr 17
+              Apr 16        Apr 17        Apr 18
 R1-R2           80%           75%           60%
 R3 or greater   15%           10%           10%
 
-Rationale: R1-R2 (Minor-Moderate) radio blackouts are expected on 16-17
-Apr, with a slight chance for R3 (Strong) events. Probabilities decrease
-slightly on 17 Apr.
+Rationale: R1-R2 (Minor-Moderate) radio blackouts are expected 16-17
+Apr. Probabilities decrease slightly on 18 Apr.
 
 ```
