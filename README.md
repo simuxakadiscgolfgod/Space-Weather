@@ -1,14 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2025-04-16
-<br />**This image is owned by:**  
-Taavi Niittee  
-(Tõrva Astronomy Club) 
-
-<br />**Title of the image:**  Halo of the Cat's Eye
-<br />**Description for the image:**  What created the unusual halo around the Cat's Eye Nebula? No one is sure. What is sure is that the Cat's Eye Nebula (NGC 6543) is one of the best known planetary nebulae on the sky.  Although haunting symmetries are seen in the bright central region, this image was taken to feature its intricately structured outer halo, which spans over three light-years across.  Planetary nebulae have long been appreciated as a final phase in the life of a Sun-like star. Only recently however, have some planetaries been found to have expansive halos, likely formed from material shrugged off during earlier puzzling episodes in the star's evolution. While the planetary nebula phase is thought to last for around 10,000 years, astronomers estimate the age of the outer filamentary portions of the Cat's Eye Nebula's halo to be 50,000 to 90,000 years.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2504/CatsEyeWide_Niittee_960.jpg
+<br />**Date image released:**  2025-04-17
+<br />**This image is owned by:**  Daniel Adibi
+<br />**Title of the image:**  Virgo Cluster Galaxies
+<br />**Description for the image:**  Galaxies of the Virgo Cluster are scattered across this nearly 4 degree wide telescopic field of view. About 50 million light-years distant, the Virgo Cluster is the closest large galaxy cluster to our own local galaxy group. Prominent here are Virgo's bright elliptical galaxies from the Messier catalog, M87 at bottom left, and M86 and M84 near center right. M86 and M84 are recognized as part of Markarian's Chain, the visually striking line-up of galaxies on the that runs through the upper portion of this frame. Near the middle of the chain lies an intriguing interacting pair of galaxies, NGC 4438 and NGC 4435, known to some as Markarian's Eyes. Still, giant elliptical galaxy M87 dominates the Virgo cluster. It's the home of a super massive black hole, the first black hole ever imaged by planet Earth's Event Horizon Telescope.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2504/LRGB_final_corrected2048.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -52,56 +49,56 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 Apr 16 0030 UTC
+:Issued: 2025 Apr 17 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 6 (NOAA Scale
+The greatest observed 3 hr Kp over the past 24 hours was 8 (NOAA Scale
+G4).
+The greatest expected 3 hr Kp for Apr 17-Apr 19 2025 is 6.33 (NOAA Scale
 G2).
-The greatest expected 3 hr Kp for Apr 16-Apr 18 2025 is 6.67 (NOAA Scale
-G3).
 
-NOAA Kp index breakdown Apr 16-Apr 18 2025
+NOAA Kp index breakdown Apr 17-Apr 19 2025
 
-             Apr 16       Apr 17       Apr 18
-00-03UT       6.33 (G2)    5.33 (G1)    3.67     
-03-06UT       6.67 (G3)    4.67 (G1)    4.33     
-06-09UT       4.33         4.33         3.00     
-09-12UT       4.00         4.33         3.00     
-12-15UT       4.33         4.00         2.67     
-15-18UT       4.33         3.00         3.00     
-18-21UT       5.00 (G1)    2.67         3.00     
-21-00UT       5.00 (G1)    4.00         3.00     
+             Apr 17       Apr 18       Apr 19
+00-03UT       6.33 (G2)    3.67         2.67     
+03-06UT       5.67 (G2)    4.33         2.00     
+06-09UT       5.33 (G1)    3.00         2.67     
+09-12UT       4.33         3.00         2.33     
+12-15UT       3.33         2.67         2.33     
+15-18UT       3.33         3.00         2.33     
+18-21UT       3.33         3.00         2.33     
+21-00UT       3.33         3.00         2.33     
 
-Rationale: G3 (Strong) geomagnetic storming is likely on 16 Apr,
-followed by G1 (Minor) storming on 17 Apr.
+Rationale: G1-G2 (Minor-Moderate) geomagnetic storms are expected on 17
+Apr due to CME influences.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Apr 16-Apr 18 2025
+Solar Radiation Storm Forecast for Apr 17-Apr 19 2025
 
-              Apr 16  Apr 17  Apr 18
-S1 or greater   10%     10%      5%
+              Apr 17  Apr 18  Apr 19
+S1 or greater    1%      1%      1%
 
-Rationale: There is a slight chance for S1 (Minor) solar radiation
-storms on 16-17 Apr.
+Rationale: No S1 (Minor) or greater solar radiation storms are expected.
+No significant active region activity favorable for radiation storm
+production is forecast.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-Radio blackouts reaching the R1 levels were observed over the past 24
-hours. The largest was at Apr 15 2025 1020 UTC.
+No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Apr 16-Apr 18 2025
+Radio Blackout Forecast for Apr 17-Apr 19 2025
 
-              Apr 16        Apr 17        Apr 18
-R1-R2           80%           75%           60%
-R3 or greater   15%           10%           10%
+              Apr 17        Apr 18        Apr 19
+R1-R2           60%           60%           60%
+R3 or greater   10%           10%           10%
 
-Rationale: R1-R2 (Minor-Moderate) radio blackouts are expected 16-17
-Apr. Probabilities decrease slightly on 18 Apr.
+Rationale: R1-R2 (Minor-Moderate) or greater radio blackouts are likely
+on 17-19 Apr.
 
 ```
