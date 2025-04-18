@@ -1,11 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2025-04-17
-<br />**This image is owned by:**  Daniel Adibi
-<br />**Title of the image:**  Virgo Cluster Galaxies
-<br />**Description for the image:**  Galaxies of the Virgo Cluster are scattered across this nearly 4 degree wide telescopic field of view. About 50 million light-years distant, the Virgo Cluster is the closest large galaxy cluster to our own local galaxy group. Prominent here are Virgo's bright elliptical galaxies from the Messier catalog, M87 at bottom left, and M86 and M84 near center right. M86 and M84 are recognized as part of Markarian's Chain, the visually striking line-up of galaxies on the that runs through the upper portion of this frame. Near the middle of the chain lies an intriguing interacting pair of galaxies, NGC 4438 and NGC 4435, known to some as Markarian's Eyes. Still, giant elliptical galaxy M87 dominates the Virgo cluster. It's the home of a super massive black hole, the first black hole ever imaged by planet Earth's Event Horizon Telescope.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2504/LRGB_final_corrected2048.jpg
+<br />**Date image released:**  2025-04-18
+<br />**This image is owned by:**  Dan Bartlett
+<br />**Title of the image:**  Comet C/2025 F2 SWAN
+<br />**Description for the image:**  In late March, the comet now designated C/2025 F2 SWAN was found independently by citizen scientists Vladimir Bezugly, Michael Mattiazzo, and Rob Matson while examining publicly available image data from the Solar Wind ANisotropies (SWAN) camera on the sun-staring SOHO spacecraft. Comet SWAN's coma, its greenish color a signature of diatomic carbon molecules fluorescing in sunlight, is at lower left in this telescopic image. SWAN's faint ion tail extends nearly two degrees toward the upper right across the field of view. The interplanetary scene was captured in clear but moonlit skies from June Lake, California on April 14. Seen against background of stars toward the constellation Andromeda, the comet was then some 10 light-minutes from our fair planet. Now a target for binoculars and small telescopes in northern hemisphere morning skies this comet SWAN is headed for a perihelion, its closest approach to the Sun, on May 1. That will bring this visitor from the distant Oort cloud almost as close to the Sun as the orbit of inner planet Mercury.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2504/C2025_F2SWAN_20250414_DEBartlett.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,39 +49,39 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 Apr 17 0030 UTC
+:Issued: 2025 Apr 18 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 8 (NOAA Scale
-G4).
-The greatest expected 3 hr Kp for Apr 17-Apr 19 2025 is 6.33 (NOAA Scale
-G2).
+The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
+Scale levels).
+The greatest expected 3 hr Kp for Apr 18-Apr 20 2025 is 4.00 (below NOAA
+Scale levels).
 
-NOAA Kp index breakdown Apr 17-Apr 19 2025
+NOAA Kp index breakdown Apr 18-Apr 20 2025
 
-             Apr 17       Apr 18       Apr 19
-00-03UT       6.33 (G2)    3.67         2.67     
-03-06UT       5.67 (G2)    4.33         2.00     
-06-09UT       5.33 (G1)    3.00         2.67     
-09-12UT       4.33         3.00         2.33     
-12-15UT       3.33         2.67         2.33     
-15-18UT       3.33         3.00         2.33     
-18-21UT       3.33         3.00         2.33     
-21-00UT       3.33         3.00         2.33     
+             Apr 18       Apr 19       Apr 20
+00-03UT       2.67         2.67         2.33     
+03-06UT       3.00         2.00         3.00     
+06-09UT       4.00         2.67         2.33     
+09-12UT       3.00         2.33         1.67     
+12-15UT       2.33         2.33         1.33     
+15-18UT       1.67         2.33         1.00     
+18-21UT       1.67         2.33         1.67     
+21-00UT       2.33         2.33         2.00     
 
-Rationale: G1-G2 (Minor-Moderate) geomagnetic storms are expected on 17
-Apr due to CME influences.
+Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
+significant transient or recurrent solar wind features are forecast.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Apr 17-Apr 19 2025
+Solar Radiation Storm Forecast for Apr 18-Apr 20 2025
 
-              Apr 17  Apr 18  Apr 19
+              Apr 18  Apr 19  Apr 20
 S1 or greater    1%      1%      1%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -92,13 +92,13 @@ C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Apr 17-Apr 19 2025
+Radio Blackout Forecast for Apr 18-Apr 20 2025
 
-              Apr 17        Apr 18        Apr 19
-R1-R2           60%           60%           60%
+              Apr 18        Apr 19        Apr 20
+R1-R2           55%           55%           55%
 R3 or greater   10%           10%           10%
 
-Rationale: R1-R2 (Minor-Moderate) or greater radio blackouts are likely
-on 17-19 Apr.
+Rationale: Isolated R1-2 (Minor-Moderate) radio blackouts are likely
+through 20 Apr.
 
 ```
