@@ -1,11 +1,10 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2025-04-18
-<br />**This image is owned by:**  Dan Bartlett
-<br />**Title of the image:**  Comet C/2025 F2 SWAN
-<br />**Description for the image:**  In late March, the comet now designated C/2025 F2 SWAN was found independently by citizen scientists Vladimir Bezugly, Michael Mattiazzo, and Rob Matson while examining publicly available image data from the Solar Wind ANisotropies (SWAN) camera on the sun-staring SOHO spacecraft. Comet SWAN's coma, its greenish color a signature of diatomic carbon molecules fluorescing in sunlight, is at lower left in this telescopic image. SWAN's faint ion tail extends nearly two degrees toward the upper right across the field of view. The interplanetary scene was captured in clear but moonlit skies from June Lake, California on April 14. Seen against background of stars toward the constellation Andromeda, the comet was then some 10 light-minutes from our fair planet. Now a target for binoculars and small telescopes in northern hemisphere morning skies this comet SWAN is headed for a perihelion, its closest approach to the Sun, on May 1. That will bring this visitor from the distant Oort cloud almost as close to the Sun as the orbit of inner planet Mercury.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2504/C2025_F2SWAN_20250414_DEBartlett.jpg
+<br />**Date image released:**  2025-04-19
+<br />**Title of the image:**  Painting with Jupiter
+<br />**Description for the image:**  In digital brush strokes, Jupiter's signature atmospheric bands and vortices were used to form this interplanetary post-impressionist work of art. The creative image from citizen scientist Rick Lundh uses data from the Juno spacecraft's JunoCam. To paint on the digital canvas, a JunoCam image with contrasting light and dark tones was chosen for processing and an oil-painting software filter applied. The image data was captured during perijove 10. That was Juno's December 16, 2017 close encounter with the solar system's ruling gas giant. At the time the spacecraft was cruising about 13,000 kilometers above northern Jovian cloud tops. Now in an extended mission, Juno has explored Jupiter and its moons since entering orbit around Jupiter in July of 2016.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2504/PIA21983JupiterLundh.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,39 +48,39 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 Apr 18 0030 UTC
+:Issued: 2025 Apr 19 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Apr 18-Apr 20 2025 is 4.00 (below NOAA
-Scale levels).
+The greatest expected 3 hr Kp for Apr 19-Apr 21 2025 is 5.67 (NOAA Scale
+G2).
 
-NOAA Kp index breakdown Apr 18-Apr 20 2025
+NOAA Kp index breakdown Apr 19-Apr 21 2025
 
-             Apr 18       Apr 19       Apr 20
-00-03UT       2.67         2.67         2.33     
-03-06UT       3.00         2.00         3.00     
-06-09UT       4.00         2.67         2.33     
-09-12UT       3.00         2.33         1.67     
-12-15UT       2.33         2.33         1.33     
-15-18UT       1.67         2.33         1.00     
-18-21UT       1.67         2.33         1.67     
-21-00UT       2.33         2.33         2.00     
+             Apr 19       Apr 20       Apr 21
+00-03UT       2.67         2.33         3.67     
+03-06UT       2.00         3.00         3.67     
+06-09UT       2.67         2.33         4.67 (G1)
+09-12UT       2.33         1.67         4.00     
+12-15UT       2.33         1.33         4.00     
+15-18UT       2.33         1.00         4.67 (G1)
+18-21UT       2.33         1.67         5.67 (G2)
+21-00UT       2.33         2.00         4.67 (G1)
 
-Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
-significant transient or recurrent solar wind features are forecast.
+Rationale: Periods of G1-G2 (Minor-Moderate) geomagnetic storms are
+likely on 21 Apr due to the influence of a positive polarity CH HSS.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Apr 18-Apr 20 2025
+Solar Radiation Storm Forecast for Apr 19-Apr 21 2025
 
-              Apr 18  Apr 19  Apr 20
+              Apr 19  Apr 20  Apr 21
 S1 or greater    1%      1%      1%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -90,15 +89,16 @@ production is forecast.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-No radio blackouts were observed over the past 24 hours.
+Radio blackouts reaching the R1 levels were observed over the past 24
+hours. The largest was at Apr 18 2025 2350 UTC.
 
-Radio Blackout Forecast for Apr 18-Apr 20 2025
+Radio Blackout Forecast for Apr 19-Apr 21 2025
 
-              Apr 18        Apr 19        Apr 20
-R1-R2           55%           55%           55%
-R3 or greater   10%           10%           10%
+              Apr 19        Apr 20        Apr 21
+R1-R2           40%           40%           40%
+R3 or greater    5%            5%            5%
 
-Rationale: Isolated R1-2 (Minor-Moderate) radio blackouts are likely
-through 20 Apr.
+Rationale: There is a chance for R1-R2 (Minor-Moderate) radio blackouts
+over 19-21 Apr.
 
 ```
