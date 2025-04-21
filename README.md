@@ -1,17 +1,10 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2025-04-20
-<br />**This image is owned by:**  
-Infrared: NASA, 
-Spitzer Space Telescope;
-Visible: 
-Oliver Czernetz, 
-Siding Spring Obs.
-
-<br />**Title of the image:**  The Orion Nebula in Visible and Infrared
-<br />**Description for the image:**  The Great Nebula in Orion is a colorful place.  Visible to the unaided eye, it appears as a small fuzzy patch in the constellation of Orion.  Long exposure, multi-wavelength images like this, however, show the Orion Nebula to be a busy neighborhood of young stars, hot gas, and dark dust.  This digital composite features not only three colors of visible light but four colors of infrared light taken by NASA's orbiting Spitzer Space Telescope as well.  The power behind much of the Orion Nebula (M42) is the Trapezium - four of the brightest stars in the nebula.  Many of the filamentary structures visible are actually shock waves - fronts where fast moving material encounters slow moving gas.  The Orion Nebula spans about 40 light years and is located about 1500 light years away in the same spiral arm of our Galaxy as the Sun.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2504/M42_SpitzerCzernetz_2000.jpg
+<br />**Date image released:**  2025-04-21
+<br />**Title of the image:**  Galaxy Lenses Galaxy from Webb
+<br />**Description for the image:**  Is this one galaxy or two? Although it looks like one, the answer is two. One path to this happening is when a small galaxy collides with a larger galaxy and ends up in the center. But in the featured image, something more rare is going on. Here, the central light-colored elliptical galaxy is much closer than the blue and red-colored spiral galaxy that surrounds it. This can happen when near and far galaxies are exactly aligned, causing the gravity of the near galaxy to pull the light from the far galaxy around it in an effect called gravitational lensing. The featured galaxy double was taken by the Webb Space Telescope and shows a complete Einstein ring, with great detail visible for both galaxies.  Galaxy lenses like this can reveal new information about the mass distribution of the foreground lens and the light distribution of the background source.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2504/GalaxiesLens_Webb_1146.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -55,39 +48,39 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 Apr 20 0030 UTC
+:Issued: 2025 Apr 21 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
-Scale levels).
-The greatest expected 3 hr Kp for Apr 20-Apr 22 2025 is 6.00 (NOAA Scale
+The greatest observed 3 hr Kp over the past 24 hours was 5 (NOAA Scale
+G1).
+The greatest expected 3 hr Kp for Apr 21-Apr 23 2025 is 6.00 (NOAA Scale
 G2).
 
-NOAA Kp index breakdown Apr 20-Apr 22 2025
+NOAA Kp index breakdown Apr 21-Apr 23 2025
 
-             Apr 20       Apr 21       Apr 22
-00-03UT       2.67         2.00         3.00     
-03-06UT       4.00         1.00         2.00     
-06-09UT       2.33         1.00         3.00     
-09-12UT       1.67         1.00         4.00     
-12-15UT       1.33         1.00         4.33     
-15-18UT       1.00         2.00         5.00 (G1)
-18-21UT       1.67         3.00         5.33 (G1)
-21-00UT       2.00         3.67         6.00 (G2)
+             Apr 21       Apr 22       Apr 23
+00-03UT       3.00         3.00         4.00     
+03-06UT       3.67         2.00         5.67 (G2)
+06-09UT       2.00         3.00         4.33     
+09-12UT       2.00         4.00         4.00     
+12-15UT       2.00         4.33         4.67 (G1)
+15-18UT       2.00         5.00 (G1)    4.33     
+18-21UT       2.67         5.33 (G1)    3.00     
+21-00UT       3.67         6.00 (G2)    4.67 (G1)
 
 Rationale: Periods of G1-G2 (Minor-Moderate) geomagnetic storms are
-likely on 22 Apr due to positive polarity CH HSS influences.
+likely on 22-23 Apr due to the influences of a positive polarity CH HSS.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Apr 20-Apr 22 2025
+Solar Radiation Storm Forecast for Apr 21-Apr 23 2025
 
-              Apr 20  Apr 21  Apr 22
+              Apr 21  Apr 22  Apr 23
 S1 or greater    1%      1%      1%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -97,15 +90,15 @@ production is forecast.
 C. NOAA Radio Blackout Activity and Forecast
 
 Radio blackouts reaching the R1 levels were observed over the past 24
-hours. The largest was at Apr 19 2025 0030 UTC.
+hours. The largest was at Apr 20 2025 1211 UTC.
 
-Radio Blackout Forecast for Apr 20-Apr 22 2025
+Radio Blackout Forecast for Apr 21-Apr 23 2025
 
-              Apr 20        Apr 21        Apr 22
+              Apr 21        Apr 22        Apr 23
 R1-R2           40%           40%           40%
 R3 or greater    5%            5%            5%
 
 Rationale: There is a chance for R1-R2 (Minor-Moderate) radio blackouts
-over 20-22 Apr.
+over 21-23 Apr.
 
 ```
