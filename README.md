@@ -1,10 +1,13 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2025-04-21
-<br />**Title of the image:**  Galaxy Lenses Galaxy from Webb
-<br />**Description for the image:**  Is this one galaxy or two? Although it looks like one, the answer is two. One path to this happening is when a small galaxy collides with a larger galaxy and ends up in the center. But in the featured image, something more rare is going on. Here, the central light-colored elliptical galaxy is much closer than the blue and red-colored spiral galaxy that surrounds it. This can happen when near and far galaxies are exactly aligned, causing the gravity of the near galaxy to pull the light from the far galaxy around it in an effect called gravitational lensing. The featured galaxy double was taken by the Webb Space Telescope and shows a complete Einstein ring, with great detail visible for both galaxies.  Galaxy lenses like this can reveal new information about the mass distribution of the foreground lens and the light distribution of the background source.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2504/GalaxiesLens_Webb_1146.jpg
+<br />**Date image released:**  2025-04-22
+<br />**This image is owned by:**  
+Rich Addis
+
+<br />**Title of the image:**  Terminator Moon: A Moonscape of Shadows
+<br />**Description for the image:**  What's different about this Moon? It's the terminators. In the featured image, you can't directly see any terminator -- the line that divides the light of day from the dark of night. That's because the featured image is a digital composite of many near-terminator lunar strips over a full Moon.  Terminator regions show the longest and most prominent shadows -- shadows which, by their contrast and length, allow a flat photograph to appear three-dimensional. The overlay images were taken over two weeks in early April.  Many of the Moon's craters stand out because of the shadows they all cast to the right. The image shows in graphic detail that the darker regions known as maria are not just darker than the rest of the Moon -- they are also flatter.    Dial-A-Moon: Find the Moon phase on your birthday this year
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2504/TerminatorMoon_Addis_3558.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -48,39 +51,39 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 Apr 21 0030 UTC
+:Issued: 2025 Apr 22 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 5 (NOAA Scale
 G1).
-The greatest expected 3 hr Kp for Apr 21-Apr 23 2025 is 6.00 (NOAA Scale
+The greatest expected 3 hr Kp for Apr 22-Apr 24 2025 is 6.00 (NOAA Scale
 G2).
 
-NOAA Kp index breakdown Apr 21-Apr 23 2025
+NOAA Kp index breakdown Apr 22-Apr 24 2025
 
-             Apr 21       Apr 22       Apr 23
-00-03UT       3.00         3.00         4.00     
-03-06UT       3.67         2.00         5.67 (G2)
-06-09UT       2.00         3.00         4.33     
-09-12UT       2.00         4.00         4.00     
-12-15UT       2.00         4.33         4.67 (G1)
-15-18UT       2.00         5.00 (G1)    4.33     
-18-21UT       2.67         5.33 (G1)    3.00     
-21-00UT       3.67         6.00 (G2)    4.67 (G1)
+             Apr 22       Apr 23       Apr 24
+00-03UT       4.67 (G1)    4.00         4.00     
+03-06UT       6.00 (G2)    4.67 (G1)    3.33     
+06-09UT       3.33         3.33         3.33     
+09-12UT       4.67 (G1)    3.67         4.00     
+12-15UT       3.67         3.00         3.00     
+15-18UT       2.67         2.33         3.00     
+18-21UT       3.00         2.33         2.33     
+21-00UT       4.00         3.67         2.67     
 
-Rationale: Periods of G1-G2 (Minor-Moderate) geomagnetic storms are
-likely on 22-23 Apr due to the influences of a positive polarity CH HSS.
+Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
+significant transient or recurrent solar wind features are forecast.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Apr 21-Apr 23 2025
+Solar Radiation Storm Forecast for Apr 22-Apr 24 2025
 
-              Apr 21  Apr 22  Apr 23
+              Apr 22  Apr 23  Apr 24
 S1 or greater    1%      1%      1%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -90,15 +93,15 @@ production is forecast.
 C. NOAA Radio Blackout Activity and Forecast
 
 Radio blackouts reaching the R1 levels were observed over the past 24
-hours. The largest was at Apr 20 2025 1211 UTC.
+hours. The largest was at Apr 21 2025 1837 UTC.
 
-Radio Blackout Forecast for Apr 21-Apr 23 2025
+Radio Blackout Forecast for Apr 22-Apr 24 2025
 
-              Apr 21        Apr 22        Apr 23
+              Apr 22        Apr 23        Apr 24
 R1-R2           40%           40%           40%
-R3 or greater    5%            5%            5%
+R3 or greater    1%            1%            1%
 
-Rationale: There is a chance for R1-R2 (Minor-Moderate) radio blackouts
-over 21-23 Apr.
+Rationale: No R1 (Minor) or greater radio blackouts are expected.  No
+significant active region flare activity is forecast.
 
 ```
