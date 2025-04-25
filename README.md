@@ -1,11 +1,10 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2025-04-24
-<br />**This image is owned by:**  Daniel Stern
-<br />**Title of the image:**  NGC 6164: A Dragon's Egg
-<br />**Description for the image:**  Beautiful emission nebula NGC 6164 was created by a rare, hot, luminous O-type star, some 40 times as massive as the Sun. Seen at the center of the cosmic cloud, the star is a mere 3 to 4 million years old. In another three to four million years the massive star will end its life in a supernova explosion. Spanning around 4 light-years, the nebula itself has a bipolar symmetry. That makes it similar in appearance to more common and familiar planetary nebulae - the gaseous shrouds surrounding dying sun-like stars. Also like many planetary nebulae, NGC 6164 has been found to have an extensive, faint halo, revealed in this deep image of the region. Expanding into the surrounding interstellar medium, the material in the halo is likely from an earlier active phase of the O star. This gorgeous telescopic view is a composite of extensive narrow-band image data, highlighting glowing atomic hydrogen gas in red and oxygen in greenish hues, with broad-band data for the surrounding starfield. Also known as the Dragon's Egg nebula, NGC 6164 is 4,200 light-years away in the right-angled southern constellation of Norma.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2504/NGC_6164_r4_2048.jpg
+<br />**Date image released:**  2025-04-25
+<br />**Title of the image:**  Asteroid Donaldjohanson
+<br />**Description for the image:**  Main belt asteroid 52246 Donaldjohanson is about 8 kilometers long and 3.5 kilometers across. On April 20, this sharp close-up of the asteroid was captured at a distance of about 1100 kilometers by the Lucy spacecraft's long range camera during its second asteroid encounter. Named after American paleoanthropologist Donald Johanson, discoverer of the Lucy hominid fossil, the elongated asteroid was likely formed about 150 million years ago from a gentle collision of two smaller bodies creating its characteristic contact binary shape. Launched in October of 2021, the Lucy spacecraft will continue its travels through the main asteroid belt in 2025, but is on its way to explore Jupiter's swarm of Trojan asteroids. Lucy is expected to encounter its first Trojan asteroid target, 3548 Eurybates, in August 2027.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2504/final_0798443319_dec.png
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,27 +48,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 Apr 24 0030 UTC
+:Issued: 2025 Apr 25 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Apr 24-Apr 26 2025 is 4.00 (below NOAA
+The greatest expected 3 hr Kp for Apr 25-Apr 27 2025 is 4.00 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Apr 24-Apr 26 2025
+NOAA Kp index breakdown Apr 25-Apr 27 2025
 
-             Apr 24       Apr 25       Apr 26
-00-03UT       4.00         3.67         2.33     
-03-06UT       3.33         3.00         2.00     
-06-09UT       3.33         2.00         2.33     
-09-12UT       4.00         2.67         2.00     
-12-15UT       3.00         2.67         2.00     
-15-18UT       3.00         2.67         2.00     
-18-21UT       2.33         2.00         2.00     
-21-00UT       2.67         2.67         2.00     
+             Apr 25       Apr 26       Apr 27
+00-03UT       3.00         2.33         3.33     
+03-06UT       2.67         2.00         2.00     
+06-09UT       4.00         2.33         2.00     
+09-12UT       2.67         2.00         3.00     
+12-15UT       2.67         2.00         3.00     
+15-18UT       2.00         2.00         4.00     
+18-21UT       2.00         2.00         3.33     
+21-00UT       2.00         2.00         3.00     
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
 significant transient or recurrent solar wind features are forecast.
@@ -79,9 +78,9 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Apr 24-Apr 26 2025
+Solar Radiation Storm Forecast for Apr 25-Apr 27 2025
 
-              Apr 24  Apr 25  Apr 26
+              Apr 25  Apr 26  Apr 27
 S1 or greater    1%      1%      1%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -92,13 +91,13 @@ C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Apr 24-Apr 26 2025
+Radio Blackout Forecast for Apr 25-Apr 27 2025
 
-              Apr 24        Apr 25        Apr 26
+              Apr 25        Apr 26        Apr 27
 R1-R2           40%           40%           40%
 R3 or greater    1%            1%            1%
 
-Rationale: There is a chance for R1 (Minor) radio blackouts.  No
-significant active region flare activity is forecast.
+Rationale: There is a chance for R1-R2 (Minor-Moderate) radio blackouts
+over 25-27 Apr.
 
 ```
