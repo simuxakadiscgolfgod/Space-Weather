@@ -1,10 +1,10 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2025-04-25
-<br />**Title of the image:**  Asteroid Donaldjohanson
-<br />**Description for the image:**  Main belt asteroid 52246 Donaldjohanson is about 8 kilometers long and 3.5 kilometers across. On April 20, this sharp close-up of the asteroid was captured at a distance of about 1100 kilometers by the Lucy spacecraft's long range camera during its second asteroid encounter. Named after American paleoanthropologist Donald Johanson, discoverer of the Lucy hominid fossil, the elongated asteroid was likely formed about 150 million years ago from a gentle collision of two smaller bodies creating its characteristic contact binary shape. Launched in October of 2021, the Lucy spacecraft will continue its travels through the main asteroid belt in 2025, but is on its way to explore Jupiter's swarm of Trojan asteroids. Lucy is expected to encounter its first Trojan asteroid target, 3548 Eurybates, in August 2027.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2504/final_0798443319_dec.png
+<br />**Date image released:**  2025-04-26
+<br />**Title of the image:**  Barred Spiral Galaxy NGC 5335
+<br />**Description for the image:**  This stunning portrait of NGC 5335 was captured by the Hubble Space Telescope.  Some 170,000 light-years across and over 200 million light-years away toward the constellation Virgo, the magnificent spiral galaxy is seen face-on in Hubble's view. Within the galactic disk, loose streamers of star forming regions lie along the galaxy's flocculent spiral arms. But the most striking feature of NGC 5335 is its prominent central bar. Seen in about 30 percent of galaxies, including our Milky Way, bar structures are understood to channel material inward toward the galactic center, fueling star formation. Of course, distant background galaxies are easy to spot, scattered around the sharp Hubble image. Launched in 1990, Hubble is now celebrating its 35th year exploring the cosmos from orbit around planet Earth.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2504/NGC5335heic2505_2048.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -48,27 +48,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 Apr 25 0030 UTC
+:Issued: 2025 Apr 26 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Apr 25-Apr 27 2025 is 4.00 (below NOAA
+The greatest expected 3 hr Kp for Apr 26-Apr 28 2025 is 4.00 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Apr 25-Apr 27 2025
+NOAA Kp index breakdown Apr 26-Apr 28 2025
 
-             Apr 25       Apr 26       Apr 27
-00-03UT       3.00         2.33         3.33     
-03-06UT       2.67         2.00         2.00     
-06-09UT       4.00         2.33         2.00     
-09-12UT       2.67         2.00         3.00     
-12-15UT       2.67         2.00         3.00     
-15-18UT       2.00         2.00         4.00     
-18-21UT       2.00         2.00         3.33     
-21-00UT       2.00         2.00         3.00     
+             Apr 26       Apr 27       Apr 28
+00-03UT       2.33         3.33         3.00     
+03-06UT       2.00         2.00         2.00     
+06-09UT       2.33         2.00         2.00     
+09-12UT       2.00         3.00         2.67     
+12-15UT       2.00         3.00         2.67     
+15-18UT       2.00         4.00         2.67     
+18-21UT       2.00         3.33         2.67     
+21-00UT       2.00         3.00         3.00     
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
 significant transient or recurrent solar wind features are forecast.
@@ -78,9 +78,9 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Apr 25-Apr 27 2025
+Solar Radiation Storm Forecast for Apr 26-Apr 28 2025
 
-              Apr 25  Apr 26  Apr 27
+              Apr 26  Apr 27  Apr 28
 S1 or greater    1%      1%      1%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -91,13 +91,13 @@ C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Apr 25-Apr 27 2025
+Radio Blackout Forecast for Apr 26-Apr 28 2025
 
-              Apr 25        Apr 26        Apr 27
+              Apr 26        Apr 27        Apr 28
 R1-R2           40%           40%           40%
 R3 or greater    1%            1%            1%
 
 Rationale: There is a chance for R1-R2 (Minor-Moderate) radio blackouts
-over 25-27 Apr.
+over 26-28 Apr.
 
 ```
