@@ -1,10 +1,10 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2025-04-26
-<br />**Title of the image:**  Barred Spiral Galaxy NGC 5335
-<br />**Description for the image:**  This stunning portrait of NGC 5335 was captured by the Hubble Space Telescope.  Some 170,000 light-years across and over 200 million light-years away toward the constellation Virgo, the magnificent spiral galaxy is seen face-on in Hubble's view. Within the galactic disk, loose streamers of star forming regions lie along the galaxy's flocculent spiral arms. But the most striking feature of NGC 5335 is its prominent central bar. Seen in about 30 percent of galaxies, including our Milky Way, bar structures are understood to channel material inward toward the galactic center, fueling star formation. Of course, distant background galaxies are easy to spot, scattered around the sharp Hubble image. Launched in 1990, Hubble is now celebrating its 35th year exploring the cosmos from orbit around planet Earth.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2504/NGC5335heic2505_2048.jpg
+<br />**Date image released:**  2025-04-27
+<br />**Title of the image:**  IC 418: The Spirograph Nebula
+<br />**Description for the image:**  What is creating the strange texture of IC 418?  Dubbed the Spirograph Nebula for its resemblance to drawings from a cyclical drawing tool, planetary nebula IC 418 shows patterns that are not well understood. Perhaps they are related to chaotic winds from the variable central star, which changes brightness unpredictably in just a few hours.  By contrast, evidence indicates that only a few million years ago, IC 418 was probably a well-understood star similar to our Sun.  Only a few thousand years ago, IC 418 was probably a common red giant star.  Since running out of nuclear fuel, though, the outer envelope has begun expanding outward leaving a hot remnant core destined to become a white-dwarf star, visible in the image center. The light from the central core excites surrounding atoms in the nebula causing them to glow. IC 418 lies about 2000 light-years away and spans 0.3 light-years across.  This false-color image taken from the Hubble Space Telescope reveals the unusual details.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2504/Spirograph_Hubble_2119.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -48,27 +48,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 Apr 26 0030 UTC
+:Issued: 2025 Apr 27 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Apr 26-Apr 28 2025 is 4.00 (below NOAA
+The greatest expected 3 hr Kp for Apr 27-Apr 29 2025 is 4.00 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Apr 26-Apr 28 2025
+NOAA Kp index breakdown Apr 27-Apr 29 2025
 
-             Apr 26       Apr 27       Apr 28
-00-03UT       2.33         3.33         3.00     
-03-06UT       2.00         2.00         2.00     
-06-09UT       2.33         2.00         2.00     
-09-12UT       2.00         3.00         2.67     
-12-15UT       2.00         3.00         2.67     
-15-18UT       2.00         4.00         2.67     
-18-21UT       2.00         3.33         2.67     
-21-00UT       2.00         3.00         3.00     
+             Apr 27       Apr 28       Apr 29
+00-03UT       3.33         3.00         2.33     
+03-06UT       2.00         2.00         2.33     
+06-09UT       2.00         2.00         2.00     
+09-12UT       3.00         2.67         2.33     
+12-15UT       3.00         2.67         2.33     
+15-18UT       4.00         2.67         1.67     
+18-21UT       3.33         2.67         2.33     
+21-00UT       3.00         3.00         2.33     
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
 significant transient or recurrent solar wind features are forecast.
@@ -78,9 +78,9 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Apr 26-Apr 28 2025
+Solar Radiation Storm Forecast for Apr 27-Apr 29 2025
 
-              Apr 26  Apr 27  Apr 28
+              Apr 27  Apr 28  Apr 29
 S1 or greater    1%      1%      1%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -91,13 +91,13 @@ C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Apr 26-Apr 28 2025
+Radio Blackout Forecast for Apr 27-Apr 29 2025
 
-              Apr 26        Apr 27        Apr 28
-R1-R2           40%           40%           40%
+              Apr 27        Apr 28        Apr 29
+R1-R2           25%           25%           25%
 R3 or greater    1%            1%            1%
 
-Rationale: There is a chance for R1-R2 (Minor-Moderate) radio blackouts
-over 26-28 Apr.
+Rationale: No R1 (Minor) or greater radio blackouts are expected.  No
+significant active region flare activity is forecast.
 
 ```
