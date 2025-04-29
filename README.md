@@ -1,10 +1,13 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2025-04-27
-<br />**Title of the image:**  IC 418: The Spirograph Nebula
-<br />**Description for the image:**  What is creating the strange texture of IC 418?  Dubbed the Spirograph Nebula for its resemblance to drawings from a cyclical drawing tool, planetary nebula IC 418 shows patterns that are not well understood. Perhaps they are related to chaotic winds from the variable central star, which changes brightness unpredictably in just a few hours.  By contrast, evidence indicates that only a few million years ago, IC 418 was probably a well-understood star similar to our Sun.  Only a few thousand years ago, IC 418 was probably a common red giant star.  Since running out of nuclear fuel, though, the outer envelope has begun expanding outward leaving a hot remnant core destined to become a white-dwarf star, visible in the image center. The light from the central core excites surrounding atoms in the nebula causing them to glow. IC 418 lies about 2000 light-years away and spans 0.3 light-years across.  This false-color image taken from the Hubble Space Telescope reveals the unusual details.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2504/Spirograph_Hubble_2119.jpg
+<br />**Date image released:**  2025-04-29
+<br />**This image is owned by:**  
+Natan Fontes
+
+<br />**Title of the image:**  Saturn's Rings Appear to Disappear
+<br />**Description for the image:**  Where are Saturn's ears? Galileo is credited, in 1610, as the first person to see Saturn's rings. Testing out Lipperhey's recently co-invented telescope, Galileo did not know what they were and so called them "ears".  The mystery deepened in 1612, when Saturn's ears mysteriously disappeared. Today we know exactly what happened: from the perspective of the Earth, Saturn's rings had become too thin to see.  The same drama plays out every 15 years because Saturn, like Earth, undergoes tilt-driven seasons. This means that as Saturn goes around the Sun, its equator and rings can tilt noticeably toward the Sun and inner Solar System, making them easily visible, but from other orbital locations will appear almost not at all.  The featured picture from Brasilia, Brazil shows a modern version of this sequence: the top ring-dominated image was taken in 2020, while the bottom ring-obscure image taken earlier in 2025.   Make Saturn's Rings Musical: Play them like a harp!
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2504/SaturnSeasons_Fontes_960.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -48,27 +51,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 Apr 27 0030 UTC
+:Issued: 2025 Apr 29 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Apr 27-Apr 29 2025 is 4.00 (below NOAA
+The greatest expected 3 hr Kp for Apr 29-May 01 2025 is 2.67 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Apr 27-Apr 29 2025
+NOAA Kp index breakdown Apr 29-May 01 2025
 
-             Apr 27       Apr 28       Apr 29
-00-03UT       3.33         3.00         2.33     
-03-06UT       2.00         2.00         2.33     
-06-09UT       2.00         2.00         2.00     
-09-12UT       3.00         2.67         2.33     
-12-15UT       3.00         2.67         2.33     
-15-18UT       4.00         2.67         1.67     
-18-21UT       3.33         2.67         2.33     
-21-00UT       3.00         3.00         2.33     
+             Apr 29       Apr 30       May 01
+00-03UT       2.67         1.67         1.33     
+03-06UT       2.33         1.33         1.33     
+06-09UT       2.00         1.33         1.33     
+09-12UT       2.00         1.33         1.33     
+12-15UT       2.00         1.33         1.67     
+15-18UT       1.67         1.33         1.33     
+18-21UT       2.33         1.67         1.67     
+21-00UT       2.33         1.67         1.67     
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
 significant transient or recurrent solar wind features are forecast.
@@ -78,9 +81,9 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Apr 27-Apr 29 2025
+Solar Radiation Storm Forecast for Apr 29-May 01 2025
 
-              Apr 27  Apr 28  Apr 29
+              Apr 29  Apr 30  May 01
 S1 or greater    1%      1%      1%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -91,13 +94,13 @@ C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Apr 27-Apr 29 2025
+Radio Blackout Forecast for Apr 29-May 01 2025
 
-              Apr 27        Apr 28        Apr 29
-R1-R2           25%           25%           25%
+              Apr 29        Apr 30        May 01
+R1-R2           15%           15%           20%
 R3 or greater    1%            1%            1%
 
-Rationale: No R1 (Minor) or greater radio blackouts are expected.  No
-significant active region flare activity is forecast.
+Rationale: Solar activity is expected to be low with a slight chance for
+M-class flares (R1-R2, Minor-Moderate) through 01 May.
 
 ```
