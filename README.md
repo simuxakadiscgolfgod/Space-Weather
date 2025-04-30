@@ -1,13 +1,13 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2025-04-29
+<br />**Date image released:**  2025-04-30
 <br />**This image is owned by:**  
-Natan Fontes
+Daniel Korona
 
-<br />**Title of the image:**  Saturn's Rings Appear to Disappear
-<br />**Description for the image:**  Where are Saturn's ears? Galileo is credited, in 1610, as the first person to see Saturn's rings. Testing out Lipperhey's recently co-invented telescope, Galileo did not know what they were and so called them "ears".  The mystery deepened in 1612, when Saturn's ears mysteriously disappeared. Today we know exactly what happened: from the perspective of the Earth, Saturn's rings had become too thin to see.  The same drama plays out every 15 years because Saturn, like Earth, undergoes tilt-driven seasons. This means that as Saturn goes around the Sun, its equator and rings can tilt noticeably toward the Sun and inner Solar System, making them easily visible, but from other orbital locations will appear almost not at all.  The featured picture from Brasilia, Brazil shows a modern version of this sequence: the top ring-dominated image was taken in 2020, while the bottom ring-obscure image taken earlier in 2025.   Make Saturn's Rings Musical: Play them like a harp!
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2504/SaturnSeasons_Fontes_960.jpg
+<br />**Title of the image:**  A Happy Sky over Bufa Hill in Mexico
+<br />**Description for the image:**  Sometimes, the sky itself seems to smile.  A few days ago, visible over much of the world, an unusual superposition of our Moon with the planets Venus and Saturn created just such an iconic facial expression. Specifically, a crescent Moon appeared to make a happy face on the night sky when paired with seemingly nearby planets.  Pictured is the scene as it appeared over Zacatecas, México, with distinctive Bufa Hill in the foreground.  On the far right and farthest in the distance is the planet Saturn.  Significantly closer and visible to Saturn's upper left is Venus, the brightest planet on the sky.  Just above the central horizon is Earth's Moon in a waning crescent phase. To create this gigantic icon, the crescent moon phase must be smiling in the correct direction.   Dial-A-Moon: Find the Moon phase on your birthday this year
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2504/HappySkyMexico_Korona_1358.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -51,27 +51,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 Apr 29 0030 UTC
+:Issued: 2025 Apr 30 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Apr 29-May 01 2025 is 2.67 (below NOAA
+The greatest expected 3 hr Kp for Apr 30-May 02 2025 is 3.67 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Apr 29-May 01 2025
+NOAA Kp index breakdown Apr 30-May 02 2025
 
-             Apr 29       Apr 30       May 01
-00-03UT       2.67         1.67         1.33     
-03-06UT       2.33         1.33         1.33     
-06-09UT       2.00         1.33         1.33     
-09-12UT       2.00         1.33         1.33     
-12-15UT       2.00         1.33         1.67     
-15-18UT       1.67         1.33         1.33     
-18-21UT       2.33         1.67         1.67     
-21-00UT       2.33         1.67         1.67     
+             Apr 30       May 01       May 02
+00-03UT       1.67         1.33         3.00     
+03-06UT       1.33         1.33         3.67     
+06-09UT       1.33         1.33         2.67     
+09-12UT       1.33         1.33         2.67     
+12-15UT       1.33         1.67         1.67     
+15-18UT       1.33         1.33         2.33     
+18-21UT       1.67         1.67         2.33     
+21-00UT       1.67         1.67         2.67     
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
 significant transient or recurrent solar wind features are forecast.
@@ -81,9 +81,9 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Apr 29-May 01 2025
+Solar Radiation Storm Forecast for Apr 30-May 02 2025
 
-              Apr 29  Apr 30  May 01
+              Apr 30  May 01  May 02
 S1 or greater    1%      1%      1%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -92,15 +92,17 @@ production is forecast.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-No radio blackouts were observed over the past 24 hours.
+Radio blackouts reaching the R1 levels were observed over the past 24
+hours. The largest was at Apr 29 2025 0513 UTC.
 
-Radio Blackout Forecast for Apr 29-May 01 2025
+Radio Blackout Forecast for Apr 30-May 02 2025
 
-              Apr 29        Apr 30        May 01
-R1-R2           15%           15%           20%
-R3 or greater    1%            1%            1%
+              Apr 30        May 01        May 02
+R1-R2           50%           50%           50%
+R3 or greater   10%           10%           10%
 
-Rationale: Solar activity is expected to be low with a slight chance for
-M-class flares (R1-R2, Minor-Moderate) through 01 May.
+Rationale: Solar activity is expected to be low with a chance for
+M-class flares (R1-R2, Minor-Moderate), and a slight chance for X-class
+flares (R3-Strong) through 02 May.
 
 ```
