@@ -1,13 +1,10 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2025-04-30
-<br />**This image is owned by:**  
-Daniel Korona
-
-<br />**Title of the image:**  A Happy Sky over Bufa Hill in Mexico
-<br />**Description for the image:**  Sometimes, the sky itself seems to smile.  A few days ago, visible over much of the world, an unusual superposition of our Moon with the planets Venus and Saturn created just such an iconic facial expression. Specifically, a crescent Moon appeared to make a happy face on the night sky when paired with seemingly nearby planets.  Pictured is the scene as it appeared over Zacatecas, México, with distinctive Bufa Hill in the foreground.  On the far right and farthest in the distance is the planet Saturn.  Significantly closer and visible to Saturn's upper left is Venus, the brightest planet on the sky.  Just above the central horizon is Earth's Moon in a waning crescent phase. To create this gigantic icon, the crescent moon phase must be smiling in the correct direction.   Dial-A-Moon: Find the Moon phase on your birthday this year
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2504/HappySkyMexico_Korona_1358.jpg
+<br />**Date image released:**  2025-05-01
+<br />**Title of the image:**  MESSENGER's Last Day on Mercury
+<br />**Description for the image:**  The first to orbit inner planet Mercury, the MESSENGER spacecraft came to rest on this region of Mercury's surface on April 30, 2015. Constructed from MESSENGER image and laser altimeter data, the projected scene looks north over the northeastern rim of the broad, lava filled Shakespeare basin. The large, 48 kilometer (30 mile) wide crater Janacek is near the upper left edge. Terrain height is color coded with red regions about 3 kilometers above blue ones. MESSENGER'S final orbit was predicted to end near the center, with the spacecraft impacting the surface at nearly 4 kilometers per second (over 8,700 miles per hour) and creating a new crater about 16 meters (52 feet) in diameter. The impact on the far side of Mercury was not observed by telescopes, but confirmed when no signal was detected from the spacecraft given time to emerge from behind the planet. Launched in 2004, the MErcury Surface, Space ENvironment, GEochemisty and Ranging spacecraft completed over 4,000 orbits after reaching the Solar System's innermost planet in 2011.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2505/messengerImpactSite_black.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -51,27 +48,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 Apr 30 0030 UTC
+:Issued: 2025 May 01 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Apr 30-May 02 2025 is 3.67 (below NOAA
+The greatest expected 3 hr Kp for May 01-May 03 2025 is 3.67 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Apr 30-May 02 2025
+NOAA Kp index breakdown May 01-May 03 2025
 
-             Apr 30       May 01       May 02
-00-03UT       1.67         1.33         3.00     
-03-06UT       1.33         1.33         3.67     
-06-09UT       1.33         1.33         2.67     
-09-12UT       1.33         1.33         2.67     
-12-15UT       1.33         1.67         1.67     
-15-18UT       1.33         1.33         2.33     
-18-21UT       1.67         1.67         2.33     
-21-00UT       1.67         1.67         2.67     
+             May 01       May 02       May 03
+00-03UT       1.33         3.00         2.67     
+03-06UT       1.33         1.67         2.67     
+06-09UT       1.33         1.67         2.33     
+09-12UT       1.33         1.67         2.33     
+12-15UT       1.67         1.67         2.33     
+15-18UT       2.00         1.67         2.33     
+18-21UT       2.67         3.33         2.67     
+21-00UT       3.00         3.00         3.67     
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
 significant transient or recurrent solar wind features are forecast.
@@ -81,9 +78,9 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Apr 30-May 02 2025
+Solar Radiation Storm Forecast for May 01-May 03 2025
 
-              Apr 30  May 01  May 02
+              May 01  May 02  May 03
 S1 or greater    1%      1%      1%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -93,16 +90,16 @@ production is forecast.
 C. NOAA Radio Blackout Activity and Forecast
 
 Radio blackouts reaching the R1 levels were observed over the past 24
-hours. The largest was at Apr 29 2025 0513 UTC.
+hours. The largest was at Apr 30 2025 0751 UTC.
 
-Radio Blackout Forecast for Apr 30-May 02 2025
+Radio Blackout Forecast for May 01-May 03 2025
 
-              Apr 30        May 01        May 02
+              May 01        May 02        May 03
 R1-R2           50%           50%           50%
 R3 or greater   10%           10%           10%
 
 Rationale: Solar activity is expected to be low with a chance for
 M-class flares (R1-R2, Minor-Moderate), and a slight chance for X-class
-flares (R3-Strong) through 02 May.
+flares (R3-Strong) through 03 May.
 
 ```
