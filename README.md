@@ -1,10 +1,10 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2025-05-01
-<br />**Title of the image:**  MESSENGER's Last Day on Mercury
-<br />**Description for the image:**  The first to orbit inner planet Mercury, the MESSENGER spacecraft came to rest on this region of Mercury's surface on April 30, 2015. Constructed from MESSENGER image and laser altimeter data, the projected scene looks north over the northeastern rim of the broad, lava filled Shakespeare basin. The large, 48 kilometer (30 mile) wide crater Janacek is near the upper left edge. Terrain height is color coded with red regions about 3 kilometers above blue ones. MESSENGER'S final orbit was predicted to end near the center, with the spacecraft impacting the surface at nearly 4 kilometers per second (over 8,700 miles per hour) and creating a new crater about 16 meters (52 feet) in diameter. The impact on the far side of Mercury was not observed by telescopes, but confirmed when no signal was detected from the spacecraft given time to emerge from behind the planet. Launched in 2004, the MErcury Surface, Space ENvironment, GEochemisty and Ranging spacecraft completed over 4,000 orbits after reaching the Solar System's innermost planet in 2011.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2505/messengerImpactSite_black.jpg
+<br />**Date image released:**  2025-05-02
+<br />**Title of the image:**  Young Star Cluster NGC 346
+<br />**Description for the image:**  The most massive young star cluster in the Small Magellanic Cloud is NGC 346, embedded in our small satellite galaxy's largest star forming region some 210,000 light-years distant. Of course the massive stars of NGC 346 are short lived, but very energetic.  Their winds and radiation sculpt the edges of the region's dusty molecular cloud triggering star-formation within. The star forming region also appears to contain a large population of infant stars. A mere 3 to 5 million years old and not yet burning hydrogen in their cores, the infant stars are strewn about the embedded star cluster. This spectacular infrared view of NGC 346 is from the James Webb Space Telescope's NIRcam. Emission from atomic hydrogen ionized by the massive stars' energetic radiation as well as molecular hydrogen and dust in the star-forming molecular cloud is detailed in pink and orange hues. Webb's sharp image of the young star-forming region spans 240 light-years at the distance of the Small Magellanic Cloud.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2505/jwst-ngc346.png
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -48,39 +48,39 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 May 01 0030 UTC
+:Issued: 2025 May 02 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
-Scale levels).
-The greatest expected 3 hr Kp for May 01-May 03 2025 is 3.67 (below NOAA
-Scale levels).
+The greatest observed 3 hr Kp over the past 24 hours was 5 (NOAA Scale
+G1).
+The greatest expected 3 hr Kp for May 02-May 04 2025 is 4.67 (NOAA Scale
+G1).
 
-NOAA Kp index breakdown May 01-May 03 2025
+NOAA Kp index breakdown May 02-May 04 2025
 
-             May 01       May 02       May 03
-00-03UT       1.33         3.00         2.67     
-03-06UT       1.33         1.67         2.67     
-06-09UT       1.33         1.67         2.33     
-09-12UT       1.33         1.67         2.33     
-12-15UT       1.67         1.67         2.33     
-15-18UT       2.00         1.67         2.33     
-18-21UT       2.67         3.33         2.67     
-21-00UT       3.00         3.00         3.67     
+             May 02       May 03       May 04
+00-03UT       4.67 (G1)    2.67         3.67     
+03-06UT       4.67 (G1)    3.67         3.67     
+06-09UT       3.67         2.00         2.67     
+09-12UT       3.00         2.00         2.33     
+12-15UT       3.00         1.67         1.67     
+15-18UT       3.00         2.00         1.67     
+18-21UT       3.00         2.33         1.67     
+21-00UT       3.67         2.67         3.00     
 
-Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
-significant transient or recurrent solar wind features are forecast.
+Rationale: G1 (Minor) geomagnetic storming is expected on 02 May due to
+CH HSS effects.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for May 01-May 03 2025
+Solar Radiation Storm Forecast for May 02-May 04 2025
 
-              May 01  May 02  May 03
+              May 02  May 03  May 04
 S1 or greater    1%      1%      1%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -89,17 +89,16 @@ production is forecast.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-Radio blackouts reaching the R1 levels were observed over the past 24
-hours. The largest was at Apr 30 2025 0751 UTC.
+No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for May 01-May 03 2025
+Radio Blackout Forecast for May 02-May 04 2025
 
-              May 01        May 02        May 03
-R1-R2           50%           50%           50%
-R3 or greater   10%           10%           10%
+              May 02        May 03        May 04
+R1-R2           50%           45%           45%
+R3 or greater   10%           10%            5%
 
 Rationale: Solar activity is expected to be low with a chance for
 M-class flares (R1-R2, Minor-Moderate), and a slight chance for X-class
-flares (R3-Strong) through 03 May.
+flares (R3-Strong), with those chances decreasing through 04 May.
 
 ```
