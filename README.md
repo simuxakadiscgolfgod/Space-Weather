@@ -1,10 +1,10 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2025-05-03
-<br />**Title of the image:**  Titan: Moon over Saturn
-<br />**Description for the image:**  Like Earth's moon, Saturn's largest moon Titan is locked in synchronous rotation with its planet. This mosaic of images recorded by the Cassini spacecraft in May of 2012 shows its anti-Saturn side, the side always facing away from the ringed gas giant. The only moon in the solar system with a dense atmosphere, Titan is the only solar system world besides Earth known to have standing bodies of liquid on its surface and an earthlike cycle of liquid rain and evaporation. Its high altitude layer of atmospheric haze is evident in the Cassini view of the 5,000 kilometer diameter moon over Saturn's rings and cloud tops. Near center is the dark dune-filled region known as Shangri-La. The Cassini-delivered Huygens probe rests below and left of center, after the most distant landing for a spacecraft from Earth.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2505/PIA19642Titan.jpg
+<br />**Date image released:**  2025-05-04
+<br />**Title of the image:**  Astronomy Picture of the Day
+<br />**Description for the image:**  How fast can a black hole spin?  If any object made of regular matter spins too fast -- it breaks apart. But a black hole might not be able to break apart -- and its maximum spin rate is really unknown. Theorists usually model rapidly rotating black holes with the Kerr solution to Einstein's General Theory of Relativity, which predicts several amazing and unusual things.  Perhaps its most easily testable prediction, though, is that matter entering a maximally rotating black hole should be last seen orbiting at near the speed of light, as seen from far away. This prediction was tested by NASA's NuSTAR and ESA's XMM satellites by observing the supermassive black hole at the center of spiral galaxy NGC 1365. The near light-speed limit was confirmed by measuring the heating and spectral line broadening of nuclear emissions at the inner edge of the surrounding accretion disk. Pictured here is an artist's illustration depicting an accretion disk of normal matter swirling around a black hole, with a jet emanating from the top. Since matter randomly falling into the black hole should
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2505/blackholedisk_cfa_1080.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -48,39 +48,39 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 May 03 0030 UTC
+:Issued: 2025 May 04 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 5 (NOAA Scale
 G1).
-The greatest expected 3 hr Kp for May 03-May 05 2025 is 5.00 (NOAA Scale
-G1).
+The greatest expected 3 hr Kp for May 04-May 06 2025 is 4.00 (below NOAA
+Scale levels).
 
-NOAA Kp index breakdown May 03-May 05 2025
+NOAA Kp index breakdown May 04-May 06 2025
 
-             May 03       May 04       May 05
-00-03UT       5.00 (G1)    3.67         3.67     
-03-06UT       5.00 (G1)    3.67         3.67     
-06-09UT       3.67         2.67         4.00     
-09-12UT       3.67         2.67         3.67     
-12-15UT       3.33         2.67         3.00     
-15-18UT       3.00         2.67         2.67     
-18-21UT       3.00         2.33         2.33     
-21-00UT       2.33         3.00         2.67     
+             May 04       May 05       May 06
+00-03UT       3.67         3.67         2.67     
+03-06UT       2.67         3.67         3.67     
+06-09UT       2.67         4.00         2.67     
+09-12UT       3.67         3.67         2.67     
+12-15UT       2.67         3.00         2.67     
+15-18UT       2.33         2.67         2.00     
+18-21UT       2.67         2.33         1.67     
+21-00UT       3.67         2.67         2.67     
 
-Rationale: Isolated G1 (Minor) intervals are expected early on 03 May
-due to negative polarity CH HSS effects.
+Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
+significant transient or recurrent solar wind features are forecast.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for May 03-May 05 2025
+Solar Radiation Storm Forecast for May 04-May 06 2025
 
-              May 03  May 04  May 05
+              May 04  May 05  May 06
 S1 or greater    1%      1%      1%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -91,13 +91,14 @@ C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for May 03-May 05 2025
+Radio Blackout Forecast for May 04-May 06 2025
 
-              May 03        May 04        May 05
+              May 04        May 05        May 06
 R1-R2           35%           35%           35%
 R3 or greater    5%            5%            5%
 
-Rationale:  There is a chance for R1-R2 (Minor-Moderate) radio blackouts
-through 05 May.
+Rationale: There is a continued chance for R1-R2 (Minor-Moderate) events
+over 04-06 May as Region 4079 maintains its enhanced magnetic
+complexity.
 
 ```
