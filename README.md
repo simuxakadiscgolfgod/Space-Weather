@@ -1,13 +1,7 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2025-05-05
-<br />**This image is owned by:**  
-Jose Antonio Hervas
-
-<br />**Title of the image:**  Planet Lines Across Water
-<br />**Description for the image:**  What’s causing those lines? Objects in the sky sometimes appear reflected as lines across water — but why? If the water’s surface is smooth, then reflected objects would appear similarly -- as spots. But if the water is choppy, then there are many places where light from the object can reflect off the water and still come to you -- and so together form, typically, a line. The same effect is frequently seen for the Sun just before sunset and just after sunrise. Pictured about 10 days ago in Ibiza, Spain, images of the setting Moon, Venus (top), and Saturn (right, faint) were captured both directly and in line-reflected forms from the Mediterranean Sea. The other bright object on the right with a water-reflected line is a beacon on a rock to warn passing boats.   Explore Your Universe: Random APOD Generator
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2505/PlanetLines_Hervas_2603.jpg
+<br />**Sorry, Image not available!**
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -51,40 +45,41 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 May 05 0030 UTC
+:Issued: 2025 May 06 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 5 (NOAA Scale
 G1).
-The greatest expected 3 hr Kp for May 05-May 07 2025 is 4.67 (NOAA Scale
+The greatest expected 3 hr Kp for May 06-May 08 2025 is 5.00 (NOAA Scale
 G1).
 
-NOAA Kp index breakdown May 05-May 07 2025
+NOAA Kp index breakdown May 06-May 08 2025
 
-             May 05       May 06       May 07
-00-03UT       3.67         2.67         2.00     
-03-06UT       4.67 (G1)    3.67         2.67     
-06-09UT       4.00         2.67         2.00     
-09-12UT       3.67         2.67         1.67     
-12-15UT       3.00         2.67         1.00     
-15-18UT       2.67         2.00         1.00     
-18-21UT       2.33         1.67         0.67     
-21-00UT       2.67         2.67         1.67     
+             May 06       May 07       May 08
+00-03UT       5.00 (G1)    3.67         2.67     
+03-06UT       4.33         4.00         2.33     
+06-09UT       3.67         3.00         2.67     
+09-12UT       3.00         2.33         2.33     
+12-15UT       2.67         2.67         2.00     
+15-18UT       2.33         2.00         2.00     
+18-21UT       2.67         3.00         2.33     
+21-00UT       3.00         2.33         2.67     
 
-Rationale: Isolated periods of G1 (Minor) storming are expected early on
-05 May in response to negative polarity CH HSS influences.
+Rationale: The geomagnetic field is expected to reach G1 (Minor) storm
+levels on 06 May, and active levels on 07 May, due to sustained negative
+polarity CH HSS influences.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for May 05-May 07 2025
+Solar Radiation Storm Forecast for May 06-May 08 2025
 
-              May 05  May 06  May 07
-S1 or greater    1%      1%      1%
+              May 06  May 07  May 08
+S1 or greater    5%      5%      5%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
 No significant active region activity favorable for radiation storm
@@ -94,13 +89,13 @@ C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for May 05-May 07 2025
+Radio Blackout Forecast for May 06-May 08 2025
 
-              May 05        May 06        May 07
-R1-R2           35%           35%           35%
+              May 06        May 07        May 08
+R1-R2           45%           45%           45%
 R3 or greater    5%            5%            5%
 
-Rationale: There is a chance for R1-R2 (Minor-Moderate) radio blackouts
-over 05-07 May as Region 4079 continues to transit the visible disk.
+Rationale: Solar activity is expected to be low with a chance for
+M-class (R1-R2/Minor-Moderate) flare activity through 08 May.
 
 ```
