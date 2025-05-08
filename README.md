@@ -1,14 +1,10 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Sorry, Image not available!**
-<br />**Date image released:**  2025-05-07
-<br />**This image is owned by:**  
-Collaborative Astrophotography Team (CAT)
-
-<br />**Title of the image:**  Galaxy Wars: M81 versus M82
-<br />**Description for the image:**  In the upper left corner, surrounded by blue arms and dotted with red nebulas, is spiral galaxy M81.  In the lower right corner, marked by a light central line and surrounded by red glowing gas, is irregular galaxy M82.  This stunning vista shows these two mammoth galaxies locked in gravitational combat, as they have been for the past billion years.   The gravity from each galaxy dramatically affects the other during each hundred-million-year pass.  Last go-round, M82's gravity likely raised density waves rippling around M81, resulting in the richness of M81's spiral arms.  But M81 left M82 with violent star forming regions and colliding gas clouds so energetic the galaxy glows in X-rays.  This big battle is seen from Earth through the faint glow of an Integrated Flux Nebula, a little studied complex of diffuse gas and dust clouds in our Milky Way Galaxy. In a few billion years, only one galaxy will remain.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2505/M81M82_CAT_3780.jpg
+<br />**Date image released:**  2025-05-08
+<br />**Title of the image:**  M1: The Incredible Expanding Crab
+<br />**Description for the image:**  Cataloged as M1, the Crab Nebula is the first on Charles Messier's famous list of things which are not comets. In fact, the Crab Nebula is now known to be a supernova remnant, an expanding cloud of debris from the death explosion of a massive star. The violent birth of the Crab was witnessed by astronomers in the year 1054. Roughly 10 light-years across, the nebula is still expanding at a rate of about 1,500 kilometers per second. You can see the expansion by comparing these sharp images from the Hubble Space Telescope and James Webb Space Telescope. The Crab's dynamic, fragmented filaments were captured in visible light by Hubble in 2005 and Webb in infrared light in 2023. This cosmic crustacean lies about 6,500 light-years away in the constellation Taurus.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2505/Crab_Webb_998.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -52,39 +48,40 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 May 07 0030 UTC
+:Issued: 2025 May 08 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for May 07-May 09 2025 is 4.67 (NOAA Scale
+The greatest expected 3 hr Kp for May 08-May 10 2025 is 4.67 (NOAA Scale
 G1).
 
-NOAA Kp index breakdown May 07-May 09 2025
+NOAA Kp index breakdown May 08-May 10 2025
 
-             May 07       May 08       May 09
-00-03UT       3.67         2.67         3.33     
-03-06UT       4.00         2.33         3.67     
-06-09UT       3.00         2.67         3.67     
-09-12UT       2.33         2.33         3.67     
-12-15UT       2.67         2.00         3.67     
-15-18UT       2.00         2.00         4.00     
-18-21UT       3.00         2.33         4.67 (G1)
-21-00UT       2.33         2.67         4.00     
+             May 08       May 09       May 10
+00-03UT       2.67         3.33         3.67     
+03-06UT       2.33         3.67         3.00     
+06-09UT       2.67         3.67         2.67     
+09-12UT       2.33         3.67         2.00     
+12-15UT       2.00         3.67         2.67     
+15-18UT       2.00         4.00         2.00     
+18-21UT       2.33         4.67 (G1)    2.67     
+21-00UT       2.67         4.00         2.67     
 
 Rationale: G1 (Minor) conditions are likely on 09 May due to the onset
-of influence from another negative polarity CH HSS.
+of influence from another negative polarity CH HSS coupled with a
+possible glancing blow CME from 05 May.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for May 07-May 09 2025
+Solar Radiation Storm Forecast for May 08-May 10 2025
 
-              May 07  May 08  May 09
+              May 08  May 09  May 10
 S1 or greater    5%      5%      5%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -95,13 +92,14 @@ C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for May 07-May 09 2025
+Radio Blackout Forecast for May 08-May 10 2025
 
-              May 07        May 08        May 09
+              May 08        May 09        May 10
 R1-R2           45%           45%           45%
 R3 or greater    5%            5%            5%
 
-Rationale: There is a chance for R1-R2 (Minor-Moderate) radio blackouts
-over 07-09 May.
+Rationale: Region 4079s enhanced magnetic complexity will keep the
+chance for R1-R2 (Minor-Moderate) radio blackouts in the forecast over
+08-10 May.
 
 ```
