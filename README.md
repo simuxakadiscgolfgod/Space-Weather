@@ -1,10 +1,10 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2025-05-09
-<br />**Title of the image:**  IXPE Explores a Black Hole Jet
-<br />**Description for the image:**  How do black holes create X-rays? Answering this long-standing question was significantly advanced recently with data taken by NASA’s IXPE satellite. X-rays cannot exit a black hole, but they can be created in the energetic environment nearby, in particular by a jet of particles moving outward. By observing X-ray light arriving from near the supermassive black hole at the center of galaxy BL Lac, called a blazar, it was discovered that these X-rays lacked significant polarization, which is expected when created more by energetic electrons than protons. In the featured artistic illustration, a powerful jet is depicted emanating from an orange-colored accretion disk circling the black hole. Understanding highly energetic processes across the universe helps humanity to understand similar processes that occur on or near our Earth.   Put it All Together: Astronomy Puzzle of the Day
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2505/BLlac_NasaGarcia_4580.jpg
+<br />**Date image released:**  2025-05-10
+<br />**Title of the image:**  Yogi and Friends in 3D
+<br />**Description for the image:**  This picture from July 1997 shows a ramp from the Pathfinder lander, the Sojourner robot rover, deflated landing airbags, a couch, Barnacle Bill and Yogi Rock appear together in this 3D stereo view of the surface of Mars. Barnacle Bill is the rock just left of the house cat-sized, solar-paneled Sojourner. Yogi is the big friendly-looking boulder at top right. The "couch" is the angular rock shape visible near center on the horizon. Look at the image with red/blue glasses (or just hold a piece of clear red plastic over your left eye and blue or green over your right) to get the dramatic 3D perspective. The stereo view was recorded by the remarkable Imager for Mars Pathfinder (IMP) camera. The IMP had two optical paths for stereo imaging and ranging and was equipped with an array of color filters for spectral analysis.  Operating as the first astronomical observatory on Mars, the IMP also recorded images of the Sun and Deimos, the smallest of Mars' two tiny moons.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2505/mars10_st_path_big.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -48,41 +48,41 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 May 09 0030 UTC
+:Issued: 2025 May 10 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for May 09-May 11 2025 is 4.67 (NOAA Scale
+The greatest expected 3 hr Kp for May 10-May 12 2025 is 4.67 (NOAA Scale
 G1).
 
-NOAA Kp index breakdown May 09-May 11 2025
+NOAA Kp index breakdown May 10-May 12 2025
 
-             May 09       May 10       May 11
-00-03UT       3.33         3.67         3.00     
-03-06UT       3.67         3.00         3.67     
-06-09UT       3.67         2.67         2.67     
-09-12UT       3.67         2.00         2.00     
-12-15UT       3.67         2.67         2.00     
-15-18UT       4.00         2.00         2.67     
-18-21UT       4.67 (G1)    2.67         2.67     
-21-00UT       4.00         2.67         2.67     
+             May 10       May 11       May 12
+00-03UT       4.67 (G1)    3.00         2.33     
+03-06UT       4.67 (G1)    3.67         2.67     
+06-09UT       2.67         2.67         2.00     
+09-12UT       2.00         2.00         1.00     
+12-15UT       2.67         2.00         0.67     
+15-18UT       2.00         2.67         2.33     
+18-21UT       2.67         2.67         2.67     
+21-00UT       2.67         2.67         2.33     
 
-Rationale: G1 (Minor) conditions are likely on 09 May due to the onset
-of another negative polarity CH HSS coupled with a possible glancing
-blow CME from 05 May.
+Rationale: Isolated G1 (Minor) storming periods early on 10 May due to
+negative polarity CH HSS influences and the possible arrival of a CME
+from 05 May.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for May 09-May 11 2025
+Solar Radiation Storm Forecast for May 10-May 12 2025
 
-              May 09  May 10  May 11
-S1 or greater    5%      5%      5%
+              May 10  May 11  May 12
+S1 or greater    5%      5%      1%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
 No significant active region activity favorable for radiation storm
@@ -92,13 +92,13 @@ C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for May 09-May 11 2025
+Radio Blackout Forecast for May 10-May 12 2025
 
-              May 09        May 10        May 11
-R1-R2           40%           40%           40%
-R3 or greater    5%            5%            5%
+              May 10        May 11        May 12
+R1-R2           40%           40%           10%
+R3 or greater    5%            5%            1%
 
 Rationale: There is a chance for R1-R2 (Minor-Moderate) radio blackouts
-over 09-11 May.
+over 10-11 May, decreasing to a slight chance on 12 May.
 
 ```
