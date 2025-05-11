@@ -1,10 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2025-05-10
-<br />**Title of the image:**  Yogi and Friends in 3D
-<br />**Description for the image:**  This picture from July 1997 shows a ramp from the Pathfinder lander, the Sojourner robot rover, deflated landing airbags, a couch, Barnacle Bill and Yogi Rock appear together in this 3D stereo view of the surface of Mars. Barnacle Bill is the rock just left of the house cat-sized, solar-paneled Sojourner. Yogi is the big friendly-looking boulder at top right. The "couch" is the angular rock shape visible near center on the horizon. Look at the image with red/blue glasses (or just hold a piece of clear red plastic over your left eye and blue or green over your right) to get the dramatic 3D perspective. The stereo view was recorded by the remarkable Imager for Mars Pathfinder (IMP) camera. The IMP had two optical paths for stereo imaging and ranging and was equipped with an array of color filters for spectral analysis.  Operating as the first astronomical observatory on Mars, the IMP also recorded images of the Sun and Deimos, the smallest of Mars' two tiny moons.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2505/mars10_st_path_big.jpg
+<br />**Date image released:**  2025-05-11
+<br />**This image is owned by:**  Donald Mitchell
+<br />**Title of the image:**  The Surface of Venus from Venera 14
+<br />**Description for the image:**  If you could stand on Venus -- what would you see?  Pictured is the view from Venera 14, a robotic Soviet lander which parachuted and air-braked down through the thick Venusian atmosphere in March of 1982. The desolate landscape it saw included flat rocks, vast empty terrain, and a featureless sky above Phoebe Regio near Venus' equator. On the lower left is the spacecraft's penetrometer used to make scientific measurements, while the light piece on the right is part of an ejected lens-cap.  Enduring temperatures near 450 degrees Celsius and pressures 75 times that on Earth, the hardened Venera spacecraft lasted only about an hour. Although data from Venera 14 was beamed across the inner Solar System over 40 years ago, digital processing and merging of Venera's unusual images continues even today.  Recent analyses of infrared measurements taken by ESA's orbiting Venus Express spacecraft indicate that active volcanoes may currently exist on Venus.    Jigsaw Fun: Astronomy Puzzle of the Day
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2505/Venus_Venera14_1705.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -48,41 +49,40 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 May 10 0030 UTC
+:Issued: 2025 May 11 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for May 10-May 12 2025 is 4.67 (NOAA Scale
-G1).
+The greatest expected 3 hr Kp for May 11-May 13 2025 is 3.67 (below NOAA
+Scale levels).
 
-NOAA Kp index breakdown May 10-May 12 2025
+NOAA Kp index breakdown May 11-May 13 2025
 
-             May 10       May 11       May 12
-00-03UT       4.67 (G1)    3.00         2.33     
-03-06UT       4.67 (G1)    3.67         2.67     
-06-09UT       2.67         2.67         2.00     
-09-12UT       2.00         2.00         1.00     
-12-15UT       2.67         2.00         0.67     
-15-18UT       2.00         2.67         2.33     
-18-21UT       2.67         2.67         2.67     
-21-00UT       2.67         2.67         2.33     
+             May 11       May 12       May 13
+00-03UT       3.00         2.33         2.67     
+03-06UT       3.67         2.67         3.67     
+06-09UT       2.67         2.00         2.67     
+09-12UT       2.00         1.00         2.67     
+12-15UT       2.00         0.67         1.67     
+15-18UT       2.67         2.33         1.67     
+18-21UT       2.67         2.67         3.00     
+21-00UT       2.67         2.33         2.67     
 
-Rationale: Isolated G1 (Minor) storming periods early on 10 May due to
-negative polarity CH HSS influences and the possible arrival of a CME
-from 05 May.
+Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
+significant transient or recurrent solar wind features are forecast.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for May 10-May 12 2025
+Solar Radiation Storm Forecast for May 11-May 13 2025
 
-              May 10  May 11  May 12
-S1 or greater    5%      5%      1%
+              May 11  May 12  May 13
+S1 or greater    5%      1%      1%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
 No significant active region activity favorable for radiation storm
@@ -92,13 +92,13 @@ C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for May 10-May 12 2025
+Radio Blackout Forecast for May 11-May 13 2025
 
-              May 10        May 11        May 12
-R1-R2           40%           40%           10%
-R3 or greater    5%            5%            1%
+              May 11        May 12        May 13
+R1-R2           40%            5%            5%
+R3 or greater    5%            1%            1%
 
-Rationale: There is a chance for R1-R2 (Minor-Moderate) radio blackouts
-over 10-11 May, decreasing to a slight chance on 12 May.
+Rationale: There is a chance for R1/R2 (Minor/Moderate) radio blackouts
+on 11 May as Region 4079 completes its transit beyond the W limb.
 
 ```
