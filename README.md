@@ -1,11 +1,10 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2025-05-11
-<br />**This image is owned by:**  Donald Mitchell
-<br />**Title of the image:**  The Surface of Venus from Venera 14
-<br />**Description for the image:**  If you could stand on Venus -- what would you see?  Pictured is the view from Venera 14, a robotic Soviet lander which parachuted and air-braked down through the thick Venusian atmosphere in March of 1982. The desolate landscape it saw included flat rocks, vast empty terrain, and a featureless sky above Phoebe Regio near Venus' equator. On the lower left is the spacecraft's penetrometer used to make scientific measurements, while the light piece on the right is part of an ejected lens-cap.  Enduring temperatures near 450 degrees Celsius and pressures 75 times that on Earth, the hardened Venera spacecraft lasted only about an hour. Although data from Venera 14 was beamed across the inner Solar System over 40 years ago, digital processing and merging of Venera's unusual images continues even today.  Recent analyses of infrared measurements taken by ESA's orbiting Venus Express spacecraft indicate that active volcanoes may currently exist on Venus.    Jigsaw Fun: Astronomy Puzzle of the Day
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2505/Venus_Venera14_1705.jpg
+<br />**Date image released:**  2025-05-12
+<br />**Title of the image:**  Gaia Reconstructs a Side View of our Galaxy
+<br />**Description for the image:**  What does our Milky Way Galaxy look like from the side? Because we are on the inside, humanity can’t get an actual picture. Recently, however, just such a map has been made using location data for over a billion stars from ESA’s Gaia mission. The resulting featured illustration shows that just like many other spiral galaxies, our Milky Way has a very thin central disk. Our Sun and all the stars we see at night are in this disk. Although hypothesized before, perhaps more surprising is that the disk appears curved at the outer edges. The colors of our Galaxy's warped central band derive mostly from dark dust, bright blue stars, and red emission nebulas. Although data analysis is ongoing, Gaia was deactivated in March after a successful mission.   Explore Your Universe: Random APOD Generator
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2505/MilkyWaySide_Gaia_5000.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,40 +48,40 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 May 11 0030 UTC
+:Issued: 2025 May 12 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
-Scale levels).
-The greatest expected 3 hr Kp for May 11-May 13 2025 is 3.67 (below NOAA
-Scale levels).
+The greatest observed 3 hr Kp over the past 24 hours was 5 (NOAA Scale
+G1).
+The greatest expected 3 hr Kp for May 12-May 14 2025 is 4.67 (NOAA Scale
+G1).
 
-NOAA Kp index breakdown May 11-May 13 2025
+NOAA Kp index breakdown May 12-May 14 2025
 
-             May 11       May 12       May 13
-00-03UT       3.00         2.33         2.67     
-03-06UT       3.67         2.67         3.67     
-06-09UT       2.67         2.00         2.67     
-09-12UT       2.00         1.00         2.67     
-12-15UT       2.00         0.67         1.67     
-15-18UT       2.67         2.33         1.67     
-18-21UT       2.67         2.67         3.00     
-21-00UT       2.67         2.33         2.67     
+             May 12       May 13       May 14
+00-03UT       4.00         2.67         2.33     
+03-06UT       4.67 (G1)    3.67         2.67     
+06-09UT       3.33         2.67         2.33     
+09-12UT       3.00         2.67         2.33     
+12-15UT       2.67         1.67         2.67     
+15-18UT       3.67         1.67         2.33     
+18-21UT       2.67         3.00         2.33     
+21-00UT       2.67         2.67         2.00     
 
-Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
-significant transient or recurrent solar wind features are forecast.
+Rationale: An isolated period of G1 (Minor) conditions are expected on
+12 May as negative polarity CH HSS influences linger yet diminish.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for May 11-May 13 2025
+Solar Radiation Storm Forecast for May 12-May 14 2025
 
-              May 11  May 12  May 13
-S1 or greater    5%      1%      1%
+              May 12  May 13  May 14
+S1 or greater    1%      1%      1%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
 No significant active region activity favorable for radiation storm
@@ -90,15 +89,16 @@ production is forecast.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-No radio blackouts were observed over the past 24 hours.
+Radio blackouts reaching the R1 levels were observed over the past 24
+hours. The largest was at May 12 2025 0001 UTC.
 
-Radio Blackout Forecast for May 11-May 13 2025
+Radio Blackout Forecast for May 12-May 14 2025
 
-              May 11        May 12        May 13
-R1-R2           40%            5%            5%
-R3 or greater    5%            1%            1%
+              May 12        May 13        May 14
+R1-R2            1%            1%            1%
+R3 or greater    1%            1%            1%
 
-Rationale: There is a chance for R1/R2 (Minor/Moderate) radio blackouts
-on 11 May as Region 4079 completes its transit beyond the W limb.
+Rationale: No R1 (Minor) or greater radio blackouts are expected.  No
+significant active region flare activity is forecast.
 
 ```
