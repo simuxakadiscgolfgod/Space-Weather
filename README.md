@@ -1,10 +1,15 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2025-05-13
-<br />**Title of the image:**  Gaia Reconstructs a Top View of our Galaxy
-<br />**Description for the image:**  What does our Milky Way Galaxy look like from the top? Because we are on the inside, humanity can’t get an actual picture. Recently, however, just such a map has been made using location data for over a billion stars from ESA’s Gaia mission. The resulting featured illustration shows that just like many other spiral galaxies, our Milky Way has distinct spiral arms.  Our Sun and most of the bright stars we see at night are in just one arm: Orion. Gaia data bolsters previous indications that our Milky Way has more than two spiral arms. Our Galaxy's center sports a prominent bar.  The colors of our Galaxy's thin disk derive mostly from dark dust, bright blue stars, and red emission nebula. Although data analysis is ongoing, Gaia was deactivated in March after a succession mission.   Jigsaw Challenge: Astronomy Puzzle of the Day
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2505/MilkyWayTop_Gaia_2100.jpg
+<br />**Date image released:**  2025-05-14
+<br />**This image is owned by:**  
+Andrea Iorio, 
+Vikas Chander & 
+ShaRA Team
+
+<br />**Title of the image:**  NGC 1360: The Robin's Egg Nebula
+<br />**Description for the image:**  This pretty nebula lies some 1,500 light-years away, its shape and color in this telescopic view reminiscent of a robin's egg. The cosmic cloud spans about 3 light-years, nestled securely within the boundaries of the southern constellation of the Furnace (Fornax). Recognized as a planetary nebula, egg-shaped NGC 1360 doesn't represent a beginning, though. Instead, it corresponds to a brief and final phase in the evolution of an aging star. In fact, visible at the center of the nebula, the central star of NGC 1360 is known to be a binary star system likely consisting of two evolved white dwarf stars, less massive but much hotter than the Sun.  Their intense and otherwise invisible ultraviolet radiation has stripped away electrons from the atoms in their mutually surrounding gaseous shroud. The blue-green hue inside of NGC 1360 seen here is the strong emission produced as electrons recombine with doubly ionized oxygen atoms.   Celestial Surprise: What picture did APOD feature on your birthday? (post 1995)
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2505/NGC1360_Chander_4310.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -48,27 +53,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 May 13 0030 UTC
+:Issued: 2025 May 14 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for May 13-May 15 2025 is 3.67 (below NOAA
+The greatest expected 3 hr Kp for May 14-May 16 2025 is 3.67 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown May 13-May 15 2025
+NOAA Kp index breakdown May 14-May 16 2025
 
-             May 13       May 14       May 15
-00-03UT       2.67         2.33         2.33     
-03-06UT       3.67         2.67         2.33     
-06-09UT       2.67         2.33         2.67     
-09-12UT       2.67         2.33         2.67     
-12-15UT       1.67         2.67         2.00     
-15-18UT       1.67         2.33         2.67     
-18-21UT       3.00         2.33         3.67     
-21-00UT       2.67         2.00         3.00     
+             May 14       May 15       May 16
+00-03UT       2.33         2.33         2.33     
+03-06UT       2.67         2.33         2.33     
+06-09UT       2.33         2.67         2.33     
+09-12UT       2.33         2.67         1.67     
+12-15UT       2.67         2.00         2.33     
+15-18UT       2.33         2.67         2.33     
+18-21UT       2.33         3.67         2.00     
+21-00UT       2.00         3.00         2.33     
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
 significant transient or recurrent solar wind features are forecast.
@@ -78,26 +83,27 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for May 13-May 15 2025
+Solar Radiation Storm Forecast for May 14-May 16 2025
 
-              May 13  May 14  May 15
-S1 or greater    1%      1%      1%
+              May 14  May 15  May 16
+S1 or greater   75%     10%      1%
 
-Rationale: No S1 (Minor) or greater solar radiation storms are expected.
-No significant active region activity favorable for radiation storm
-production is forecast.
+Rationale: The greater than 10 MeV proton flux is expected to reach
+and/or hover around the 10 MeV warning threshold on 14 May. The current
+S1 Warning is valid through 14/1200 UTC.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-No radio blackouts were observed over the past 24 hours.
+Radio blackouts reaching the R3 levels were observed over the past 24
+hours. The largest was at May 13 2025 1538 UTC.
 
-Radio Blackout Forecast for May 13-May 15 2025
+Radio Blackout Forecast for May 14-May 16 2025
 
-              May 13        May 14        May 15
+              May 14        May 15        May 16
 R1-R2           15%           10%           10%
 R3 or greater    1%            1%            1%
 
 Rationale: There is a slight chance for R1-R2 (Minor-Moderate) radio
-blackouts on 13-15 May.
+blackouts on 14-16 May.
 
 ```
