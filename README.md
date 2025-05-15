@@ -1,15 +1,10 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2025-05-14
-<br />**This image is owned by:**  
-Andrea Iorio, 
-Vikas Chander & 
-ShaRA Team
-
-<br />**Title of the image:**  NGC 1360: The Robin's Egg Nebula
-<br />**Description for the image:**  This pretty nebula lies some 1,500 light-years away, its shape and color in this telescopic view reminiscent of a robin's egg. The cosmic cloud spans about 3 light-years, nestled securely within the boundaries of the southern constellation of the Furnace (Fornax). Recognized as a planetary nebula, egg-shaped NGC 1360 doesn't represent a beginning, though. Instead, it corresponds to a brief and final phase in the evolution of an aging star. In fact, visible at the center of the nebula, the central star of NGC 1360 is known to be a binary star system likely consisting of two evolved white dwarf stars, less massive but much hotter than the Sun.  Their intense and otherwise invisible ultraviolet radiation has stripped away electrons from the atoms in their mutually surrounding gaseous shroud. The blue-green hue inside of NGC 1360 seen here is the strong emission produced as electrons recombine with doubly ionized oxygen atoms.   Celestial Surprise: What picture did APOD feature on your birthday? (post 1995)
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2505/NGC1360_Chander_4310.jpg
+<br />**Date image released:**  2025-05-15
+<br />**Title of the image:**  A Plutonian Landscape
+<br />**Description for the image:**  This shadowy landscape of majestic mountains and icy plains stretches toward the horizon on a small, distant world. It was captured from a range of about 18,000 kilometers when New Horizons looked back toward Pluto, 15 minutes after the spacecraft's closest approach on July 14, 2015. The dramatic, low-angle, near-twilight scene follows rugged mountains formally known as Norgay Montes from foreground left, and Hillary Montes along the horizon, giving way to smooth Sputnik Planum at right. Layers of Pluto's tenuous atmosphere are also revealed in the backlit view. With a strangely familiar appearance, the frigid terrain likely includes ices of nitrogen and carbon monoxide with water-ice mountains rising up to 3,500 meters (11,000 feet). That's comparable in height to the majestic mountains of planet Earth. The Plutonian landscape is 380 kilometers (230 miles) across.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2505/Pluto-Mountains-Plains9-17-15.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -53,27 +48,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 May 14 0030 UTC
+:Issued: 2025 May 15 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for May 14-May 16 2025 is 3.67 (below NOAA
+The greatest expected 3 hr Kp for May 15-May 17 2025 is 3.67 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown May 14-May 16 2025
+NOAA Kp index breakdown May 15-May 17 2025
 
-             May 14       May 15       May 16
-00-03UT       2.33         2.33         2.33     
-03-06UT       2.67         2.33         2.33     
-06-09UT       2.33         2.67         2.33     
-09-12UT       2.33         2.67         1.67     
-12-15UT       2.67         2.00         2.33     
-15-18UT       2.33         2.67         2.33     
-18-21UT       2.33         3.67         2.00     
-21-00UT       2.00         3.00         2.33     
+             May 15       May 16       May 17
+00-03UT       2.33         2.33         3.33     
+03-06UT       2.33         2.33         2.00     
+06-09UT       2.67         2.33         2.00     
+09-12UT       2.67         1.67         3.00     
+12-15UT       2.00         2.33         3.00     
+15-18UT       2.67         2.33         3.67     
+18-21UT       3.67         2.00         3.33     
+21-00UT       3.00         2.33         3.33     
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
 significant transient or recurrent solar wind features are forecast.
@@ -83,27 +78,29 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for May 14-May 16 2025
+Solar Radiation Storm Forecast for May 15-May 17 2025
 
-              May 14  May 15  May 16
-S1 or greater   75%     10%      1%
+              May 15  May 16  May 17
+S1 or greater   10%      5%      5%
 
-Rationale: The greater than 10 MeV proton flux is expected to reach
-and/or hover around the 10 MeV warning threshold on 14 May. The current
-S1 Warning is valid through 14/1200 UTC.
+Rationale: No S1 (Minor) or greater solar radiation storms are expected.
+No significant active region activity favorable for radiation storm
+production is forecast.
 
 C. NOAA Radio Blackout Activity and Forecast
 
 Radio blackouts reaching the R3 levels were observed over the past 24
-hours. The largest was at May 13 2025 1538 UTC.
+hours. The largest was at May 14 2025 0825 UTC.
 
-Radio Blackout Forecast for May 14-May 16 2025
+Radio Blackout Forecast for May 15-May 17 2025
 
-              May 14        May 15        May 16
-R1-R2           15%           10%           10%
-R3 or greater    1%            1%            1%
+              May 15        May 16        May 17
+R1-R2           75%           75%           75%
+R3 or greater   30%           30%           30%
 
-Rationale: There is a slight chance for R1-R2 (Minor-Moderate) radio
-blackouts on 14-16 May.
+Rationale: Given the magnetic complexity of Region 4087, theres a 75%
+chance that M-Class (R1-R2, Minor-Moderate) level flare activity will
+occur through 17 May with a 30% chance for X-Class (R3-Strong) levels
+during the same time.
 
 ```
