@@ -1,10 +1,10 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2025-05-16
-<br />**Title of the image:**  Messier 101
-<br />**Description for the image:**  Big, beautiful spiral galaxy M101 is one of the last entries in Charles Messier's famous catalog, but definitely not one of the least. About 170,000 light-years across, this galaxy is enormous, almost twice the size of our own Milky Way. M101 was also one of the original spiral nebulae observed by Lord Rosse's large 19th century telescope, the Leviathan of Parsontown. Assembled from 51 exposures recorded by the Hubble Space Telescope in the 20th and 21st centuries, with additional data from ground based telescopes, this mosaic spans about 40,000 light-years across the central region of M101 in one of the highest definition spiral galaxy portraits ever released from Hubble. The sharp image shows stunning features of the galaxy's face-on disk of stars and dust along with background galaxies, some visible right through M101 itself. Also known as the Pinwheel Galaxy, M101 lies within the boundaries of the northern constellation Ursa Major, about 25 million light-years away.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2505/M101_hst6000.jpg
+<br />**Date image released:**  2025-05-17
+<br />**Title of the image:**  Ares 3 Landing Site: The Martian Revisited
+<br />**Description for the image:**  This close-up from the Mars Reconnaissance Orbiter's HiRISE camera shows weathered craters and windblown deposits in southern Acidalia Planitia. A striking shade of blue in standard HiRISE image colors, to the human eye the area would probably look grey or a little reddish. But human eyes have not gazed across this terrain, unless you count the eyes of NASA astronauts in the sci-fi novel, "The Martian," by Andy Weir. The novel chronicles the adventures of Mark Watney, an astronaut stranded at the fictional Mars mission Ares 3 landing site, corresponding to the coordinates of this cropped HiRISE frame. For scale, Watney's 6-meter-diameter habitat at the site would be about 1/10th the diameter of the large crater. Of course, the Ares 3 landing coordinates are only about 800 kilometers north of the (real life) Carl Sagan Memorial Station, the 1997 Pathfinder landing site.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2505/PIA19363.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -48,40 +48,40 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 May 16 0030 UTC
+:Issued: 2025 May 17 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for May 16-May 18 2025 is 4.67 (NOAA Scale
+The greatest expected 3 hr Kp for May 17-May 19 2025 is 4.67 (NOAA Scale
 G1).
 
-NOAA Kp index breakdown May 16-May 18 2025
+NOAA Kp index breakdown May 17-May 19 2025
 
-             May 16       May 17       May 18
-00-03UT       2.33         3.33         3.67     
-03-06UT       3.00         2.00         3.67     
-06-09UT       2.33         2.00         4.00     
-09-12UT       1.67         3.00         4.67 (G1)
-12-15UT       2.33         3.00         3.67     
-15-18UT       1.33         3.67         3.67     
-18-21UT       1.33         3.33         4.00     
-21-00UT       2.33         3.33         3.67     
+             May 17       May 18       May 19
+00-03UT       3.33         3.67         4.67 (G1)
+03-06UT       2.00         3.67         4.33     
+06-09UT       2.00         4.00         4.67 (G1)
+09-12UT       3.00         4.67 (G1)    4.33     
+12-15UT       3.00         3.67         3.67     
+15-18UT       3.67         4.33         4.00     
+18-21UT       3.33         4.67 (G1)    4.00     
+21-00UT       3.67         4.67 (G1)    3.67     
 
-Rationale: G1 (Minor) geomagnetic storm conditions are likely on 18 May
-due to CH HSS onset.
+Rationale: G1 (Minor) geomagnetic storms are likely over 18-19 May due
+to influence from a positive polarity coronal hole.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for May 16-May 18 2025
+Solar Radiation Storm Forecast for May 17-May 19 2025
 
-              May 16  May 17  May 18
-S1 or greater    5%      5%      1%
+              May 17  May 18  May 19
+S1 or greater    5%      5%      5%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
 No significant active region activity favorable for radiation storm
@@ -89,18 +89,15 @@ production is forecast.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-Radio blackouts reaching the R1 levels were observed over the past 24
-hours. The largest was at May 15 2025 1721 UTC.
+No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for May 16-May 18 2025
+Radio Blackout Forecast for May 17-May 19 2025
 
-              May 16        May 17        May 18
-R1-R2           65%           65%           65%
-R3 or greater   30%           30%           30%
+              May 17        May 18        May 19
+R1-R2           60%           55%           55%
+R3 or greater   20%           15%           15%
 
-Rationale: There remains a 65% chance that M-Class (R1-R2,
-Minor-Moderate) level flare activity will occur through 18 May with a
-30% chance for X-Class (R3-Strong) levels during the same time due to
-the complex magnetic field within Region 4087.
+Rationale: R1-R2 (Minor-Moderate) radio blackouts are likely, with a
+chance for R3 (Strong), over 17-19 May.
 
 ```
