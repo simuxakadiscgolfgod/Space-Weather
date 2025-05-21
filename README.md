@@ -1,15 +1,13 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Sorry, Image not available!**
-<br />**Sorry, Image not available!**
-<br />**Date image released:**  2025-05-20
+<br />**Date image released:**  2025-05-21
 <br />**This image is owned by:**  
-Marzena Rogozinska
+Pau Montplet Sanz
 
-<br />**Title of the image:**  Milky Way over Maunakea
-<br />**Description for the image:**  Have you ever seen the band of our Milky Way Galaxy?  In a clear sky from a dark location at the right time, a faint band of light becomes visible across the sky.  Soon after your eyes become dark adapted, you might spot the band for the first time.  It may then become obvious.  Then spectacular.  One reason for your growing astonishment might be the realization that this fuzzy swath, the Milky Way, contains billions of stars.  Visible in the featured image, high above in the night sky, the band of the Milky Way Galaxy arcs.  Also visible are the colorful clouds of Rho Ophiuchi on the right, and the red and circular Zeta Ophiuchi nebula near the top center. Taken in late February from Maunakea, Hawaii, USA, the foreground telescope is the University of Hawaii's 2.2-Meter Telescope. Fortunately, you don’t need to be near the top of a Hawaiian volcano to see the Milky Way.    Put it All Together: Astronomy Puzzle of the Day
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2505/MaunaKeaNight_Rogozinska_1295.jpg
+<br />**Title of the image:**  International Space Station Crosses the Sun
+<br />**Description for the image:**  Typically, the International Space Station is visible only at night.  Slowly drifting across the night sky as it orbits the Earth, the International Space Station (ISS) can be seen as a bright spot about once a month from many locations.  The ISS is then visible only just after sunset or just before sunrise because it shines by reflected sunlight -- once the ISS enters the Earth's shadow, it will drop out of sight. The only occasion when the ISS is visible during the day is when it passes right in front of the Sun. Then, it passes so quickly that only cameras taking short exposures can visually freeze the ISS's silhouette onto the background Sun. The featured picture did exactly that -- it is actually a series of images taken a month ago from Sant Feliu de Buixalleu, Spain with perfect timing.  This image series was later combined with a separate image highlighting the texture of the active Sun which included several Sun's prominences around the edge.   Celestial Surprise: What picture did APOD feature on your birthday? (post 1995)
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2505/IssTransit_Sanz_2569.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -53,39 +51,40 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 May 20 0030 UTC
+:Issued: 2025 May 21 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for May 20-May 22 2025 is 3.67 (below NOAA
+The greatest expected 3 hr Kp for May 21-May 23 2025 is 4.00 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown May 20-May 22 2025
+NOAA Kp index breakdown May 21-May 23 2025
 
-             May 20       May 21       May 22
-00-03UT       3.00         2.67         2.67     
-03-06UT       3.67         3.67         2.00     
-06-09UT       2.67         2.67         2.33     
-09-12UT       2.67         2.00         2.33     
-12-15UT       2.67         1.67         2.33     
-15-18UT       1.67         2.67         2.33     
-18-21UT       2.00         2.67         2.33     
-21-00UT       2.67         2.67         2.67     
+             May 21       May 22       May 23
+00-03UT       2.67         2.67         2.00     
+03-06UT       3.33         2.00         2.00     
+06-09UT       2.67         2.33         1.67     
+09-12UT       2.00         2.33         2.67     
+12-15UT       3.33         2.33         2.67     
+15-18UT       3.00         2.33         4.00     
+18-21UT       1.67         2.33         2.67     
+21-00UT       2.00         2.67         2.67     
 
-Rationale: No G1 (Minor) or greater geomagnetic storms are expected.
-Active periods possible on 20-21 May due to persistent CH HSS influence.
+Rationale: No G1 (Minor) or greater geomagnetic storms are expected. 
+Unsettled to active levels are expected through 23 May due to persistent
+CH HSS activity.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for May 20-May 22 2025
+Solar Radiation Storm Forecast for May 21-May 23 2025
 
-              May 20  May 21  May 22
+              May 21  May 22  May 23
 S1 or greater    1%      1%      1%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -94,18 +93,17 @@ production is forecast.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-Radio blackouts reaching the R1 levels were observed over the past 24
-hours. The largest was at May 19 2025 0821 UTC.
+No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for May 20-May 22 2025
+Radio Blackout Forecast for May 21-May 23 2025
 
-              May 20        May 21        May 22
+              May 21        May 22        May 23
 R1-R2           35%           35%           35%
 R3 or greater    5%            5%            5%
 
-Rationale: Solar activity is expected to be low, with a 35% chance for
-R1-R2 (Minor-Moderate) events, over 20-22 May. Probabilities increased
-slightly based on the flare potential of the active region near the NE
-limb.
+Rationale: Solar flare activity is expected to remain low as most
+regions on the disk are fairly simple in their magnetic complexities.
+There remains a 35% chance for R1-R2 (Minor-Moderate) and a 5% chance
+for R3 (Strong) activity through 23 May.
 
 ```
