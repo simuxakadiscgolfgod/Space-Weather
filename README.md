@@ -1,13 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2025-05-21
-<br />**This image is owned by:**  
-Pau Montplet Sanz
-
-<br />**Title of the image:**  International Space Station Crosses the Sun
-<br />**Description for the image:**  Typically, the International Space Station is visible only at night.  Slowly drifting across the night sky as it orbits the Earth, the International Space Station (ISS) can be seen as a bright spot about once a month from many locations.  The ISS is then visible only just after sunset or just before sunrise because it shines by reflected sunlight -- once the ISS enters the Earth's shadow, it will drop out of sight. The only occasion when the ISS is visible during the day is when it passes right in front of the Sun. Then, it passes so quickly that only cameras taking short exposures can visually freeze the ISS's silhouette onto the background Sun. The featured picture did exactly that -- it is actually a series of images taken a month ago from Sant Feliu de Buixalleu, Spain with perfect timing.  This image series was later combined with a separate image highlighting the texture of the active Sun which included several Sun's prominences around the edge.   Celestial Surprise: What picture did APOD feature on your birthday? (post 1995)
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2505/IssTransit_Sanz_2569.jpg
+<br />**Date image released:**  2025-05-22
+<br />**This image is owned by:**  Alberto Pisabarro
+<br />**Title of the image:**  Curly Spiral Galaxy M63
+<br />**Description for the image:**  A bright spiral galaxy of the northern sky, Messier 63 is nearby, about 30 million light-years distant toward the loyal constellation Canes Venatici. Also cataloged as NGC 5055, the majestic island universe is nearly 100,000 light-years across, about the size of our own Milky Way. Its bright core and majestic spiral arms lend the galaxy its popular name, The Sunflower Galaxy. This exceptionally deep exposure also follows faint loops and curling star streams far into the galaxy's halo. Extending nearly 180,000 light-years from the galactic center, the star streams are likely remnants of tidally disrupted satellites of M63. Other satellite galaxies of M63 can be spotted in the remarkable wide-field image, including dwarf galaxies, which could contribute to M63's star streams in the next few billion years.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2505/M63_HaLRGB_Apod2048.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -51,40 +49,41 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 May 21 0030 UTC
+:Issued: 2025 May 22 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for May 21-May 23 2025 is 4.00 (below NOAA
+The greatest expected 3 hr Kp for May 22-May 24 2025 is 4.00 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown May 21-May 23 2025
+NOAA Kp index breakdown May 22-May 24 2025
 
-             May 21       May 22       May 23
-00-03UT       2.67         2.67         2.00     
-03-06UT       3.33         2.00         2.00     
-06-09UT       2.67         2.33         1.67     
-09-12UT       2.00         2.33         2.67     
-12-15UT       3.33         2.33         2.67     
-15-18UT       3.00         2.33         4.00     
-18-21UT       1.67         2.33         2.67     
-21-00UT       2.00         2.67         2.67     
+             May 22       May 23       May 24
+00-03UT       2.67         2.00         1.67     
+03-06UT       2.00         2.00         1.33     
+06-09UT       2.33         1.67         1.33     
+09-12UT       2.33         2.67         1.33     
+12-15UT       2.33         2.67         1.33     
+15-18UT       2.33         4.00         1.33     
+18-21UT       2.33         2.67         1.67     
+21-00UT       2.67         2.67         1.67     
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected. 
-Unsettled to active levels are expected through 23 May due to persistent
-CH HSS activity.
+Unsettled to active levels are forecast on 22-23 May due to persistent
+CH HSS effects along with a possible glancing influence from the 17 May
+CME.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for May 21-May 23 2025
+Solar Radiation Storm Forecast for May 22-May 24 2025
 
-              May 21  May 22  May 23
+              May 22  May 23  May 24
 S1 or greater    1%      1%      1%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -95,15 +94,15 @@ C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for May 21-May 23 2025
+Radio Blackout Forecast for May 22-May 24 2025
 
-              May 21        May 22        May 23
-R1-R2           35%           35%           35%
+              May 22        May 23        May 24
+R1-R2           25%           25%           25%
 R3 or greater    5%            5%            5%
 
 Rationale: Solar flare activity is expected to remain low as most
 regions on the disk are fairly simple in their magnetic complexities.
-There remains a 35% chance for R1-R2 (Minor-Moderate) and a 5% chance
-for R3 (Strong) activity through 23 May.
+There remains a 25% chance for R1-R2 (Minor-Moderate) and a 5% chance
+for R3 (Strong) activity through 24 May.
 
 ```
