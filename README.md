@@ -1,11 +1,10 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2025-05-23
-<br />**This image is owned by:**  Massimo Di Fusco
-<br />**Title of the image:**  NGC 6366 vs 47 Ophiuchi
-<br />**Description for the image:**  Most globular star clusters roam the halo of our Milky Way galaxy, but globular cluster NGC 6366 lies close to the galactic plane. About 12,000 light-years away toward the constellation Ophiuchus, the cluster's starlight is dimmed and reddened by the Milky Way's interstellar dust when viewed from planet Earth. As a result, the stars of NGC 6366 look almost golden in this telescopic scene, especially when seen next to relatively bright, bluish, and nearby star 47 Ophiuchi. Compared to the hundred thousand stars or so gravitationally bound in distant NGC 6366, 47 Oph itself is a binary star system  a mere 100 light-years away. Still, the co-orbiting stars of 47 Oph are too close together to be individually distinguished in the image.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2505/NGC6366_3500.jpg
+<br />**Date image released:**  2025-05-24
+<br />**Title of the image:**  Deimos Before Sunrise
+<br />**Description for the image:**  Deimos takes 30 hours and 18 minutes to complete one orbit around the Red Planet. That's a little more than one Martian day or sol which is about 24 hours and 40 minutes long, so Deimos drifts westward across the Martian sky. About 15 kilometers across at its widest, the smallest of Mars' two moons is bright though. In fact Deimos is the brightest celestial object in this Martian skyscape captured before sunrise by Perseverance on March 1, the 1,433rd sol of the Mars rover's mission. The image is a composed of 16 exposures recorded by one of the rover's navigation cameras. The individual exposures were combined into a single image for an enhanced low light view. Regulus and Algeiba, bright stars in the constellation Leo, are also visible in the dark Martian predawn sky.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2505/PIA26556_2048.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,38 +48,38 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 May 23 0030 UTC
+:Issued: 2025 May 24 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for May 23-May 25 2025 is 4.00 (below NOAA
+The greatest expected 3 hr Kp for May 24-May 26 2025 is 3.67 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown May 23-May 25 2025
+NOAA Kp index breakdown May 24-May 26 2025
 
-             May 23       May 24       May 25
-00-03UT       2.00         2.33         2.00     
-03-06UT       2.00         2.67         2.33     
-06-09UT       1.67         3.00         3.00     
-09-12UT       2.67         3.67         3.67     
-12-15UT       2.67         3.00         3.00     
-15-18UT       4.00         2.33         2.33     
-18-21UT       2.67         1.67         2.33     
-21-00UT       2.67         1.67         1.67     
+             May 24       May 25       May 26
+00-03UT       2.33         2.00         2.00     
+03-06UT       2.67         2.33         2.33     
+06-09UT       3.00         3.00         3.00     
+09-12UT       3.67         3.67         3.67     
+12-15UT       3.00         3.00         3.00     
+15-18UT       2.33         2.33         2.33     
+18-21UT       1.67         2.33         2.33     
+21-00UT       1.67         1.67         1.67     
 
-Rationale: No G1 (Minor) or greater geomagnetic storms are expected. 
+Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for May 23-May 25 2025
+Solar Radiation Storm Forecast for May 24-May 26 2025
 
-              May 23  May 24  May 25
+              May 24  May 25  May 26
 S1 or greater    1%      1%      1%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -91,13 +90,13 @@ C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for May 23-May 25 2025
+Radio Blackout Forecast for May 24-May 26 2025
 
-              May 23        May 24        May 25
+              May 24        May 25        May 26
 R1-R2           25%           25%           25%
 R3 or greater    5%            5%            5%
 
 Rationale: There exists a chance for R1-R2 (Minor-Moderate) radio
-blackouts over 23-25 May.
+blackouts over 24-26 May.
 
 ```
