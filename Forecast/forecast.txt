@@ -1,55 +1,56 @@
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 May 25 0030 UTC
+:Issued: 2025 May 26 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for May 25-May 27 2025 is 3.00 (below NOAA
+The greatest expected 3 hr Kp for May 26-May 28 2025 is 3.67 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown May 25-May 27 2025
+NOAA Kp index breakdown May 26-May 28 2025
 
-             May 25       May 26       May 27
-00-03UT       1.67         2.00         2.00     
-03-06UT       2.67         2.67         2.67     
-06-09UT       3.00         2.67         2.67     
-09-12UT       2.67         2.00         1.67     
-12-15UT       2.00         1.67         1.67     
-15-18UT       1.00         1.00         1.00     
-18-21UT       1.00         1.67         1.00     
-21-00UT       1.67         1.67         2.67     
+             May 26       May 27       May 28
+00-03UT       2.00         2.00         2.67     
+03-06UT       2.67         2.67         3.00     
+06-09UT       2.67         2.67         3.67     
+09-12UT       2.00         1.67         2.67     
+12-15UT       1.67         1.67         2.00     
+15-18UT       1.00         1.00         2.00     
+18-21UT       1.67         1.00         2.00     
+21-00UT       1.67         2.67         2.67     
 
-Rationale: No G1 (Minor) or greater geomagnetic storms are expected. 
+Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
+significant transient or recurrent solar wind features are forecast.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for May 25-May 27 2025
+Solar Radiation Storm Forecast for May 26-May 28 2025
 
-              May 25  May 26  May 27
-S1 or greater    1%      1%      1%
+              May 26  May 27  May 28
+S1 or greater   10%     10%     10%
 
-Rationale: No S1 (Minor) or greater solar radiation storms are expected.
-No significant active region activity favorable for radiation storm
-production is forecast.
+Rationale: There is a slight chance for S1 (Minor) solar radiation
+storms over 26-28 May.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-Radio blackouts reaching the R1 levels were observed over the past 24
-hours. The largest was at May 24 2025 2023 UTC.
+Radio blackouts reaching the R3 levels were observed over the past 24
+hours. The largest was at May 25 2025 0152 UTC.
 
-Radio Blackout Forecast for May 25-May 27 2025
+Radio Blackout Forecast for May 26-May 28 2025
 
-              May 25        May 26        May 27
-R1-R2           25%           25%           25%
-R3 or greater    5%            5%            5%
+              May 26        May 27        May 28
+R1-R2           65%           65%           65%
+R3 or greater   25%           25%           25%
 
-Rationale: There is a chance for R1-R2 (Minor-Moderate) radio blackouts
-over 25-27 May.
+Rationale: Primarily due to the flare potential for Region 4098, R1-R2
+(Minor-Moderate) radio blackouts are likely, with a chance for R3
+(Strong), over the next three days (26-28 May).
 
 ```
