@@ -1,10 +1,13 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2025-05-26
-<br />**Title of the image:**  Spiral Galaxy NGC 2566 from Webb
-<br />**Description for the image:**  What’s happening in the center of spiral galaxy NGC 2566? First, the eight rays that appear to be coming out of the center in the featured infrared image are not real — they are diffraction spikes caused by the mechanical structure of the Webb space telescope itself. The center of NGC 2566 is bright but not considered unusual, which means that it likely contains a supermassive black hole, although currently not very active. At only 76 million light years away, the light we see from NGC 2566 today left when dinosaurs roamed the Earth. The picturesque galaxy is close enough so that Earthly telescopes, including Webb and Hubble, can resolve the turbulent clouds of gas and dust where stars can form and so allows study of stellar evolution. NGC 2566, similar in size to our Milky Way Galaxy, is notable for its bright central bar and its prominent outer spiral arms.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2505/NGC2256_Webb_1280.jpg
+<br />**Date image released:**  2025-05-27
+<br />**This image is owned by:**  
+Ireneusz Nowak
+
+<br />**Title of the image:**  Zeta and Rho Ophiuchi with Milky Way
+<br />**Description for the image:**  Behold one of the most photogenic regions of the night sky, captured impressively.  Featured, the band of our Milky Way Galaxy runs diagonally along the bottom-left corner, while the colorful Rho Ophiuchi cloud complex is visible just right of center and the large red circular Zeta Ophiuchi Nebula appears near the top.  In general, red emanates from nebulas glowing in the light of excited hydrogen gas, while blue marks interstellar dust preferentially reflecting the light of bright young stars.  Thick dust usually appears dark brown.  Many iconic objects of the night sky appear, including (can you find them?) the bright star Antares, the globular star cluster M4, and the Blue Horsehead nebula. This wide field composite, taken over 17 hours, was captured from South Africa last June.    Explore Your Universe: Random APOD Generator
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2505/RhoZeta_Nowak_2560.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -48,57 +51,57 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 May 26 0030 UTC
+:Issued: 2025 May 27 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for May 26-May 28 2025 is 3.67 (below NOAA
-Scale levels).
+The greatest expected 3 hr Kp for May 27-May 29 2025 is 5.00 (NOAA Scale
+G1).
 
-NOAA Kp index breakdown May 26-May 28 2025
+NOAA Kp index breakdown May 27-May 29 2025
 
-             May 26       May 27       May 28
-00-03UT       2.00         2.00         2.67     
-03-06UT       2.67         2.67         3.00     
-06-09UT       2.67         2.67         3.67     
-09-12UT       2.00         1.67         2.67     
-12-15UT       1.67         1.67         2.00     
-15-18UT       1.00         1.00         2.00     
-18-21UT       1.67         1.00         2.00     
-21-00UT       1.67         2.67         2.67     
+             May 27       May 28       May 29
+00-03UT       2.00         1.67         4.00     
+03-06UT       2.67         3.67         4.00     
+06-09UT       2.67         5.00 (G1)    3.33     
+09-12UT       1.67         4.67 (G1)    3.00     
+12-15UT       1.67         3.67         2.33     
+15-18UT       1.00         3.00         2.00     
+18-21UT       1.00         3.33         2.00     
+21-00UT       2.67         4.00         3.33     
 
-Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
-significant transient or recurrent solar wind features are forecast.
+Rationale: G1 (Minor) or greater geomagnetic storms are likely on 28 May
+due to CH HSS onset. No significant transient or recurrent solar wind
+features are forecast.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for May 26-May 28 2025
+Solar Radiation Storm Forecast for May 27-May 29 2025
 
-              May 26  May 27  May 28
-S1 or greater   10%     10%     10%
+              May 27  May 28  May 29
+S1 or greater   15%     15%     15%
 
-Rationale: There is a slight chance for S1 (Minor) solar radiation
-storms over 26-28 May.
+Rationale: There is a slight chance for the greater than 10 MeV proton
+flux to reach S1 (Minor) levels over 27-29 May.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-Radio blackouts reaching the R3 levels were observed over the past 24
-hours. The largest was at May 25 2025 0152 UTC.
+Radio blackouts reaching the R1 levels were observed over the past 24
+hours. The largest was at May 26 2025 1306 UTC.
 
-Radio Blackout Forecast for May 26-May 28 2025
+Radio Blackout Forecast for May 27-May 29 2025
 
-              May 26        May 27        May 28
-R1-R2           65%           65%           65%
-R3 or greater   25%           25%           25%
+              May 27        May 28        May 29
+R1-R2           70%           70%           70%
+R3 or greater   30%           30%           30%
 
-Rationale: Primarily due to the flare potential for Region 4098, R1-R2
-(Minor-Moderate) radio blackouts are likely, with a chance for R3
-(Strong), over the next three days (26-28 May).
+Rationale: R1-R2 (Minor-Moderate) radio blackouts are likely, with a
+chance for isolated R3 (Strong or greater) events over 27-29 May.
 
 ```
