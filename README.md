@@ -1,10 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2025-05-28
-<br />**Title of the image:**  Herbig-Haro 24
-<br />**Description for the image:**  This might look like a double-bladed lightsaber, but these two cosmic jets actually beam outward from a newborn star in a galaxy near you. Constructed from Hubble Space Telescope image data, the stunning scene spans about half a light-year across Herbig-Haro 24 (HH 24), some 1,300 light-years or 400 parsecs away in the stellar nurseries of the Orion B molecular cloud complex. Hidden from direct view, HH 24's central protostar is surrounded by cold dust and gas flattened into a rotating accretion disk. As material from the disk falls toward the young stellar object, it heats up. Opposing jets are blasted out along the system's rotation axis. Cutting through the region's interstellar matter, the narrow, energetic jets produce a series of glowing shock fronts along their path.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2505/hs-2015-42-a-fullHH24.jpg
+<br />**Date image released:**  2025-05-29
+<br />**This image is owned by:**  Franz Hofmann
+<br />**Title of the image:**  Irregular Dwarf Galaxy Sextans A
+<br />**Description for the image:**  Grand spiral galaxies often seem to get all the attention, flaunting young, bright, blue star clusters and pinkish star forming regions along graceful, symmetric spiral arms. But small galaxies form stars too, like irregular dwarf galaxy Sextans A. Its young star clusters and star forming regions are gathered into a gumdrop-shaped region a mere 5,000 light-years across. Seen toward the navigational constellation Sextans, the small galaxy lies some 4.5 million light-years distant. That puts it near the outskirts of the local group of galaxies, that includes the large, massive spirals Andromeda and our own Milky Way. Brighter Milky Way foreground stars appear spiky and yellowish in this colorful telescopic view of Sextans A.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2505/sexa_gemsbock_cdk_pub.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -48,56 +49,56 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 May 28 0030 UTC
+:Issued: 2025 May 29 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for May 28-May 30 2025 is 5.00 (NOAA Scale
-G1).
+The greatest expected 3 hr Kp for May 29-May 31 2025 is 4.33 (below NOAA
+Scale levels).
 
-NOAA Kp index breakdown May 28-May 30 2025
+NOAA Kp index breakdown May 29-May 31 2025
 
-             May 28       May 29       May 30
-00-03UT       4.00         4.00         3.67     
-03-06UT       5.00 (G1)    4.00         2.33     
-06-09UT       4.67 (G1)    3.33         2.33     
-09-12UT       4.00         3.00         2.67     
-12-15UT       3.33         2.33         2.33     
+             May 29       May 30       May 31
+00-03UT       4.00         3.67         2.67     
+03-06UT       4.33         4.33         2.33     
+06-09UT       3.67         4.33         3.67     
+09-12UT       3.00         3.67         2.00     
+12-15UT       2.67         2.33         2.33     
 15-18UT       2.33         2.00         2.67     
-18-21UT       2.33         2.00         2.00     
-21-00UT       3.67         3.33         2.67     
+18-21UT       2.00         2.00         2.67     
+21-00UT       3.33         2.67         2.33     
 
-Rationale: G1 (Minor) or greater geomagnetic storms are likely on 28 May
-due to CH HSS onset. No significant transient or recurrent solar wind
-features are forecast.
+Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
+significant transient or recurrent solar wind features are forecast.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for May 28-May 30 2025
+Solar Radiation Storm Forecast for May 29-May 31 2025
 
-              May 28  May 29  May 30
+              May 29  May 30  May 31
 S1 or greater   10%     10%     10%
 
 Rationale: There is a slight chance for the greater than 10 MeV proton
-flux to reach S1 (Minor) levels over 28-30 May.
+flux to reach S1 (Minor) levels over 29-31 May.
 
 C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for May 28-May 30 2025
+Radio Blackout Forecast for May 29-May 31 2025
 
-              May 28        May 29        May 30
-R1-R2           55%           55%           55%
-R3 or greater   15%           15%           15%
+              May 29        May 30        May 31
+R1-R2           50%           50%           50%
+R3 or greater   10%           10%           10%
 
-Rationale: R1-R2 (Minor-Moderate) radio blackouts are likely, with a
-slight chance for isolated R3 (Strong or greater) events over 28-30 May.
+Rationale: There is a chance for R1-R2 (Minor-Moderate) radio blackouts,
+with a slight chance for isolated R3 (Strong or greater) events over
+29-31 May.
 
 ```
