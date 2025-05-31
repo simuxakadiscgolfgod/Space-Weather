@@ -1,11 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2025-05-29
-<br />**This image is owned by:**  Franz Hofmann
-<br />**Title of the image:**  Irregular Dwarf Galaxy Sextans A
-<br />**Description for the image:**  Grand spiral galaxies often seem to get all the attention, flaunting young, bright, blue star clusters and pinkish star forming regions along graceful, symmetric spiral arms. But small galaxies form stars too, like irregular dwarf galaxy Sextans A. Its young star clusters and star forming regions are gathered into a gumdrop-shaped region a mere 5,000 light-years across. Seen toward the navigational constellation Sextans, the small galaxy lies some 4.5 million light-years distant. That puts it near the outskirts of the local group of galaxies, that includes the large, massive spirals Andromeda and our own Milky Way. Brighter Milky Way foreground stars appear spiky and yellowish in this colorful telescopic view of Sextans A.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2505/sexa_gemsbock_cdk_pub.jpg
+<br />**Date image released:**  2025-05-31
+<br />**This image is owned by:**  Marcella Giulia Pace
+<br />**Title of the image:**  Afterimage Sunset
+<br />**Description for the image:**  On May 7, the Sun setting behind a church bell tower was captured in this filtered and manipulated digital skyscape from Ragusa, Sicily, planet Earth. In this version of the image the colors look bizarre. Still, an intriguing optical illusion known as an afterimage can help you experience the same scene with a more natural looking appearance. To try it, find the sunspots of active region AR4079 grouped near the bottom of the blue solar disk. Relax and stare at the dark sunspot group for about 30 seconds, then close your eyes or shift your gaze to a plain white surface. In a moment an afterimage of the sunset should faintly appear. But the afterimage sunset will have this image's complementary colors and a more normal yellow Sun against a familiar blue sky.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2505/Afterimageorizontal.jpeg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,56 +49,56 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 May 29 0030 UTC
+:Issued: 2025 May 31 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
-Scale levels).
-The greatest expected 3 hr Kp for May 29-May 31 2025 is 4.33 (below NOAA
-Scale levels).
+The greatest observed 3 hr Kp over the past 24 hours was 5 (NOAA Scale
+G1).
+The greatest expected 3 hr Kp for May 31-Jun 02 2025 is 4.67 (NOAA Scale
+G1).
 
-NOAA Kp index breakdown May 29-May 31 2025
+NOAA Kp index breakdown May 31-Jun 02 2025
 
-             May 29       May 30       May 31
-00-03UT       4.00         3.67         2.67     
-03-06UT       4.33         4.33         2.33     
-06-09UT       3.67         4.33         3.67     
-09-12UT       3.00         3.67         2.00     
-12-15UT       2.67         2.33         2.33     
-15-18UT       2.33         2.00         2.67     
-18-21UT       2.00         2.00         2.67     
-21-00UT       3.33         2.67         2.33     
+             May 31       Jun 01       Jun 02
+00-03UT       4.67 (G1)    4.00         3.33     
+03-06UT       4.33         4.67 (G1)    2.00     
+06-09UT       3.33         4.00         2.00     
+09-12UT       3.33         3.67         3.00     
+12-15UT       3.00         2.67         3.00     
+15-18UT       2.67         2.00         3.33     
+18-21UT       2.67         2.00         3.33     
+21-00UT       4.00         3.33         3.33     
 
-Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
-significant transient or recurrent solar wind features are forecast.
+Rationale: G1 (Minor) conditions are likely on 31 May - 01 Jun due to
+waning coronal hole effects.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for May 29-May 31 2025
+Solar Radiation Storm Forecast for May 31-Jun 02 2025
 
-              May 29  May 30  May 31
+              May 31  Jun 01  Jun 02
 S1 or greater   10%     10%     10%
 
-Rationale: There is a slight chance for the greater than 10 MeV proton
-flux to reach S1 (Minor) levels over 29-31 May.
+Rationale: There is a slight chance for S1 (Minor) or greater solar
+radiation storms over 31 May - 02 Jun.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-No radio blackouts were observed over the past 24 hours.
+Radio blackouts reaching the R2 levels were observed over the past 24
+hours. The largest was at May 31 2025 0005 UTC.
 
-Radio Blackout Forecast for May 29-May 31 2025
+Radio Blackout Forecast for May 31-Jun 02 2025
 
-              May 29        May 30        May 31
+              May 31        Jun 01        Jun 02
 R1-R2           50%           50%           50%
 R3 or greater   10%           10%           10%
 
 Rationale: There is a chance for R1-R2 (Minor-Moderate) radio blackouts,
-with a slight chance for isolated R3 (Strong or greater) events over
-29-31 May.
+with a slight chance for R3 (Strong), over 31 May - 02 Jun.
 
 ```
