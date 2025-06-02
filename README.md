@@ -1,13 +1,13 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2025-06-01
+<br />**Date image released:**  2025-06-02
 <br />**This image is owned by:**  
-Domingo Pestana
+Abdullah Alharbi
 
-<br />**Title of the image:**  UGC 1810: Wildly Interacting Galaxy from Hubble
-<br />**Description for the image:**  What's happening to this spiral galaxy? Although details remain uncertain, it surely has to do with an ongoing battle with its smaller galactic neighbor. The featured galaxy is labelled UGC 1810 by itself, but together with its collisional partner is known as Arp 273. The overall shape of UGC 1810 -- in particular its blue outer ring -- is likely a result of wild and violent gravitational interactions. This ring's blue color is caused by massive stars that are blue hot and have formed only in the past few million years.  The inner galaxy appears older, redder, and threaded with cool filamentary dust.  A few bright stars appear well in the foreground, unrelated to UGC 1810, while several galaxies are visible well in the background.  Arp 273 lies about 300 million light years away toward the constellation of Andromeda.  Quite likely, UGC 1810 will devour its galactic sidekick over the next billion years and settle into a classic spiral form.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2506/Arp273Main_HubblePestana_3079.jpg
+<br />**Title of the image:**  Veil Nebula: Wisps of an Ancient Supernova
+<br />**Description for the image:**  Wisps like this are all that remain visible of a Milky Way star.  About 7,000 years ago that star exploded in a supernova, leaving the Veil Nebula.  At the time, the expanding cloud was likely as bright as a crescent Moon, remaining visible for weeks to people living at the dawn of recorded history.  Today, the resulting supernova remnant, also known as the Cygnus Loop, has faded and is now visible only through a small telescope directed toward the constellation of the Swan (Cygnus).  The remaining Veil Nebula is physically huge, however, and even though it lies about 1,400 light-years distant, it covers over five times the size of the full Moon.  The featured picture was taken in Kuwait in mid-2024 and features light emitted by hydrogen in red and oxygen in blue.  In deep images of the complete Veil Nebula like this, even studious readers might not be able to identify the iconic filaments.   Piece it All Together: Astronomy Puzzle of the Day
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2506/VeilWide_Alharbi_5169.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -51,60 +51,57 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 Jun 01 0030 UTC
+:Issued: 2025 Jun 02 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
-Scale levels).
-The greatest expected 3 hr Kp for Jun 01-Jun 03 2025 is 7.67 (NOAA Scale
+The greatest observed 3 hr Kp over the past 24 hours was 8 (NOAA Scale
+G4).
+The greatest expected 3 hr Kp for Jun 02-Jun 04 2025 is 7.67 (NOAA Scale
 G4).
 
-NOAA Kp index breakdown Jun 01-Jun 03 2025
+NOAA Kp index breakdown Jun 02-Jun 04 2025
 
-             Jun 01       Jun 02       Jun 03
-00-03UT       4.00         7.00 (G3)    5.33 (G1)
-03-06UT       4.00         7.67 (G4)    5.67 (G2)
-06-09UT       4.00         6.67 (G3)    5.00 (G1)
-09-12UT       3.67         6.33 (G2)    4.67 (G1)
-12-15UT       7.67 (G4)    6.00 (G2)    4.67 (G1)
-15-18UT       7.67 (G4)    6.00 (G2)    4.33     
-18-21UT       7.33 (G3)    5.67 (G2)    4.67 (G1)
-21-00UT       7.33 (G3)    5.33 (G1)    4.33     
+             Jun 02       Jun 03       Jun 04
+00-03UT       7.00 (G3)    4.33         4.00     
+03-06UT       7.67 (G4)    5.00 (G1)    4.00     
+06-09UT       6.67 (G3)    4.67 (G1)    3.33     
+09-12UT       6.33 (G2)    4.67 (G1)    3.00     
+12-15UT       5.00 (G1)    4.67 (G1)    3.00     
+15-18UT       4.67 (G1)    4.33         3.33     
+18-21UT       5.33 (G1)    4.00         3.00     
+21-00UT       4.33         4.00         2.67     
 
-Rationale: By midday on 01 Jun, conditions are expected to increase
-rapidly with the arrival of the expected CME from 31 May. G3-G4
-(Strong-Severe) conditions are likely, with a chance for G5 (Extreme)
-levels on 01-02 Jun. G1-G2 (Minor-Moderate) conditions are expected to
-persist on 03 Jun.
+Rationale: UP to G4 (Severe) geomagnetic storms are likely on 02 Jun
+due to effects from a CME that left the Sun on 31 May. G1-G2
+(Minor-Moderate) geomagnetic storms are likely on 03 Jun due to coronal
+hole influence.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 above S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Jun 01-Jun 03 2025
+Solar Radiation Storm Forecast for Jun 02-Jun 04 2025
 
-              Jun 01  Jun 02  Jun 03
-S1 or greater   75%     75%     75%
+              Jun 02  Jun 03  Jun 04
+S1 or greater   99%     75%     60%
 
-Rationale: S1 (Minor) or greater solar radiation storms are expected to
-persist on 01-03 Jun.
+Rationale: S1-S2 (Minor-Moderate) solar radiation storms are likely
+persist over 02-03 Jun becoming likely on 04 Jun.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-Radio blackouts reaching the R2 levels were observed over the past 24
-hours. The largest was at May 31 2025 0030 UTC.
+No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Jun 01-Jun 03 2025
+Radio Blackout Forecast for Jun 02-Jun 04 2025
 
-              Jun 01        Jun 02        Jun 03
+              Jun 02        Jun 03        Jun 04
 R1-R2           65%           65%           65%
-R3 or greater   25%           25%           25%
+R3 or greater   15%           15%           15%
 
 Rationale: R1-R2 (Minor-Moderate) radio blackouts are likely, with a
-slight chance for R3 (Strong), over 01 Jun - 03 Jun due to the flare
-potential from multiple complex regions on the Suns visible disk.
+slight chance for R3 (Strong), over 02-04 Jun.
 
 ```
