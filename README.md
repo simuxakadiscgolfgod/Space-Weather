@@ -1,13 +1,16 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2025-06-02
+<br />**Date image released:**  2025-06-03
 <br />**This image is owned by:**  
-Abdullah Alharbi
+Miguel Claro
+(TWAN);
+ Rollover Annotation: 
+Judy Schmidt
 
-<br />**Title of the image:**  Veil Nebula: Wisps of an Ancient Supernova
-<br />**Description for the image:**  Wisps like this are all that remain visible of a Milky Way star.  About 7,000 years ago that star exploded in a supernova, leaving the Veil Nebula.  At the time, the expanding cloud was likely as bright as a crescent Moon, remaining visible for weeks to people living at the dawn of recorded history.  Today, the resulting supernova remnant, also known as the Cygnus Loop, has faded and is now visible only through a small telescope directed toward the constellation of the Swan (Cygnus).  The remaining Veil Nebula is physically huge, however, and even though it lies about 1,400 light-years distant, it covers over five times the size of the full Moon.  The featured picture was taken in Kuwait in mid-2024 and features light emitted by hydrogen in red and oxygen in blue.  In deep images of the complete Veil Nebula like this, even studious readers might not be able to identify the iconic filaments.   Piece it All Together: Astronomy Puzzle of the Day
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2506/VeilWide_Alharbi_5169.jpg
+<br />**Title of the image:**  Rainbow Airglow over the Azores
+<br />**Description for the image:**  Why would the sky glow like a giant repeating rainbow?  Airglow.  Now, air glows all of the time, but it is usually hard to see. A disturbance however -- like an approaching storm -- may cause noticeable rippling in the Earth's atmosphere. These gravity waves are oscillations in air analogous to those created when a rock is thrown in calm water.  The long-duration exposure nearly along the vertical walls of airglow likely made the undulating structure particularly visible.  OK, but where do the colors originate?  The deep red glow likely originates from OH molecules about 87 kilometers high, excited by ultraviolet light from the Sun. The orange and green airglow is likely caused by sodium and oxygen atoms slightly higher up.  The featured image was captured during a climb up Mount Pico in the Azores of Portugal.  Ground lights originate from the island of Faial in the Atlantic Ocean.  A spectacular sky is visible through this banded airglow, with the central band of our Milky Way Galaxy running up the image center, and M31, the Andromeda Galaxy, visible near the top left.   APOD Turns 30!: Free Public Lecture in Anchorage on June 11
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2506/GravityWaves_Claro_1486.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -51,57 +54,59 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 Jun 02 0030 UTC
+:Issued: 2025 Jun 03 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 8 (NOAA Scale
-G4).
-The greatest expected 3 hr Kp for Jun 02-Jun 04 2025 is 7.67 (NOAA Scale
-G4).
+The greatest observed 3 hr Kp over the past 24 hours was 7 (NOAA Scale
+G3).
+The greatest expected 3 hr Kp for Jun 03-Jun 05 2025 is 7.00 (NOAA Scale
+G3).
 
-NOAA Kp index breakdown Jun 02-Jun 04 2025
+NOAA Kp index breakdown Jun 03-Jun 05 2025
 
-             Jun 02       Jun 03       Jun 04
-00-03UT       7.00 (G3)    4.33         4.00     
-03-06UT       7.67 (G4)    5.00 (G1)    4.00     
-06-09UT       6.67 (G3)    4.67 (G1)    3.33     
-09-12UT       6.33 (G2)    4.67 (G1)    3.00     
-12-15UT       5.00 (G1)    4.67 (G1)    3.00     
-15-18UT       4.67 (G1)    4.33         3.33     
-18-21UT       5.33 (G1)    4.00         3.00     
-21-00UT       4.33         4.00         2.67     
+             Jun 03       Jun 04       Jun 05
+00-03UT       5.67 (G2)    3.00         5.00 (G1)
+03-06UT       5.00 (G1)    2.33         4.00     
+06-09UT       7.00 (G3)    2.33         3.33     
+09-12UT       5.67 (G2)    3.00         3.00     
+12-15UT       3.00         3.00         2.33     
+15-18UT       3.00         4.00         2.33     
+18-21UT       3.00         4.00         3.00     
+21-00UT       3.67         4.67 (G1)    3.67     
 
-Rationale: UP to G4 (Severe) geomagnetic storms are likely on 02 Jun
-due to effects from a CME that left the Sun on 31 May. G1-G2
-(Minor-Moderate) geomagnetic storms are likely on 03 Jun due to coronal
-hole influence.
+Rationale: G3 (Strong) storm levels are expected through early to midday
+03 Jun as CME effects persist. G1 (Minor) storming is likely on 04-05
+Jun due to CH HSS effects.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 above S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Jun 02-Jun 04 2025
+Solar Radiation Storm Forecast for Jun 03-Jun 05 2025
 
-              Jun 02  Jun 03  Jun 04
-S1 or greater   99%     75%     60%
+              Jun 03  Jun 04  Jun 05
+S1 or greater   25%     25%     25%
 
-Rationale: S1-S2 (Minor-Moderate) solar radiation storms are likely
-persist over 02-03 Jun becoming likely on 04 Jun.
+Rationale: There is a chance for a greater than 10 MeV proton event
+(S1-Minor) on 03-05 Jun due primarily to the flare potential of Region
+4100.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-No radio blackouts were observed over the past 24 hours.
+Radio blackouts reaching the R1 levels were observed over the past 24
+hours. The largest was at Jun 02 2025 1118 UTC.
 
-Radio Blackout Forecast for Jun 02-Jun 04 2025
+Radio Blackout Forecast for Jun 03-Jun 05 2025
 
-              Jun 02        Jun 03        Jun 04
-R1-R2           65%           65%           65%
+              Jun 03        Jun 04        Jun 05
+R1-R2           55%           55%           55%
 R3 or greater   15%           15%           15%
 
-Rationale: R1-R2 (Minor-Moderate) radio blackouts are likely, with a
-slight chance for R3 (Strong), over 02-04 Jun.
+Rationale: (R1-R2, Minor-Moderate) radio blackouts are likely, with a
+slight chance for an (R3-Strong) event on 03-05 Jun due primarily to the
+flare potential of Region 4100.
 
 ```
