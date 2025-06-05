@@ -1,10 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2025-06-04
-<br />**Title of the image:**  A Milky Road to the Rubin Observatory
-<br />**Description for the image:**  Is the sky the same every night? No -- the night sky changes every night in many ways. To better explore how the night sky changes, the USA's NSF and DOE commissioned the Vera C. Rubin Observatory in Cerro Pachón, Chile. In final testing before routine operations, Rubin will begin to explore these nightly changes -- slight differences that can tell us much about our amazing universe and its surprising zoo of objects. With a mirror over 8 meters across, Rubin will continually reimage the entire visible sky every few nights to discover new supernovas, potentially dangerous asteroids, faint comets, and variable stars -- as well as mapping out the visible universe's large-scale structure.  Pictured, the distant central band of our Milky Way Galaxy appears to flow out from the newly operational observatory. Taken last month, the featured picture is a composite of 21 images across the night sky, capturing airglow on the horizon and the Small Magellanic Cloud galaxy on the lower left.    APOD Turns 30!: Free Public Lecture in Anchorage on June 11
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2506/RubinMw_assuncao_1460.jpg
+<br />**Date image released:**  2025-06-05
+<br />**This image is owned by:**  Branko Nadj
+<br />**Title of the image:**  Savudrija Star Trails
+<br />**Description for the image:**  Savudrija lighthouse shines along the coast near the northern end of the Istrian peninsula in this well-composed night skyscape. A navigational aid for sailors on the Adriatic Sea, the historic lighthouse was constructed in the early 19th century. But an even older aid to navigation shines in the sky above, Polaris, alpha star of the constellation Ursa Minor and also known as the North Star. In this scene Polaris forms the shortest bright arc near the North Celestial Pole, the extension of Earth's axis of rotation into space. Of course, the North Celestial Pole lies exactly at the center of all the concentric startrails. The composite image is a digital stack of 400 exposures, each 30 seconds long, taken with camera and tripod fixed to a rotating planet.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2506/SavudrijaSTARTRAILS_Nadj.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -48,60 +49,60 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 Jun 04 0030 UTC
+:Issued: 2025 Jun 05 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 7 (NOAA Scale
-G3).
-The greatest expected 3 hr Kp for Jun 04-Jun 06 2025 is 5.00 (NOAA Scale
+The greatest observed 3 hr Kp over the past 24 hours was 5 (NOAA Scale
 G1).
+The greatest expected 3 hr Kp for Jun 05-Jun 07 2025 is 5.67 (NOAA Scale
+G2).
 
-NOAA Kp index breakdown Jun 04-Jun 06 2025
+NOAA Kp index breakdown Jun 05-Jun 07 2025
 
-             Jun 04       Jun 05       Jun 06
-00-03UT       4.00         5.00 (G1)    3.33     
-03-06UT       4.67 (G1)    4.00         3.33     
-06-09UT       2.33         3.33         2.00     
-09-12UT       3.00         3.00         3.00     
-12-15UT       2.33         2.33         3.00     
-15-18UT       2.33         2.33         3.33     
-18-21UT       2.67         3.00         2.00     
-21-00UT       4.00         3.67         3.33     
+             Jun 05       Jun 06       Jun 07
+00-03UT       4.67 (G1)    3.33         3.33     
+03-06UT       5.67 (G2)    4.00         3.67     
+06-09UT       4.67 (G1)    3.67         3.00     
+09-12UT       4.00         3.00         2.33     
+12-15UT       3.33         3.00         2.00     
+15-18UT       3.00         2.00         3.00     
+18-21UT       4.00         2.00         3.67     
+21-00UT       4.00         2.67         4.67 (G1)
 
-Rationale: No G1 (Minor) geomagnetic storms are expected should the
-current solar wind environment turn favorable again early on 4 Jun. CME
-influences are anticipated to cease later on 4 Jun, and a transition
-back to a CH HSS regime is expected which will make G1 storm levels
-possible again on 5 Jun.
+Rationale: G1 to G2 (Minor-Moderate) geomagnetic storming is likely on
+05 Jun due to waning CME and CH HSS influences. G1 (Minor) geomagnetic
+storming is likely again on 07 Jun due to CME influences from the 04 Jun
+filament eruption.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Jun 04-Jun 06 2025
+Solar Radiation Storm Forecast for Jun 05-Jun 07 2025
 
-              Jun 04  Jun 05  Jun 06
-S1 or greater   15%     15%     15%
+              Jun 05  Jun 06  Jun 07
+S1 or greater   10%     10%     10%
 
-Rationale: No S1 (Minor) or greater solar radiation storms are expected.
-No significant active region activity favorable for radiation storm
-production is forecast.
+Rationale: A slight chance for S1 (Minor) solar radiation storms will
+persist through 07 Jun given the flare potential and history of AR 4100
+in particular.
 
 C. NOAA Radio Blackout Activity and Forecast
 
 Radio blackouts reaching the R1 levels were observed over the past 24
-hours. The largest was at Jun 03 2025 1303 UTC.
+hours. The largest was at Jun 04 2025 2328 UTC.
 
-Radio Blackout Forecast for Jun 04-Jun 06 2025
+Radio Blackout Forecast for Jun 05-Jun 07 2025
 
-              Jun 04        Jun 05        Jun 06
-R1-R2           55%           55%           55%
+              Jun 05        Jun 06        Jun 07
+R1-R2           45%           45%           45%
 R3 or greater   10%           10%           10%
 
-Rationale: R1 (Minor) radio blackouts are likely due to a few active
-regions on the solar disk and their combined solar flare potential.
+Rationale: A chance for R1-2 (Minor-Moderate) radio blackouts, with a
+slight chance for an isolated R3 (Strong) event, will persist through 07
+Jun.
 
 ```
