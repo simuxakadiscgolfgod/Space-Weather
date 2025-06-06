@@ -1,11 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2025-06-05
-<br />**This image is owned by:**  Branko Nadj
-<br />**Title of the image:**  Savudrija Star Trails
-<br />**Description for the image:**  Savudrija lighthouse shines along the coast near the northern end of the Istrian peninsula in this well-composed night skyscape. A navigational aid for sailors on the Adriatic Sea, the historic lighthouse was constructed in the early 19th century. But an even older aid to navigation shines in the sky above, Polaris, alpha star of the constellation Ursa Minor and also known as the North Star. In this scene Polaris forms the shortest bright arc near the North Celestial Pole, the extension of Earth's axis of rotation into space. Of course, the North Celestial Pole lies exactly at the center of all the concentric startrails. The composite image is a digital stack of 400 exposures, each 30 seconds long, taken with camera and tripod fixed to a rotating planet.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2506/SavudrijaSTARTRAILS_Nadj.jpg
+<br />**Date image released:**  2025-06-06
+<br />**This image is owned by:**  Mike Selby
+<br />**Title of the image:**  NGC 6302: The Butterfly Nebula
+<br />**Description for the image:**  The bright clusters and nebulae of planet Earth's night sky are often given the names of flowers or insects, and its whopping 3 light-year wingspan, NGC 6302 is no exception. With an estimated surface temperature of about 250,000 degrees C, the central star of the planetary nebula is transforming into a white dwarf star, becoming exceptionally hot, and shining brightly in ultraviolet light. The central star is hidden from direct view by a torus of dust, but its energetic ultraviolet light ionizes atoms in the nebula. In this sharp, telescopic view composed with narrowband image data, the ionized hydrogen and doubly ionized oxygen atoms are shown in their characteristic red and blue-green hues to reveal a stunning complex of knots and filaments within the nebula's wing-like bipolar outflows. NGC 6302 lies about 4,000 light-years away in the arachnologically correct constellation of the Scorpion (Scorpius).
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2506/NGC-6302-LRGB-Ha-OIII.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,60 +49,57 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 Jun 05 0030 UTC
+:Issued: 2025 Jun 06 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 5 (NOAA Scale
+The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
+Scale levels).
+The greatest expected 3 hr Kp for Jun 06-Jun 08 2025 is 4.67 (NOAA Scale
 G1).
-The greatest expected 3 hr Kp for Jun 05-Jun 07 2025 is 5.67 (NOAA Scale
-G2).
 
-NOAA Kp index breakdown Jun 05-Jun 07 2025
+NOAA Kp index breakdown Jun 06-Jun 08 2025
 
-             Jun 05       Jun 06       Jun 07
-00-03UT       4.67 (G1)    3.33         3.33     
-03-06UT       5.67 (G2)    4.00         3.67     
-06-09UT       4.67 (G1)    3.67         3.00     
-09-12UT       4.00         3.00         2.33     
-12-15UT       3.33         3.00         2.00     
-15-18UT       3.00         2.00         3.00     
-18-21UT       4.00         2.00         3.67     
-21-00UT       4.00         2.67         4.67 (G1)
+             Jun 06       Jun 07       Jun 08
+00-03UT       2.67         3.33         4.00     
+03-06UT       3.33         3.67         3.67     
+06-09UT       3.67         3.00         3.00     
+09-12UT       3.67         2.33         3.00     
+12-15UT       3.00         2.00         2.33     
+15-18UT       2.67         3.00         2.00     
+18-21UT       2.33         3.67         2.00     
+21-00UT       2.67         4.67 (G1)    3.33     
 
-Rationale: G1 to G2 (Minor-Moderate) geomagnetic storming is likely on
-05 Jun due to waning CME and CH HSS influences. G1 (Minor) geomagnetic
-storming is likely again on 07 Jun due to CME influences from the 04 Jun
-filament eruption.
+Rationale: G1 (Minor) geomagnetic storming is likely on 07 Jun due to
+CME influences from the 04 Jun filament eruption.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Jun 05-Jun 07 2025
+Solar Radiation Storm Forecast for Jun 06-Jun 08 2025
 
-              Jun 05  Jun 06  Jun 07
-S1 or greater   10%     10%     10%
+              Jun 06  Jun 07  Jun 08
+S1 or greater    5%      5%      5%
 
-Rationale: A slight chance for S1 (Minor) solar radiation storms will
-persist through 07 Jun given the flare potential and history of AR 4100
-in particular.
+Rationale: No S1 (Minor) or greater solar radiation storms are expected.
+No significant active region activity favorable for radiation storm
+production is forecast.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-Radio blackouts reaching the R1 levels were observed over the past 24
-hours. The largest was at Jun 04 2025 2328 UTC.
+No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Jun 05-Jun 07 2025
+Radio Blackout Forecast for Jun 06-Jun 08 2025
 
-              Jun 05        Jun 06        Jun 07
-R1-R2           45%           45%           45%
-R3 or greater   10%           10%           10%
+              Jun 06        Jun 07        Jun 08
+R1-R2           40%           40%           40%
+R3 or greater    5%            5%            5%
 
 Rationale: A chance for R1-2 (Minor-Moderate) radio blackouts, with a
-slight chance for an isolated R3 (Strong) event, will persist through 07
+slight chance for an isolated R3 (Strong) event, will persist through 08
 Jun.
 
 ```
