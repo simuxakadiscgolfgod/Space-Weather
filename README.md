@@ -1,10 +1,10 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2025-06-07
-<br />**Title of the image:**  Perseverance Selfie with Ingenuity
-<br />**Description for the image:**  On the Mars rover's mission Sol 46 or Earth date April 6, 2021, Perseverance held out a robotic arm to take its first selfie on Mars. The WATSON camera at the end of the arm was designed to take close-ups of Martian rocks and surface details though, and not a quick snap shot of friends and smiling faces. In the end, teamwork and weeks of planning on Mars time was required to program a complex series of exposures and camera motions to include Perseverance and its surroundings. The resulting 62 frames were composed into a detailed mosaic, one of the most complicated Mars rover selfies ever taken. In this version of the selfie, the rover's Mastcam-Z and SuperCam instruments are looking toward WATSON and the end of the rover's outstretched arm. About 4 meters (13 feet) from Perseverance is a robotic companion, the Mars Ingenuity helicopter. Perseverance has now spent over 1,500 sols exploring the surface of the Red Planet. On Earth date January 18, 2024, Ingenuity made its 72nd and final flight through the thin Martian atmosphere.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2506/PIA24542_fig2.jpg
+<br />**Date image released:**  2025-06-08
+<br />**Title of the image:**  Facing NGC 3344
+<br />**Description for the image:**  From our vantage point in the Milky Way Galaxy, we see NGC 3344 face-on. Nearly 40,000 light-years across, the big, beautiful spiral galaxy is located just 20 million light-years away in the constellation of Leo Minor. This multi-color Hubble Space Telescope close-up of NGC 3344 includes remarkable details from near infrared to ultraviolet wavelengths. The frame extends some 15,000 light-years across the spiral's central regions. From the core outward, the galaxy's colors change from the yellowish light of old stars in the center to young blue star clusters and reddish star forming regions along the loose, fragmented spiral arms. Of course, the bright stars with a spiky appearance are in front of NGC 3344 and lie well within our own Milky Way.   APOD Turns 30!: Free Public Lecture in Anchorage on Wednesday, June 11 at 7 pm
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2506/NGC3344_hst1024.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -48,39 +48,39 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 Jun 07 0030 UTC
+:Issued: 2025 Jun 08 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
-Scale levels).
-The greatest expected 3 hr Kp for Jun 07-Jun 09 2025 is 4.67 (NOAA Scale
+The greatest observed 3 hr Kp over the past 24 hours was 5 (NOAA Scale
+G1).
+The greatest expected 3 hr Kp for Jun 08-Jun 10 2025 is 5.00 (NOAA Scale
 G1).
 
-NOAA Kp index breakdown Jun 07-Jun 09 2025
+NOAA Kp index breakdown Jun 08-Jun 10 2025
 
-             Jun 07       Jun 08       Jun 09
-00-03UT       3.33         4.00         2.67     
-03-06UT       3.67         3.67         2.00     
-06-09UT       3.00         3.00         2.00     
-09-12UT       2.33         3.00         2.67     
-12-15UT       2.00         2.33         2.67     
-15-18UT       3.00         2.00         2.67     
-18-21UT       3.67         2.00         3.00     
-21-00UT       4.67 (G1)    3.33         4.00     
+             Jun 08       Jun 09       Jun 10
+00-03UT       4.67 (G1)    4.00         3.67     
+03-06UT       4.00         4.00         3.00     
+06-09UT       3.33         5.00 (G1)    2.67     
+09-12UT       3.67         3.67         2.33     
+12-15UT       2.33         3.33         2.00     
+15-18UT       2.67         2.33         2.33     
+18-21UT       3.00         2.67         2.33     
+21-00UT       3.00         3.00         2.33     
 
-Rationale: G1 (Minor) geomagnetic storming is likely on 07 Jun due to
-anticipated CME influence.
+Rationale: G1 (Minor) geomagnetic storms are likely on 08-09 Jun due to
+transient influence.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Jun 07-Jun 09 2025
+Solar Radiation Storm Forecast for Jun 08-Jun 10 2025
 
-              Jun 07  Jun 08  Jun 09
+              Jun 08  Jun 09  Jun 10
 S1 or greater    5%      5%      5%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -91,13 +91,13 @@ C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Jun 07-Jun 09 2025
+Radio Blackout Forecast for Jun 08-Jun 10 2025
 
-              Jun 07        Jun 08        Jun 09
-R1-R2           35%           35%           35%
+              Jun 08        Jun 09        Jun 10
+R1-R2           30%           35%           35%
 R3 or greater    5%            5%            5%
 
-Rationale: There exists a chance for R1-R2 (Minor-Moderate) radio
-blackouts over 07-09 Jun.
+Rationale: A chance exists for R1-R2 (Minor-Moderate) radio blackouts
+over 08-10 Jun.
 
 ```
