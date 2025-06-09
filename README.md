@@ -1,10 +1,10 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2025-06-08
-<br />**Title of the image:**  Facing NGC 3344
-<br />**Description for the image:**  From our vantage point in the Milky Way Galaxy, we see NGC 3344 face-on. Nearly 40,000 light-years across, the big, beautiful spiral galaxy is located just 20 million light-years away in the constellation of Leo Minor. This multi-color Hubble Space Telescope close-up of NGC 3344 includes remarkable details from near infrared to ultraviolet wavelengths. The frame extends some 15,000 light-years across the spiral's central regions. From the core outward, the galaxy's colors change from the yellowish light of old stars in the center to young blue star clusters and reddish star forming regions along the loose, fragmented spiral arms. Of course, the bright stars with a spiky appearance are in front of NGC 3344 and lie well within our own Milky Way.   APOD Turns 30!: Free Public Lecture in Anchorage on Wednesday, June 11 at 7 pm
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2506/NGC3344_hst1024.jpg
+<br />**Date image released:**  2025-06-09
+<br />**Title of the image:**  Between Scylla and Charybdis: A Double Cosmic Discovery
+<br />**Description for the image:**  Can you identify this celestial object?  Likely not — because this is a discovery image.  Massive stars forge heavy elements in their cores and, after a few million years, end their lives in powerful supernova explosions. These remnants cool relatively quickly and fade, making them difficult to detect.  To uncover such faint, previously unknown supernova remnants, a dedicated group of amateur astrophotographers searched through sky surveys for possible supernova remnant candidates.  The result: the first-ever image of supernova remnant G115.5+9.1 — named Scylla by its discoverers—glowing faintly in the constellation of the mythological King of Aethiopia: Cepheus.  Emission from hydrogen atoms in the remnant is shown in red, and faint emission from oxygen is shown in hues of blue.  Surprisingly, another discovery lurked to the upper right: a faint, previously unknown planetary nebula candidate. In keeping with mythological tradition, it was named Charybdis (Sai 2) — a nod to the ancient Greek expression "caught between Scylla and Charybdis" from Homer’s Odyssey.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2506/ScyllaB_LerouxGere_2094.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -48,39 +48,39 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 Jun 08 0030 UTC
+:Issued: 2025 Jun 09 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 5 (NOAA Scale
+The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
+Scale levels).
+The greatest expected 3 hr Kp for Jun 09-Jun 11 2025 is 5.00 (NOAA Scale
 G1).
-The greatest expected 3 hr Kp for Jun 08-Jun 10 2025 is 5.00 (NOAA Scale
-G1).
 
-NOAA Kp index breakdown Jun 08-Jun 10 2025
+NOAA Kp index breakdown Jun 09-Jun 11 2025
 
-             Jun 08       Jun 09       Jun 10
-00-03UT       4.67 (G1)    4.00         3.67     
-03-06UT       4.00         4.00         3.00     
-06-09UT       3.33         5.00 (G1)    2.67     
-09-12UT       3.67         3.67         2.33     
-12-15UT       2.33         3.33         2.00     
-15-18UT       2.67         2.33         2.33     
-18-21UT       3.00         2.67         2.33     
-21-00UT       3.00         3.00         2.33     
+             Jun 09       Jun 10       Jun 11
+00-03UT       4.00         3.67         2.33     
+03-06UT       4.00         3.00         3.00     
+06-09UT       5.00 (G1)    2.67         2.67     
+09-12UT       3.67         2.33         2.33     
+12-15UT       3.33         2.00         1.33     
+15-18UT       2.33         2.33         1.00     
+18-21UT       2.67         2.33         3.33     
+21-00UT       3.00         2.33         4.00     
 
-Rationale: G1 (Minor) geomagnetic storms are likely on 08-09 Jun due to
-transient influence.
+Rationale: G1 (Minor) geomagnetic storms are likely on 09 Jun due to CME
+and coronal hole influence.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Jun 08-Jun 10 2025
+Solar Radiation Storm Forecast for Jun 09-Jun 11 2025
 
-              Jun 08  Jun 09  Jun 10
+              Jun 09  Jun 10  Jun 11
 S1 or greater    5%      5%      5%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -91,13 +91,13 @@ C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Jun 08-Jun 10 2025
+Radio Blackout Forecast for Jun 09-Jun 11 2025
 
-              Jun 08        Jun 09        Jun 10
-R1-R2           30%           35%           35%
+              Jun 09        Jun 10        Jun 11
+R1-R2           25%           25%           25%
 R3 or greater    5%            5%            5%
 
-Rationale: A chance exists for R1-R2 (Minor-Moderate) radio blackouts
-over 08-10 Jun.
+Rationale: There exists a chance for R1-R2 (Minor-Moderate) radio
+blackouts over 09-11 Jun.
 
 ```
