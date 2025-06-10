@@ -1,10 +1,10 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2025-06-09
-<br />**Title of the image:**  Between Scylla and Charybdis: A Double Cosmic Discovery
-<br />**Description for the image:**  Can you identify this celestial object?  Likely not — because this is a discovery image.  Massive stars forge heavy elements in their cores and, after a few million years, end their lives in powerful supernova explosions. These remnants cool relatively quickly and fade, making them difficult to detect.  To uncover such faint, previously unknown supernova remnants, a dedicated group of amateur astrophotographers searched through sky surveys for possible supernova remnant candidates.  The result: the first-ever image of supernova remnant G115.5+9.1 — named Scylla by its discoverers—glowing faintly in the constellation of the mythological King of Aethiopia: Cepheus.  Emission from hydrogen atoms in the remnant is shown in red, and faint emission from oxygen is shown in hues of blue.  Surprisingly, another discovery lurked to the upper right: a faint, previously unknown planetary nebula candidate. In keeping with mythological tradition, it was named Charybdis (Sai 2) — a nod to the ancient Greek expression "caught between Scylla and Charybdis" from Homer’s Odyssey.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2506/ScyllaB_LerouxGere_2094.jpg
+<br />**Date image released:**  2025-06-10
+<br />**Title of the image:**  Enceladus in True Color
+<br />**Description for the image:**  Do oceans under the ice of Saturn's moon Enceladus contain life?  A reason to think so involves  long features -- some dubbed tiger stripes -- that are known to be spewing ice from the moon's icy interior into space. These surface cracks create clouds of fine ice particles over the moon's South Pole and create  Saturn's mysterious E-ring.  Evidence for this has come from the robot Cassini spacecraft that orbited Saturn from 2004 to 2017.  Pictured here, a high resolution image of Enceladus is shown in true color from a close flyby.  The deep crevasses are partly shadowed.  Why Enceladus is active remains a mystery, as the neighboring moon Mimas, approximately the same size, appears quite dead. A analysis of ejected ice grains has yielded evidence that complex organic molecules. These large carbon-rich molecules bolster -- but do not prove -- that oceans under Enceladus' surface could contain life.   APOD Turns 30!: Free public lecture in Anchorage tomorrow (Wednesday) at 7 pm
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2506/EnceladusTrue_Cassini_960.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -48,39 +48,39 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 Jun 09 0030 UTC
+:Issued: 2025 Jun 10 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Jun 09-Jun 11 2025 is 5.00 (NOAA Scale
-G1).
+The greatest expected 3 hr Kp for Jun 10-Jun 12 2025 is 4.00 (below NOAA
+Scale levels).
 
-NOAA Kp index breakdown Jun 09-Jun 11 2025
+NOAA Kp index breakdown Jun 10-Jun 12 2025
 
-             Jun 09       Jun 10       Jun 11
-00-03UT       4.00         3.67         2.33     
-03-06UT       4.00         3.00         3.00     
-06-09UT       5.00 (G1)    2.67         2.67     
-09-12UT       3.67         2.33         2.33     
-12-15UT       3.33         2.00         1.33     
-15-18UT       2.33         2.33         1.00     
-18-21UT       2.67         2.33         3.33     
-21-00UT       3.00         2.33         4.00     
+             Jun 10       Jun 11       Jun 12
+00-03UT       3.67         2.33         2.33     
+03-06UT       3.00         3.00         2.00     
+06-09UT       2.67         2.67         2.00     
+09-12UT       2.33         2.33         2.00     
+12-15UT       2.00         1.33         2.00     
+15-18UT       2.33         1.00         2.00     
+18-21UT       2.33         3.33         2.00     
+21-00UT       2.33         4.00         2.33     
 
-Rationale: G1 (Minor) geomagnetic storms are likely on 09 Jun due to CME
-and coronal hole influence.
+Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
+significant transient or recurrent solar wind features are forecast.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Jun 09-Jun 11 2025
+Solar Radiation Storm Forecast for Jun 10-Jun 12 2025
 
-              Jun 09  Jun 10  Jun 11
+              Jun 10  Jun 11  Jun 12
 S1 or greater    5%      5%      5%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -91,13 +91,13 @@ C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Jun 09-Jun 11 2025
+Radio Blackout Forecast for Jun 10-Jun 12 2025
 
-              Jun 09        Jun 10        Jun 11
-R1-R2           25%           25%           25%
+              Jun 10        Jun 11        Jun 12
+R1-R2           20%           20%           20%
 R3 or greater    5%            5%            5%
 
-Rationale: There exists a chance for R1-R2 (Minor-Moderate) radio
-blackouts over 09-11 Jun.
+Rationale: No R1 (Minor) or greater radio blackouts are expected.  No
+significant active region flare activity is forecast.
 
 ```
