@@ -1,13 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2025-06-11
-<br />**This image is owned by:**  
-Tragoolchitr Jittasaiyapan
-
-<br />**Title of the image:**  25 Brightest Stars in the Night Sky
-<br />**Description for the image:**  Do you know the names of some of the brightest stars? It's likely that you do, even though some bright stars have names so old they date back to near the beginning of written language. Many world cultures have their own names for the brightest stars, and it is culturally and historically important to remember them.  In the interest of clear global communication, however, the International Astronomical Union (IAU) has begun to designate standardized star names.  Featured here in true color are the 25 brightest stars in the night sky, currently as seen by humans, coupled with their IAU-recognized names. Some star names have interesting meanings, including Sirius ("the scorcher" in Latin), Vega ("falling" in Arabic), and Antares ("rival to Mars" in Greek). You are likely even familiar with the name of at least one star too dim to make this list: Polaris.    APOD Turns 30!: Free public lecture in Anchorage TONIGHT (Wednesday) at 7 pm
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2506/25BrightestStars_Jittasaiyapan_1500.jpg
+<br />**Date image released:**  2025-06-12
+<br />**This image is owned by:**  Fred Espenak
+<br />**Title of the image:**  Solar Eclipse
+<br />**Description for the image:**  On April 20, 2023 the shadow of a New Moon raced across planet Earth's southern hemisphere. When viewed along a narrow path that mostly avoided landfall, the Moon in silhouette created a hybrid solar eclipse. Hybrid eclipses are rare and can be seen as a total eclipse or an annular "ring of fire" eclipse depending on the observer's position. Viewers of this much anticipated hybrid event were able to witness a total solar eclipse while anchored in the Indian Ocean near the centerline of the eclipse track off the coast of western Australia. This ship-borne image from renowned eclipse chaser Fred Espenak captured the active Sun's magnificent outer atmosphere, or solar corona, streaming into space. The composite of 11 exposures ranging from 1/2000 to 1/2 second, taken during the 62 seconds of totality, records an extended range of brightness to follow alluring details of the corona not quite visible to the eye.  Fred Espenak (1953-2025)
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2506/TSE2023-Comp48-2a.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -51,39 +49,40 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 Jun 11 0030 UTC
+:Issued: 2025 Jun 12 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
-Scale levels).
-The greatest expected 3 hr Kp for Jun 11-Jun 13 2025 is 4.00 (below NOAA
-Scale levels).
+The greatest observed 3 hr Kp over the past 24 hours was 5 (NOAA Scale
+G1).
+The greatest expected 3 hr Kp for Jun 12-Jun 14 2025 is 5.67 (NOAA Scale
+G2).
 
-NOAA Kp index breakdown Jun 11-Jun 13 2025
+NOAA Kp index breakdown Jun 12-Jun 14 2025
 
-             Jun 11       Jun 12       Jun 13
-00-03UT       2.33         2.33         3.67     
-03-06UT       3.00         2.67         3.33     
-06-09UT       2.67         1.67         3.33     
-09-12UT       2.33         2.00         2.67     
-12-15UT       1.33         2.00         2.67     
-15-18UT       1.00         2.00         2.67     
-18-21UT       3.33         2.00         3.00     
-21-00UT       4.00         2.67         2.33     
+             Jun 12       Jun 13       Jun 14
+00-03UT       4.67 (G1)    3.67         3.33     
+03-06UT       4.67 (G1)    3.33         3.33     
+06-09UT       3.67         3.33         3.67     
+09-12UT       3.67         2.67         4.33     
+12-15UT       3.00         2.67         4.33     
+15-18UT       2.33         2.67         4.00     
+18-21UT       2.33         3.00         4.67 (G1)
+21-00UT       2.33         2.33         5.67 (G2)
 
-Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
-significant transient or recurrent solar wind features are forecast.
+Rationale: G1 (Minor) geomagnetic storms are expected early on 12 Jun
+due to sustained southward Bz. G1-G2 storming is likely again 14
+Jun due to recurrent CH HSS influences.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Jun 11-Jun 13 2025
+Solar Radiation Storm Forecast for Jun 12-Jun 14 2025
 
-              Jun 11  Jun 12  Jun 13
+              Jun 12  Jun 13  Jun 14
 S1 or greater    5%      5%      5%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -94,10 +93,10 @@ C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Jun 11-Jun 13 2025
+Radio Blackout Forecast for Jun 12-Jun 14 2025
 
-              Jun 11        Jun 12        Jun 13
-R1-R2           35%           35%           35%
+              Jun 12        Jun 13        Jun 14
+R1-R2           40%           40%           40%
 R3 or greater    5%            5%            5%
 
 Rationale: There is a chance for R1-R2 (Minor-Moderate) radio blackouts

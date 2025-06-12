@@ -1,38 +1,39 @@
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 Jun 11 0030 UTC
+:Issued: 2025 Jun 12 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
-Scale levels).
-The greatest expected 3 hr Kp for Jun 11-Jun 13 2025 is 4.00 (below NOAA
-Scale levels).
+The greatest observed 3 hr Kp over the past 24 hours was 5 (NOAA Scale
+G1).
+The greatest expected 3 hr Kp for Jun 12-Jun 14 2025 is 5.67 (NOAA Scale
+G2).
 
-NOAA Kp index breakdown Jun 11-Jun 13 2025
+NOAA Kp index breakdown Jun 12-Jun 14 2025
 
-             Jun 11       Jun 12       Jun 13
-00-03UT       2.33         2.33         3.67     
-03-06UT       3.00         2.67         3.33     
-06-09UT       2.67         1.67         3.33     
-09-12UT       2.33         2.00         2.67     
-12-15UT       1.33         2.00         2.67     
-15-18UT       1.00         2.00         2.67     
-18-21UT       3.33         2.00         3.00     
-21-00UT       4.00         2.67         2.33     
+             Jun 12       Jun 13       Jun 14
+00-03UT       4.67 (G1)    3.67         3.33     
+03-06UT       4.67 (G1)    3.33         3.33     
+06-09UT       3.67         3.33         3.67     
+09-12UT       3.67         2.67         4.33     
+12-15UT       3.00         2.67         4.33     
+15-18UT       2.33         2.67         4.00     
+18-21UT       2.33         3.00         4.67 (G1)
+21-00UT       2.33         2.33         5.67 (G2)
 
-Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
-significant transient or recurrent solar wind features are forecast.
+Rationale: G1 (Minor) geomagnetic storms are expected early on 12 Jun
+due to sustained southward Bz. G1-G2 storming is likely again 14
+Jun due to recurrent CH HSS influences.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Jun 11-Jun 13 2025
+Solar Radiation Storm Forecast for Jun 12-Jun 14 2025
 
-              Jun 11  Jun 12  Jun 13
+              Jun 12  Jun 13  Jun 14
 S1 or greater    5%      5%      5%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -43,10 +44,10 @@ C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Jun 11-Jun 13 2025
+Radio Blackout Forecast for Jun 12-Jun 14 2025
 
-              Jun 11        Jun 12        Jun 13
-R1-R2           35%           35%           35%
+              Jun 12        Jun 13        Jun 14
+R1-R2           40%           40%           40%
 R3 or greater    5%            5%            5%
 
 Rationale: There is a chance for R1-R2 (Minor-Moderate) radio blackouts
