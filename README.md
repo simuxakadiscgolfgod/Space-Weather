@@ -1,11 +1,10 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2025-06-12
-<br />**This image is owned by:**  Fred Espenak
-<br />**Title of the image:**  Solar Eclipse
-<br />**Description for the image:**  On April 20, 2023 the shadow of a New Moon raced across planet Earth's southern hemisphere. When viewed along a narrow path that mostly avoided landfall, the Moon in silhouette created a hybrid solar eclipse. Hybrid eclipses are rare and can be seen as a total eclipse or an annular "ring of fire" eclipse depending on the observer's position. Viewers of this much anticipated hybrid event were able to witness a total solar eclipse while anchored in the Indian Ocean near the centerline of the eclipse track off the coast of western Australia. This ship-borne image from renowned eclipse chaser Fred Espenak captured the active Sun's magnificent outer atmosphere, or solar corona, streaming into space. The composite of 11 exposures ranging from 1/2000 to 1/2 second, taken during the 62 seconds of totality, records an extended range of brightness to follow alluring details of the corona not quite visible to the eye.  Fred Espenak (1953-2025)
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2506/TSE2023-Comp48-2a.jpg
+<br />**Date image released:**  2025-06-13
+<br />**Title of the image:**  Rubin's Galaxy
+<br />**Description for the image:**  In this Hubble Space Telescope image the bright, spiky stars lie in the foreground toward the heroic northern constellation Perseus and well within our own Milky Way galaxy. In sharp focus beyond is UGC 2885, a giant spiral galaxy about 232 million light-years distant. Some 800,000 light-years across compared to the Milky Way's diameter of 100,000 light-years or so, it has around 1 trillion stars. That's about 10 times as many stars as the Milky Way. Part of an investigation to understand how galaxies can grow to such enormous sizes, UGC 2885 was also part of An Interesting Voyage and American astronomer Vera Rubin's pioneering study of the rotation of spiral galaxies. Her work was the first to convincingly demonstrate the dominating presence of dark matter in our universe. A new U.S. coin has been issured to honor Vera Rubin, while the Vera C. Rubin Observatory is scheduled to unveil images from its first look at the cosmos on June 23.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2506/RubinsGalaxy_hst2000.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,40 +48,41 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 Jun 12 0030 UTC
+:Issued: 2025 Jun 13 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 5 (NOAA Scale
 G1).
-The greatest expected 3 hr Kp for Jun 12-Jun 14 2025 is 5.67 (NOAA Scale
+The greatest expected 3 hr Kp for Jun 13-Jun 15 2025 is 5.67 (NOAA Scale
 G2).
 
-NOAA Kp index breakdown Jun 12-Jun 14 2025
+NOAA Kp index breakdown Jun 13-Jun 15 2025
 
-             Jun 12       Jun 13       Jun 14
-00-03UT       4.67 (G1)    3.67         3.33     
-03-06UT       4.67 (G1)    3.33         3.33     
-06-09UT       3.67         3.33         3.67     
-09-12UT       3.67         2.67         4.33     
-12-15UT       3.00         2.67         4.33     
-15-18UT       2.33         2.67         4.00     
-18-21UT       2.33         3.00         4.67 (G1)
-21-00UT       2.33         2.33         5.67 (G2)
+             Jun 13       Jun 14       Jun 15
+00-03UT       5.33 (G1)    3.33         3.67     
+03-06UT       5.67 (G2)    3.33         4.67 (G1)
+06-09UT       4.67 (G1)    3.67         4.33     
+09-12UT       3.67         4.33         3.67     
+12-15UT       3.00         4.33         3.33     
+15-18UT       2.67         4.00         3.67     
+18-21UT       2.67         4.67 (G1)    3.67     
+21-00UT       2.33         5.67 (G2)    3.67     
 
-Rationale: G1 (Minor) geomagnetic storms are expected early on 12 Jun
-due to sustained southward Bz. G1-G2 storming is likely again 14
-Jun due to recurrent CH HSS influences.
+Rationale: G1-G2 (Minor-Moderate) or greater geomagnetic storms are
+expected early on 13 Jun due to what is likely passage of the 08 Jun
+transient. G1-G2 storms are likely on 14-15 Jun due to the expected
+onset of a CIR and subsequent CH HSS.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Jun 12-Jun 14 2025
+Solar Radiation Storm Forecast for Jun 13-Jun 15 2025
 
-              Jun 12  Jun 13  Jun 14
+              Jun 13  Jun 14  Jun 15
 S1 or greater    5%      5%      5%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -93,9 +93,9 @@ C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Jun 12-Jun 14 2025
+Radio Blackout Forecast for Jun 13-Jun 15 2025
 
-              Jun 12        Jun 13        Jun 14
+              Jun 13        Jun 14        Jun 15
 R1-R2           40%           40%           40%
 R3 or greater    5%            5%            5%
 
