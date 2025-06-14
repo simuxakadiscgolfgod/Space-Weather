@@ -1,10 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2025-06-13
-<br />**Title of the image:**  Rubin's Galaxy
-<br />**Description for the image:**  In this Hubble Space Telescope image the bright, spiky stars lie in the foreground toward the heroic northern constellation Perseus and well within our own Milky Way galaxy. In sharp focus beyond is UGC 2885, a giant spiral galaxy about 232 million light-years distant. Some 800,000 light-years across compared to the Milky Way's diameter of 100,000 light-years or so, it has around 1 trillion stars. That's about 10 times as many stars as the Milky Way. Part of an investigation to understand how galaxies can grow to such enormous sizes, UGC 2885 was also part of An Interesting Voyage and American astronomer Vera Rubin's pioneering study of the rotation of spiral galaxies. Her work was the first to convincingly demonstrate the dominating presence of dark matter in our universe. A new U.S. coin has been issured to honor Vera Rubin, while the Vera C. Rubin Observatory is scheduled to unveil images from its first look at the cosmos on June 23.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2506/RubinsGalaxy_hst2000.jpg
+<br />**Date image released:**  2025-06-14
+<br />**This image is owned by:**  Martín Moliné
+<br />**Title of the image:**  Meteors and Satellite Trails over the Limay River
+<br />**Description for the image:**  What are all those streaks in the sky? A galaxy, many satellite trails, and a few meteors.  First, far in the distance, the majestic band of our Milky Way Galaxy runs down the left. Mirroring it on the right are several parallel trails of Earth-orbiting Starlink satellites. Many fainter satellite trails also crisscross the image. The two short and bright streaks are meteors — likely members of the annual Eta Aquariids meteor shower.  The planet Venus shines on the lower right.  Venus and the satellites shine by reflected sunlight. The featured picture is a composite of exposures all taken in a few hours on May 4 over the Limay River in Argentina.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2506/MeteorSats_Moline_6512.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -48,41 +49,40 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 Jun 13 0030 UTC
+:Issued: 2025 Jun 14 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 5 (NOAA Scale
-G1).
-The greatest expected 3 hr Kp for Jun 13-Jun 15 2025 is 5.67 (NOAA Scale
+The greatest observed 3 hr Kp over the past 24 hours was 6 (NOAA Scale
+G2).
+The greatest expected 3 hr Kp for Jun 14-Jun 16 2025 is 6.00 (NOAA Scale
 G2).
 
-NOAA Kp index breakdown Jun 13-Jun 15 2025
+NOAA Kp index breakdown Jun 14-Jun 16 2025
 
-             Jun 13       Jun 14       Jun 15
-00-03UT       5.33 (G1)    3.33         3.67     
-03-06UT       5.67 (G2)    3.33         4.67 (G1)
-06-09UT       4.67 (G1)    3.67         4.33     
-09-12UT       3.67         4.33         3.67     
-12-15UT       3.00         4.33         3.33     
-15-18UT       2.67         4.00         3.67     
-18-21UT       2.67         4.67 (G1)    3.67     
-21-00UT       2.33         5.67 (G2)    3.67     
+             Jun 14       Jun 15       Jun 16
+00-03UT       4.67 (G1)    5.00 (G1)    4.67 (G1)
+03-06UT       5.33 (G1)    4.33         4.00     
+06-09UT       5.67 (G2)    3.67         3.33     
+09-12UT       4.33         3.33         3.00     
+12-15UT       3.33         2.67         3.00     
+15-18UT       4.67 (G1)    3.00         2.33     
+18-21UT       5.00 (G1)    3.00         2.33     
+21-00UT       6.00 (G2)    4.00         3.00     
 
-Rationale: G1-G2 (Minor-Moderate) or greater geomagnetic storms are
-expected early on 13 Jun due to what is likely passage of the 08 Jun
-transient. G1-G2 storms are likely on 14-15 Jun due to the expected
-onset of a CIR and subsequent CH HSS.
+Rationale: Periods of G1-G2 (Minor-Moderate) geomagnetic storms are
+expected on 14 Jun due to CME and CH HSS influences. Periods of G1
+(Minor) storming are likely on 15-16 Jun due to CH HSS influences.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Jun 13-Jun 15 2025
+Solar Radiation Storm Forecast for Jun 14-Jun 16 2025
 
-              Jun 13  Jun 14  Jun 15
+              Jun 14  Jun 15  Jun 16
 S1 or greater    5%      5%      5%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -91,15 +91,16 @@ production is forecast.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-No radio blackouts were observed over the past 24 hours.
+Radio blackouts reaching the R1 levels were observed over the past 24
+hours. The largest was at Jun 13 2025 2110 UTC.
 
-Radio Blackout Forecast for Jun 13-Jun 15 2025
+Radio Blackout Forecast for Jun 14-Jun 16 2025
 
-              Jun 13        Jun 14        Jun 15
+              Jun 14        Jun 15        Jun 16
 R1-R2           40%           40%           40%
 R3 or greater    5%            5%            5%
 
 Rationale: There is a chance for R1-R2 (Minor-Moderate) radio blackouts
-all three days.
+over 14-16 Jun.
 
 ```
