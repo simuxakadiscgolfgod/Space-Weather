@@ -1,11 +1,18 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2025-06-14
-<br />**This image is owned by:**  Martín Moliné
-<br />**Title of the image:**  Meteors and Satellite Trails over the Limay River
-<br />**Description for the image:**  What are all those streaks in the sky? A galaxy, many satellite trails, and a few meteors.  First, far in the distance, the majestic band of our Milky Way Galaxy runs down the left. Mirroring it on the right are several parallel trails of Earth-orbiting Starlink satellites. Many fainter satellite trails also crisscross the image. The two short and bright streaks are meteors — likely members of the annual Eta Aquariids meteor shower.  The planet Venus shines on the lower right.  Venus and the satellites shine by reflected sunlight. The featured picture is a composite of exposures all taken in a few hours on May 4 over the Limay River in Argentina.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2506/MeteorSats_Moline_6512.jpg
+<br />**Date image released:**  2025-06-15
+<br />**This image is owned by:**  
+Damia Bouic; 
+ Right Image Credit:  NASA,
+JPL-Caltech,
+MSSS;
+ Digital processing: 
+Damia Bouic
+
+<br />**Title of the image:**  Two Worlds, One Sun
+<br />**Description for the image:**  How different does sunset appear from Mars than from Earth? For comparison, two images of our common star were taken at sunset, one from Earth and one from Mars. These images were scaled to have the same angular width and are featured here side-by-side. A quick inspection will reveal that the Sun appears slightly smaller from Mars than from Earth. This makes sense since Mars is 50% further from the Sun than Earth. More striking, perhaps, is that the Martian sunset is noticeably bluer near the Sun than the typically orange colors near the setting Sun from Earth. The reason for the blue hues from Mars is not fully understood, but thought to be related to forward scattering properties of Martian dust. The terrestrial sunset was taken in 2012 March from Marseille, France, while the Martian sunset was captured in 2015 by NASA's robotic Curiosity rover from Gale crater on Mars.   APOD Turns 30!: Free Public Lecture in Cork, Ireland on June 24
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2506/TwoWorldsOneSun_Bouic_2683.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,58 +56,56 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 Jun 14 0030 UTC
+:Issued: 2025 Jun 15 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 6 (NOAA Scale
-G2).
-The greatest expected 3 hr Kp for Jun 14-Jun 16 2025 is 6.00 (NOAA Scale
-G2).
+The greatest observed 3 hr Kp over the past 24 hours was 5 (NOAA Scale
+G1).
+The greatest expected 3 hr Kp for Jun 15-Jun 17 2025 is 4.67 (NOAA Scale
+G1).
 
-NOAA Kp index breakdown Jun 14-Jun 16 2025
+NOAA Kp index breakdown Jun 15-Jun 17 2025
 
-             Jun 14       Jun 15       Jun 16
-00-03UT       4.67 (G1)    5.00 (G1)    4.67 (G1)
-03-06UT       5.33 (G1)    4.33         4.00     
-06-09UT       5.67 (G2)    3.67         3.33     
-09-12UT       4.33         3.33         3.00     
-12-15UT       3.33         2.67         3.00     
-15-18UT       4.67 (G1)    3.00         2.33     
-18-21UT       5.00 (G1)    3.00         2.33     
-21-00UT       6.00 (G2)    4.00         3.00     
+             Jun 15       Jun 16       Jun 17
+00-03UT       4.00         4.00         4.00     
+03-06UT       4.67 (G1)    3.00         3.67     
+06-09UT       3.00         3.00         3.33     
+09-12UT       3.00         2.67         3.00     
+12-15UT       3.33         2.33         2.33     
+15-18UT       2.00         3.33         2.33     
+18-21UT       2.00         4.67 (G1)    2.00     
+21-00UT       3.00         4.67 (G1)    3.00     
 
-Rationale: Periods of G1-G2 (Minor-Moderate) geomagnetic storms are
-expected on 14 Jun due to CME and CH HSS influences. Periods of G1
-(Minor) storming are likely on 15-16 Jun due to CH HSS influences.
+Rationale: Periods of G1 (Minor) geomagnetic storms are likely on 15-16
+Jun due to CH HSS influences.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Jun 14-Jun 16 2025
+Solar Radiation Storm Forecast for Jun 15-Jun 17 2025
 
-              Jun 14  Jun 15  Jun 16
-S1 or greater    5%      5%      5%
+              Jun 15  Jun 16  Jun 17
+S1 or greater   15%     15%     15%
 
-Rationale: No S1 (Minor) or greater solar radiation storms are expected.
-No significant active region activity favorable for radiation storm
-production is forecast.
+Rationale: There is a slight chance for S1 (Minor) solar radiation
+storms over 15-17 Jun.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-Radio blackouts reaching the R1 levels were observed over the past 24
-hours. The largest was at Jun 13 2025 2110 UTC.
+Radio blackouts reaching the R2 levels were observed over the past 24
+hours. The largest was at Jun 14 2025 2301 UTC.
 
-Radio Blackout Forecast for Jun 14-Jun 16 2025
+Radio Blackout Forecast for Jun 15-Jun 17 2025
 
-              Jun 14        Jun 15        Jun 16
-R1-R2           40%           40%           40%
-R3 or greater    5%            5%            5%
+              Jun 15        Jun 16        Jun 17
+R1-R2           55%           55%           55%
+R3 or greater   15%           15%           15%
 
-Rationale: There is a chance for R1-R2 (Minor-Moderate) radio blackouts
-over 14-16 Jun.
+Rationale: R1-R2 (Minor-Moderate) radio blackouts are likely, with a
+slight chance for R3 (Strong) or greater events, over 15-17 Jun.
 
 ```
