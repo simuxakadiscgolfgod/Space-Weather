@@ -1,10 +1,10 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2025-06-16
-<br />**Title of the image:**  APOD is 30 Years Old Today
-<br />**Description for the image:**  APOD is 30 years old today. In celebration, today's picture uses past APODs as tiles arranged to create a single pixelated image that might remind you of one of the most well-known and evocative depictions of planet Earth's night sky. In fact, this Starry Night consists of 1,836 individual images contributed to APOD over the last 5 years in a mosaic of 32,232 tiles. Today, APOD would like to offer a sincere thank you to our contributors, volunteers, and readers. Over the last 30 years your continuing efforts have allowed us to enjoy, inspire, and share a discovery of the cosmos.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2506/APODStarryNight30thanniversary.jpg
+<br />**Date image released:**  2025-06-17
+<br />**Title of the image:**  Rosette Nebula Deep Field
+<br />**Description for the image:**  Can you find the Rosette Nebula? The red flowery-looking nebula just above the image center may seem a good choice, but that's not it.  The famous Rosette Nebula is really located on the lower right, here colored blue and white, and connected to the other nebulas by gold-colored filaments.  Because the featured image of Rosette's field is so wide, and because of its deep red exposure, it seems to contain other flowers.  Designated NGC 2237, the center of the Rosette Nebula is populated by the bright blue stars of open cluster NGC 2244, whose winds and energetic light are evacuating the nebula's center.  The Rosette Nebula is about 5,000 light years distant and, just by itself, spans about three times the diameter of a full moon. This flowery field can be found toward the constellation of the Unicorn  (Monoceros).   Explore Your Universe: Random APOD Generator
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2506/RosettaDeepRed_Mendez_3294.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -48,57 +48,56 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 Jun 16 0030 UTC
+:Issued: 2025 Jun 17 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Jun 16-Jun 18 2025 is 4.67 (NOAA Scale
-G1).
+The greatest expected 3 hr Kp for Jun 17-Jun 19 2025 is 4.33 (below NOAA
+Scale levels).
 
-NOAA Kp index breakdown Jun 16-Jun 18 2025
+NOAA Kp index breakdown Jun 17-Jun 19 2025
 
-             Jun 16       Jun 17       Jun 18
-00-03UT       3.00         3.00         1.67     
-03-06UT       2.67         3.67         3.67     
-06-09UT       2.33         2.67         3.67     
-09-12UT       2.00         2.67         3.00     
-12-15UT       1.67         2.33         2.67     
-15-18UT       2.67         1.67         1.67     
-18-21UT       4.67 (G1)    0.67         1.67     
-21-00UT       3.67         1.00         1.67     
+             Jun 17       Jun 18       Jun 19
+00-03UT       3.00         3.33         3.33     
+03-06UT       3.67         3.00         2.00     
+06-09UT       2.67         2.00         2.00     
+09-12UT       2.67         2.33         3.00     
+12-15UT       2.33         2.67         3.00     
+15-18UT       1.67         3.33         3.33     
+18-21UT       0.67         4.00         3.33     
+21-00UT       1.00         4.33         3.33     
 
-Rationale: Periods of G1 (Minor) geomagnetic storms are likely on 16 Jun
-due to CH HSS influences.
+Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
+significant transient or recurrent solar wind features are forecast.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Jun 16-Jun 18 2025
+Solar Radiation Storm Forecast for Jun 17-Jun 19 2025
 
-              Jun 16  Jun 17  Jun 18
-S1 or greater   65%     45%     35%
+              Jun 17  Jun 18  Jun 19
+S1 or greater   30%     15%      5%
 
-Rationale: S1 (Minor) solar radiation storms are likely on 16 Jun, with
-a chance for S1 conditions on 17-18 Jun, following the M8.4 flare at
-15/1807 UTC.
+Rationale: There is a decreasing chance for S1 (Minor) or greater solar
+radiation storms over the next three days.
 
 C. NOAA Radio Blackout Activity and Forecast
 
 Radio blackouts reaching the R2 levels were observed over the past 24
-hours. The largest was at Jun 15 2025 1807 UTC.
+hours. The largest was at Jun 16 2025 0938 UTC.
 
-Radio Blackout Forecast for Jun 16-Jun 18 2025
+Radio Blackout Forecast for Jun 17-Jun 19 2025
 
-              Jun 16        Jun 17        Jun 18
-R1-R2           75%           75%           75%
+              Jun 17        Jun 18        Jun 19
+R1-R2           75%           75%           70%
 R3 or greater   30%           30%           30%
 
 Rationale: R1-R2 (Minor-Moderate) radio blackouts are expected, with a
-chance for R3 (Strong) or greater events, over 16-18 Jun.
+chance for R3 (Strong) or greater events, over 17-19 Jun.
 
 ```
