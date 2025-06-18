@@ -1,10 +1,13 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2025-06-17
-<br />**Title of the image:**  Rosette Nebula Deep Field
-<br />**Description for the image:**  Can you find the Rosette Nebula? The red flowery-looking nebula just above the image center may seem a good choice, but that's not it.  The famous Rosette Nebula is really located on the lower right, here colored blue and white, and connected to the other nebulas by gold-colored filaments.  Because the featured image of Rosette's field is so wide, and because of its deep red exposure, it seems to contain other flowers.  Designated NGC 2237, the center of the Rosette Nebula is populated by the bright blue stars of open cluster NGC 2244, whose winds and energetic light are evacuating the nebula's center.  The Rosette Nebula is about 5,000 light years distant and, just by itself, spans about three times the diameter of a full moon. This flowery field can be found toward the constellation of the Unicorn  (Monoceros).   Explore Your Universe: Random APOD Generator
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2506/RosettaDeepRed_Mendez_3294.jpg
+<br />**Date image released:**  2025-06-18
+<br />**This image is owned by:**  
+Eric Holland
+
+<br />**Title of the image:**  Space Station Silhouette on the Moon
+<br />**Description for the image:**  What's that unusual spot on the Moon? It's the International Space Station. Using precise timing, the Earth-orbiting space platform was photographed in front of a partially lit gibbous Moon in 2019. The featured image was taken from Palo Alto, California, USA with an exposure time of only 1/667 of a second. In contrast, the duration of the transit of the ISS across the entire Moon was about half a second.  A close inspection of this unusually crisp ISS silhouette will reveal the outlines of numerous solar panels and trusses.  The bright crater Tycho is visible on the lower left, as well as comparatively rough, light colored terrain known as highlands and relatively smooth, dark colored areas known as maria.  Downloadable  apps can tell you when the International Space Station will be visible from your area.   APOD Turns 30!: Free Public Lecture in Cork, Ireland on June 24
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2506/IssMoon_Holland_1063.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -48,56 +51,58 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 Jun 17 0030 UTC
+:Issued: 2025 Jun 18 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Jun 17-Jun 19 2025 is 4.33 (below NOAA
-Scale levels).
+The greatest expected 3 hr Kp for Jun 18-Jun 20 2025 is 5.00 (NOAA Scale
+G1).
 
-NOAA Kp index breakdown Jun 17-Jun 19 2025
+NOAA Kp index breakdown Jun 18-Jun 20 2025
 
-             Jun 17       Jun 18       Jun 19
-00-03UT       3.00         3.33         3.33     
-03-06UT       3.67         3.00         2.00     
-06-09UT       2.67         2.00         2.00     
-09-12UT       2.67         2.33         3.00     
-12-15UT       2.33         2.67         3.00     
-15-18UT       1.67         3.33         3.33     
-18-21UT       0.67         4.00         3.33     
-21-00UT       1.00         4.33         3.33     
+             Jun 18       Jun 19       Jun 20
+00-03UT       3.33         3.67         2.33     
+03-06UT       3.00         3.33         4.33     
+06-09UT       2.00         2.00         5.00 (G1)
+09-12UT       2.33         3.00         4.33     
+12-15UT       2.67         1.67         3.33     
+15-18UT       3.33         1.67         3.33     
+18-21UT       4.00         2.67         2.33     
+21-00UT       4.33         2.33         3.67     
 
-Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
-significant transient or recurrent solar wind features are forecast.
+Rationale: G1 (Minor) or greater geomagnetic storms are likely on 20 Jun
+due to possible transient passage.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Jun 17-Jun 19 2025
+Solar Radiation Storm Forecast for Jun 18-Jun 20 2025
 
-              Jun 17  Jun 18  Jun 19
-S1 or greater   30%     15%      5%
+              Jun 18  Jun 19  Jun 20
+S1 or greater   10%     10%     10%
 
-Rationale: There is a decreasing chance for S1 (Minor) or greater solar
-radiation storms over the next three days.
+Rationale: There is a slight chance for S1 (Minor) or greater solar
+radiation storms all three days, primarily due to the potential from
+Region 4114.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-Radio blackouts reaching the R2 levels were observed over the past 24
-hours. The largest was at Jun 16 2025 0938 UTC.
+Radio blackouts reaching the R3 levels were observed over the past 24
+hours. The largest was at Jun 17 2025 2149 UTC.
 
-Radio Blackout Forecast for Jun 17-Jun 19 2025
+Radio Blackout Forecast for Jun 18-Jun 20 2025
 
-              Jun 17        Jun 18        Jun 19
-R1-R2           75%           75%           70%
-R3 or greater   30%           30%           30%
+              Jun 18        Jun 19        Jun 20
+R1-R2           75%           75%           75%
+R3 or greater   25%           25%           25%
 
-Rationale: R1-R2 (Minor-Moderate) radio blackouts are expected, with a
-chance for R3 (Strong) or greater events, over 17-19 Jun.
+Rationale: R1-R2 (Minor-Moderate) flaring is expected with a chance for
+X-class flares (R3-Strong) on 18-20 Jun, mostly driven by Regions 4114
+and 4115.
 
 ```
