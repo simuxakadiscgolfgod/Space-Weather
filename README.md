@@ -1,13 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2025-06-18
-<br />**This image is owned by:**  
-Eric Holland
-
-<br />**Title of the image:**  Space Station Silhouette on the Moon
-<br />**Description for the image:**  What's that unusual spot on the Moon? It's the International Space Station. Using precise timing, the Earth-orbiting space platform was photographed in front of a partially lit gibbous Moon in 2019. The featured image was taken from Palo Alto, California, USA with an exposure time of only 1/667 of a second. In contrast, the duration of the transit of the ISS across the entire Moon was about half a second.  A close inspection of this unusually crisp ISS silhouette will reveal the outlines of numerous solar panels and trusses.  The bright crater Tycho is visible on the lower left, as well as comparatively rough, light colored terrain known as highlands and relatively smooth, dark colored areas known as maria.  Downloadable  apps can tell you when the International Space Station will be visible from your area.   APOD Turns 30!: Free Public Lecture in Cork, Ireland on June 24
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2506/IssMoon_Holland_1063.jpg
+<br />**Date image released:**  2025-06-19
+<br />**This image is owned by:**  Vikas Chander
+<br />**Title of the image:**  NGC 3521: Galaxy in a Bubble
+<br />**Description for the image:**  Gorgeous spiral galaxy NGC 3521 is a mere 35 million light-years away, toward the northern springtime constellation Leo. Relatively bright in planet Earth's sky, NGC 3521 is easily visible in small telescopes but often overlooked by amateur imagers in favor of other Leo spiral galaxies, like M66 and M65. It's hard to overlook in this colorful cosmic portrait though. Spanning some 50,000 light-years the galaxy sports characteristic patchy, irregular spiral arms laced with dust, pink star forming regions, and clusters of young, blue stars. The deep image also finds NGC 3521 embedded in fainter, gigantic, bubble-like shells. The shells are likely tidal debris, streams of stars torn from satellite galaxies that have undergone mergers with NGC 3521 in the distant past.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2506/NGC3521-2048.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -51,58 +49,56 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 Jun 18 0030 UTC
+:Issued: 2025 Jun 19 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Jun 18-Jun 20 2025 is 5.00 (NOAA Scale
+The greatest expected 3 hr Kp for Jun 19-Jun 21 2025 is 5.00 (NOAA Scale
 G1).
 
-NOAA Kp index breakdown Jun 18-Jun 20 2025
+NOAA Kp index breakdown Jun 19-Jun 21 2025
 
-             Jun 18       Jun 19       Jun 20
-00-03UT       3.33         3.67         2.33     
-03-06UT       3.00         3.33         4.33     
-06-09UT       2.00         2.00         5.00 (G1)
-09-12UT       2.33         3.00         4.33     
-12-15UT       2.67         1.67         3.33     
-15-18UT       3.33         1.67         3.33     
-18-21UT       4.00         2.67         2.33     
-21-00UT       4.33         2.33         3.67     
+             Jun 19       Jun 20       Jun 21
+00-03UT       3.67         2.33         2.67     
+03-06UT       3.33         4.33         2.00     
+06-09UT       2.00         5.00 (G1)    2.33     
+09-12UT       3.00         4.33         2.33     
+12-15UT       1.67         3.33         2.33     
+15-18UT       1.67         3.33         2.33     
+18-21UT       2.67         2.33         2.33     
+21-00UT       2.33         3.67         2.67     
 
-Rationale: G1 (Minor) or greater geomagnetic storms are likely on 20 Jun
-due to possible transient passage.
+Rationale: G1 (Minor) geomagnetic storming is likely on 20 June.  No
+significant transient or recurrent solar wind features are forecast.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Jun 18-Jun 20 2025
+Solar Radiation Storm Forecast for Jun 19-Jun 21 2025
 
-              Jun 18  Jun 19  Jun 20
+              Jun 19  Jun 20  Jun 21
 S1 or greater   10%     10%     10%
 
 Rationale: There is a slight chance for S1 (Minor) or greater solar
-radiation storms all three days, primarily due to the potential from
-Region 4114.
+radiation storms through 21 Jun.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-Radio blackouts reaching the R3 levels were observed over the past 24
-hours. The largest was at Jun 17 2025 2149 UTC.
+No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Jun 18-Jun 20 2025
+Radio Blackout Forecast for Jun 19-Jun 21 2025
 
-              Jun 18        Jun 19        Jun 20
+              Jun 19        Jun 20        Jun 21
 R1-R2           75%           75%           75%
 R3 or greater   25%           25%           25%
 
 Rationale: R1-R2 (Minor-Moderate) flaring is expected with a chance for
-X-class flares (R3-Strong) on 18-20 Jun, mostly driven by Regions 4114
-and 4115.
+X-class flares (R3-Strong) through 21 June, mostly driven by Regions
+4114, 4115, and 4117.
 
 ```
