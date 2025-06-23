@@ -1,10 +1,13 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2025-06-22
-<br />**Title of the image:**  A Berry Bowl of Martian Spherules
-<br />**Description for the image:**  How were these unusual Martian spherules created?  Thousands of unusual gray spherules made of iron and rock and dubbed blueberries were found embedded in and surrounding rocks near the landing site of the robot Opportunity rover on Mars in 2004.  To help investigate their origin, Opportunity found a surface dubbed the Berry Bowl with an indentation that was rich in the Martian orbs.  The Berry Bowl is pictured here, imaged during rover's 48th Martian day.  The average size of a Martian blueberry rock is only about 4 millimeters across.  By analyzing a circular patch in the rock surface to the left of the densest patch of spherules, Opportunity obtained data showing that the underlying rock has a much different composition than the hematite rich blueberries.  This information contributes to the growing consensus that these small, strange, gray orbs were slowly deposited from a bath of dirty water.   APOD Turns 30!: Free Public Lecture in Cork, Ireland on Tuesday, June 24 at 7 pm
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2506/berrybowl_opportunity_960.jpg
+<br />**Date image released:**  2025-06-23
+<br />**This image is owned by:**  :
+Francesco Antonucci
+
+<br />**Title of the image:**  W5: Pillars of Star Formation
+<br />**Description for the image:**  How do stars form? Images of the star forming region W5 like those in the infrared by NASA's Wide Field Infrared Survey Explorer (WISE, later NEOWISE) satellite provide clear clues with indications that massive stars near the center of empty cavities are older than stars near the edges.  A likely reason for this is that the older stars in the center are actually triggering the formation of the younger edge stars.  The triggered star formation occurs when hot outflowing gas compresses cooler gas into knots dense enough to gravitationally contract into stars.  In the featured scientifically colored infrared image, spectacular pillars left slowly evaporating from the hot outflowing gas provide further visual clues. W5 is also known as Westerhout 5 (W5) and IC 1848.  Together with IC 1805, the nebulas form a complex region of star formation popularly dubbed the Heart and Soul Nebulas. The featured image highlights a part of W5 spanning about 2,000 light years that is rich in star forming pillars.  W5 lies about 6,500 light years away toward the constellation of Cassiopeia.   APOD Turns 30!: Free public lecture in Cork, Ireland tomorrow (Tuesday) at 7 pm
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2506/ic1848_WISEantonucci_1824.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -48,55 +51,56 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 Jun 22 0030 UTC
+:Issued: 2025 Jun 23 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Jun 22-Jun 24 2025 is 3.67 (below NOAA
-Scale levels).
+The greatest expected 3 hr Kp for Jun 23-Jun 25 2025 is 4.67 (NOAA Scale
+G1).
 
-NOAA Kp index breakdown Jun 22-Jun 24 2025
+NOAA Kp index breakdown Jun 23-Jun 25 2025
 
-             Jun 22       Jun 23       Jun 24
-00-03UT       2.67         2.67         3.00     
-03-06UT       2.00         2.00         3.67     
-06-09UT       2.33         2.00         2.00     
-09-12UT       2.33         2.67         2.67     
-12-15UT       2.67         3.67         2.67     
-15-18UT       2.33         2.67         2.67     
-18-21UT       2.33         2.67         2.67     
-21-00UT       2.33         3.00         2.00     
+             Jun 23       Jun 24       Jun 25
+00-03UT       2.67         3.00         4.67 (G1)
+03-06UT       2.00         3.67         4.67 (G1)
+06-09UT       2.00         2.00         4.00     
+09-12UT       2.67         2.67         4.00     
+12-15UT       3.67         2.67         4.67 (G1)
+15-18UT       2.67         2.67         4.67 (G1)
+18-21UT       2.67         2.67         4.67 (G1)
+21-00UT       3.00         2.00         4.00     
 
-Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
-significant transient or recurrent solar wind features are forecast.
+Rationale: Periods of G1 (Minor) geomagnetic storms are likely on 25 Jun
+due to the onset of negative polarity CH HSS influences.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Jun 22-Jun 24 2025
+Solar Radiation Storm Forecast for Jun 23-Jun 25 2025
 
-              Jun 22  Jun 23  Jun 24
+              Jun 23  Jun 24  Jun 25
 S1 or greater   10%     10%     10%
 
 Rationale: There is a slight chance for S1 (Minor) solar radiation
-storms over 22-24 Jun.
+storms over 23-25 Jun due to eruptive potential from multiple regions on
+the visible disk.
 
 C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Jun 22-Jun 24 2025
+Radio Blackout Forecast for Jun 23-Jun 25 2025
 
-              Jun 22        Jun 23        Jun 24
-R1-R2           55%           55%           55%
+              Jun 23        Jun 24        Jun 25
+R1-R2           45%           45%           45%
 R3 or greater   10%           10%           10%
 
-Rationale: R1-R2 (Minor-Moderate) radio blackouts are likely, with a
-slight chance for R3 (Strong) or greater events, over 22-24 Jun.
+Rationale: There is a chance for R1-R2 (Minor-Moderate) radio blackouts,
+and a slight chance for R3 (Strong) or greater events, over 23-25 Jun.
 
 ```
