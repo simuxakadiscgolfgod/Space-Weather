@@ -1,13 +1,10 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2025-06-23
-<br />**This image is owned by:**  :
-Francesco Antonucci
-
-<br />**Title of the image:**  W5: Pillars of Star Formation
-<br />**Description for the image:**  How do stars form? Images of the star forming region W5 like those in the infrared by NASA's Wide Field Infrared Survey Explorer (WISE, later NEOWISE) satellite provide clear clues with indications that massive stars near the center of empty cavities are older than stars near the edges.  A likely reason for this is that the older stars in the center are actually triggering the formation of the younger edge stars.  The triggered star formation occurs when hot outflowing gas compresses cooler gas into knots dense enough to gravitationally contract into stars.  In the featured scientifically colored infrared image, spectacular pillars left slowly evaporating from the hot outflowing gas provide further visual clues. W5 is also known as Westerhout 5 (W5) and IC 1848.  Together with IC 1805, the nebulas form a complex region of star formation popularly dubbed the Heart and Soul Nebulas. The featured image highlights a part of W5 spanning about 2,000 light years that is rich in star forming pillars.  W5 lies about 6,500 light years away toward the constellation of Cassiopeia.   APOD Turns 30!: Free public lecture in Cork, Ireland tomorrow (Tuesday) at 7 pm
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2506/ic1848_WISEantonucci_1824.jpg
+<br />**Date image released:**  2025-06-24
+<br />**Title of the image:**  In the Center of Spiral Galaxy M61
+<br />**Description for the image:**  Is there a spiral galaxy in the center of this spiral galaxy? Sort of.  Image data from the Hubble Space Telescope, the European Southern Observatory, and smaller telescopes on planet Earth are combined in this detailed portrait of face-on spiral galaxy Messier 61 (M61) and its bright center. A mere 55 million light-years away in the Virgo Cluster of Galaxies, M61 is also known as NGC 4303.  It's considered to be an example of a barred spiral galaxy similar to our own Milky Way.  Like other spiral galaxies, M61 also features sweeping spiral arms, cosmic dust lanes, pinkish star forming regions, and young blue star clusters.  Its core houses an active supermassive black hole surrounded by a bright nuclear spiral -- infalling star-forming gas that itself looks like a separate spiral galaxy.    APOD Turns 30!: Free public lecture in Cork, Ireland TONIGHT (Tuesday) at 7 pm
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2506/M61_HubbleEsoGendler_2753.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -51,56 +48,56 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 Jun 23 0030 UTC
+:Issued: 2025 Jun 24 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Jun 23-Jun 25 2025 is 4.67 (NOAA Scale
-G1).
+The greatest expected 3 hr Kp for Jun 24-Jun 26 2025 is 5.67 (NOAA Scale
+G2).
 
-NOAA Kp index breakdown Jun 23-Jun 25 2025
+NOAA Kp index breakdown Jun 24-Jun 26 2025
 
-             Jun 23       Jun 24       Jun 25
-00-03UT       2.67         3.00         4.67 (G1)
-03-06UT       2.00         3.67         4.67 (G1)
-06-09UT       2.00         2.00         4.00     
-09-12UT       2.67         2.67         4.00     
-12-15UT       3.67         2.67         4.67 (G1)
-15-18UT       2.67         2.67         4.67 (G1)
-18-21UT       2.67         2.67         4.67 (G1)
-21-00UT       3.00         2.00         4.00     
+             Jun 24       Jun 25       Jun 26
+00-03UT       3.00         3.00         5.00 (G1)
+03-06UT       3.67         4.33         4.67 (G1)
+06-09UT       2.00         5.33 (G1)    4.67 (G1)
+09-12UT       2.67         5.67 (G2)    3.67     
+12-15UT       2.67         5.00 (G1)    3.00     
+15-18UT       2.67         4.00         3.00     
+18-21UT       2.67         4.00         3.33     
+21-00UT       2.00         5.00 (G1)    4.00     
 
-Rationale: Periods of G1 (Minor) geomagnetic storms are likely on 25 Jun
-due to the onset of negative polarity CH HSS influences.
+Rationale: G1-G2 (Minor-Moderate) geomagnetic storming is likely 25-26
+June due to recurrent, negative polarity CH HSS effects.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Jun 23-Jun 25 2025
+Solar Radiation Storm Forecast for Jun 24-Jun 26 2025
 
-              Jun 23  Jun 24  Jun 25
+              Jun 24  Jun 25  Jun 26
 S1 or greater   10%     10%     10%
 
-Rationale: There is a slight chance for S1 (Minor) solar radiation
-storms over 23-25 Jun due to eruptive potential from multiple regions on
-the visible disk.
+Rationale: There is a slight chance for an S1 (Minor) solar radiation
+storm on 24-26 Jun.
 
 C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Jun 23-Jun 25 2025
+Radio Blackout Forecast for Jun 24-Jun 26 2025
 
-              Jun 23        Jun 24        Jun 25
-R1-R2           45%           45%           45%
+              Jun 24        Jun 25        Jun 26
+R1-R2           35%           35%           35%
 R3 or greater   10%           10%           10%
 
-Rationale: There is a chance for R1-R2 (Minor-Moderate) radio blackouts,
-and a slight chance for R3 (Strong) or greater events, over 23-25 Jun.
+Rationale: A chance for R1-R2 (Minor-Moderate) radio blackouts, with a
+slight chance for X-class flares (R3-Strong), will persist through 26
+June.
 
 ```
