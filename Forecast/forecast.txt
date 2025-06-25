@@ -1,26 +1,26 @@
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 Jun 24 0030 UTC
+:Issued: 2025 Jun 25 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Jun 24-Jun 26 2025 is 5.67 (NOAA Scale
+The greatest expected 3 hr Kp for Jun 25-Jun 27 2025 is 5.67 (NOAA Scale
 G2).
 
-NOAA Kp index breakdown Jun 24-Jun 26 2025
+NOAA Kp index breakdown Jun 25-Jun 27 2025
 
-             Jun 24       Jun 25       Jun 26
-00-03UT       3.00         3.00         5.00 (G1)
-03-06UT       3.67         4.33         4.67 (G1)
-06-09UT       2.00         5.33 (G1)    4.67 (G1)
-09-12UT       2.67         5.67 (G2)    3.67     
-12-15UT       2.67         5.00 (G1)    3.00     
-15-18UT       2.67         4.00         3.00     
-18-21UT       2.67         4.00         3.33     
-21-00UT       2.00         5.00 (G1)    4.00     
+             Jun 25       Jun 26       Jun 27
+00-03UT       3.00         5.00 (G1)    4.00     
+03-06UT       4.33         4.67 (G1)    3.67     
+06-09UT       5.33 (G1)    4.00         3.33     
+09-12UT       5.67 (G2)    3.67         2.33     
+12-15UT       5.00 (G1)    3.00         2.33     
+15-18UT       4.00         3.00         2.33     
+18-21UT       4.00         3.33         2.67     
+21-00UT       5.00 (G1)    4.00         3.00     
 
 Rationale: G1-G2 (Minor-Moderate) geomagnetic storming is likely 25-26
 June due to recurrent, negative polarity CH HSS effects.
@@ -30,26 +30,27 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Jun 24-Jun 26 2025
+Solar Radiation Storm Forecast for Jun 25-Jun 27 2025
 
-              Jun 24  Jun 25  Jun 26
-S1 or greater   10%     10%     10%
+              Jun 25  Jun 26  Jun 27
+S1 or greater    5%      5%      5%
 
-Rationale: There is a slight chance for an S1 (Minor) solar radiation
-storm on 24-26 Jun.
+Rationale: No S1 (Minor) or greater solar radiation storms are expected.
+No significant active region activity favorable for radiation storm
+production is forecast.
 
 C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Jun 24-Jun 26 2025
+Radio Blackout Forecast for Jun 25-Jun 27 2025
 
-              Jun 24        Jun 25        Jun 26
-R1-R2           35%           35%           35%
-R3 or greater   10%           10%           10%
+              Jun 25        Jun 26        Jun 27
+R1-R2           30%           30%           35%
+R3 or greater    5%            5%            5%
 
 Rationale: A chance for R1-R2 (Minor-Moderate) radio blackouts, with a
-slight chance for X-class flares (R3-Strong), will persist through 26
+slight chance for X-class flares (R3-Strong), will persist through 27
 June.
 
 ```

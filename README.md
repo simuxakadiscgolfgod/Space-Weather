@@ -1,10 +1,10 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2025-06-24
-<br />**Title of the image:**  In the Center of Spiral Galaxy M61
-<br />**Description for the image:**  Is there a spiral galaxy in the center of this spiral galaxy? Sort of.  Image data from the Hubble Space Telescope, the European Southern Observatory, and smaller telescopes on planet Earth are combined in this detailed portrait of face-on spiral galaxy Messier 61 (M61) and its bright center. A mere 55 million light-years away in the Virgo Cluster of Galaxies, M61 is also known as NGC 4303.  It's considered to be an example of a barred spiral galaxy similar to our own Milky Way.  Like other spiral galaxies, M61 also features sweeping spiral arms, cosmic dust lanes, pinkish star forming regions, and young blue star clusters.  Its core houses an active supermassive black hole surrounded by a bright nuclear spiral -- infalling star-forming gas that itself looks like a separate spiral galaxy.    APOD Turns 30!: Free public lecture in Cork, Ireland TONIGHT (Tuesday) at 7 pm
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2506/M61_HubbleEsoGendler_2753.jpg
+<br />**Date image released:**  2025-06-25
+<br />**Title of the image:**  Rubin's First Look: A Sagittarius Skyscape
+<br />**Description for the image:**  This interstellar skyscape spans over 4 degrees across crowded starfields toward the constellation Sagittarius and the central Milky Way. A First Look image captured at the new NSF–DOE Vera C. Rubin Observatory, the bright nebulae and star clusters featured include famous stops on telescopic tours of the cosmos: Messier 8 and Messier 20. An expansive star-forming region over a hundred light-years across, Messier 8 is also known as the Lagoon Nebula. About 4,000 light-years away the Lagoon Nebula harbors a remarkable cluster of young, massive stars. Their intense radiation and stellar winds energize and agitate this cosmic lagoon's turbulent depths. Messier 20's popular moniker is the Trifid. Divided into three parts by dark interstellar dust lanes, the Trifid Nebula's glowing hydrogen gas creates its dominant red color. But contrasting blue hues in the colorful Trifid are due to dust reflected starlight. The Rubin Observatory visited the Trifid-Lagoon field to acquire all the image data during parts of four nights (May 1-4). At full resolution, Rubin's magnificent Sagittarius skyscape is 84,000 pixels wide and 51,500 pixels tall.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2506/SagittariusTrip_Rubin.png
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -48,27 +48,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 Jun 24 0030 UTC
+:Issued: 2025 Jun 25 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Jun 24-Jun 26 2025 is 5.67 (NOAA Scale
+The greatest expected 3 hr Kp for Jun 25-Jun 27 2025 is 5.67 (NOAA Scale
 G2).
 
-NOAA Kp index breakdown Jun 24-Jun 26 2025
+NOAA Kp index breakdown Jun 25-Jun 27 2025
 
-             Jun 24       Jun 25       Jun 26
-00-03UT       3.00         3.00         5.00 (G1)
-03-06UT       3.67         4.33         4.67 (G1)
-06-09UT       2.00         5.33 (G1)    4.67 (G1)
-09-12UT       2.67         5.67 (G2)    3.67     
-12-15UT       2.67         5.00 (G1)    3.00     
-15-18UT       2.67         4.00         3.00     
-18-21UT       2.67         4.00         3.33     
-21-00UT       2.00         5.00 (G1)    4.00     
+             Jun 25       Jun 26       Jun 27
+00-03UT       3.00         5.00 (G1)    4.00     
+03-06UT       4.33         4.67 (G1)    3.67     
+06-09UT       5.33 (G1)    4.00         3.33     
+09-12UT       5.67 (G2)    3.67         2.33     
+12-15UT       5.00 (G1)    3.00         2.33     
+15-18UT       4.00         3.00         2.33     
+18-21UT       4.00         3.33         2.67     
+21-00UT       5.00 (G1)    4.00         3.00     
 
 Rationale: G1-G2 (Minor-Moderate) geomagnetic storming is likely 25-26
 June due to recurrent, negative polarity CH HSS effects.
@@ -78,26 +78,27 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Jun 24-Jun 26 2025
+Solar Radiation Storm Forecast for Jun 25-Jun 27 2025
 
-              Jun 24  Jun 25  Jun 26
-S1 or greater   10%     10%     10%
+              Jun 25  Jun 26  Jun 27
+S1 or greater    5%      5%      5%
 
-Rationale: There is a slight chance for an S1 (Minor) solar radiation
-storm on 24-26 Jun.
+Rationale: No S1 (Minor) or greater solar radiation storms are expected.
+No significant active region activity favorable for radiation storm
+production is forecast.
 
 C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Jun 24-Jun 26 2025
+Radio Blackout Forecast for Jun 25-Jun 27 2025
 
-              Jun 24        Jun 25        Jun 26
-R1-R2           35%           35%           35%
-R3 or greater   10%           10%           10%
+              Jun 25        Jun 26        Jun 27
+R1-R2           30%           30%           35%
+R3 or greater    5%            5%            5%
 
 Rationale: A chance for R1-R2 (Minor-Moderate) radio blackouts, with a
-slight chance for X-class flares (R3-Strong), will persist through 26
+slight chance for X-class flares (R3-Strong), will persist through 27
 June.
 
 ```
