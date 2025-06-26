@@ -1,10 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2025-06-25
-<br />**Title of the image:**  Rubin's First Look: A Sagittarius Skyscape
-<br />**Description for the image:**  This interstellar skyscape spans over 4 degrees across crowded starfields toward the constellation Sagittarius and the central Milky Way. A First Look image captured at the new NSF–DOE Vera C. Rubin Observatory, the bright nebulae and star clusters featured include famous stops on telescopic tours of the cosmos: Messier 8 and Messier 20. An expansive star-forming region over a hundred light-years across, Messier 8 is also known as the Lagoon Nebula. About 4,000 light-years away the Lagoon Nebula harbors a remarkable cluster of young, massive stars. Their intense radiation and stellar winds energize and agitate this cosmic lagoon's turbulent depths. Messier 20's popular moniker is the Trifid. Divided into three parts by dark interstellar dust lanes, the Trifid Nebula's glowing hydrogen gas creates its dominant red color. But contrasting blue hues in the colorful Trifid are due to dust reflected starlight. The Rubin Observatory visited the Trifid-Lagoon field to acquire all the image data during parts of four nights (May 1-4). At full resolution, Rubin's magnificent Sagittarius skyscape is 84,000 pixels wide and 51,500 pixels tall.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2506/SagittariusTrip_Rubin.png
+<br />**Date image released:**  2025-06-26
+<br />**This image is owned by:**  Timothy Martin
+<br />**Title of the image:**  The Seagull Nebula
+<br />**Description for the image:**  An interstellar expanse of glowing gas and obscuring dust presents a bird-like visage to astronomers from planet Earth, suggesting its popular moniker, the Seagull Nebula. This broadband portrait of the cosmic bird covers a 3.5-degree wide swath across the plane of the Milky Way, in the direction of Sirius, alpha star of the constellation of the Big Dog (Canis Major). The bright head of the Seagull Nebula is cataloged as IC 2177, a compact, dusty emission and reflection nebula with embedded massive star HD 53367. The larger emission region, encompassing objects with other catalog designations, is Likely part of an extensive shell structure swept up by successive supernova explosions. The notable bluish arc below and right of center is a bow shock from runaway star FN Canis Majoris. Dominated by the reddish glow of atomic hydrogen, this complex of interstellar gas and dust clouds with other stars of the Canis Majoris OB1 association spans over 200 light-years at the Seagull Nebula's estimated 3,800 light-year distance.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2506/IC2177SeagullLRGB-APOD2048.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -48,39 +49,40 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 Jun 25 0030 UTC
+:Issued: 2025 Jun 26 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Jun 25-Jun 27 2025 is 5.67 (NOAA Scale
-G2).
+The greatest expected 3 hr Kp for Jun 26-Jun 28 2025 is 5.33 (NOAA Scale
+G1).
 
-NOAA Kp index breakdown Jun 25-Jun 27 2025
+NOAA Kp index breakdown Jun 26-Jun 28 2025
 
-             Jun 25       Jun 26       Jun 27
-00-03UT       3.00         5.00 (G1)    4.00     
-03-06UT       4.33         4.67 (G1)    3.67     
-06-09UT       5.33 (G1)    4.00         3.33     
-09-12UT       5.67 (G2)    3.67         2.33     
-12-15UT       5.00 (G1)    3.00         2.33     
-15-18UT       4.00         3.00         2.33     
-18-21UT       4.00         3.33         2.67     
-21-00UT       5.00 (G1)    4.00         3.00     
+             Jun 26       Jun 27       Jun 28
+00-03UT       5.33 (G1)    4.00         3.67     
+03-06UT       5.00 (G1)    4.67 (G1)    3.33     
+06-09UT       4.00         4.00         3.00     
+09-12UT       3.67         3.33         2.67     
+12-15UT       3.00         2.33         2.33     
+15-18UT       3.00         2.33         2.33     
+18-21UT       4.00         2.67         2.67     
+21-00UT       5.00 (G1)    3.00         2.67     
 
-Rationale: G1-G2 (Minor-Moderate) geomagnetic storming is likely 25-26
-June due to recurrent, negative polarity CH HSS effects.
+Rationale: G1 (Minor) geomagnetic storming is likely, with a chance for
+an insolated G2 (Moderate) storming period, on 26-27 June due to
+negative polarity CH HSS effects.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Jun 25-Jun 27 2025
+Solar Radiation Storm Forecast for Jun 26-Jun 28 2025
 
-              Jun 25  Jun 26  Jun 27
+              Jun 26  Jun 27  Jun 28
 S1 or greater    5%      5%      5%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -91,14 +93,14 @@ C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Jun 25-Jun 27 2025
+Radio Blackout Forecast for Jun 26-Jun 28 2025
 
-              Jun 25        Jun 26        Jun 27
-R1-R2           30%           30%           35%
+              Jun 26        Jun 27        Jun 28
+R1-R2           30%           35%           35%
 R3 or greater    5%            5%            5%
 
 Rationale: A chance for R1-R2 (Minor-Moderate) radio blackouts, with a
-slight chance for X-class flares (R3-Strong), will persist through 27
+slight chance for X-class flares (R3-Strong), will persist through 28
 June.
 
 ```
