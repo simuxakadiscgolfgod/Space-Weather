@@ -1,11 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2025-06-26
-<br />**This image is owned by:**  Timothy Martin
-<br />**Title of the image:**  The Seagull Nebula
-<br />**Description for the image:**  An interstellar expanse of glowing gas and obscuring dust presents a bird-like visage to astronomers from planet Earth, suggesting its popular moniker, the Seagull Nebula. This broadband portrait of the cosmic bird covers a 3.5-degree wide swath across the plane of the Milky Way, in the direction of Sirius, alpha star of the constellation of the Big Dog (Canis Major). The bright head of the Seagull Nebula is cataloged as IC 2177, a compact, dusty emission and reflection nebula with embedded massive star HD 53367. The larger emission region, encompassing objects with other catalog designations, is Likely part of an extensive shell structure swept up by successive supernova explosions. The notable bluish arc below and right of center is a bow shock from runaway star FN Canis Majoris. Dominated by the reddish glow of atomic hydrogen, this complex of interstellar gas and dust clouds with other stars of the Canis Majoris OB1 association spans over 200 light-years at the Seagull Nebula's estimated 3,800 light-year distance.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2506/IC2177SeagullLRGB-APOD2048.jpg
+<br />**Date image released:**  2025-06-27
+<br />**This image is owned by:**  Robert Eder
+<br />**Title of the image:**  Messier 109
+<br />**Description for the image:**  Big beautiful barred spiral galaxy Messier 109 is the 109th entry in Charles Messier's famous catalog of bright Nebulae and Star Clusters. You can find it just below the Big Dipper's bowl in the northern constellation Ursa Major. In fact, bright dipper star Phecda, Gamma Ursa Majoris, produces the glare at the upper right corner of this telescopic frame. M109's prominent central bar gives the galaxy the appearance of the Greek letter "theta", θ, a common mathematical symbol representing an angle. M109 spans a very small angle in planet Earth's sky though, about 7 arcminutes or 0.12 degrees. But that small angle corresponds to an enormous 120,000 light-year diameter at the galaxy's estimated 60 million light-year distance. The brightest member of the now recognized Ursa Major galaxy cluster, M109 (aka NGC 3992) is joined by spiky foreground stars. Three small, fuzzy bluish galaxies also on the scene, identified (top to bottom) as UGC 6969, UGC 6940 and UGC 6923, are possibly satellite galaxies of the larger barred spiral galaxy Messier 109.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2506/M109_Robert_Eder.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,40 +49,39 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 Jun 26 0030 UTC
+:Issued: 2025 Jun 27 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
-Scale levels).
-The greatest expected 3 hr Kp for Jun 26-Jun 28 2025 is 5.33 (NOAA Scale
+The greatest observed 3 hr Kp over the past 24 hours was 5 (NOAA Scale
 G1).
+The greatest expected 3 hr Kp for Jun 27-Jun 29 2025 is 5.67 (NOAA Scale
+G2).
 
-NOAA Kp index breakdown Jun 26-Jun 28 2025
+NOAA Kp index breakdown Jun 27-Jun 29 2025
 
-             Jun 26       Jun 27       Jun 28
-00-03UT       5.33 (G1)    4.00         3.67     
-03-06UT       5.00 (G1)    4.67 (G1)    3.33     
-06-09UT       4.00         4.00         3.00     
-09-12UT       3.67         3.33         2.67     
-12-15UT       3.00         2.33         2.33     
-15-18UT       3.00         2.33         2.33     
-18-21UT       4.00         2.67         2.67     
-21-00UT       5.00 (G1)    3.00         2.67     
+             Jun 27       Jun 28       Jun 29
+00-03UT       5.00 (G1)    3.67         2.67     
+03-06UT       5.67 (G2)    3.33         2.33     
+06-09UT       4.00         3.00         2.33     
+09-12UT       3.33         2.67         2.00     
+12-15UT       2.33         2.33         1.33     
+15-18UT       2.33         2.33         1.67     
+18-21UT       2.67         2.67         2.00     
+21-00UT       3.00         2.67         2.00     
 
-Rationale: G1 (Minor) geomagnetic storming is likely, with a chance for
-an insolated G2 (Moderate) storming period, on 26-27 June due to
-negative polarity CH HSS effects.
+Rationale: G1-G2 (Minor-Moderate) geomagnetic storming is expected on 27
+June due to persistent negative polarity CH HSS effects.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Jun 26-Jun 28 2025
+Solar Radiation Storm Forecast for Jun 27-Jun 29 2025
 
-              Jun 26  Jun 27  Jun 28
+              Jun 27  Jun 28  Jun 29
 S1 or greater    5%      5%      5%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -93,14 +92,13 @@ C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Jun 26-Jun 28 2025
+Radio Blackout Forecast for Jun 27-Jun 29 2025
 
-              Jun 26        Jun 27        Jun 28
-R1-R2           30%           35%           35%
+              Jun 27        Jun 28        Jun 29
+R1-R2           25%           30%           30%
 R3 or greater    5%            5%            5%
 
-Rationale: A chance for R1-R2 (Minor-Moderate) radio blackouts, with a
-slight chance for X-class flares (R3-Strong), will persist through 28
-June.
+Rationale: A chance for R1-R2 (Minor-Moderate) radio blackouts due to
+isolated M-class flare activity will persist through 29 June.
 
 ```
