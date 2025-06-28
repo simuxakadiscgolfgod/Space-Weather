@@ -1,11 +1,10 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2025-06-27
-<br />**This image is owned by:**  Robert Eder
-<br />**Title of the image:**  Messier 109
-<br />**Description for the image:**  Big beautiful barred spiral galaxy Messier 109 is the 109th entry in Charles Messier's famous catalog of bright Nebulae and Star Clusters. You can find it just below the Big Dipper's bowl in the northern constellation Ursa Major. In fact, bright dipper star Phecda, Gamma Ursa Majoris, produces the glare at the upper right corner of this telescopic frame. M109's prominent central bar gives the galaxy the appearance of the Greek letter "theta", θ, a common mathematical symbol representing an angle. M109 spans a very small angle in planet Earth's sky though, about 7 arcminutes or 0.12 degrees. But that small angle corresponds to an enormous 120,000 light-year diameter at the galaxy's estimated 60 million light-year distance. The brightest member of the now recognized Ursa Major galaxy cluster, M109 (aka NGC 3992) is joined by spiky foreground stars. Three small, fuzzy bluish galaxies also on the scene, identified (top to bottom) as UGC 6969, UGC 6940 and UGC 6923, are possibly satellite galaxies of the larger barred spiral galaxy Messier 109.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2506/M109_Robert_Eder.jpg
+<br />**Date image released:**  2025-06-28
+<br />**Title of the image:**  Lunar Farside
+<br />**Description for the image:**  Tidally locked in synchronous rotation, the Moon always presents its familiar nearside to denizens of planet Earth. From lunar orbit, the Moon's farside can become familiar, though. In fact this sharp picture, a mosaic from the Lunar Reconnaissance Orbiter's wide angle camera, is centered on the lunar farside. Part of a global mosaic of over 15,000 images acquired between November 2009 and February 2011, the highest resolution version shows features at a scale of 100 meters per pixel. Surprisingly, the rough and battered surface of the farside looks very different from the nearside covered with smooth dark lunar maria.  A likely explanation is that the farside crust is thicker, making it harder for molten material from the interior to flow to the surface and form dark, smooth maria.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2506/farside_lro1600.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,39 +48,39 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 Jun 27 0030 UTC
+:Issued: 2025 Jun 28 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 5 (NOAA Scale
 G1).
-The greatest expected 3 hr Kp for Jun 27-Jun 29 2025 is 5.67 (NOAA Scale
-G2).
+The greatest expected 3 hr Kp for Jun 28-Jun 30 2025 is 3.67 (below NOAA
+Scale levels).
 
-NOAA Kp index breakdown Jun 27-Jun 29 2025
+NOAA Kp index breakdown Jun 28-Jun 30 2025
 
-             Jun 27       Jun 28       Jun 29
-00-03UT       5.00 (G1)    3.67         2.67     
-03-06UT       5.67 (G2)    3.33         2.33     
-06-09UT       4.00         3.00         2.33     
-09-12UT       3.33         2.67         2.00     
-12-15UT       2.33         2.33         1.33     
-15-18UT       2.33         2.33         1.67     
-18-21UT       2.67         2.67         2.00     
-21-00UT       3.00         2.67         2.00     
+             Jun 28       Jun 29       Jun 30
+00-03UT       3.67         2.67         1.67     
+03-06UT       3.33         2.33         1.67     
+06-09UT       3.00         2.33         1.67     
+09-12UT       2.67         2.00         1.33     
+12-15UT       2.33         1.33         1.33     
+15-18UT       2.33         1.67         1.33     
+18-21UT       3.33         2.00         1.33     
+21-00UT       3.00         2.00         1.33     
 
-Rationale: G1-G2 (Minor-Moderate) geomagnetic storming is expected on 27
-June due to persistent negative polarity CH HSS effects.
+Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
+significant transient or recurrent solar wind features are forecast.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Jun 27-Jun 29 2025
+Solar Radiation Storm Forecast for Jun 28-Jun 30 2025
 
-              Jun 27  Jun 28  Jun 29
+              Jun 28  Jun 29  Jun 30
 S1 or greater    5%      5%      5%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -92,13 +91,13 @@ C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Jun 27-Jun 29 2025
+Radio Blackout Forecast for Jun 28-Jun 30 2025
 
-              Jun 27        Jun 28        Jun 29
-R1-R2           25%           30%           30%
+              Jun 28        Jun 29        Jun 30
+R1-R2           25%           25%           25%
 R3 or greater    5%            5%            5%
 
-Rationale: A chance for R1-R2 (Minor-Moderate) radio blackouts due to
-isolated M-class flare activity will persist through 29 June.
+Rationale: There exists a chance for R1-R2 (Minor-Moderate) radio
+blackouts over 28-30 Jun.
 
 ```
