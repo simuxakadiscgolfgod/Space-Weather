@@ -1,10 +1,10 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2025-06-28
-<br />**Title of the image:**  Lunar Farside
-<br />**Description for the image:**  Tidally locked in synchronous rotation, the Moon always presents its familiar nearside to denizens of planet Earth. From lunar orbit, the Moon's farside can become familiar, though. In fact this sharp picture, a mosaic from the Lunar Reconnaissance Orbiter's wide angle camera, is centered on the lunar farside. Part of a global mosaic of over 15,000 images acquired between November 2009 and February 2011, the highest resolution version shows features at a scale of 100 meters per pixel. Surprisingly, the rough and battered surface of the farside looks very different from the nearside covered with smooth dark lunar maria.  A likely explanation is that the farside crust is thicker, making it harder for molten material from the interior to flow to the surface and form dark, smooth maria.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2506/farside_lro1600.jpg
+<br />**Date image released:**  2025-06-29
+<br />**Title of the image:**  Dark Sand Cascades on Mars
+<br />**Description for the image:**  Are these trees growing on Mars? No.  Groups of dark brown streaks have been photographed by the Mars Reconnaissance Orbiter on melting pinkish sand dunes covered with light frost. The featured image was taken in 2008 April near the North Pole of Mars. At that time, dark sand on the interior of Martian sand dunes became more and more visible as the spring Sun melted the lighter carbon dioxide ice.  When occurring near the top of a dune, dark sand may cascade down the dune leaving dark surface streaks -- streaks that might appear at first to be trees standing in front of the lighter regions but cast no shadows. Objects about 25 centimeters across are resolved on this image spanning about one kilometer. Close ups of some parts of this image show billowing plumes indicating that the sand slides were occurring even while the image was being taken.    Celestial Surprise: What picture did APOD feature on your birthday? (post 1995)
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2506/almosttrees_mro_2560.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -48,27 +48,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 Jun 28 0030 UTC
+:Issued: 2025 Jun 29 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 5 (NOAA Scale
-G1).
-The greatest expected 3 hr Kp for Jun 28-Jun 30 2025 is 3.67 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
+Scale levels).
+The greatest expected 3 hr Kp for Jun 29-Jul 01 2025 is 2.67 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Jun 28-Jun 30 2025
+NOAA Kp index breakdown Jun 29-Jul 01 2025
 
-             Jun 28       Jun 29       Jun 30
-00-03UT       3.67         2.67         1.67     
-03-06UT       3.33         2.33         1.67     
-06-09UT       3.00         2.33         1.67     
-09-12UT       2.67         2.00         1.33     
-12-15UT       2.33         1.33         1.33     
-15-18UT       2.33         1.67         1.33     
-18-21UT       3.33         2.00         1.33     
-21-00UT       3.00         2.00         1.33     
+             Jun 29       Jun 30       Jul 01
+00-03UT       2.67         1.67         1.33     
+03-06UT       2.33         1.67         1.67     
+06-09UT       2.33         1.67         1.33     
+09-12UT       2.00         1.33         1.33     
+12-15UT       1.33         1.33         1.67     
+15-18UT       1.67         1.33         1.67     
+18-21UT       2.00         1.33         1.33     
+21-00UT       2.00         1.33         1.33     
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
 significant transient or recurrent solar wind features are forecast.
@@ -78,9 +78,9 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Jun 28-Jun 30 2025
+Solar Radiation Storm Forecast for Jun 29-Jul 01 2025
 
-              Jun 28  Jun 29  Jun 30
+              Jun 29  Jun 30  Jul 01
 S1 or greater    5%      5%      5%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -91,13 +91,13 @@ C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Jun 28-Jun 30 2025
+Radio Blackout Forecast for Jun 29-Jul 01 2025
 
-              Jun 28        Jun 29        Jun 30
+              Jun 29        Jun 30        Jul 01
 R1-R2           25%           25%           25%
 R3 or greater    5%            5%            5%
 
-Rationale: There exists a chance for R1-R2 (Minor-Moderate) radio
-blackouts over 28-30 Jun.
+Rationale: There is a chance for R1-R2 (Minor-Moderate) radio blackouts
+through the period.
 
 ```
