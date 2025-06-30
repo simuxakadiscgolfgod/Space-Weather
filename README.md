@@ -1,10 +1,10 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2025-06-29
-<br />**Title of the image:**  Dark Sand Cascades on Mars
-<br />**Description for the image:**  Are these trees growing on Mars? No.  Groups of dark brown streaks have been photographed by the Mars Reconnaissance Orbiter on melting pinkish sand dunes covered with light frost. The featured image was taken in 2008 April near the North Pole of Mars. At that time, dark sand on the interior of Martian sand dunes became more and more visible as the spring Sun melted the lighter carbon dioxide ice.  When occurring near the top of a dune, dark sand may cascade down the dune leaving dark surface streaks -- streaks that might appear at first to be trees standing in front of the lighter regions but cast no shadows. Objects about 25 centimeters across are resolved on this image spanning about one kilometer. Close ups of some parts of this image show billowing plumes indicating that the sand slides were occurring even while the image was being taken.    Celestial Surprise: What picture did APOD feature on your birthday? (post 1995)
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2506/almosttrees_mro_2560.jpg
+<br />**Date image released:**  2025-06-30
+<br />**Title of the image:**  NGC 4651: The Umbrella Galaxy
+<br />**Description for the image:**  It's raining stars.  What appears to be a giant cosmic umbrella is now known to be a tidal stream of stars stripped from a small satellite galaxy. The main galaxy, spiral galaxy NGC 4651, is about the size of our Milky Way, while its stellar parasol appears to extend some 100 thousand light-years above this galaxy's bright disk. A small galaxy was likely torn apart by repeated encounters as it swept back and forth on eccentric orbits through NGC 4651. The remaining stars will surely fall back and become part of a combined larger galaxy over the next few million years. The featured deep image was captured in long exposures from Saudi Arabia. The Umbrella Galaxy lies about 50 million light-years distant toward the well-groomed northern constellation of Berenice's Hair (Coma Berenices).   APOD in a Modern Format StellarSnap
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2506/UmbrellaGal_Alkuwari_3843.png
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -48,39 +48,39 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 Jun 29 0030 UTC
+:Issued: 2025 Jun 30 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Jun 29-Jul 01 2025 is 2.67 (below NOAA
-Scale levels).
+The greatest expected 3 hr Kp for Jun 30-Jul 02 2025 is 5.00 (NOAA Scale
+G1).
 
-NOAA Kp index breakdown Jun 29-Jul 01 2025
+NOAA Kp index breakdown Jun 30-Jul 02 2025
 
-             Jun 29       Jun 30       Jul 01
-00-03UT       2.67         1.67         1.33     
-03-06UT       2.33         1.67         1.67     
-06-09UT       2.33         1.67         1.33     
-09-12UT       2.00         1.33         1.33     
-12-15UT       1.33         1.33         1.67     
-15-18UT       1.67         1.33         1.67     
-18-21UT       2.00         1.33         1.33     
-21-00UT       2.00         1.33         1.33     
+             Jun 30       Jul 01       Jul 02
+00-03UT       1.67         1.33         4.00     
+03-06UT       1.67         1.67         5.00 (G1)
+06-09UT       1.67         1.33         4.67 (G1)
+09-12UT       1.33         1.33         4.33     
+12-15UT       1.33         1.67         2.67     
+15-18UT       1.33         1.67         2.67     
+18-21UT       1.33         1.33         3.33     
+21-00UT       1.33         1.33         4.33     
 
-Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
-significant transient or recurrent solar wind features are forecast.
+Rationale: G1 (Minor) geomagnetic storming is likely on 02 Jul with the
+arrival of the 28 Jun CME.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Jun 29-Jul 01 2025
+Solar Radiation Storm Forecast for Jun 30-Jul 02 2025
 
-              Jun 29  Jun 30  Jul 01
+              Jun 30  Jul 01  Jul 02
 S1 or greater    5%      5%      5%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -91,13 +91,13 @@ C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Jun 29-Jul 01 2025
+Radio Blackout Forecast for Jun 30-Jul 02 2025
 
-              Jun 29        Jun 30        Jul 01
+              Jun 30        Jul 01        Jul 02
 R1-R2           25%           25%           25%
 R3 or greater    5%            5%            5%
 
-Rationale: There is a chance for R1-R2 (Minor-Moderate) radio blackouts
-through the period.
+Rationale: A chance for R1-R2 (Minor-Moderate) radio blackouts due to
+isolated M-class flare activity will persist through 02 July.
 
 ```
