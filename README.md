@@ -1,10 +1,16 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2025-06-30
-<br />**Title of the image:**  NGC 4651: The Umbrella Galaxy
-<br />**Description for the image:**  It's raining stars.  What appears to be a giant cosmic umbrella is now known to be a tidal stream of stars stripped from a small satellite galaxy. The main galaxy, spiral galaxy NGC 4651, is about the size of our Milky Way, while its stellar parasol appears to extend some 100 thousand light-years above this galaxy's bright disk. A small galaxy was likely torn apart by repeated encounters as it swept back and forth on eccentric orbits through NGC 4651. The remaining stars will surely fall back and become part of a combined larger galaxy over the next few million years. The featured deep image was captured in long exposures from Saudi Arabia. The Umbrella Galaxy lies about 50 million light-years distant toward the well-groomed northern constellation of Berenice's Hair (Coma Berenices).   APOD in a Modern Format StellarSnap
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2506/UmbrellaGal_Alkuwari_3843.png
+<br />**Date image released:**  2025-07-02
+<br />**This image is owned by:**  
+Kavan Chay; 
+Text: 
+Ogetay Kayali
+(Michigan Tech U.)
+
+<br />**Title of the image:**  Milky Way Through Otago Spires
+<br />**Description for the image:**  Does the Milky Way always rise between these two rocks? No. Capturing this stunning alignment took careful planning: being in the right place at the right time. In the featured image taken in June 2024 from Otago, New Zealand, the bright central core of our Milky Way Galaxy, home to the many of our Galaxy's 400 billion stars, can be seen between two picturesque rocks spires.  For observers in Earth's Northern Hemisphere, the core is only visible throughout the summer. As Earth orbits the Sun, different parts of the Milky Way become visible at different angles at different times of the night. As Earth rotates, the orientation of the Milky Way in the sky also shifts -- sometimes standing vertically as seen in the featured image, and other times stretching parallel to the horizon, making it harder to see. In early June, observers can watch it emerge low on the horizon after sunset and gradually arc upward to reveal its full grandeur.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2507/MwSpires_Chay_1874.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -48,40 +54,40 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 Jun 30 0030 UTC
+:Issued: 2025 Jul 02 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Jun 30-Jul 02 2025 is 5.00 (NOAA Scale
+The greatest expected 3 hr Kp for Jul 02-Jul 04 2025 is 5.33 (NOAA Scale
 G1).
 
-NOAA Kp index breakdown Jun 30-Jul 02 2025
+NOAA Kp index breakdown Jul 02-Jul 04 2025
 
-             Jun 30       Jul 01       Jul 02
-00-03UT       1.67         1.33         4.00     
-03-06UT       1.67         1.67         5.00 (G1)
-06-09UT       1.67         1.33         4.67 (G1)
-09-12UT       1.33         1.33         4.33     
-12-15UT       1.33         1.67         2.67     
-15-18UT       1.33         1.67         2.67     
-18-21UT       1.33         1.33         3.33     
-21-00UT       1.33         1.33         4.33     
+             Jul 02       Jul 03       Jul 04
+00-03UT       4.33         4.67 (G1)    2.67     
+03-06UT       5.33 (G1)    4.33         4.00     
+06-09UT       5.00 (G1)    3.33         3.00     
+09-12UT       4.00         2.67         2.67     
+12-15UT       3.00         2.33         1.67     
+15-18UT       3.00         2.67         1.67     
+18-21UT       3.67         3.00         2.00     
+21-00UT       4.67 (G1)    3.67         2.67     
 
-Rationale: G1 (Minor) geomagnetic storming is likely on 02 Jul with the
-arrival of the 28 Jun CME.
+Rationale: G1 (Minor) geomagnetic storm levels are likely on 02-03 Jul
+due to the arrival of the 28 Jun CME.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Jun 30-Jul 02 2025
+Solar Radiation Storm Forecast for Jul 02-Jul 04 2025
 
-              Jun 30  Jul 01  Jul 02
-S1 or greater    5%      5%      5%
+              Jul 02  Jul 03  Jul 04
+S1 or greater    5%      1%      1%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
 No significant active region activity favorable for radiation storm
@@ -91,13 +97,13 @@ C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Jun 30-Jul 02 2025
+Radio Blackout Forecast for Jul 02-Jul 04 2025
 
-              Jun 30        Jul 01        Jul 02
-R1-R2           25%           25%           25%
-R3 or greater    5%            5%            5%
+              Jul 02        Jul 03        Jul 04
+R1-R2           20%           15%           15%
+R3 or greater    5%            1%            1%
 
-Rationale: A chance for R1-R2 (Minor-Moderate) radio blackouts due to
-isolated M-class flare activity will persist through 02 July.
+Rationale: A slight chance for R1-R2 (Minor-Moderate) radio blackouts
+due to isolated M-class flare activity will persist through 04 July.
 
 ```
