@@ -1,16 +1,14 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2025-07-02
+<br />**Date image released:**  2025-07-03
 <br />**This image is owned by:**  
-Kavan Chay; 
-Text: 
-Ogetay Kayali
-(Michigan Tech U.)
+Matipon Tangmatitham 
+(NARIT)
 
-<br />**Title of the image:**  Milky Way Through Otago Spires
-<br />**Description for the image:**  Does the Milky Way always rise between these two rocks? No. Capturing this stunning alignment took careful planning: being in the right place at the right time. In the featured image taken in June 2024 from Otago, New Zealand, the bright central core of our Milky Way Galaxy, home to the many of our Galaxy's 400 billion stars, can be seen between two picturesque rocks spires.  For observers in Earth's Northern Hemisphere, the core is only visible throughout the summer. As Earth orbits the Sun, different parts of the Milky Way become visible at different angles at different times of the night. As Earth rotates, the orientation of the Milky Way in the sky also shifts -- sometimes standing vertically as seen in the featured image, and other times stretching parallel to the horizon, making it harder to see. In early June, observers can watch it emerge low on the horizon after sunset and gradually arc upward to reveal its full grandeur.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2507/MwSpires_Chay_1874.jpg
+<br />**Title of the image:**  Nova V462 Lupi Now Visible
+<br />**Description for the image:**  If you know where to look, you can see a thermonuclear explosion from a white dwarf star. Possibly two.  Such explosions are known as novas and the detonations are currently faintly visible with the unaided eye in Earth's southern hemisphere -- but are more easily seen with binoculars. Pictured, Nova Lupi 2025 (V462 Lupi) was captured toward the southern constellation of the Wolf (Lupus) last week near the central plane of our Milky Way galaxy.  Nova Lupi 2025 was originally discovered on June 12 and peaked in brightness about a week later. Similarly, Nova Velorum 2025, toward the southern constellation of the Ship Sails (Vela), was discovered on June 25 and peaked a few days later.  A nova somewhere in our Galaxy becomes briefly visible to the unaided eye only every year or two, so it is quite unusual to have two novas visible simultaneously.  Meanwhile, humanity awaits even a different nova: T Coronae Borealis, which should become visible in northern skies and is expected to become even brighter.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2507/V462Lupi_Pon_1689.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -54,40 +52,40 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 Jul 02 0030 UTC
+:Issued: 2025 Jul 03 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Jul 02-Jul 04 2025 is 5.33 (NOAA Scale
+The greatest expected 3 hr Kp for Jul 03-Jul 05 2025 is 4.67 (NOAA Scale
 G1).
 
-NOAA Kp index breakdown Jul 02-Jul 04 2025
+NOAA Kp index breakdown Jul 03-Jul 05 2025
 
-             Jul 02       Jul 03       Jul 04
-00-03UT       4.33         4.67 (G1)    2.67     
-03-06UT       5.33 (G1)    4.33         4.00     
-06-09UT       5.00 (G1)    3.33         3.00     
-09-12UT       4.00         2.67         2.67     
-12-15UT       3.00         2.33         1.67     
-15-18UT       3.00         2.67         1.67     
-18-21UT       3.67         3.00         2.00     
-21-00UT       4.67 (G1)    3.67         2.67     
+             Jul 03       Jul 04       Jul 05
+00-03UT       4.67 (G1)    2.67         3.00     
+03-06UT       4.67 (G1)    4.00         2.67     
+06-09UT       4.00         3.00         2.33     
+09-12UT       2.67         2.67         2.00     
+12-15UT       2.33         1.67         2.33     
+15-18UT       2.67         1.67         2.33     
+18-21UT       3.00         2.00         2.33     
+21-00UT       3.67         2.67         2.67     
 
-Rationale: G1 (Minor) geomagnetic storm levels are likely on 02-03 Jul
-due to the arrival of the 28 Jun CME.
+Rationale: G1 (Minor) geomagnetic storm levels are likely on 03 Jul due
+to the arrival of the 28 Jun CME.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Jul 02-Jul 04 2025
+Solar Radiation Storm Forecast for Jul 03-Jul 05 2025
 
-              Jul 02  Jul 03  Jul 04
-S1 or greater    5%      1%      1%
+              Jul 03  Jul 04  Jul 05
+S1 or greater    1%      1%      1%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
 No significant active region activity favorable for radiation storm
@@ -97,13 +95,13 @@ C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Jul 02-Jul 04 2025
+Radio Blackout Forecast for Jul 03-Jul 05 2025
 
-              Jul 02        Jul 03        Jul 04
-R1-R2           20%           15%           15%
-R3 or greater    5%            1%            1%
+              Jul 03        Jul 04        Jul 05
+R1-R2           15%           15%           15%
+R3 or greater    1%            1%            1%
 
 Rationale: A slight chance for R1-R2 (Minor-Moderate) radio blackouts
-due to isolated M-class flare activity will persist through 04 July.
+due to isolated M-class flare activity will persist through 05 July.
 
 ```
