@@ -1,14 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2025-07-03
-<br />**This image is owned by:**  
-Matipon Tangmatitham 
-(NARIT)
-
-<br />**Title of the image:**  Nova V462 Lupi Now Visible
-<br />**Description for the image:**  If you know where to look, you can see a thermonuclear explosion from a white dwarf star. Possibly two.  Such explosions are known as novas and the detonations are currently faintly visible with the unaided eye in Earth's southern hemisphere -- but are more easily seen with binoculars. Pictured, Nova Lupi 2025 (V462 Lupi) was captured toward the southern constellation of the Wolf (Lupus) last week near the central plane of our Milky Way galaxy.  Nova Lupi 2025 was originally discovered on June 12 and peaked in brightness about a week later. Similarly, Nova Velorum 2025, toward the southern constellation of the Ship Sails (Vela), was discovered on June 25 and peaked a few days later.  A nova somewhere in our Galaxy becomes briefly visible to the unaided eye only every year or two, so it is quite unusual to have two novas visible simultaneously.  Meanwhile, humanity awaits even a different nova: T Coronae Borealis, which should become visible in northern skies and is expected to become even brighter.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2507/V462Lupi_Pon_1689.jpg
+<br />**Date image released:**  2025-07-04
+<br />**This image is owned by:**  Alberto Pisabarro
+<br />**Title of the image:**  NGC 6946 and NGC 6939
+<br />**Description for the image:**  Face-on spiral galaxy NGC 6946 and open star cluster NGC 6939 share this cosmic snapshot, composed with over 68 hours of image data captured with a small telescope on planet Earth. The field of view spans spans about 1 degree or 2 full moons on the sky toward the northern constellation Cepheus. Seen through faint interstellar dust couds near the plane of our Milky Way galaxy, the stars of open cluster NGC 6939 are 5,600 light-years in the distance, near bottom right in the frame. Face-on spiral galaxy NGC 6946 is at top left, but lies some 22 million light-years away. In the last 100 years, 10 supernovae have been discovered in NGC 6946, the latest one seen in 2017. By comparison, the average rate of supernovae in our Milky Way is about 1 every 100 years or so. Of course, NGC 6946 is also known as The Fireworks Galaxy.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2507/N6946N6939pisabarro.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -52,39 +49,40 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 Jul 03 0030 UTC
+:Issued: 2025 Jul 04 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Jul 03-Jul 05 2025 is 4.67 (NOAA Scale
-G1).
+The greatest expected 3 hr Kp for Jul 04-Jul 06 2025 is 4.00 (below NOAA
+Scale levels).
 
-NOAA Kp index breakdown Jul 03-Jul 05 2025
+NOAA Kp index breakdown Jul 04-Jul 06 2025
 
-             Jul 03       Jul 04       Jul 05
-00-03UT       4.67 (G1)    2.67         3.00     
-03-06UT       4.67 (G1)    4.00         2.67     
-06-09UT       4.00         3.00         2.33     
-09-12UT       2.67         2.67         2.00     
-12-15UT       2.33         1.67         2.33     
-15-18UT       2.67         1.67         2.33     
-18-21UT       3.00         2.00         2.33     
-21-00UT       3.67         2.67         2.67     
+             Jul 04       Jul 05       Jul 06
+00-03UT       2.67         3.00         2.33     
+03-06UT       4.00         2.67         2.67     
+06-09UT       3.00         2.33         2.00     
+09-12UT       2.67         2.00         2.00     
+12-15UT       1.67         2.33         2.00     
+15-18UT       1.67         2.33         2.33     
+18-21UT       2.00         2.33         2.00     
+21-00UT       2.67         2.67         2.33     
 
-Rationale: G1 (Minor) geomagnetic storm levels are likely on 03 Jul due
-to the arrival of the 28 Jun CME.
+Rationale: The geomagnetic field is expected to reach to active periods,
+with a chance for G1 (Minor) storming, over 04 Jul due to persistent CME
+effects.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Jul 03-Jul 05 2025
+Solar Radiation Storm Forecast for Jul 04-Jul 06 2025
 
-              Jul 03  Jul 04  Jul 05
+              Jul 04  Jul 05  Jul 06
 S1 or greater    1%      1%      1%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -95,13 +93,13 @@ C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Jul 03-Jul 05 2025
+Radio Blackout Forecast for Jul 04-Jul 06 2025
 
-              Jul 03        Jul 04        Jul 05
-R1-R2           15%           15%           15%
+              Jul 04        Jul 05        Jul 06
+R1-R2           20%           20%           20%
 R3 or greater    1%            1%            1%
 
-Rationale: A slight chance for R1-R2 (Minor-Moderate) radio blackouts
-due to isolated M-class flare activity will persist through 05 July.
+Rationale: There exists a slight chance for R1-R2 (Minor-Moderate) radio
+blackouts over 04-06 Jul.
 
 ```
