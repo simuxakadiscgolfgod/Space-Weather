@@ -1,11 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2025-07-04
-<br />**This image is owned by:**  Alberto Pisabarro
-<br />**Title of the image:**  NGC 6946 and NGC 6939
-<br />**Description for the image:**  Face-on spiral galaxy NGC 6946 and open star cluster NGC 6939 share this cosmic snapshot, composed with over 68 hours of image data captured with a small telescope on planet Earth. The field of view spans spans about 1 degree or 2 full moons on the sky toward the northern constellation Cepheus. Seen through faint interstellar dust couds near the plane of our Milky Way galaxy, the stars of open cluster NGC 6939 are 5,600 light-years in the distance, near bottom right in the frame. Face-on spiral galaxy NGC 6946 is at top left, but lies some 22 million light-years away. In the last 100 years, 10 supernovae have been discovered in NGC 6946, the latest one seen in 2017. By comparison, the average rate of supernovae in our Milky Way is about 1 every 100 years or so. Of course, NGC 6946 is also known as The Fireworks Galaxy.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2507/N6946N6939pisabarro.jpg
+<br />**Date image released:**  2025-07-05
+<br />**This image is owned by:**  Massimo Di Fusco
+<br />**Title of the image:**  Ou4: The Giant Squid Nebula
+<br />**Description for the image:**  Difficult to capture, this mysterious, squid-shaped interstellar cloud spans nearly three full moons in planet Earth's sky. Discovered in 2011 by French astro-imager Nicolas Outters, the Squid Nebula's bipolar shape is distinguished here by the telltale blue emission from doubly ionized oxygen atoms. Though apparently surrounded by the reddish hydrogen emission region Sh2-129, the true distance and nature of the Squid Nebula have been difficult to determine. Still, one investigation suggests Ou4 really does lie within Sh2-129 some 2,300 light-years away. Consistent with that scenario, the cosmic squid would represent a spectacular outflow of material driven by a triple system of hot, massive stars, cataloged as HR8119, seen near the center of the nebula. If so, this truly giant squid nebula would physically be over 50 light-years across.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2507/Ou4_difusco.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,40 +49,39 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 Jul 04 0030 UTC
+:Issued: 2025 Jul 05 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Jul 04-Jul 06 2025 is 4.00 (below NOAA
+The greatest expected 3 hr Kp for Jul 05-Jul 07 2025 is 3.00 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Jul 04-Jul 06 2025
+NOAA Kp index breakdown Jul 05-Jul 07 2025
 
-             Jul 04       Jul 05       Jul 06
-00-03UT       2.67         3.00         2.33     
-03-06UT       4.00         2.67         2.67     
-06-09UT       3.00         2.33         2.00     
-09-12UT       2.67         2.00         2.00     
-12-15UT       1.67         2.33         2.00     
-15-18UT       1.67         2.33         2.33     
-18-21UT       2.00         2.33         2.00     
-21-00UT       2.67         2.67         2.33     
+             Jul 05       Jul 06       Jul 07
+00-03UT       3.00         2.33         3.00     
+03-06UT       2.67         2.67         3.00     
+06-09UT       2.33         2.67         2.00     
+09-12UT       2.00         2.00         2.00     
+12-15UT       2.33         2.00         2.00     
+15-18UT       2.33         1.00         1.00     
+18-21UT       2.33         2.00         0.67     
+21-00UT       2.67         2.33         1.67     
 
-Rationale: The geomagnetic field is expected to reach to active periods,
-with a chance for G1 (Minor) storming, over 04 Jul due to persistent CME
-effects.
+Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
+significant transient or recurrent solar wind features are forecast.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Jul 04-Jul 06 2025
+Solar Radiation Storm Forecast for Jul 05-Jul 07 2025
 
-              Jul 04  Jul 05  Jul 06
+              Jul 05  Jul 06  Jul 07
 S1 or greater    1%      1%      1%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -93,13 +92,13 @@ C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Jul 04-Jul 06 2025
+Radio Blackout Forecast for Jul 05-Jul 07 2025
 
-              Jul 04        Jul 05        Jul 06
-R1-R2           20%           20%           20%
+              Jul 05        Jul 06        Jul 07
+R1-R2           10%           10%           10%
 R3 or greater    1%            1%            1%
 
-Rationale: There exists a slight chance for R1-R2 (Minor-Moderate) radio
-blackouts over 04-06 Jul.
+Rationale: There is a slight chance for R1-R2 (Minor-Moderate) radio
+blackouts over 05-07 Jul.
 
 ```
