@@ -1,11 +1,10 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2025-07-05
-<br />**This image is owned by:**  Massimo Di Fusco
-<br />**Title of the image:**  Ou4: The Giant Squid Nebula
-<br />**Description for the image:**  Difficult to capture, this mysterious, squid-shaped interstellar cloud spans nearly three full moons in planet Earth's sky. Discovered in 2011 by French astro-imager Nicolas Outters, the Squid Nebula's bipolar shape is distinguished here by the telltale blue emission from doubly ionized oxygen atoms. Though apparently surrounded by the reddish hydrogen emission region Sh2-129, the true distance and nature of the Squid Nebula have been difficult to determine. Still, one investigation suggests Ou4 really does lie within Sh2-129 some 2,300 light-years away. Consistent with that scenario, the cosmic squid would represent a spectacular outflow of material driven by a triple system of hot, massive stars, cataloged as HR8119, seen near the center of the nebula. If so, this truly giant squid nebula would physically be over 50 light-years across.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2507/Ou4_difusco.jpg
+<br />**Date image released:**  2025-07-06
+<br />**Title of the image:**  The Spiral North Pole of Mars
+<br />**Description for the image:**  Why is there a spiral around the North Pole of Mars?  Each winter this pole develops a new outer layer about one meter thick composed of carbon dioxide frozen out of the thin Martian atmosphere.  This fresh layer is deposited on a water-ice layer that exists year round.  Strong winds blow down from above the cap's center and swirl due to the spin of the red planet -- contributing to Planum Boreum's spiral structure.  The featured image is a perspective mosaic generated in 2017 from numerous images taken by ESA's Mars Express and elevations extracted from the laser altimeter aboard NASA's Mars Global Surveyor mission.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2507/MarsNorthPole_MarsExpress_960.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,27 +48,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 Jul 05 0030 UTC
+:Issued: 2025 Jul 06 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Jul 05-Jul 07 2025 is 3.00 (below NOAA
+The greatest expected 3 hr Kp for Jul 06-Jul 08 2025 is 3.67 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Jul 05-Jul 07 2025
+NOAA Kp index breakdown Jul 06-Jul 08 2025
 
-             Jul 05       Jul 06       Jul 07
-00-03UT       3.00         2.33         3.00     
-03-06UT       2.67         2.67         3.00     
-06-09UT       2.33         2.67         2.00     
-09-12UT       2.00         2.00         2.00     
-12-15UT       2.33         2.00         2.00     
-15-18UT       2.33         1.00         1.00     
-18-21UT       2.33         2.00         0.67     
-21-00UT       2.67         2.33         1.67     
+             Jul 06       Jul 07       Jul 08
+00-03UT       3.67         3.00         1.67     
+03-06UT       3.67         3.00         1.33     
+06-09UT       2.67         2.00         1.33     
+09-12UT       2.00         2.00         1.33     
+12-15UT       1.00         2.00         1.33     
+15-18UT       1.00         1.00         1.33     
+18-21UT       1.33         0.67         1.67     
+21-00UT       2.00         1.67         1.67     
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
 significant transient or recurrent solar wind features are forecast.
@@ -79,9 +78,9 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Jul 05-Jul 07 2025
+Solar Radiation Storm Forecast for Jul 06-Jul 08 2025
 
-              Jul 05  Jul 06  Jul 07
+              Jul 06  Jul 07  Jul 08
 S1 or greater    1%      1%      1%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -92,13 +91,13 @@ C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Jul 05-Jul 07 2025
+Radio Blackout Forecast for Jul 06-Jul 08 2025
 
-              Jul 05        Jul 06        Jul 07
+              Jul 06        Jul 07        Jul 08
 R1-R2           10%           10%           10%
 R3 or greater    1%            1%            1%
 
 Rationale: There is a slight chance for R1-R2 (Minor-Moderate) radio
-blackouts over 05-07 Jul.
+blackouts over 06-08 Jul.
 
 ```
