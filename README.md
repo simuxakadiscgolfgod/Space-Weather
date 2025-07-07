@@ -1,10 +1,10 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2025-07-06
-<br />**Title of the image:**  The Spiral North Pole of Mars
-<br />**Description for the image:**  Why is there a spiral around the North Pole of Mars?  Each winter this pole develops a new outer layer about one meter thick composed of carbon dioxide frozen out of the thin Martian atmosphere.  This fresh layer is deposited on a water-ice layer that exists year round.  Strong winds blow down from above the cap's center and swirl due to the spin of the red planet -- contributing to Planum Boreum's spiral structure.  The featured image is a perspective mosaic generated in 2017 from numerous images taken by ESA's Mars Express and elevations extracted from the laser altimeter aboard NASA's Mars Global Surveyor mission.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2507/MarsNorthPole_MarsExpress_960.jpg
+<br />**Date image released:**  2025-07-07
+<br />**Title of the image:**  Interstellar Comet 3I/ATLAS
+<br />**Description for the image:**  It came from outer space.  An object from outside our Solar System is now passing through at high speed. Classified as a comet because of its gaseous coma, 3I/ATLAS is only the third identified macroscopic object as being so alien. The comet's trajectory is shown in white on the featured map, where the orbits of Jupiter, Mars, and Earth are shown in gold, red, and blue. Currently Comet 3I/ATLAS is about the distance of Jupiter from the Sun -- but closing, with its closest approach to our Sun expected to be within the orbit of Mars in late October. Expected to pass near both Mars and Jupiter, 3I/ATLAS is not expected to pass close to the Earth.  The origin of Comet 3I/ATLAS remains unknown. Although initial activity indicates a relatively normal comet, future observations about 3I/ATLAS' composition and nature will surely continue.   Piece it All Together: Astronomy Puzzle of the Day
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2507/Interstellar3I_nasa_2913.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -48,39 +48,40 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 Jul 06 0030 UTC
+:Issued: 2025 Jul 07 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
-Scale levels).
-The greatest expected 3 hr Kp for Jul 06-Jul 08 2025 is 3.67 (below NOAA
-Scale levels).
+The greatest observed 3 hr Kp over the past 24 hours was 5 (NOAA Scale
+G1).
+The greatest expected 3 hr Kp for Jul 07-Jul 09 2025 is 4.67 (NOAA Scale
+G1).
 
-NOAA Kp index breakdown Jul 06-Jul 08 2025
+NOAA Kp index breakdown Jul 07-Jul 09 2025
 
-             Jul 06       Jul 07       Jul 08
-00-03UT       3.67         3.00         1.67     
-03-06UT       3.67         3.00         1.33     
-06-09UT       2.67         2.00         1.33     
-09-12UT       2.00         2.00         1.33     
-12-15UT       1.00         2.00         1.33     
-15-18UT       1.00         1.00         1.33     
-18-21UT       1.33         0.67         1.67     
-21-00UT       2.00         1.67         1.67     
+             Jul 07       Jul 08       Jul 09
+00-03UT       4.67 (G1)    2.33         1.67     
+03-06UT       4.67 (G1)    2.67         1.33     
+06-09UT       3.67         2.00         1.33     
+09-12UT       3.67         2.00         1.33     
+12-15UT       1.67         2.00         1.33     
+15-18UT       1.67         0.67         1.33     
+18-21UT       1.67         2.33         1.67     
+21-00UT       2.00         2.67         1.67     
 
-Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
-significant transient or recurrent solar wind features are forecast.
+Rationale: Periods of G1 (Minor) geomagnetic storm levels are expected
+early on 07 July due to sustained, yet weakening, negative polarity CH
+HSS influence.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Jul 06-Jul 08 2025
+Solar Radiation Storm Forecast for Jul 07-Jul 09 2025
 
-              Jul 06  Jul 07  Jul 08
+              Jul 07  Jul 08  Jul 09
 S1 or greater    1%      1%      1%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -91,13 +92,13 @@ C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Jul 06-Jul 08 2025
+Radio Blackout Forecast for Jul 07-Jul 09 2025
 
-              Jul 06        Jul 07        Jul 08
-R1-R2           10%           10%           10%
+              Jul 07        Jul 08        Jul 09
+R1-R2            5%            5%            5%
 R3 or greater    1%            1%            1%
 
-Rationale: There is a slight chance for R1-R2 (Minor-Moderate) radio
-blackouts over 06-08 Jul.
+Rationale: No R1 (Minor) or greater radio blackouts are expected.  No
+significant active region flare activity is forecast.
 
 ```
