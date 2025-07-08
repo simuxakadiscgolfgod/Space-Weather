@@ -1,4 +1,11 @@
-<br />**Date image released:**  2025-07-07
-<br />**Title of the image:**  Interstellar Comet 3I/ATLAS
-<br />**Description for the image:**  It came from outer space.  An object from outside our Solar System is now passing through at high speed. Classified as a comet because of its gaseous coma, 3I/ATLAS is only the third identified macroscopic object as being so alien. The comet's trajectory is shown in white on the featured map, where the orbits of Jupiter, Mars, and Earth are shown in gold, red, and blue. Currently Comet 3I/ATLAS is about the distance of Jupiter from the Sun -- but closing, with its closest approach to our Sun expected to be within the orbit of Mars in late October. Expected to pass near both Mars and Jupiter, 3I/ATLAS is not expected to pass close to the Earth.  The origin of Comet 3I/ATLAS remains unknown. Although initial activity indicates a relatively normal comet, future observations about 3I/ATLAS' composition and nature will surely continue.   Piece it All Together: Astronomy Puzzle of the Day
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2507/Interstellar3I_nasa_2913.jpg
+<br />**Date image released:**  2025-07-08
+<br />**This image is owned by:**  
+Ogetay Kayali
+(Michigan Tech U.)
+Text: 
+Ogetay Kayali
+(Michigan Tech U.)
+
+<br />**Title of the image:**  The Pleiades in Red and Blue
+<br />**Description for the image:**  If you have looked at the sky and seen a group of stars about the size of the full Moon, that's the Pleiades (M45). Perhaps the most famous star cluster in the sky, its brightest stars can be seen even from the light-polluted cities. But your unaided eye can also see its nebulosity -- the gas and dust surrounding it -- under dark skies. However, telescopes can catch even more. The bright blue stars of the Pleiades, also known as the Seven Sisters, light up their surrounding dust, causing it to appear a diffuse blue that can only be seen under long exposures. But that's not all. The cosmic dust appears to stretch upward like ethereal arms. And the entire structure is surrounded by a reddish glow from the most abundant element in the universe: hydrogen. The featured image is composed of nearly 25 hours of exposure and was captured last year from Starfront Observatory, in Texas, USA  Explore Your Universe: Random APOD Generator
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2507/Pleiades_Kayali_2560.jpg

@@ -1,10 +1,17 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2025-07-07
-<br />**Title of the image:**  Interstellar Comet 3I/ATLAS
-<br />**Description for the image:**  It came from outer space.  An object from outside our Solar System is now passing through at high speed. Classified as a comet because of its gaseous coma, 3I/ATLAS is only the third identified macroscopic object as being so alien. The comet's trajectory is shown in white on the featured map, where the orbits of Jupiter, Mars, and Earth are shown in gold, red, and blue. Currently Comet 3I/ATLAS is about the distance of Jupiter from the Sun -- but closing, with its closest approach to our Sun expected to be within the orbit of Mars in late October. Expected to pass near both Mars and Jupiter, 3I/ATLAS is not expected to pass close to the Earth.  The origin of Comet 3I/ATLAS remains unknown. Although initial activity indicates a relatively normal comet, future observations about 3I/ATLAS' composition and nature will surely continue.   Piece it All Together: Astronomy Puzzle of the Day
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2507/Interstellar3I_nasa_2913.jpg
+<br />**Date image released:**  2025-07-08
+<br />**This image is owned by:**  
+Ogetay Kayali
+(Michigan Tech U.)
+Text: 
+Ogetay Kayali
+(Michigan Tech U.)
+
+<br />**Title of the image:**  The Pleiades in Red and Blue
+<br />**Description for the image:**  If you have looked at the sky and seen a group of stars about the size of the full Moon, that's the Pleiades (M45). Perhaps the most famous star cluster in the sky, its brightest stars can be seen even from the light-polluted cities. But your unaided eye can also see its nebulosity -- the gas and dust surrounding it -- under dark skies. However, telescopes can catch even more. The bright blue stars of the Pleiades, also known as the Seven Sisters, light up their surrounding dust, causing it to appear a diffuse blue that can only be seen under long exposures. But that's not all. The cosmic dust appears to stretch upward like ethereal arms. And the entire structure is surrounded by a reddish glow from the most abundant element in the universe: hydrogen. The featured image is composed of nearly 25 hours of exposure and was captured last year from Starfront Observatory, in Texas, USA  Explore Your Universe: Random APOD Generator
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2507/Pleiades_Kayali_2560.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -48,40 +55,39 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 Jul 07 0030 UTC
+:Issued: 2025 Jul 08 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 5 (NOAA Scale
 G1).
-The greatest expected 3 hr Kp for Jul 07-Jul 09 2025 is 4.67 (NOAA Scale
-G1).
+The greatest expected 3 hr Kp for Jul 08-Jul 10 2025 is 3.67 (below NOAA
+Scale levels).
 
-NOAA Kp index breakdown Jul 07-Jul 09 2025
+NOAA Kp index breakdown Jul 08-Jul 10 2025
 
-             Jul 07       Jul 08       Jul 09
-00-03UT       4.67 (G1)    2.33         1.67     
-03-06UT       4.67 (G1)    2.67         1.33     
-06-09UT       3.67         2.00         1.33     
-09-12UT       3.67         2.00         1.33     
-12-15UT       1.67         2.00         1.33     
-15-18UT       1.67         0.67         1.33     
-18-21UT       1.67         2.33         1.67     
-21-00UT       2.00         2.67         1.67     
+             Jul 08       Jul 09       Jul 10
+00-03UT       3.67         1.67         1.67     
+03-06UT       3.67         1.33         1.33     
+06-09UT       2.67         1.33         1.33     
+09-12UT       3.00         1.33         1.33     
+12-15UT       2.67         1.33         1.67     
+15-18UT       2.67         1.33         1.33     
+18-21UT       1.67         1.67         1.67     
+21-00UT       1.67         1.67         1.33     
 
-Rationale: Periods of G1 (Minor) geomagnetic storm levels are expected
-early on 07 July due to sustained, yet weakening, negative polarity CH
-HSS influence.
+Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
+significant transient or recurrent solar wind features are forecast.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Jul 07-Jul 09 2025
+Solar Radiation Storm Forecast for Jul 08-Jul 10 2025
 
-              Jul 07  Jul 08  Jul 09
+              Jul 08  Jul 09  Jul 10
 S1 or greater    1%      1%      1%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -92,13 +98,13 @@ C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Jul 07-Jul 09 2025
+Radio Blackout Forecast for Jul 08-Jul 10 2025
 
-              Jul 07        Jul 08        Jul 09
-R1-R2            5%            5%            5%
+              Jul 08        Jul 09        Jul 10
+R1-R2           10%           10%           10%
 R3 or greater    1%            1%            1%
 
-Rationale: No R1 (Minor) or greater radio blackouts are expected.  No
-significant active region flare activity is forecast.
+Rationale: There is a slight chance for R1 (Minor) or greater radio
+blackouts all three days.
 
 ```
