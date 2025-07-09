@@ -1,17 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2025-07-08
-<br />**This image is owned by:**  
-Ogetay Kayali
-(Michigan Tech U.)
-Text: 
-Ogetay Kayali
-(Michigan Tech U.)
-
-<br />**Title of the image:**  The Pleiades in Red and Blue
-<br />**Description for the image:**  If you have looked at the sky and seen a group of stars about the size of the full Moon, that's the Pleiades (M45). Perhaps the most famous star cluster in the sky, its brightest stars can be seen even from the light-polluted cities. But your unaided eye can also see its nebulosity -- the gas and dust surrounding it -- under dark skies. However, telescopes can catch even more. The bright blue stars of the Pleiades, also known as the Seven Sisters, light up their surrounding dust, causing it to appear a diffuse blue that can only be seen under long exposures. But that's not all. The cosmic dust appears to stretch upward like ethereal arms. And the entire structure is surrounded by a reddish glow from the most abundant element in the universe: hydrogen. The featured image is composed of nearly 25 hours of exposure and was captured last year from Starfront Observatory, in Texas, USA  Explore Your Universe: Random APOD Generator
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2507/Pleiades_Kayali_2560.jpg
+<br />**Date image released:**  2025-07-09
+<br />**This image is owned by:**  Alessandro Cipolat Bares
+<br />**Title of the image:**  A Beautiful Trifid
+<br />**Description for the image:**  The beautiful Trifid Nebula is a cosmic study in contrasts. Also known as M20, it lies about 5,000 light-years away toward the nebula rich constellation Sagittarius. A star forming region in the plane of our galaxy, the Trifid does illustrate three different types of astronomical nebulae; red emission nebulae dominated by light from hydrogen atoms, blue reflection nebulae produced by dust reflecting starlight, and dark nebulae where dense dust clouds appear in silhouette. But, the red emission region roughly separated into three parts by obscuring dust lanes is what lends the Trifid its popular name. Pillars and jets sculpted by newborn stars, above and right of the emission nebula's center, appear in famous Hubble Space Telescope close-up images of the region. The Trifid Nebula is about 40 light-years across. Too faint to be seen by the unaided eye, in this deep telescopic view it almost covers the area of a full moon on planet Earth's sky.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2507/Trifid2048.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -55,27 +49,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 Jul 08 0030 UTC
+:Issued: 2025 Jul 09 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 5 (NOAA Scale
-G1).
-The greatest expected 3 hr Kp for Jul 08-Jul 10 2025 is 3.67 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
+Scale levels).
+The greatest expected 3 hr Kp for Jul 09-Jul 11 2025 is 1.67 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Jul 08-Jul 10 2025
+NOAA Kp index breakdown Jul 09-Jul 11 2025
 
-             Jul 08       Jul 09       Jul 10
-00-03UT       3.67         1.67         1.67     
-03-06UT       3.67         1.33         1.33     
-06-09UT       2.67         1.33         1.33     
-09-12UT       3.00         1.33         1.33     
-12-15UT       2.67         1.33         1.67     
-15-18UT       2.67         1.33         1.33     
+             Jul 09       Jul 10       Jul 11
+00-03UT       1.67         1.67         1.67     
+03-06UT       1.33         1.33         1.67     
+06-09UT       1.33         1.33         1.33     
+09-12UT       1.33         1.33         1.33     
+12-15UT       1.33         1.67         1.33     
+15-18UT       1.33         1.33         1.33     
 18-21UT       1.67         1.67         1.67     
-21-00UT       1.67         1.67         1.33     
+21-00UT       1.67         1.33         1.33     
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
 significant transient or recurrent solar wind features are forecast.
@@ -85,9 +79,9 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Jul 08-Jul 10 2025
+Solar Radiation Storm Forecast for Jul 09-Jul 11 2025
 
-              Jul 08  Jul 09  Jul 10
+              Jul 09  Jul 10  Jul 11
 S1 or greater    1%      1%      1%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -96,15 +90,16 @@ production is forecast.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-No radio blackouts were observed over the past 24 hours.
+Radio blackouts reaching the R1 levels were observed over the past 24
+hours. The largest was at Jul 08 2025 0417 UTC.
 
-Radio Blackout Forecast for Jul 08-Jul 10 2025
+Radio Blackout Forecast for Jul 09-Jul 11 2025
 
-              Jul 08        Jul 09        Jul 10
-R1-R2           10%           10%           10%
+              Jul 09        Jul 10        Jul 11
+R1-R2           35%           35%           35%
 R3 or greater    1%            1%            1%
 
-Rationale: There is a slight chance for R1 (Minor) or greater radio
-blackouts all three days.
+Rationale: There is a chance for R1-R2 (Minor-Moderate) radio blackouts
+through 11 Jul.
 
 ```
