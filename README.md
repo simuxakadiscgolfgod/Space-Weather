@@ -1,11 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2025-07-09
-<br />**This image is owned by:**  Alessandro Cipolat Bares
-<br />**Title of the image:**  A Beautiful Trifid
-<br />**Description for the image:**  The beautiful Trifid Nebula is a cosmic study in contrasts. Also known as M20, it lies about 5,000 light-years away toward the nebula rich constellation Sagittarius. A star forming region in the plane of our galaxy, the Trifid does illustrate three different types of astronomical nebulae; red emission nebulae dominated by light from hydrogen atoms, blue reflection nebulae produced by dust reflecting starlight, and dark nebulae where dense dust clouds appear in silhouette. But, the red emission region roughly separated into three parts by obscuring dust lanes is what lends the Trifid its popular name. Pillars and jets sculpted by newborn stars, above and right of the emission nebula's center, appear in famous Hubble Space Telescope close-up images of the region. The Trifid Nebula is about 40 light-years across. Too faint to be seen by the unaided eye, in this deep telescopic view it almost covers the area of a full moon on planet Earth's sky.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2507/Trifid2048.jpg
+<br />**Date image released:**  2025-07-11
+<br />**This image is owned by:**  Clear Skies
+<br />**Title of the image:**  The Veins of Heaven
+<br />**Description for the image:**  Transfusing sunlight as the sky grew darker, this exceptional display of noctilucent clouds was captured on July 10, reflected in the calm waters of Vallentuna Lake near Stockholm, Sweden. From the edge of space, about 80 kilometers above Earth's surface, the icy clouds themselves still reflect sunlight, even though the Sun is below the horizon as seen from the ground. Usually spotted at high latitudes in summer months, the night shining clouds have made a strong showing so far during the short northern summer nights. Also known as polar mesopheric clouds they are understood to form as water vapor driven into the cold upper atmosphere condenses on the fine dust particles supplied by disintegrating meteors or volcanic ash.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2507/NLCreflectionsHeden.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,27 +49,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 Jul 09 0030 UTC
+:Issued: 2025 Jul 11 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 1 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Jul 09-Jul 11 2025 is 1.67 (below NOAA
+The greatest expected 3 hr Kp for Jul 11-Jul 13 2025 is 2.67 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Jul 09-Jul 11 2025
+NOAA Kp index breakdown Jul 11-Jul 13 2025
 
-             Jul 09       Jul 10       Jul 11
-00-03UT       1.67         1.67         1.67     
-03-06UT       1.33         1.33         1.67     
-06-09UT       1.33         1.33         1.33     
-09-12UT       1.33         1.33         1.33     
-12-15UT       1.33         1.67         1.33     
-15-18UT       1.33         1.33         1.33     
-18-21UT       1.67         1.67         1.67     
-21-00UT       1.67         1.33         1.33     
+             Jul 11       Jul 12       Jul 13
+00-03UT       1.67         2.33         2.33     
+03-06UT       1.67         2.00         2.00     
+06-09UT       1.33         2.33         2.33     
+09-12UT       1.33         2.67         2.00     
+12-15UT       1.33         2.33         2.00     
+15-18UT       1.33         2.67         2.00     
+18-21UT       1.67         2.33         2.00     
+21-00UT       1.33         2.33         2.00     
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
 significant transient or recurrent solar wind features are forecast.
@@ -79,9 +79,9 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Jul 09-Jul 11 2025
+Solar Radiation Storm Forecast for Jul 11-Jul 13 2025
 
-              Jul 09  Jul 10  Jul 11
+              Jul 11  Jul 12  Jul 13
 S1 or greater    1%      1%      1%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -90,16 +90,16 @@ production is forecast.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-Radio blackouts reaching the R1 levels were observed over the past 24
-hours. The largest was at Jul 08 2025 0417 UTC.
+No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Jul 09-Jul 11 2025
+Radio Blackout Forecast for Jul 11-Jul 13 2025
 
-              Jul 09        Jul 10        Jul 11
+              Jul 11        Jul 12        Jul 13
 R1-R2           35%           35%           35%
 R3 or greater    1%            1%            1%
 
-Rationale: There is a chance for R1-R2 (Minor-Moderate) radio blackouts
-through 11 Jul.
+Rationale: Solar activity is expected to be low with a chance for
+M-class flares (R1-R2/Minor-Moderate) on 11-13 Jul, primarily due to the
+flare potential of Region 4136.
 
 ```
