@@ -1,11 +1,10 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2025-07-11
-<br />**This image is owned by:**  Clear Skies
-<br />**Title of the image:**  The Veins of Heaven
-<br />**Description for the image:**  Transfusing sunlight as the sky grew darker, this exceptional display of noctilucent clouds was captured on July 10, reflected in the calm waters of Vallentuna Lake near Stockholm, Sweden. From the edge of space, about 80 kilometers above Earth's surface, the icy clouds themselves still reflect sunlight, even though the Sun is below the horizon as seen from the ground. Usually spotted at high latitudes in summer months, the night shining clouds have made a strong showing so far during the short northern summer nights. Also known as polar mesopheric clouds they are understood to form as water vapor driven into the cold upper atmosphere condenses on the fine dust particles supplied by disintegrating meteors or volcanic ash.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2507/NLCreflectionsHeden.jpg
+<br />**Date image released:**  2025-07-13
+<br />**Title of the image:**  Planetary Nebula Mz3: The Ant Nebula
+<br />**Description for the image:**  Why isn't this ant a big sphere?  Planetary nebula Mz3 is being cast off by a star similar to our Sun that is, surely, round.  Why then would the gas that is streaming away create an ant-shaped nebula that is distinctly not round?  Clues might include the high 1000-kilometer per second speed of the expelled gas, the light-year long length of the structure, and the magnetism of the star featured here at the nebula's center.  One possible answer is that Mz3 is hiding a second, dimmer star that orbits close in to the bright star.  A competing hypothesis holds that the central star's own spin and magnetic field are channeling the gas.  Since the central star appears to be so similar to our own Sun, astronomers hope that increased understanding of the history of this giant space ant can provide useful insight into the likely future of our own Sun and Earth.   Explore Your Universe: Random APOD Generator
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2507/ant_hubble_1072.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,39 +48,38 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 Jul 11 0030 UTC
+:Issued: 2025 Jul 13 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 1 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Jul 11-Jul 13 2025 is 2.67 (below NOAA
+The greatest expected 3 hr Kp for Jul 13-Jul 15 2025 is 4.00 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Jul 11-Jul 13 2025
+NOAA Kp index breakdown Jul 13-Jul 15 2025
 
-             Jul 11       Jul 12       Jul 13
-00-03UT       1.67         2.33         2.33     
-03-06UT       1.67         2.00         2.00     
-06-09UT       1.33         2.33         2.33     
-09-12UT       1.33         2.67         2.00     
-12-15UT       1.33         2.33         2.00     
-15-18UT       1.33         2.67         2.00     
-18-21UT       1.67         2.33         2.00     
-21-00UT       1.33         2.33         2.00     
+             Jul 13       Jul 14       Jul 15
+00-03UT       2.67         1.67         2.33     
+03-06UT       3.67         2.67         2.67     
+06-09UT       4.00         3.00         2.67     
+09-12UT       3.67         2.67         2.00     
+12-15UT       2.67         2.00         2.33     
+15-18UT       2.00         1.67         1.00     
+18-21UT       1.67         2.33         1.00     
+21-00UT       2.67         2.67         2.33     
 
-Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
-significant transient or recurrent solar wind features are forecast.
+Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Jul 11-Jul 13 2025
+Solar Radiation Storm Forecast for Jul 13-Jul 15 2025
 
-              Jul 11  Jul 12  Jul 13
+              Jul 13  Jul 14  Jul 15
 S1 or greater    1%      1%      1%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -90,16 +88,16 @@ production is forecast.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-No radio blackouts were observed over the past 24 hours.
+Radio blackouts reaching the R1 levels were observed over the past 24
+hours. The largest was at Jul 12 2025 0834 UTC.
 
-Radio Blackout Forecast for Jul 11-Jul 13 2025
+Radio Blackout Forecast for Jul 13-Jul 15 2025
 
-              Jul 11        Jul 12        Jul 13
-R1-R2           35%           35%           35%
-R3 or greater    1%            1%            1%
+              Jul 13        Jul 14        Jul 15
+R1-R2           55%           55%           55%
+R3 or greater    5%            5%            5%
 
-Rationale: Solar activity is expected to be low with a chance for
-M-class flares (R1-R2/Minor-Moderate) on 11-13 Jul, primarily due to the
-flare potential of Region 4136.
+Rationale: R1-R2 (Minor-Moderate) radio blackouts are are likely over
+13-15 Jul.
 
 ```
