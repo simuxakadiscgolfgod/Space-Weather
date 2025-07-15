@@ -1,13 +1,10 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2025-07-14
-<br />**This image is owned by:**  
-Stefan Thrun
-
-<br />**Title of the image:**  NGC 2685: The Helix Galaxy
-<br />**Description for the image:**  What is going on with this galaxy? NGC 2685 is a confirmed polar ring galaxy - a rare type of galaxy with stars, gas and dust orbiting in rings perpendicular to the plane of a flat galactic disk. The bizarre configuration could be caused by the chance capture of material from another galaxy by a disk galaxy, with the captured debris strung out in a rotating ring. Still, observed properties of NGC 2685 suggest that the rotating helix structure is remarkably old and stable. In this sharp view of the peculiar system also known as Arp 336 or the Helix galaxy, the strange, perpendicular rings are easy to trace as they pass in front of the galactic disk, along with other disturbed outer structures. NGC 2685 is about 50,000 light-years across and 40 million light-years away in the constellation of the Great Bear (Ursa Major).   Piece it All Together: Astronomy Puzzle of the Day
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2507/Ngc2685_Thrun_960.jpg
+<br />**Date image released:**  2025-07-15
+<br />**Title of the image:**  Collapse in Hebes Chasma on Mars
+<br />**Description for the image:**  What's happened in Hebes Chasma on Mars? Hebes Chasma is a depression just north of the enormous Valles Marineris canyon.  Since the depression is unconnected to other surface features, it is unclear where the internal material went. Inside Hebes Chasma is Hebes Mensa, a 5 kilometer high mesa that appears to have undergone an unusual partial collapse -- a collapse that might be providing clues. The featured image, taken by ESA's robotic Mars Express spacecraft currently orbiting Mars, shows great details of the chasm and the unusual horseshoe shaped indentation in the central mesa. Material from the mesa appears to have flowed onto the floor of the chasm, while a possible dark layer appears to have pooled like ink on a downslope landing.  One hypothesis holds that salty rock composes some lower layers in Hebes Chasma, with the salt dissolving in melted ice flows that drained through holes into an underground aquifer.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2507/HebesChasma_esa_960.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -51,38 +48,39 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 Jul 14 0030 UTC
+:Issued: 2025 Jul 15 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 5 (NOAA Scale
 G1).
-The greatest expected 3 hr Kp for Jul 14-Jul 16 2025 is 3.67 (below NOAA
-Scale levels).
+The greatest expected 3 hr Kp for Jul 15-Jul 17 2025 is 4.67 (NOAA Scale
+G1).
 
-NOAA Kp index breakdown Jul 14-Jul 16 2025
+NOAA Kp index breakdown Jul 15-Jul 17 2025
 
-             Jul 14       Jul 15       Jul 16
-00-03UT       2.67         2.67         2.67     
-03-06UT       2.67         3.00         3.00     
-06-09UT       3.67         2.67         2.67     
-09-12UT       2.67         2.67         2.33     
-12-15UT       2.67         2.33         2.33     
-15-18UT       1.67         1.00         2.00     
-18-21UT       2.33         1.00         1.00     
-21-00UT       2.67         2.33         2.33     
+             Jul 15       Jul 16       Jul 17
+00-03UT       4.67 (G1)    2.67         2.00     
+03-06UT       2.67         3.00         2.00     
+06-09UT       3.00         2.67         2.33     
+09-12UT       1.67         2.33         2.33     
+12-15UT       2.67         2.33         2.00     
+15-18UT       1.67         2.00         2.33     
+18-21UT       3.67         1.00         2.00     
+21-00UT       2.67         2.33         2.00     
 
-Rationale: No G1 (Minor) or greater geomagnetic storms are expected. 
+Rationale: G1 (Minor) geomagnetic storms are expected early on 15 July
+due to CH HSS influences.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Jul 14-Jul 16 2025
+Solar Radiation Storm Forecast for Jul 15-Jul 17 2025
 
-              Jul 14  Jul 15  Jul 16
+              Jul 15  Jul 16  Jul 17
 S1 or greater    1%      1%      1%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -93,14 +91,12 @@ C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Jul 14-Jul 16 2025
+Radio Blackout Forecast for Jul 15-Jul 17 2025
 
-              Jul 14        Jul 15        Jul 16
+              Jul 15        Jul 16        Jul 17
 R1-R2           50%           50%           50%
 R3 or greater    5%            5%            5%
 
-Rationale: There exists a chance for R1-R2 (Minor-Moderate) radio
-blackouts over 14-16 Jul due to potential from multiple sunspots on the
-visible disk.
+Rationale: R1-R2 (Minor-Moderate) radio blackouts are likely 15-17 Jul. 
 
 ```
