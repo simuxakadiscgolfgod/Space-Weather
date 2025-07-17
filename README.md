@@ -1,10 +1,10 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2025-07-16
-<br />**Title of the image:**  The Rosette Nebula from DECam
-<br />**Description for the image:**  Would the Rosette Nebula by any other name look as sweet? The bland New General Catalog designation of NGC 2237 doesn't appear to diminish the appearance of this flowery emission nebula, as captured by the Dark Energy Camera (DECam) on the Blanco 4-meter telescope at the NSF's Cerro Tololo Inter-American Observatory in Chile.  Inside the nebula lies an open cluster of bright young stars designated NGC 2244. These stars formed about four million years ago from the nebular material and their stellar winds are clearing a hole in the nebula's center, insulated by a layer of dust and hot gas. Ultraviolet light from the hot cluster stars causes the surrounding nebula to glow. The Rosette Nebula spans about 100 light-years across, lies about 5000 light-years away, and can be seen with a small telescope towards the constellation of the Unicorn (Monoceros).   Open Science: Browse 3,700+ codes in the Astrophysics Source Code Library
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2507/Rosette_Decam_4000.jpg
+<br />**Date image released:**  2025-07-17
+<br />**Title of the image:**  3I/ATLAS
+<br />**Description for the image:**  Discovered on July 1 with the NASA-funded ATLAS (Asteroid Terrestrial-impact Last Alert, System) survey telescope in Rio Hurtado, Chile, 3I/ATLAS is so designated as the third known interstellar object to pass through our Solar System It follows 1I/ʻOumuamua in 2017 and the comet 2I/Borisov in 2019.  Also known as C/2025 N1, 3I/ATLAS is clearly a comet, its diffuse cometary coma, a cloud of gas and dust surrounding an icy nucleus, is easily seen in these images from the large Gemini North telescope on Maunakea, Hawai‘i. The left panel tracks the comet as it moves across the sky against fixed background stars in successive exposures. Three different filters were used, shown in red, green, and blue. In the right panel the multiple exposures are registered and combined to form a single image of the comet. The comet's interstellar origin is also clear from its orbit, determined to be an eccentric, highly hyperbolic orbit that does not loop back around the Sun and will return 3I/ATLAS to interstellar space. Not a threat to planet Earth, the inbound interstellar interloper is now within the Jupiter's orbital distance of the Sun, while its closest approach to the Sun will bring it just within the orbital distance of Mars.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2507/noirlab2522a_3i.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -48,27 +48,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 Jul 16 0030 UTC
+:Issued: 2025 Jul 17 0005 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 5 (NOAA Scale
-G1).
-The greatest expected 3 hr Kp for Jul 16-Jul 18 2025 is 4.00 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
+Scale levels).
+The greatest expected 3 hr Kp for Jul 16-Jul 18 2025 is 3.67 (below NOAA
 Scale levels).
 
 NOAA Kp index breakdown Jul 16-Jul 18 2025
 
              Jul 16       Jul 17       Jul 18
-00-03UT       4.00         3.00         2.00     
-03-06UT       3.67         2.67         2.33     
-06-09UT       3.00         2.00         2.00     
-09-12UT       2.67         1.67         2.00     
-12-15UT       2.33         2.00         2.33     
-15-18UT       2.67         2.00         2.33     
-18-21UT       2.33         1.67         2.00     
-21-00UT       2.67         2.00         2.33     
+00-03UT       3.00         3.00         3.00     
+03-06UT       3.00         2.67         2.67     
+06-09UT       2.67         2.00         2.33     
+09-12UT       3.67         1.67         1.67     
+12-15UT       2.67         2.00         1.33     
+15-18UT       2.00         2.00         1.33     
+18-21UT       2.33         1.67         1.67     
+21-00UT       2.67         2.00         2.00     
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
 significant transient or recurrent solar wind features are forecast.
@@ -94,10 +94,11 @@ No radio blackouts were observed over the past 24 hours.
 Radio Blackout Forecast for Jul 16-Jul 18 2025
 
               Jul 16        Jul 17        Jul 18
-R1-R2           50%           50%           50%
+R1-R2           60%           60%           60%
 R3 or greater    5%            5%            5%
 
-Rationale: Solar activity is expected to be low with an increased chance
-for M-class flares (R1-R2, Minor-Moderate) on 16-18 Jul.
+Rationale: Solar activity is expected to be low with moderate levels
+likely (R1-R2, Minor-Moderate) on 17-19 Jul due to the flare potential
+of Regions 4139, 4142, and 4143.
 
 ```
