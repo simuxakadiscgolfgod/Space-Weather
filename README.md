@@ -1,10 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2025-07-17
-<br />**Title of the image:**  3I/ATLAS
-<br />**Description for the image:**  Discovered on July 1 with the NASA-funded ATLAS (Asteroid Terrestrial-impact Last Alert, System) survey telescope in Rio Hurtado, Chile, 3I/ATLAS is so designated as the third known interstellar object to pass through our Solar System It follows 1I/ʻOumuamua in 2017 and the comet 2I/Borisov in 2019.  Also known as C/2025 N1, 3I/ATLAS is clearly a comet, its diffuse cometary coma, a cloud of gas and dust surrounding an icy nucleus, is easily seen in these images from the large Gemini North telescope on Maunakea, Hawai‘i. The left panel tracks the comet as it moves across the sky against fixed background stars in successive exposures. Three different filters were used, shown in red, green, and blue. In the right panel the multiple exposures are registered and combined to form a single image of the comet. The comet's interstellar origin is also clear from its orbit, determined to be an eccentric, highly hyperbolic orbit that does not loop back around the Sun and will return 3I/ATLAS to interstellar space. Not a threat to planet Earth, the inbound interstellar interloper is now within the Jupiter's orbital distance of the Sun, while its closest approach to the Sun will bring it just within the orbital distance of Mars.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2507/noirlab2522a_3i.jpg
+<br />**Date image released:**  2025-07-18
+<br />**This image is owned by:**  A.J. Smadi
+<br />**Title of the image:**  ISS Meets Saturn
+<br />**Description for the image:**  This month, bright planet Saturn rises in evening skies, its rings oriented nearly edge-on when viewed from planet Earth. And in the early morning hours on July 6, it posed very briefly with the International Space Station when viewed from a location in Federal Way, Washington, USA. This well-planned image, a stack of video frames, captures their momentary conjunction in the same telescopic field of view. With the ISS in low Earth orbit, space station and gas giant planet were separated by almost 1.4 billion kilometers. Their apparent sizes are comparable but the ISS was much brighter than Saturn and the ringed planet's brightness has been increased for visibility in the stacked image. Precise timing and an exact location were needed to capture the ISS/Saturn conjunction.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2507/ISSMeetsSaturn3.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -48,57 +49,56 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 Jul 17 0005 UTC
+:Issued: 2025 Jul 18 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Jul 16-Jul 18 2025 is 3.67 (below NOAA
+The greatest expected 3 hr Kp for Jul 18-Jul 20 2025 is 3.67 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Jul 16-Jul 18 2025
+NOAA Kp index breakdown Jul 18-Jul 20 2025
 
-             Jul 16       Jul 17       Jul 18
-00-03UT       3.00         3.00         3.00     
-03-06UT       3.00         2.67         2.67     
-06-09UT       2.67         2.00         2.33     
-09-12UT       3.67         1.67         1.67     
-12-15UT       2.67         2.00         1.33     
-15-18UT       2.00         2.00         1.33     
-18-21UT       2.33         1.67         1.67     
+             Jul 18       Jul 19       Jul 20
+00-03UT       3.33         3.00         1.67     
+03-06UT       3.67         3.00         3.00     
+06-09UT       3.67         2.67         2.67     
+09-12UT       3.33         2.67         1.67     
+12-15UT       2.67         1.67         1.33     
+15-18UT       2.00         1.67         0.67     
+18-21UT       2.33         1.00         1.67     
 21-00UT       2.67         2.00         2.00     
 
-Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
-significant transient or recurrent solar wind features are forecast.
+Rationale: No G1 (Minor) or greater geomagnetic storms are expected.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Jul 16-Jul 18 2025
+Solar Radiation Storm Forecast for Jul 18-Jul 20 2025
 
-              Jul 16  Jul 17  Jul 18
-S1 or greater    1%      1%      1%
+              Jul 18  Jul 19  Jul 20
+S1 or greater   10%     10%     10%
 
-Rationale: No S1 (Minor) or greater solar radiation storms are expected.
-No significant active region activity favorable for radiation storm
-production is forecast.
+Rationale: There exists a slight chance for S1 (Minor) or greater solar
+radiation storms over 18-20 Jul due to several complex regions in the
+Suns western hemisphere.
 
 C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Jul 16-Jul 18 2025
+Radio Blackout Forecast for Jul 18-Jul 20 2025
 
-              Jul 16        Jul 17        Jul 18
+              Jul 18        Jul 19        Jul 20
 R1-R2           60%           60%           60%
-R3 or greater    5%            5%            5%
+R3 or greater   15%           15%           15%
 
-Rationale: Solar activity is expected to be low with moderate levels
-likely (R1-R2, Minor-Moderate) on 17-19 Jul due to the flare potential
-of Regions 4139, 4142, and 4143.
+Rationale: R1-R2 (Minor-Moderate) radio blackouts are likely, with a
+slight chance for R3 (Strong), over 18-20 Jul due to several complex
+regions in the Suns western hemisphere.
 
 ```
