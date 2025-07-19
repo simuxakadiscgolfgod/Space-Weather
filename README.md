@@ -1,11 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2025-07-18
-<br />**This image is owned by:**  A.J. Smadi
-<br />**Title of the image:**  ISS Meets Saturn
-<br />**Description for the image:**  This month, bright planet Saturn rises in evening skies, its rings oriented nearly edge-on when viewed from planet Earth. And in the early morning hours on July 6, it posed very briefly with the International Space Station when viewed from a location in Federal Way, Washington, USA. This well-planned image, a stack of video frames, captures their momentary conjunction in the same telescopic field of view. With the ISS in low Earth orbit, space station and gas giant planet were separated by almost 1.4 billion kilometers. Their apparent sizes are comparable but the ISS was much brighter than Saturn and the ringed planet's brightness has been increased for visibility in the stacked image. Precise timing and an exact location were needed to capture the ISS/Saturn conjunction.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2507/ISSMeetsSaturn3.jpg
+<br />**Date image released:**  2025-07-19
+<br />**This image is owned by:**  Xinran Li
+<br />**Title of the image:**  Messier 6
+<br />**Description for the image:**  The sixth object in Charles Messier's famous catalog of things which are not comets, Messier 6 is a galactic or open star cluster. A gathering of 100 stars or so, all around 100 million years young, M6 lies some 1,600 light-years away toward the central Milky Way in the constellation Scorpius. Also cataloged as NGC 6405, the pretty star cluster's outline suggests its popular moniker, the Butterfly Cluster. Surrounded by diffuse reddish emission from the region's hydrogen gas the cluster's mostly hot and therefore blue stars are near the center of this colorful cosmic snapshot. But the brightest cluster member is a cool K-type giant star. Designated BM Scorpii it shines with a yellow-orange hue, seen near the end of one of the butterfly's antennae. This telescopic field of view spans nearly 2 Full Moons on the sky. That's 25 light-years at the estimated distance of Messier 6.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2507/M6.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,56 +49,55 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 Jul 18 0030 UTC
+:Issued: 2025 Jul 19 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Jul 18-Jul 20 2025 is 3.67 (below NOAA
+The greatest expected 3 hr Kp for Jul 19-Jul 21 2025 is 3.00 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Jul 18-Jul 20 2025
+NOAA Kp index breakdown Jul 19-Jul 21 2025
 
-             Jul 18       Jul 19       Jul 20
-00-03UT       3.33         3.00         1.67     
-03-06UT       3.67         3.00         3.00     
-06-09UT       3.67         2.67         2.67     
-09-12UT       3.33         2.67         1.67     
-12-15UT       2.67         1.67         1.33     
-15-18UT       2.00         1.67         0.67     
-18-21UT       2.33         1.00         1.67     
-21-00UT       2.67         2.00         2.00     
+             Jul 19       Jul 20       Jul 21
+00-03UT       3.00         1.67         1.67     
+03-06UT       3.00         2.00         2.00     
+06-09UT       2.67         1.67         1.67     
+09-12UT       2.67         1.33         1.33     
+12-15UT       1.67         1.00         0.67     
+15-18UT       1.67         0.67         1.33     
+18-21UT       1.00         1.67         1.00     
+21-00UT       2.00         1.67         1.67     
 
-Rationale: No G1 (Minor) or greater geomagnetic storms are expected.
+Rationale: No G1 (Minor) or greater geomagnetic storms are expected. 
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Jul 18-Jul 20 2025
+Solar Radiation Storm Forecast for Jul 19-Jul 21 2025
 
-              Jul 18  Jul 19  Jul 20
+              Jul 19  Jul 20  Jul 21
 S1 or greater   10%     10%     10%
 
-Rationale: There exists a slight chance for S1 (Minor) or greater solar
-radiation storms over 18-20 Jul due to several complex regions in the
-Suns western hemisphere.
+Rationale: There is a slight chance for S1 (Minor) or greater solar
+radiation storms over 19-21 Jul due to multiple active regions in the
+Suns NW quadrant.
 
 C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Jul 18-Jul 20 2025
+Radio Blackout Forecast for Jul 19-Jul 21 2025
 
-              Jul 18        Jul 19        Jul 20
+              Jul 19        Jul 20        Jul 21
 R1-R2           60%           60%           60%
 R3 or greater   15%           15%           15%
 
-Rationale: R1-R2 (Minor-Moderate) radio blackouts are likely, with a
-slight chance for R3 (Strong), over 18-20 Jul due to several complex
-regions in the Suns western hemisphere.
+Rationale: R1-R2 (Minor-Moderate) radio blackouts are likely over 19-21
+Jul due to multiple active regions in the Suns NW quadrant.
 
 ```
