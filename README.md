@@ -1,11 +1,10 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2025-07-19
-<br />**This image is owned by:**  Xinran Li
-<br />**Title of the image:**  Messier 6
-<br />**Description for the image:**  The sixth object in Charles Messier's famous catalog of things which are not comets, Messier 6 is a galactic or open star cluster. A gathering of 100 stars or so, all around 100 million years young, M6 lies some 1,600 light-years away toward the central Milky Way in the constellation Scorpius. Also cataloged as NGC 6405, the pretty star cluster's outline suggests its popular moniker, the Butterfly Cluster. Surrounded by diffuse reddish emission from the region's hydrogen gas the cluster's mostly hot and therefore blue stars are near the center of this colorful cosmic snapshot. But the brightest cluster member is a cool K-type giant star. Designated BM Scorpii it shines with a yellow-orange hue, seen near the end of one of the butterfly's antennae. This telescopic field of view spans nearly 2 Full Moons on the sky. That's 25 light-years at the estimated distance of Messier 6.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2507/M6.jpg
+<br />**Date image released:**  2025-07-20
+<br />**Title of the image:**  Lunar Nearside
+<br />**Description for the image:**  About 1,300 images from the Lunar Reconnaissance Orbiter spacecraft's wide angle camera were used to compose this spectacular view of a familiar face - the lunar nearside. But why is there a lunar nearside? The Moon rotates on its axis and orbits the Earth at the same rate, about once every 28 days. Tidally locked in this configuration, the synchronous rotation always keeps one side, the nearside, facing Earth. As a result, featured in remarkable detail in the full resolution mosaic, the smooth, dark, lunar maria (actually lava-flooded impact basins), and rugged highlands, are well-known to earthbound skygazers. To find your favorite mare or large crater, just follow this link or slide your cursor over the picture. The LRO images used to construct the mosaic were recorded over a two week period in December 2010.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/1103/lroc_wac_nearside.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,55 +48,55 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 Jul 19 0030 UTC
+:Issued: 2025 Jul 20 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Jul 19-Jul 21 2025 is 3.00 (below NOAA
+The greatest expected 3 hr Kp for Jul 20-Jul 22 2025 is 2.00 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Jul 19-Jul 21 2025
+NOAA Kp index breakdown Jul 20-Jul 22 2025
 
-             Jul 19       Jul 20       Jul 21
-00-03UT       3.00         1.67         1.67     
-03-06UT       3.00         2.00         2.00     
-06-09UT       2.67         1.67         1.67     
-09-12UT       2.67         1.33         1.33     
-12-15UT       1.67         1.00         0.67     
-15-18UT       1.67         0.67         1.33     
-18-21UT       1.00         1.67         1.00     
-21-00UT       2.00         1.67         1.67     
+             Jul 20       Jul 21       Jul 22
+00-03UT       1.67         1.67         1.33     
+03-06UT       2.00         2.00         1.67     
+06-09UT       1.67         1.67         1.67     
+09-12UT       1.33         1.33         1.33     
+12-15UT       1.00         0.67         0.67     
+15-18UT       0.67         1.33         1.33     
+18-21UT       1.67         1.00         1.00     
+21-00UT       1.67         1.67         1.67     
 
-Rationale: No G1 (Minor) or greater geomagnetic storms are expected. 
+Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
+significant transient or recurrent solar wind features are forecast.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Jul 19-Jul 21 2025
+Solar Radiation Storm Forecast for Jul 20-Jul 22 2025
 
-              Jul 19  Jul 20  Jul 21
+              Jul 20  Jul 21  Jul 22
 S1 or greater   10%     10%     10%
 
 Rationale: There is a slight chance for S1 (Minor) or greater solar
-radiation storms over 19-21 Jul due to multiple active regions in the
-Suns NW quadrant.
+radiation storms with nine active regions facing Earth.
 
 C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Jul 19-Jul 21 2025
+Radio Blackout Forecast for Jul 20-Jul 22 2025
 
-              Jul 19        Jul 20        Jul 21
-R1-R2           60%           60%           60%
-R3 or greater   15%           15%           15%
+              Jul 20        Jul 21        Jul 22
+R1-R2           40%           40%           40%
+R3 or greater   10%           10%           10%
 
-Rationale: R1-R2 (Minor-Moderate) radio blackouts are likely over 19-21
-Jul due to multiple active regions in the Suns NW quadrant.
+Rationale: There is a chance for R1 (Minor) or greater radio blackouts
+with nine active regions facing Earth.
 
 ```
