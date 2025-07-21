@@ -1,10 +1,10 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2025-07-20
-<br />**Title of the image:**  Lunar Nearside
-<br />**Description for the image:**  About 1,300 images from the Lunar Reconnaissance Orbiter spacecraft's wide angle camera were used to compose this spectacular view of a familiar face - the lunar nearside. But why is there a lunar nearside? The Moon rotates on its axis and orbits the Earth at the same rate, about once every 28 days. Tidally locked in this configuration, the synchronous rotation always keeps one side, the nearside, facing Earth. As a result, featured in remarkable detail in the full resolution mosaic, the smooth, dark, lunar maria (actually lava-flooded impact basins), and rugged highlands, are well-known to earthbound skygazers. To find your favorite mare or large crater, just follow this link or slide your cursor over the picture. The LRO images used to construct the mosaic were recorded over a two week period in December 2010.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/1103/lroc_wac_nearside.jpg
+<br />**Date image released:**  2025-07-21
+<br />**Title of the image:**  Cat's Paw Nebula from Webb Space Telescope
+<br />**Description for the image:**  Nebulas are perhaps as famous for being identified with familiar shapes as perhaps cats are for getting into trouble.  Still, no known cat could have created the vast Cat's Paw Nebula visible toward the constellation of the Scorpion  (Scorpius).  At 5,700 light years distant, Cat's Paw is an emission nebula within a larger molecular cloud.  Alternatively known as the Bear Claw Nebula and cataloged as NGC 6334, stars nearly ten times the mass of our Sun have been born there in only the past few million years. Pictured here is a recently released image of the Cat's Paw taken in infrared light by the James Webb Space Telescope.  This newly detailed view into the nebula helps provide insight for how turbulent molecular clouds turn gas into stars.    Explore Your Universe: Random APOD Generator
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2507/CatsPaw_Webb_1822.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -48,27 +48,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 Jul 20 0030 UTC
+:Issued: 2025 Jul 21 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Jul 20-Jul 22 2025 is 2.00 (below NOAA
+The greatest expected 3 hr Kp for Jul 21-Jul 23 2025 is 3.67 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Jul 20-Jul 22 2025
+NOAA Kp index breakdown Jul 21-Jul 23 2025
 
-             Jul 20       Jul 21       Jul 22
-00-03UT       1.67         1.67         1.33     
-03-06UT       2.00         2.00         1.67     
-06-09UT       1.67         1.67         1.67     
-09-12UT       1.33         1.33         1.33     
-12-15UT       1.00         0.67         0.67     
-15-18UT       0.67         1.33         1.33     
-18-21UT       1.67         1.00         1.00     
-21-00UT       1.67         1.67         1.67     
+             Jul 21       Jul 22       Jul 23
+00-03UT       1.67         1.33         2.67     
+03-06UT       2.00         1.67         2.67     
+06-09UT       1.67         1.67         3.00     
+09-12UT       1.33         1.33         3.67     
+12-15UT       0.67         0.67         2.67     
+15-18UT       1.33         1.33         2.67     
+18-21UT       1.00         1.00         2.67     
+21-00UT       1.67         1.67         3.67     
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
 significant transient or recurrent solar wind features are forecast.
@@ -78,25 +78,25 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Jul 20-Jul 22 2025
+Solar Radiation Storm Forecast for Jul 21-Jul 23 2025
 
-              Jul 20  Jul 21  Jul 22
+              Jul 21  Jul 22  Jul 23
 S1 or greater   10%     10%     10%
 
 Rationale: There is a slight chance for S1 (Minor) or greater solar
-radiation storms with nine active regions facing Earth.
+radiation storms for the next three days.
 
 C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Jul 20-Jul 22 2025
+Radio Blackout Forecast for Jul 21-Jul 23 2025
 
-              Jul 20        Jul 21        Jul 22
+              Jul 21        Jul 22        Jul 23
 R1-R2           40%           40%           40%
 R3 or greater   10%           10%           10%
 
-Rationale: There is a chance for R1 (Minor) or greater radio blackouts
-with nine active regions facing Earth.
+Rationale: There is a chance for R1-R2 (Minor-Moderate) or greater radio
+blackouts all three days.
 
 ```
