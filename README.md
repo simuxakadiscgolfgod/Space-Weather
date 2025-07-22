@@ -1,10 +1,10 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2025-07-21
-<br />**Title of the image:**  Cat's Paw Nebula from Webb Space Telescope
-<br />**Description for the image:**  Nebulas are perhaps as famous for being identified with familiar shapes as perhaps cats are for getting into trouble.  Still, no known cat could have created the vast Cat's Paw Nebula visible toward the constellation of the Scorpion  (Scorpius).  At 5,700 light years distant, Cat's Paw is an emission nebula within a larger molecular cloud.  Alternatively known as the Bear Claw Nebula and cataloged as NGC 6334, stars nearly ten times the mass of our Sun have been born there in only the past few million years. Pictured here is a recently released image of the Cat's Paw taken in infrared light by the James Webb Space Telescope.  This newly detailed view into the nebula helps provide insight for how turbulent molecular clouds turn gas into stars.    Explore Your Universe: Random APOD Generator
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2507/CatsPaw_Webb_1822.jpg
+<br />**Date image released:**  2025-07-22
+<br />**Title of the image:**  A Double Detonation Supernova
+<br />**Description for the image:**  Can some supernovas explode twice? Yes, when the first explosion acts like a detonator for the second. This is a leading hypothesis for the cause of supernova remnant (SNR) 0509-67.5.  In this two-star system, gravity causes the larger and fluffier star to give up mass to a smaller and denser white dwarf companion. Eventually the white dwarf's near-surface temperature goes so high that it explodes, creating a shock wave that goes both out and in -- and so triggers a full Type Ia supernova near the center. Recent images of the SNR 0509-67.5 system, like the featured image from the Very Large Telescope in Chile, show two shells with radii and compositions consistent with the double detonation hypothesis. This system, SNR 0509-67.5 is also famous for two standing mysteries: why its bright supernova wasn't noted 400 years ago, and why no visible companion star remains.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2507/DoubleSN_ESO_3000.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -48,55 +48,58 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 Jul 21 0030 UTC
+:Issued: 2025 Jul 22 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Jul 21-Jul 23 2025 is 3.67 (below NOAA
-Scale levels).
+The greatest expected 3 hr Kp for Jul 22-Jul 24 2025 is 5.00 (NOAA Scale
+G1).
 
-NOAA Kp index breakdown Jul 21-Jul 23 2025
+NOAA Kp index breakdown Jul 22-Jul 24 2025
 
-             Jul 21       Jul 22       Jul 23
-00-03UT       1.67         1.33         2.67     
-03-06UT       2.00         1.67         2.67     
-06-09UT       1.67         1.67         3.00     
-09-12UT       1.33         1.33         3.67     
-12-15UT       0.67         0.67         2.67     
-15-18UT       1.33         1.33         2.67     
-18-21UT       1.00         1.00         2.67     
-21-00UT       1.67         1.67         3.67     
+             Jul 22       Jul 23       Jul 24
+00-03UT       1.67         4.33         4.00     
+03-06UT       1.67         5.00 (G1)    3.67     
+06-09UT       1.67         4.67 (G1)    3.33     
+09-12UT       2.00         3.67         2.33     
+12-15UT       2.33         2.33         2.00     
+15-18UT       3.00         2.67         2.33     
+18-21UT       3.33         2.67         2.67     
+21-00UT       4.00         3.67         3.00     
 
-Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
-significant transient or recurrent solar wind features are forecast.
+Rationale: G1 (Minor) geomagnetic storm levels are likely on 23 Jul due
+to CH HSS onset.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Jul 21-Jul 23 2025
+Solar Radiation Storm Forecast for Jul 22-Jul 24 2025
 
-              Jul 21  Jul 22  Jul 23
-S1 or greater   10%     10%     10%
+              Jul 22  Jul 23  Jul 24
+S1 or greater   10%      1%      1%
 
-Rationale: There is a slight chance for S1 (Minor) or greater solar
-radiation storms for the next three days.
+Rationale: There is a slight chance for the greater than 10 MeV
+proton flux to reach S1 (Minor) solar radiation storm levels through 22
+Jul.
 
 C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Jul 21-Jul 23 2025
+Radio Blackout Forecast for Jul 22-Jul 24 2025
 
-              Jul 21        Jul 22        Jul 23
-R1-R2           40%           40%           40%
-R3 or greater   10%           10%           10%
+              Jul 22        Jul 23        Jul 24
+R1-R2           40%           35%           30%
+R3 or greater   10%            5%            5%
 
-Rationale: There is a chance for R1-R2 (Minor-Moderate) or greater radio
-blackouts all three days.
+Rationale: Solar activity is expected to be low with a chance for
+M-class flares (R1-R2/Minor-Moderate) through 24 Jul with a slight
+chance for an isolated X-class flare (R3-Strong) on 22 Jul as Regions
+4136 and 4143 rotate beyond the western limb.
 
 ```
