@@ -1,11 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2025-07-24
-<br />**This image is owned by:**  Every 15 years or so
-<br />**Title of the image:**  Titan Shadow Transit
-<br />**Description for the image:**  very 15 years or so, Saturn's rings are tilted edge-on to our line of sight. As the bright, beautiful ring system grows narrower and fainter it becomes increasingly difficult to see for denizens of planet Earth. But it does provide the opportunity to watch transits of Saturn's moons and their dark shadows across the ringed gas giant's still bright disk. Of course Saturn's largest moon Titan is the easiest to spot in transit. In this telescopic snapshot from July 18, Titan itself is at the upper left, casting a round dark shadow on Saturn's banded cloudtops above the narrow rings. In fact Titan's transit season is in full swing now with shadow transits every 16 days corresponding to the moon's orbital period. Its final shadow transit will be on October 6, though Titan's pale disk will continue to cross in front of Saturn as seen from telescopes on planet Earth every 16 days through January 25, 2026.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2507/SaturnJuly18_2025TitanShadowTransit1200.png
+<br />**Date image released:**  2025-07-25
+<br />**This image is owned by:**  Petr Horálek
+<br />**Title of the image:**  Twelve Years of Kappa Cygnids
+<br />**Description for the image:**  Meteors from the Kappa Cygnid meteor shower are captured in this time-lapse composite skyscape. The minor meteor shower, with a radiant not far from its eponymous star Kappa Cygni, peaks in mid-August, almost at the same time as the much better-known and better-observed Perseid meteor shower. But, seen to have a peak rate of only about 3 meteors per hour, Kappa Cygnids are vastly outnumbered by the more popular, prolific Perseid shower's meteors that emanate from the heroic constellation Perseus. To capture dozens of Kappa Cygnids, this long term astro-imaging project compiled meteors in exposures selected from over 51 August nights during the years 2012 through 2024. Most of the exposures with identified Kappa Cygnid meteors were made in August 2021, a high point of the shower's known 7-year activity cycle. All twelve years worth of Kappa Cygnids are registered against a base sea and night skyscape of the Milky Way above Elafonisi Beach, Crete, Greece, also recorded in August of 2021.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2507/KCG2021_08_11_Pano_Elafonisi_met_fin-CCMZ_1500px.png
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,39 +49,39 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 Jul 24 0030 UTC
+:Issued: 2025 Jul 25 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 5 (NOAA Scale
+The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
+Scale levels).
+The greatest expected 3 hr Kp for Jul 25-Jul 27 2025 is 5.00 (NOAA Scale
 G1).
-The greatest expected 3 hr Kp for Jul 24-Jul 26 2025 is 4.67 (NOAA Scale
-G1).
 
-NOAA Kp index breakdown Jul 24-Jul 26 2025
+NOAA Kp index breakdown Jul 25-Jul 27 2025
 
-             Jul 24       Jul 25       Jul 26
-00-03UT       4.67 (G1)    3.67         2.33     
-03-06UT       4.00         3.00         1.67     
-06-09UT       3.67         2.67         1.33     
-09-12UT       3.33         2.33         1.33     
-12-15UT       2.33         2.00         1.00     
-15-18UT       2.67         2.33         1.33     
-18-21UT       3.00         2.33         1.33     
-21-00UT       3.00         2.67         1.67     
+             Jul 25       Jul 26       Jul 27
+00-03UT       3.67         2.33         2.00     
+03-06UT       3.00         1.67         2.00     
+06-09UT       2.67         1.33         3.67     
+09-12UT       2.33         1.33         5.00 (G1)
+12-15UT       2.00         1.00         4.00     
+15-18UT       2.33         1.33         3.33     
+18-21UT       2.33         1.33         3.00     
+21-00UT       2.67         1.67         3.33     
 
-Rationale: G1 (Minor) geomagnetic storm levels are likely on 24 Jul due
-to persistent CH HSS activity.
+Rationale: G1 (Minor) geomagnetic storm levels are likely on 27 Jul due
+to potential CME activity.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Jul 24-Jul 26 2025
+Solar Radiation Storm Forecast for Jul 25-Jul 27 2025
 
-              Jul 24  Jul 25  Jul 26
+              Jul 25  Jul 26  Jul 27
 S1 or greater    1%      1%      1%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -92,13 +92,13 @@ C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Jul 24-Jul 26 2025
+Radio Blackout Forecast for Jul 25-Jul 27 2025
 
-              Jul 24        Jul 25        Jul 26
-R1-R2           30%           30%           30%
+              Jul 25        Jul 26        Jul 27
+R1-R2           40%           40%           40%
 R3 or greater    5%            5%            5%
 
 Rationale: Solar activity is expected to be low with a chance for
-M-class flares (R1-R2/Minor-Moderate) through 26 July.
+M-class flares (R1-R2/Minor-Moderate) through 27 July.
 
 ```
