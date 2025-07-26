@@ -1,11 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2025-07-25
-<br />**This image is owned by:**  Petr Horálek
-<br />**Title of the image:**  Twelve Years of Kappa Cygnids
-<br />**Description for the image:**  Meteors from the Kappa Cygnid meteor shower are captured in this time-lapse composite skyscape. The minor meteor shower, with a radiant not far from its eponymous star Kappa Cygni, peaks in mid-August, almost at the same time as the much better-known and better-observed Perseid meteor shower. But, seen to have a peak rate of only about 3 meteors per hour, Kappa Cygnids are vastly outnumbered by the more popular, prolific Perseid shower's meteors that emanate from the heroic constellation Perseus. To capture dozens of Kappa Cygnids, this long term astro-imaging project compiled meteors in exposures selected from over 51 August nights during the years 2012 through 2024. Most of the exposures with identified Kappa Cygnid meteors were made in August 2021, a high point of the shower's known 7-year activity cycle. All twelve years worth of Kappa Cygnids are registered against a base sea and night skyscape of the Milky Way above Elafonisi Beach, Crete, Greece, also recorded in August of 2021.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2507/KCG2021_08_11_Pano_Elafonisi_met_fin-CCMZ_1500px.png
+<br />**Date image released:**  2025-07-26
+<br />**This image is owned by:**  Leo Shatz
+<br />**Title of the image:**  Globular Cluster Omega Centauri
+<br />**Description for the image:**  Globular star cluster Omega Centauri packs about 10 million stars much older than the Sun into a volume some 150 light-years in diameter. Also known as NGC 5139, at a distance of 15,000 light-years it's the largest and brightest of 200 or so known globular clusters that roam the halo of our Milky Way galaxy. Though most star clusters consist of stars with the same age and composition, the enigmatic Omega Cen exhibits the presence of different stellar populations with a spread of ages and chemical abundances. In fact, Omega Cen may be the remnant core of a small galaxy merging with the Milky Way. With a yellowish hue, Omega Centauri's red giant stars are easy to pick out in this sharp telescopic view.  A two-decade-long exploration of the dense star cluster with the Hubble Space Telescope has revealed evidence for a massive black hole near the center of Omega Centauri.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2507/oc_ls_2025.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,27 +49,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 Jul 25 0030 UTC
+:Issued: 2025 Jul 26 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Jul 25-Jul 27 2025 is 5.00 (NOAA Scale
+The greatest expected 3 hr Kp for Jul 26-Jul 28 2025 is 5.00 (NOAA Scale
 G1).
 
-NOAA Kp index breakdown Jul 25-Jul 27 2025
+NOAA Kp index breakdown Jul 26-Jul 28 2025
 
-             Jul 25       Jul 26       Jul 27
-00-03UT       3.67         2.33         2.00     
-03-06UT       3.00         1.67         2.00     
-06-09UT       2.67         1.33         3.67     
-09-12UT       2.33         1.33         5.00 (G1)
-12-15UT       2.00         1.00         4.00     
-15-18UT       2.33         1.33         3.33     
-18-21UT       2.33         1.33         3.00     
-21-00UT       2.67         1.67         3.33     
+             Jul 26       Jul 27       Jul 28
+00-03UT       2.33         2.00         3.00     
+03-06UT       1.67         2.00         2.00     
+06-09UT       1.33         3.67         2.00     
+09-12UT       1.33         5.00 (G1)    2.67     
+12-15UT       1.00         4.00         2.67     
+15-18UT       1.33         3.33         2.67     
+18-21UT       1.33         3.00         2.67     
+21-00UT       1.67         3.33         3.00     
 
 Rationale: G1 (Minor) geomagnetic storm levels are likely on 27 Jul due
 to potential CME activity.
@@ -79,9 +79,9 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Jul 25-Jul 27 2025
+Solar Radiation Storm Forecast for Jul 26-Jul 28 2025
 
-              Jul 25  Jul 26  Jul 27
+              Jul 26  Jul 27  Jul 28
 S1 or greater    1%      1%      1%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -92,13 +92,13 @@ C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Jul 25-Jul 27 2025
+Radio Blackout Forecast for Jul 26-Jul 28 2025
 
-              Jul 25        Jul 26        Jul 27
+              Jul 26        Jul 27        Jul 28
 R1-R2           40%           40%           40%
 R3 or greater    5%            5%            5%
 
 Rationale: Solar activity is expected to be low with a chance for
-M-class flares (R1-R2/Minor-Moderate) through 27 July.
+M-class flares (R1-R2/Minor-Moderate) through 28 July.
 
 ```
