@@ -1,11 +1,10 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2025-07-26
-<br />**This image is owned by:**  Leo Shatz
-<br />**Title of the image:**  Globular Cluster Omega Centauri
-<br />**Description for the image:**  Globular star cluster Omega Centauri packs about 10 million stars much older than the Sun into a volume some 150 light-years in diameter. Also known as NGC 5139, at a distance of 15,000 light-years it's the largest and brightest of 200 or so known globular clusters that roam the halo of our Milky Way galaxy. Though most star clusters consist of stars with the same age and composition, the enigmatic Omega Cen exhibits the presence of different stellar populations with a spread of ages and chemical abundances. In fact, Omega Cen may be the remnant core of a small galaxy merging with the Milky Way. With a yellowish hue, Omega Centauri's red giant stars are easy to pick out in this sharp telescopic view.  A two-decade-long exploration of the dense star cluster with the Hubble Space Telescope has revealed evidence for a massive black hole near the center of Omega Centauri.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2507/oc_ls_2025.jpg
+<br />**Date image released:**  2025-07-27
+<br />**Title of the image:**  Lightning over the Volcano of Water
+<br />**Description for the image:**  Have you ever watched a lightning storm in awe?  You're not alone. Details of what causes lightning are still being researched, but it is known that inside some clouds, internal updrafts cause collisions between ice and snow that slowly separate charges between cloud tops and bottoms. The rapid electrical discharges that are lightning soon result.  Lightning usually takes a jagged course, rapidly heating a thin column of air to about three times the surface temperature of the Sun.  The resulting shock wave starts supersonically and decays into the loud sound known as thunder.  On average, around the world, about 6,000 lightning bolts occur between clouds and the Earth every minute. Pictured in July 2019 in a two-image composite, lightning stems from communication antennas near the top of Volcán de Agua (Volcano of Water) in Guatemala.  Sky Surprise: What picture did APOD feature on your birthday? (post 1995)
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2507/LightningVolcano_Montufar_3000.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,39 +48,39 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 Jul 26 0030 UTC
+:Issued: 2025 Jul 27 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Jul 26-Jul 28 2025 is 5.00 (NOAA Scale
+The greatest expected 3 hr Kp for Jul 27-Jul 29 2025 is 5.00 (NOAA Scale
 G1).
 
-NOAA Kp index breakdown Jul 26-Jul 28 2025
+NOAA Kp index breakdown Jul 27-Jul 29 2025
 
-             Jul 26       Jul 27       Jul 28
-00-03UT       2.33         2.00         3.00     
-03-06UT       1.67         2.00         2.00     
-06-09UT       1.33         3.67         2.00     
-09-12UT       1.33         5.00 (G1)    2.67     
-12-15UT       1.00         4.00         2.67     
-15-18UT       1.33         3.33         2.67     
-18-21UT       1.33         3.00         2.67     
-21-00UT       1.67         3.33         3.00     
+             Jul 27       Jul 28       Jul 29
+00-03UT       2.00         3.00         1.67     
+03-06UT       2.00         3.00         1.33     
+06-09UT       3.67         3.00         1.33     
+09-12UT       5.00 (G1)    2.67         1.33     
+12-15UT       4.00         2.67         1.33     
+15-18UT       3.33         2.67         1.33     
+18-21UT       3.00         2.33         1.67     
+21-00UT       3.33         2.00         1.67     
 
-Rationale: G1 (Minor) geomagnetic storm levels are likely on 27 Jul due
-to potential CME activity.
+Rationale: G1 (Minor) geomagnetic storms are are likely on 27 Jun due to
+anticipated passage of a CME that left the Sun on 23 Jul.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Jul 26-Jul 28 2025
+Solar Radiation Storm Forecast for Jul 27-Jul 29 2025
 
-              Jul 26  Jul 27  Jul 28
+              Jul 27  Jul 28  Jul 29
 S1 or greater    1%      1%      1%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -92,13 +91,13 @@ C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Jul 26-Jul 28 2025
+Radio Blackout Forecast for Jul 27-Jul 29 2025
 
-              Jul 26        Jul 27        Jul 28
+              Jul 27        Jul 28        Jul 29
 R1-R2           40%           40%           40%
 R3 or greater    5%            5%            5%
 
-Rationale: Solar activity is expected to be low with a chance for
-M-class flares (R1-R2/Minor-Moderate) through 28 July.
+Rationale: There exists a chance for R1-R2 (Minor-Moderate) radio
+blackouts over 27-29 Jul.
 
 ```
