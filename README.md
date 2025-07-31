@@ -1,13 +1,10 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2025-07-30
-<br />**This image is owned by:**  
-Andrea Vanoni
-
-<br />**Title of the image:**  Coronal Loops on the Sun
-<br />**Description for the image:**  Our Sun frequently erupts in loops.  Hot solar plasma jumps off the Sun's surface into prominences, with the most common type of prominence being a simple loop.  The loop shape originates from the Sun's magnetic field, which is traced by spiraling electrons and protons.  Many loops into the Sun's lower corona are large enough to envelop the Earth and are stable enough to last days.  They commonly occur near active regions that also include dark sunspots.  The featured panel shows four loops, each of which was captured near the Sun's edge during 2024 and 2025. The images were taken by a personal telescope in Mantova, Italy and in a very specific color of light emitted primarily by hydrogen. Some solar prominences suddenly break open and eject particles into the Solar System, setting up a space weather sequence that can affect the skies and wires of Earth.    Jigsaw Universe: Astronomy Puzzle of the Day
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2507/SunLoops_Vanoni_1223.jpg
+<br />**Date image released:**  2025-07-31
+<br />**Title of the image:**  Supernova 2025rbs in NGC 7331
+<br />**Description for the image:**  A long time ago in a galaxy 50 million light-years away, a star exploded. Light from that supernova was first detected by telescopes on planet Earth on July 14th though, and the extragalactic transient is now known to astronomers as supernova 2025rbs. Presently the brightest supernova in planet Earth's sky, 2025rbs is a Type Ia supernova, likely caused by the thermonuclear detonation of a white dwarf star that accreted material from a companion in a binary star system.  Type Ia supernovae are used as standard candles to establish the distance scale of the universe. The host galaxy of 2025rbs is NGC 7331. Itself a bright spiral galaxy in the northern constellation Pegasus, NGC 7331 is often touted as an analog to our own Milky Way.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2507/2025rbsAnnotated1024.png
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -51,27 +48,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 Jul 30 0030 UTC
+:Issued: 2025 Jul 31 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Jul 30-Aug 01 2025 is 4.00 (below NOAA
+The greatest expected 3 hr Kp for Jul 31-Aug 02 2025 is 4.00 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Jul 30-Aug 01 2025
+NOAA Kp index breakdown Jul 31-Aug 02 2025
 
-             Jul 30       Jul 31       Aug 01
-00-03UT       2.00         3.67         2.33     
-03-06UT       1.67         3.00         2.67     
-06-09UT       2.33         2.67         2.33     
-09-12UT       2.00         2.00         2.00     
-12-15UT       2.00         2.33         2.00     
-15-18UT       2.67         2.33         1.67     
-18-21UT       3.67         2.67         2.00     
-21-00UT       4.00         2.67         2.33     
+             Jul 31       Aug 01       Aug 02
+00-03UT       4.00         2.33         1.67     
+03-06UT       3.67         2.67         3.00     
+06-09UT       3.00         2.33         2.67     
+09-12UT       2.33         2.00         2.33     
+12-15UT       2.00         2.00         2.00     
+15-18UT       2.33         1.67         1.33     
+18-21UT       2.67         2.00         1.33     
+21-00UT       2.67         2.33         1.67     
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
 significant transient or recurrent solar wind features are forecast.
@@ -81,9 +78,9 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Jul 30-Aug 01 2025
+Solar Radiation Storm Forecast for Jul 31-Aug 02 2025
 
-              Jul 30  Jul 31  Aug 01
+              Jul 31  Aug 01  Aug 02
 S1 or greater    1%      1%      1%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -94,13 +91,13 @@ C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Jul 30-Aug 01 2025
+Radio Blackout Forecast for Jul 31-Aug 02 2025
 
-              Jul 30        Jul 31        Aug 01
+              Jul 31        Aug 01        Aug 02
 R1-R2           30%           30%           30%
 R3 or greater    5%            5%            5%
 
-Rationale: Solar activity is likely to be low with a chance for M-class
-flares (R1-R2/Minor-Moderate) through 01 Aug.
+Rationale: Solar activity is expected to be low with a chance for
+M-class flares (R1-R2/Minor-Moderate) through 02 Aug.
 
 ```
