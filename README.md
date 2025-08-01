@@ -1,10 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2025-07-31
-<br />**Title of the image:**  Supernova 2025rbs in NGC 7331
-<br />**Description for the image:**  A long time ago in a galaxy 50 million light-years away, a star exploded. Light from that supernova was first detected by telescopes on planet Earth on July 14th though, and the extragalactic transient is now known to astronomers as supernova 2025rbs. Presently the brightest supernova in planet Earth's sky, 2025rbs is a Type Ia supernova, likely caused by the thermonuclear detonation of a white dwarf star that accreted material from a companion in a binary star system.  Type Ia supernovae are used as standard candles to establish the distance scale of the universe. The host galaxy of 2025rbs is NGC 7331. Itself a bright spiral galaxy in the northern constellation Pegasus, NGC 7331 is often touted as an analog to our own Milky Way.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2507/2025rbsAnnotated1024.png
+<br />**Date image released:**  2025-08-01
+<br />**This image is owned by:**  Peter Bresseler
+<br />**Title of the image:**  Small Dark Nebula
+<br />**Description for the image:**  A small, dark, nebula looks isolated near the center of this telescopic close-up. The wedge-shaped cosmic cloudlet lies within a relatively crowded region of space though. About 7,000 light-years distant and filled with glowing gas and an embedded cluster of young stars, the region is known as M16 or the Eagle Nebula. Hubble's iconic images of the Eagle Nebula include the famous star-forming Pillars of Creation, towering structures of interstellar gas and dust 4 to 5 light-years long. But this small dark nebula, known to some as a Bok globule, is a fraction of a light-year across. The Bok globule stands out in silhouette against the expansive background of M16's diffuse glow. Found scattered within emission nebulae and star clusters, Bok globules are small interstellar clouds of cold molecular gas and obscuring dust that also form stars within their dense, collapsing cores.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2508/BokGlobule_1.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -48,27 +49,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 Jul 31 0030 UTC
+:Issued: 2025 Aug 01 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Jul 31-Aug 02 2025 is 4.00 (below NOAA
+The greatest expected 3 hr Kp for Aug 01-Aug 03 2025 is 3.00 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Jul 31-Aug 02 2025
+NOAA Kp index breakdown Aug 01-Aug 03 2025
 
-             Jul 31       Aug 01       Aug 02
-00-03UT       4.00         2.33         1.67     
-03-06UT       3.67         2.67         3.00     
-06-09UT       3.00         2.33         2.67     
-09-12UT       2.33         2.00         2.33     
-12-15UT       2.00         2.00         2.00     
-15-18UT       2.33         1.67         1.33     
-18-21UT       2.67         2.00         1.33     
-21-00UT       2.67         2.33         1.67     
+             Aug 01       Aug 02       Aug 03
+00-03UT       2.00         1.67         1.67     
+03-06UT       2.00         3.00         1.33     
+06-09UT       2.67         2.67         1.33     
+09-12UT       2.33         2.33         1.33     
+12-15UT       1.33         2.00         1.33     
+15-18UT       1.67         1.33         1.33     
+18-21UT       2.00         1.33         1.67     
+21-00UT       2.33         1.67         1.67     
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
 significant transient or recurrent solar wind features are forecast.
@@ -78,9 +79,9 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Jul 31-Aug 02 2025
+Solar Radiation Storm Forecast for Aug 01-Aug 03 2025
 
-              Jul 31  Aug 01  Aug 02
+              Aug 01  Aug 02  Aug 03
 S1 or greater    1%      1%      1%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -91,13 +92,13 @@ C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Jul 31-Aug 02 2025
+Radio Blackout Forecast for Aug 01-Aug 03 2025
 
-              Jul 31        Aug 01        Aug 02
+              Aug 01        Aug 02        Aug 03
 R1-R2           30%           30%           30%
 R3 or greater    5%            5%            5%
 
-Rationale: Solar activity is expected to be low with a chance for
-M-class flares (R1-R2/Minor-Moderate) through 02 Aug.
+Rationale: There is a chance for R1-R2 (Minor-Moderate) radio blackouts
+all three days.
 
 ```
