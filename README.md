@@ -1,11 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2025-08-01
-<br />**This image is owned by:**  Peter Bresseler
-<br />**Title of the image:**  Small Dark Nebula
-<br />**Description for the image:**  A small, dark, nebula looks isolated near the center of this telescopic close-up. The wedge-shaped cosmic cloudlet lies within a relatively crowded region of space though. About 7,000 light-years distant and filled with glowing gas and an embedded cluster of young stars, the region is known as M16 or the Eagle Nebula. Hubble's iconic images of the Eagle Nebula include the famous star-forming Pillars of Creation, towering structures of interstellar gas and dust 4 to 5 light-years long. But this small dark nebula, known to some as a Bok globule, is a fraction of a light-year across. The Bok globule stands out in silhouette against the expansive background of M16's diffuse glow. Found scattered within emission nebulae and star clusters, Bok globules are small interstellar clouds of cold molecular gas and obscuring dust that also form stars within their dense, collapsing cores.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2508/BokGlobule_1.jpg
+<br />**Date image released:**  2025-08-02
+<br />**This image is owned by:**  Daniel Korona
+<br />**Title of the image:**  Fireflies, Meteors, and Milky Way
+<br />**Description for the image:**  Taken on July 29 and July 30, a registered and stacked series of exposures creates this dreamlike view of a northern summer night. Multiple firefly flashes streak across the foreground as the luminous Milky Way arcs above the horizon in the Sierra de Órganos national park of central Mexico, The collection of bright streaks aligned across the sky toward the upper left in the timelapse image are Delta Aquariid meteors. Currently active, the annual Delta Aquarid meteor shower shares August nights though, overlapping with the better-known Perseid meteor shower. This year that makes post-midnight, mostly moonless skies in early August very popular with late night skygazers. How can you tell a Delta Aquariid from a Perseid meteor?  The streaks of Perseid meteors can be traced back to an apparent radiant in the constellation Perseus. Delta Aquariids appear to emerge from the more southerly constellation Aquarius, beyond the top left of this frame. Of course, the bioluminescent flashes of fireflies are common too on these northern summer nights. But how can you tell a firefly from a meteor? Just try to catch one.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2508/DeltaAqrFireflies.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,27 +49,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 Aug 01 0030 UTC
+:Issued: 2025 Aug 02 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Aug 01-Aug 03 2025 is 3.00 (below NOAA
+The greatest expected 3 hr Kp for Aug 02-Aug 04 2025 is 3.67 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Aug 01-Aug 03 2025
+NOAA Kp index breakdown Aug 02-Aug 04 2025
 
-             Aug 01       Aug 02       Aug 03
-00-03UT       2.00         1.67         1.67     
-03-06UT       2.00         3.00         1.33     
-06-09UT       2.67         2.67         1.33     
-09-12UT       2.33         2.33         1.33     
-12-15UT       1.33         2.00         1.33     
-15-18UT       1.67         1.33         1.33     
-18-21UT       2.00         1.33         1.67     
-21-00UT       2.33         1.67         1.67     
+             Aug 02       Aug 03       Aug 04
+00-03UT       3.67         1.67         1.67     
+03-06UT       2.67         1.33         1.67     
+06-09UT       2.33         1.33         1.67     
+09-12UT       2.00         1.33         1.33     
+12-15UT       2.00         1.33         1.33     
+15-18UT       2.00         1.33         1.33     
+18-21UT       2.00         1.67         1.33     
+21-00UT       2.00         1.67         1.33     
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
 significant transient or recurrent solar wind features are forecast.
@@ -79,9 +79,9 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Aug 01-Aug 03 2025
+Solar Radiation Storm Forecast for Aug 02-Aug 04 2025
 
-              Aug 01  Aug 02  Aug 03
+              Aug 02  Aug 03  Aug 04
 S1 or greater    1%      1%      1%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -92,13 +92,13 @@ C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Aug 01-Aug 03 2025
+Radio Blackout Forecast for Aug 02-Aug 04 2025
 
-              Aug 01        Aug 02        Aug 03
+              Aug 02        Aug 03        Aug 04
 R1-R2           30%           30%           30%
 R3 or greater    5%            5%            5%
 
-Rationale: There is a chance for R1-R2 (Minor-Moderate) radio blackouts
-all three days.
+Rationale: There exists a chance for R1-R2 (Minor-Moderate) radio
+blackouts over 02-04 Aug.
 
 ```
