@@ -1,14 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2025-08-06
-<br />**This image is owned by:**  
-Fritz
-Helmut Hemmerich
-
-<br />**Title of the image:**  Meteor before Galaxy
-<br />**Description for the image:**  What's that green streak in front of the Andromeda galaxy? A meteor. While photographing the Andromeda galaxy in 2016, near the peak of the Perseid Meteor Shower, a small pebble from deep space crossed right in front of our Milky Way Galaxy's far-distant companion. The small meteor took only a fraction of a second to pass through this 10-degree field.  The meteor flared several times while braking violently upon entering Earth's atmosphere.  The green color was created, at least in part, by the meteor's gas glowing as it vaporized. Although the exposure was timed to catch a Perseid meteor, the orientation of the imaged streak seems a better match to a meteor from the Southern Delta Aquariids, a meteor shower that peaked a few weeks earlier.  Not coincidentally, the Perseid Meteor Shower peaks next week, although this year the meteors will have to outshine a sky brightened by a nearly full moon.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2508/MeteorM31_hemmerich_1948.jpg
+<br />**Date image released:**  2025-08-07
+<br />**This image is owned by:**  Ron Brecher
+<br />**Title of the image:**  The Double Cluster in Perseus
+<br />**Description for the image:**  This stunning starfield spans about three full moons (1.5 degrees) across the heroic northern constellation of Perseus. It holds the famous pair of open star clusters, h and Chi Persei. Also cataloged as NGC 869 (right) and NGC 884, both clusters are about 7,000 light-years away and contain stars much younger and hotter than the Sun.  Separated by only a few hundred light-years, the clusters are both 13 million years young based on the ages of their individual stars, evidence that both clusters were likely a product of the same star-forming region. Always a rewarding sight in binoculars or small telescopes, the Double Cluster is even visible to the unaided eye from dark locations.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2508/DoubleClusterBrechersmall.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -52,39 +49,39 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 Aug 06 0030 UTC
+:Issued: 2025 Aug 07 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Aug 06-Aug 08 2025 is 2.67 (below NOAA
-Scale levels).
+The greatest expected 3 hr Kp for Aug 07-Aug 09 2025 is 6.00 (NOAA Scale
+G2).
 
-NOAA Kp index breakdown Aug 06-Aug 08 2025
+NOAA Kp index breakdown Aug 07-Aug 09 2025
 
-             Aug 06       Aug 07       Aug 08
-00-03UT       2.33         1.33         1.67     
-03-06UT       2.67         1.33         1.33     
-06-09UT       2.00         1.33         1.33     
-09-12UT       2.00         1.67         1.33     
-12-15UT       2.00         1.33         1.33     
-15-18UT       2.00         1.33         1.33     
-18-21UT       2.00         1.67         1.67     
-21-00UT       2.00         1.67         1.67     
+             Aug 07       Aug 08       Aug 09
+00-03UT       1.33         4.67 (G1)    5.00 (G1)
+03-06UT       2.00         6.00 (G2)    4.33     
+06-09UT       1.33         4.33         3.67     
+09-12UT       2.33         3.67         4.00     
+12-15UT       2.33         3.00         3.00     
+15-18UT       2.33         3.33         3.33     
+18-21UT       2.67         3.67         3.67     
+21-00UT       4.33         4.00         4.00     
 
-Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
-significant transient or recurrent solar wind features are forecast.
+Rationale: G1-G2 (Minor-Moderate) geomagnetic storms are likely on 08-09
+Aug due to influences from a CME that left the Sun on 05 Aug.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Aug 06-Aug 08 2025
+Solar Radiation Storm Forecast for Aug 07-Aug 09 2025
 
-              Aug 06  Aug 07  Aug 08
+              Aug 07  Aug 08  Aug 09
 S1 or greater    5%      5%      5%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -94,16 +91,15 @@ production is forecast.
 C. NOAA Radio Blackout Activity and Forecast
 
 Radio blackouts reaching the R1 levels were observed over the past 24
-hours. The largest was at Aug 05 2025 1553 UTC.
+hours. The largest was at Aug 06 2025 1702 UTC.
 
-Radio Blackout Forecast for Aug 06-Aug 08 2025
+Radio Blackout Forecast for Aug 07-Aug 09 2025
 
-              Aug 06        Aug 07        Aug 08
-R1-R2           50%           50%           50%
+              Aug 07        Aug 08        Aug 09
+R1-R2           55%           55%           55%
 R3 or greater   10%           10%           10%
 
-Rationale: There is a chance for R1-R2 (Minor-Moderate) radio blackouts,
-and a slight chance for R3 (Strong) or greater radio blackouts all three
-days.
+Rationale: R1-R2 (Minor-Moderate) radio blackouts are likely, with a
+slight chance for R3 (Strong) or greater radio blackouts all three days.
 
 ```
