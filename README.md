@@ -1,10 +1,10 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2025-08-08
-<br />**Title of the image:**  Dawn of the Crab
-<br />**Description for the image:**  One of the all-time historic skyscapes occured in July 1054, when the Crab Supernova blazed into the dawn sky. Chinese court astrologers first saw the Guest Star on the morning of 4 July 1054 next to the star Tianguan (now cataloged as Zeta Tauri). The supernova peaked in late July 1054 a bit brighter than Venus, and was visible in the daytime for 23 days. The Guest Star was so bright that every culture around the world inevitably discovered the supernova independently, although only nine reports survive, including those from China, Japan, and Constantinople. This iPhone picture is from Signal Hill near Tucson on the morning of 26 July 2025, faithfully re-creates the year 1054 Dawn of the Crab, showing the sky as seen by Hohokam peoples. The planet Venus, as a stand-in for the supernova, is close to the position of what is now the Crab Nebula supernova remnant. Step outside on a summer dawn with bright Venus, and ask yourself "What would you have thought in ancient times when suddenly seeing the Dawn of the Crab?"
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2508/CrabRecreation_2_1054Sky1024.jpg
+<br />**Date image released:**  2025-08-09
+<br />**Title of the image:**  Interstellar Interloper 3I/ATLAS from Hubble
+<br />**Description for the image:**  Discovered on July 1 with the NASA-funded ATLAS (Asteroid Terrestrial-impact Last Alert System) survey telescope in Rio Hurtado, Chile, 3I/ATLAS is so designated as the third known interstellar object to pass through our Solar System. It follows 1I/ʻOumuamua in 2017 and the comet 2I/Borisov in 2019.  Also known as C/2025 N1, 3I/ATLAS is a comet. A teardrop-shaped cloud of dust, ejected from its icy nucleus warmed by increasing sunlight, is seen in this sharp image from the Hubble Space Telescope captured on July 21. Background stars are streaked in the exposure as Hubble tracked the fastest comet ever recorded on its journey toward the inner solar system. An analysis of the Hubble image indicates the solid nucleus, hidden from direct view, is likely less that 5.6 kilometers in diameter. This comet's interstellar origin is clear from its orbit, determined to be an eccentric, highly hyperbolic orbit that does not loop back around the Sun and will return 3I/ATLAS to interstellar space. Not a threat to planet Earth, the inbound interstellar interloper is now within the Jupiter's orbital distance of the Sun, while its closest approach to the Sun will bring it just inside the orbital distance of Mars.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2508/3I_Hubble.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -48,57 +48,56 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 Aug 08 0030 UTC
+:Issued: 2025 Aug 09 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 1 (below NOAA
-Scale levels).
-The greatest expected 3 hr Kp for Aug 08-Aug 10 2025 is 6.00 (NOAA Scale
-G2).
+The greatest observed 3 hr Kp over the past 24 hours was 5 (NOAA Scale
+G1).
+The greatest expected 3 hr Kp for Aug 09-Aug 11 2025 is 5.00 (NOAA Scale
+G1).
 
-NOAA Kp index breakdown Aug 08-Aug 10 2025
+NOAA Kp index breakdown Aug 09-Aug 11 2025
 
-             Aug 08       Aug 09       Aug 10
-00-03UT       1.67         5.00 (G1)    3.67     
-03-06UT       2.67         4.33         3.33     
-06-09UT       4.67 (G1)    3.67         3.33     
-09-12UT       6.00 (G2)    4.00         3.33     
-12-15UT       3.67         3.00         3.33     
-15-18UT       4.00         3.33         3.33     
-18-21UT       3.33         3.67         3.67     
-21-00UT       4.00         4.00         3.67     
+             Aug 09       Aug 10       Aug 11
+00-03UT       4.00         3.67         3.33     
+03-06UT       4.00         3.33         3.33     
+06-09UT       5.00 (G1)    3.33         3.67     
+09-12UT       3.67         3.00         3.67     
+12-15UT       3.00         2.67         3.00     
+15-18UT       3.33         3.33         3.00     
+18-21UT       4.00         3.67         3.00     
+21-00UT       4.67 (G1)    3.67         3.00     
 
-Rationale: G1-G2 (Minor-Moderate) geomagnetic storms are likely on 08-09
-Aug due to influences from a CME that left the Sun on 05 Aug.
+Rationale: Periods of G1 (Minor) storming are expected on 09 Aug due to
+CH HSS influence.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Aug 08-Aug 10 2025
+Solar Radiation Storm Forecast for Aug 09-Aug 11 2025
 
-              Aug 08  Aug 09  Aug 10
-S1 or greater   15%      5%      5%
+              Aug 09  Aug 10  Aug 11
+S1 or greater   10%     10%     10%
 
-Rationale: A slight chance for an S1 (Minor) solar radiation event
-exists for 08 Aug given recent activity from Region 4168.
+Rationale: There is a slight chance for S1 (Minor) storm levels over
+09-11 Aug.
 
 C. NOAA Radio Blackout Activity and Forecast
 
 Radio blackouts reaching the R1 levels were observed over the past 24
-hours. The largest was at Aug 07 2025 1131 UTC.
+hours. The largest was at Aug 08 2025 0353 UTC.
 
-Radio Blackout Forecast for Aug 08-Aug 10 2025
+Radio Blackout Forecast for Aug 09-Aug 11 2025
 
-              Aug 08        Aug 09        Aug 10
-R1-R2           55%           55%           55%
+              Aug 09        Aug 10        Aug 11
+R1-R2           60%           60%           60%
 R3 or greater   10%           10%           10%
 
-Rationale: R1-R2 (Minor-Moderate) radio blackouts are likely, with a
-slight chance for R3 (Strong) or greater radio blackouts all three days
-primarily due to the flare potential and history of AR 4168.
+Rationale: R1-R2 (Minor-Moderate) events are likely, with a slight
+chance for R3 (Strong) or greater events, over 09-11 Aug.
 
 ```
