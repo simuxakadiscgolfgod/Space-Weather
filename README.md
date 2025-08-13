@@ -1,14 +1,10 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Sorry, Image not available!**
-<br />**Date image released:**  2025-08-12
-<br />**This image is owned by:**  
-Marcin Rosadziński
-
-<br />**Title of the image:**  Perseids from Perseus
-<br />**Description for the image:**  Where are all of these meteors coming from?  In terms of direction on the sky, the pointed answer is the constellation of Perseus.  That is why the meteor shower that peaks tonight is known as the Perseids -- the meteors all appear to come from a radiant toward Perseus. In terms of parent body, though, the sand-sized debris that makes up the Perseids meteors come from Comet Swift-Tuttle. The comet follows a well-defined orbit around our Sun, and the part of the orbit that approaches Earth is superposed in front of Perseus. Therefore, when Earth crosses this orbit, the radiant point of falling debris appears in Perseus. Featured here, a composite image taken over six nights and containing over 100 meteors from 2024 August Perseids meteor shower shows many bright meteors that streaked over the Bieszczady Mountains in Poland. This year's Perseids, usually one of the best meteor showers of the year, will compete with a bright moon that will rise, for many locations, soon  after sunset.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2508/PerseidsRadiant_Marcin_5500.jpg
+<br />**Date image released:**  2025-08-13
+<br />**Title of the image:**  Trapezium: In the Heart of Orion
+<br />**Description for the image:**  What lies in the heart of Orion?  Trapezium: four bright stars, that can be found near the center of this sharp cosmic portrait. Gathered within a region about 1.5 light-years in radius, these stars dominate the core of the dense Orion Nebula Star Cluster. Ultraviolet ionizing radiation from the Trapezium stars, mostly from the brightest star Theta-1 Orionis C powers the complex star forming region's entire visible glow. About three million years old, the Orion Nebula Cluster was even more compact in its younger years and a dynamical study indicates that runaway stellar collisions at an earlier age may have formed a black hole with more than 100 times the mass of the Sun. The presence of a black hole within the cluster could explain the observed high velocities of the Trapezium stars. The Orion Nebula's distance of some 1,500 light-years make it one of the  closest candidate black holes to Earth.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2508/OrionTrapezium_HubbleGendler_4000.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -52,27 +48,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 Aug 12 0030 UTC
+:Issued: 2025 Aug 13 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Aug 12-Aug 14 2025 is 4.00 (below NOAA
+The greatest expected 3 hr Kp for Aug 13-Aug 15 2025 is 4.00 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Aug 12-Aug 14 2025
+NOAA Kp index breakdown Aug 13-Aug 15 2025
 
-             Aug 12       Aug 13       Aug 14
-00-03UT       4.00         3.00         2.67     
-03-06UT       2.00         4.00         2.00     
-06-09UT       2.00         2.67         2.33     
-09-12UT       3.33         2.67         2.33     
-12-15UT       3.00         2.67         2.67     
-15-18UT       3.33         2.00         2.33     
-18-21UT       2.00         2.00         2.33     
-21-00UT       3.33         2.00         2.33     
+             Aug 13       Aug 14       Aug 15
+00-03UT       3.00         2.67         2.67     
+03-06UT       4.00         3.67         3.67     
+06-09UT       2.67         2.33         2.33     
+09-12UT       2.67         2.00         2.00     
+12-15UT       2.67         2.00         2.00     
+15-18UT       2.00         2.00         2.00     
+18-21UT       2.00         2.33         2.33     
+21-00UT       2.00         2.33         2.33     
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
 significant transient or recurrent solar wind features are forecast.
@@ -82,26 +78,27 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Aug 12-Aug 14 2025
+Solar Radiation Storm Forecast for Aug 13-Aug 15 2025
 
-              Aug 12  Aug 13  Aug 14
-S1 or greater   10%     10%     10%
+              Aug 13  Aug 14  Aug 15
+S1 or greater   10%      5%      5%
 
 Rationale: There is a slight chance for S1 (Minor) solar radiation
-storms over 12-14 Aug.
+storms on 13 Aug.
 
 C. NOAA Radio Blackout Activity and Forecast
 
 Radio blackouts reaching the R1 levels were observed over the past 24
-hours. The largest was at Aug 11 2025 1536 UTC.
+hours. The largest was at Aug 12 2025 0123 UTC.
 
-Radio Blackout Forecast for Aug 12-Aug 14 2025
+Radio Blackout Forecast for Aug 13-Aug 15 2025
 
-              Aug 12        Aug 13        Aug 14
+              Aug 13        Aug 14        Aug 15
 R1-R2           55%           55%           55%
 R3 or greater   10%           10%           10%
 
-Rationale: R1-R2 (Minor-Moderate) radio blackouts are likely, with a
-slight chance for R3 (Strong) or greater events, over 12-14 Aug.
+Rationale: Rationale:  R1-R2 (Minor-Moderate) radio blackouts are
+likely, with a slight chance for R3 (Strong) or greater events, over
+13-15 Aug.
 
 ```
