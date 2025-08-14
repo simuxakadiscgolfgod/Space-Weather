@@ -1,10 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2025-08-13
-<br />**Title of the image:**  Trapezium: In the Heart of Orion
-<br />**Description for the image:**  What lies in the heart of Orion?  Trapezium: four bright stars, that can be found near the center of this sharp cosmic portrait. Gathered within a region about 1.5 light-years in radius, these stars dominate the core of the dense Orion Nebula Star Cluster. Ultraviolet ionizing radiation from the Trapezium stars, mostly from the brightest star Theta-1 Orionis C powers the complex star forming region's entire visible glow. About three million years old, the Orion Nebula Cluster was even more compact in its younger years and a dynamical study indicates that runaway stellar collisions at an earlier age may have formed a black hole with more than 100 times the mass of the Sun. The presence of a black hole within the cluster could explain the observed high velocities of the Trapezium stars. The Orion Nebula's distance of some 1,500 light-years make it one of the  closest candidate black holes to Earth.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2508/OrionTrapezium_HubbleGendler_4000.jpg
+<br />**Date image released:**  2025-08-14
+<br />**This image is owned by:**  R. Jay Gabany
+<br />**Title of the image:**  M13: The Great Globular Cluster in Hercules
+<br />**Description for the image:**  In 1716, English astronomer Edmond Halley noted, "This is but a little Patch, but it shews itself to the naked Eye, when the Sky is serene and the Moon absent." Of course, M13 is now less modestly recognized as the Great Globular Cluster in Hercules, one of the brightest globular star clusters in the northern sky. Sharp telescopic views like this one reveal the spectacular cluster's hundreds of thousands of stars. At a distance of 25,000 light-years, the cluster stars crowd into a region 150 light-years in diameter. Approaching the cluster core, upwards of 100 stars could be contained in a cube just 3 light-years on a side. For comparison with our neighborhood of the Milky Way, the closest star to the Sun is over 4 light-years away. Early telescopic observers of the great globular cluster also noted a curious convergence of three dark lanes with a spacing of about 120 degrees, seen here just below the cluster center.  Known as the propeller in M13, the shape is likely a chance optical effect of the distribution of stars viewed from our perspective against the dense cluster core.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2508/lrg_ngc6205.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -48,27 +49,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 Aug 13 0030 UTC
+:Issued: 2025 Aug 14 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Aug 13-Aug 15 2025 is 4.00 (below NOAA
+The greatest expected 3 hr Kp for Aug 14-Aug 16 2025 is 3.67 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Aug 13-Aug 15 2025
+NOAA Kp index breakdown Aug 14-Aug 16 2025
 
-             Aug 13       Aug 14       Aug 15
-00-03UT       3.00         2.67         2.67     
-03-06UT       4.00         3.67         3.67     
-06-09UT       2.67         2.33         2.33     
-09-12UT       2.67         2.00         2.00     
-12-15UT       2.67         2.00         2.00     
-15-18UT       2.00         2.00         2.00     
-18-21UT       2.00         2.33         2.33     
-21-00UT       2.00         2.33         2.33     
+             Aug 14       Aug 15       Aug 16
+00-03UT       2.67         2.67         1.67     
+03-06UT       3.67         3.67         1.67     
+06-09UT       2.33         2.33         1.33     
+09-12UT       2.00         2.00         1.33     
+12-15UT       2.00         2.00         1.33     
+15-18UT       2.00         2.00         1.33     
+18-21UT       2.33         2.33         1.33     
+21-00UT       2.33         2.33         1.67     
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
 significant transient or recurrent solar wind features are forecast.
@@ -78,27 +79,28 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Aug 13-Aug 15 2025
+Solar Radiation Storm Forecast for Aug 14-Aug 16 2025
 
-              Aug 13  Aug 14  Aug 15
+              Aug 14  Aug 15  Aug 16
 S1 or greater   10%      5%      5%
 
-Rationale: There is a slight chance for S1 (Minor) solar radiation
-storms on 13 Aug.
+Rationale: There is a slight chance for S1 (Minor) or greater solar
+radiation storms on 14 Aug.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-Radio blackouts reaching the R1 levels were observed over the past 24
-hours. The largest was at Aug 12 2025 0123 UTC.
+No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Aug 13-Aug 15 2025
+Radio Blackout Forecast for Aug 14-Aug 16 2025
 
-              Aug 13        Aug 14        Aug 15
-R1-R2           55%           55%           55%
-R3 or greater   10%           10%           10%
+              Aug 14        Aug 15        Aug 16
+R1-R2           50%           45%           45%
+R3 or greater   10%            5%            5%
 
-Rationale: Rationale:  R1-R2 (Minor-Moderate) radio blackouts are
-likely, with a slight chance for R3 (Strong) or greater events, over
-13-15 Aug.
+Rationale: A high chance for R1-R2 (Minor-Moderate) radio blackouts due
+to M-class flare activity, most likely from Regions 4178 and/or 4172,
+will persist through 16 August. Probabilities will begin to
+decrease slightly on 15 August as Region 4178 exits the visible solar
+disk.
 
 ```
