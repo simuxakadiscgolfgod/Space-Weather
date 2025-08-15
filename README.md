@@ -1,11 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2025-08-14
-<br />**This image is owned by:**  R. Jay Gabany
-<br />**Title of the image:**  M13: The Great Globular Cluster in Hercules
-<br />**Description for the image:**  In 1716, English astronomer Edmond Halley noted, "This is but a little Patch, but it shews itself to the naked Eye, when the Sky is serene and the Moon absent." Of course, M13 is now less modestly recognized as the Great Globular Cluster in Hercules, one of the brightest globular star clusters in the northern sky. Sharp telescopic views like this one reveal the spectacular cluster's hundreds of thousands of stars. At a distance of 25,000 light-years, the cluster stars crowd into a region 150 light-years in diameter. Approaching the cluster core, upwards of 100 stars could be contained in a cube just 3 light-years on a side. For comparison with our neighborhood of the Milky Way, the closest star to the Sun is over 4 light-years away. Early telescopic observers of the great globular cluster also noted a curious convergence of three dark lanes with a spacing of about 120 degrees, seen here just below the cluster center.  Known as the propeller in M13, the shape is likely a chance optical effect of the distribution of stars viewed from our perspective against the dense cluster core.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2508/lrg_ngc6205.jpg
+<br />**Date image released:**  2025-08-15
+<br />**This image is owned by:**  Jeff Dai
+<br />**Title of the image:**  Moonlight, Planets, and Perseids
+<br />**Description for the image:**  In the predawn sky on August 13, two planets were close. And despite the glare of a waning gibbous Moon, bright Jupiter and even brighter Venus were hard to miss. Their brilliant close conjunction is posing above the eastern horizon in this early morning skyscape. The scene was captured in a single exposure from a site near Gansu, China, with light from both planets reflected in the still waters of a local pond. Also seen against the moonlight were flashes from the annual Perseid Meteor Shower, known for its bright, fast meteors. Near the much anticipated peak of activity, the shower meteors briefly combined with the two planets for a celestial spectacle even in moonlit skies.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2508/IMG_20250813_202125_2048.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,27 +49,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 Aug 14 0030 UTC
+:Issued: 2025 Aug 15 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Aug 14-Aug 16 2025 is 3.67 (below NOAA
+The greatest expected 3 hr Kp for Aug 15-Aug 17 2025 is 3.67 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Aug 14-Aug 16 2025
+NOAA Kp index breakdown Aug 15-Aug 17 2025
 
-             Aug 14       Aug 15       Aug 16
-00-03UT       2.67         2.67         1.67     
-03-06UT       3.67         3.67         1.67     
-06-09UT       2.33         2.33         1.33     
-09-12UT       2.00         2.00         1.33     
-12-15UT       2.00         2.00         1.33     
-15-18UT       2.00         2.00         1.33     
-18-21UT       2.33         2.33         1.33     
-21-00UT       2.33         2.33         1.67     
+             Aug 15       Aug 16       Aug 17
+00-03UT       2.67         1.67         1.67     
+03-06UT       3.67         1.67         1.67     
+06-09UT       2.33         1.33         1.33     
+09-12UT       2.00         1.33         1.33     
+12-15UT       2.00         1.33         1.33     
+15-18UT       2.00         1.33         1.33     
+18-21UT       2.33         1.33         1.33     
+21-00UT       2.33         1.67         1.67     
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
 significant transient or recurrent solar wind features are forecast.
@@ -79,28 +79,26 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Aug 14-Aug 16 2025
+Solar Radiation Storm Forecast for Aug 15-Aug 17 2025
 
-              Aug 14  Aug 15  Aug 16
-S1 or greater   10%      5%      5%
+              Aug 15  Aug 16  Aug 17
+S1 or greater    5%      1%      1%
 
-Rationale: There is a slight chance for S1 (Minor) or greater solar
-radiation storms on 14 Aug.
+Rationale: No S1 (Minor) or greater solar radiation storms are expected.
+No significant active region activity favorable for radiation storm
+production is forecast.
 
 C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Aug 14-Aug 16 2025
+Radio Blackout Forecast for Aug 15-Aug 17 2025
 
-              Aug 14        Aug 15        Aug 16
-R1-R2           50%           45%           45%
-R3 or greater   10%            5%            5%
+              Aug 15        Aug 16        Aug 17
+R1-R2           35%           30%           30%
+R3 or greater    5%            5%            5%
 
-Rationale: A high chance for R1-R2 (Minor-Moderate) radio blackouts due
-to M-class flare activity, most likely from Regions 4178 and/or 4172,
-will persist through 16 August. Probabilities will begin to
-decrease slightly on 15 August as Region 4178 exits the visible solar
-disk.
+Rationale: There is a chance for R1-R2 (Minor-Moderate) radio blackouts
+over 15-17 Aug.
 
 ```
