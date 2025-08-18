@@ -1,11 +1,10 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2025-08-15
-<br />**This image is owned by:**  Jeff Dai
-<br />**Title of the image:**  Moonlight, Planets, and Perseids
-<br />**Description for the image:**  In the predawn sky on August 13, two planets were close. And despite the glare of a waning gibbous Moon, bright Jupiter and even brighter Venus were hard to miss. Their brilliant close conjunction is posing above the eastern horizon in this early morning skyscape. The scene was captured in a single exposure from a site near Gansu, China, with light from both planets reflected in the still waters of a local pond. Also seen against the moonlight were flashes from the annual Perseid Meteor Shower, known for its bright, fast meteors. Near the much anticipated peak of activity, the shower meteors briefly combined with the two planets for a celestial spectacle even in moonlit skies.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2508/IMG_20250813_202125_2048.jpg
+<br />**Date image released:**  2025-08-18
+<br />**Title of the image:**  NGC 1309: A Useful Spiral Galaxy
+<br />**Description for the image:**  This galaxy is not only pretty -- it's useful.  A gorgeous spiral some 100 million light-years distant, NGC 1309 lies on the banks of the constellation of the River (Eridanus). NGC 1309 spans about 30,000 light-years, making it about one third the size of our larger Milky Way galaxy. Bluish clusters of young stars and dust lanes are seen to trace out NGC 1309's spiral arms as they wind around an older yellowish star population at its core. Not just another pretty face-on spiral galaxy, observations of NGC 1309's two recent supernovas and multiple  Cepheid variable stars contribute to the calibration of the expansion of the Universe. Still, after you get over this beautiful galaxy's grand design, check out the array of more distant background galaxies also recorded in this sharp image from the  Hubble Space Telescope.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2508/Spiral1309_HubbleGalbany_4000.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,40 +48,40 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 Aug 15 0030 UTC
+:Issued: 2025 Aug 18 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Aug 15-Aug 17 2025 is 3.67 (below NOAA
-Scale levels).
+The greatest expected 3 hr Kp for Aug 18-Aug 20 2025 is 5.00 (NOAA Scale
+G1).
 
-NOAA Kp index breakdown Aug 15-Aug 17 2025
+NOAA Kp index breakdown Aug 18-Aug 20 2025
 
-             Aug 15       Aug 16       Aug 17
-00-03UT       2.67         1.67         1.67     
-03-06UT       3.67         1.67         1.67     
-06-09UT       2.33         1.33         1.33     
-09-12UT       2.00         1.33         1.33     
-12-15UT       2.00         1.33         1.33     
-15-18UT       2.00         1.33         1.33     
-18-21UT       2.33         1.33         1.33     
-21-00UT       2.33         1.67         1.67     
+             Aug 18       Aug 19       Aug 20
+00-03UT       2.00         3.67         3.67     
+03-06UT       2.00         5.00 (G1)    3.00     
+06-09UT       1.00         5.00 (G1)    3.67     
+09-12UT       1.00         3.67         3.33     
+12-15UT       1.00         4.33         3.00     
+15-18UT       3.33         4.00         3.33     
+18-21UT       4.00         3.67         3.00     
+21-00UT       4.00         3.00         3.00     
 
-Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
-significant transient or recurrent solar wind features are forecast.
+Rationale: Periods of G1 (Minor) geomagnetic storms are likely on 19 Aug
+due to negative polarity CH HSS influence.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Aug 15-Aug 17 2025
+Solar Radiation Storm Forecast for Aug 18-Aug 20 2025
 
-              Aug 15  Aug 16  Aug 17
-S1 or greater    5%      1%      1%
+              Aug 18  Aug 19  Aug 20
+S1 or greater    1%      1%      1%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
 No significant active region activity favorable for radiation storm
@@ -92,13 +91,13 @@ C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Aug 15-Aug 17 2025
+Radio Blackout Forecast for Aug 18-Aug 20 2025
 
-              Aug 15        Aug 16        Aug 17
-R1-R2           35%           30%           30%
-R3 or greater    5%            5%            5%
+              Aug 18        Aug 19        Aug 20
+R1-R2           15%           15%           15%
+R3 or greater    1%            1%            1%
 
-Rationale: There is a chance for R1-R2 (Minor-Moderate) radio blackouts
-over 15-17 Aug.
+Rationale: There is a slight chance for isolated R1-R2 (Minor-Moderate)
+radio blackouts over 18-20 Aug.
 
 ```
