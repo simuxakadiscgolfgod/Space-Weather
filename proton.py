@@ -90,7 +90,7 @@ else:
 #Graph save
 plt.savefig('Proton_Data/proton-data.png', bbox_inches='tight')
 
-#Created a function for logging 3 dataframes
+#Created a function for logging 4 dataframes
 def csv_logger(dataframe, filename):
   #Checking if the previous log file exists?
   file_res = os.path.exists(filename)
@@ -98,9 +98,19 @@ def csv_logger(dataframe, filename):
   if (file_res == False):
     dataframe.to_csv(filename, mode='a', index=False, header=True)
   else:
-    last_df = pd.read_csv(filename)
-    last_date = last_df.iloc[last_df.tail(1).index[0], 0]
+    df = pd.read_csv(filename)
+    #Get file size, Github gives a warning if its more than 50mb
+    file_size = os.path.getsize(filename)
 
+    if file_size > 50*1024*1024:
+        # Trim file - keep only recent half
+        keep_rows = len(df) // 2
+        df = df.iloc[keep_rows:]
+        df.to_csv(filename, index=False)
+        
+    #get the last date    
+    last_date = df.iloc[-1, 0]
+      
     #drop all rows that are in file
     dataframe = dataframe[dataframe['time_tag'] > last_date]
     dataframe.to_csv(filename, mode='a', index=False, header=False)
