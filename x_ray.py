@@ -109,6 +109,16 @@ def csv_logger(dataframe, filename):
   if (file_res == False):
     dataframe.to_csv(filename, mode='a', index=False, header=True)
   else:
+    #Get file size, Github gives a warning if its more than 50mb
+    file_size = os.path.getsize(filename)
+
+    if file_size > 50*1024*1024:
+        # Trim file - keep only recent half
+        df = pd.read_csv(filename)
+        keep_rows = len(df) // 2
+        df = df.iloc[keep_rows:]
+        df.to_csv(filename, index=False)
+
     last_df = pd.read_csv(filename)
     last_date = last_df.iloc[last_df.tail(1).index[0], 0]
 
