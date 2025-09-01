@@ -1,10 +1,10 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2025-08-31
-<br />**Title of the image:**  NGC 7027: The Pillow Planetary Nebula
-<br />**Description for the image:**  What created this unusual planetary nebula? Dubbed the Pillow Nebula and the Flying Carpet Nebula, NGC 7027 is one of the smallest, brightest, and most unusually shaped planetary nebulas known. Given its expansion rate, NGC 7027 first started expanding, as visible from Earth, about 600 years ago.  For much of its history, the planetary nebula has been expelling shells, as seen in blue in the featured image by the Hubble Space Telescope.  In modern times, though, for reasons unknown, it began ejecting gas and dust (seen in brown) in specific directions that created a new pattern that seems to have four corners. What lies at the nebula's center is unknown, with one hypothesis holding it to be a close binary star system where one star sheds gas onto an erratic disk orbiting the other star. NGC 7027, about 3,000 light years away, was first discovered in 1878 and can be seen with a standard backyard telescope toward the constellation of the Swan (Cygnus).
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2508/ngc7027_HubbleDtc_960.jpg
+<br />**Date image released:**  2025-09-01
+<br />**Title of the image:**  Callisto: Dirty Battered Iceball
+<br />**Description for the image:**  Its surface is the most densely cratered in the Solar System -- but what's inside?  Jupiter's moon Callisto is a battered ball of dirty ice that is larger than the planet Mercury. It was visited by NASA's Galileo spacecraft in the 1990s and 2000s, but the recently reprocessed featured image is from a flyby of NASA's Voyager 2 in 1979.  The moon would appear darker if it weren't for the tapestry of light-colored fractured surface ice created by eons of impacts. The interior of Callisto is potentially even more interesting because therein might lie an internal layer of liquid water. This potential underground sea is a candidate to harbor life -- similar with sister moons Europa and Ganymede.  Callisto is slightly larger than Luna, Earth's Moon, but because of its high ice content is slightly less massive. ESA's JUICE and NASA's Europa Clipper missions are now headed out to Jupiter to better investigate its largest moons.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2509/Callisto_Voyager2Gill_1602.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -48,57 +48,59 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 Aug 31 0030 UTC
+:Issued: 2025 Sep 01 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Aug 31-Sep 02 2025 is 2.67 (below NOAA
-Scale levels).
+The greatest expected 3 hr Kp for Sep 01-Sep 03 2025 is 6.67 (NOAA Scale
+G3).
 
-NOAA Kp index breakdown Aug 31-Sep 02 2025
+NOAA Kp index breakdown Sep 01-Sep 03 2025
 
-             Aug 31       Sep 01       Sep 02
-00-03UT       2.67         2.67         1.67     
-03-06UT       2.00         2.67         1.33     
-06-09UT       2.33         2.67         1.33     
-09-12UT       2.33         2.00         1.33     
-12-15UT       2.33         1.67         1.33     
-15-18UT       2.33         1.67         1.33     
-18-21UT       2.33         0.67         1.67     
-21-00UT       2.67         1.67         1.67     
+             Sep 01       Sep 02       Sep 03
+00-03UT       2.67         5.67 (G2)    3.67     
+03-06UT       2.67         5.67 (G2)    3.00     
+06-09UT       2.67         6.67 (G3)    2.67     
+09-12UT       2.00         5.67 (G2)    2.33     
+12-15UT       1.67         4.67 (G1)    2.00     
+15-18UT       1.67         4.67 (G1)    1.67     
+18-21UT       4.67 (G1)    4.00         1.33     
+21-00UT       5.67 (G2)    3.67         1.67     
 
-Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
-significant transient or recurrent solar wind features are forecast.
+Rationale: Periods of G2 (Moderate) storming are likely, with a chance
+for G3 (Strong) storm periods, late on 01 Sep due to the anticipated
+arrival of the 30 Aug asymmetric full halo CME. On 02 Sep, periods of G3
+(Strong) storming are likely, with a chance for G4 (Severe) storm
+periods, as CME influences continue.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Aug 31-Sep 02 2025
+Solar Radiation Storm Forecast for Sep 01-Sep 03 2025
 
-              Aug 31  Sep 01  Sep 02
+              Sep 01  Sep 02  Sep 03
 S1 or greater   10%     10%     10%
 
 Rationale: There is a slight chance for the greater than 10 MeV proton
-flux to reach S1 (Minor) storm levels through 02 Sep.
+flux to reach S1 (Minor) storm levels through 03 Sep.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-Radio blackouts reaching the R1 levels were observed over the past 24
-hours. The largest was at Aug 30 2025 2002 UTC.
+No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Aug 31-Sep 02 2025
+Radio Blackout Forecast for Sep 01-Sep 03 2025
 
-              Aug 31        Sep 01        Sep 02
+              Sep 01        Sep 02        Sep 03
 R1-R2           65%           65%           65%
 R3 or greater   20%           20%           20%
 
 Rationale: R1-R2 (Minor-Moderate) radio blackouts are likely, with a
-slight chance for an isolated R3 (Strong or greater) event through 02
+slight chance for an X-class flare (R3-Strong or greater), through 03
 Sep.
 
 ```
