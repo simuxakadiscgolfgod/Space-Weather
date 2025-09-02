@@ -1,10 +1,13 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2025-09-01
-<br />**Title of the image:**  Callisto: Dirty Battered Iceball
-<br />**Description for the image:**  Its surface is the most densely cratered in the Solar System -- but what's inside?  Jupiter's moon Callisto is a battered ball of dirty ice that is larger than the planet Mercury. It was visited by NASA's Galileo spacecraft in the 1990s and 2000s, but the recently reprocessed featured image is from a flyby of NASA's Voyager 2 in 1979.  The moon would appear darker if it weren't for the tapestry of light-colored fractured surface ice created by eons of impacts. The interior of Callisto is potentially even more interesting because therein might lie an internal layer of liquid water. This potential underground sea is a candidate to harbor life -- similar with sister moons Europa and Ganymede.  Callisto is slightly larger than Luna, Earth's Moon, but because of its high ice content is slightly less massive. ESA's JUICE and NASA's Europa Clipper missions are now headed out to Jupiter to better investigate its largest moons.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2509/Callisto_Voyager2Gill_1602.jpg
+<br />**Date image released:**  2025-09-02
+<br />**This image is owned by:**  
+Daniel Stern
+
+<br />**Title of the image:**  The Horsehead and Flame Nebulas
+<br />**Description for the image:**  The Horsehead Nebula is one of the most famous nebulae on the sky.  It is visible as the dark indentation to the orange emission nebula at the far right of the featured picture.  The horse-head feature is dark because it is really an opaque dust cloud that lies in front of the bright emission nebula. Like clouds in Earth's atmosphere, this cosmic cloud has assumed a recognizable shape by chance.  After many thousands of years, the internal motions of the cloud will surely alter its appearance.  The emission nebula's orange color is caused by electrons recombining with protons to form hydrogen atoms.  Toward the lower left of the image is the Flame Nebula, an orange-tinged nebula that also contains intricate filaments of dark dust.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2509/OrionHorseHead_Stern_5842.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -48,59 +51,58 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 Sep 01 0030 UTC
+:Issued: 2025 Sep 02 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
-Scale levels).
-The greatest expected 3 hr Kp for Sep 01-Sep 03 2025 is 6.67 (NOAA Scale
+The greatest observed 3 hr Kp over the past 24 hours was 6 (NOAA Scale
+G2).
+The greatest expected 3 hr Kp for Sep 02-Sep 04 2025 is 6.67 (NOAA Scale
 G3).
 
-NOAA Kp index breakdown Sep 01-Sep 03 2025
+NOAA Kp index breakdown Sep 02-Sep 04 2025
 
-             Sep 01       Sep 02       Sep 03
-00-03UT       2.67         5.67 (G2)    3.67     
-03-06UT       2.67         5.67 (G2)    3.00     
-06-09UT       2.67         6.67 (G3)    2.67     
-09-12UT       2.00         5.67 (G2)    2.33     
-12-15UT       1.67         4.67 (G1)    2.00     
-15-18UT       1.67         4.67 (G1)    1.67     
-18-21UT       4.67 (G1)    4.00         1.33     
-21-00UT       5.67 (G2)    3.67         1.67     
+             Sep 02       Sep 03       Sep 04
+00-03UT       6.00 (G2)    4.00         2.67     
+03-06UT       6.67 (G3)    3.67         2.33     
+06-09UT       5.00 (G1)    2.67         2.00     
+09-12UT       5.00 (G1)    2.33         1.67     
+12-15UT       5.67 (G2)    2.00         1.67     
+15-18UT       5.00 (G1)    1.67         2.00     
+18-21UT       4.67 (G1)    1.67         2.00     
+21-00UT       3.67         2.33         2.33     
 
-Rationale: Periods of G2 (Moderate) storming are likely, with a chance
-for G3 (Strong) storm periods, late on 01 Sep due to the anticipated
-arrival of the 30 Aug asymmetric full halo CME. On 02 Sep, periods of G3
-(Strong) storming are likely, with a chance for G4 (Severe) storm
-periods, as CME influences continue.
+Rationale: On 02 Sep, periods of G3 (Strong) storming are likely, with a
+chance for G4 (Severe) storm periods, as CME effects persist. By 03 Sep,
+the solar wind environment should decrease to quiet to active levels as
+CME influences diminish.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Sep 01-Sep 03 2025
+Solar Radiation Storm Forecast for Sep 02-Sep 04 2025
 
-              Sep 01  Sep 02  Sep 03
-S1 or greater   10%     10%     10%
+              Sep 02  Sep 03  Sep 04
+S1 or greater   60%     10%     10%
 
-Rationale: There is a slight chance for the greater than 10 MeV proton
-flux to reach S1 (Minor) storm levels through 03 Sep.
+Rationale: S1 conditions are likely on 02 Sep, with a slight chance for
+S1 levels on 03-04 Sep.
 
 C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Sep 01-Sep 03 2025
+Radio Blackout Forecast for Sep 02-Sep 04 2025
 
-              Sep 01        Sep 02        Sep 03
-R1-R2           65%           65%           65%
-R3 or greater   20%           20%           20%
+              Sep 02        Sep 03        Sep 04
+R1-R2           60%           60%           55%
+R3 or greater   20%           20%           15%
 
-Rationale: R1-R2 (Minor-Moderate) radio blackouts are likely, with a
-slight chance for an X-class flare (R3-Strong or greater), through 03
+Rationale: M-class flares (R1-R2/Minor-Moderate) are likely, with a
+slight chance for an X-class flare (R3-Strong or greater), through 04
 Sep.
 
 ```
