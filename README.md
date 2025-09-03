@@ -1,13 +1,10 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2025-09-02
-<br />**This image is owned by:**  
-Daniel Stern
-
-<br />**Title of the image:**  The Horsehead and Flame Nebulas
-<br />**Description for the image:**  The Horsehead Nebula is one of the most famous nebulae on the sky.  It is visible as the dark indentation to the orange emission nebula at the far right of the featured picture.  The horse-head feature is dark because it is really an opaque dust cloud that lies in front of the bright emission nebula. Like clouds in Earth's atmosphere, this cosmic cloud has assumed a recognizable shape by chance.  After many thousands of years, the internal motions of the cloud will surely alter its appearance.  The emission nebula's orange color is caused by electrons recombining with protons to form hydrogen atoms.  Toward the lower left of the image is the Flame Nebula, an orange-tinged nebula that also contains intricate filaments of dark dust.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2509/OrionHorseHead_Stern_5842.jpg
+<br />**Date image released:**  2025-09-03
+<br />**Title of the image:**  Cir X-1: Jets in the Africa Nebula
+<br />**Description for the image:**  How soon do jets form when a supernova gives birth to a neutron star?  The Africa Nebula provides clues.  This supernova remnant surrounds Circinus X-1, an X-ray emitting neutron star and the companion star it orbits.  The image, from the ThunderKAT collaboration on the MeerKAT radio telescope situated in South Africa, shows the bright core-and-lobe structure of Cir X-1’s currently active jets inside the nebula.  A mere 4600 years old, Cir X-1 could be the "Little Sister" of microquasar SS 433*.  However, the newly discovered bubble exiting from a ring-like hole in the upper right of the nebula, along with a ring to the bottom left, demonstrate that other jets previously existed.  Computer simulations indicate those jets formed within 100 years of the explosion and lasted up to 1000 years.  Surprisingly, to create the observed bubble, the jets need to be more powerful than young neutron stars were previously thought to produce.   Open Science: Browse 3,700+ codes in the Astrophysics Source Code Library
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2508/CirX1_English_960.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -51,58 +48,57 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 Sep 02 0030 UTC
+:Issued: 2025 Sep 03 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 6 (NOAA Scale
-G2).
-The greatest expected 3 hr Kp for Sep 02-Sep 04 2025 is 6.67 (NOAA Scale
-G3).
+The greatest observed 3 hr Kp over the past 24 hours was 5 (NOAA Scale
+G1).
+The greatest expected 3 hr Kp for Sep 03-Sep 05 2025 is 4.67 (NOAA Scale
+G1).
 
-NOAA Kp index breakdown Sep 02-Sep 04 2025
+NOAA Kp index breakdown Sep 03-Sep 05 2025
 
-             Sep 02       Sep 03       Sep 04
-00-03UT       6.00 (G2)    4.00         2.67     
-03-06UT       6.67 (G3)    3.67         2.33     
-06-09UT       5.00 (G1)    2.67         2.00     
-09-12UT       5.00 (G1)    2.33         1.67     
-12-15UT       5.67 (G2)    2.00         1.67     
-15-18UT       5.00 (G1)    1.67         2.00     
-18-21UT       4.67 (G1)    1.67         2.00     
-21-00UT       3.67         2.33         2.33     
+             Sep 03       Sep 04       Sep 05
+00-03UT       4.33         2.67         2.33     
+03-06UT       4.67 (G1)    2.33         2.00     
+06-09UT       4.00         2.00         2.33     
+09-12UT       3.67         1.67         2.33     
+12-15UT       3.33         1.67         2.33     
+15-18UT       2.67         2.00         2.67     
+18-21UT       2.67         2.00         3.00     
+21-00UT       2.67         2.33         3.67     
 
-Rationale: On 02 Sep, periods of G3 (Strong) storming are likely, with a
-chance for G4 (Severe) storm periods, as CME effects persist. By 03 Sep,
-the solar wind environment should decrease to quiet to active levels as
-CME influences diminish.
+Rationale: G1 (Minor) geomagnetic storms are likely on 03 Sep due to
+continued CME influences.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Sep 02-Sep 04 2025
+Solar Radiation Storm Forecast for Sep 03-Sep 05 2025
 
-              Sep 02  Sep 03  Sep 04
-S1 or greater   60%     10%     10%
+              Sep 03  Sep 04  Sep 05
+S1 or greater   10%     10%     10%
 
-Rationale: S1 conditions are likely on 02 Sep, with a slight chance for
-S1 levels on 03-04 Sep.
+Rationale: There is a slight chance for a greater than 10 MeV proton
+event reaching the S1 (Minor) levels on 03-05 Sep with a large event
+from AR 4197 being the most likely threat.
 
 C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Sep 02-Sep 04 2025
+Radio Blackout Forecast for Sep 03-Sep 05 2025
 
-              Sep 02        Sep 03        Sep 04
-R1-R2           60%           60%           55%
-R3 or greater   20%           20%           15%
+              Sep 03        Sep 04        Sep 05
+R1-R2           55%           55%           55%
+R3 or greater   15%           15%           15%
 
 Rationale: M-class flares (R1-R2/Minor-Moderate) are likely, with a
-slight chance for an X-class flare (R3-Strong or greater), through 04
-Sep.
+slight chance for an X-class flare (R3-Strong or greater), through 05
+Sep primarily due to the flare potential exhibited from AR 4197.
 
 ```
