@@ -1,10 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2025-09-03
-<br />**Title of the image:**  Cir X-1: Jets in the Africa Nebula
-<br />**Description for the image:**  How soon do jets form when a supernova gives birth to a neutron star?  The Africa Nebula provides clues.  This supernova remnant surrounds Circinus X-1, an X-ray emitting neutron star and the companion star it orbits.  The image, from the ThunderKAT collaboration on the MeerKAT radio telescope situated in South Africa, shows the bright core-and-lobe structure of Cir X-1’s currently active jets inside the nebula.  A mere 4600 years old, Cir X-1 could be the "Little Sister" of microquasar SS 433*.  However, the newly discovered bubble exiting from a ring-like hole in the upper right of the nebula, along with a ring to the bottom left, demonstrate that other jets previously existed.  Computer simulations indicate those jets formed within 100 years of the explosion and lasted up to 1000 years.  Surprisingly, to create the observed bubble, the jets need to be more powerful than young neutron stars were previously thought to produce.   Open Science: Browse 3,700+ codes in the Astrophysics Source Code Library
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2508/CirX1_English_960.jpg
+<br />**Date image released:**  2025-09-04
+<br />**This image is owned by:**  José Rodrigues
+<br />**Title of the image:**  NGC 4565: Galaxy on Edge
+<br />**Description for the image:**  Magnificent spiral galaxy NGC 4565 is viewed edge-on from planet Earth. Also known as the Needle Galaxy for its narrow profile, bright NGC 4565 is a stop on many telescopic tours of the northern sky, in the faint but well-groomed constellation Coma Berenices. This sharp, colorful image reveals the galaxy's boxy, bulging central core cut by obscuring dust lanes that lace NGC 4565's thin galactic plane. NGC 4565 lies around 40 million light-years distant while the spiral galaxy itself spans some 100,000 light-years.  That's about the size of our own Milky Way. Easily spotted with small telescopes, deep sky enthusiasts consider NGC 4565 to be a prominent celestial masterpiece Messier missed.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2509/NGC4565_APOD_sRGB.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -48,57 +49,58 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 Sep 03 0030 UTC
+:Issued: 2025 Sep 04 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 5 (NOAA Scale
 G1).
-The greatest expected 3 hr Kp for Sep 03-Sep 05 2025 is 4.67 (NOAA Scale
+The greatest expected 3 hr Kp for Sep 04-Sep 06 2025 is 5.00 (NOAA Scale
 G1).
 
-NOAA Kp index breakdown Sep 03-Sep 05 2025
+NOAA Kp index breakdown Sep 04-Sep 06 2025
 
-             Sep 03       Sep 04       Sep 05
-00-03UT       4.33         2.67         2.33     
-03-06UT       4.67 (G1)    2.33         2.00     
-06-09UT       4.00         2.00         2.33     
-09-12UT       3.67         1.67         2.33     
-12-15UT       3.33         1.67         2.33     
-15-18UT       2.67         2.00         2.67     
-18-21UT       2.67         2.00         3.00     
-21-00UT       2.67         2.33         3.67     
+             Sep 04       Sep 05       Sep 06
+00-03UT       2.00         2.33         5.00 (G1)
+03-06UT       2.00         2.00         4.67 (G1)
+06-09UT       2.00         2.33         4.00     
+09-12UT       2.33         2.33         4.00     
+12-15UT       2.67         2.33         3.33     
+15-18UT       2.33         2.67         3.00     
+18-21UT       2.33         3.00         2.33     
+21-00UT       2.00         3.67         3.00     
 
-Rationale: G1 (Minor) geomagnetic storms are likely on 03 Sep due to
-continued CME influences.
+Rationale: G1 (Minor) geomagnetic storm levels are likely on 06 Sep
+due to recurrent CH HSS influences.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Sep 03-Sep 05 2025
+Solar Radiation Storm Forecast for Sep 04-Sep 06 2025
 
-              Sep 03  Sep 04  Sep 05
-S1 or greater   10%     10%     10%
+              Sep 04  Sep 05  Sep 06
+S1 or greater   10%     10%      5%
 
 Rationale: There is a slight chance for a greater than 10 MeV proton
-event reaching the S1 (Minor) levels on 03-05 Sep with a large event
-from AR 4197 being the most likely threat.
+event reaching the S1 (Minor) levels through 05 Sep due to the flare
+potential from AR 4197.
 
 C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Sep 03-Sep 05 2025
+Radio Blackout Forecast for Sep 04-Sep 06 2025
 
-              Sep 03        Sep 04        Sep 05
-R1-R2           55%           55%           55%
-R3 or greater   15%           15%           15%
+              Sep 04        Sep 05        Sep 06
+R1-R2           50%           50%           35%
+R3 or greater   10%           10%            5%
 
-Rationale: M-class flares (R1-R2/Minor-Moderate) are likely, with a
-slight chance for an X-class flare (R3-Strong or greater), through 05
-Sep primarily due to the flare potential exhibited from AR 4197.
+Rationale: There is a chance for isolated M-class flares
+(R1-R2/Minor-Moderate), with a slight chance for an X-class flare
+(R3-Strong or greater), through 05 Sep primarily due to the flare
+potential from AR 4197.
 
 ```
