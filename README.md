@@ -1,11 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2025-09-04
-<br />**This image is owned by:**  José Rodrigues
-<br />**Title of the image:**  NGC 4565: Galaxy on Edge
-<br />**Description for the image:**  Magnificent spiral galaxy NGC 4565 is viewed edge-on from planet Earth. Also known as the Needle Galaxy for its narrow profile, bright NGC 4565 is a stop on many telescopic tours of the northern sky, in the faint but well-groomed constellation Coma Berenices. This sharp, colorful image reveals the galaxy's boxy, bulging central core cut by obscuring dust lanes that lace NGC 4565's thin galactic plane. NGC 4565 lies around 40 million light-years distant while the spiral galaxy itself spans some 100,000 light-years.  That's about the size of our own Milky Way. Easily spotted with small telescopes, deep sky enthusiasts consider NGC 4565 to be a prominent celestial masterpiece Messier missed.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2509/NGC4565_APOD_sRGB.jpg
+<br />**Date image released:**  2025-09-05
+<br />**This image is owned by:**  Carlos Taylor
+<br />**Title of the image:**  47 Tucanae: Globular Star Cluster
+<br />**Description for the image:**  Also known as NGC 104, 47 Tucanae is a jewel of the southern sky. Not a star but a dense cluster of stars, it roams the halo of our Milky Way Galaxy along with some 200 other globular star clusters. The second brightest globular cluster (after Omega Centauri) as seen from planet Earth, 47 Tuc lies about 13,000 light-years away. It can be spotted with the naked eye close on the sky to the Small Magellanic Cloud in the constellation of the Toucan. The dense cluster is made up of hundreds of thousands of stars in a volume only about 120 light-years across. Red giant stars on the outskirts of the cluster are easy to pick out as yellowish stars in this sharp telescopic portrait. Tightly packed globular star cluster 47 Tuc is also home to a star with the closest known orbit around a black hole.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2509/crtastro_0352.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,29 +49,29 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 Sep 04 0030 UTC
+:Issued: 2025 Sep 05 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 5 (NOAA Scale
+The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
+Scale levels).
+The greatest expected 3 hr Kp for Sep 05-Sep 07 2025 is 5.00 (NOAA Scale
 G1).
-The greatest expected 3 hr Kp for Sep 04-Sep 06 2025 is 5.00 (NOAA Scale
-G1).
 
-NOAA Kp index breakdown Sep 04-Sep 06 2025
+NOAA Kp index breakdown Sep 05-Sep 07 2025
 
-             Sep 04       Sep 05       Sep 06
-00-03UT       2.00         2.33         5.00 (G1)
-03-06UT       2.00         2.00         4.67 (G1)
-06-09UT       2.00         2.33         4.00     
-09-12UT       2.33         2.33         4.00     
-12-15UT       2.67         2.33         3.33     
-15-18UT       2.33         2.67         3.00     
-18-21UT       2.33         3.00         2.33     
-21-00UT       2.00         3.67         3.00     
+             Sep 05       Sep 06       Sep 07
+00-03UT       3.00         5.00 (G1)    3.67     
+03-06UT       2.33         4.67 (G1)    3.33     
+06-09UT       2.33         4.00         3.00     
+09-12UT       2.33         4.00         3.00     
+12-15UT       2.67         2.33         2.33     
+15-18UT       3.67         3.00         2.67     
+18-21UT       4.00         3.33         2.67     
+21-00UT       4.67 (G1)    3.33         3.00     
 
-Rationale: G1 (Minor) geomagnetic storm levels are likely on 06 Sep
+Rationale: G1 (Minor) geomagnetic storm levels are likely on 05-06 Sep
 due to recurrent CH HSS influences.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
@@ -79,28 +79,30 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Sep 04-Sep 06 2025
+Solar Radiation Storm Forecast for Sep 05-Sep 07 2025
 
-              Sep 04  Sep 05  Sep 06
+              Sep 05  Sep 06  Sep 07
 S1 or greater   10%     10%      5%
 
 Rationale: There is a slight chance for a greater than 10 MeV proton
-event reaching the S1 (Minor) levels through 05 Sep due to the flare
+event reaching the S1 (Minor) levels through 06 Sep due to the flare
 potential from AR 4197.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-No radio blackouts were observed over the past 24 hours.
+Radio blackouts reaching the R1 levels were observed over the past 24
+hours. The largest was at Sep 04 2025 1344 UTC.
 
-Radio Blackout Forecast for Sep 04-Sep 06 2025
+Radio Blackout Forecast for Sep 05-Sep 07 2025
 
-              Sep 04        Sep 05        Sep 06
-R1-R2           50%           50%           35%
+              Sep 05        Sep 06        Sep 07
+R1-R2           55%           55%           40%
 R3 or greater   10%           10%            5%
 
-Rationale: There is a chance for isolated M-class flares
-(R1-R2/Minor-Moderate), with a slight chance for an X-class flare
-(R3-Strong or greater), through 05 Sep primarily due to the flare
-potential from AR 4197.
+Rationale: Solar activity is expected to be low with a chance for
+M-class flares (R1-R2, Minor-Moderate) and a slight chance for an
+X-class flare (R3-Strong or greater), through 05 Sep primarily due to
+the flare potential from AR 4197. Chances for M-class flares decrease on
+07 Sep as AR 4197 rotates further around the W limb.
 
 ```
