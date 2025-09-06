@@ -1,11 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2025-09-05
-<br />**This image is owned by:**  Carlos Taylor
-<br />**Title of the image:**  47 Tucanae: Globular Star Cluster
-<br />**Description for the image:**  Also known as NGC 104, 47 Tucanae is a jewel of the southern sky. Not a star but a dense cluster of stars, it roams the halo of our Milky Way Galaxy along with some 200 other globular star clusters. The second brightest globular cluster (after Omega Centauri) as seen from planet Earth, 47 Tuc lies about 13,000 light-years away. It can be spotted with the naked eye close on the sky to the Small Magellanic Cloud in the constellation of the Toucan. The dense cluster is made up of hundreds of thousands of stars in a volume only about 120 light-years across. Red giant stars on the outskirts of the cluster are easy to pick out as yellowish stars in this sharp telescopic portrait. Tightly packed globular star cluster 47 Tuc is also home to a star with the closest known orbit around a black hole.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2509/crtastro_0352.jpg
+<br />**Date image released:**  2025-09-06
+<br />**This image is owned by:**  When the sun sets on September 7
+<br />**Title of the image:**  Sardinia Sunset
+<br />**Description for the image:**  When the sun sets on September 7, the Full Moon will rise. And on that date denizens around much of our fair planet, including parts of Antarctica, Australia, Asia, Europe, and Africa can witness a total lunar eclipse, with the Moon completely immersed in Earth's shadow. As the bright Full Moon first enters Earth's shadow it will darken, finally taking on a reddish hue during the total eclipse phase. In fact, the color of the Moon during a total lunar eclipse is due to reddened light from sunrises and sunsets around planet Earth. The reddened sunlight is scattered by a dense atmosphere into the planet's otherwise dark central shadow. When the sun set on August 22, this telephoto snapshot of red skies, blue sea, and the Mangiabarche Lighthouse was captured from Sant'Antioco, Sardinia, Italy.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2509/MangiabarcheTramonto.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,60 +49,59 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 Sep 05 0030 UTC
+:Issued: 2025 Sep 06 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Sep 05-Sep 07 2025 is 5.00 (NOAA Scale
+The greatest expected 3 hr Kp for Sep 06-Sep 08 2025 is 5.00 (NOAA Scale
 G1).
 
-NOAA Kp index breakdown Sep 05-Sep 07 2025
+NOAA Kp index breakdown Sep 06-Sep 08 2025
 
-             Sep 05       Sep 06       Sep 07
-00-03UT       3.00         5.00 (G1)    3.67     
-03-06UT       2.33         4.67 (G1)    3.33     
-06-09UT       2.33         4.00         3.00     
-09-12UT       2.33         4.00         3.00     
-12-15UT       2.67         2.33         2.33     
-15-18UT       3.67         3.00         2.67     
-18-21UT       4.00         3.33         2.67     
-21-00UT       4.67 (G1)    3.33         3.00     
+             Sep 06       Sep 07       Sep 08
+00-03UT       5.00 (G1)    3.67         3.00     
+03-06UT       4.67 (G1)    3.33         2.67     
+06-09UT       4.00         5.00 (G1)    2.00     
+09-12UT       4.00         5.00 (G1)    2.67     
+12-15UT       2.33         4.00         2.67     
+15-18UT       3.00         3.00         2.00     
+18-21UT       3.33         3.00         2.67     
+21-00UT       3.33         4.33         3.00     
 
-Rationale: G1 (Minor) geomagnetic storm levels are likely on 05-06 Sep
-due to recurrent CH HSS influences.
+Rationale: G1 (Minor) or greater geomagnetic storms are likely on 06 Sep
+due to influence from a coronal hole, and on 07 Sep due to arrival from
+a CME that left the Sun on 04 Sep.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Sep 05-Sep 07 2025
+Solar Radiation Storm Forecast for Sep 06-Sep 08 2025
 
-              Sep 05  Sep 06  Sep 07
-S1 or greater   10%     10%      5%
+              Sep 06  Sep 07  Sep 08
+S1 or greater   10%      5%      5%
 
-Rationale: There is a slight chance for a greater than 10 MeV proton
-event reaching the S1 (Minor) levels through 06 Sep due to the flare
-potential from AR 4197.
+Rationale: There exists a slight chance for S1 (Minor) solar radiation
+storms over 06 Sep.
 
 C. NOAA Radio Blackout Activity and Forecast
 
 Radio blackouts reaching the R1 levels were observed over the past 24
-hours. The largest was at Sep 04 2025 1344 UTC.
+hours. The largest was at Sep 05 2025 0116 UTC.
 
-Radio Blackout Forecast for Sep 05-Sep 07 2025
+Radio Blackout Forecast for Sep 06-Sep 08 2025
 
-              Sep 05        Sep 06        Sep 07
-R1-R2           55%           55%           40%
-R3 or greater   10%           10%            5%
+              Sep 06        Sep 07        Sep 08
+R1-R2           55%           40%           40%
+R3 or greater   10%            5%            5%
 
-Rationale: Solar activity is expected to be low with a chance for
-M-class flares (R1-R2, Minor-Moderate) and a slight chance for an
-X-class flare (R3-Strong or greater), through 05 Sep primarily due to
-the flare potential from AR 4197. Chances for M-class flares decrease on
-07 Sep as AR 4197 rotates further around the W limb.
+Rationale: R1-R2 (Minor-Moderate) radio blackouts, with a slight chance
+for R3 (Strong), are like on 06 Sep. A chance remains for R1-R2 events
+over 07-08 Sep after multiple complex regions rotate around the Suns W
+limb.
 
 ```
