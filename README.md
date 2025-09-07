@@ -1,11 +1,10 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2025-09-06
-<br />**This image is owned by:**  When the sun sets on September 7
-<br />**Title of the image:**  Sardinia Sunset
-<br />**Description for the image:**  When the sun sets on September 7, the Full Moon will rise. And on that date denizens around much of our fair planet, including parts of Antarctica, Australia, Asia, Europe, and Africa can witness a total lunar eclipse, with the Moon completely immersed in Earth's shadow. As the bright Full Moon first enters Earth's shadow it will darken, finally taking on a reddish hue during the total eclipse phase. In fact, the color of the Moon during a total lunar eclipse is due to reddened light from sunrises and sunsets around planet Earth. The reddened sunlight is scattered by a dense atmosphere into the planet's otherwise dark central shadow. When the sun set on August 22, this telephoto snapshot of red skies, blue sea, and the Mangiabarche Lighthouse was captured from Sant'Antioco, Sardinia, Italy.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2509/MangiabarcheTramonto.jpg
+<br />**Date image released:**  2025-09-07
+<br />**Title of the image:**  All the Water on Planet Earth
+<br />**Description for the image:**  How much of planet Earth is made of water? Very little, actually. Although oceans of water cover about 70 percent of Earth's surface, these oceans are shallow compared to the Earth's radius. The featured illustration shows what would happen if all of the water on or near the surface of the Earth were bunched up into a ball. The radius of this ball would be only about 700 kilometers, less than half the radius of the Earth's Moon, but slightly larger than Saturn's moon Rhea which, like many moons in our outer Solar System, is mostly water ice. The next smallest ball depicts all of Earth's liquid fresh water, while the tiniest ball shows the volume of all of Earth's fresh-water lakes and rivers. How any of this water came to be on the Earth and whether any significant amount is trapped far beneath Earth's surface remain topics of research.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2509/WaterlessEarth2_woodshole_2520.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,59 +48,57 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 Sep 06 0030 UTC
+:Issued: 2025 Sep 07 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
-Scale levels).
-The greatest expected 3 hr Kp for Sep 06-Sep 08 2025 is 5.00 (NOAA Scale
+The greatest observed 3 hr Kp over the past 24 hours was 5 (NOAA Scale
+G1).
+The greatest expected 3 hr Kp for Sep 07-Sep 09 2025 is 4.67 (NOAA Scale
 G1).
 
-NOAA Kp index breakdown Sep 06-Sep 08 2025
+NOAA Kp index breakdown Sep 07-Sep 09 2025
 
-             Sep 06       Sep 07       Sep 08
-00-03UT       5.00 (G1)    3.67         3.00     
-03-06UT       4.67 (G1)    3.33         2.67     
-06-09UT       4.00         5.00 (G1)    2.00     
-09-12UT       4.00         5.00 (G1)    2.67     
-12-15UT       2.33         4.00         2.67     
-15-18UT       3.00         3.00         2.00     
-18-21UT       3.33         3.00         2.67     
-21-00UT       3.33         4.33         3.00     
+             Sep 07       Sep 08       Sep 09
+00-03UT       3.67         3.67         2.67     
+03-06UT       4.67 (G1)    3.67         2.67     
+06-09UT       4.67 (G1)    2.67         2.00     
+09-12UT       3.67         2.67         1.67     
+12-15UT       3.00         2.00         1.67     
+15-18UT       2.67         1.67         2.00     
+18-21UT       3.00         1.67         1.67     
+21-00UT       4.33         2.67         2.33     
 
-Rationale: G1 (Minor) or greater geomagnetic storms are likely on 06 Sep
-due to influence from a coronal hole, and on 07 Sep due to arrival from
-a CME that left the Sun on 04 Sep.
+Rationale: G1 (Minor) geomagnetic storms are likely on 07 Sep due to
+influence from both a waning CME and coronal hole.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Sep 06-Sep 08 2025
+Solar Radiation Storm Forecast for Sep 07-Sep 09 2025
 
-              Sep 06  Sep 07  Sep 08
-S1 or greater   10%      5%      5%
+              Sep 07  Sep 08  Sep 09
+S1 or greater    1%      1%      1%
 
-Rationale: There exists a slight chance for S1 (Minor) solar radiation
-storms over 06 Sep.
+Rationale: No S1 (Minor) or greater solar radiation storms are expected.
+No significant active region activity favorable for radiation storm
+production is forecast.
 
 C. NOAA Radio Blackout Activity and Forecast
 
 Radio blackouts reaching the R1 levels were observed over the past 24
-hours. The largest was at Sep 05 2025 0116 UTC.
+hours. The largest was at Sep 06 2025 2215 UTC.
 
-Radio Blackout Forecast for Sep 06-Sep 08 2025
+Radio Blackout Forecast for Sep 07-Sep 09 2025
 
-              Sep 06        Sep 07        Sep 08
-R1-R2           55%           40%           40%
-R3 or greater   10%            5%            5%
+              Sep 07        Sep 08        Sep 09
+R1-R2           30%           30%           30%
+R3 or greater    1%            1%            1%
 
-Rationale: R1-R2 (Minor-Moderate) radio blackouts, with a slight chance
-for R3 (Strong), are like on 06 Sep. A chance remains for R1-R2 events
-over 07-08 Sep after multiple complex regions rotate around the Suns W
-limb.
+Rationale: There exists a slight chance for R1-R2 (Minor-Moderate) radio
+blackouts over 07-09 Sep.
 
 ```
