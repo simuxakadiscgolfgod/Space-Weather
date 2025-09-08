@@ -1,10 +1,10 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2025-09-07
-<br />**Title of the image:**  All the Water on Planet Earth
-<br />**Description for the image:**  How much of planet Earth is made of water? Very little, actually. Although oceans of water cover about 70 percent of Earth's surface, these oceans are shallow compared to the Earth's radius. The featured illustration shows what would happen if all of the water on or near the surface of the Earth were bunched up into a ball. The radius of this ball would be only about 700 kilometers, less than half the radius of the Earth's Moon, but slightly larger than Saturn's moon Rhea which, like many moons in our outer Solar System, is mostly water ice. The next smallest ball depicts all of Earth's liquid fresh water, while the tiniest ball shows the volume of all of Earth's fresh-water lakes and rivers. How any of this water came to be on the Earth and whether any significant amount is trapped far beneath Earth's surface remain topics of research.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2509/WaterlessEarth2_woodshole_2520.jpg
+<br />**Date image released:**  2025-09-08
+<br />**Title of the image:**  IRAS 04302: Butterfly Disk Planet Formation
+<br />**Description for the image:**  This butterfly can hatch planets. The nebula fanning out from the star IRAS 04302+2247 may look like the wings of a butterfly, while the vertical brown stripe down the center may look like the butterfly's body -- but together they indicate an active planet-forming system. The featured picture was captured recently in infrared light by the Webb Space Telescope. Pictured, the vertical disk is thick with the gas and dust from which planets form. The disk shades visible and (most) infrared light from the central star, allowing a good view of the surrounding dust that reflects out light. In the next few million years, the dust disk will likely fragment into rings through the gravity of newly hatched planets.  And a billion years from now, the remaining gas and dust will likely dissipate, leaving mainly the planets -- like in our Solar System.    Explore the Universe: Random APOD Generator
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2509/IrasDisk_Webb_2045.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -48,39 +48,38 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 Sep 07 0030 UTC
+:Issued: 2025 Sep 08 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 5 (NOAA Scale
-G1).
-The greatest expected 3 hr Kp for Sep 07-Sep 09 2025 is 4.67 (NOAA Scale
-G1).
+The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
+Scale levels).
+The greatest expected 3 hr Kp for Sep 08-Sep 10 2025 is 3.67 (below NOAA
+Scale levels).
 
-NOAA Kp index breakdown Sep 07-Sep 09 2025
+NOAA Kp index breakdown Sep 08-Sep 10 2025
 
-             Sep 07       Sep 08       Sep 09
-00-03UT       3.67         3.67         2.67     
-03-06UT       4.67 (G1)    3.67         2.67     
-06-09UT       4.67 (G1)    2.67         2.00     
-09-12UT       3.67         2.67         1.67     
-12-15UT       3.00         2.00         1.67     
-15-18UT       2.67         1.67         2.00     
-18-21UT       3.00         1.67         1.67     
-21-00UT       4.33         2.67         2.33     
+             Sep 08       Sep 09       Sep 10
+00-03UT       2.67         2.67         2.33     
+03-06UT       3.67         2.67         2.67     
+06-09UT       3.67         2.00         2.33     
+09-12UT       2.67         1.67         2.33     
+12-15UT       2.00         1.67         2.00     
+15-18UT       1.67         1.00         2.00     
+18-21UT       1.00         1.00         1.00     
+21-00UT       2.67         2.33         1.00     
 
-Rationale: G1 (Minor) geomagnetic storms are likely on 07 Sep due to
-influence from both a waning CME and coronal hole.
+Rationale: No G1 (Minor) or greater geomagnetic storms are expected. 
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Sep 07-Sep 09 2025
+Solar Radiation Storm Forecast for Sep 08-Sep 10 2025
 
-              Sep 07  Sep 08  Sep 09
+              Sep 08  Sep 09  Sep 10
 S1 or greater    1%      1%      1%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -89,16 +88,15 @@ production is forecast.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-Radio blackouts reaching the R1 levels were observed over the past 24
-hours. The largest was at Sep 06 2025 2215 UTC.
+No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Sep 07-Sep 09 2025
+Radio Blackout Forecast for Sep 08-Sep 10 2025
 
-              Sep 07        Sep 08        Sep 09
-R1-R2           30%           30%           30%
+              Sep 08        Sep 09        Sep 10
+R1-R2           25%           25%           25%
 R3 or greater    1%            1%            1%
 
-Rationale: There exists a slight chance for R1-R2 (Minor-Moderate) radio
-blackouts over 07-09 Sep.
+Rationale: There exists a chance of R1-R2 (Minor-Moderate) radio
+blackouts over 08-10 Sep.
 
 ```
