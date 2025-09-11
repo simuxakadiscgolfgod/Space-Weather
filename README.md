@@ -1,13 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2025-09-10
-<br />**This image is owned by:**  
-Ian Moehring & Kevin Roylance 
-
-<br />**Title of the image:**  The Great Lacerta Nebula
-<br />**Description for the image:**  It is one of the largest nebulas on the sky -- why isn't it better known? Roughly the same angular size as the Andromeda Galaxy, the Great Lacerta Nebula can be found toward the constellation of the Lizard (Lacerta). The emission nebula is difficult to see with wide-field binoculars because it is so faint, but also usually difficult to see with a large telescope because it is so great in angle -- spanning about three degrees. The depth, breadth, waves, and beauty of the nebula -- cataloged as Sharpless 126 (Sh2-126) -- can best be seen and appreciated with a long duration camera exposure. The featured image is one such combined exposure -- in this case taken over three nights in August through dark skies in Moses Lake, Washington, USA. The hydrogen gas in the Great Lacerta Nebula glows red because it is excited by light from the bright star 10 Lacertae, one of the bright blue stars just to the left of the red-glowing nebula's center.  Most of the stars and nebula are about 1,200 light years distant.    Jigsaw Universe: Astronomy Puzzle of the Day
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2509/GrLacerta_Moehring_5509.jpg
+<br />**Date image released:**  2025-09-11
+<br />**This image is owned by:**  Wang Letian
+<br />**Title of the image:**  The Umbra of Earth
+<br />**Description for the image:**  The dark, inner shadow of planet Earth is called the umbra. Shaped like a cone extending into space, it has a circular cross section most easily seen during a lunar eclipse. And on the night of September 7/8 the Full Moon passed near the center of Earth's umbral cone, entertaining eclipse watchers around much of our fair planet, including parts of Antarctica, Australia, Asia, Europe, and Africa. Recorded from Zhangjiakou City, China, this timelapse composite image uses successive pictures from the total lunar eclipse, progressing left to right, to reveal the curved cross-section of the umbral shadow sliding across the Moon. Sunlight scattered by the atmosphere into Earth's umbra causes the lunar surface to appear reddened during totality. But close to the umbra's edge, the limb of the eclipsed Moon shows a distinct blue hue. The blue eclipsed moonlight originates as rays of sunlight pass through layers high in the upper stratosphere, colored by ozone that scatters red light and transmits blue. In the total phase of this leisurely lunar eclipse, the Moon was completely within the Earth's umbra for about 83 minutes.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2509/UmbraEarth.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -51,39 +49,39 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 Sep 10 0030 UTC
+:Issued: 2025 Sep 11 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 6 (NOAA Scale
-G2).
-The greatest expected 3 hr Kp for Sep 10-Sep 12 2025 is 5.67 (NOAA Scale
-G2).
+The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
+Scale levels).
+The greatest expected 3 hr Kp for Sep 11-Sep 13 2025 is 3.00 (below NOAA
+Scale levels).
 
-NOAA Kp index breakdown Sep 10-Sep 12 2025
+NOAA Kp index breakdown Sep 11-Sep 13 2025
 
-             Sep 10       Sep 11       Sep 12
-00-03UT       4.67 (G1)    2.33         1.67     
-03-06UT       5.67 (G2)    3.00         1.33     
-06-09UT       4.00         2.33         1.33     
-09-12UT       3.67         1.67         1.33     
-12-15UT       3.33         1.33         1.33     
-15-18UT       3.00         1.33         1.33     
-18-21UT       3.00         2.00         1.67     
-21-00UT       3.33         2.33         1.67     
+             Sep 11       Sep 12       Sep 13
+00-03UT       2.33         1.67         1.67     
+03-06UT       3.00         1.33         1.33     
+06-09UT       2.33         1.33         1.33     
+09-12UT       1.67         1.33         1.33     
+12-15UT       1.33         1.33         1.33     
+15-18UT       1.33         1.33         1.33     
+18-21UT       2.00         1.67         1.67     
+21-00UT       2.33         1.67         1.67     
 
-Rationale: G1-G2 (Minor-Moderate) geomagnetic storms are expected early
-on 10 Sep due to CH HSS influences.
+Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
+significant transient or recurrent solar wind features are forecast.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Sep 10-Sep 12 2025
+Solar Radiation Storm Forecast for Sep 11-Sep 13 2025
 
-              Sep 10  Sep 11  Sep 12
+              Sep 11  Sep 12  Sep 13
 S1 or greater    1%      1%      1%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -94,13 +92,13 @@ C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Sep 10-Sep 12 2025
+Radio Blackout Forecast for Sep 11-Sep 13 2025
 
-              Sep 10        Sep 11        Sep 12
-R1-R2           25%           25%           25%
+              Sep 11        Sep 12        Sep 13
+R1-R2           25%           35%           35%
 R3 or greater    1%            1%            1%
 
-Rationale: Solar activity is expected to be at low levels, with a chance
-for isolated M-class flares (R1-R2/Minor-Moderate) through 12 Sep.
+Rationale: There is a chance for R1-R2 (Minor-Moderate) radio blackouts
+on 11-13 Sep.
 
 ```
