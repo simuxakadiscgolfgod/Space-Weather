@@ -1,11 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2025-09-12
-<br />**This image is owned by:**  Zhouyue Zhu
-<br />**Title of the image:**  Lunar Eclipse in Two Hemispheres
-<br />**Description for the image:**  September's total lunar eclipse is tracked across night skies from both the northern and southern hemispheres of planet Earth in these two dramatic timelapse series. In the northern hemisphere sequence (top panel) the Moon’s trail arcs from the upper left to the lower right. It passes below bright planet Saturn, seen under mostly clear skies from the international campus of Zhejiang University in China at about 30 degrees north latitude. In contrast, the southern hemisphere view from Lake Griffin, Canberra, Australia at 35 degrees south latitude, records the Moon’s trail from the upper right to the lower left. Multiple lightning flashes from thunderstorms near the horizon appear reflected in the lake. Both sequences were photographed with 16mm wide-angle lenses and both cover the entire eclipse, with the darkened red Moon totally immersed in Earth's umbral shadow near center. But the different orientations of the Moon’s path across the sky reveal the perspective shifts caused by the views from northern vs. southern latitudes.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2509/APODtwo_hemisphere_combined_no_text.jpg
+<br />**Date image released:**  2025-09-13
+<br />**This image is owned by:**  Joao Yordanov Serralheiro
+<br />**Title of the image:**  Star Trails over One-Mile Radio Telescope
+<br />**Description for the image:**  The steerable 60 foot diameter dish antenna of the One-Mile Telescope at Mullard Radio Astronomy Observatory, Cambridge, UK, is pointing skyward in this evocative night-skyscape. To capture the dramatic scene, consecutive 30 second exposures were recorded over a period of 90 minutes. Combined, the exposures reveal a background of gracefully arcing star trails that reflect planet Earth's daily rotation on its axis. The North Celestial Pole, the extension of Earth's axis of rotation into space, points near Polaris, the North Star. That's the bright star that creates the short trail near the center of the concentric arcs. But the historic One-Mile Telescope array also relied on planet Earth's rotation to operate. Exploring the universe at radio wavelengths, it was the first radio telescope to use Earth-rotation aperture synthesis. That technique uses the rotation of the Earth to change the relative orientation of the telescope array and celestial radio sources to create radio maps of the sky at a resolution better than that of the human eye.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2509/StarTrailsOne-MileRadioTelescope2100.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,27 +49,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 Sep 12 0030 UTC
+:Issued: 2025 Sep 13 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Sep 12-Sep 14 2025 is 4.00 (below NOAA
+The greatest expected 3 hr Kp for Sep 13-Sep 15 2025 is 4.00 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Sep 12-Sep 14 2025
+NOAA Kp index breakdown Sep 13-Sep 15 2025
 
-             Sep 12       Sep 13       Sep 14
-00-03UT       2.00         1.67         1.67     
-03-06UT       2.33         1.33         2.00     
-06-09UT       1.33         1.33         1.67     
-09-12UT       1.33         1.33         2.67     
-12-15UT       1.67         1.33         3.00     
-15-18UT       2.00         1.33         3.67     
-18-21UT       2.67         1.67         3.67     
-21-00UT       3.00         1.67         4.00     
+             Sep 13       Sep 14       Sep 15
+00-03UT       1.67         3.00         3.00     
+03-06UT       1.33         3.67         4.00     
+06-09UT       1.33         2.67         3.67     
+09-12UT       1.33         2.67         2.67     
+12-15UT       1.33         3.67         2.00     
+15-18UT       2.00         4.00         1.67     
+18-21UT       2.67         3.67         2.67     
+21-00UT       3.00         3.00         3.00     
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
 significant transient or recurrent solar wind features are forecast.
@@ -79,9 +79,9 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Sep 12-Sep 14 2025
+Solar Radiation Storm Forecast for Sep 13-Sep 15 2025
 
-              Sep 12  Sep 13  Sep 14
+              Sep 13  Sep 14  Sep 15
 S1 or greater    1%      1%      1%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -92,14 +92,13 @@ C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Sep 12-Sep 14 2025
+Radio Blackout Forecast for Sep 13-Sep 15 2025
 
-              Sep 12        Sep 13        Sep 14
-R1-R2           30%           30%           30%
+              Sep 13        Sep 14        Sep 15
+R1-R2           20%           20%           20%
 R3 or greater    1%            1%            1%
 
-Rationale: A chance for R1-2 (Minor-Moderate) radio blackouts will
-persist through 14 Sep primarily due to the flare potential of Regions
-4213 and 4216.
+Rationale: There is a slight chance for R1-R2 (Minor-Moderate) radio
+blackouts through 15 Sep.
 
 ```
