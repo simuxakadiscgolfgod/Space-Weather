@@ -2,6 +2,13 @@
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
 <br />**Sorry, Image not available!**
+<br />**Date image released:**  2025-09-16
+<br />**This image is owned by:**  
+Daniel Korona
+
+<br />**Title of the image:**  New Comet SWAN25B over Mexico
+<br />**Description for the image:**  A newly discovered comet is already visible with binoculars. The comet, C/2025 R2 (SWAN) and nicknamed SWAN25B, is brightening significantly as it emerges from the Sun's direction and might soon become visible on your smartphone -- if not your eyes. Although the brightnesses of comets are notoriously hard to predict, many comets appear brighter as they approach the Earth, with SWAN25B reaching only a quarter of the Earth-Sun distance near October 19.  Nighttime skygazers will also be watching for a SWAN25B-spawned meteor shower around October 5 when our Earth passes through the plane of the comet's orbit. The unexpectedly bright comet was discovered by an amateur astronomer in images of the SWAN instrument on NASA's SOHO satellite.  The comet is currently best observed in southern skies but is slowly moving north.  The featured image was captured at sunset three days ago just above the western horizon in Zacatecas, Mexico.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2509/Swan25B_Korona_1267.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -45,44 +52,41 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 Sep 14 0030 UTC
+:Issued: 2025 Sep 16 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
-Scale levels).
-The greatest expected 3 hr Kp for Sep 14-Sep 16 2025 is 4.67 (NOAA Scale
+The greatest observed 3 hr Kp over the past 24 hours was 7 (NOAA Scale
+G3).
+The greatest expected 3 hr Kp for Sep 16-Sep 18 2025 is 5.00 (NOAA Scale
 G1).
 
-NOAA Kp index breakdown Sep 14-Sep 16 2025
+NOAA Kp index breakdown Sep 16-Sep 18 2025
 
-             Sep 14       Sep 15       Sep 16
-00-03UT       2.67         3.67         3.00     
-03-06UT       3.67         4.00         3.67     
-06-09UT       2.67         3.67         2.67     
-09-12UT       2.67         2.67         2.00     
-12-15UT       3.67         2.00         2.00     
-15-18UT       3.67         1.67         1.67     
-18-21UT       4.67 (G1)    2.67         2.67     
-21-00UT       3.67         3.00         3.00     
+             Sep 16       Sep 17       Sep 18
+00-03UT       3.67         2.67         2.33     
+03-06UT       4.67 (G1)    4.00         3.00     
+06-09UT       4.00         4.00         3.00     
+09-12UT       5.00 (G1)    3.33         2.33     
+12-15UT       3.33         1.67         1.67     
+15-18UT       3.00         1.67         1.67     
+18-21UT       2.00         2.33         2.00     
+21-00UT       3.00         2.67         2.33     
 
-Rationale: The geomagnetic field is likely to reach G1 (Minor) storm
-levels on 14 Sep due to CIR effects followed by negative polarity CH HSS
-influences. On 15-16 Sep, periods of active conditions are likely, with
-a chance for G1 (Minor) storm periods, due to continued negative
-polarity CH HSS influences. There is a chance to see some weak influence
-from the 11 Sep CME late 14 Sep through early 15 Sep as it passes in
-close proximity to Earth.
+Rationale: Periods of G1 (Minor) geomagnetic storming are expected
+through midday on 16 Sep due to negative polarity CH HSS influences, in
+addition to possible influence from the 11 Sep CME if it passes in close
+proximity to Earth.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Sep 14-Sep 16 2025
+Solar Radiation Storm Forecast for Sep 16-Sep 18 2025
 
-              Sep 14  Sep 15  Sep 16
+              Sep 16  Sep 17  Sep 18
 S1 or greater    1%      1%      1%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -93,13 +97,13 @@ C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Sep 14-Sep 16 2025
+Radio Blackout Forecast for Sep 16-Sep 18 2025
 
-              Sep 14        Sep 15        Sep 16
-R1-R2           20%           20%           20%
-R3 or greater    1%            1%            1%
+              Sep 16        Sep 17        Sep 18
+R1-R2           30%           30%           30%
+R3 or greater    5%            5%            5%
 
-Rationale: Solar activity is expected to be low, with a slight chance
-for an isolated M-flare (R1-R2/Minor-Moderate), through 16 Sep.
+Rationale: There is a chance for isolated R1-R2 (Minor-Moderate) radio
+blackouts through 18 Sep.
 
 ```
