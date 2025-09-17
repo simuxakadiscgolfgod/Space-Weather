@@ -1,14 +1,18 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Sorry, Image not available!**
-<br />**Date image released:**  2025-09-16
+<br />**Date image released:**  2025-09-17
 <br />**This image is owned by:**  
-Daniel Korona
+J. De Winter,
+C. Humbert, 
+C. Robert & 
+V. Sabet;
+Text: Ogetay Kayali 
+(MTU) 
 
-<br />**Title of the image:**  New Comet SWAN25B over Mexico
-<br />**Description for the image:**  A newly discovered comet is already visible with binoculars. The comet, C/2025 R2 (SWAN) and nicknamed SWAN25B, is brightening significantly as it emerges from the Sun's direction and might soon become visible on your smartphone -- if not your eyes. Although the brightnesses of comets are notoriously hard to predict, many comets appear brighter as they approach the Earth, with SWAN25B reaching only a quarter of the Earth-Sun distance near October 19.  Nighttime skygazers will also be watching for a SWAN25B-spawned meteor shower around October 5 when our Earth passes through the plane of the comet's orbit. The unexpectedly bright comet was discovered by an amateur astronomer in images of the SWAN instrument on NASA's SOHO satellite.  The comet is currently best observed in southern skies but is slowly moving north.  The featured image was captured at sunset three days ago just above the western horizon in Zacatecas, Mexico.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2509/Swan25B_Korona_1267.jpg
+<br />**Title of the image:**  Nebulas and Clusters in Sagittarius
+<br />**Description for the image:**  Can you spot famous celestial objects in this image?  18th-century astronomer Charles Messier cataloged only two of them: the bright Lagoon Nebula (M8) at the bottom, and the colorful Trifid Nebula (M20) at the upper right.  The one on the left that resembles a cat's paw is NGC 6559, and it is much fainter than the other two.  Even harder to spot are the thin blue filaments on the left, from supernova remnant (SNR G007.5-01.7).  Their glow comes from small amounts of glowing oxygen atoms that are so faint that it took over 17 hours of exposure with just one blue color to bring up. Framing this scene of stellar birth and death are two star clusters: the open cluster M21 just above Trifid, and the globular cluster NGC 6544 at lower left.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2509/SagNebs_DeWinter_4550.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -52,41 +56,39 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 Sep 16 0030 UTC
+:Issued: 2025 Sep 17 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 7 (NOAA Scale
-G3).
-The greatest expected 3 hr Kp for Sep 16-Sep 18 2025 is 5.00 (NOAA Scale
+The greatest observed 3 hr Kp over the past 24 hours was 5 (NOAA Scale
 G1).
+The greatest expected 3 hr Kp for Sep 17-Sep 19 2025 is 4.00 (below NOAA
+Scale levels).
 
-NOAA Kp index breakdown Sep 16-Sep 18 2025
+NOAA Kp index breakdown Sep 17-Sep 19 2025
 
-             Sep 16       Sep 17       Sep 18
-00-03UT       3.67         2.67         2.33     
-03-06UT       4.67 (G1)    4.00         3.00     
-06-09UT       4.00         4.00         3.00     
-09-12UT       5.00 (G1)    3.33         2.33     
-12-15UT       3.33         1.67         1.67     
-15-18UT       3.00         1.67         1.67     
-18-21UT       2.00         2.33         2.00     
-21-00UT       3.00         2.67         2.33     
+             Sep 17       Sep 18       Sep 19
+00-03UT       2.67         2.33         1.67     
+03-06UT       4.00         3.00         1.33     
+06-09UT       4.00         3.00         1.33     
+09-12UT       3.33         2.33         1.33     
+12-15UT       1.67         1.67         1.33     
+15-18UT       1.67         1.67         1.33     
+18-21UT       2.33         2.00         1.67     
+21-00UT       2.67         2.33         1.67     
 
-Rationale: Periods of G1 (Minor) geomagnetic storming are expected
-through midday on 16 Sep due to negative polarity CH HSS influences, in
-addition to possible influence from the 11 Sep CME if it passes in close
-proximity to Earth.
+Rationale:  There continues to be a chance for G1 (Minor) storming on 17
+Sep as CH HSS effects linger.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Sep 16-Sep 18 2025
+Solar Radiation Storm Forecast for Sep 17-Sep 19 2025
 
-              Sep 16  Sep 17  Sep 18
+              Sep 17  Sep 18  Sep 19
 S1 or greater    1%      1%      1%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -97,13 +99,13 @@ C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Sep 16-Sep 18 2025
+Radio Blackout Forecast for Sep 17-Sep 19 2025
 
-              Sep 16        Sep 17        Sep 18
+              Sep 17        Sep 18        Sep 19
 R1-R2           30%           30%           30%
-R3 or greater    5%            5%            5%
+R3 or greater    1%            1%            1%
 
 Rationale: There is a chance for isolated R1-R2 (Minor-Moderate) radio
-blackouts through 18 Sep.
+blackouts through 19 Sep.
 
 ```

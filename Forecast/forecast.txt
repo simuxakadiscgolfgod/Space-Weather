@@ -1,40 +1,38 @@
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 Sep 16 0030 UTC
+:Issued: 2025 Sep 17 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 7 (NOAA Scale
-G3).
-The greatest expected 3 hr Kp for Sep 16-Sep 18 2025 is 5.00 (NOAA Scale
+The greatest observed 3 hr Kp over the past 24 hours was 5 (NOAA Scale
 G1).
+The greatest expected 3 hr Kp for Sep 17-Sep 19 2025 is 4.00 (below NOAA
+Scale levels).
 
-NOAA Kp index breakdown Sep 16-Sep 18 2025
+NOAA Kp index breakdown Sep 17-Sep 19 2025
 
-             Sep 16       Sep 17       Sep 18
-00-03UT       3.67         2.67         2.33     
-03-06UT       4.67 (G1)    4.00         3.00     
-06-09UT       4.00         4.00         3.00     
-09-12UT       5.00 (G1)    3.33         2.33     
-12-15UT       3.33         1.67         1.67     
-15-18UT       3.00         1.67         1.67     
-18-21UT       2.00         2.33         2.00     
-21-00UT       3.00         2.67         2.33     
+             Sep 17       Sep 18       Sep 19
+00-03UT       2.67         2.33         1.67     
+03-06UT       4.00         3.00         1.33     
+06-09UT       4.00         3.00         1.33     
+09-12UT       3.33         2.33         1.33     
+12-15UT       1.67         1.67         1.33     
+15-18UT       1.67         1.67         1.33     
+18-21UT       2.33         2.00         1.67     
+21-00UT       2.67         2.33         1.67     
 
-Rationale: Periods of G1 (Minor) geomagnetic storming are expected
-through midday on 16 Sep due to negative polarity CH HSS influences, in
-addition to possible influence from the 11 Sep CME if it passes in close
-proximity to Earth.
+Rationale:  There continues to be a chance for G1 (Minor) storming on 17
+Sep as CH HSS effects linger.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Sep 16-Sep 18 2025
+Solar Radiation Storm Forecast for Sep 17-Sep 19 2025
 
-              Sep 16  Sep 17  Sep 18
+              Sep 17  Sep 18  Sep 19
 S1 or greater    1%      1%      1%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -45,13 +43,13 @@ C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Sep 16-Sep 18 2025
+Radio Blackout Forecast for Sep 17-Sep 19 2025
 
-              Sep 16        Sep 17        Sep 18
+              Sep 17        Sep 18        Sep 19
 R1-R2           30%           30%           30%
-R3 or greater    5%            5%            5%
+R3 or greater    1%            1%            1%
 
 Rationale: There is a chance for isolated R1-R2 (Minor-Moderate) radio
-blackouts through 18 Sep.
+blackouts through 19 Sep.
 
 ```
