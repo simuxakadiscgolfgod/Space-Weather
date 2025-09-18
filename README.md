@@ -1,18 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2025-09-17
-<br />**This image is owned by:**  
-J. De Winter,
-C. Humbert, 
-C. Robert & 
-V. Sabet;
-Text: Ogetay Kayali 
-(MTU) 
-
-<br />**Title of the image:**  Nebulas and Clusters in Sagittarius
-<br />**Description for the image:**  Can you spot famous celestial objects in this image?  18th-century astronomer Charles Messier cataloged only two of them: the bright Lagoon Nebula (M8) at the bottom, and the colorful Trifid Nebula (M20) at the upper right.  The one on the left that resembles a cat's paw is NGC 6559, and it is much fainter than the other two.  Even harder to spot are the thin blue filaments on the left, from supernova remnant (SNR G007.5-01.7).  Their glow comes from small amounts of glowing oxygen atoms that are so faint that it took over 17 hours of exposure with just one blue color to bring up. Framing this scene of stellar birth and death are two star clusters: the open cluster M21 just above Trifid, and the globular cluster NGC 6544 at lower left.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2509/SagNebs_DeWinter_4550.jpg
+<br />**Date image released:**  2025-09-18
+<br />**This image is owned by:**  Team Ciel Austral
+<br />**Title of the image:**  Comet C/2025 R2 (SWAN)
+<br />**Description for the image:**  A new visitor from the outer Solar System, comet C/2025 R2 (SWAN) also known as SWAN25B was only discovered late last week, on September 11. That's just day before the comet reached perihelion, its closest approach to the Sun. First spotted by Vladimir Bezugly in images from the SWAN instrument on the sun-staring SOHO spacecraft, the comet was surprisingly bright but understandably difficult to see against the Sun's glare. Still close to the Sun on the sky, the greenish coma and tail of C/2025 R2 (SWAN) are captured in this telescopic snapshot from September 17. Spica, alpha star of the constellation Virgo, shines just beyond the upper left edge of the frame while the comet is about 6.5 light-minutes from planet Earth. Near the western horizon after sunset and slightly easier to see in binoculars from the southern hemisphere, this comet SWAN will pass near Zubenelgenubi, alpha star of Libra, on October 2.  C/2025 R2 (SWAN) is scheduled to make its closest approach to our fair planet around October 20.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2509/C2025R2_2000.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -56,39 +49,39 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 Sep 17 0030 UTC
+:Issued: 2025 Sep 18 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 5 (NOAA Scale
-G1).
-The greatest expected 3 hr Kp for Sep 17-Sep 19 2025 is 4.00 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
+Scale levels).
+The greatest expected 3 hr Kp for Sep 18-Sep 20 2025 is 3.00 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Sep 17-Sep 19 2025
+NOAA Kp index breakdown Sep 18-Sep 20 2025
 
-             Sep 17       Sep 18       Sep 19
-00-03UT       2.67         2.33         1.67     
-03-06UT       4.00         3.00         1.33     
-06-09UT       4.00         3.00         1.33     
-09-12UT       3.33         2.33         1.33     
-12-15UT       1.67         1.67         1.33     
-15-18UT       1.67         1.67         1.33     
-18-21UT       2.33         2.00         1.67     
-21-00UT       2.67         2.33         1.67     
+             Sep 18       Sep 19       Sep 20
+00-03UT       2.33         1.67         1.67     
+03-06UT       3.00         1.33         1.33     
+06-09UT       3.00         1.33         1.33     
+09-12UT       2.33         1.33         1.33     
+12-15UT       1.67         1.33         1.33     
+15-18UT       1.67         1.33         1.33     
+18-21UT       2.00         1.67         1.67     
+21-00UT       2.33         1.67         1.67     
 
-Rationale:  There continues to be a chance for G1 (Minor) storming on 17
-Sep as CH HSS effects linger.
+Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
+significant transient or recurrent solar wind features are forecast.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Sep 17-Sep 19 2025
+Solar Radiation Storm Forecast for Sep 18-Sep 20 2025
 
-              Sep 17  Sep 18  Sep 19
+              Sep 18  Sep 19  Sep 20
 S1 or greater    1%      1%      1%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -99,13 +92,13 @@ C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Sep 17-Sep 19 2025
+Radio Blackout Forecast for Sep 18-Sep 20 2025
 
-              Sep 17        Sep 18        Sep 19
-R1-R2           30%           30%           30%
+              Sep 18        Sep 19        Sep 20
+R1-R2           35%           35%           35%
 R3 or greater    1%            1%            1%
 
-Rationale: There is a chance for isolated R1-R2 (Minor-Moderate) radio
-blackouts through 19 Sep.
+Rationale: There remains a chance for isolated R1-R2 (Minor-Moderate)
+radio blackouts through 20 Sep.
 
 ```
