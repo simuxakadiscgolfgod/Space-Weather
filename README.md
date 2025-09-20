@@ -1,11 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2025-09-19
-<br />**This image is owned by:**  Tommy Lease
-<br />**Title of the image:**  The NGC 6914 Complex
-<br />**Description for the image:**  A study in contrasts, this colorful cosmic skyscape features stars, dust, and glowing gas in the vicinity of NGC 6914. The interstellar complex of nebulae lies some 6,000 light-years away, toward the high-flying northern constellation Cygnus and the plane of our Milky Way Galaxy. Obscuring interstellar dust clouds appear in silhouette while reddish hydrogen emission nebulae, along with the dusty blue reflection nebulae, fill the cosmic canvas. Ultraviolet radiation from the massive, hot, young stars of the extensive Cygnus OB2 association ionize the region's atomic hydrogen gas, producing the characteristic red glow as protons and electrons recombine. Embedded Cygnus OB2 stars also provide the blue starlight strongly reflected by the dust clouds. The over one degree wide telescopic field of view spans about 100 light-years at the estimated distance of NGC 6914.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2509/NGC6914_2048.jpg
+<br />**Date image released:**  2025-09-20
+<br />**This image is owned by:**  Luca Bartek
+<br />**Title of the image:**  Gibbous vs Crescent
+<br />**Description for the image:**  rly risers around planet Earth have enjoyed a shining crescent Moon near brilliant Venus, close to the eastern horizon in recent morning twilight skies. And yesterday, on September 19, skygazers watching from some locations in Earth's northern hemisphere were also able to witness Venus, in the inner planet's waxing gibbous phase, pass behind the Moon's waning crescent. In fact, this telescopic snapshot was taken moments before that occultation of gibbous Venus by the crescent Moon began. The close-up view of the beautiful celestial alignment records Venus approaching part of the Moon's sunlit edge in clear daytime skies from the Swiss Alps. Tomorrow, the Sun will pass behind a New Moon. But to witness that partial solar eclipse on September 21, skygazers will need to watch from locations in planet Earth's southern hemisphere.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2509/20250919_Moon_Venus_logo.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,39 +49,41 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 Sep 19 0030 UTC
+:Issued: 2025 Sep 20 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Sep 19-Sep 21 2025 is 4.33 (below NOAA
-Scale levels).
+The greatest expected 3 hr Kp for Sep 20-Sep 22 2025 is 4.67 (NOAA Scale
+G1).
 
-NOAA Kp index breakdown Sep 19-Sep 21 2025
+NOAA Kp index breakdown Sep 20-Sep 22 2025
 
-             Sep 19       Sep 20       Sep 21
-00-03UT       1.67         1.67         1.67     
-03-06UT       1.33         1.33         1.33     
-06-09UT       1.33         1.33         1.33     
-09-12UT       1.33         1.33         2.33     
-12-15UT       1.33         1.33         3.00     
-15-18UT       1.33         1.33         3.33     
-18-21UT       1.67         1.67         4.00     
-21-00UT       1.67         1.67         4.33     
+             Sep 20       Sep 21       Sep 22
+00-03UT       1.67         1.67         4.00     
+03-06UT       1.33         1.33         4.67 (G1)
+06-09UT       1.33         1.33         4.33     
+09-12UT       1.33         2.33         3.67     
+12-15UT       1.33         3.00         3.67     
+15-18UT       1.33         3.33         3.33     
+18-21UT       1.67         4.00         3.00     
+21-00UT       1.67         4.33         3.00     
 
-Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
-significant transient or recurrent solar wind features are forecast.
+Rationale: Mostly quiet conditions are expected through most of 21 Sep.
+Unsettled to active conditions, with isolated minor storm (G1-minor)
+levels, are expected by late on 21 Sep/early on 22 Sep due to CH HSS
+onset.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Sep 19-Sep 21 2025
+Solar Radiation Storm Forecast for Sep 20-Sep 22 2025
 
-              Sep 19  Sep 20  Sep 21
+              Sep 20  Sep 21  Sep 22
 S1 or greater    1%      1%      1%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -90,15 +92,16 @@ production is forecast.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-No radio blackouts were observed over the past 24 hours.
+Radio blackouts reaching the R1 levels were observed over the past 24
+hours. The largest was at Sep 19 2025 2141 UTC.
 
-Radio Blackout Forecast for Sep 19-Sep 21 2025
+Radio Blackout Forecast for Sep 20-Sep 22 2025
 
-              Sep 19        Sep 20        Sep 21
+              Sep 20        Sep 21        Sep 22
 R1-R2           35%           35%           35%
 R3 or greater    1%            1%            1%
 
 Rationale: There remains a chance for isolated R1-R2 (Minor-Moderate)
-radio blackouts through 21 Sep.
+radio blackouts through 22 Sep.
 
 ```
