@@ -1,10 +1,13 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2025-09-21
-<br />**Title of the image:**  Equinox Sunset
-<br />**Description for the image:**  Does the Sun set in the same direction every day? No, the direction of sunset depends on the time of the year. Although the Sun always sets approximately toward the west, on an equinox like today the Sun sets directly toward the west. After tomorrow's September equinox, the Sun will set increasingly toward the southwest, reaching its maximum displacement at the December solstice.  Before today's September equinox, the Sun had set toward the northwest, reaching its maximum displacement at the June solstice. The featured time-lapse image shows seven bands of the Sun setting one day each month from 2019 December through 2020 June.  These image sequences were taken from Alberta, Canada -- well north of the Earth's equator -- and feature the city of Edmonton in the foreground.  The middle band shows the Sun setting during the last equinox -- in March.  From this location, the Sun will set along this same equinox band again tomorrow.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2509/SunsetMonths_Vanzella_2400.jpg
+<br />**Date image released:**  2025-09-22
+<br />**This image is owned by:**  
+Imran Sultan
+
+<br />**Title of the image:**  Equinox at Saturn
+<br />**Description for the image:**  On Saturn, the rings tell you the season.  On Earth, today marks an equinox, the time when the Earth's equator tilts directly toward the Sun.  Since Saturn's grand rings orbit along the planet's equator, these rings appear most prominent -- from the direction of the Sun -- when the spin axis of Saturn points toward the Sun.  Conversely, when Saturn's spin axis points to the side, an equinox occurs, and the edge-on rings are hard to see from not only the Sun -- but Earth.  In the featured montage, images of Saturn between the years of 2020 and 2025 have been superposed to show the giant planet passing, with this year's equinox, from summer in the north to summer in the south.  Yesterday, Saturn was coincidently about as close as it gets to planet Earth, and so this month the ringed giant's orb is relatively bright and visible throughout the night.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2509/Saturn6Years_Sultan_960.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -48,39 +51,38 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 Sep 21 0030 UTC
+:Issued: 2025 Sep 22 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Sep 21-Sep 23 2025 is 4.67 (NOAA Scale
+The greatest expected 3 hr Kp for Sep 22-Sep 24 2025 is 4.67 (NOAA Scale
 G1).
 
-NOAA Kp index breakdown Sep 21-Sep 23 2025
+NOAA Kp index breakdown Sep 22-Sep 24 2025
 
-             Sep 21       Sep 22       Sep 23
-00-03UT       3.33         4.00         2.67     
-03-06UT       3.00         4.67 (G1)    2.00     
-06-09UT       3.00         4.33         2.00     
-09-12UT       3.00         3.67         3.00     
-12-15UT       3.00         3.67         3.00     
-15-18UT       3.33         3.33         2.67     
-18-21UT       3.67         3.00         2.67     
-21-00UT       3.67         3.00         2.67     
+             Sep 22       Sep 23       Sep 24
+00-03UT       4.00         2.67         1.67     
+03-06UT       4.67 (G1)    2.00         1.33     
+06-09UT       4.33         2.00         1.67     
+09-12UT       3.67         3.00         1.33     
+12-15UT       3.67         3.00         1.33     
+15-18UT       3.33         2.67         1.33     
+18-21UT       3.00         2.67         1.67     
+21-00UT       3.00         2.67         1.33     
 
-Rationale: G1 (Minor) geomagnetic storming is likely on 22 Sep due to
-negative polarity CH HSS effects.
+Rationale: G1 (Minor) storm is likely on 22 Sep due to CH HSS effects.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Sep 21-Sep 23 2025
+Solar Radiation Storm Forecast for Sep 22-Sep 24 2025
 
-              Sep 21  Sep 22  Sep 23
+              Sep 22  Sep 23  Sep 24
 S1 or greater    5%      5%      5%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -91,14 +93,14 @@ C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Sep 21-Sep 23 2025
+Radio Blackout Forecast for Sep 22-Sep 24 2025
 
-              Sep 21        Sep 22        Sep 23
+              Sep 22        Sep 23        Sep 24
 R1-R2           40%           40%           40%
 R3 or greater    5%            5%            5%
 
-Rationale: A chance for R1-R2 (Minor-Moderate) radio blackouts will
-persist through 23 Sep while increasing somewhat due to returning
-regions.
+Rationale: A chance for R1-R2 (Minor to Moderate) radio blackouts will
+persist through 24 Sep primarily due to the flare potential presented by
+the active regions 4220, 4224 and 4225.
 
 ```
