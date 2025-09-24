@@ -1,13 +1,10 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2025-09-22
-<br />**This image is owned by:**  
-Imran Sultan
-
-<br />**Title of the image:**  Equinox at Saturn
-<br />**Description for the image:**  On Saturn, the rings tell you the season.  On Earth, today marks an equinox, the time when the Earth's equator tilts directly toward the Sun.  Since Saturn's grand rings orbit along the planet's equator, these rings appear most prominent -- from the direction of the Sun -- when the spin axis of Saturn points toward the Sun.  Conversely, when Saturn's spin axis points to the side, an equinox occurs, and the edge-on rings are hard to see from not only the Sun -- but Earth.  In the featured montage, images of Saturn between the years of 2020 and 2025 have been superposed to show the giant planet passing, with this year's equinox, from summer in the north to summer in the south.  Yesterday, Saturn was coincidently about as close as it gets to planet Earth, and so this month the ringed giant's orb is relatively bright and visible throughout the night.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2509/Saturn6Years_Sultan_960.jpg
+<br />**Date image released:**  2025-09-24
+<br />**Title of the image:**  GW250114: Rotating Black Holes Collide
+<br />**Description for the image:**  It was the strongest gravitational wave signal yet measured -- what did it show?  GW250114 was detected by both arms of the Laser Interferometer Gravitational-wave Observatory (LIGO) in Washington and Louisiana USA earlier this year.  Analysis showed that the event was created when two black holes, each of mass around 33 times the mass of the Sun, coalesced into one larger black hole with a mass of around 63 solar masses.  Even though the event happened about a billion light years away, the signal was so strong that the spin of all black holes, as well as initial ringing of the final black hole, was deduced with exceptional accuracy. Furthermore, it was confirmed better than before, as previously predicted, that the total event horizon area of the combined black hole was greater than those of the merging black holes. Featured, an artist's illustration depicts an imaginative and conceptual view from near one of the black holes before collision.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2509/ArtGw250114_Simonnet_2400.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -51,39 +48,40 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 Sep 22 0030 UTC
+:Issued: 2025 Sep 24 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Sep 22-Sep 24 2025 is 4.67 (NOAA Scale
-G1).
+The greatest expected 3 hr Kp for Sep 24-Sep 26 2025 is 3.00 (below NOAA
+Scale levels).
 
-NOAA Kp index breakdown Sep 22-Sep 24 2025
+NOAA Kp index breakdown Sep 24-Sep 26 2025
 
-             Sep 22       Sep 23       Sep 24
-00-03UT       4.00         2.67         1.67     
-03-06UT       4.67 (G1)    2.00         1.33     
-06-09UT       4.33         2.00         1.67     
-09-12UT       3.67         3.00         1.33     
-12-15UT       3.67         3.00         1.33     
-15-18UT       3.33         2.67         1.33     
-18-21UT       3.00         2.67         1.67     
-21-00UT       3.00         2.67         1.33     
+             Sep 24       Sep 25       Sep 26
+00-03UT       3.00         1.67         1.67     
+03-06UT       2.67         1.33         1.33     
+06-09UT       2.33         1.33         1.33     
+09-12UT       1.67         1.33         1.33     
+12-15UT       1.33         1.33         1.33     
+15-18UT       1.33         1.33         1.33     
+18-21UT       2.00         1.67         1.67     
+21-00UT       2.00         1.67         1.67     
 
-Rationale: G1 (Minor) storm is likely on 22 Sep due to CH HSS effects.
+Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
+significant transient or recurrent solar wind features are forecast.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Sep 22-Sep 24 2025
+Solar Radiation Storm Forecast for Sep 24-Sep 26 2025
 
-              Sep 22  Sep 23  Sep 24
-S1 or greater    5%      5%      5%
+              Sep 24  Sep 25  Sep 26
+S1 or greater    1%      1%      1%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
 No significant active region activity favorable for radiation storm
@@ -91,16 +89,16 @@ production is forecast.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-No radio blackouts were observed over the past 24 hours.
+Radio blackouts reaching the R1 levels were observed over the past 24
+hours. The largest was at Sep 23 2025 1034 UTC.
 
-Radio Blackout Forecast for Sep 22-Sep 24 2025
+Radio Blackout Forecast for Sep 24-Sep 26 2025
 
-              Sep 22        Sep 23        Sep 24
-R1-R2           40%           40%           40%
-R3 or greater    5%            5%            5%
+              Sep 24        Sep 25        Sep 26
+R1-R2           35%           35%           35%
+R3 or greater    1%            1%            1%
 
-Rationale: A chance for R1-R2 (Minor to Moderate) radio blackouts will
-persist through 24 Sep primarily due to the flare potential presented by
-the active regions 4220, 4224 and 4225.
+Rationale: There is a chance for R1 (Minor) to R2 (Moderate) radio
+blackouts through 26 Sep.
 
 ```
