@@ -1,10 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2025-09-24
-<br />**Title of the image:**  GW250114: Rotating Black Holes Collide
-<br />**Description for the image:**  It was the strongest gravitational wave signal yet measured -- what did it show?  GW250114 was detected by both arms of the Laser Interferometer Gravitational-wave Observatory (LIGO) in Washington and Louisiana USA earlier this year.  Analysis showed that the event was created when two black holes, each of mass around 33 times the mass of the Sun, coalesced into one larger black hole with a mass of around 63 solar masses.  Even though the event happened about a billion light years away, the signal was so strong that the spin of all black holes, as well as initial ringing of the final black hole, was deduced with exceptional accuracy. Furthermore, it was confirmed better than before, as previously predicted, that the total event horizon area of the combined black hole was greater than those of the merging black holes. Featured, an artist's illustration depicts an imaginative and conceptual view from near one of the black holes before collision.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2509/ArtGw250114_Simonnet_2400.jpg
+<br />**Date image released:**  2025-09-25
+<br />**This image is owned by:**  Jin Wang
+<br />**Title of the image:**  Saturn Opposite the Sun
+<br />**Description for the image:**  This year Saturn was at opposition on September 21, opposite the Sun in planet Earth's sky. At its closest to Earth, Saturn was also at its brightest of the year, rising as the Sun set and shining above the horizon all night long among the fainter stars of the constellation Pisces. In this snapshot from the Qinghai Lenghu Observatory, Tibetan Plateau, southwestern China, the outer planet is immersed in a faint, diffuse oval of light known as the gegenschein or counter glow. The diffuse gegenschein is produced by sunlight backscattered by interplanetary dust along the Solar System's ecliptic plane, opposite the Sun in planet Earth's sky. Like a giant eye, on this dark night Saturn and gegenschein seem to stare down on the observatory's telescope domes seen against a colorful background of airglow along the horizon.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2509/DSC05293.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -48,27 +49,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 Sep 24 0030 UTC
+:Issued: 2025 Sep 25 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Sep 24-Sep 26 2025 is 3.00 (below NOAA
+The greatest expected 3 hr Kp for Sep 25-Sep 27 2025 is 3.00 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Sep 24-Sep 26 2025
+NOAA Kp index breakdown Sep 25-Sep 27 2025
 
-             Sep 24       Sep 25       Sep 26
-00-03UT       3.00         1.67         1.67     
-03-06UT       2.67         1.33         1.33     
-06-09UT       2.33         1.33         1.33     
-09-12UT       1.67         1.33         1.33     
-12-15UT       1.33         1.33         1.33     
-15-18UT       1.33         1.33         1.33     
-18-21UT       2.00         1.67         1.67     
-21-00UT       2.00         1.67         1.67     
+             Sep 25       Sep 26       Sep 27
+00-03UT       2.00         1.67         2.33     
+03-06UT       1.33         1.33         2.00     
+06-09UT       1.33         1.33         2.00     
+09-12UT       1.00         1.33         1.67     
+12-15UT       1.00         1.33         2.00     
+15-18UT       1.33         1.33         2.00     
+18-21UT       1.67         1.67         2.00     
+21-00UT       1.67         1.67         3.00     
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
 significant transient or recurrent solar wind features are forecast.
@@ -78,9 +79,9 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Sep 24-Sep 26 2025
+Solar Radiation Storm Forecast for Sep 25-Sep 27 2025
 
-              Sep 24  Sep 25  Sep 26
+              Sep 25  Sep 26  Sep 27
 S1 or greater    1%      1%      1%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -90,15 +91,15 @@ production is forecast.
 C. NOAA Radio Blackout Activity and Forecast
 
 Radio blackouts reaching the R1 levels were observed over the past 24
-hours. The largest was at Sep 23 2025 1034 UTC.
+hours. The largest was at Sep 24 2025 1913 UTC.
 
-Radio Blackout Forecast for Sep 24-Sep 26 2025
+Radio Blackout Forecast for Sep 25-Sep 27 2025
 
-              Sep 24        Sep 25        Sep 26
+              Sep 25        Sep 26        Sep 27
 R1-R2           35%           35%           35%
 R3 or greater    1%            1%            1%
 
 Rationale: There is a chance for R1 (Minor) to R2 (Moderate) radio
-blackouts through 26 Sep.
+blackouts through 27 Sep.
 
 ```
