@@ -1,11 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2025-09-25
-<br />**This image is owned by:**  Jin Wang
-<br />**Title of the image:**  Saturn Opposite the Sun
-<br />**Description for the image:**  This year Saturn was at opposition on September 21, opposite the Sun in planet Earth's sky. At its closest to Earth, Saturn was also at its brightest of the year, rising as the Sun set and shining above the horizon all night long among the fainter stars of the constellation Pisces. In this snapshot from the Qinghai Lenghu Observatory, Tibetan Plateau, southwestern China, the outer planet is immersed in a faint, diffuse oval of light known as the gegenschein or counter glow. The diffuse gegenschein is produced by sunlight backscattered by interplanetary dust along the Solar System's ecliptic plane, opposite the Sun in planet Earth's sky. Like a giant eye, on this dark night Saturn and gegenschein seem to stare down on the observatory's telescope domes seen against a colorful background of airglow along the horizon.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2509/DSC05293.jpg
+<br />**Date image released:**  2025-09-26
+<br />**This image is owned by:**  Adam Block
+<br />**Title of the image:**  A SWAN, an ATLAS, and Mars
+<br />**Description for the image:**  A new visitor to the inner Solar System, comet C/2025 R2 (SWAN) sports a long ion tail extending diagonally across this almost 7 degree wide telescopic field of view recorded on September 21. A fainter fellow comet also making its inner Solar System debut, C/2025 K1 (ATLAS), can be spotted above and left of SWAN's greenish coma, just visible against the background sea of stars in the constellation Virgo. Both new comets were only discovered in 2025 and are joined in this celestial frame by ruddy planet Mars (bottom), a more familiar wanderer in planet Earth's night skies. The comets may appear to be in a race, nearly neck and neck in their voyage through the inner Solar System and around the Sun. But this comet SWAN has already reached its perihelion or closest approach to the Sun on September 12 and is now outbound along its orbit. This comet ATLAS is still inbound though, and will make its perihelion passage on October 8.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2509/C2025_R2_Swan_20250921s.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,27 +49,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 Sep 25 0030 UTC
+:Issued: 2025 Sep 26 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Sep 25-Sep 27 2025 is 3.00 (below NOAA
+The greatest expected 3 hr Kp for Sep 26-Sep 28 2025 is 3.67 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Sep 25-Sep 27 2025
+NOAA Kp index breakdown Sep 26-Sep 28 2025
 
-             Sep 25       Sep 26       Sep 27
-00-03UT       2.00         1.67         2.33     
-03-06UT       1.33         1.33         2.00     
-06-09UT       1.33         1.33         2.00     
-09-12UT       1.00         1.33         1.67     
-12-15UT       1.00         1.33         2.00     
-15-18UT       1.33         1.33         2.00     
-18-21UT       1.67         1.67         2.00     
-21-00UT       1.67         1.67         3.00     
+             Sep 26       Sep 27       Sep 28
+00-03UT       1.67         2.33         2.33     
+03-06UT       1.33         2.00         2.00     
+06-09UT       1.33         2.00         2.00     
+09-12UT       1.33         1.67         2.00     
+12-15UT       1.33         2.00         2.00     
+15-18UT       1.33         2.00         3.00     
+18-21UT       1.67         2.00         3.33     
+21-00UT       1.67         3.00         3.67     
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
 significant transient or recurrent solar wind features are forecast.
@@ -79,9 +79,9 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Sep 25-Sep 27 2025
+Solar Radiation Storm Forecast for Sep 26-Sep 28 2025
 
-              Sep 25  Sep 26  Sep 27
+              Sep 26  Sep 27  Sep 28
 S1 or greater    1%      1%      1%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -90,16 +90,15 @@ production is forecast.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-Radio blackouts reaching the R1 levels were observed over the past 24
-hours. The largest was at Sep 24 2025 1913 UTC.
+No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Sep 25-Sep 27 2025
+Radio Blackout Forecast for Sep 26-Sep 28 2025
 
-              Sep 25        Sep 26        Sep 27
-R1-R2           35%           35%           35%
-R3 or greater    1%            1%            1%
+              Sep 26        Sep 27        Sep 28
+R1-R2           30%           30%           30%
+R3 or greater    5%            5%            5%
 
-Rationale: There is a chance for R1 (Minor) to R2 (Moderate) radio
-blackouts through 27 Sep.
+Rationale: A chance for R1-2 (Minor-Moderate) radio blackouts due to
+isolated M-class flare acitivity will persist through 28 Sep.
 
 ```
