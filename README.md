@@ -1,11 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2025-09-26
-<br />**This image is owned by:**  Adam Block
-<br />**Title of the image:**  A SWAN, an ATLAS, and Mars
-<br />**Description for the image:**  A new visitor to the inner Solar System, comet C/2025 R2 (SWAN) sports a long ion tail extending diagonally across this almost 7 degree wide telescopic field of view recorded on September 21. A fainter fellow comet also making its inner Solar System debut, C/2025 K1 (ATLAS), can be spotted above and left of SWAN's greenish coma, just visible against the background sea of stars in the constellation Virgo. Both new comets were only discovered in 2025 and are joined in this celestial frame by ruddy planet Mars (bottom), a more familiar wanderer in planet Earth's night skies. The comets may appear to be in a race, nearly neck and neck in their voyage through the inner Solar System and around the Sun. But this comet SWAN has already reached its perihelion or closest approach to the Sun on September 12 and is now outbound along its orbit. This comet ATLAS is still inbound though, and will make its perihelion passage on October 8.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2509/C2025_R2_Swan_20250921s.jpg
+<br />**Date image released:**  2025-09-27
+<br />**This image is owned by:**  Pascal Fouquet
+<br />**Title of the image:**  A Rocket in the Sun
+<br />**Description for the image:**  On the morning of September 24 a rocket crosses the bright solar disk in this long range telescopic snapshot captured from Orlando, Florida. That's about 50 miles north of its Kennedy Space Center launch site. This rocket carried three new space weather missions to space. Signals have now been successfully acquired from all three - NASA's Interstellar Mapping and Acceleration Probe, NASA’s Carruthers Geocorona Observatory, and the National Oceanic and Atmospheric Administration (NOAA) Space Weather Follow-On Lagrange 1 (SWFO-L1) - as they begin their journey to L1, an Earth-Sun lagrange point. L1 is about 1.5 million kilometers in the sunward direction from planet Earth. Appropriately, major space weather influencers, aka dark sunspots in active regions across the Sun, are posing with the transiting rocket. In fact, large active region AR4225 is just right of the rocket's nose.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2509/IMAP-IG2-001.JPG
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,27 +49,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 Sep 26 0030 UTC
+:Issued: 2025 Sep 27 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Sep 26-Sep 28 2025 is 3.67 (below NOAA
+The greatest expected 3 hr Kp for Sep 27-Sep 29 2025 is 4.00 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Sep 26-Sep 28 2025
+NOAA Kp index breakdown Sep 27-Sep 29 2025
 
-             Sep 26       Sep 27       Sep 28
-00-03UT       1.67         2.33         2.33     
-03-06UT       1.33         2.00         2.00     
-06-09UT       1.33         2.00         2.00     
-09-12UT       1.33         1.67         2.00     
-12-15UT       1.33         2.00         2.00     
-15-18UT       1.33         2.00         3.00     
-18-21UT       1.67         2.00         3.33     
-21-00UT       1.67         3.00         3.67     
+             Sep 27       Sep 28       Sep 29
+00-03UT       2.33         3.00         3.33     
+03-06UT       2.00         2.33         3.67     
+06-09UT       2.00         2.33         3.00     
+09-12UT       1.67         3.00         3.00     
+12-15UT       2.00         3.33         2.67     
+15-18UT       2.00         4.00         2.67     
+18-21UT       2.00         4.00         2.00     
+21-00UT       3.00         3.67         2.00     
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
 significant transient or recurrent solar wind features are forecast.
@@ -79,9 +79,9 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Sep 26-Sep 28 2025
+Solar Radiation Storm Forecast for Sep 27-Sep 29 2025
 
-              Sep 26  Sep 27  Sep 28
+              Sep 27  Sep 28  Sep 29
 S1 or greater    1%      1%      1%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -90,15 +90,16 @@ production is forecast.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-No radio blackouts were observed over the past 24 hours.
+Radio blackouts reaching the R1 levels were observed over the past 24
+hours. The largest was at Sep 26 2025 2001 UTC.
 
-Radio Blackout Forecast for Sep 26-Sep 28 2025
+Radio Blackout Forecast for Sep 27-Sep 29 2025
 
-              Sep 26        Sep 27        Sep 28
-R1-R2           30%           30%           30%
-R3 or greater    5%            5%            5%
+              Sep 27        Sep 28        Sep 29
+R1-R2           25%           25%           25%
+R3 or greater    1%            1%            1%
 
-Rationale: A chance for R1-2 (Minor-Moderate) radio blackouts due to
-isolated M-class flare acitivity will persist through 28 Sep.
+Rationale: There is a chance for isolated R1-R2 (Minor-Moderate) radio
+blackouts over 26-28 Sep.
 
 ```
