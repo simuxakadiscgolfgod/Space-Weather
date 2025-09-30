@@ -1,14 +1,14 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2025-09-29
+<br />**Date image released:**  2025-09-30
 <br />**This image is owned by:**  
-Luc Perrot
-(TWAN)
+Victor Sabet & 
+Julien De Winter
 
-<br />**Title of the image:**  Two Camera Comets in One Sky
-<br />**Description for the image:**  It may look like these comets are racing, but they are not. Comets C/2025 K1 ATLAS (left) and C/2025 R2 SWAN (right) appeared near each other by chance last week in the featured image taken from France's Reunion Island in the southern Indian Ocean.  Fainter Comet ATLAS is approaching our Sun and will reach its closest approach in early October when it is also expected to be its brightest -- although still only likely visible with long exposures on a camera.  The brighter comet, nicknamed SWAN25B, is now headed away from our Sun, although its closest approach to Earth is expected in mid-October, when optimistic estimates have it becoming bright enough to see with the unaided eye.  Each comet has a greenish coma of expelled gas and an ion tail pointing away from the Sun.    Growing Gallery: Comet SWAN25B
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2509/TwoComets_Perrot_960.jpg
+<br />**Title of the image:**  Comet Lemmon Brightens
+<br />**Description for the image:**  Comet Lemmon is brightening and moving into morning northern skies. Besides Comet SWAN25B and Comet ATLAS, Comet C/2025 A6 (Lemmon) is now the third comet currently visible with binoculars and on long camera exposures.  Comet Lemmon was discovered early this year and is still headed into the inner Solar System. The comet will round the Sun on November 8, but first it will pass its nearest to the Earth -- at about half the Earth-Sun distance -- on October 21.  Although the brightnesses of comets are notoriously hard to predict, optimistic estimates have Comet Lemmon then becoming visible to the unaided eye. The comet should be best seen in predawn skies until mid-October, when it also becomes visible in evening skies.  The featured image showing the comet's split and rapidly changing ion tail was taken in Texas, USA late last week.    Growing Gallery: Comet Lemmon in 2025
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2509/CometLemmon_DeWinter_3549.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -52,27 +52,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 Sep 29 0030 UTC
+:Issued: 2025 Sep 30 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
-Scale levels).
-The greatest expected 3 hr Kp for Sep 29-Oct 01 2025 is 4.00 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 5 (NOAA Scale
+G1).
+The greatest expected 3 hr Kp for Sep 30-Oct 02 2025 is 4.00 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Sep 29-Oct 01 2025
+NOAA Kp index breakdown Sep 30-Oct 02 2025
 
-             Sep 29       Sep 30       Oct 01
-00-03UT       3.00         2.67         1.67     
-03-06UT       3.67         2.67         1.33     
-06-09UT       4.00         2.00         1.33     
-09-12UT       3.00         2.00         1.67     
-12-15UT       2.67         2.00         1.33     
-15-18UT       2.67         2.00         1.00     
-18-21UT       1.67         2.00         1.33     
-21-00UT       1.67         2.00         1.67     
+             Sep 30       Oct 01       Oct 02
+00-03UT       4.00         2.67         1.33     
+03-06UT       3.67         2.00         1.33     
+06-09UT       3.67         2.00         1.33     
+09-12UT       3.00         3.00         1.67     
+12-15UT       2.67         2.67         1.33     
+15-18UT       2.33         2.67         1.33     
+18-21UT       2.33         2.67         1.67     
+21-00UT       2.67         3.00         1.67     
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
 significant transient or recurrent solar wind features are forecast.
@@ -82,10 +82,10 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Sep 29-Oct 01 2025
+Solar Radiation Storm Forecast for Sep 30-Oct 02 2025
 
-              Sep 29  Sep 30  Oct 01
-S1 or greater    1%      1%      1%
+              Sep 30  Oct 01  Oct 02
+S1 or greater    5%      5%      5%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
 No significant active region activity favorable for radiation storm
@@ -93,15 +93,17 @@ production is forecast.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-No radio blackouts were observed over the past 24 hours.
+Radio blackouts reaching the R1 levels were observed over the past 24
+hours. The largest was at Sep 29 2025 0145 UTC.
 
-Radio Blackout Forecast for Sep 29-Oct 01 2025
+Radio Blackout Forecast for Sep 30-Oct 02 2025
 
-              Sep 29        Sep 30        Oct 01
+              Sep 30        Oct 01        Oct 02
 R1-R2           55%           55%           55%
 R3 or greater   10%           10%           10%
 
-Rationale: R1-R2 (Minor-Moderate) radio blackouts are likely over 29-30
-Sep and 01 Oct.
+Rationale: R1-R2 (Minor-Moderate) radio blackouts are likely, with a
+slight chance for R3 (Strong), over 30 Sep - 02 Oct due to the flare
+potential from multiple complex regions on the solar disk.
 
 ```
