@@ -1,8 +1,8 @@
 import nasapy
 import os
-from datetime import datetime
+from datetime import datetime, timedelta
 import urllib.request
-import pytz
+import random
 
 #For API
 try:
@@ -13,14 +13,32 @@ except KeyError:
 #Initialize nasa class by creating an object:
 nasa = nasapy.Nasa(key=SOME_SECRET)
 
-#Specify US east coast timezone
-eastern_timezone = pytz.timezone('US/Eastern')
+import random
+from datetime import datetime, timedelta
 
-# Get the current time in the specified timezone
-d = datetime.now(eastern_timezone).strftime('%Y-%m-%d')
+def random_date(start_date, end_date):
+    time_between = end_date - start_date
+    days_between = time_between.days
+    random_days = random.randint(0, days_between)
+    random_date = start_date + timedelta(days=random_days)
+    return random_date
 
+# Define the date range
+start = datetime(1995, 6, 16)
+end = datetime(2025, 10, 1)
+
+# Generate a random date
+apod_date = random_date(start, end).strftime('%Y-%m-%d')
+                                             
 #Get information
-apod = nasa.picture_of_the_day(date=d, hd=True)
+apod = nasa.picture_of_the_day(date=apod_date, hd=True)
+
+#Get another one if its not an image
+while apod["media_type"] != "image":
+    # Generate a random date
+    apod_date = random_date(start, end).strftime('%Y-%m-%d')                                 
+    #Get information
+    apod = nasa.picture_of_the_day(date=apod_date, hd=True)
 
 #Removes image and log every run
 try:
@@ -28,44 +46,32 @@ try:
     os.remove("Astro_Images/image_log.txt")
 except OSError:
     pass
+    
+#Saving name for image:
+title = "image.jpg"
 
-#Check the media type available:
-if(apod["media_type"] == "image"):
+#Path of the directory:
+image_dir = "Astro_Images"
 
-    #Saving name for image:
-    title = "image.jpg"
+#Checking if the directory already exists?
+dir_res = os.path.exists(image_dir)
 
-    #Path of the directory:
-    image_dir = "Astro_Images"
+#If it doesn't exist then make a new directory:
+if (dir_res==False):
+  os.makedirs(image_dir)
 
-    #Checking if the directory already exists?
-    dir_res = os.path.exists(image_dir)
+#Writing in log
+with open("Astro_Images/image_log.txt", "a") as f:
+  if("date" in apod.keys()):
+    print("<br />**Date image released:** ", apod["date"], file=f)
+  if("copyright" in apod.keys()):
+    print("<br />**This image is owned by:** ", apod["copyright"], file=f)
+  if("title" in apod.keys()):
+    print("<br />**Title of the image:** ", apod["title"], file=f)
+  if("explanation" in apod.keys()):
+    print("<br />**Description for the image:** ", apod["explanation"], file=f)
+  if("hdurl" in apod.keys()):
+    print("<br />**URL for this image:** ", apod["hdurl"], file=f)
 
-    #If it doesn't exist then make a new directory:
-    if (dir_res==False):
-      os.makedirs(image_dir)
-
-    #If it exist then print a statement:
-    else:
-      pass
-
-    #Writing in log
-    with open("Astro_Images/image_log.txt", "a") as f:
-      if("date" in apod.keys()):
-        print("<br />**Date image released:** ", apod["date"], file=f)
-      if("copyright" in apod.keys()):
-        print("<br />**This image is owned by:** ", apod["copyright"], file=f)
-      if("title" in apod.keys()):
-        print("<br />**Title of the image:** ", apod["title"], file=f)
-      if("explanation" in apod.keys()):
-        print("<br />**Description for the image:** ", apod["explanation"], file=f)
-      if("hdurl" in apod.keys()):
-        print("<br />**URL for this image:** ", apod["hdurl"], file=f)
-
-    #Saving the image:
-    urllib.request.urlretrieve(url = apod["hdurl"], filename = os.path.join(image_dir, title))
-
-#If media type is not image:
-else:
-    with open("Astro_Images/image_log.txt", "a") as f:
-      print("<br />**Sorry, Image not available!**", file=f)
+#Saving the image:
+urllib.request.urlretrieve(url = apod["hdurl"], filename = os.path.join(image_dir, title))
