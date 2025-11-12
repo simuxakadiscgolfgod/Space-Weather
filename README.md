@@ -2,13 +2,13 @@
 ## Astronomical Picture of the Day
 **Note**: Due to the lapse in federal US government funding, NASA is not updating the APOD. Therefore, every day a random picture is being displayed from the archive (from 1995-06-16 to 2025-10-01).
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2025-10-01
+<br />**Date image released:**  1998-11-20
 <br />**This image is owned by:**  
-Brian Meyers
+Steve Dunn
 
-<br />**Title of the image:**  NGC 6960: The Witch's Broom Nebula
-<br />**Description for the image:**  Ten thousand years ago, before the dawn of recorded human history, a new light would suddenly have appeared in the night sky and faded after a few weeks.  Today we know this light was from a supernova, or exploding star, and record the expanding debris cloud as the Veil Nebula, a supernova remnant.  This sharp telescopic view is centered on a western segment of the Veil Nebula cataloged as NGC 6960 but less formally known as the Witch's Broom Nebula.  Blasted out in the cataclysmic explosion, an interstellar shock wave plows through space sweeping up and exciting interstellar material. Imaged with narrow band filters, the glowing filaments are like long ripples in a sheet seen almost edge on, remarkably well separated into atomic hydrogen (red) and oxygen (blue-green) gas. The complete supernova remnant lies about 1400 light-years away towards the constellation Cygnus. This Witch's Broom actually spans about 35 light-years. The bright star in the frame is 52 Cygni, visible with the unaided eye from a dark location but unrelated to the ancient supernova remnant.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_6043.jpg
+<br />**Title of the image:**  Green Fireball
+<br />**Description for the image:**  "Goodness, Gracious, Green Balls Of Fire!", might have been an appropriate theme song title for the 1998 Leonid meteor shower. Many observers, like astrophotographer Steve Dunn watching from Cape Canaveral, Florida, USA, reported that a lot of the characteristically bright Leonid meteors had a greenish tint. Around 6:00 AM EST on November 17, he photographed this dazzling Leonid fireball leaving a striking green-to-white trail against a background of stars in the constellation Coma Berenices. Dunn comments that he considers himself a green novice observer, but is now anticipating next November's appearance of the Leonids shower.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/9811/greenfire_dunn_big.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -52,57 +52,60 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 Oct 01 0030 UTC
+:Issued: 2025 Nov 12 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 7 (NOAA Scale
-G3).
-The greatest expected 3 hr Kp for Oct 01-Oct 03 2025 is 5.67 (NOAA Scale
-G2).
+The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
+Scale levels).
+The greatest expected 3 hr Kp for Nov 12-Nov 14 2025 is 8.00 (NOAA Scale
+G4).
 
-NOAA Kp index breakdown Oct 01-Oct 03 2025
+NOAA Kp index breakdown Nov 12-Nov 14 2025
 
-             Oct 01       Oct 02       Oct 03
-00-03UT       5.33 (G1)    3.33         3.00     
-03-06UT       5.67 (G2)    3.00         3.00     
-06-09UT       5.67 (G2)    3.00         2.67     
-09-12UT       4.67 (G1)    3.67         3.00     
-12-15UT       3.67         3.00         3.00     
-15-18UT       3.33         3.00         3.67     
-18-21UT       2.67         3.33         3.00     
-21-00UT       3.00         3.67         2.00     
+             Nov 12       Nov 13       Nov 14
+00-03UT       5.00 (G1)    6.67 (G3)    4.67 (G1)
+03-06UT       7.33 (G3)    6.33 (G2)    4.00     
+06-09UT       6.00 (G2)    6.00 (G2)    3.33     
+09-12UT       4.67 (G1)    4.67 (G1)    3.67     
+12-15UT       4.33         4.00         3.33     
+15-18UT       8.00 (G4)    3.33         3.00     
+18-21UT       7.67 (G4)    4.33         3.00     
+21-00UT       7.00 (G3)    4.67 (G1)    3.33     
 
-Rationale: G1-G2 (Minor-Moderate) geomagnetic storms are expected on 01
-Oct due to persistent CME influences.
+Rationale: CME activity from 09-11 Nov is likely to cause G1-G4
+(Minor-Severe) levels on 12 Nov, G1-G3 (Minor-Strong) storm levels on 13
+Nov and G1 (Minor) levels early on 14 Nov.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
-below S-scale storm level thresholds.
+above S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Oct 01-Oct 03 2025
+Solar Radiation Storm Forecast for Nov 12-Nov 14 2025
 
-              Oct 01  Oct 02  Oct 03
-S1 or greater    5%      5%      5%
+              Nov 12  Nov 13  Nov 14
+S1 or greater   99%     75%     55%
 
-Rationale: No S1 (Minor) or greater solar radiation storms are expected.
-No significant active region activity favorable for radiation storm
-production is forecast.
+Rationale: The greater than 10 MeV proton flux is expected to continue
+above the S1 (Minor) threshold through 13 Nov, with S2 levels possible
+through 12 Nov. Further enhancements are possible with the arrival of
+the 09-11 Nov CMEs on 11 and 12 Nov.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-Radio blackouts reaching the R1 levels were observed over the past 24
-hours. The largest was at Sep 30 2025 0940 UTC.
+Radio blackouts reaching the R3 levels were observed over the past 24
+hours. The largest was at Nov 11 2025 1004 UTC.
 
-Radio Blackout Forecast for Oct 01-Oct 03 2025
+Radio Blackout Forecast for Nov 12-Nov 14 2025
 
-              Oct 01        Oct 02        Oct 03
-R1-R2           60%           60%           60%
-R3 or greater   15%           15%           15%
+              Nov 12        Nov 13        Nov 14
+R1-R2           85%           85%           85%
+R3 or greater   55%           55%           55%
 
-Rationale: R1-R2 (Minor-Moderate) radio blackouts are likely with a
-slight chance for R3 (strong) event through 03 Oct.
+Rationale: R1-R2 (Minor-Moderate) radio blackouts are expected, with
+further R3 (Strong) activity likely on 12-14 Nov due to the flare
+potential of Region 4274.
 
 ```
