@@ -2,13 +2,14 @@
 ## Astronomical Picture of the Day
 **Note**: Due to the lapse in federal US government funding, NASA is not updating the APOD. Therefore, every day a random picture is being displayed from the archive (from 1995-06-16 to 2025-10-01).
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  1998-11-20
+<br />**Date image released:**  2022-09-13
 <br />**This image is owned by:**  
-Steve Dunn
+Alan Friedman
+(Averted Imagination)
 
-<br />**Title of the image:**  Green Fireball
-<br />**Description for the image:**  "Goodness, Gracious, Green Balls Of Fire!", might have been an appropriate theme song title for the 1998 Leonid meteor shower. Many observers, like astrophotographer Steve Dunn watching from Cape Canaveral, Florida, USA, reported that a lot of the characteristically bright Leonid meteors had a greenish tint. Around 6:00 AM EST on November 17, he photographed this dazzling Leonid fireball leaving a striking green-to-white trail against a background of stars in the constellation Coma Berenices. Dunn comments that he considers himself a green novice observer, but is now anticipating next November's appearance of the Leonids shower.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/9811/greenfire_dunn_big.jpg
+<br />**Title of the image:**  A Long Snaking Filament on the Sun
+<br />**Description for the image:**  rlier this month, the Sun exhibited one of the longer filaments on record.  Visible as the bright curving streak around the image center, the snaking filament's full extent was estimated to be over half of the Sun's radius -- more than 350,000 kilometers long. A filament is composed of  hot gas held aloft by the Sun's magnetic field, so that viewed from the side it would appear as a raised prominence.  A different, smaller prominence is simultaneously visible at the Sun's edge. The featured image is in false-color and color-inverted to highlight not only the filament but the Sun's carpet chromosphere.  The bright dot on the upper right is actually a dark sunspot about the size of the Earth.  Solar filaments typically last from hours to days, eventually collapsing to return hot plasma back to the Sun. Sometimes, though, they explode and expel particles into the Solar System, some of which trigger auroras on Earth. The pictured filament appeared in early September and continued to hold steady for about a week.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2209/SnakingFilament_Friedman_960.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -52,60 +53,61 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 Nov 12 0030 UTC
+:Issued: 2025 Nov 13 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
-Scale levels).
-The greatest expected 3 hr Kp for Nov 12-Nov 14 2025 is 8.00 (NOAA Scale
+The greatest observed 3 hr Kp over the past 24 hours was 9 (NOAA Scale
+G5).
+The greatest expected 3 hr Kp for Nov 13-Nov 15 2025 is 8.33 (NOAA Scale
 G4).
 
-NOAA Kp index breakdown Nov 12-Nov 14 2025
+NOAA Kp index breakdown Nov 13-Nov 15 2025
 
-             Nov 12       Nov 13       Nov 14
-00-03UT       5.00 (G1)    6.67 (G3)    4.67 (G1)
-03-06UT       7.33 (G3)    6.33 (G2)    4.00     
-06-09UT       6.00 (G2)    6.00 (G2)    3.33     
-09-12UT       4.67 (G1)    4.67 (G1)    3.67     
-12-15UT       4.33         4.00         3.33     
-15-18UT       8.00 (G4)    3.33         3.00     
-18-21UT       7.67 (G4)    4.33         3.00     
-21-00UT       7.00 (G3)    4.67 (G1)    3.33     
+             Nov 13       Nov 14       Nov 15
+00-03UT       8.00 (G4)    4.67 (G1)    2.33     
+03-06UT       8.33 (G4)    4.00         3.00     
+06-09UT       7.33 (G3)    3.33         2.33     
+09-12UT       5.00 (G1)    3.67         2.00     
+12-15UT       4.33         3.33         1.33     
+15-18UT       4.00         3.00         1.33     
+18-21UT       4.33         3.00         2.00     
+21-00UT       4.67 (G1)    3.33         2.33     
 
-Rationale: CME activity from 09-11 Nov is likely to cause G1-G4
-(Minor-Severe) levels on 12 Nov, G1-G3 (Minor-Strong) storm levels on 13
-Nov and G1 (Minor) levels early on 14 Nov.
+Rationale: G4 (Severe) geomagnetic storming remains likely, primarily
+during the early hours of the 13 Nov UTC-day, due to ongoing CME
+effects. Primarily G1 (Minor) to G2 (Moderate) geomagnetic storming is
+likely thereafter, carrying on into the early hours of the 14 Nov
+UTC-day as CME effects gradually wane.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 above S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Nov 12-Nov 14 2025
+Solar Radiation Storm Forecast for Nov 13-Nov 15 2025
 
-              Nov 12  Nov 13  Nov 14
-S1 or greater   99%     75%     55%
+              Nov 13  Nov 14  Nov 15
+S1 or greater   99%     75%     45%
 
-Rationale: The greater than 10 MeV proton flux is expected to continue
-above the S1 (Minor) threshold through 13 Nov, with S2 levels possible
-through 12 Nov. Further enhancements are possible with the arrival of
-the 09-11 Nov CMEs on 11 and 12 Nov.
+Rationale: S1 (Minor) to S2 (Moderate) solar radiation storms are
+expected to continue through 13 Nov before decreasing to the lower ends
+of the S1 (Minor) threshold over the course of 14 Nov as CME influences
+pass beyond the near-Earth environment.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-Radio blackouts reaching the R3 levels were observed over the past 24
-hours. The largest was at Nov 11 2025 1004 UTC.
+No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Nov 12-Nov 14 2025
+Radio Blackout Forecast for Nov 13-Nov 15 2025
 
-              Nov 12        Nov 13        Nov 14
+              Nov 13        Nov 14        Nov 15
 R1-R2           85%           85%           85%
 R3 or greater   55%           55%           55%
 
-Rationale: R1-R2 (Minor-Moderate) radio blackouts are expected, with
-further R3 (Strong) activity likely on 12-14 Nov due to the flare
-potential of Region 4274.
+Rationale: R1-2 (Minor-Moderate) radioblackouts are expected through 15
+Nov and are likely to be accompanied by isolated R3 (Strong) events as
+AR 4274 makes it approach towards the western limb of the solar disk.
 
 ```
