@@ -2,14 +2,13 @@
 ## Astronomical Picture of the Day
 **Note**: Due to the lapse in federal US government funding, NASA is not updating the APOD. Therefore, every day a random picture is being displayed from the archive (from 1995-06-16 to 2025-10-01).
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2022-09-13
+<br />**Date image released:**  2007-06-19
 <br />**This image is owned by:**  
-Alan Friedman
-(Averted Imagination)
+Thierry Lombry
 
-<br />**Title of the image:**  A Long Snaking Filament on the Sun
-<br />**Description for the image:**  rlier this month, the Sun exhibited one of the longer filaments on record.  Visible as the bright curving streak around the image center, the snaking filament's full extent was estimated to be over half of the Sun's radius -- more than 350,000 kilometers long. A filament is composed of  hot gas held aloft by the Sun's magnetic field, so that viewed from the side it would appear as a raised prominence.  A different, smaller prominence is simultaneously visible at the Sun's edge. The featured image is in false-color and color-inverted to highlight not only the filament but the Sun's carpet chromosphere.  The bright dot on the upper right is actually a dark sunspot about the size of the Earth.  Solar filaments typically last from hours to days, eventually collapsing to return hot plasma back to the Sun. Sometimes, though, they explode and expel particles into the Solar System, some of which trigger auroras on Earth. The pictured filament appeared in early September and continued to hold steady for about a week.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2209/SnakingFilament_Friedman_960.jpg
+<br />**Title of the image:**  Eris: More Massive than Pluto
+<br />**Description for the image:**  ris, a dwarf planet currently orbiting the Sun at about twice Pluto's distance, has been measured to have about 27 percent more mass than Pluto.  The mass was calculated by timing the orbit of Eris' moon Dysnomia.  Images taken with a ground-based Keck telescope, when combined with existing images taken by Hubble Space Telescope, show that Dysnomia has a nearly circular orbit lasting about 16 days.  Cataloged as 2003 UB313 only a year ago, infrared images also showed previously that Eris is actually larger in diameter than Pluto.  The plane of Eris' orbit is well out of the plane of the Solar System's planets.  In the above drawing, a scientific artist has imagined Eris and Dysnomia orbiting our distant Sun.  No space missions are currently planned to Eris, although the robotic New Horizons spacecraft bound for Pluto has recently  passed Jupiter.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/0706/eris_lombry_big.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -53,61 +52,59 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 Nov 13 0030 UTC
+:Issued: 2025 Nov 14 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 9 (NOAA Scale
-G5).
-The greatest expected 3 hr Kp for Nov 13-Nov 15 2025 is 8.33 (NOAA Scale
-G4).
+The greatest observed 3 hr Kp over the past 24 hours was 7 (NOAA Scale
+G3).
+The greatest expected 3 hr Kp for Nov 14-Nov 16 2025 is 6.00 (NOAA Scale
+G2).
 
-NOAA Kp index breakdown Nov 13-Nov 15 2025
+NOAA Kp index breakdown Nov 14-Nov 16 2025
 
-             Nov 13       Nov 14       Nov 15
-00-03UT       8.00 (G4)    4.67 (G1)    2.33     
-03-06UT       8.33 (G4)    4.00         3.00     
-06-09UT       7.33 (G3)    3.33         2.33     
-09-12UT       5.00 (G1)    3.67         2.00     
-12-15UT       4.33         3.33         1.33     
-15-18UT       4.00         3.00         1.33     
-18-21UT       4.33         3.00         2.00     
-21-00UT       4.67 (G1)    3.33         2.33     
+             Nov 14       Nov 15       Nov 16
+00-03UT       4.67 (G1)    2.33         2.00     
+03-06UT       6.00 (G2)    3.00         1.67     
+06-09UT       4.33         2.33         1.33     
+09-12UT       4.00         2.00         1.33     
+12-15UT       2.67         1.33         2.00     
+15-18UT       3.00         1.33         3.33     
+18-21UT       3.00         2.00         4.00     
+21-00UT       3.33         2.33         5.00 (G1)
 
-Rationale: G4 (Severe) geomagnetic storming remains likely, primarily
-during the early hours of the 13 Nov UTC-day, due to ongoing CME
-effects. Primarily G1 (Minor) to G2 (Moderate) geomagnetic storming is
-likely thereafter, carrying on into the early hours of the 14 Nov
-UTC-day as CME effects gradually wane.
+Rationale: G1-2 (Minor-Moderate) geomagnetic storming is expected during
+the early periods of 14 Nov as CME effects linger. G1 (Minor)
+geomagnetic storming is likely by late on 16 Nov due to recurrent,
+negative polarity CH HSS influences.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 above S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Nov 13-Nov 15 2025
+Solar Radiation Storm Forecast for Nov 14-Nov 16 2025
 
-              Nov 13  Nov 14  Nov 15
-S1 or greater   99%     75%     45%
+              Nov 14  Nov 15  Nov 16
+S1 or greater   40%     40%     40%
 
-Rationale: S1 (Minor) to S2 (Moderate) solar radiation storms are
-expected to continue through 13 Nov before decreasing to the lower ends
-of the S1 (Minor) threshold over the course of 14 Nov as CME influences
-pass beyond the near-Earth environment.
+Rationale: A moderate chance for an S1 or greater radiation storm event
+will persist through 16 Nov as AR 4274 approaches the western limb of
+the solar disk.
 
 C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Nov 13-Nov 15 2025
+Radio Blackout Forecast for Nov 14-Nov 16 2025
 
-              Nov 13        Nov 14        Nov 15
-R1-R2           85%           85%           85%
-R3 or greater   55%           55%           55%
+              Nov 14        Nov 15        Nov 16
+R1-R2           70%           70%           70%
+R3 or greater   30%           30%           30%
 
-Rationale: R1-2 (Minor-Moderate) radioblackouts are expected through 15
-Nov and are likely to be accompanied by isolated R3 (Strong) events as
-AR 4274 makes it approach towards the western limb of the solar disk.
+Rationale: R1-2 (Minor-Moderate) radio blackouts are expected, with a
+low chance for an isolated R3 (Strong) event, through 16 Nov primarily
+due to AR 4274s past flare history coupled with its current potential.
 
 ```
