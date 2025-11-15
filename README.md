@@ -2,13 +2,10 @@
 ## Astronomical Picture of the Day
 **Note**: Due to the lapse in federal US government funding, NASA is not updating the APOD. Therefore, every day a random picture is being displayed from the archive (from 1995-06-16 to 2025-10-01).
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2007-06-19
-<br />**This image is owned by:**  
-Thierry Lombry
-
-<br />**Title of the image:**  Eris: More Massive than Pluto
-<br />**Description for the image:**  ris, a dwarf planet currently orbiting the Sun at about twice Pluto's distance, has been measured to have about 27 percent more mass than Pluto.  The mass was calculated by timing the orbit of Eris' moon Dysnomia.  Images taken with a ground-based Keck telescope, when combined with existing images taken by Hubble Space Telescope, show that Dysnomia has a nearly circular orbit lasting about 16 days.  Cataloged as 2003 UB313 only a year ago, infrared images also showed previously that Eris is actually larger in diameter than Pluto.  The plane of Eris' orbit is well out of the plane of the Solar System's planets.  In the above drawing, a scientific artist has imagined Eris and Dysnomia orbiting our distant Sun.  No space missions are currently planned to Eris, although the robotic New Horizons spacecraft bound for Pluto has recently  passed Jupiter.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/0706/eris_lombry_big.jpg
+<br />**Date image released:**  1999-01-16
+<br />**Title of the image:**  Spiral Eddies On Planet Earth
+<br />**Description for the image:**  Can you identify this wispy stellar nebula? How many light-years from Earth did you say? Resembling a twisting cloud of gas and dust between the stars this swirling form is actually close by - a spiral eddy formed near the North Atlantic Gulf Stream off the East coast of the U. S. Tens of miles across, spiral eddies are an ocean current phenomenon discovered by observations from manned spacecraft. Imaged by the Challenger space shuttle crew during the STS 41G mission this eddie is dramatically visible due to the low sun angle and strong reflection of sunlight. The reflection is caused by a very thin biologically produced oily film on the surface of the swirling water. Prior to STS 41G these eddies were thought to be rare but are now understood to be a significant dynamic feature of ocean currents. However, no good explanation of their origin or persistence exists.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/9710/eddies_sts41g_big.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -52,59 +49,57 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 Nov 14 0030 UTC
+:Issued: 2025 Nov 15 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 7 (NOAA Scale
-G3).
-The greatest expected 3 hr Kp for Nov 14-Nov 16 2025 is 6.00 (NOAA Scale
-G2).
+The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
+Scale levels).
+The greatest expected 3 hr Kp for Nov 15-Nov 17 2025 is 5.00 (NOAA Scale
+G1).
 
-NOAA Kp index breakdown Nov 14-Nov 16 2025
+NOAA Kp index breakdown Nov 15-Nov 17 2025
 
-             Nov 14       Nov 15       Nov 16
-00-03UT       4.67 (G1)    2.33         2.00     
-03-06UT       6.00 (G2)    3.00         1.67     
-06-09UT       4.33         2.33         1.33     
-09-12UT       4.00         2.00         1.33     
-12-15UT       2.67         1.33         2.00     
-15-18UT       3.00         1.33         3.33     
-18-21UT       3.00         2.00         4.00     
-21-00UT       3.33         2.33         5.00 (G1)
+             Nov 15       Nov 16       Nov 17
+00-03UT       2.33         2.00         3.67     
+03-06UT       3.00         1.67         4.67 (G1)
+06-09UT       2.33         1.33         4.00     
+09-12UT       2.00         1.33         3.67     
+12-15UT       1.33         2.00         3.33     
+15-18UT       1.33         3.33         3.33     
+18-21UT       2.00         4.00         3.00     
+21-00UT       2.33         5.00 (G1)    3.00     
 
-Rationale: G1-2 (Minor-Moderate) geomagnetic storming is expected during
-the early periods of 14 Nov as CME effects linger. G1 (Minor)
-geomagnetic storming is likely by late on 16 Nov due to recurrent,
-negative polarity CH HSS influences.
+Rationale: G1 (Minor) geomagnetic storming is likely by late on 16 Nov
+through 17 Nov due to recurrent, negative polarity CH HSS influences.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 above S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Nov 14-Nov 16 2025
+Solar Radiation Storm Forecast for Nov 15-Nov 17 2025
 
-              Nov 14  Nov 15  Nov 16
-S1 or greater   40%     40%     40%
+              Nov 15  Nov 16  Nov 17
+S1 or greater   40%     25%     10%
 
-Rationale: A moderate chance for an S1 or greater radiation storm event
-will persist through 16 Nov as AR 4274 approaches the western limb of
-the solar disk.
+Rationale: A chance exists for an S1 event on 15-16 Nov decreasing to a
+slight chance on 17 Nov, all due to the presence of AR 4274.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-No radio blackouts were observed over the past 24 hours.
+Radio blackouts reaching the R3 levels were observed over the past 24
+hours. The largest was at Nov 14 2025 0830 UTC.
 
-Radio Blackout Forecast for Nov 14-Nov 16 2025
+Radio Blackout Forecast for Nov 15-Nov 17 2025
 
-              Nov 14        Nov 15        Nov 16
-R1-R2           70%           70%           70%
-R3 or greater   30%           30%           30%
+              Nov 15        Nov 16        Nov 17
+R1-R2           70%           70%           60%
+R3 or greater   30%           30%           20%
 
-Rationale: R1-2 (Minor-Moderate) radio blackouts are expected, with a
-low chance for an isolated R3 (Strong) event, through 16 Nov primarily
+Rationale: R1-R2 (Minor-Moderate) radio blackouts are likely, with a
+chance for an isolated R3 (Strong) event, through 17 Nov primarily
 due to AR 4274s past flare history coupled with its current potential.
 
 ```
