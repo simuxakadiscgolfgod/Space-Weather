@@ -2,11 +2,11 @@
 ## Astronomical Picture of the Day
 **Note**: Due to the lapse in federal US government funding, NASA is not updating the APOD. Therefore, every day a random picture is being displayed from the archive (from 1995-06-16 to 2025-10-01).
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2025-08-15
-<br />**This image is owned by:**  Jeff Dai
-<br />**Title of the image:**  Moonlight, Planets, and Perseids
-<br />**Description for the image:**  In the predawn sky on August 13, two planets were close. And despite the glare of a waning gibbous Moon, bright Jupiter and even brighter Venus were hard to miss. Their brilliant close conjunction is poised above the eastern horizon in this early morning skyscape. The scene was captured in a single exposure from a site near Gansu, China, with light from both planets reflected in the still waters of a local pond. Also seen against the moonlight were flashes from the annual Perseid Meteor Shower, known for its bright, fast meteors. Near the much anticipated peak of activity, the shower meteors briefly combined with the two planets for a celestial spectacle even in moonlit skies.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2508/IMG_20250813_202125_2048.jpg
+<br />**Date image released:**  2020-07-31
+<br />**This image is owned by:**  John Kraus
+<br />**Title of the image:**  Mars 2020 from 5,000 Feet
+<br />**Description for the image:**  On Thursday this snapshot from a small plane 5,000 feet above Florida's Space Coast caught a rocket's trail rising into the blue morning sky. It was July's third launch of a mission from planet Earth bound for Mars. The Atlas V rocket left Cape Canaveral Air Force Station from Space Launch Complex 41 at 7:50am EDT carrying NASA's Mars 2020 Perseverance Rover. The car-sized Perseverance is headed for a landing at Jezero Crater on the Red Planet in February 2021.  On board the sophisticated rover is the Ingenuity Mars Helicopter.  Mars 2020 Launch: photos from planet Earth
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2007/Mars2020launchKraus.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -50,58 +50,60 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 Nov 16 0030 UTC
+:Issued: 2025 Nov 17 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Nov 16-Nov 18 2025 is 5.00 (NOAA Scale
+The greatest expected 3 hr Kp for Nov 17-Nov 19 2025 is 4.67 (NOAA Scale
 G1).
 
-NOAA Kp index breakdown Nov 16-Nov 18 2025
+NOAA Kp index breakdown Nov 17-Nov 19 2025
 
-             Nov 16       Nov 17       Nov 18
-00-03UT       3.67         3.67         3.00     
-03-06UT       1.67         4.67 (G1)    3.67     
-06-09UT       1.33         4.00         3.00     
-09-12UT       1.33         3.67         2.67     
-12-15UT       2.00         3.33         2.33     
-15-18UT       2.00         3.33         2.33     
-18-21UT       3.33         3.00         2.33     
-21-00UT       5.00 (G1)    3.00         2.00     
+             Nov 17       Nov 18       Nov 19
+00-03UT       3.67         3.00         2.67     
+03-06UT       4.67 (G1)    3.67         2.00     
+06-09UT       4.00         3.00         2.33     
+09-12UT       3.67         2.67         2.33     
+12-15UT       3.33         2.33         2.33     
+15-18UT       3.33         2.33         2.33     
+18-21UT       3.00         2.33         2.33     
+21-00UT       3.00         2.00         2.67     
 
-Rationale: G1 (Minor) geomagnetic storms are likely over 16-17 Nov due
-to the anticipated influence of a negative polarity coronal hole.
+Rationale: G1 (Minor) geomagnetic storms are likely over 17 Nov due to a
+combination of a influence from a CME that left the Sun on 14 Nov and
+the anticipated influence of a negative polarity coronal hole.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Nov 16-Nov 18 2025
+Solar Radiation Storm Forecast for Nov 17-Nov 19 2025
 
-              Nov 16  Nov 17  Nov 18
-S1 or greater   15%     10%      5%
+              Nov 17  Nov 18  Nov 19
+S1 or greater   10%      1%      1%
 
 Rationale: There exists a slight chance for S1 (Minor) or greater solar
-radiation storms over 16-17 Nov due to the eruptive potential from
-Region 4274.
+radiation storms over 17 Nov due to potential from Region 4274 as it
+rotates further around the Suns W limb.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-No radio blackouts were observed over the past 24 hours.
+Radio blackouts reaching the R1 levels were observed over the past 24
+hours. The largest was at Nov 16 2025 0817 UTC.
 
-Radio Blackout Forecast for Nov 16-Nov 18 2025
+Radio Blackout Forecast for Nov 17-Nov 19 2025
 
-              Nov 16        Nov 17        Nov 18
-R1-R2           60%           55%           40%
-R3 or greater   20%           15%            5%
+              Nov 17        Nov 18        Nov 19
+R1-R2           55%           20%           10%
+R3 or greater   15%            1%            1%
 
-Rationale: R1 (Minor) radio blackouts are likely, with a chance for R3
-(Strong), over 16-17 Nov due to the flare potential from Region 4274. By
-18 Nov, there is a chance for R1 (Minor) radio blackouts due to the
-flare potential from Region 4274.
+Rationale: R1-R2 (Minor-Moderate) radio blackouts are are likely, with a
+slight chance for R3 (Strong), over 17 Nov due to the flare potential
+from Region 4274 just beyond the the Suns W limb. Only a slight chance
+remains for R1 events by 19 Nov.
 
 ```
