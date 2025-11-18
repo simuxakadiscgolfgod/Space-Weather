@@ -2,11 +2,10 @@
 ## Astronomical Picture of the Day
 **Note**: Due to the lapse in federal US government funding, NASA is not updating the APOD. Therefore, every day a random picture is being displayed from the archive (from 1995-06-16 to 2025-10-01).
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2020-07-31
-<br />**This image is owned by:**  John Kraus
-<br />**Title of the image:**  Mars 2020 from 5,000 Feet
-<br />**Description for the image:**  On Thursday this snapshot from a small plane 5,000 feet above Florida's Space Coast caught a rocket's trail rising into the blue morning sky. It was July's third launch of a mission from planet Earth bound for Mars. The Atlas V rocket left Cape Canaveral Air Force Station from Space Launch Complex 41 at 7:50am EDT carrying NASA's Mars 2020 Perseverance Rover. The car-sized Perseverance is headed for a landing at Jezero Crater on the Red Planet in February 2021.  On board the sophisticated rover is the Ingenuity Mars Helicopter.  Mars 2020 Launch: photos from planet Earth
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2007/Mars2020launchKraus.jpg
+<br />**Date image released:**  2003-03-16
+<br />**Title of the image:**  NGC 253: The Sculptor Galaxy
+<br />**Description for the image:**  NGC 253 is not only one of the brightest spiral galaxies visible, it is also one of the dustiest.  Discovered in 1783 by Caroline Herschel in the constellation of Sculptor, NGC 253 lies only about ten million light-years distant.  NGC 253 is the largest member of the Sculptor Group of Galaxies, the nearest group to our own  Local Group of Galaxies.  The dense dark dust accompanies a high star formation rate, giving NGC 253 the designation of starburst galaxy.  Visible in the above photograph from the Hubble Space Telescope is the active central nucleus, also known to be a bright source of X-rays and gamma rays.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/0303/ngc253c_hst_big.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -50,60 +49,57 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 Nov 17 0030 UTC
+:Issued: 2025 Nov 18 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Nov 17-Nov 19 2025 is 4.67 (NOAA Scale
-G1).
+The greatest expected 3 hr Kp for Nov 18-Nov 20 2025 is 3.67 (below NOAA
+Scale levels).
 
-NOAA Kp index breakdown Nov 17-Nov 19 2025
+NOAA Kp index breakdown Nov 18-Nov 20 2025
 
-             Nov 17       Nov 18       Nov 19
-00-03UT       3.67         3.00         2.67     
-03-06UT       4.67 (G1)    3.67         2.00     
-06-09UT       4.00         3.00         2.33     
-09-12UT       3.67         2.67         2.33     
-12-15UT       3.33         2.33         2.33     
-15-18UT       3.33         2.33         2.33     
-18-21UT       3.00         2.33         2.33     
-21-00UT       3.00         2.00         2.67     
+             Nov 18       Nov 19       Nov 20
+00-03UT       3.67         2.67         3.00     
+03-06UT       3.67         2.00         2.33     
+06-09UT       3.00         2.33         2.00     
+09-12UT       2.67         2.33         1.67     
+12-15UT       2.33         2.33         1.33     
+15-18UT       2.33         2.33         1.33     
+18-21UT       2.33         2.33         2.00     
+21-00UT       2.00         2.67         2.33     
 
-Rationale: G1 (Minor) geomagnetic storms are likely over 17 Nov due to a
-combination of a influence from a CME that left the Sun on 14 Nov and
-the anticipated influence of a negative polarity coronal hole.
+Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
+significant transient or recurrent solar wind features are forecast.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Nov 17-Nov 19 2025
+Solar Radiation Storm Forecast for Nov 18-Nov 20 2025
 
-              Nov 17  Nov 18  Nov 19
-S1 or greater   10%      1%      1%
+              Nov 18  Nov 19  Nov 20
+S1 or greater    1%      1%      1%
 
-Rationale: There exists a slight chance for S1 (Minor) or greater solar
-radiation storms over 17 Nov due to potential from Region 4274 as it
-rotates further around the Suns W limb.
+Rationale: No S1 (Minor) or greater solar radiation storms are expected.
+No significant active region activity favorable for radiation storm
+production is forecast.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-Radio blackouts reaching the R1 levels were observed over the past 24
-hours. The largest was at Nov 16 2025 0817 UTC.
+No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Nov 17-Nov 19 2025
+Radio Blackout Forecast for Nov 18-Nov 20 2025
 
-              Nov 17        Nov 18        Nov 19
-R1-R2           55%           20%           10%
-R3 or greater   15%            1%            1%
+              Nov 18        Nov 19        Nov 20
+R1-R2           15%           15%           15%
+R3 or greater    1%            1%            1%
 
-Rationale: R1-R2 (Minor-Moderate) radio blackouts are are likely, with a
-slight chance for R3 (Strong), over 17 Nov due to the flare potential
-from Region 4274 just beyond the the Suns W limb. Only a slight chance
-remains for R1 events by 19 Nov.
+Rationale: A slight chance for R1-2 (Minor-Moderate) radio blackouts due
+to isolated M-class flare activity will persit through 20 Nov due to the
+flare potential presented by AR 4284.
 
 ```
