@@ -2,10 +2,10 @@
 ## Astronomical Picture of the Day
 **Note**: Due to the lapse in federal US government funding, NASA is not updating the APOD. Therefore, every day a random picture is being displayed from the archive (from 1995-06-16 to 2025-10-01).
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2003-03-16
-<br />**Title of the image:**  NGC 253: The Sculptor Galaxy
-<br />**Description for the image:**  NGC 253 is not only one of the brightest spiral galaxies visible, it is also one of the dustiest.  Discovered in 1783 by Caroline Herschel in the constellation of Sculptor, NGC 253 lies only about ten million light-years distant.  NGC 253 is the largest member of the Sculptor Group of Galaxies, the nearest group to our own  Local Group of Galaxies.  The dense dark dust accompanies a high star formation rate, giving NGC 253 the designation of starburst galaxy.  Visible in the above photograph from the Hubble Space Telescope is the active central nucleus, also known to be a bright source of X-rays and gamma rays.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/0303/ngc253c_hst_big.jpg
+<br />**Date image released:**  2006-12-19
+<br />**Title of the image:**  Massive Stars in Open Cluster Pismis 24
+<br />**Description for the image:**  How massive can a normal star be?  Estimates made from distance, brightness and standard solar models had given one star in the open cluster Pismis 24 over 200 times the mass of our Sun, making it a record holder.  This star is the brightest object located just to the right of the gas front in the above image.  Close inspection of images taken recently with the Hubble Space Telescope, however, have shown that Pismis 24-1 derives its brilliant luminosity not from a single star but from three at least.  Component stars would still remain near 100 solar masses, making them among the more massive stars currently on record.  Toward the image left, stars are still forming in the associated emission nebula NGC 6357, including several that appear to be breaking out and illuminating a spectacular cocoon.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/0612/ngc6357a_hst_big.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,27 +49,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 Nov 18 0030 UTC
+:Issued: 2025 Nov 19 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Nov 18-Nov 20 2025 is 3.67 (below NOAA
+The greatest expected 3 hr Kp for Nov 19-Nov 21 2025 is 4.00 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Nov 18-Nov 20 2025
+NOAA Kp index breakdown Nov 19-Nov 21 2025
 
-             Nov 18       Nov 19       Nov 20
-00-03UT       3.67         2.67         3.00     
-03-06UT       3.67         2.00         2.33     
-06-09UT       3.00         2.33         2.00     
-09-12UT       2.67         2.33         1.67     
-12-15UT       2.33         2.33         1.33     
-15-18UT       2.33         2.33         1.33     
-18-21UT       2.33         2.33         2.00     
-21-00UT       2.00         2.67         2.33     
+             Nov 19       Nov 20       Nov 21
+00-03UT       1.67         1.67         2.00     
+03-06UT       1.33         1.33         1.33     
+06-09UT       1.33         1.33         1.33     
+09-12UT       1.33         1.33         2.00     
+12-15UT       1.33         1.33         2.33     
+15-18UT       1.33         1.33         3.00     
+18-21UT       1.67         1.67         3.33     
+21-00UT       1.67         1.67         4.00     
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
 significant transient or recurrent solar wind features are forecast.
@@ -79,9 +79,9 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Nov 18-Nov 20 2025
+Solar Radiation Storm Forecast for Nov 19-Nov 21 2025
 
-              Nov 18  Nov 19  Nov 20
+              Nov 19  Nov 20  Nov 21
 S1 or greater    1%      1%      1%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -92,14 +92,14 @@ C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Nov 18-Nov 20 2025
+Radio Blackout Forecast for Nov 19-Nov 21 2025
 
-              Nov 18        Nov 19        Nov 20
+              Nov 19        Nov 20        Nov 21
 R1-R2           15%           15%           15%
 R3 or greater    1%            1%            1%
 
 Rationale: A slight chance for R1-2 (Minor-Moderate) radio blackouts due
-to isolated M-class flare activity will persit through 20 Nov due to the
+to isolated M-class flare activity will persit through 21 Nov due to the
 flare potential presented by AR 4284.
 
 ```
