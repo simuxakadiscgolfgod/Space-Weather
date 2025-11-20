@@ -1,26 +1,26 @@
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 Nov 19 0030 UTC
+:Issued: 2025 Nov 20 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 1 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Nov 19-Nov 21 2025 is 4.00 (below NOAA
+The greatest expected 3 hr Kp for Nov 20-Nov 22 2025 is 4.00 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Nov 19-Nov 21 2025
+NOAA Kp index breakdown Nov 20-Nov 22 2025
 
-             Nov 19       Nov 20       Nov 21
-00-03UT       1.67         1.67         2.00     
-03-06UT       1.33         1.33         1.33     
-06-09UT       1.33         1.33         1.33     
-09-12UT       1.33         1.33         2.00     
-12-15UT       1.33         1.33         2.33     
-15-18UT       1.33         1.33         3.00     
-18-21UT       1.67         1.67         3.33     
-21-00UT       1.67         1.67         4.00     
+             Nov 20       Nov 21       Nov 22
+00-03UT       1.67         4.00         3.33     
+03-06UT       1.33         3.67         2.67     
+06-09UT       1.33         3.00         2.33     
+09-12UT       1.33         3.00         1.67     
+12-15UT       3.33         2.33         1.33     
+15-18UT       3.00         2.33         1.33     
+18-21UT       3.33         2.67         1.33     
+21-00UT       4.00         2.67         2.00     
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
 significant transient or recurrent solar wind features are forecast.
@@ -30,9 +30,9 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Nov 19-Nov 21 2025
+Solar Radiation Storm Forecast for Nov 20-Nov 22 2025
 
-              Nov 19  Nov 20  Nov 21
+              Nov 20  Nov 21  Nov 22
 S1 or greater    1%      1%      1%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -43,14 +43,13 @@ C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Nov 19-Nov 21 2025
+Radio Blackout Forecast for Nov 20-Nov 22 2025
 
-              Nov 19        Nov 20        Nov 21
+              Nov 20        Nov 21        Nov 22
 R1-R2           15%           15%           15%
 R3 or greater    1%            1%            1%
 
-Rationale: A slight chance for R1-2 (Minor-Moderate) radio blackouts due
-to isolated M-class flare activity will persit through 21 Nov due to the
-flare potential presented by AR 4284.
+Rationale: There is a slight chance for R1-R2 (Minor-Moderate) radio
+blackouts over 19-21 Nov.
 
 ```
