@@ -2,11 +2,16 @@
 ## Astronomical Picture of the Day
 **Note**: Due to the lapse in federal US government funding, NASA is not updating the APOD. Therefore, every day a random picture is being displayed from the archive (from 1995-06-16 to 2025-10-01).
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2010-08-14
-<br />**This image is owned by:**  Marco Verstraaten
-<br />**Title of the image:**  Night of the Perseids
-<br />**Description for the image:**  On the night of August 12, from moonset until dawn was a good time to see meteors. Enthusiasts watched as comet dust rained on planet Earth, streaking through dark skies during the annual Perseid Meteor Shower. Anticipating the shower approaching its peak, astronomer Marco Verstraaten recorded a series of exposures capturing meteors over a period of 6 hours using a wide angle lens from a not-so-dark site in the Netherlands. Combining them still produced this dramatic night sky view with many colorful meteor streaks. The starry backdrop includes the Milky Way and even the faint Andromeda Galaxy, right of center. Although the comet dust particles are traveling parallel to each other, the shower meteors clearly seem to radiate from a spot on the sky in the eponymous constellation Perseus. The radiant effect is due to perspective, as the parallel tracks appear to converge at a distance. Bright stars in Perseus extend into the gap between the foreground trees.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/1008/perseids2010_verstraaten.jpg
+<br />**Date image released:**  2016-03-01
+<br />**This image is owned by:**  
+AAO ITSO Office, 
+Gemini Obs./AURA & 
+T. A. Rector 
+(U. Alaska Anchorage)
+
+<br />**Title of the image:**  NGC 3310: A Starburst Spiral Galaxy
+<br />**Description for the image:**  The party is still going on in spiral galaxy NGC 3310.  Roughly 100 million years ago, NGC 3310 likely collided with a smaller galaxy causing the large spiral galaxy to light up with a tremendous burst of star formation.  The changing gravity during the collision created density waves that compressed existing clouds of gas and triggered the star-forming party.  The featured image from the Gemini North Telescope shows the galaxy in great detail, color-coded so that pink highlights gas while white and blue highlight stars.  Some of the star clusters in the galaxy are quite young, indicating that starburst galaxies may remain in star-burst mode for quite some time.  NGC 3310 spans about 50,000 light years, lies about 50 million light years away, and is visible with a small telescope towards the constellation of Ursa Major.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/1603/ngc3310_gemini_1837.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -50,27 +55,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 Nov 20 0030 UTC
+:Issued: 2025 Nov 21 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 1 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Nov 20-Nov 22 2025 is 4.00 (below NOAA
+The greatest expected 3 hr Kp for Nov 21-Nov 23 2025 is 4.00 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Nov 20-Nov 22 2025
+NOAA Kp index breakdown Nov 21-Nov 23 2025
 
-             Nov 20       Nov 21       Nov 22
-00-03UT       1.67         4.00         3.33     
-03-06UT       1.33         3.67         2.67     
-06-09UT       1.33         3.00         2.33     
-09-12UT       1.33         3.00         1.67     
-12-15UT       3.33         2.33         1.33     
-15-18UT       3.00         2.33         1.33     
-18-21UT       3.33         2.67         1.33     
-21-00UT       4.00         2.67         2.00     
+             Nov 21       Nov 22       Nov 23
+00-03UT       4.00         3.33         1.67     
+03-06UT       3.67         2.67         1.33     
+06-09UT       3.00         2.33         1.33     
+09-12UT       3.00         1.67         1.33     
+12-15UT       2.33         1.33         1.33     
+15-18UT       2.33         1.33         1.33     
+18-21UT       2.67         1.33         1.67     
+21-00UT       2.67         2.00         1.67     
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
 significant transient or recurrent solar wind features are forecast.
@@ -80,9 +85,9 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Nov 20-Nov 22 2025
+Solar Radiation Storm Forecast for Nov 21-Nov 23 2025
 
-              Nov 20  Nov 21  Nov 22
+              Nov 21  Nov 22  Nov 23
 S1 or greater    1%      1%      1%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -93,13 +98,13 @@ C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Nov 20-Nov 22 2025
+Radio Blackout Forecast for Nov 21-Nov 23 2025
 
-              Nov 20        Nov 21        Nov 22
+              Nov 21        Nov 22        Nov 23
 R1-R2           15%           15%           15%
 R3 or greater    1%            1%            1%
 
-Rationale: There is a slight chance for R1-R2 (Minor-Moderate) radio
-blackouts over 19-21 Nov.
+Rationale: No R1 (Minor) or greater radio blackouts are expected.  No
+significant active region flare activity is forecast.
 
 ```
