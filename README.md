@@ -2,10 +2,10 @@
 ## Astronomical Picture of the Day
 **Note**: Due to the lapse in federal US government funding, NASA is not updating the APOD. Therefore, every day a random picture is being displayed from the archive (from 1995-06-16 to 2025-10-01).
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2013-09-23
-<br />**Title of the image:**  IC 4628: The Prawn Nebula
-<br />**Description for the image:**  South of Antares, in the tail of the nebula-rich constellation Scorpius, lies emission nebula IC 4628. Nearby hot, massive stars, millions of years young, radiate the nebula with invisible ultraviolet light, stripping electrons from atoms. The electrons eventually recombine with the atoms to produce the visible nebular glow, dominated by the red emission of hydrogen. At an estimated distance of 6,000 light-years, the region shown is about 250 light-years across, spanning an area equivalent to four full moons on the sky. The nebula is also cataloged as Gum 56 for Australian astronomer Colin Stanley Gum, but seafood-loving astronomers might know this cosmic cloud as The Prawn Nebula.   Astrophysicists: Follow ASCL on Facebook, G+, or Twitter
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/1309/prawn_eso_1280.jpg
+<br />**Date image released:**  2018-07-06
+<br />**Title of the image:**  Charon: Moon of Pluto
+<br />**Description for the image:**  A darkened and mysterious north polar region known to some as Mordor Macula caps this premier high-resolution view. The portrait of Charon, Pluto's largest moon, was captured by New Horizons near the spacecraft's closest approach on July 14, 2015. The combined blue, red, and infrared data was processed to enhance colors and follow variations in Charon's surface properties with a resolution of about 2.9 kilometers (1.8 miles). A stunning image of Charon's Pluto-facing hemisphere, it also features a clear view of an apparently moon-girdling belt of fractures and canyons that seems to separate smooth southern plains from varied northern terrain. Charon is 1,214 kilometers (754 miles) across. That's about 1/10th the size of planet Earth but a whopping 1/2 the diameter of Pluto itself, and makes it the largest satellite relative to its parent body in the Solar System. Still, the moon appears as a small bump at about the 1 o'clock position on Pluto's disk in the grainy, negative,telescopic picture inset at upper left. That view was used by James Christy and Robert Harrington at the U.S. Naval Observatory in Flagstaff to discover Charon 40 years ago in June of 1978.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/1807/Charon-Neutral-Bright-Release.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,27 +49,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 Nov 22 0030 UTC
+:Issued: 2025 Nov 23 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Nov 22-Nov 24 2025 is 3.33 (below NOAA
+The greatest expected 3 hr Kp for Nov 23-Nov 25 2025 is 1.67 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Nov 22-Nov 24 2025
+NOAA Kp index breakdown Nov 23-Nov 25 2025
 
-             Nov 22       Nov 23       Nov 24
-00-03UT       3.33         1.67         1.67     
-03-06UT       2.67         1.33         1.33     
-06-09UT       2.33         1.33         1.33     
-09-12UT       1.67         1.33         1.33     
+             Nov 23       Nov 24       Nov 25
+00-03UT       1.67         1.67         1.67     
+03-06UT       1.33         1.33         1.33     
+06-09UT       1.33         1.33         1.33     
+09-12UT       1.33         1.33         1.33     
 12-15UT       1.33         1.33         1.33     
 15-18UT       1.33         1.33         1.33     
-18-21UT       1.33         1.67         1.67     
-21-00UT       2.00         1.67         1.67     
+18-21UT       1.67         1.67         1.67     
+21-00UT       1.67         1.67         1.67     
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
 significant transient or recurrent solar wind features are forecast.
@@ -79,9 +79,9 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Nov 22-Nov 24 2025
+Solar Radiation Storm Forecast for Nov 23-Nov 25 2025
 
-              Nov 22  Nov 23  Nov 24
+              Nov 23  Nov 24  Nov 25
 S1 or greater    1%      1%      1%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -92,13 +92,13 @@ C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Nov 22-Nov 24 2025
+Radio Blackout Forecast for Nov 23-Nov 25 2025
 
-              Nov 22        Nov 23        Nov 24
+              Nov 23        Nov 24        Nov 25
 R1-R2           15%           15%           15%
 R3 or greater    1%            1%            1%
 
 Rationale: There exists a slight chance for R1-R2 (Minor-Moderate) radio
-blackouts over 22-24 Nov.
+blackouts over 23-25 Nov.
 
 ```
