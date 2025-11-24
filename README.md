@@ -2,10 +2,10 @@
 ## Astronomical Picture of the Day
 **Note**: Due to the lapse in federal US government funding, NASA is not updating the APOD. Therefore, every day a random picture is being displayed from the archive (from 1995-06-16 to 2025-10-01).
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2018-07-06
-<br />**Title of the image:**  Charon: Moon of Pluto
-<br />**Description for the image:**  A darkened and mysterious north polar region known to some as Mordor Macula caps this premier high-resolution view. The portrait of Charon, Pluto's largest moon, was captured by New Horizons near the spacecraft's closest approach on July 14, 2015. The combined blue, red, and infrared data was processed to enhance colors and follow variations in Charon's surface properties with a resolution of about 2.9 kilometers (1.8 miles). A stunning image of Charon's Pluto-facing hemisphere, it also features a clear view of an apparently moon-girdling belt of fractures and canyons that seems to separate smooth southern plains from varied northern terrain. Charon is 1,214 kilometers (754 miles) across. That's about 1/10th the size of planet Earth but a whopping 1/2 the diameter of Pluto itself, and makes it the largest satellite relative to its parent body in the Solar System. Still, the moon appears as a small bump at about the 1 o'clock position on Pluto's disk in the grainy, negative,telescopic picture inset at upper left. That view was used by James Christy and Robert Harrington at the U.S. Naval Observatory in Flagstaff to discover Charon 40 years ago in June of 1978.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/1807/Charon-Neutral-Bright-Release.jpg
+<br />**Date image released:**  2001-09-15
+<br />**Title of the image:**  Eclipsed Moon in Infrared
+<br />**Description for the image:**  The total lunar eclipse of September 1996 disappointed many observers in North America who were cursed with cloudy skies. However, the Midcourse Space Experiment (MSX) satellite had a spectacular view from Earth orbit and SPIRIT III, an onboard infrared telescope, was used to repeatedly image the moon during the eclipse. Above is one of the images taken during the 70 minute totality, the Moon completely immersed in the Earth's shadow. Infrared light has wavelengths longer than visible light - human's can not see it but feel it as heat. The bright spots correspond to the warm areas on the lunar surface, dark areas are cooler. The brightest spot below and left of center is the crater Tycho, the dark region at the upper right is the Mare Crisium. The series of SPIRIT III images allow the determination of cooling rates for geologically different areas, exploring the physical properties of the Moon's surface.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/0109/lunarecl_msx_big.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,39 +49,40 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 Nov 23 0030 UTC
+:Issued: 2025 Nov 24 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Nov 23-Nov 25 2025 is 1.67 (below NOAA
-Scale levels).
+The greatest expected 3 hr Kp for Nov 24-Nov 26 2025 is 5.00 (NOAA Scale
+G1).
 
-NOAA Kp index breakdown Nov 23-Nov 25 2025
+NOAA Kp index breakdown Nov 24-Nov 26 2025
 
-             Nov 23       Nov 24       Nov 25
-00-03UT       1.67         1.67         1.67     
-03-06UT       1.33         1.33         1.33     
-06-09UT       1.33         1.33         1.33     
-09-12UT       1.33         1.33         1.33     
-12-15UT       1.33         1.33         1.33     
-15-18UT       1.33         1.33         1.33     
-18-21UT       1.67         1.67         1.67     
-21-00UT       1.67         1.67         1.67     
+             Nov 24       Nov 25       Nov 26
+00-03UT       2.67         1.67         3.67     
+03-06UT       3.00         1.33         5.00 (G1)
+06-09UT       2.33         1.00         3.67     
+09-12UT       1.33         1.00         2.67     
+12-15UT       1.00         1.33         4.67 (G1)
+15-18UT       1.33         1.33         3.67     
+18-21UT       1.67         3.67         3.00     
+21-00UT       1.67         5.00 (G1)    3.67     
 
-Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
-significant transient or recurrent solar wind features are forecast.
+Rationale: G1 (Minor) geomagnetic storms are likely on 26 Nov due to CH
+HSS influence.  No significant transient or recurrent solar wind
+features are forecast.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Nov 23-Nov 25 2025
+Solar Radiation Storm Forecast for Nov 24-Nov 26 2025
 
-              Nov 23  Nov 24  Nov 25
+              Nov 24  Nov 25  Nov 26
 S1 or greater    1%      1%      1%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -92,13 +93,13 @@ C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Nov 23-Nov 25 2025
+Radio Blackout Forecast for Nov 24-Nov 26 2025
 
-              Nov 23        Nov 24        Nov 25
+              Nov 24        Nov 25        Nov 26
 R1-R2           15%           15%           15%
 R3 or greater    1%            1%            1%
 
 Rationale: There exists a slight chance for R1-R2 (Minor-Moderate) radio
-blackouts over 23-25 Nov.
+blackouts over 24-26 Nov.
 
 ```
