@@ -2,10 +2,11 @@
 ## Astronomical Picture of the Day
 **Note**: Due to the lapse in federal US government funding, NASA is not updating the APOD. Therefore, every day a random picture is being displayed from the archive (from 1995-06-16 to 2025-10-01).
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2017-10-17
-<br />**Title of the image:**  Haumea of the Outer Solar System
-<br />**Description for the image:**  One of the strangest objects in the outer Solar System has recently been found to have a ring. The object, named  Haumea, is the fifth designated dwarf planet after Pluto, Ceres, Eris, and Makemake. Haumea's  oblong shape makes it quite unusual. Along one direction, Haumea is significantly longer than Pluto, while in another direction Haumea has an extent very similar to Pluto, while in the third direction is much smaller. Haumea's orbit sometimes brings it closer to the Sun than Pluto, but usually Haumea is further away. Illustrated above, an artist visualizes Haumea as a cratered  ellipsoid surrounded by a uniform ring. Originally discovered in 2003 and given the temporary designation of 2003 EL61, Haumea was renamed in 2008 by the IAU for a Hawaiian goddess. Besides the ring discovered this year, Haumea has two small moons discovered in 2005, named Hi'iaka and Namaka for daughters of the goddess.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/1710/HaumeaRings_IAA_1900.jpg
+<br />**Date image released:**  2020-12-05
+<br />**This image is owned by:**  Jean-Yves Letellier
+<br />**Title of the image:**  Mons Rumker in the Ocean of Storms
+<br />**Description for the image:**  Mons Rumker, a 70 kilometer wide complex of volcanic domes, rises some 1100 meters above the vast, smooth lunar mare known as Oceanus Procellarum, the Ocean of Storms. Daylight came to the area late last month. The lunar terminator, the shadow line between night and day, runs diagonally across the left side in this telescopic close-up of a waxing gibbous Moon from November 27. China's Chang'e-5 mission landing site is also in the frame. The probe's lander-ascender combination touch down on the lunar surface within a region right of center and north of Mons Rumker's domes on December 1. On December 3 the ascender left the Ocean of Storms carrying 2 kilograms of lunar material for return to planet Earth.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2012/MonsRumker_Letellier.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,39 +50,39 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 Nov 25 0030 UTC
+:Issued: 2025 Nov 26 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
-Scale levels).
-The greatest expected 3 hr Kp for Nov 25-Nov 27 2025 is 5.00 (NOAA Scale
+The greatest observed 3 hr Kp over the past 24 hours was 5 (NOAA Scale
+G1).
+The greatest expected 3 hr Kp for Nov 26-Nov 28 2025 is 4.67 (NOAA Scale
 G1).
 
-NOAA Kp index breakdown Nov 25-Nov 27 2025
+NOAA Kp index breakdown Nov 26-Nov 28 2025
 
-             Nov 25       Nov 26       Nov 27
-00-03UT       4.00         3.67         4.00     
-03-06UT       3.67         5.00 (G1)    4.00     
-06-09UT       4.33         3.67         4.00     
-09-12UT       3.67         2.67         3.67     
-12-15UT       3.33         4.67 (G1)    3.67     
-15-18UT       3.33         3.67         3.67     
-18-21UT       4.00         3.00         3.67     
-21-00UT       4.67 (G1)    3.67         4.00     
+             Nov 26       Nov 27       Nov 28
+00-03UT       3.67         4.67 (G1)    4.00     
+03-06UT       3.33         4.33         4.00     
+06-09UT       3.33         4.67 (G1)    3.67     
+09-12UT       3.67         4.00         3.67     
+12-15UT       3.67         3.67         3.67     
+15-18UT       3.00         3.67         4.00     
+18-21UT       3.33         4.00         4.00     
+21-00UT       4.67 (G1)    4.33         3.67     
 
-Rationale: G1 (Minor) geomagnetic storms are likely on 25-26 Nov due to
-CH HSS influences.
+Rationale: G1 (Minor) geomagnetic storming is likely on 26-27 Nov due to
+CH HSS effects.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Nov 25-Nov 27 2025
+Solar Radiation Storm Forecast for Nov 26-Nov 28 2025
 
-              Nov 25  Nov 26  Nov 27
+              Nov 26  Nov 27  Nov 28
 S1 or greater    1%      1%      1%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -92,13 +93,13 @@ C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Nov 25-Nov 27 2025
+Radio Blackout Forecast for Nov 26-Nov 28 2025
 
-              Nov 25        Nov 26        Nov 27
+              Nov 26        Nov 27        Nov 28
 R1-R2           15%           15%           15%
 R3 or greater    1%            1%            1%
 
-Rationale: There is a slight chance for R1-R2 (Minor-Moderate) radio
-blackouts on 25-27 Nov.
+Rationale: There is a slight chance for R1-2 (Minor-Moderate) radio
+blackouts due to M-class flare activity will remain through 28 Nov.
 
 ```
