@@ -2,11 +2,13 @@
 ## Astronomical Picture of the Day
 **Note**: Due to the lapse in federal US government funding, NASA is not updating the APOD. Therefore, every day a random picture is being displayed from the archive (from 1995-06-16 to 2025-10-01).
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2020-12-05
-<br />**This image is owned by:**  Jean-Yves Letellier
-<br />**Title of the image:**  Mons Rumker in the Ocean of Storms
-<br />**Description for the image:**  Mons Rumker, a 70 kilometer wide complex of volcanic domes, rises some 1100 meters above the vast, smooth lunar mare known as Oceanus Procellarum, the Ocean of Storms. Daylight came to the area late last month. The lunar terminator, the shadow line between night and day, runs diagonally across the left side in this telescopic close-up of a waxing gibbous Moon from November 27. China's Chang'e-5 mission landing site is also in the frame. The probe's lander-ascender combination touch down on the lunar surface within a region right of center and north of Mons Rumker's domes on December 1. On December 3 the ascender left the Ocean of Storms carrying 2 kilograms of lunar material for return to planet Earth.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2012/MonsRumker_Letellier.jpg
+<br />**Date image released:**  2012-03-13
+<br />**This image is owned by:**  
+Nicol�s Villegas
+
+<br />**Title of the image:**  The M81 Galaxy Group Through the Integrated Flux Nebula
+<br />**Description for the image:**  Large galaxies and faint nebulae highlight this deep image of the M81 Group of galaxies.  First and foremost in the wide-angle 12-hour exposure is the grand design spiral galaxy M81, the largest galaxy visible in the image.  M81 is gravitationally interacting with M82 just below it, a big galaxy with an unusual halo of filamentary red-glowing gas.  Around the image many other galaxies from the M81 Group of galaxies can be seen, as well as a lucky satellite glint streaking across the image left. Together with other galaxy congregates including our Local Group of galaxies and the Virgo Cluster of galaxies, the M81 Group is part of the expansive Virgo Supercluster of Galaxies.  This whole galaxy menagerie is seen through the faint glow of an Integrated Flux Nebula, a little studied complex of diffuse gas and dust clouds in our Milky Way Galaxy.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/1203/m81field_villegas_1900.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -50,39 +52,39 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 Nov 26 0030 UTC
+:Issued: 2025 Nov 27 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 5 (NOAA Scale
+The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
+Scale levels).
+The greatest expected 3 hr Kp for Nov 27-Nov 29 2025 is 5.00 (NOAA Scale
 G1).
-The greatest expected 3 hr Kp for Nov 26-Nov 28 2025 is 4.67 (NOAA Scale
-G1).
 
-NOAA Kp index breakdown Nov 26-Nov 28 2025
+NOAA Kp index breakdown Nov 27-Nov 29 2025
 
-             Nov 26       Nov 27       Nov 28
-00-03UT       3.67         4.67 (G1)    4.00     
-03-06UT       3.33         4.33         4.00     
-06-09UT       3.33         4.67 (G1)    3.67     
-09-12UT       3.67         4.00         3.67     
-12-15UT       3.67         3.67         3.67     
-15-18UT       3.00         3.67         4.00     
-18-21UT       3.33         4.00         4.00     
-21-00UT       4.67 (G1)    4.33         3.67     
+             Nov 27       Nov 28       Nov 29
+00-03UT       3.67         4.00         2.67     
+03-06UT       3.67         4.00         2.33     
+06-09UT       4.67 (G1)    3.67         2.67     
+09-12UT       3.00         3.67         2.67     
+12-15UT       3.00         3.67         2.67     
+15-18UT       3.00         4.00         2.67     
+18-21UT       4.33         4.00         2.67     
+21-00UT       5.00 (G1)    3.67         2.67     
 
-Rationale: G1 (Minor) geomagnetic storming is likely on 26-27 Nov due to
-CH HSS effects.
+Rationale: G1 (Minor) geomagnetic storms are likely on 27 Nov due to
+persistent CH HSS influences.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Nov 26-Nov 28 2025
+Solar Radiation Storm Forecast for Nov 27-Nov 29 2025
 
-              Nov 26  Nov 27  Nov 28
+              Nov 27  Nov 28  Nov 29
 S1 or greater    1%      1%      1%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -93,13 +95,13 @@ C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Nov 26-Nov 28 2025
+Radio Blackout Forecast for Nov 27-Nov 29 2025
 
-              Nov 26        Nov 27        Nov 28
+              Nov 27        Nov 28        Nov 29
 R1-R2           15%           15%           15%
 R3 or greater    1%            1%            1%
 
-Rationale: There is a slight chance for R1-2 (Minor-Moderate) radio
-blackouts due to M-class flare activity will remain through 28 Nov.
+Rationale: There is a slight chance for R1-R2 (Minor-Moderate) radio
+blackouts through 29 Nov.
 
 ```
