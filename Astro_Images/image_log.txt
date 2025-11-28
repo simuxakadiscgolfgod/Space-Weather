@@ -1,7 +1,8 @@
-<br />**Date image released:**  2012-03-13
+<br />**Date image released:**  2018-12-12
 <br />**This image is owned by:**  
-Nicol�s Villegas
+Zhuoqun Wu,
+Chilescope Telescope 2
 
-<br />**Title of the image:**  The M81 Galaxy Group Through the Integrated Flux Nebula
-<br />**Description for the image:**  Large galaxies and faint nebulae highlight this deep image of the M81 Group of galaxies.  First and foremost in the wide-angle 12-hour exposure is the grand design spiral galaxy M81, the largest galaxy visible in the image.  M81 is gravitationally interacting with M82 just below it, a big galaxy with an unusual halo of filamentary red-glowing gas.  Around the image many other galaxies from the M81 Group of galaxies can be seen, as well as a lucky satellite glint streaking across the image left. Together with other galaxy congregates including our Local Group of galaxies and the Virgo Cluster of galaxies, the M81 Group is part of the expansive Virgo Supercluster of Galaxies.  This whole galaxy menagerie is seen through the faint glow of an Integrated Flux Nebula, a little studied complex of diffuse gas and dust clouds in our Milky Way Galaxy.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/1203/m81field_villegas_1900.jpg
+<br />**Title of the image:**  M43: Orion Falls
+<br />**Description for the image:**  Is there a waterfall in Orion? No, but some of the dust in M43 appears similar to a waterfall on Earth.  M43, part of the Orion Molecular Cloud Complex, is the often imaged but rarely mentioned neighbor of the more famous M42. M42, which includes many bright stars from the Trapezium cluster, lies above the featured scene. M43 is itself a star forming region and although laced with filaments of dark dust, is composed mostly of glowing hydrogen. The entire Orion field, located about 1600 light years away, is inundated with many intricate and picturesque filaments of dust.  Opaque to visible light, dark dust is created in the outer atmosphere of massive cool stars and expelled by a strong outer wind of protons and electrons.   Free Download: 2019 APOD Calendar (v4 with light background)
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/1812/OrionFalls_Wu_1828.jpg
