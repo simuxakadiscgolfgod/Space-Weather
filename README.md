@@ -2,14 +2,10 @@
 ## Astronomical Picture of the Day
 **Note**: Due to the lapse in federal US government funding, NASA is not updating the APOD. Therefore, every day a random picture is being displayed from the archive (from 1995-06-16 to 2025-10-01).
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2018-12-12
-<br />**This image is owned by:**  
-Zhuoqun Wu,
-Chilescope Telescope 2
-
-<br />**Title of the image:**  M43: Orion Falls
-<br />**Description for the image:**  Is there a waterfall in Orion? No, but some of the dust in M43 appears similar to a waterfall on Earth.  M43, part of the Orion Molecular Cloud Complex, is the often imaged but rarely mentioned neighbor of the more famous M42. M42, which includes many bright stars from the Trapezium cluster, lies above the featured scene. M43 is itself a star forming region and although laced with filaments of dark dust, is composed mostly of glowing hydrogen. The entire Orion field, located about 1600 light years away, is inundated with many intricate and picturesque filaments of dust.  Opaque to visible light, dark dust is created in the outer atmosphere of massive cool stars and expelled by a strong outer wind of protons and electrons.   Free Download: 2019 APOD Calendar (v4 with light background)
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/1812/OrionFalls_Wu_1828.jpg
+<br />**Date image released:**  2023-04-04
+<br />**Title of the image:**  Olympus Mons: Largest Volcano in the Solar System
+<br />**Description for the image:**  The largest volcano in our Solar System is on Mars.  Although three times higher than Earth's Mount Everest, Olympus Mons will not be difficult for humans to climb because of the volcano's shallow slopes and Mars' low gravity.  Covering an area greater than the entire Hawaiian volcano chain, the slopes of Olympus Mons typically rise only a few degrees at a time.  Olympus Mons is an immense shield volcano, built long ago by fluid lava.  A relatively static surface crust allowed it to build up over time. Its last eruption is thought to have been about 25 million years ago.  The featured image was taken by the European Space Agency's robotic Mars Express spacecraft currently orbiting the  Red Planet.    Your Sky Surprise: What picture did APOD feature on your birthday? (post 1995)
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2304/OlympusMons_MarsExpress_6000.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -53,40 +49,40 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 Nov 28 0030 UTC
+:Issued: 2025 Nov 29 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 5 (NOAA Scale
-G1).
-The greatest expected 3 hr Kp for Nov 28-Nov 30 2025 is 4.67 (NOAA Scale
-G1).
+The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
+Scale levels).
+The greatest expected 3 hr Kp for Nov 29-Dec 01 2025 is 3.67 (below NOAA
+Scale levels).
 
-NOAA Kp index breakdown Nov 28-Nov 30 2025
+NOAA Kp index breakdown Nov 29-Dec 01 2025
 
-             Nov 28       Nov 29       Nov 30
-00-03UT       4.00         2.67         2.67     
-03-06UT       3.67         2.33         2.67     
-06-09UT       4.67 (G1)    2.67         2.33     
-09-12UT       3.67         2.67         2.00     
-12-15UT       3.33         2.67         2.00     
-15-18UT       3.33         2.67         1.67     
-18-21UT       3.67         2.67         2.00     
-21-00UT       3.67         2.67         2.00     
+             Nov 29       Nov 30       Dec 01
+00-03UT       2.33         3.00         1.67     
+03-06UT       2.67         2.67         2.00     
+06-09UT       3.33         2.33         1.33     
+09-12UT       3.67         2.00         1.33     
+12-15UT       2.67         1.33         1.33     
+15-18UT       2.00         1.67         1.00     
+18-21UT       2.00         1.67         1.33     
+21-00UT       2.67         1.67         1.33     
 
-Rationale: G1 (Minor) geomagnetic storming is expected early on 28 Nov
-due to persistent CH HSS effects.
+Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
+significant transient or recurrent solar wind features are forecast.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Nov 28-Nov 30 2025
+Solar Radiation Storm Forecast for Nov 29-Dec 01 2025
 
-              Nov 28  Nov 29  Nov 30
-S1 or greater    1%      1%      1%
+              Nov 29  Nov 30  Dec 01
+S1 or greater    5%      5%      5%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
 No significant active region activity favorable for radiation storm
@@ -94,15 +90,16 @@ production is forecast.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-No radio blackouts were observed over the past 24 hours.
+Radio blackouts reaching the R2 levels were observed over the past 24
+hours. The largest was at Nov 28 2025 2222 UTC.
 
-Radio Blackout Forecast for Nov 28-Nov 30 2025
+Radio Blackout Forecast for Nov 29-Dec 01 2025
 
-              Nov 28        Nov 29        Nov 30
-R1-R2           15%           15%           15%
-R3 or greater    1%            1%            1%
+              Nov 29        Nov 30        Dec 01
+R1-R2           55%           55%           55%
+R3 or greater   15%           15%           15%
 
-Rationale: A slight chance for R1-R2 (Minor-Moderate) radio blackouts
-will persist through 30 Nov.
+Rationale: R1-R2 (Minor-Moderate) radio blackouts are likely, with a
+slight chance for an R3 (Strong) or greater event, over 29 Nov-01 Dec.
 
 ```
