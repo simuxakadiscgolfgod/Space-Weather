@@ -2,13 +2,10 @@
 ## Astronomical Picture of the Day
 **Note**: Due to the lapse in federal US government funding, NASA is not updating the APOD. Therefore, every day a random picture is being displayed from the archive (from 1995-06-16 to 2025-10-01).
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2018-09-25
-<br />**This image is owned by:**  
-Universe2go.com
-
-<br />**Title of the image:**  Highlights of the North Autumn Sky
-<br />**Description for the image:**  What can you see in the night sky this season?  The featured graphic gives a few highlights for Earth's northern hemisphere. Viewed as a clock face centered at the bottom, early (northern) autumn sky events fan out toward the left, while late autumn events are projected toward the right. Objects relatively close to Earth are illustrated, in general, as nearer to the cartoon figure with the telescope at the bottom center -- although almost everything pictured can be seen without a telescope.  As happens during any season, constellations appear the same year to year, and, as usual, the Leonids meteor shower will peak in mid-November.  Also as usual, the International Space Station (ISS) can be seen, at times, as a bright spot drifting across the sky after sunset.  Planets visible after sunset this autumn include Jupiter and Mars, and during late autumn, Saturn.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/1809/AutumnSky_u2go_5000.jpg
+<br />**Date image released:**  1996-03-19
+<br />**Title of the image:**  The Ion Tail of Comet Hyakutake
+<br />**Description for the image:**  This picture of Comet Hyakutake was taken on March 14, 1996. Structure in the ion tale of Comet Hyakutake is now clearly visible. An ion tale forms as a comet nears the Sun.  Sunlight causes gas and dust to boil off the comet's solid nucleus. Charged gas - called ions - are then accelerated away from the Sun by the solar wind - fast moving particles streaming out from the Sun's corona. The ion tale will appear blue and glows by fluorescence. As Comet Hyakutake gets closer to the Sun during the next month, a dust tail is expected to be visible as well.  Dust tails shine by light reflected from the Sun.  Comet tails point away from the Sun, even as a comet moves away from the Sun. For observers in the Northern Hemisphere, Comet Hyakutake should appear tonight in the eastern part of the constellation of Virgo and should be about magnitude 2.5. The comet will look the most impressive in the darkest skies - in a city you are likely to see only a fuzzy blob!   Information: The Scale of the Universe Debate in April 1996
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/hyakutake_14Mar_eso_big.gif
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -52,56 +49,60 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 Dec 01 0030 UTC
+:Issued: 2025 Dec 02 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Dec 01-Dec 03 2025 is 3.67 (below NOAA
-Scale levels).
+The greatest expected 3 hr Kp for Dec 02-Dec 04 2025 is 5.67 (NOAA Scale
+G2).
 
-NOAA Kp index breakdown Dec 01-Dec 03 2025
+NOAA Kp index breakdown Dec 02-Dec 04 2025
 
-             Dec 01       Dec 02       Dec 03
-00-03UT       3.00         1.33         3.00     
-03-06UT       2.33         1.33         3.67     
-06-09UT       3.00         1.67         3.00     
-09-12UT       2.00         1.33         3.00     
-12-15UT       1.67         1.33         2.00     
-15-18UT       1.00         1.33         2.67     
-18-21UT       1.00         1.67         3.00     
-21-00UT       1.67         1.67         3.00     
+             Dec 02       Dec 03       Dec 04
+00-03UT       1.33         3.00         4.67 (G1)
+03-06UT       1.33         3.67         4.67 (G1)
+06-09UT       1.67         1.67         5.67 (G2)
+09-12UT       1.33         3.00         4.33     
+12-15UT       1.33         3.00         3.67     
+15-18UT       1.33         3.33         3.67     
+18-21UT       1.67         4.33         4.00     
+21-00UT       1.67         5.67 (G2)    4.33     
 
-Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
-significant transient or recurrent solar wind features are forecast.
+Rationale: G2 (Moderate) levels are likely on 03-04 Dec due to a
+combination of activity from a CIR/CH HSS and the arrival of a glancing
+blow from the 01 Dec CME.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Dec 01-Dec 03 2025
+Solar Radiation Storm Forecast for Dec 02-Dec 04 2025
 
-              Dec 01  Dec 02  Dec 03
-S1 or greater   10%     10%     10%
+              Dec 02  Dec 03  Dec 04
+S1 or greater   25%     20%     10%
 
-Rationale: There is a slight chance for the greater than 10 MeV proton
-flux to reach S1 (Minor) levels through 03 Dec, due primarily to the
-eruptive potential of Region 4294.
+Rationale: There is a chance for an S1 (Minor) solar radiation storm on
+02 Dec, decreasing to a slight chance on 03-04 Dec due to the recent
+X1.9 flare from Region 4299.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-No radio blackouts were observed over the past 24 hours.
+Radio blackouts reaching the R3 levels were observed over the past 24
+hours. The largest was at Dec 01 2025 0249 UTC.
 
-Radio Blackout Forecast for Dec 01-Dec 03 2025
+Radio Blackout Forecast for Dec 02-Dec 04 2025
 
-              Dec 01        Dec 02        Dec 03
-R1-R2           70%           70%           70%
-R3 or greater   20%           20%           20%
+              Dec 02        Dec 03        Dec 04
+R1-R2           80%           70%           70%
+R3 or greater   30%           30%           25%
 
-Rationale: R1-R2 (Minor-Moderate) radio blackouts are likely, with a
-slight chance for an R3 (Strong) or greater event, on 01-03 Dec.
+Rationale: Flare probabilities have increased to 70-80% chance for R1-R2
+(Minor-Moderate) and 30% chance R3 (Strong). This is based on the
+complexity and assuming persistent activity of Regions 4294 and 4299,
+respectively.
 
 ```
