@@ -2,10 +2,11 @@
 ## Astronomical Picture of the Day
 **Note**: Due to the lapse in federal US government funding, NASA is not updating the APOD. Therefore, every day a random picture is being displayed from the archive (from 1995-06-16 to 2025-10-01).
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  1997-11-04
-<br />**Title of the image:**  Blue Stragglers in Globular Clusters
-<br />**Description for the image:**  This old dog is doing new tricks. On the left is ancient globular cluster 47 Tucanae which formed many billions of years ago.  On the right is a closeup of its dense stellar center by the Hubble Space Telescope, released last week.  Circled are mysterious stars called "blue stragglers." Stars as bright and blue as blue stragglers live short lives, much shorter than the age of the host globular cluster itself.  But this contradicts evidence that globular cluster stars formed all at once.  Although this problem has been known for almost 50 years, a mass and spin rate for a blue straggler was first published last Saturday.  This new information indicates that BSS 19 was rejuvenated by two orbiting stars slowly coalescing , and not by a dramatic collision.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/9711/bluestrag_hst_big.jpg
+<br />**Date image released:**  2013-02-07
+<br />**This image is owned by:**  Barden Ridge Observatory
+<br />**Title of the image:**  Comet Lemmon near the South Celestial Pole
+<br />**Description for the image:**  Currently sweeping through southern skies, Comet Lemmon (C/2012 F6) was named for its discovery last year as part of the Mount Lemmon (Arizona) Survey. Brighter than expected but still just below naked-eye visibility, Comet Lemmon sports a stunning lime green coma and faint divided tail in this telescopic image from February 4. The greenish tint comes from the coma's diatomic C2 gas fluorescing in sunlight. Captured from an observatory near Sydney, Australia, the color composite is constructed from a series of individual exposures registered on the comet. Across the 1 degree wide field of view, the star trails are a consequence of the comet's relatively rapid motion against the background of stars near the South Celestial Pole. Moving north, the comet should grow brighter, reaching a peak (3rd magnitude or so) when it is closest to the Sun in late March. By early April it should be visible from the northern hemisphere. Of course, this year Comet Lemmon may be just another pretty comet as skygazers on planet Earth also eagerly anticipate views of Comet PANSTARRS and Comet ISON.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/1302/Lemm4febSUMward.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,63 +50,58 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 Dec 03 0030 UTC
+:Issued: 2025 Dec 04 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
-Scale levels).
-The greatest expected 3 hr Kp for Dec 03-Dec 05 2025 is 5.67 (NOAA Scale
+The greatest observed 3 hr Kp over the past 24 hours was 7 (NOAA Scale
+G3).
+The greatest expected 3 hr Kp for Dec 04-Dec 06 2025 is 5.67 (NOAA Scale
 G2).
 
-NOAA Kp index breakdown Dec 03-Dec 05 2025
+NOAA Kp index breakdown Dec 04-Dec 06 2025
 
-             Dec 03       Dec 04       Dec 05
-00-03UT       3.00         4.67 (G1)    4.33     
-03-06UT       3.67         4.67 (G1)    4.33     
-06-09UT       3.00         5.67 (G2)    4.33     
-09-12UT       3.00         4.33         4.00     
-12-15UT       3.00         3.67         3.67     
-15-18UT       3.33         3.67         3.33     
-18-21UT       4.33         4.00         3.00     
-21-00UT       5.67 (G2)    4.33         3.33     
+             Dec 04       Dec 05       Dec 06
+00-03UT       4.67 (G1)    4.33         3.67     
+03-06UT       4.67 (G1)    4.33         2.00     
+06-09UT       5.67 (G2)    4.33         2.00     
+09-12UT       4.33         4.00         2.67     
+12-15UT       3.67         3.67         2.67     
+15-18UT       3.67         3.33         2.67     
+18-21UT       4.00         3.00         2.67     
+21-00UT       4.33         3.33         3.00     
 
-Rationale: G1-G2 (Minor-Moderate) geomagnetic storming is likely to
-commence by late on 03 Dec and continue into 04 Due due to coronal hole
-high speed stream effects possibly combined with glancing shock arrival
-from a coronal mass ejection that left the Sun on 01 Dec. It should also
-be noted that a chance (25%) for isolated periods of G3 (Strong)
-geomagnetic storming will exist on late 03 Dec and early 04 Dec,
-especially if the corotating interaction region ahead of the high speed
-stream arrives with embedded shock.
+Rationale: G1-G2 (Minor-Moderate) geomagnetic storms are likely on 04
+Dec due to combined CH HSS and embedded CME influences.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Dec 03-Dec 05 2025
+Solar Radiation Storm Forecast for Dec 04-Dec 06 2025
 
-              Dec 03  Dec 04  Dec 05
+              Dec 04  Dec 05  Dec 06
 S1 or greater   15%     15%     15%
 
-Rationale: There is a slight chance for an S1 (Minor) solar radiation
-storm on 03-05 Dec.
+Rationale: No S1 (Minor) or greater solar radiation storms are expected.
+No significant active region activity favorable for radiation storm
+production is forecast.
 
 C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Dec 03-Dec 05 2025
+Radio Blackout Forecast for Dec 04-Dec 06 2025
 
-              Dec 03        Dec 04        Dec 05
+              Dec 04        Dec 05        Dec 06
 R1-R2           75%           75%           75%
 R3 or greater   30%           30%           30%
 
-Rationale: Isolated to occasional M-class flares (R1-R2, Minor-Moderate)
-are expected (75%) through 05 Dec, with a chance for X-class flares
-(R3-Strong 30%), given past flare history and the potential of current
-active regions on the disk.
+Rationale: Isolated to occasional R1-R2 (Minor-Moderate) radio blackouts
+are expected (75%) through 06 Dec, with a chance for a R3 (Strong) event
+(30%), given past flare history and the potential of current active
+regions on the disk.
 
 ```
