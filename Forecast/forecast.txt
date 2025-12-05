@@ -1,57 +1,56 @@
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 Dec 04 0030 UTC
+:Issued: 2025 Dec 05 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 7 (NOAA Scale
-G3).
-The greatest expected 3 hr Kp for Dec 04-Dec 06 2025 is 5.67 (NOAA Scale
-G2).
+The greatest observed 3 hr Kp over the past 24 hours was 5 (NOAA Scale
+G1).
+The greatest expected 3 hr Kp for Dec 05-Dec 07 2025 is 5.00 (NOAA Scale
+G1).
 
-NOAA Kp index breakdown Dec 04-Dec 06 2025
+NOAA Kp index breakdown Dec 05-Dec 07 2025
 
-             Dec 04       Dec 05       Dec 06
-00-03UT       4.67 (G1)    4.33         3.67     
-03-06UT       4.67 (G1)    4.33         2.00     
-06-09UT       5.67 (G2)    4.33         2.00     
-09-12UT       4.33         4.00         2.67     
-12-15UT       3.67         3.67         2.67     
-15-18UT       3.67         3.33         2.67     
-18-21UT       4.00         3.00         2.67     
-21-00UT       4.33         3.33         3.00     
+             Dec 05       Dec 06       Dec 07
+00-03UT       3.67         3.67         2.67     
+03-06UT       3.67         2.00         2.00     
+06-09UT       3.67         2.00         2.33     
+09-12UT       3.33         2.67         2.33     
+12-15UT       3.33         2.67         2.33     
+15-18UT       3.33         2.67         3.67     
+18-21UT       3.33         2.67         5.00 (G1)
+21-00UT       3.33         3.00         4.00     
 
-Rationale: G1-G2 (Minor-Moderate) geomagnetic storms are likely on 04
-Dec due to combined CH HSS and embedded CME influences.
+Rationale: G1 (Minor) geomagnetic storms are likely on 07 Dec due to a
+combination of negative polarity CH HSS influences and glancing effects
+from the 04 Dec CME.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Dec 04-Dec 06 2025
+Solar Radiation Storm Forecast for Dec 05-Dec 07 2025
 
-              Dec 04  Dec 05  Dec 06
+              Dec 05  Dec 06  Dec 07
 S1 or greater   15%     15%     15%
 
-Rationale: No S1 (Minor) or greater solar radiation storms are expected.
-No significant active region activity favorable for radiation storm
-production is forecast.
+Rationale: There is a slight chance for S1 (Minor) solar radiation storm
+conditions on 05-07 Dec.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-No radio blackouts were observed over the past 24 hours.
+Radio blackouts reaching the R2 levels were observed over the past 24
+hours. The largest was at Dec 04 2025 0250 UTC.
 
-Radio Blackout Forecast for Dec 04-Dec 06 2025
+Radio Blackout Forecast for Dec 05-Dec 07 2025
 
-              Dec 04        Dec 05        Dec 06
+              Dec 05        Dec 06        Dec 07
 R1-R2           75%           75%           75%
-R3 or greater   30%           30%           30%
+R3 or greater   25%           25%           25%
 
-Rationale: Isolated to occasional R1-R2 (Minor-Moderate) radio blackouts
-are expected (75%) through 06 Dec, with a chance for a R3 (Strong) event
-(30%), given past flare history and the potential of current active
-regions on the disk.
+Rationale: R1-R2 (Minor-Moderate) radio blackouts are expected, with a
+chance for R3 (Strong) or greater events, on 05-07 Dec.
 
 ```

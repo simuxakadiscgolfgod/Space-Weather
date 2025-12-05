@@ -2,11 +2,10 @@
 ## Astronomical Picture of the Day
 **Note**: Due to the lapse in federal US government funding, NASA is not updating the APOD. Therefore, every day a random picture is being displayed from the archive (from 1995-06-16 to 2025-10-01).
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2013-02-07
-<br />**This image is owned by:**  Barden Ridge Observatory
-<br />**Title of the image:**  Comet Lemmon near the South Celestial Pole
-<br />**Description for the image:**  Currently sweeping through southern skies, Comet Lemmon (C/2012 F6) was named for its discovery last year as part of the Mount Lemmon (Arizona) Survey. Brighter than expected but still just below naked-eye visibility, Comet Lemmon sports a stunning lime green coma and faint divided tail in this telescopic image from February 4. The greenish tint comes from the coma's diatomic C2 gas fluorescing in sunlight. Captured from an observatory near Sydney, Australia, the color composite is constructed from a series of individual exposures registered on the comet. Across the 1 degree wide field of view, the star trails are a consequence of the comet's relatively rapid motion against the background of stars near the South Celestial Pole. Moving north, the comet should grow brighter, reaching a peak (3rd magnitude or so) when it is closest to the Sun in late March. By early April it should be visible from the northern hemisphere. Of course, this year Comet Lemmon may be just another pretty comet as skygazers on planet Earth also eagerly anticipate views of Comet PANSTARRS and Comet ISON.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/1302/Lemm4febSUMward.jpg
+<br />**Date image released:**  2021-02-25
+<br />**Title of the image:**  A Venus Flyby
+<br />**Description for the image:**  On a mission to explore the inner heliosphere and solar corona, on July 11, 2020 the Wide-field Imager on board NASA's Parker Solar Probe captured this stunning view of the nightside of Venus at distance of about 12,400 kilometers (7,693 miles). The spacecraft was making the third of seven gravity-assist flybys of the inner planet. The gravity-asssist flybys are designed to use the approach to Venus to help the probe alter its orbit to ultimately come within 6 million kilometers (4 million miles) of the solar surface in late 2025. A surprising image, the side-looking camera seems to peer through the clouds to show a dark feature near the center known as Aphrodite Terra, the largest highland region on the Venusian surface. The bright rim at the edge of the planet is nightglow likely emitted by excited oxygen atoms recombining into molecules in the upper reaches of the atmosphere. Bright streaks and blemishes throughout the image are likely due to energetic charged particles, and dust near the camera reflecting sunlight. Skygazers from planet Earth probably recognize the familiar stars of Orion's belt and sword at lower right.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2102/wispr_venus_image.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -50,58 +49,57 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 Dec 04 0030 UTC
+:Issued: 2025 Dec 05 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 7 (NOAA Scale
-G3).
-The greatest expected 3 hr Kp for Dec 04-Dec 06 2025 is 5.67 (NOAA Scale
-G2).
+The greatest observed 3 hr Kp over the past 24 hours was 5 (NOAA Scale
+G1).
+The greatest expected 3 hr Kp for Dec 05-Dec 07 2025 is 5.00 (NOAA Scale
+G1).
 
-NOAA Kp index breakdown Dec 04-Dec 06 2025
+NOAA Kp index breakdown Dec 05-Dec 07 2025
 
-             Dec 04       Dec 05       Dec 06
-00-03UT       4.67 (G1)    4.33         3.67     
-03-06UT       4.67 (G1)    4.33         2.00     
-06-09UT       5.67 (G2)    4.33         2.00     
-09-12UT       4.33         4.00         2.67     
-12-15UT       3.67         3.67         2.67     
-15-18UT       3.67         3.33         2.67     
-18-21UT       4.00         3.00         2.67     
-21-00UT       4.33         3.33         3.00     
+             Dec 05       Dec 06       Dec 07
+00-03UT       3.67         3.67         2.67     
+03-06UT       3.67         2.00         2.00     
+06-09UT       3.67         2.00         2.33     
+09-12UT       3.33         2.67         2.33     
+12-15UT       3.33         2.67         2.33     
+15-18UT       3.33         2.67         3.67     
+18-21UT       3.33         2.67         5.00 (G1)
+21-00UT       3.33         3.00         4.00     
 
-Rationale: G1-G2 (Minor-Moderate) geomagnetic storms are likely on 04
-Dec due to combined CH HSS and embedded CME influences.
+Rationale: G1 (Minor) geomagnetic storms are likely on 07 Dec due to a
+combination of negative polarity CH HSS influences and glancing effects
+from the 04 Dec CME.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Dec 04-Dec 06 2025
+Solar Radiation Storm Forecast for Dec 05-Dec 07 2025
 
-              Dec 04  Dec 05  Dec 06
+              Dec 05  Dec 06  Dec 07
 S1 or greater   15%     15%     15%
 
-Rationale: No S1 (Minor) or greater solar radiation storms are expected.
-No significant active region activity favorable for radiation storm
-production is forecast.
+Rationale: There is a slight chance for S1 (Minor) solar radiation storm
+conditions on 05-07 Dec.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-No radio blackouts were observed over the past 24 hours.
+Radio blackouts reaching the R2 levels were observed over the past 24
+hours. The largest was at Dec 04 2025 0250 UTC.
 
-Radio Blackout Forecast for Dec 04-Dec 06 2025
+Radio Blackout Forecast for Dec 05-Dec 07 2025
 
-              Dec 04        Dec 05        Dec 06
+              Dec 05        Dec 06        Dec 07
 R1-R2           75%           75%           75%
-R3 or greater   30%           30%           30%
+R3 or greater   25%           25%           25%
 
-Rationale: Isolated to occasional R1-R2 (Minor-Moderate) radio blackouts
-are expected (75%) through 06 Dec, with a chance for a R3 (Strong) event
-(30%), given past flare history and the potential of current active
-regions on the disk.
+Rationale: R1-R2 (Minor-Moderate) radio blackouts are expected, with a
+chance for R3 (Strong) or greater events, on 05-07 Dec.
 
 ```
