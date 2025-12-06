@@ -2,10 +2,10 @@
 ## Astronomical Picture of the Day
 **Note**: Due to the lapse in federal US government funding, NASA is not updating the APOD. Therefore, every day a random picture is being displayed from the archive (from 1995-06-16 to 2025-10-01).
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2021-02-25
-<br />**Title of the image:**  A Venus Flyby
-<br />**Description for the image:**  On a mission to explore the inner heliosphere and solar corona, on July 11, 2020 the Wide-field Imager on board NASA's Parker Solar Probe captured this stunning view of the nightside of Venus at distance of about 12,400 kilometers (7,693 miles). The spacecraft was making the third of seven gravity-assist flybys of the inner planet. The gravity-asssist flybys are designed to use the approach to Venus to help the probe alter its orbit to ultimately come within 6 million kilometers (4 million miles) of the solar surface in late 2025. A surprising image, the side-looking camera seems to peer through the clouds to show a dark feature near the center known as Aphrodite Terra, the largest highland region on the Venusian surface. The bright rim at the edge of the planet is nightglow likely emitted by excited oxygen atoms recombining into molecules in the upper reaches of the atmosphere. Bright streaks and blemishes throughout the image are likely due to energetic charged particles, and dust near the camera reflecting sunlight. Skygazers from planet Earth probably recognize the familiar stars of Orion's belt and sword at lower right.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2102/wispr_venus_image.jpg
+<br />**Date image released:**  2014-03-30
+<br />**Title of the image:**  Io in True Color
+<br />**Description for the image:**  The strangest moon in the Solar System is bright yellow.  This picture, an attempt to show how Io would appear in the "true colors" perceptible to the average human eye, was taken in 1999 July by the Galileo spacecraft that orbited Jupiter from 1995 to 2003.  Io's colors derive from sulfur and molten silicate rock.  The unusual surface of Io is kept very young by its system of active volcanoes.  The intense tidal gravity of Jupiter stretches Io and damps wobbles caused by Jupiter's other Galilean moons.  The resulting friction greatly heats Io's interior, causing  molten rock to explode through the surface.  Io's volcanoes are so active that they are effectively turning the whole moon inside out.  Some of Io's volcanic lava is so hot it  glows in the dark.    Follow APOD on: Facebook,  Google Plus, or Twitter
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/1403/iotruecolor_galileo_2796.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,57 +49,55 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 Dec 05 0030 UTC
+:Issued: 2025 Dec 06 0315 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 5 (NOAA Scale
+The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
+Scale levels).
+The greatest expected 3 hr Kp for Dec 06-Dec 08 2025 is 5.00 (NOAA Scale
 G1).
-The greatest expected 3 hr Kp for Dec 05-Dec 07 2025 is 5.00 (NOAA Scale
-G1).
 
-NOAA Kp index breakdown Dec 05-Dec 07 2025
+NOAA Kp index breakdown Dec 06-Dec 08 2025
 
-             Dec 05       Dec 06       Dec 07
-00-03UT       3.67         3.67         2.67     
-03-06UT       3.67         2.00         2.00     
-06-09UT       3.67         2.00         2.33     
-09-12UT       3.33         2.67         2.33     
-12-15UT       3.33         2.67         2.33     
-15-18UT       3.33         2.67         3.67     
-18-21UT       3.33         2.67         5.00 (G1)
-21-00UT       3.33         3.00         4.00     
+             Dec 06       Dec 07       Dec 08
+00-03UT       2.67         2.67         3.00     
+03-06UT       2.00         2.00         5.00 (G1)
+06-09UT       2.00         2.33         3.00     
+09-12UT       3.67         2.33         3.00     
+12-15UT       2.67         2.33         3.67     
+15-18UT       2.67         3.67         2.67     
+18-21UT       2.67         5.00 (G1)    2.00     
+21-00UT       3.00         4.00         2.00     
 
-Rationale: G1 (Minor) geomagnetic storms are likely on 07 Dec due to a
-combination of negative polarity CH HSS influences and glancing effects
-from the 04 Dec CME.
+Rationale: Periods of G1 (Minor) geomagnetic storming are likely on
+07-08 Dec due to the anticipated glancing arrival of a CME from 04 Dec.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Dec 05-Dec 07 2025
+Solar Radiation Storm Forecast for Dec 06-Dec 08 2025
 
-              Dec 05  Dec 06  Dec 07
-S1 or greater   15%     15%     15%
+              Dec 06  Dec 07  Dec 08
+S1 or greater   10%     10%     10%
 
-Rationale: There is a slight chance for S1 (Minor) solar radiation storm
-conditions on 05-07 Dec.
+Rationale: There is a slight chance for S1 (Minor) solar radiation
+storms on 06-08 Dec.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-Radio blackouts reaching the R2 levels were observed over the past 24
-hours. The largest was at Dec 04 2025 0250 UTC.
+No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Dec 05-Dec 07 2025
+Radio Blackout Forecast for Dec 06-Dec 08 2025
 
-              Dec 05        Dec 06        Dec 07
-R1-R2           75%           75%           75%
-R3 or greater   25%           25%           25%
+              Dec 06        Dec 07        Dec 08
+R1-R2           70%           70%           70%
+R3 or greater   15%           15%           15%
 
-Rationale: R1-R2 (Minor-Moderate) radio blackouts are expected, with a
-chance for R3 (Strong) or greater events, on 05-07 Dec.
+Rationale: R1-R2 (Minor-Moderate) radio blackouts are likely, with a
+slight chance for R3 (Strong) or greater events, on 06-08 Dec.
 
 ```
