@@ -1,4 +1,50 @@
-<br />**Date image released:**  2014-03-30
-<br />**Title of the image:**  Io in True Color
-<br />**Description for the image:**  The strangest moon in the Solar System is bright yellow.  This picture, an attempt to show how Io would appear in the "true colors" perceptible to the average human eye, was taken in 1999 July by the Galileo spacecraft that orbited Jupiter from 1995 to 2003.  Io's colors derive from sulfur and molten silicate rock.  The unusual surface of Io is kept very young by its system of active volcanoes.  The intense tidal gravity of Jupiter stretches Io and damps wobbles caused by Jupiter's other Galilean moons.  The resulting friction greatly heats Io's interior, causing  molten rock to explode through the surface.  Io's volcanoes are so active that they are effectively turning the whole moon inside out.  Some of Io's volcanic lava is so hot it  glows in the dark.    Follow APOD on: Facebook,  Google Plus, or Twitter
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/1403/iotruecolor_galileo_2796.jpg
+<br />**Date image released:**  1995-09-01
+<br />**This image is owned by:**  1989 by The University of Chicago.  All rights reserved.  
+Used by permission.
+
+ Explanation:  
+On August 21, 1995 one of the greatest astrophysicists of modern times
+passed away.  Subrahmanyan Chandrasekhar was a creative, prolific genius
+whose ability to combine mathematical precision with physical insight
+changed humanity's view of stellar physics. His most famous discovery was
+that not all stars end up as 
+white dwarf stars,
+but those retaining mass above a certain limit - today known as
+"Chandrasekhar's limit," undergo further collapse. His detailed
+mathematical papers and 
+books 
+on a wide variety of astrophysical subjects,
+including, for example, black holes, are classic references for research at
+every level.  Obituaries are available from the 
+University 
+of Chicago Press and 
+Reuters 
+News Service, and a 
+WWW page 
+has been set-up to record personal memories. 
+
+
+
+Tomorrow's picture: Hot Gas and Dark Matter 
+ 
+
+| Chronological Archive 
+| Subject Sorted Archive 
+| Glossary 
+| Educational Links  
+
+Astronomy Picture of the Day (TM) is created and copyrighted in 1995 by 
+Robert 
+Nemiroff and 
+Jerry 
+Bonnell who are solely responsible for its content. 
+
+We are proud to acknowledge that an external review by 
+Point Communications
+has rated Astronomy Picture of the Day in the top 5 percent of all 
+World Wide Web sites.
+
+
+<br />**Title of the image:**  Subrahmanyan Chandrasekhar 1910-1995
+<br />**Description for the image:**  On August 21, 1995 one of the greatest astrophysicists of modern times passed away. Subrahmanyan Chandrasekhar was a creative, prolific genius whose ability to combine mathematical precision with physical insight changed humanity's view of stellar physics. His most famous discovery was that not all stars end up as white dwarf stars, but those retaining mass above a certain limit - today known as "Chandrasekhar's limit," undergo further collapse. His detailed mathematical papers and books on a wide variety of astrophysical subjects, including, for example, black holes, are classic references for research at every level. Obituaries are available from the University of Chicago Press and Reuters News Service, and a WWW page has been set-up to record personal memories.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/chandra_uc.gif

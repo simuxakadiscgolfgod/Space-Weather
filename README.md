@@ -2,10 +2,56 @@
 ## Astronomical Picture of the Day
 **Note**: Due to the lapse in federal US government funding, NASA is not updating the APOD. Therefore, every day a random picture is being displayed from the archive (from 1995-06-16 to 2025-10-01).
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2014-03-30
-<br />**Title of the image:**  Io in True Color
-<br />**Description for the image:**  The strangest moon in the Solar System is bright yellow.  This picture, an attempt to show how Io would appear in the "true colors" perceptible to the average human eye, was taken in 1999 July by the Galileo spacecraft that orbited Jupiter from 1995 to 2003.  Io's colors derive from sulfur and molten silicate rock.  The unusual surface of Io is kept very young by its system of active volcanoes.  The intense tidal gravity of Jupiter stretches Io and damps wobbles caused by Jupiter's other Galilean moons.  The resulting friction greatly heats Io's interior, causing  molten rock to explode through the surface.  Io's volcanoes are so active that they are effectively turning the whole moon inside out.  Some of Io's volcanic lava is so hot it  glows in the dark.    Follow APOD on: Facebook,  Google Plus, or Twitter
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/1403/iotruecolor_galileo_2796.jpg
+<br />**Date image released:**  1995-09-01
+<br />**This image is owned by:**  1989 by The University of Chicago.  All rights reserved.  
+Used by permission.
+
+ Explanation:  
+On August 21, 1995 one of the greatest astrophysicists of modern times
+passed away.  Subrahmanyan Chandrasekhar was a creative, prolific genius
+whose ability to combine mathematical precision with physical insight
+changed humanity's view of stellar physics. His most famous discovery was
+that not all stars end up as 
+white dwarf stars,
+but those retaining mass above a certain limit - today known as
+"Chandrasekhar's limit," undergo further collapse. His detailed
+mathematical papers and 
+books 
+on a wide variety of astrophysical subjects,
+including, for example, black holes, are classic references for research at
+every level.  Obituaries are available from the 
+University 
+of Chicago Press and 
+Reuters 
+News Service, and a 
+WWW page 
+has been set-up to record personal memories. 
+
+
+
+Tomorrow's picture: Hot Gas and Dark Matter 
+ 
+
+| Chronological Archive 
+| Subject Sorted Archive 
+| Glossary 
+| Educational Links  
+
+Astronomy Picture of the Day (TM) is created and copyrighted in 1995 by 
+Robert 
+Nemiroff and 
+Jerry 
+Bonnell who are solely responsible for its content. 
+
+We are proud to acknowledge that an external review by 
+Point Communications
+has rated Astronomy Picture of the Day in the top 5 percent of all 
+World Wide Web sites.
+
+
+<br />**Title of the image:**  Subrahmanyan Chandrasekhar 1910-1995
+<br />**Description for the image:**  On August 21, 1995 one of the greatest astrophysicists of modern times passed away. Subrahmanyan Chandrasekhar was a creative, prolific genius whose ability to combine mathematical precision with physical insight changed humanity's view of stellar physics. His most famous discovery was that not all stars end up as white dwarf stars, but those retaining mass above a certain limit - today known as "Chandrasekhar's limit," undergo further collapse. His detailed mathematical papers and books on a wide variety of astrophysical subjects, including, for example, black holes, are classic references for research at every level. Obituaries are available from the University of Chicago Press and Reuters News Service, and a WWW page has been set-up to record personal memories.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/chandra_uc.gif
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,55 +95,57 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 Dec 06 0315 UTC
+:Issued: 2025 Dec 08 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Dec 06-Dec 08 2025 is 5.00 (NOAA Scale
-G1).
+The greatest expected 3 hr Kp for Dec 08-Dec 10 2025 is 6.67 (NOAA Scale
+G3).
 
-NOAA Kp index breakdown Dec 06-Dec 08 2025
+NOAA Kp index breakdown Dec 08-Dec 10 2025
 
-             Dec 06       Dec 07       Dec 08
-00-03UT       2.67         2.67         3.00     
-03-06UT       2.00         2.00         5.00 (G1)
-06-09UT       2.00         2.33         3.00     
-09-12UT       3.67         2.33         3.00     
-12-15UT       2.67         2.33         3.67     
-15-18UT       2.67         3.67         2.67     
-18-21UT       2.67         5.00 (G1)    2.00     
-21-00UT       3.00         4.00         2.00     
+             Dec 08       Dec 09       Dec 10
+00-03UT       3.00         5.00 (G1)    5.33 (G1)
+03-06UT       3.00         5.67 (G2)    5.00 (G1)
+06-09UT       2.00         6.67 (G3)    5.00 (G1)
+09-12UT       1.00         6.00 (G2)    4.33     
+12-15UT       2.00         6.67 (G3)    4.00     
+15-18UT       3.33         5.33 (G1)    3.67     
+18-21UT       4.33         5.00 (G1)    3.67     
+21-00UT       5.00 (G1)    4.67 (G1)    1.33     
 
-Rationale: Periods of G1 (Minor) geomagnetic storming are likely on
-07-08 Dec due to the anticipated glancing arrival of a CME from 04 Dec.
+Rationale: Periods of G1 (Minor) geomagnetic storms are likely on 08-10
+Dec, with periods of G2-G3 (Moderate-Strong) storms likely on 09 Dec,
+due to the anticipated passage of a CME from 06 Dec.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Dec 06-Dec 08 2025
+Solar Radiation Storm Forecast for Dec 08-Dec 10 2025
 
-              Dec 06  Dec 07  Dec 08
-S1 or greater   10%     10%     10%
+              Dec 08  Dec 09  Dec 10
+S1 or greater   15%     15%     15%
 
-Rationale: There is a slight chance for S1 (Minor) solar radiation
-storms on 06-08 Dec.
+Rationale: There is a slight chance for S1 (Minor) or greater solar
+radiation storms on 08-10 Dec.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-No radio blackouts were observed over the past 24 hours.
+Radio blackouts reaching the R1 levels were observed over the past 24
+hours. The largest was at Dec 08 2025 0008 UTC.
 
-Radio Blackout Forecast for Dec 06-Dec 08 2025
+Radio Blackout Forecast for Dec 08-Dec 10 2025
 
-              Dec 06        Dec 07        Dec 08
-R1-R2           70%           70%           70%
+              Dec 08        Dec 09        Dec 10
+R1-R2           65%           65%           65%
 R3 or greater   15%           15%           15%
 
 Rationale: R1-R2 (Minor-Moderate) radio blackouts are likely, with a
-slight chance for R3 (Strong) or greater events, on 06-08 Dec.
+slight chance for R3 (Strong) or greater events, on 08-10 Dec.
 
 ```
