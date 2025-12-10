@@ -2,10 +2,10 @@
 ## Astronomical Picture of the Day
 **Note**: Due to the lapse in federal US government funding, NASA is not updating the APOD. Therefore, every day a random picture is being displayed from the archive (from 1995-06-16 to 2025-10-01).
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2010-08-06
-<br />**Title of the image:**  The Not So Quiet Sun
-<br />**Description for the image:**  After a long solar minimum, the Sun is no longer so quiet. On August 1, this extreme ultraviolet snapshot of the Sun from the Solar Dynamics Observatory captured a complex burst of activity playing across the Sun's northern hemisphere. The false-color image shows the hot solar plasma at temperatures ranging from 1 to 2 million kelvins. Along with the erupting filaments and prominences, a small(!) solar flare spawned in the active region at the left was accompanied by a coronal mass ejection (CME), a billion-ton cloud of energetic particles headed for planet Earth. Making the 93 million mile trip in only two days, the CME impacted Earth's magnetosphere, triggering a geomagnetic storm and both northern and southern auroral displays.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/1008/northSunAug1_sdo.jpg
+<br />**Date image released:**  2017-10-15
+<br />**Title of the image:**  On the Origin of Gold
+<br />**Description for the image:**  Where did the gold in your jewelry originate?  No one is completely sure.  The relative average abundance in our Solar System appears higher than can be made in the early universe, in stars, and even in typical supernova explosions.  Some astronomers have suggested, and many believe, that neutron-rich heavy elements such as gold might be most easily made in rare neutron-rich explosions such as the collision of neutron stars.  Pictured here is an artist's illustration depicting two neutron stars spiraling in toward each other, just before they collide.  Since neutron star collisions are also suggested as the origin of short duration gamma-ray bursts, it is possible that you already own a souvenir from one of the most powerful explosions in the universe.   Editorial Note: This "best of" APOD ran previously on 2011 September 11.  News Note: The next APOD will debut during an NSF discovery announcement and press briefing on Monday.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/1710/nsmerger3_heasarc_3000.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,56 +49,56 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 Dec 09 0030 UTC
+:Issued: 2025 Dec 10 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 1 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Dec 09-Dec 11 2025 is 6.67 (NOAA Scale
-G3).
+The greatest expected 3 hr Kp for Dec 10-Dec 12 2025 is 3.33 (below NOAA
+Scale levels).
 
-NOAA Kp index breakdown Dec 09-Dec 11 2025
+NOAA Kp index breakdown Dec 10-Dec 12 2025
 
-             Dec 09       Dec 10       Dec 11
-00-03UT       4.33         5.33 (G1)    2.67     
-03-06UT       5.67 (G2)    5.00 (G1)    2.00     
-06-09UT       6.67 (G3)    5.00 (G1)    2.33     
-09-12UT       6.00 (G2)    4.33         2.33     
-12-15UT       6.67 (G3)    4.00         2.33     
-15-18UT       5.33 (G1)    3.67         2.33     
-18-21UT       5.00 (G1)    3.67         2.33     
-21-00UT       3.67         1.33         2.67     
+             Dec 10       Dec 11       Dec 12
+00-03UT       2.00         1.00         3.33     
+03-06UT       2.00         2.00         2.00     
+06-09UT       3.00         2.33         2.00     
+09-12UT       2.00         2.33         3.00     
+12-15UT       2.00         2.33         2.67     
+15-18UT       2.00         2.33         3.00     
+18-21UT       3.00         2.33         3.33     
+21-00UT       1.33         2.67         3.33     
 
-Rationale: Periods of G2-G3 (Moderate-Strong) geomagnetic storms are
-likely on 09 Dec, due to the anticipated influence of a CME from Dec 06.
+Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
+significant transient or recurrent solar wind features are forecast.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Dec 09-Dec 11 2025
+Solar Radiation Storm Forecast for Dec 10-Dec 12 2025
 
-              Dec 09  Dec 10  Dec 11
-S1 or greater   15%     15%     15%
+              Dec 10  Dec 11  Dec 12
+S1 or greater   15%     10%      5%
 
 Rationale: There is a slight chance for S1 (Minor) or greater solar
-radiation storms on 09-11 Dec.
+radiation storms on 10-11 Dec.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-Radio blackouts reaching the R3 levels were observed over the past 24
-hours. The largest was at Dec 08 2025 0501 UTC.
+Radio blackouts reaching the R1 levels were observed over the past 24
+hours. The largest was at Dec 09 2025 0058 UTC.
 
-Radio Blackout Forecast for Dec 09-Dec 11 2025
+Radio Blackout Forecast for Dec 10-Dec 12 2025
 
-              Dec 09        Dec 10        Dec 11
+              Dec 10        Dec 11        Dec 12
 R1-R2           65%           65%           65%
-R3 or greater   15%           15%           15%
+R3 or greater   15%           15%           10%
 
 Rationale: R1-R2 (Minor-Moderate) radio blackouts are likely, with a
-slight chance for R3 (Strong) or greater events on 09-11 Dec.
+slight chance for R3 (Strong) or greater events on 10-12 Dec.
 
 ```
