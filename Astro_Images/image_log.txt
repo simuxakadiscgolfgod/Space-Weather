@@ -1,4 +1,10 @@
-<br />**Date image released:**  2017-10-15
-<br />**Title of the image:**  On the Origin of Gold
-<br />**Description for the image:**  Where did the gold in your jewelry originate?  No one is completely sure.  The relative average abundance in our Solar System appears higher than can be made in the early universe, in stars, and even in typical supernova explosions.  Some astronomers have suggested, and many believe, that neutron-rich heavy elements such as gold might be most easily made in rare neutron-rich explosions such as the collision of neutron stars.  Pictured here is an artist's illustration depicting two neutron stars spiraling in toward each other, just before they collide.  Since neutron star collisions are also suggested as the origin of short duration gamma-ray bursts, it is possible that you already own a souvenir from one of the most powerful explosions in the universe.   Editorial Note: This "best of" APOD ran previously on 2011 September 11.  News Note: The next APOD will debut during an NSF discovery announcement and press briefing on Monday.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/1710/nsmerger3_heasarc_3000.jpg
+<br />**Date image released:**  1999-01-03
+<br />**This image is owned by:**  David Malin 
+(AAO),
+AATB, 
+ROE,
+UKS Telescope
+
+<br />**Title of the image:**  Orion's Horsehead Nebula
+<br />**Description for the image:**  The Horsehead Nebula is one of the most famous nebulae on the sky. It is visible as the black indentation to the red emission nebula seen just to the right of center of the above photograph. The bright star near the center is located in the belt of the familiar constellation of Orion. The horse-head feature is dark because it is really an opaque dust cloud which lies in front of the bright red emission nebula. Like clouds in Earth's atmosphere, this cosmic cloud has assumed a recognizable shape by chance. After many thousands of years, the internal motions of the cloud will alter its appearance. The emission nebula's red color is caused by electrons recombining with protons to form hydrogen atoms. Also visible in the picture are blue reflection nebulae, which preferentially reflect the blue light from nearby stars.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/9901/horsehead2_dm.gif
