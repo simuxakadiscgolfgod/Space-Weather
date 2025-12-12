@@ -2,16 +2,13 @@
 ## Astronomical Picture of the Day
 **Note**: Due to the lapse in federal US government funding, NASA is not updating the APOD. Therefore, every day a random picture is being displayed from the archive (from 1995-06-16 to 2025-10-01).
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  1999-01-03
-<br />**This image is owned by:**  David Malin 
-(AAO),
-AATB, 
-ROE,
-UKS Telescope
+<br />**Date image released:**  2014-03-05
+<br />**This image is owned by:**  
+Fred Vanderhaven
 
-<br />**Title of the image:**  Orion's Horsehead Nebula
-<br />**Description for the image:**  The Horsehead Nebula is one of the most famous nebulae on the sky. It is visible as the black indentation to the red emission nebula seen just to the right of center of the above photograph. The bright star near the center is located in the belt of the familiar constellation of Orion. The horse-head feature is dark because it is really an opaque dust cloud which lies in front of the bright red emission nebula. Like clouds in Earth's atmosphere, this cosmic cloud has assumed a recognizable shape by chance. After many thousands of years, the internal motions of the cloud will alter its appearance. The emission nebula's red color is caused by electrons recombining with protons to form hydrogen atoms. Also visible in the picture are blue reflection nebulae, which preferentially reflect the blue light from nearby stars.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/9901/horsehead2_dm.gif
+<br />**Title of the image:**  Globules in the Running Chicken Nebula
+<br />**Description for the image:**  The eggs from this chicken may form into stars.  The above pictured emission nebula, cataloged as IC 2944, is called the Running Chicken Nebula for the shape of its greater appearance.  The image was taken recently from Siding Spring Observatory in Australia and presented in scientifically assigned colors. Seen near the center of the image are small, dark molecular clouds rich in obscuring cosmic dust. Called Thackeray's Globules for their discoverer, these "eggs" are potential sites for the gravitational condensation of new stars, although their fates are uncertain as they are also being rapidly eroded away by the intense radiation from nearby young stars. Together with patchy glowing gas and complex regions of reflecting dust, these massive and energetic stars form the open cluster Collinder 249. This gorgeous skyscape spans about 70 light-years at the nebula's estimated 6,000 light-year distance.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/1403/ic2944_vanderhaven_1280.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -55,57 +52,57 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 Dec 11 0030 UTC
+:Issued: 2025 Dec 12 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 6 (NOAA Scale
-G2). The greatest expected 3 hr Kp for Dec 11-Dec 13 2025 is 5.67 (NOAA
-Scale G2).
+G2).
+The greatest expected 3 hr Kp for Dec 12-Dec 14 2025 is 4.67 (NOAA Scale
+G1).
 
-NOAA Kp index breakdown Dec 11-Dec 13 2025
+NOAA Kp index breakdown Dec 12-Dec 14 2025
 
-             Dec 11       Dec 12       Dec 13
-00-03UT       5.67 (G2)    3.33         2.67     
-03-06UT       5.00 (G1)    2.00         2.33     
-06-09UT       4.00         2.00         2.33     
-09-12UT       2.33         3.00         1.67     
-12-15UT       2.33         2.67         2.00     
-15-18UT       2.33         3.00         2.67     
-18-21UT       2.33         3.33         3.33     
-21-00UT       2.67         3.33         3.67     
+             Dec 12       Dec 13       Dec 14
+00-03UT       4.00         4.33         3.67     
+03-06UT       4.67 (G1)    3.67         3.00     
+06-09UT       4.00         2.33         2.67     
+09-12UT       3.67         1.67         2.67     
+12-15UT       3.33         2.00         2.67     
+15-18UT       3.00         2.67         2.00     
+18-21UT       3.33         3.33         2.00     
+21-00UT       3.67         3.67         2.67     
 
-Rationale: G1-G2 (Minor-Moderate) geomagnetic storms are expected due to
-the influence of ongoing solar wind transients near Earth, likely
-associated with a CME partial hit.
+Rationale: G1 (Minor) storming is likely early on 12 Dec as weak
+enhancements in the solar wind environment persist.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Dec 11-Dec 13 2025
+Solar Radiation Storm Forecast for Dec 12-Dec 14 2025
 
-              Dec 11  Dec 12  Dec 13
-S1 or greater   15%     10%      5%
+              Dec 12  Dec 13  Dec 14
+S1 or greater   10%      5%      1%
 
-Rationale: There is a slight chance for S1 (Minor) or greater solar
-radiation storms on 11-12 Dec.
+Rationale: There is a slight chance for an S1 (Minor) radiation storming
+event on 12 Dec as the complex regions in the western hemisphere move
+beyond the limb.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-Radio blackouts reaching the R1 levels were observed over the past 24
-hours. The largest was at Dec 10 2025 2208 UTC.
+No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Dec 11-Dec 13 2025
+Radio Blackout Forecast for Dec 12-Dec 14 2025
 
-              Dec 11        Dec 12        Dec 13
-R1-R2           75%           65%           65%
-R3 or greater   15%           10%            5%
+              Dec 12        Dec 13        Dec 14
+R1-R2           65%           60%           55%
+R3 or greater   10%            5%            5%
 
-Rationale: R1-R2 (Minor-Moderate) radio blackouts are expected on 11 Dec
-and likely on 12-13 Dec. There is a slight chance of R3 (Strong) or
-greater storms on 11-12 Dec.
+Rationale: Chances for R1-R2 (Minor-Moderate) radio blackouts decrease
+over 12-14 Dec as major flare producing regions move beyond the west
+limb.
 
 ```
