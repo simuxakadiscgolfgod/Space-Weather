@@ -2,13 +2,11 @@
 ## Astronomical Picture of the Day
 **Note**: Due to the lapse in federal US government funding, NASA is not updating the APOD. Therefore, every day a random picture is being displayed from the archive (from 1995-06-16 to 2025-10-01).
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2014-03-05
-<br />**This image is owned by:**  
-Fred Vanderhaven
-
-<br />**Title of the image:**  Globules in the Running Chicken Nebula
-<br />**Description for the image:**  The eggs from this chicken may form into stars.  The above pictured emission nebula, cataloged as IC 2944, is called the Running Chicken Nebula for the shape of its greater appearance.  The image was taken recently from Siding Spring Observatory in Australia and presented in scientifically assigned colors. Seen near the center of the image are small, dark molecular clouds rich in obscuring cosmic dust. Called Thackeray's Globules for their discoverer, these "eggs" are potential sites for the gravitational condensation of new stars, although their fates are uncertain as they are also being rapidly eroded away by the intense radiation from nearby young stars. Together with patchy glowing gas and complex regions of reflecting dust, these massive and energetic stars form the open cluster Collinder 249. This gorgeous skyscape spans about 70 light-years at the nebula's estimated 6,000 light-year distance.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/1403/ic2944_vanderhaven_1280.jpg
+<br />**Date image released:**  2019-11-30
+<br />**This image is owned by:**  Dengyi Huang
+<br />**Title of the image:**  Star Trails for a Red Planet
+<br />**Description for the image:**  Does Mars have a north star? In long exposures of Earth's night sky, star trails make concentric arcs around the north celestial pole, the direction of our fair planet's axis of rotation. Bright star Polaris is presently the Earth's North Star, close on the sky to Earth's north celestial pole. But long exposures on Mars show star trails too, concentric arcs about a celestial pole determined by Mars' axis of rotation. Tilted like planet Earth's, the martian axis of rotation points in a different direction in space though. It points to a place on the sky between stars in Cygnus and Cepheus with no bright star comparable to Earth's north star Polaris nearby. So even though this ruddy, weathered landscape is remarkably reminiscent of terrain in images from the  martian surface, the view must be from planet Earth, with north star Polaris near the center of concentric star trails. The landforms in the foreground are found in Qinghai Province in northwestern China.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/1911/StarTrailsOnRedPlanet2048.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -52,57 +50,57 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 Dec 12 0030 UTC
+:Issued: 2025 Dec 13 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 6 (NOAA Scale
-G2).
-The greatest expected 3 hr Kp for Dec 12-Dec 14 2025 is 4.67 (NOAA Scale
+The greatest observed 3 hr Kp over the past 24 hours was 5 (NOAA Scale
+G1).
+The greatest expected 3 hr Kp for Dec 13-Dec 15 2025 is 4.67 (NOAA Scale
 G1).
 
-NOAA Kp index breakdown Dec 12-Dec 14 2025
+NOAA Kp index breakdown Dec 13-Dec 15 2025
 
-             Dec 12       Dec 13       Dec 14
-00-03UT       4.00         4.33         3.67     
-03-06UT       4.67 (G1)    3.67         3.00     
-06-09UT       4.00         2.33         2.67     
-09-12UT       3.67         1.67         2.67     
-12-15UT       3.33         2.00         2.67     
-15-18UT       3.00         2.67         2.00     
-18-21UT       3.33         3.33         2.00     
-21-00UT       3.67         3.67         2.67     
+             Dec 13       Dec 14       Dec 15
+00-03UT       4.33         3.67         2.33     
+03-06UT       4.33         3.00         2.00     
+06-09UT       4.67 (G1)    2.67         2.00     
+09-12UT       3.67         2.67         2.00     
+12-15UT       2.67         2.67         2.00     
+15-18UT       2.67         2.00         2.00     
+18-21UT       3.33         2.00         2.00     
+21-00UT       3.67         2.67         2.33     
 
-Rationale: G1 (Minor) storming is likely early on 12 Dec as weak
-enhancements in the solar wind environment persist.
+Rationale: G1 (Minor) geomagnetic storm levels are expected on 13 Dec
+due to ongoing CH HSS influence.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Dec 12-Dec 14 2025
+Solar Radiation Storm Forecast for Dec 13-Dec 15 2025
 
-              Dec 12  Dec 13  Dec 14
-S1 or greater   10%      5%      1%
+              Dec 13  Dec 14  Dec 15
+S1 or greater    5%      5%      1%
 
-Rationale: There is a slight chance for an S1 (Minor) radiation storming
-event on 12 Dec as the complex regions in the western hemisphere move
-beyond the limb.
+Rationale: No S1 (Minor) or greater solar radiation storms are expected.
+No significant active region activity favorable for radiation storm
+production is forecast.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-No radio blackouts were observed over the past 24 hours.
+Radio blackouts reaching the R1 levels were observed over the past 24
+hours. The largest was at Dec 12 2025 0505 UTC.
 
-Radio Blackout Forecast for Dec 12-Dec 14 2025
+Radio Blackout Forecast for Dec 13-Dec 15 2025
 
-              Dec 12        Dec 13        Dec 14
-R1-R2           65%           60%           55%
-R3 or greater   10%            5%            5%
+              Dec 13        Dec 14        Dec 15
+R1-R2           55%           45%           35%
+R3 or greater    5%            1%            1%
 
-Rationale: Chances for R1-R2 (Minor-Moderate) radio blackouts decrease
-over 12-14 Dec as major flare producing regions move beyond the west
-limb.
+Rationale: R1-R2 (Minor-Moderate) radio blackouts are likely on 13 Dec
+due to the potential of Region 4296 and 4294 near the W limb.
 
 ```

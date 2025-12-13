@@ -1,7 +1,5 @@
-<br />**Date image released:**  2014-03-05
-<br />**This image is owned by:**  
-Fred Vanderhaven
-
-<br />**Title of the image:**  Globules in the Running Chicken Nebula
-<br />**Description for the image:**  The eggs from this chicken may form into stars.  The above pictured emission nebula, cataloged as IC 2944, is called the Running Chicken Nebula for the shape of its greater appearance.  The image was taken recently from Siding Spring Observatory in Australia and presented in scientifically assigned colors. Seen near the center of the image are small, dark molecular clouds rich in obscuring cosmic dust. Called Thackeray's Globules for their discoverer, these "eggs" are potential sites for the gravitational condensation of new stars, although their fates are uncertain as they are also being rapidly eroded away by the intense radiation from nearby young stars. Together with patchy glowing gas and complex regions of reflecting dust, these massive and energetic stars form the open cluster Collinder 249. This gorgeous skyscape spans about 70 light-years at the nebula's estimated 6,000 light-year distance.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/1403/ic2944_vanderhaven_1280.jpg
+<br />**Date image released:**  2019-11-30
+<br />**This image is owned by:**  Dengyi Huang
+<br />**Title of the image:**  Star Trails for a Red Planet
+<br />**Description for the image:**  Does Mars have a north star? In long exposures of Earth's night sky, star trails make concentric arcs around the north celestial pole, the direction of our fair planet's axis of rotation. Bright star Polaris is presently the Earth's North Star, close on the sky to Earth's north celestial pole. But long exposures on Mars show star trails too, concentric arcs about a celestial pole determined by Mars' axis of rotation. Tilted like planet Earth's, the martian axis of rotation points in a different direction in space though. It points to a place on the sky between stars in Cygnus and Cepheus with no bright star comparable to Earth's north star Polaris nearby. So even though this ruddy, weathered landscape is remarkably reminiscent of terrain in images from the  martian surface, the view must be from planet Earth, with north star Polaris near the center of concentric star trails. The landforms in the foreground are found in Qinghai Province in northwestern China.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/1911/StarTrailsOnRedPlanet2048.jpg
