@@ -2,11 +2,10 @@
 ## Astronomical Picture of the Day
 **Note**: Due to the lapse in federal US government funding, NASA is not updating the APOD. Therefore, every day a random picture is being displayed from the archive (from 1995-06-16 to 2025-10-01).
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2021-07-22
-<br />**This image is owned by:**  CHART32 Team
-<br />**Title of the image:**  NGC 7814: Little Sombrero with Supernova
-<br />**Description for the image:**  Point your telescope toward the high flying constellation Pegasus and you can find this expanse of Milky Way stars and distant galaxies. NGC 7814 is centered in the pretty field of view that would almost be covered by a full moon. NGC 7814 is sometimes called the Little Sombrero for its resemblance to the brighter more famous M104, the Sombrero Galaxy. Both Sombrero and Little Sombrero are spiral galaxies seen edge-on, and both have extensive halos and central bulges cut by a thin disk with thinner dust lanes in silhouette. In fact, NGC 7814 is some 40 million light-years away and an estimated 60,000 light-years across. That actually makes the Little Sombrero about the same physical size as its better known namesake, appearing smaller and fainter only because it is farther away. In this telescopic view from July 17, NGC 7814 is hosting a newly discovered supernova, dominant immediately to the left of the galaxy's core. Cataloged as SN 2021rhu, the stellar explosion has been identified as a Type Ia supernova, useful toward calibrating the distance scale of the universe.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2107/NGC7814withSN2021rhuChart32.jpg
+<br />**Date image released:**  2013-01-20
+<br />**Title of the image:**  The Antikythera Mechanism
+<br />**Description for the image:**  What is it?  It was found at the bottom of the sea aboard an ancient Greek ship.  Its seeming complexity has prompted decades of study, although some of its functions remained unknown.   X-ray images of the device have confirmed the nature of the Antikythera mechanism, and discovered several surprising functions.  The Antikythera mechanism has been discovered to be a mechanical computer of an accuracy thought impossible in 80 BC, when the ship that carried it sank.   Such sophisticated technology was not thought to be developed by humanity for another 1,000 years. Its wheels and gears create a portable orrery of the sky that predicted star and planet locations as well as lunar and solar eclipses. The Antikythera mechanism, shown above, is 33 centimeters high and therefore similar in size to a large book.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/1301/antikythera_wikipedia_1036.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -50,56 +49,55 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 Dec 15 0030 UTC
+:Issued: 2025 Dec 16 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Dec 15-Dec 17 2025 is 3.00 (below NOAA
-Scale levels).
+The greatest expected 3 hr Kp for Dec 16-Dec 18 2025 is 5.00 (NOAA Scale
+G1).
 
-NOAA Kp index breakdown Dec 15-Dec 17 2025
+NOAA Kp index breakdown Dec 16-Dec 18 2025
 
-             Dec 15       Dec 16       Dec 17
-00-03UT       2.67         2.67         2.67     
-03-06UT       2.67         2.67         2.00     
-06-09UT       3.00         2.00         2.33     
-09-12UT       2.67         1.67         2.33     
-12-15UT       1.67         1.67         2.33     
-15-18UT       1.67         0.67         2.33     
-18-21UT       2.00         1.67         2.33     
-21-00UT       2.67         2.67         2.67     
+             Dec 16       Dec 17       Dec 18
+00-03UT       1.67         1.67         5.00 (G1)
+03-06UT       3.00         2.00         4.67 (G1)
+06-09UT       2.67         2.00         4.00     
+09-12UT       2.00         2.00         3.67     
+12-15UT       2.00         3.00         3.00     
+15-18UT       1.33         3.33         3.00     
+18-21UT       0.67         4.00         2.67     
+21-00UT       1.67         4.33         3.33     
 
-Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
-significant transient or recurrent solar wind features are forecast.
+Rationale: G1 (Minor) or greater geomagnetic storms are expected on Dec
+18 due to the passage of a coronal hole high speed stream.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Dec 15-Dec 17 2025
+Solar Radiation Storm Forecast for Dec 16-Dec 18 2025
 
-              Dec 15  Dec 16  Dec 17
+              Dec 16  Dec 17  Dec 18
 S1 or greater    1%      1%      1%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
-No significant active region activity favorable for radiation storm
-production is forecast.
+
 
 C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Dec 15-Dec 17 2025
+Radio Blackout Forecast for Dec 16-Dec 18 2025
 
-              Dec 15        Dec 16        Dec 17
-R1-R2           25%           25%           25%
+              Dec 16        Dec 17        Dec 18
+R1-R2           20%           20%           20%
 R3 or greater    1%            1%            1%
 
-Rationale: There is a chance for isolated R1-R2 (Minor-Moderate) radio
-blackouts over 15-17 Dec.
+Rationale: No R1 (Minor) or greater radio blackouts are expected.  No
+significant active region flare activity is forecast.
 
 ```
