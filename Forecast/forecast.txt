@@ -1,6 +1,6 @@
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 Dec 16 0030 UTC
+:Issued: 2025 Dec 16 1230 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
@@ -13,9 +13,9 @@ G1).
 NOAA Kp index breakdown Dec 16-Dec 18 2025
 
              Dec 16       Dec 17       Dec 18
-00-03UT       1.67         1.67         5.00 (G1)
-03-06UT       3.00         2.00         4.67 (G1)
-06-09UT       2.67         2.00         4.00     
+00-03UT       3.33         1.67         5.00 (G1)
+03-06UT       2.67         2.00         4.67 (G1)
+06-09UT       2.00         2.00         4.00     
 09-12UT       2.00         2.00         3.67     
 12-15UT       2.00         3.00         3.00     
 15-18UT       1.33         3.33         3.00     
@@ -36,7 +36,8 @@ Solar Radiation Storm Forecast for Dec 16-Dec 18 2025
 S1 or greater    1%      1%      1%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
-
+No significant active region activity favorable for radiation storm
+production is forecast.
 
 C. NOAA Radio Blackout Activity and Forecast
 
@@ -48,7 +49,7 @@ Radio Blackout Forecast for Dec 16-Dec 18 2025
 R1-R2           20%           20%           20%
 R3 or greater    1%            1%            1%
 
-Rationale: No R1 (Minor) or greater radio blackouts are expected.  No
-significant active region flare activity is forecast.
+Rationale: There is a slight chance for R1-R2 (Minor-Moderate) radio
+blackouts through 18 Dec.
 
 ```

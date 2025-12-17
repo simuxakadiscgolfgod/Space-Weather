@@ -2,10 +2,10 @@
 ## Astronomical Picture of the Day
 **Note**: Due to the lapse in federal US government funding, NASA is not updating the APOD. Therefore, every day a random picture is being displayed from the archive (from 1995-06-16 to 2025-10-01).
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2013-01-20
-<br />**Title of the image:**  The Antikythera Mechanism
-<br />**Description for the image:**  What is it?  It was found at the bottom of the sea aboard an ancient Greek ship.  Its seeming complexity has prompted decades of study, although some of its functions remained unknown.   X-ray images of the device have confirmed the nature of the Antikythera mechanism, and discovered several surprising functions.  The Antikythera mechanism has been discovered to be a mechanical computer of an accuracy thought impossible in 80 BC, when the ship that carried it sank.   Such sophisticated technology was not thought to be developed by humanity for another 1,000 years. Its wheels and gears create a portable orrery of the sky that predicted star and planet locations as well as lunar and solar eclipses. The Antikythera mechanism, shown above, is 33 centimeters high and therefore similar in size to a large book.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/1301/antikythera_wikipedia_1036.jpg
+<br />**Date image released:**  2014-07-18
+<br />**Title of the image:**  Ou4: A Giant Squid Nebula
+<br />**Description for the image:**  A mysterious, squid-like apparition, this nebula is very faint, but also very large in planet Earth's sky. In the mosaic image, composed with narrowband data from the 2.5 meter Isaac Newton Telescope, it spans some 2.5 full moons toward the constellation Cepheus. Recently discovered by French astro-imager Nicolas Outters, the remarkable nebula's bipolar shape and emission are consistent with it being a planetary nebula, the gaseous shroud of a dying sun-like star, but its actual distance and origin are unknown. A new investigation suggests Ou4 really lies within the emission region SH2-129 some 2,300 light-years away. Consistent with that scenario, the cosmic squid would represent a spectacular outflow of material driven by a triple system of hot, massive stars, cataloged as HR8119, seen near the center of the nebula. If so, this truly giant squid nebula would physically be nearly 50 light-years across.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/1407/ou4_colourreduced_corradi.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,7 +49,7 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 Dec 16 0030 UTC
+:Issued: 2025 Dec 16 1230 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
@@ -62,9 +62,9 @@ G1).
 NOAA Kp index breakdown Dec 16-Dec 18 2025
 
              Dec 16       Dec 17       Dec 18
-00-03UT       1.67         1.67         5.00 (G1)
-03-06UT       3.00         2.00         4.67 (G1)
-06-09UT       2.67         2.00         4.00     
+00-03UT       3.33         1.67         5.00 (G1)
+03-06UT       2.67         2.00         4.67 (G1)
+06-09UT       2.00         2.00         4.00     
 09-12UT       2.00         2.00         3.67     
 12-15UT       2.00         3.00         3.00     
 15-18UT       1.33         3.33         3.00     
@@ -85,7 +85,8 @@ Solar Radiation Storm Forecast for Dec 16-Dec 18 2025
 S1 or greater    1%      1%      1%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
-
+No significant active region activity favorable for radiation storm
+production is forecast.
 
 C. NOAA Radio Blackout Activity and Forecast
 
@@ -97,7 +98,7 @@ Radio Blackout Forecast for Dec 16-Dec 18 2025
 R1-R2           20%           20%           20%
 R3 or greater    1%            1%            1%
 
-Rationale: No R1 (Minor) or greater radio blackouts are expected.  No
-significant active region flare activity is forecast.
+Rationale: There is a slight chance for R1-R2 (Minor-Moderate) radio
+blackouts through 18 Dec.
 
 ```
