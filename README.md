@@ -2,10 +2,14 @@
 ## Astronomical Picture of the Day
 **Note**: Due to the lapse in federal US government funding, NASA is not updating the APOD. Therefore, every day a random picture is being displayed from the archive (from 1995-06-16 to 2025-10-01).
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2014-07-18
-<br />**Title of the image:**  Ou4: A Giant Squid Nebula
-<br />**Description for the image:**  A mysterious, squid-like apparition, this nebula is very faint, but also very large in planet Earth's sky. In the mosaic image, composed with narrowband data from the 2.5 meter Isaac Newton Telescope, it spans some 2.5 full moons toward the constellation Cepheus. Recently discovered by French astro-imager Nicolas Outters, the remarkable nebula's bipolar shape and emission are consistent with it being a planetary nebula, the gaseous shroud of a dying sun-like star, but its actual distance and origin are unknown. A new investigation suggests Ou4 really lies within the emission region SH2-129 some 2,300 light-years away. Consistent with that scenario, the cosmic squid would represent a spectacular outflow of material driven by a triple system of hot, massive stars, cataloged as HR8119, seen near the center of the nebula. If so, this truly giant squid nebula would physically be nearly 50 light-years across.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/1407/ou4_colourreduced_corradi.jpg
+<br />**Date image released:**  2003-12-02
+<br />**This image is owned by:**  
+Michael Fulbright
+(MSFAstro.net)
+
+<br />**Title of the image:**  NGC 869 & NGC 884: A Double Open Cluster
+<br />**Description for the image:**  Most star clusters are singularly impressive.  Open clusters NGC 869 and NGC 884, however, are doubly impressive.  Also known as "h and chi Persei", this unusual double cluster, shown above, is bright enough to be seen from a dark location without even binoculars.  Although their discovery surely predates written history, the Greek astronomer Hipparchus notably cataloged the "double cluster".  The clusters are over 7000 light years distant toward the constellation of Perseus, but are separated by only hundreds of light years.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/0312/doublecluster_fulbright_big.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,39 +53,39 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 Dec 16 1230 UTC
+:Issued: 2025 Dec 18 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
-Scale levels).
-The greatest expected 3 hr Kp for Dec 16-Dec 18 2025 is 5.00 (NOAA Scale
+The greatest observed 3 hr Kp over the past 24 hours was 4.67 (NOAA
+Scale G1).
+The greatest expected 3 hr Kp for Dec 18-Dec 20 2025 is 4.67 (NOAA Scale
 G1).
 
-NOAA Kp index breakdown Dec 16-Dec 18 2025
+NOAA Kp index breakdown Dec 18-Dec 20 2025
 
-             Dec 16       Dec 17       Dec 18
-00-03UT       3.33         1.67         5.00 (G1)
-03-06UT       2.67         2.00         4.67 (G1)
-06-09UT       2.00         2.00         4.00     
-09-12UT       2.00         2.00         3.67     
-12-15UT       2.00         3.00         3.00     
-15-18UT       1.33         3.33         3.00     
-18-21UT       0.67         4.00         2.67     
-21-00UT       1.67         4.33         3.33     
+             Dec 18       Dec 19       Dec 20
+00-03UT       4.00         3.00         2.67     
+03-06UT       4.67 (G1)    3.00         2.67     
+06-09UT       4.00         2.67         2.33     
+09-12UT       2.67         2.00         1.67     
+12-15UT       2.33         1.67         1.67     
+15-18UT       2.00         1.33         1.33     
+18-21UT       2.33         1.33         2.00     
+21-00UT       3.00         2.67         2.00     
 
-Rationale: G1 (Minor) or greater geomagnetic storms are expected on Dec
-18 due to the passage of a coronal hole high speed stream.
+Rationale: G1 (Minor) geomagnetic storms are expected on 18 Dec due to
+persistent CH HSS influence.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Dec 16-Dec 18 2025
+Solar Radiation Storm Forecast for Dec 18-Dec 20 2025
 
-              Dec 16  Dec 17  Dec 18
+              Dec 18  Dec 19  Dec 20
 S1 or greater    1%      1%      1%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -92,13 +96,13 @@ C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Dec 16-Dec 18 2025
+Radio Blackout Forecast for Dec 18-Dec 20 2025
 
-              Dec 16        Dec 17        Dec 18
-R1-R2           20%           20%           20%
+              Dec 18        Dec 19        Dec 20
+R1-R2           15%           15%           15%
 R3 or greater    1%            1%            1%
 
-Rationale: There is a slight chance for R1-R2 (Minor-Moderate) radio
-blackouts through 18 Dec.
+Rationale: No R1 (Minor) or greater radio blackouts are expected.  No
+significant active region flare activity is forecast.
 
 ```
