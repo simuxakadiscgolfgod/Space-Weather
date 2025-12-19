@@ -2,14 +2,10 @@
 ## Astronomical Picture of the Day
 **Note**: Due to the lapse in federal US government funding, NASA is not updating the APOD. Therefore, every day a random picture is being displayed from the archive (from 1995-06-16 to 2025-10-01).
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2003-12-02
-<br />**This image is owned by:**  
-Michael Fulbright
-(MSFAstro.net)
-
-<br />**Title of the image:**  NGC 869 & NGC 884: A Double Open Cluster
-<br />**Description for the image:**  Most star clusters are singularly impressive.  Open clusters NGC 869 and NGC 884, however, are doubly impressive.  Also known as "h and chi Persei", this unusual double cluster, shown above, is bright enough to be seen from a dark location without even binoculars.  Although their discovery surely predates written history, the Greek astronomer Hipparchus notably cataloged the "double cluster".  The clusters are over 7000 light years distant toward the constellation of Perseus, but are separated by only hundreds of light years.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/0312/doublecluster_fulbright_big.jpg
+<br />**Date image released:**  2005-11-17
+<br />**Title of the image:**  Young Stars of NGC 346
+<br />**Description for the image:**  Star cluster NGC 346 is embedded in the largest star forming region in the Small Magellanic Cloud, some 210,000 light-years distant. The massive stars of NGC 346 are short lived, but very energetic. Their winds and radiation sweep out an interstellar cavern in the gas and dust cloud about 200 light-years across, triggering star formation and sculpting the region's dense inner edge. Cataloged as N66, the star forming region also appears to contain a large population of infant stars. A mere 3 to 5 million years old and not yet burning hydrogen in their cores, the infant stars are strewn about the embedded star cluster. In the false-color Hubble Space Telescope image, visible and near-infrared light are seen as blue and green, while light from atomic hydrogen emission is red.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/0511/ngc346_hst_lf54.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -53,39 +49,39 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 Dec 18 0030 UTC
+:Issued: 2025 Dec 19 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 4.67 (NOAA
-Scale G1).
-The greatest expected 3 hr Kp for Dec 18-Dec 20 2025 is 4.67 (NOAA Scale
-G1).
+The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
+Scale levels).
+The greatest expected 3 hr Kp for Dec 19-Dec 21 2025 is 3.00 (below NOAA
+Scale levels).
 
-NOAA Kp index breakdown Dec 18-Dec 20 2025
+NOAA Kp index breakdown Dec 19-Dec 21 2025
 
-             Dec 18       Dec 19       Dec 20
-00-03UT       4.00         3.00         2.67     
-03-06UT       4.67 (G1)    3.00         2.67     
-06-09UT       4.00         2.67         2.33     
-09-12UT       2.67         2.00         1.67     
-12-15UT       2.33         1.67         1.67     
-15-18UT       2.00         1.33         1.33     
-18-21UT       2.33         1.33         2.00     
-21-00UT       3.00         2.67         2.00     
+             Dec 19       Dec 20       Dec 21
+00-03UT       3.00         2.67         1.67     
+03-06UT       3.00         2.67         1.33     
+06-09UT       2.67         2.33         1.33     
+09-12UT       2.00         1.67         1.33     
+12-15UT       1.67         1.67         1.67     
+15-18UT       1.33         1.33         1.33     
+18-21UT       1.33         2.00         1.67     
+21-00UT       2.67         2.00         1.33     
 
-Rationale: G1 (Minor) geomagnetic storms are expected on 18 Dec due to
-persistent CH HSS influence.
+Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
+significant transient or recurrent solar wind features are forecast.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Dec 18-Dec 20 2025
+Solar Radiation Storm Forecast for Dec 19-Dec 21 2025
 
-              Dec 18  Dec 19  Dec 20
+              Dec 19  Dec 20  Dec 21
 S1 or greater    1%      1%      1%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -96,13 +92,13 @@ C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Dec 18-Dec 20 2025
+Radio Blackout Forecast for Dec 19-Dec 21 2025
 
-              Dec 18        Dec 19        Dec 20
+              Dec 19        Dec 20        Dec 21
 R1-R2           15%           15%           15%
 R3 or greater    1%            1%            1%
 
-Rationale: No R1 (Minor) or greater radio blackouts are expected.  No
-significant active region flare activity is forecast.
+Rationale: There is a slight chance for R1-R2 (Minor-Moderate) radio
+blackouts through 20 Dec.
 
 ```
