@@ -2,10 +2,10 @@
 ## Astronomical Picture of the Day
 **Note**: Due to the lapse in federal US government funding, NASA is not updating the APOD. Therefore, every day a random picture is being displayed from the archive (from 1995-06-16 to 2025-10-01).
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2005-11-17
-<br />**Title of the image:**  Young Stars of NGC 346
-<br />**Description for the image:**  Star cluster NGC 346 is embedded in the largest star forming region in the Small Magellanic Cloud, some 210,000 light-years distant. The massive stars of NGC 346 are short lived, but very energetic. Their winds and radiation sweep out an interstellar cavern in the gas and dust cloud about 200 light-years across, triggering star formation and sculpting the region's dense inner edge. Cataloged as N66, the star forming region also appears to contain a large population of infant stars. A mere 3 to 5 million years old and not yet burning hydrogen in their cores, the infant stars are strewn about the embedded star cluster. In the false-color Hubble Space Telescope image, visible and near-infrared light are seen as blue and green, while light from atomic hydrogen emission is red.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/0511/ngc346_hst_lf54.jpg
+<br />**Date image released:**  2016-11-27
+<br />**Title of the image:**  Verona Rupes: Tallest Known Cliff in the Solar System
+<br />**Description for the image:**  Could you survive a jump off the tallest cliff in the Solar System? Quite possibly.  Verona Rupes on Uranus' moon Miranda is estimated to be 20 kilometers deep -- ten times the depth of the Earth's Grand Canyon.   Given Miranda's low gravity, it would take about 12 minutes for a thrill-seeking adventurer to fall from the top, reaching the bottom at the speed of a racecar -- about 200 kilometers per hour.   Even so, the fall might be survivable given proper airbag protection.  The featured image of Verona Rupes was captured by the passing Voyager 2 robotic spacecraft in 1986.  How the giant cliff was created remains unknown, but is possibly related to a large impact or tectonic surface motion.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/1611/mirandascarp_vg2_1016.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,39 +49,39 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 Dec 19 0030 UTC
+:Issued: 2025 Dec 20 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Dec 19-Dec 21 2025 is 3.00 (below NOAA
-Scale levels).
+The greatest expected 3 hr Kp for Dec 20-Dec 22 2025 is 4.67 (NOAA Scale
+G1).
 
-NOAA Kp index breakdown Dec 19-Dec 21 2025
+NOAA Kp index breakdown Dec 20-Dec 22 2025
 
-             Dec 19       Dec 20       Dec 21
-00-03UT       3.00         2.67         1.67     
-03-06UT       3.00         2.67         1.33     
-06-09UT       2.67         2.33         1.33     
-09-12UT       2.00         1.67         1.33     
-12-15UT       1.67         1.67         1.67     
-15-18UT       1.33         1.33         1.33     
-18-21UT       1.33         2.00         1.67     
-21-00UT       2.67         2.00         1.33     
+             Dec 20       Dec 21       Dec 22
+00-03UT       2.67         1.67         1.67     
+03-06UT       2.67         1.67         2.00     
+06-09UT       2.33         1.67         1.67     
+09-12UT       1.67         1.33         3.00     
+12-15UT       1.67         0.67         3.67     
+15-18UT       1.33         1.33         3.67     
+18-21UT       2.00         0.67         4.00     
+21-00UT       2.00         1.67         4.67 (G1)
 
-Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
-significant transient or recurrent solar wind features are forecast.
+Rationale: G1 (Minor) or greater geomagnetic storms are expected on Dec
+22, due to the anticipated onset of a +CH/HSS influences.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Dec 19-Dec 21 2025
+Solar Radiation Storm Forecast for Dec 20-Dec 22 2025
 
-              Dec 19  Dec 20  Dec 21
+              Dec 20  Dec 21  Dec 22
 S1 or greater    1%      1%      1%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -90,15 +90,16 @@ production is forecast.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-No radio blackouts were observed over the past 24 hours.
+Radio blackouts reaching the R1 levels were observed over the past 24
+hours. The largest was at Dec 19 2025 1558 UTC.
 
-Radio Blackout Forecast for Dec 19-Dec 21 2025
+Radio Blackout Forecast for Dec 20-Dec 22 2025
 
-              Dec 19        Dec 20        Dec 21
-R1-R2           15%           15%           15%
+              Dec 20        Dec 21        Dec 22
+R1-R2            5%            5%            5%
 R3 or greater    1%            1%            1%
 
-Rationale: There is a slight chance for R1-R2 (Minor-Moderate) radio
-blackouts through 20 Dec.
+Rationale: No R1 (Minor) or greater radio blackouts are expected.  No
+significant active region flare activity is forecast.
 
 ```
