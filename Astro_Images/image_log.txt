@@ -1,4 +1,7 @@
-<br />**Date image released:**  2016-11-27
-<br />**Title of the image:**  Verona Rupes: Tallest Known Cliff in the Solar System
-<br />**Description for the image:**  Could you survive a jump off the tallest cliff in the Solar System? Quite possibly.  Verona Rupes on Uranus' moon Miranda is estimated to be 20 kilometers deep -- ten times the depth of the Earth's Grand Canyon.   Given Miranda's low gravity, it would take about 12 minutes for a thrill-seeking adventurer to fall from the top, reaching the bottom at the speed of a racecar -- about 200 kilometers per hour.   Even so, the fall might be survivable given proper airbag protection.  The featured image of Verona Rupes was captured by the passing Voyager 2 robotic spacecraft in 1986.  How the giant cliff was created remains unknown, but is possibly related to a large impact or tectonic surface motion.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/1611/mirandascarp_vg2_1016.jpg
+<br />**Date image released:**  2022-10-24
+<br />**This image is owned by:**  
+Andrew Fryhover
+
+<br />**Title of the image:**  Clouds Around Galaxy Andromeda
+<br />**Description for the image:**  What are those red clouds surrounding the Andromeda galaxy? This galaxy, M31, is often imaged by planet Earth-based astronomers. As the nearest large spiral galaxy, it is a familiar sight with dark dust lanes, bright yellowish core, and spiral arms traced by clouds of bright blue stars.  A mosaic of well-exposed broad and narrow-band image data, this deep portrait of our neighboring island universe offers strikingly unfamiliar features though, faint reddish clouds of glowing ionized hydrogen gas in the same wide field of view. Most of the ionized hydrogen clouds surely lie in the foreground of the scene, well within our Milky Way Galaxy. They are likely associated with the pervasive, dusty interstellar cirrus clouds scattered hundreds of light-years above our own galactic plane. Some of the clouds, however, occur right in the Andromeda galaxy itself, and some in M110, the small galaxy just below.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2210/M31Clouds_Fryhover_3054.jpg
