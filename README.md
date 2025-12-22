@@ -2,13 +2,10 @@
 ## Astronomical Picture of the Day
 **Note**: Due to the lapse in federal US government funding, NASA is not updating the APOD. Therefore, every day a random picture is being displayed from the archive (from 1995-06-16 to 2025-10-01).
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2022-10-24
-<br />**This image is owned by:**  
-Andrew Fryhover
-
-<br />**Title of the image:**  Clouds Around Galaxy Andromeda
-<br />**Description for the image:**  What are those red clouds surrounding the Andromeda galaxy? This galaxy, M31, is often imaged by planet Earth-based astronomers. As the nearest large spiral galaxy, it is a familiar sight with dark dust lanes, bright yellowish core, and spiral arms traced by clouds of bright blue stars.  A mosaic of well-exposed broad and narrow-band image data, this deep portrait of our neighboring island universe offers strikingly unfamiliar features though, faint reddish clouds of glowing ionized hydrogen gas in the same wide field of view. Most of the ionized hydrogen clouds surely lie in the foreground of the scene, well within our Milky Way Galaxy. They are likely associated with the pervasive, dusty interstellar cirrus clouds scattered hundreds of light-years above our own galactic plane. Some of the clouds, however, occur right in the Andromeda galaxy itself, and some in M110, the small galaxy just below.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2210/M31Clouds_Fryhover_3054.jpg
+<br />**Date image released:**  2007-07-21
+<br />**Title of the image:**  Infrared Andromeda
+<br />**Description for the image:**  This wide, detailed Spitzer Space Telescope view features infrared light from dust (red) and old stars (blue) in Andromeda, a massive spiral galaxy a mere 2.5 million light-years away. In fact, with over twice the diameter of our own Milky Way, Andromeda is the largest nearby galaxy. Andromeda's population of bright young stars define its sweeping spiral arms in visible light images, but here the infrared view clearly follows the lumpy dust lanes heated by the young stars as they wind even closer to the galaxy's core. Constructed to explore Andromeda's infrared brightness and stellar populations, the full mosaic image is composed of about 3,000 individual frames. Two smaller companion galaxies, NGC 205 (below) and M32 (above) are also included in the combined fields. The data confirm that Andromeda (aka M31) houses around 1 trillion stars, compared to 4 hundred billion for the Milky Way.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/0707/m31-irac_f.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -52,40 +49,39 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 Dec 21 0030 UTC
+:Issued: 2025 Dec 22 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
-Scale levels).
-The greatest expected 3 hr Kp for Dec 21-Dec 23 2025 is 5.33 (NOAA Scale
+The greatest observed 3 hr Kp over the past 24 hours was 5 (NOAA Scale
+G1).
+The greatest expected 3 hr Kp for Dec 22-Dec 24 2025 is 5.00 (NOAA Scale
 G1).
 
-NOAA Kp index breakdown Dec 21-Dec 23 2025
+NOAA Kp index breakdown Dec 22-Dec 24 2025
 
-             Dec 21       Dec 22       Dec 23
-00-03UT       1.67         1.67         5.33 (G1)
-03-06UT       1.67         2.00         5.00 (G1)
-06-09UT       1.67         1.67         4.33     
-09-12UT       1.33         3.33         3.67     
-12-15UT       0.67         4.00         3.00     
-15-18UT       1.33         4.00         3.33     
-18-21UT       0.67         4.67 (G1)    3.67     
-21-00UT       1.67         5.00 (G1)    4.00     
+             Dec 22       Dec 23       Dec 24
+00-03UT       3.67         4.67 (G1)    3.33     
+03-06UT       4.67 (G1)    4.67 (G1)    3.67     
+06-09UT       5.00 (G1)    3.67         3.67     
+09-12UT       3.67         3.67         3.00     
+12-15UT       2.67         2.67         3.33     
+15-18UT       3.67         1.67         3.33     
+18-21UT       3.67         2.67         3.67     
+21-00UT       4.67 (G1)    3.67         3.67     
 
 Rationale: G1 (Minor) geomagnetic storms are likely on 22-23 Dec due to
-the anticipated effects of high speeds streams from a positive polarity
-coronal hole that will become geoeffective.
+CH HSS influences.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Dec 21-Dec 23 2025
+Solar Radiation Storm Forecast for Dec 22-Dec 24 2025
 
-              Dec 21  Dec 22  Dec 23
+              Dec 22  Dec 23  Dec 24
 S1 or greater    1%      1%      1%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -95,17 +91,15 @@ production is forecast.
 C. NOAA Radio Blackout Activity and Forecast
 
 Radio blackouts reaching the R1 levels were observed over the past 24
-hours. The largest was at Dec 20 2025 0753 UTC.
+hours. The largest was at Dec 21 2025 1827 UTC.
 
-Radio Blackout Forecast for Dec 21-Dec 23 2025
+Radio Blackout Forecast for Dec 22-Dec 24 2025
 
-              Dec 21        Dec 22        Dec 23
-R1-R2           10%           10%           20%
+              Dec 22        Dec 23        Dec 24
+R1-R2           25%           25%           30%
 R3 or greater    1%            1%            1%
 
-Rationale: There is a slight chance for R1-R2 (Minor-Moderate) radio
-blackouts on 21-22 Dec, with an increased chance for such events on 23
-Dec, due to returning active regions rotating into the visible solar
-disk.
+Rationale: There is a chance for R1 (Minor) or greater radio blackouts
+through 24 Dec.
 
 ```
