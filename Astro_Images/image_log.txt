@@ -1,5 +1,7 @@
-<br />**Date image released:**  2006-12-27
-<br />**This image is owned by:**  Russell Croman
-<br />**Title of the image:**  IC 5067: Emission Nebula Close-up
-<br />**Description for the image:**  This amazing skyscape lies along a bright ridge of emission in IC 5067, also known as The Pelican Nebula. Appropriately, the Pelican Nebula itself is part of a much larger, complex star-forming region about 2,000 light-years away in the high flying constellation Cygnus, the Swan. Cosmic dust clouds that span light-years seem to rise like mountains in the mist in this natural color view, recorded through broadband filters to produce an analogy to human color vision. The fantastic shapes are sculpted by winds and radiation from a hot, massive stars and the dominant red emission is due to atomic hydrogen gas. Placing your cursor on the image will bring up a false color image of the nebula made through narrowband filters that also map specific emission from sulfur and oxygen atoms. The mapped color image reveals even more details of the cosmic clouds and their composition.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/0612/ic5067_croman_natural.jpg
+<br />**Date image released:**  2022-03-22
+<br />**This image is owned by:**  
+Göran Strand
+
+<br />**Title of the image:**  A Whale of an Aurora over Swedish Forest
+<br />**Description for the image:**  What's that in the sky? An aurora. A large coronal mass ejection occurred on our Sun earlier this month, throwing a cloud of fast-moving electrons, protons, and ions toward the Earth. Part of this cloud impacted our Earth's magnetosphere and, bolstered by a sudden gap, resulted in spectacular auroras being seen at some high northern latitudes. Featured here is a particularly photogenic auroral corona captured above a forest in Sweden from a scenic perch overlooking the city of Östersund. To some,  this shimmering green glow of recombining atmospheric oxygen might appear like a large whale, but feel free to share what it looks like to you.  The unusually quiet Sun of the past few years has now passed. As our Sun now approaches a solar maximum in its 11-year solar magnetic cycle, dramatic auroras like this are sure to continue.    Open Science: Browse 2,700+ codes in the Astrophysics Source Code Library
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2203/WhaleAurora_Strand_1500.jpg
