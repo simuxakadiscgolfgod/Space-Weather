@@ -2,13 +2,14 @@
 ## Astronomical Picture of the Day
 **Note**: Due to the lapse in federal US government funding, NASA is not updating the APOD. Therefore, every day a random picture is being displayed from the archive (from 1995-06-16 to 2025-10-01).
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2022-03-22
+<br />**Date image released:**  2017-12-05
 <br />**This image is owned by:**  
-Göran Strand
+Sergio Mont�far  
+(Planetario Ciudad de La Plata)
 
-<br />**Title of the image:**  A Whale of an Aurora over Swedish Forest
-<br />**Description for the image:**  What's that in the sky? An aurora. A large coronal mass ejection occurred on our Sun earlier this month, throwing a cloud of fast-moving electrons, protons, and ions toward the Earth. Part of this cloud impacted our Earth's magnetosphere and, bolstered by a sudden gap, resulted in spectacular auroras being seen at some high northern latitudes. Featured here is a particularly photogenic auroral corona captured above a forest in Sweden from a scenic perch overlooking the city of Östersund. To some,  this shimmering green glow of recombining atmospheric oxygen might appear like a large whale, but feel free to share what it looks like to you.  The unusually quiet Sun of the past few years has now passed. As our Sun now approaches a solar maximum in its 11-year solar magnetic cycle, dramatic auroras like this are sure to continue.    Open Science: Browse 2,700+ codes in the Astrophysics Source Code Library
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2203/WhaleAurora_Strand_1500.jpg
+<br />**Title of the image:**  A Horizon with Blue and Red
+<br />**Description for the image:**  What's happening on the horizon? The horizon itself, past a spinach field in Guatemala, shows not only trees but a large volcano: the Volc�n de Fuego (Volcano of Fire). The red glow at the top of the volcano is hot lava. But your eye may also be drawn to the blue circle above the horizon on the left. This circle surrounds the Moon and, together with other colors, is called a corona. A corona is caused by diffraction of light -- here moonlight -- by small water droplets in the Earth's intervening atmosphere. A break in the clouds on the right shows stars and even the planet Saturn far beyond the volcano.  Although Volc�n de Fuego frequently undergoes low-level activity, the astrophotographer considered himself lucky to capture the scene just during an explosive eruption in late September.    Follow APOD on: Facebook,  Google Plus,  Instagram, or Twitter
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/1712/BlueMoonRedVolcano_Montufar_4096.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -52,39 +53,39 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 Dec 24 0030 UTC
+:Issued: 2025 Dec 25 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Dec 24-Dec 26 2025 is 4.67 (NOAA Scale
-G1).
+The greatest expected 3 hr Kp for Dec 25-Dec 27 2025 is 3.67 (below NOAA
+Scale levels).
 
-NOAA Kp index breakdown Dec 24-Dec 26 2025
+NOAA Kp index breakdown Dec 25-Dec 27 2025
 
-             Dec 24       Dec 25       Dec 26
-00-03UT       4.33         3.67         2.00     
-03-06UT       4.67 (G1)    2.67         2.67     
-06-09UT       4.67 (G1)    2.67         2.33     
-09-12UT       4.00         3.00         2.33     
-12-15UT       3.33         2.67         2.33     
-15-18UT       3.33         1.67         2.33     
-18-21UT       3.67         1.67         2.33     
-21-00UT       4.67 (G1)    2.67         2.67     
+             Dec 25       Dec 26       Dec 27
+00-03UT       3.67         2.00         1.67     
+03-06UT       2.67         2.67         1.67     
+06-09UT       2.67         2.33         1.33     
+09-12UT       3.00         2.33         1.33     
+12-15UT       2.67         2.33         1.33     
+15-18UT       1.67         2.33         1.33     
+18-21UT       1.67         2.33         1.67     
+21-00UT       2.67         2.67         1.33     
 
-Rationale: G1 (Minor) or greater geomagnetic storms are expected on 24
-Dec due to persistent CH HSS influences.
+Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
+significant transient or recurrent solar wind features are forecast.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Dec 24-Dec 26 2025
+Solar Radiation Storm Forecast for Dec 25-Dec 27 2025
 
-              Dec 24  Dec 25  Dec 26
+              Dec 25  Dec 26  Dec 27
 S1 or greater    1%      1%      1%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -95,13 +96,13 @@ C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Dec 24-Dec 26 2025
+Radio Blackout Forecast for Dec 25-Dec 27 2025
 
-              Dec 24        Dec 25        Dec 26
+              Dec 25        Dec 26        Dec 27
 R1-R2           30%           40%           45%
 R3 or greater    5%            5%            5%
 
-Rationale: There is an increasing chance for R1-R2 (Minor-Moderate) or
-greater radio blackouts through 26 Dec.
+Rationale: There is an increasing chance for R1-R2 (Minor-Moderate) 
+radio blackouts over the next three days.
 
 ```

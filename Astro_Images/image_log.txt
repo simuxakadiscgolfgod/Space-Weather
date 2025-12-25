@@ -1,7 +1,8 @@
-<br />**Date image released:**  2022-03-22
+<br />**Date image released:**  2017-12-05
 <br />**This image is owned by:**  
-Göran Strand
+Sergio Mont�far  
+(Planetario Ciudad de La Plata)
 
-<br />**Title of the image:**  A Whale of an Aurora over Swedish Forest
-<br />**Description for the image:**  What's that in the sky? An aurora. A large coronal mass ejection occurred on our Sun earlier this month, throwing a cloud of fast-moving electrons, protons, and ions toward the Earth. Part of this cloud impacted our Earth's magnetosphere and, bolstered by a sudden gap, resulted in spectacular auroras being seen at some high northern latitudes. Featured here is a particularly photogenic auroral corona captured above a forest in Sweden from a scenic perch overlooking the city of Östersund. To some,  this shimmering green glow of recombining atmospheric oxygen might appear like a large whale, but feel free to share what it looks like to you.  The unusually quiet Sun of the past few years has now passed. As our Sun now approaches a solar maximum in its 11-year solar magnetic cycle, dramatic auroras like this are sure to continue.    Open Science: Browse 2,700+ codes in the Astrophysics Source Code Library
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2203/WhaleAurora_Strand_1500.jpg
+<br />**Title of the image:**  A Horizon with Blue and Red
+<br />**Description for the image:**  What's happening on the horizon? The horizon itself, past a spinach field in Guatemala, shows not only trees but a large volcano: the Volc�n de Fuego (Volcano of Fire). The red glow at the top of the volcano is hot lava. But your eye may also be drawn to the blue circle above the horizon on the left. This circle surrounds the Moon and, together with other colors, is called a corona. A corona is caused by diffraction of light -- here moonlight -- by small water droplets in the Earth's intervening atmosphere. A break in the clouds on the right shows stars and even the planet Saturn far beyond the volcano.  Although Volc�n de Fuego frequently undergoes low-level activity, the astrophotographer considered himself lucky to capture the scene just during an explosive eruption in late September.    Follow APOD on: Facebook,  Google Plus,  Instagram, or Twitter
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/1712/BlueMoonRedVolcano_Montufar_4096.jpg
