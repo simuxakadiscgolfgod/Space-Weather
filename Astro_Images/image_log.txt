@@ -1,8 +1,4 @@
-<br />**Date image released:**  2017-12-05
-<br />**This image is owned by:**  
-Sergio Mont�far  
-(Planetario Ciudad de La Plata)
-
-<br />**Title of the image:**  A Horizon with Blue and Red
-<br />**Description for the image:**  What's happening on the horizon? The horizon itself, past a spinach field in Guatemala, shows not only trees but a large volcano: the Volc�n de Fuego (Volcano of Fire). The red glow at the top of the volcano is hot lava. But your eye may also be drawn to the blue circle above the horizon on the left. This circle surrounds the Moon and, together with other colors, is called a corona. A corona is caused by diffraction of light -- here moonlight -- by small water droplets in the Earth's intervening atmosphere. A break in the clouds on the right shows stars and even the planet Saturn far beyond the volcano.  Although Volc�n de Fuego frequently undergoes low-level activity, the astrophotographer considered himself lucky to capture the scene just during an explosive eruption in late September.    Follow APOD on: Facebook,  Google Plus,  Instagram, or Twitter
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/1712/BlueMoonRedVolcano_Montufar_4096.jpg
+<br />**Date image released:**  2004-02-08
+<br />**Title of the image:**  In the Center of the Omega Nebula
+<br />**Description for the image:**  In the depths of the dark clouds of dust and molecular gas known as the Omega Nebula, stars continue to form.  The above image from the Hubble Space Telescope's Advanced Camera for Surveys shows exquisite detail in the famous star-forming region.  The dark dust filaments that lace the center of Omega Nebula were created in the atmospheres of cool giant stars and in the debris from supernova explosions.  The red and blue hues arise from glowing gas heated by the radiation of massive nearby stars.  The points of light are the young stars themselves, some brighter than 100 Suns.  Dark globules mark even younger systems, clouds of gas and dust just now condensing to form stars and planets.  The Omega Nebula lies about 5000 light years away toward the constellation of Sagittarius.  The region shown spans about 3000 times the diameter of our Solar System.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/0205/omega_hst_big.jpg
