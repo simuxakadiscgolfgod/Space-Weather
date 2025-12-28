@@ -2,10 +2,12 @@
 ## Astronomical Picture of the Day
 **Note**: Due to the lapse in federal US government funding, NASA is not updating the APOD. Therefore, every day a random picture is being displayed from the archive (from 1995-06-16 to 2025-10-01).
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2004-02-08
-<br />**Title of the image:**  In the Center of the Omega Nebula
-<br />**Description for the image:**  In the depths of the dark clouds of dust and molecular gas known as the Omega Nebula, stars continue to form.  The above image from the Hubble Space Telescope's Advanced Camera for Surveys shows exquisite detail in the famous star-forming region.  The dark dust filaments that lace the center of Omega Nebula were created in the atmospheres of cool giant stars and in the debris from supernova explosions.  The red and blue hues arise from glowing gas heated by the radiation of massive nearby stars.  The points of light are the young stars themselves, some brighter than 100 Suns.  Dark globules mark even younger systems, clouds of gas and dust just now condensing to form stars and planets.  The Omega Nebula lies about 5000 light years away toward the constellation of Sagittarius.  The region shown spans about 3000 times the diameter of our Solar System.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/0205/omega_hst_big.jpg
+<br />**Date image released:**  2015-04-24
+<br />**This image is owned by:**  Rogelio Bernal
+Andreo
+<br />**Title of the image:**  Blue Tears and the Milky Way
+<br />**Description for the image:**  Lapping at rocks along the shore of the Island of Nangan, Taiwan, planet Earth, waves are infused with a subtle blue light in this sea and night skyscape. Composed of a series of long exposures made on April 16 the image captures the faint glow from Noctiluca scintillans. Also known as sea sparkles or blue tears, the marine plankton's bioluminescence is stimulated by wave motion. City lights along the coast of mainland China shine beneath low clouds in the west but stars and the faint Milky Way still fill the night above. Over the horizon the galaxy's central bulge and dark rifts seem to echo the rocks and luminous waves.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/1504/RBA_BlueTears1600.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,27 +51,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 Dec 26 0030 UTC
+:Issued: 2025 Dec 28 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Dec 26-Dec 28 2025 is 2.67 (below NOAA
+The greatest expected 3 hr Kp for Dec 28-Dec 30 2025 is 1.67 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Dec 26-Dec 28 2025
+NOAA Kp index breakdown Dec 28-Dec 30 2025
 
-             Dec 26       Dec 27       Dec 28
-00-03UT       2.00         1.67         1.67     
-03-06UT       2.67         1.67         1.33     
-06-09UT       2.33         1.33         1.33     
-09-12UT       2.33         1.33         1.33     
-12-15UT       2.33         1.33         1.33     
-15-18UT       2.33         1.33         1.67     
-18-21UT       2.33         1.67         1.33     
-21-00UT       2.67         1.33         1.67     
+             Dec 28       Dec 29       Dec 30
+00-03UT       1.67         1.67         1.33     
+03-06UT       1.33         1.33         1.33     
+06-09UT       1.33         1.33         1.33     
+09-12UT       1.33         1.33         1.33     
+12-15UT       1.33         1.33         1.67     
+15-18UT       1.67         1.33         1.33     
+18-21UT       1.33         1.67         1.67     
+21-00UT       1.67         1.67         1.67     
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
 significant transient or recurrent solar wind features are forecast.
@@ -79,26 +81,26 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Dec 26-Dec 28 2025
+Solar Radiation Storm Forecast for Dec 28-Dec 30 2025
 
-              Dec 26  Dec 27  Dec 28
-S1 or greater    1%      1%      1%
+              Dec 28  Dec 29  Dec 30
+S1 or greater   15%     10%     10%
 
-Rationale: No S1 (Minor) or greater solar radiation storms are expected.
-No significant active region activity favorable for radiation storm
-production is forecast.
+Rationale: There is a slight chance for the greater than 10 MeV proton
+flux to reach S1 (Minor) storm levels on 28-30 Dec.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-No radio blackouts were observed over the past 24 hours.
+Radio blackouts reaching the R2 levels were observed over the past 24
+hours. The largest was at Dec 27 2025 0150 UTC.
 
-Radio Blackout Forecast for Dec 26-Dec 28 2025
+Radio Blackout Forecast for Dec 28-Dec 30 2025
 
-              Dec 26        Dec 27        Dec 28
-R1-R2           45%           45%           45%
-R3 or greater    5%            5%            5%
+              Dec 28        Dec 29        Dec 30
+R1-R2           65%           65%           65%
+R3 or greater   20%           20%           20%
 
-Rationale: There is a chance for R1-R2 (Minor-Moderate) radio blackouts
-all three days.
+Rationale: R1-R2 (Minor-Moderate) radio blackouts are likely on 28-30
+Dec, with a slight chance for an isolated R3 (Strong) or greater event.
 
 ```

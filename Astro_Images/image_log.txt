@@ -1,4 +1,6 @@
-<br />**Date image released:**  2004-02-08
-<br />**Title of the image:**  In the Center of the Omega Nebula
-<br />**Description for the image:**  In the depths of the dark clouds of dust and molecular gas known as the Omega Nebula, stars continue to form.  The above image from the Hubble Space Telescope's Advanced Camera for Surveys shows exquisite detail in the famous star-forming region.  The dark dust filaments that lace the center of Omega Nebula were created in the atmospheres of cool giant stars and in the debris from supernova explosions.  The red and blue hues arise from glowing gas heated by the radiation of massive nearby stars.  The points of light are the young stars themselves, some brighter than 100 Suns.  Dark globules mark even younger systems, clouds of gas and dust just now condensing to form stars and planets.  The Omega Nebula lies about 5000 light years away toward the constellation of Sagittarius.  The region shown spans about 3000 times the diameter of our Solar System.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/0205/omega_hst_big.jpg
+<br />**Date image released:**  2015-04-24
+<br />**This image is owned by:**  Rogelio Bernal
+Andreo
+<br />**Title of the image:**  Blue Tears and the Milky Way
+<br />**Description for the image:**  Lapping at rocks along the shore of the Island of Nangan, Taiwan, planet Earth, waves are infused with a subtle blue light in this sea and night skyscape. Composed of a series of long exposures made on April 16 the image captures the faint glow from Noctiluca scintillans. Also known as sea sparkles or blue tears, the marine plankton's bioluminescence is stimulated by wave motion. City lights along the coast of mainland China shine beneath low clouds in the west but stars and the faint Milky Way still fill the night above. Over the horizon the galaxy's central bulge and dark rifts seem to echo the rocks and luminous waves.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/1504/RBA_BlueTears1600.jpg
