@@ -2,12 +2,10 @@
 ## Astronomical Picture of the Day
 **Note**: Due to the lapse in federal US government funding, NASA is not updating the APOD. Therefore, every day a random picture is being displayed from the archive (from 1995-06-16 to 2025-10-01).
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2015-04-24
-<br />**This image is owned by:**  Rogelio Bernal
-Andreo
-<br />**Title of the image:**  Blue Tears and the Milky Way
-<br />**Description for the image:**  Lapping at rocks along the shore of the Island of Nangan, Taiwan, planet Earth, waves are infused with a subtle blue light in this sea and night skyscape. Composed of a series of long exposures made on April 16 the image captures the faint glow from Noctiluca scintillans. Also known as sea sparkles or blue tears, the marine plankton's bioluminescence is stimulated by wave motion. City lights along the coast of mainland China shine beneath low clouds in the west but stars and the faint Milky Way still fill the night above. Over the horizon the galaxy's central bulge and dark rifts seem to echo the rocks and luminous waves.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/1504/RBA_BlueTears1600.jpg
+<br />**Date image released:**  1995-07-30
+<br />**Title of the image:**  The Rings of Saturn
+<br />**Description for the image:**  July 30, 1995    The Rings of Saturn  Credit: NASA, Jet Propulsion Laboratory, Voyager Project  Explanation:  Saturn's spectacular system of bright rings has been the subject of study and wonder since Galileo first turned his telescope on the ringed planet in 1610. To Galileo, the blurry image produced by his small telescope was confusing. Saturn appeared to him to have "ear-like" appendages which he thought might be large moons. Eventually, larger telescopes revealed the incredible truth - Saturn was surrounded by bright rings. The image above, made by NASA's Voyager 2 spacecraft, further reveals the intricate structure of the ring system. The image has been computer enhanced and color coded to bring out the subtle details. For more information about the picture see the NASA, JPL press release .
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/satring1.gif
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -51,27 +49,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 Dec 28 0030 UTC
+:Issued: 2025 Dec 29 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Dec 28-Dec 30 2025 is 1.67 (below NOAA
+The greatest expected 3 hr Kp for Dec 29-Dec 31 2025 is 2.33 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Dec 28-Dec 30 2025
+NOAA Kp index breakdown Dec 29-Dec 31 2025
 
-             Dec 28       Dec 29       Dec 30
-00-03UT       1.67         1.67         1.33     
-03-06UT       1.33         1.33         1.33     
-06-09UT       1.33         1.33         1.33     
-09-12UT       1.33         1.33         1.33     
-12-15UT       1.33         1.33         1.67     
-15-18UT       1.67         1.33         1.33     
-18-21UT       1.33         1.67         1.67     
-21-00UT       1.67         1.67         1.67     
+             Dec 29       Dec 30       Dec 31
+00-03UT       1.67         1.33         2.33     
+03-06UT       1.33         1.33         2.33     
+06-09UT       1.33         1.33         2.33     
+09-12UT       1.33         1.33         2.33     
+12-15UT       1.33         1.67         2.33     
+15-18UT       1.33         1.33         2.00     
+18-21UT       1.67         1.67         1.67     
+21-00UT       1.67         1.67         2.33     
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
 significant transient or recurrent solar wind features are forecast.
@@ -81,26 +79,26 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Dec 28-Dec 30 2025
+Solar Radiation Storm Forecast for Dec 29-Dec 31 2025
 
-              Dec 28  Dec 29  Dec 30
-S1 or greater   15%     10%     10%
+              Dec 29  Dec 30  Dec 31
+S1 or greater   10%     10%     10%
 
 Rationale: There is a slight chance for the greater than 10 MeV proton
-flux to reach S1 (Minor) storm levels on 28-30 Dec.
+flux to reach S1 (Minor) levels over 29-31 Dec.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-Radio blackouts reaching the R2 levels were observed over the past 24
-hours. The largest was at Dec 27 2025 0150 UTC.
+Radio blackouts reaching the R1 levels were observed over the past 24
+hours. The largest was at Dec 28 2025 2239 UTC.
 
-Radio Blackout Forecast for Dec 28-Dec 30 2025
+Radio Blackout Forecast for Dec 29-Dec 31 2025
 
-              Dec 28        Dec 29        Dec 30
-R1-R2           65%           65%           65%
-R3 or greater   20%           20%           20%
+              Dec 29        Dec 30        Dec 31
+R1-R2           45%           45%           45%
+R3 or greater   10%           10%           10%
 
-Rationale: R1-R2 (Minor-Moderate) radio blackouts are likely on 28-30
-Dec, with a slight chance for an isolated R3 (Strong) or greater event.
+Rationale: There is a chance for R1-R2 (Minor-Moderate) radio blackouts,
+and a slight chance for an R3 (Strong) or greater event, over 29-31 Dec.
 
 ```

@@ -1,6 +1,4 @@
-<br />**Date image released:**  2015-04-24
-<br />**This image is owned by:**  Rogelio Bernal
-Andreo
-<br />**Title of the image:**  Blue Tears and the Milky Way
-<br />**Description for the image:**  Lapping at rocks along the shore of the Island of Nangan, Taiwan, planet Earth, waves are infused with a subtle blue light in this sea and night skyscape. Composed of a series of long exposures made on April 16 the image captures the faint glow from Noctiluca scintillans. Also known as sea sparkles or blue tears, the marine plankton's bioluminescence is stimulated by wave motion. City lights along the coast of mainland China shine beneath low clouds in the west but stars and the faint Milky Way still fill the night above. Over the horizon the galaxy's central bulge and dark rifts seem to echo the rocks and luminous waves.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/1504/RBA_BlueTears1600.jpg
+<br />**Date image released:**  1995-07-30
+<br />**Title of the image:**  The Rings of Saturn
+<br />**Description for the image:**  July 30, 1995    The Rings of Saturn  Credit: NASA, Jet Propulsion Laboratory, Voyager Project  Explanation:  Saturn's spectacular system of bright rings has been the subject of study and wonder since Galileo first turned his telescope on the ringed planet in 1610. To Galileo, the blurry image produced by his small telescope was confusing. Saturn appeared to him to have "ear-like" appendages which he thought might be large moons. Eventually, larger telescopes revealed the incredible truth - Saturn was surrounded by bright rings. The image above, made by NASA's Voyager 2 spacecraft, further reveals the intricate structure of the ring system. The image has been computer enhanced and color coded to bring out the subtle details. For more information about the picture see the NASA, JPL press release .
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/satring1.gif
