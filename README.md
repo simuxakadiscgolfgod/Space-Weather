@@ -2,10 +2,10 @@
 ## Astronomical Picture of the Day
 **Note**: Due to the lapse in federal US government funding, NASA is not updating the APOD. Therefore, every day a random picture is being displayed from the archive (from 1995-06-16 to 2025-10-01).
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  1995-07-30
-<br />**Title of the image:**  The Rings of Saturn
-<br />**Description for the image:**  July 30, 1995    The Rings of Saturn  Credit: NASA, Jet Propulsion Laboratory, Voyager Project  Explanation:  Saturn's spectacular system of bright rings has been the subject of study and wonder since Galileo first turned his telescope on the ringed planet in 1610. To Galileo, the blurry image produced by his small telescope was confusing. Saturn appeared to him to have "ear-like" appendages which he thought might be large moons. Eventually, larger telescopes revealed the incredible truth - Saturn was surrounded by bright rings. The image above, made by NASA's Voyager 2 spacecraft, further reveals the intricate structure of the ring system. The image has been computer enhanced and color coded to bring out the subtle details. For more information about the picture see the NASA, JPL press release .
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/satring1.gif
+<br />**Date image released:**  2009-07-06
+<br />**Title of the image:**  Unknown Dark Material on Mercury
+<br />**Description for the image:**  What is that strange material on Mercury? When flying by Mercury last October, the robotic MESSENGER spacecraft imaged much of the solar system's innermost planet in unprecedented detail.  As common in science, new data bring new mysteries.  Pictured above on the lower right, a large crater -- about 100 kilometers across -- has unusual dark material of unknown composition near its center. The material's darkness does not appear to be caused by shadows, as the Sun was near zenith when the image was taken. One origin hypothesis is that the dark material was uncovered from beneath Mercury's surface during the impact that created the surrounding crater.  If so, the composition of the dark mound might be similar to the composition of some mysterious dark rings also recently discovered on Mercury.  Alternatively, the dark material could be related to an unusual composition of the impacting rock.  MESSENGER will buzz past Mercury again later this year before entering orbit in 2011.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/0907/darkmercury_messenger_big.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,56 +49,61 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 Dec 29 0030 UTC
+:Issued: 2025 Dec 30 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Dec 29-Dec 31 2025 is 2.33 (below NOAA
-Scale levels).
+The greatest expected 3 hr Kp for Dec 30-Jan 01 2026 is 5.00 (NOAA Scale
+G1).
 
-NOAA Kp index breakdown Dec 29-Dec 31 2025
+NOAA Kp index breakdown Dec 30-Jan 01 2026
 
-             Dec 29       Dec 30       Dec 31
-00-03UT       1.67         1.33         2.33     
-03-06UT       1.33         1.33         2.33     
-06-09UT       1.33         1.33         2.33     
-09-12UT       1.33         1.33         2.33     
-12-15UT       1.33         1.67         2.33     
-15-18UT       1.33         1.33         2.00     
-18-21UT       1.67         1.67         1.67     
-21-00UT       1.67         1.67         2.33     
+             Dec 30       Dec 31       Jan 01
+00-03UT       1.33         1.67         5.00 (G1)
+03-06UT       1.33         1.67         4.33     
+06-09UT       1.33         2.00         3.67     
+09-12UT       1.33         2.00         3.33     
+12-15UT       1.67         2.33         3.33     
+15-18UT       2.00         2.67         4.00     
+18-21UT       2.67         3.33         3.67     
+21-00UT       3.00         4.33         3.33     
 
-Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
-significant transient or recurrent solar wind features are forecast.
+Rationale: No G1 (Minor) or greater geomagnetic storms are expected
+through 31 Dec. G1 (Minor) geomagnetic storms are likely on 01 Jan due
+to recurrent solar wind features combined with potential transient
+features.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Dec 29-Dec 31 2025
+Solar Radiation Storm Forecast for Dec 30-Jan 01 2026
 
-              Dec 29  Dec 30  Dec 31
+              Dec 30  Dec 31  Jan 01
 S1 or greater   10%     10%     10%
 
-Rationale: There is a slight chance for the greater than 10 MeV proton
-flux to reach S1 (Minor) levels over 29-31 Dec.
+Rationale: There is a slight chance for a flux above the S1 (Minor) or
+greater threshold due to the flaring potential of the active regions on
+the visible solar disk.
 
 C. NOAA Radio Blackout Activity and Forecast
 
 Radio blackouts reaching the R1 levels were observed over the past 24
-hours. The largest was at Dec 28 2025 2239 UTC.
+hours. The largest was at Dec 29 2025 0651 UTC.
 
-Radio Blackout Forecast for Dec 29-Dec 31 2025
+Radio Blackout Forecast for Dec 30-Jan 01 2026
 
-              Dec 29        Dec 30        Dec 31
-R1-R2           45%           45%           45%
+              Dec 30        Dec 31        Jan 01
+R1-R2           55%           55%           55%
 R3 or greater   10%           10%           10%
 
-Rationale: There is a chance for R1-R2 (Minor-Moderate) radio blackouts,
-and a slight chance for an R3 (Strong) or greater event, over 29-31 Dec.
+Rationale: R1/R2 (Minor-Moderate) radio blackouts are likely on 30-31
+Dec and 01 Jan due to the flare potential of the current active regions.
+There is a slight chance for isolated R3 (Strong) events during the
+3-day period.
 
 ```
