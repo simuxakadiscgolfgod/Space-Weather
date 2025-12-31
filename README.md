@@ -2,10 +2,10 @@
 ## Astronomical Picture of the Day
 **Note**: Due to the lapse in federal US government funding, NASA is not updating the APOD. Therefore, every day a random picture is being displayed from the archive (from 1995-06-16 to 2025-10-01).
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2009-07-06
-<br />**Title of the image:**  Unknown Dark Material on Mercury
-<br />**Description for the image:**  What is that strange material on Mercury? When flying by Mercury last October, the robotic MESSENGER spacecraft imaged much of the solar system's innermost planet in unprecedented detail.  As common in science, new data bring new mysteries.  Pictured above on the lower right, a large crater -- about 100 kilometers across -- has unusual dark material of unknown composition near its center. The material's darkness does not appear to be caused by shadows, as the Sun was near zenith when the image was taken. One origin hypothesis is that the dark material was uncovered from beneath Mercury's surface during the impact that created the surrounding crater.  If so, the composition of the dark mound might be similar to the composition of some mysterious dark rings also recently discovered on Mercury.  Alternatively, the dark material could be related to an unusual composition of the impacting rock.  MESSENGER will buzz past Mercury again later this year before entering orbit in 2011.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/0907/darkmercury_messenger_big.jpg
+<br />**Date image released:**  1995-10-01
+<br />**Title of the image:**  Central Galactic Star Bursts
+<br />**Description for the image:**  The pictured core of the galaxy NGC 253 shows an exceptionally high rate of star formation.  In the center are some of the densest knots of stars ever found, surrounded by glowing gas and dust lanes. Galaxies where such high star formation rates are seen are called "starburst" galaxies. The unusual color is a combination of the light emitted from the young, hot, blue stars and their associated emission and reflection nebulae.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/ngc253_hst.gif
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,61 +49,56 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 Dec 30 0030 UTC
+:Issued: 2025 Dec 31 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Dec 30-Jan 01 2026 is 5.00 (NOAA Scale
+The greatest expected 3 hr Kp for Dec 31-Jan 02 2026 is 5.00 (NOAA Scale
 G1).
 
-NOAA Kp index breakdown Dec 30-Jan 01 2026
+NOAA Kp index breakdown Dec 31-Jan 02 2026
 
-             Dec 30       Dec 31       Jan 01
-00-03UT       1.33         1.67         5.00 (G1)
-03-06UT       1.33         1.67         4.33     
-06-09UT       1.33         2.00         3.67     
-09-12UT       1.33         2.00         3.33     
-12-15UT       1.67         2.33         3.33     
-15-18UT       2.00         2.67         4.00     
-18-21UT       2.67         3.33         3.67     
-21-00UT       3.00         4.33         3.33     
+             Dec 31       Jan 01       Jan 02
+00-03UT       1.67         5.00 (G1)    3.67     
+03-06UT       1.67         5.00 (G1)    3.67     
+06-09UT       2.00         3.67         3.33     
+09-12UT       2.00         3.33         3.33     
+12-15UT       2.33         3.33         3.00     
+15-18UT       2.67         4.33         3.00     
+18-21UT       3.33         4.00         3.00     
+21-00UT       4.33         3.33         3.00     
 
-Rationale: No G1 (Minor) or greater geomagnetic storms are expected
-through 31 Dec. G1 (Minor) geomagnetic storms are likely on 01 Jan due
-to recurrent solar wind features combined with potential transient
-features.
+Rationale: G1 (Minor) or greater geomagnetic storms are possible on 01
+Jan.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Dec 30-Jan 01 2026
+Solar Radiation Storm Forecast for Dec 31-Jan 02 2026
 
-              Dec 30  Dec 31  Jan 01
-S1 or greater   10%     10%     10%
+              Dec 31  Jan 01  Jan 02
+S1 or greater   15%     15%     15%
 
-Rationale: There is a slight chance for a flux above the S1 (Minor) or
-greater threshold due to the flaring potential of the active regions on
-the visible solar disk.
+Rationale: No S1 (Minor) or greater solar radiation storms are expected.
+No significant active region activity favorable for radiation storm
+production is forecast.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-Radio blackouts reaching the R1 levels were observed over the past 24
-hours. The largest was at Dec 29 2025 0651 UTC.
+No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Dec 30-Jan 01 2026
+Radio Blackout Forecast for Dec 31-Jan 02 2026
 
-              Dec 30        Dec 31        Jan 01
-R1-R2           55%           55%           55%
-R3 or greater   10%           10%           10%
+              Dec 31        Jan 01        Jan 02
+R1-R2           60%           60%           60%
+R3 or greater   25%           25%           25%
 
-Rationale: R1/R2 (Minor-Moderate) radio blackouts are likely on 30-31
-Dec and 01 Jan due to the flare potential of the current active regions.
-There is a slight chance for isolated R3 (Strong) events during the
-3-day period.
+Rationale: R1-R2 (Minor-Moderate) radio blackouts are likely, with a
+chance for R3 (Strong) or greater events, on 31 Dec-02 Jan.
 
 ```
