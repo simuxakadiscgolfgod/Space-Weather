@@ -2,10 +2,10 @@
 ## Astronomical Picture of the Day
 **Note**: Due to the lapse in federal US government funding, NASA is not updating the APOD. Therefore, every day a random picture is being displayed from the archive (from 1995-06-16 to 2025-10-01).
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  1995-10-01
-<br />**Title of the image:**  Central Galactic Star Bursts
-<br />**Description for the image:**  The pictured core of the galaxy NGC 253 shows an exceptionally high rate of star formation.  In the center are some of the densest knots of stars ever found, surrounded by glowing gas and dust lanes. Galaxies where such high star formation rates are seen are called "starburst" galaxies. The unusual color is a combination of the light emitted from the young, hot, blue stars and their associated emission and reflection nebulae.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/ngc253_hst.gif
+<br />**Date image released:**  2005-09-25
+<br />**Title of the image:**  WMAP Resolves the Universe
+<br />**Description for the image:**  Analyses of a new high-resolution map of microwave light emitted only 380,000 years after the Big Bang appear to define our universe more precisely than ever before.  The eagerly awaited results announced last year from the orbiting Wilkinson Microwave Anisotropy Probe resolve several long-standing disagreements in cosmology rooted in less precise data.  Specifically, present analyses of above WMAP all-sky image indicate that the universe is 13.7 billion years old (accurate to 1 percent), composed of 73 percent dark energy, 23 percent cold dark matter, and only 4 percent atoms, is currently expanding at the rate of 71 km/sec/Mpc (accurate to 5 percent), underwent episodes of rapid expansion called inflation, and will expand forever.  Astronomers will likely research the foundations and implications of these results for years to come.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/0509/sky_wmap_big.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,56 +49,58 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2025 Dec 31 0030 UTC
+:Issued: 2026 Jan 01 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Dec 31-Jan 02 2026 is 5.00 (NOAA Scale
-G1).
+The greatest expected 3 hr Kp for Jan 01-Jan 03 2026 is 6.00 (NOAA Scale
+G2).
 
-NOAA Kp index breakdown Dec 31-Jan 02 2026
+NOAA Kp index breakdown Jan 01-Jan 03 2026
 
-             Dec 31       Jan 01       Jan 02
-00-03UT       1.67         5.00 (G1)    3.67     
-03-06UT       1.67         5.00 (G1)    3.67     
-06-09UT       2.00         3.67         3.33     
-09-12UT       2.00         3.33         3.33     
-12-15UT       2.33         3.33         3.00     
-15-18UT       2.67         4.33         3.00     
-18-21UT       3.33         4.00         3.00     
-21-00UT       4.33         3.33         3.00     
+             Jan 01       Jan 02       Jan 03
+00-03UT       1.67         3.67         5.00 (G1)
+03-06UT       2.33         3.00         6.00 (G2)
+06-09UT       2.67         2.67         6.00 (G2)
+09-12UT       3.00         2.67         4.67 (G1)
+12-15UT       3.00         2.33         4.00     
+15-18UT       4.33         2.00         3.00     
+18-21UT       5.00 (G1)    2.33         3.00     
+21-00UT       3.33         4.67 (G1)    4.33     
 
-Rationale: G1 (Minor) or greater geomagnetic storms are possible on 01
-Jan.
+Rationale: G1 (Minor) geomagnetic storms are likely for Jan 01-02 and G2
+(Moderate) geomagnetic storms are likely for Jan 03 due to the
+anticipated impact of CMEs that left the Sun between 28-31 Dec.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Dec 31-Jan 02 2026
+Solar Radiation Storm Forecast for Jan 01-Jan 03 2026
 
-              Dec 31  Jan 01  Jan 02
-S1 or greater   15%     15%     15%
+              Jan 01  Jan 02  Jan 03
+S1 or greater   40%     20%     10%
 
-Rationale: No S1 (Minor) or greater solar radiation storms are expected.
-No significant active region activity favorable for radiation storm
-production is forecast.
+Rationale: There is a chance for S1 (Minor) solar radiation storms on
+Jan 01 due to a impulsive flare on 31 Dec, and a slight chance for S1
+(Minor) solar radiation storms on 02-03 Jan.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-No radio blackouts were observed over the past 24 hours.
+Radio blackouts reaching the R2 levels were observed over the past 24
+hours. The largest was at Dec 31 2025 1351 UTC.
 
-Radio Blackout Forecast for Dec 31-Jan 02 2026
+Radio Blackout Forecast for Jan 01-Jan 03 2026
 
-              Dec 31        Jan 01        Jan 02
-R1-R2           60%           60%           60%
-R3 or greater   25%           25%           25%
+              Jan 01        Jan 02        Jan 03
+R1-R2           55%           55%           55%
+R3 or greater   20%           20%           20%
 
-Rationale: R1-R2 (Minor-Moderate) radio blackouts are likely, with a
-chance for R3 (Strong) or greater events, on 31 Dec-02 Jan.
+Rationale: R1-R2 (Minor to Moderate) or radio blackouts are likely on
+01-03 Jan.
 
 ```
