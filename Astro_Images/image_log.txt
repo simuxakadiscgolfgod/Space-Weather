@@ -1,4 +1,7 @@
-<br />**Date image released:**  2005-09-25
-<br />**Title of the image:**  WMAP Resolves the Universe
-<br />**Description for the image:**  Analyses of a new high-resolution map of microwave light emitted only 380,000 years after the Big Bang appear to define our universe more precisely than ever before.  The eagerly awaited results announced last year from the orbiting Wilkinson Microwave Anisotropy Probe resolve several long-standing disagreements in cosmology rooted in less precise data.  Specifically, present analyses of above WMAP all-sky image indicate that the universe is 13.7 billion years old (accurate to 1 percent), composed of 73 percent dark energy, 23 percent cold dark matter, and only 4 percent atoms, is currently expanding at the rate of 71 km/sec/Mpc (accurate to 5 percent), underwent episodes of rapid expansion called inflation, and will expand forever.  Astronomers will likely research the foundations and implications of these results for years to come.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/0509/sky_wmap_big.jpg
+<br />**Date image released:**  2008-09-01
+<br />**This image is owned by:**  
+Mike Sidonio
+
+<br />**Title of the image:**  CG4: A Ruptured Cometary Globule
+<br />**Description for the image:**  Can a gas cloud grab a galaxy?  It's not even close.  The "claw" of this odd looking "creature" in the above photo is a gas cloud known as a cometary globule.  This globule, however, has ruptured.  Cometary globules are typically characterized by dusty heads and elongated tails.  These features cause cometary globules to have visual similarities to comets, but in reality they are very much different.  Globules are frequently the birthplaces of stars, and many show very young stars in their heads. The reason for the rupture in the head of this object is not completely known.  The galaxy to the left of the globule is huge, very far in the distance, and only placed near CG4 by chance superposition.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/0809/cg4_sidonio_big.jpg
