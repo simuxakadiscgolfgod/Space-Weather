@@ -2,13 +2,10 @@
 ## Astronomical Picture of the Day
 **Note**: Due to the lapse in federal US government funding, NASA is not updating the APOD. Therefore, every day a random picture is being displayed from the archive (from 1995-06-16 to 2025-10-01).
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2008-09-01
-<br />**This image is owned by:**  
-Mike Sidonio
-
-<br />**Title of the image:**  CG4: A Ruptured Cometary Globule
-<br />**Description for the image:**  Can a gas cloud grab a galaxy?  It's not even close.  The "claw" of this odd looking "creature" in the above photo is a gas cloud known as a cometary globule.  This globule, however, has ruptured.  Cometary globules are typically characterized by dusty heads and elongated tails.  These features cause cometary globules to have visual similarities to comets, but in reality they are very much different.  Globules are frequently the birthplaces of stars, and many show very young stars in their heads. The reason for the rupture in the head of this object is not completely known.  The galaxy to the left of the globule is huge, very far in the distance, and only placed near CG4 by chance superposition.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/0809/cg4_sidonio_big.jpg
+<br />**Date image released:**  2003-12-05
+<br />**Title of the image:**  Startling Star V838 Mon
+<br />**Description for the image:**  Variable star V838 Monocerotis startled astronomers in January of 2002, undergoing a dramatic outburst like no other variable star known. Followed closely by ground-based instruments and the Hubble Space Telescope over the following months, it was soon realized that the quickly evolving dusty nebula surrounding V838 Mon was in fact made visible by "light echoes" from the outburst. Remarkably, as light from the outburst plays across layers of pre-existing circumstellar material, it gives the surrounding nebulosity the illusion of expanding "faster than light". Though the nebula's visible appearance changes dramatically over a period of months, it is actually at least 6 light years in diameter. A good astrophysical explanation for V838 Mon's outbursting behavior is still unknown but astronomers continue to follow the mystery star. This gorgeous image, based on data recorded on October 21 with the US Naval Observatory's 1.55 meter telescope, adopts the color scheme used in previous Hubble images for easy comparison.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/0312/v838lar3_kelly_full.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -52,58 +49,58 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2026 Jan 02 0030 UTC
+:Issued: 2026 Jan 03 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
-Scale levels).
-The greatest expected 3 hr Kp for Jan 02-Jan 04 2026 is 6.00 (NOAA Scale
+The greatest observed 3 hr Kp over the past 24 hours was 5 (NOAA Scale
+G1).
+The greatest expected 3 hr Kp for Jan 03-Jan 05 2026 is 6.00 (NOAA Scale
 G2).
 
-NOAA Kp index breakdown Jan 02-Jan 04 2026
+NOAA Kp index breakdown Jan 03-Jan 05 2026
 
-             Jan 02       Jan 03       Jan 04
-00-03UT       3.67         5.00 (G1)    3.67     
-03-06UT       3.00         6.00 (G2)    3.33     
-06-09UT       2.67         6.00 (G2)    2.00     
-09-12UT       2.67         4.67 (G1)    3.00     
-12-15UT       2.33         4.00         3.00     
-15-18UT       2.00         3.00         2.00     
-18-21UT       2.33         3.00         3.33     
-21-00UT       4.67 (G1)    4.33         3.33     
+             Jan 03       Jan 04       Jan 05
+00-03UT       5.00 (G1)    3.67         3.00     
+03-06UT       6.00 (G2)    3.33         2.00     
+06-09UT       4.33         2.00         2.00     
+09-12UT       4.33         3.00         2.67     
+12-15UT       4.00         3.00         2.67     
+15-18UT       3.00         2.00         2.67     
+18-21UT       3.00         4.67 (G1)    2.67     
+21-00UT       4.33         3.67         3.00     
 
-Rationale: G1-G2 (Minor-Moderate) geomagnetic storms are likely over
-02-03 Jan due to anticipated influence from multiple CMEs that left the
-Sun over 28-30 Dec.
+Rationale: G1-G2 (Minor-Moderate) geomagnetic storms are expected on 03
+Jan and G1 storms on 04 Jan due to influence from both a negative
+polarity CH HSS and multiple anticipated CMEs.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Jan 02-Jan 04 2026
+Solar Radiation Storm Forecast for Jan 03-Jan 05 2026
 
-              Jan 02  Jan 03  Jan 04
-S1 or greater   20%     10%     10%
+              Jan 03  Jan 04  Jan 05
+S1 or greater   10%     10%     10%
 
 Rationale: There is a slight chance for S1 (Minor) or greater solar
-radiation storms over 02-04 Jan due to multiple complex regions on the
-solar disk.
+radiation storms over 03-05 Jan due to the eruptive potential of
+multiple complex regions on the visible disk.
 
 C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Jan 02-Jan 04 2026
+Radio Blackout Forecast for Jan 03-Jan 05 2026
 
-              Jan 02        Jan 03        Jan 04
-R1-R2           55%           55%           55%
-R3 or greater   20%           20%           20%
+              Jan 03        Jan 04        Jan 05
+R1-R2           50%           50%           50%
+R3 or greater   10%           10%           10%
 
-Rationale: R1-R2 (Minor-Moderate) radio blackouts are likely over 02-04,
-with a slight chance for R3 (Strong), primarily due to flare potential
-from Regions 4325 and 4324.
+Rationale: There is a chance for R1-R2 (Minor-Moderate) radio blackouts,
+with a slight chance for R3 (Strong), on 03-05 Jan due to the flare
+potential of multiple complex regions on the visible disk.
 
 ```
