@@ -11,12 +11,9 @@ except KeyError:
 
 #Initialize nasa class by creating an object:
 nasa = nasapy.Nasa(key=SOME_SECRET)
-
-# Get current date
-apod_date = datetime.today().strftime('%Y-%m-%d')
                                              
 #Get information
-apod = nasa.picture_of_the_day(date=apod_date, hd=True)
+apod = nasa.picture_of_the_day(hd=True)
 
 #Get another one if its not an image
 while apod["media_type"] != "image":
