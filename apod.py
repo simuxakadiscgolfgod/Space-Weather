@@ -1,8 +1,7 @@
 import nasapy
 import os
-from datetime import datetime, timedelta
+from datetime import datetime
 import urllib.request
-import random
 
 #For API
 try:
@@ -13,22 +12,8 @@ except KeyError:
 #Initialize nasa class by creating an object:
 nasa = nasapy.Nasa(key=SOME_SECRET)
 
-import random
-from datetime import datetime, timedelta
-
-def random_date(start_date, end_date):
-    time_between = end_date - start_date
-    days_between = time_between.days
-    random_days = random.randint(0, days_between)
-    random_date = start_date + timedelta(days=random_days)
-    return random_date
-
-# Define the date range
-start = datetime(1995, 6, 16)
-end = datetime(2025, 10, 1)
-
-# Generate a random date
-apod_date = random_date(start, end).strftime('%Y-%m-%d')
+# Get current date
+apod_date = datetime.today().strftime('%Y-%m-%d')
                                              
 #Get information
 apod = nasa.picture_of_the_day(date=apod_date, hd=True)
