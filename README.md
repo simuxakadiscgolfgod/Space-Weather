@@ -1,6 +1,5 @@
 # Space Weather App
 ## Astronomical Picture of the Day
-**Note**: Due to the lapse in federal US government funding, NASA is not updating the APOD. Therefore, every day a random picture is being displayed from the archive (from 1995-06-16 to 2025-10-01).
 ![Image](Astro_Images/image.jpg)
 <br />**Date image released:**  2003-12-05
 <br />**Title of the image:**  Startling Star V838 Mon
