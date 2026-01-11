@@ -1,5 +1,6 @@
 import nasapy
 import os
+import pytz
 from datetime import datetime
 import urllib.request
 
@@ -19,6 +20,9 @@ def random_date(start_date, end_date):
     random_days = random.randint(0, days_between)
     random_date = start_date + timedelta(days=random_days)
     return random_date
+
+#Specify US east coast timezone
+eastern_timezone = pytz.timezone('US/Eastern')
 
 # Get the current time in the specified timezone
 d = datetime.now(eastern_timezone).strftime('%Y-%m-%d')
