@@ -3,6 +3,7 @@ name: daily update
 on:
   schedule:
     - cron: '0 6 * * *' # Once everyday at 06:00 UTC
+  workflow_dispatch:
 
 jobs:
   build:
