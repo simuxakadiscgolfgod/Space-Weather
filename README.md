@@ -1,10 +1,13 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2003-12-05
-<br />**Title of the image:**  Startling Star V838 Mon
-<br />**Description for the image:**  Variable star V838 Monocerotis startled astronomers in January of 2002, undergoing a dramatic outburst like no other variable star known. Followed closely by ground-based instruments and the Hubble Space Telescope over the following months, it was soon realized that the quickly evolving dusty nebula surrounding V838 Mon was in fact made visible by "light echoes" from the outburst. Remarkably, as light from the outburst plays across layers of pre-existing circumstellar material, it gives the surrounding nebulosity the illusion of expanding "faster than light". Though the nebula's visible appearance changes dramatically over a period of months, it is actually at least 6 light years in diameter. A good astrophysical explanation for V838 Mon's outbursting behavior is still unknown but astronomers continue to follow the mystery star. This gorgeous image, based on data recorded on October 21 with the US Naval Observatory's 1.55 meter telescope, adopts the color scheme used in previous Hubble images for easy comparison.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/0312/v838lar3_kelly_full.jpg
+<br />**Date image released:**  2026-01-14
+<br />**This image is owned by:**  
+Michael Sleeman
+
+<br />**Title of the image:**  M51: The Whirlpool Galaxy
+<br />**Description for the image:**  The Whirlpool Galaxy is a classic spiral galaxy. At only 30 million light years distant and fully 60 thousand light years across, M51, also known as NGC 5194, is one of the brightest and most picturesque galaxies on the sky.  The featured deep image is a digital combination of images taken in different colors over 58 hours with a telescope from Lijiang, China. Anyone with a good pair of binoculars, however, can see this Whirlpool toward the constellation of the Hunting Dogs (Canes Venatici). M51 is a spiral galaxy of type Sc and is the dominant member of a whole group of galaxies.  Astronomers speculate that M51's spiral structure is primarily due to its gravitational interaction with the smaller galaxy just above it.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2601/M51_Sleeman_2017.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -48,58 +51,54 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2026 Jan 03 0030 UTC
+:Issued: 2026 Jan 14 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 5 (NOAA Scale
-G1).
-The greatest expected 3 hr Kp for Jan 03-Jan 05 2026 is 6.00 (NOAA Scale
-G2).
+The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
+Scale levels).
+The greatest expected 3 hr Kp for Jan 14-Jan 16 2026 is 3.67 (below NOAA
+Scale levels).
 
-NOAA Kp index breakdown Jan 03-Jan 05 2026
+NOAA Kp index breakdown Jan 14-Jan 16 2026
 
-             Jan 03       Jan 04       Jan 05
-00-03UT       5.00 (G1)    3.67         3.00     
-03-06UT       6.00 (G2)    3.33         2.00     
-06-09UT       4.33         2.00         2.00     
-09-12UT       4.33         3.00         2.67     
-12-15UT       4.00         3.00         2.67     
-15-18UT       3.00         2.00         2.67     
-18-21UT       3.00         4.67 (G1)    2.67     
-21-00UT       4.33         3.67         3.00     
+             Jan 14       Jan 15       Jan 16
+00-03UT       3.67         2.33         1.67     
+03-06UT       3.00         3.00         1.33     
+06-09UT       3.00         2.00         1.33     
+09-12UT       2.67         2.00         1.33     
+12-15UT       2.00         1.67         1.33     
+15-18UT       2.33         2.00         1.33     
+18-21UT       2.00         2.00         1.67     
+21-00UT       2.00         2.33         1.67     
 
-Rationale: G1-G2 (Minor-Moderate) geomagnetic storms are expected on 03
-Jan and G1 storms on 04 Jan due to influence from both a negative
-polarity CH HSS and multiple anticipated CMEs.
+Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Jan 03-Jan 05 2026
+Solar Radiation Storm Forecast for Jan 14-Jan 16 2026
 
-              Jan 03  Jan 04  Jan 05
-S1 or greater   10%     10%     10%
+              Jan 14  Jan 15  Jan 16
+S1 or greater    1%      1%      1%
 
-Rationale: There is a slight chance for S1 (Minor) or greater solar
-radiation storms over 03-05 Jan due to the eruptive potential of
-multiple complex regions on the visible disk.
+Rationale: No S1 (Minor) or greater solar radiation storms are expected.
+
 
 C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Jan 03-Jan 05 2026
+Radio Blackout Forecast for Jan 14-Jan 16 2026
 
-              Jan 03        Jan 04        Jan 05
-R1-R2           50%           50%           50%
-R3 or greater   10%           10%           10%
+              Jan 14        Jan 15        Jan 16
+R1-R2           25%           25%           25%
+R3 or greater    1%            1%            1%
 
-Rationale: There is a chance for R1-R2 (Minor-Moderate) radio blackouts,
-with a slight chance for R3 (Strong), on 03-05 Jan due to the flare
-potential of multiple complex regions on the visible disk.
+Rationale: There is a chance (25%) R1-R2 (Minor-Moderate) radio
+blackouts on 14-16 Jan.
 
 ```
