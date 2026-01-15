@@ -1,13 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2026-01-14
-<br />**This image is owned by:**  
-Michael Sleeman
-
-<br />**Title of the image:**  M51: The Whirlpool Galaxy
-<br />**Description for the image:**  The Whirlpool Galaxy is a classic spiral galaxy. At only 30 million light years distant and fully 60 thousand light years across, M51, also known as NGC 5194, is one of the brightest and most picturesque galaxies on the sky.  The featured deep image is a digital combination of images taken in different colors over 58 hours with a telescope from Lijiang, China. Anyone with a good pair of binoculars, however, can see this Whirlpool toward the constellation of the Hunting Dogs (Canes Venatici). M51 is a spiral galaxy of type Sc and is the dominant member of a whole group of galaxies.  Astronomers speculate that M51's spiral structure is primarily due to its gravitational interaction with the smaller galaxy just above it.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2601/M51_Sleeman_2017.jpg
+<br />**Date image released:**  2026-01-15
+<br />**This image is owned by:**  Luigi Morrone
+<br />**Title of the image:**  Plato and the Lunar Alps
+<br />**Description for the image:**  The dark-floored, 95 kilometer wide crater Plato and sunlit peaks of the lunar Alps (Montes Alpes) are highlighted in this this sharp telescopic snapshot of the Moon's surface. While the Alps of planet Earth were uplifted over millions of years as continental plates slowly collided, the lunar Alps were likely formed by a sudden collision that created the giant impact basin known as the Mare Imbrium or Sea of Rains. The mare's generally smooth, lava-flooded floor is seen below the bordering mountain range. The prominent straight feature cutting through the mountains is the lunar Alpine Valley (Vallis Alpes). Joining the Mare Imbrium and northern Mare Frigoris (Sea of Cold) the valley extends toward the upper right, about 160 kilometers long and up to 10 kilometers wide. Of course, the large, bright lunar alpine mountain below and right of Plato crater is named Mont Blanc. Lacking an atmosphere, not to mention snow, the lunar Alps are probably not an ideal location for a winter vacation. Still, a 150 pound skier would weigh a mere 25 pounds on the Moon.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2601/2025-12-29-1656_Plato_Lmorr.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -51,38 +49,40 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2026 Jan 14 0030 UTC
+:Issued: 2026 Jan 15 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Jan 14-Jan 16 2026 is 3.67 (below NOAA
-Scale levels).
+The greatest expected 3 hr Kp for Jan 15-Jan 17 2026 is 5.33 (NOAA Scale
+G1).
 
-NOAA Kp index breakdown Jan 14-Jan 16 2026
+NOAA Kp index breakdown Jan 15-Jan 17 2026
 
-             Jan 14       Jan 15       Jan 16
-00-03UT       3.67         2.33         1.67     
-03-06UT       3.00         3.00         1.33     
-06-09UT       3.00         2.00         1.33     
-09-12UT       2.67         2.00         1.33     
-12-15UT       2.00         1.67         1.33     
-15-18UT       2.33         2.00         1.33     
-18-21UT       2.00         2.00         1.67     
-21-00UT       2.00         2.33         1.67     
+             Jan 15       Jan 16       Jan 17
+00-03UT       2.33         1.67         2.33     
+03-06UT       3.00         1.33         4.00     
+06-09UT       2.00         1.33         5.33 (G1)
+09-12UT       2.00         1.33         4.67 (G1)
+12-15UT       1.67         1.33         3.33     
+15-18UT       2.00         1.33         2.33     
+18-21UT       2.00         1.67         3.00     
+21-00UT       2.33         1.67         4.00     
 
-Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  
+Rationale: G1 (Minor) or greater geomagnetic storms are possible on 17
+Jan due to the anticipated arrival of coronal hole high speed stream and
+a co-rotating interaction region (CIR) ahead of it.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Jan 14-Jan 16 2026
+Solar Radiation Storm Forecast for Jan 15-Jan 17 2026
 
-              Jan 14  Jan 15  Jan 16
+              Jan 15  Jan 16  Jan 17
 S1 or greater    1%      1%      1%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -90,15 +90,16 @@ Rationale: No S1 (Minor) or greater solar radiation storms are expected.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-No radio blackouts were observed over the past 24 hours.
+Radio blackouts reaching the R1 levels were observed over the past 24
+hours. The largest was at Jan 14 2026 2033 UTC.
 
-Radio Blackout Forecast for Jan 14-Jan 16 2026
+Radio Blackout Forecast for Jan 15-Jan 17 2026
 
-              Jan 14        Jan 15        Jan 16
-R1-R2           25%           25%           25%
+              Jan 15        Jan 16        Jan 17
+R1-R2           25%           30%           30%
 R3 or greater    1%            1%            1%
 
-Rationale: There is a chance (25%) R1-R2 (Minor-Moderate) radio
-blackouts on 14-16 Jan.
+Rationale: There is a chance for R1-R2 (Minor-Moderate) radio blackouts
+on 15-17 Jan.
 
 ```
