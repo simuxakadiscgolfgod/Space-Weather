@@ -1,11 +1,10 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2026-01-16
-<br />**This image is owned by:**  Justus Falk
-<br />**Title of the image:**  NGC 7023: The Iris Nebula
-<br />**Description for the image:**  These cosmic clouds have blossomed 1,300 light-years away in the fertile starfields of the constellation Cepheus. Called the Iris Nebula, NGC 7023 is not the only nebula to evoke the imagery of flowers. Still, this deep telescopic image shows off the Iris Nebula's range of colors and symmetries embedded in surrounding fields of interstellar dust. Within the Iris itself, dusty nebular material surrounds a hot, young star. The dominant color of the brighter reflection nebula is blue, characteristic of dust grains reflecting starlight. Central filaments of the reflection nebula glow with a faint reddish photoluminescence as some dust grains effectively convert the star's invisible ultraviolet radiation to visible red light. Infrared observations indicate that this nebula contains complex carbon molecules known as PAHs. The dusty blue petals of the Iris Nebula span about six light-years.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2601/NGC7023_Falk2048.jpg
+<br />**Date image released:**  2026-01-17
+<br />**Title of the image:**  Apollo 14: A View from Antares
+<br />**Description for the image:**  Apollo 14's Lunar Module Antares landed on the Moon on February 5, 1971. Toward the end of the stay astronaut Ed Mitchell snapped a series of photos of the lunar surface while looking out a window, assembled into this detailed mosaic by Apollo Lunar Surface Journal editor Eric Jones. The view looks across the Fra Mauro highlands to the northwest of the landing site after the Apollo 14 astronauts had completed their second and final walk on the Moon. Prominent in the foreground is their Modular Equipment Transporter, a two-wheeled, rickshaw-like device used to carry tools and samples. Near the horizon at top center is a 1.5 meter wide boulder dubbed Turtle rock. In the shallow crater below Turtle rock is the long white handle of a sampling instrument, thrown there javelin-style by Mitchell. Mitchell's fellow moonwalker and first American in space, Alan Shepard, also used a makeshift six iron to hit two golf balls. One of Shepard's golf balls is just visible as a white spot below Mitchell's javelin.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2601/a14pan9335-43emj.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,41 +48,40 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2026 Jan 16 0034 UTC
+:Issued: 2026 Jan 17 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
-Scale levels).
-The greatest expected 3 hr Kp for Jan 16-Jan 18 2026 is 5.33 (NOAA Scale
+The greatest observed 3 hr Kp over the past 24 hours was 5 (NOAA Scale
+G1).
+The greatest expected 3 hr Kp for Jan 17-Jan 19 2026 is 4.67 (NOAA Scale
 G1).
 
-NOAA Kp index breakdown Jan 16-Jan 18 2026
+NOAA Kp index breakdown Jan 17-Jan 19 2026
 
-             Jan 16       Jan 17       Jan 18
-00-03UT       3.00         2.33         3.67     
-03-06UT       3.67         4.00         3.33     
-06-09UT       3.00         5.33 (G1)    3.33     
-09-12UT       2.33         4.67 (G1)    3.33     
-12-15UT       2.00         3.33         3.67     
-15-18UT       2.00         2.33         3.33     
-18-21UT       2.33         3.00         4.67 (G1)
-21-00UT       3.00         4.00         3.33     
+             Jan 17       Jan 18       Jan 19
+00-03UT       4.67 (G1)    3.67         3.67     
+03-06UT       4.33         3.00         3.00     
+06-09UT       4.00         3.00         3.00     
+09-12UT       3.67         3.00         3.00     
+12-15UT       3.33         3.67         3.00     
+15-18UT       3.33         3.33         3.33     
+18-21UT       3.67         4.67 (G1)    3.33     
+21-00UT       3.67         3.00         3.67     
 
-Rationale: G1 (Minor) or greater geomagnetic storms are possible on 17
-and 18 Jan due to the anticipated arrival of coronal hole high speed
-stream and a co-rotating interaction region (CIR) ahead of it.
+Rationale: G1 (Minor) geomagnetic storms are likely over 17-18 Jan due
+to anticipated influence from a coronal hole.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Jan 16-Jan 18 2026
+Solar Radiation Storm Forecast for Jan 17-Jan 19 2026
 
-              Jan 16  Jan 17  Jan 18
-S1 or greater    1%      1%      1%
+              Jan 17  Jan 18  Jan 19
+S1 or greater    5%      5%      5%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
 No significant active region activity favorable for radiation storm
@@ -93,13 +91,13 @@ C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Jan 16-Jan 18 2026
+Radio Blackout Forecast for Jan 17-Jan 19 2026
 
-              Jan 16        Jan 17        Jan 18
+              Jan 17        Jan 18        Jan 19
 R1-R2           55%           55%           55%
 R3 or greater   10%           10%           10%
 
-Rationale: There is a likely chance for R1-R2 (Minor-Moderate) radio
-blackouts on 16-18 Jan.
+Rationale: R1-R2 (Minor-Moderate) radio blackouts are likely, with a
+slight chance for R3 (Strong), over 17-19 Jan.
 
 ```
