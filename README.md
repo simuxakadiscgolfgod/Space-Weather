@@ -1,10 +1,10 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2026-01-17
-<br />**Title of the image:**  Apollo 14: A View from Antares
-<br />**Description for the image:**  Apollo 14's Lunar Module Antares landed on the Moon on February 5, 1971. Toward the end of the stay astronaut Ed Mitchell snapped a series of photos of the lunar surface while looking out a window, assembled into this detailed mosaic by Apollo Lunar Surface Journal editor Eric Jones. The view looks across the Fra Mauro highlands to the northwest of the landing site after the Apollo 14 astronauts had completed their second and final walk on the Moon. Prominent in the foreground is their Modular Equipment Transporter, a two-wheeled, rickshaw-like device used to carry tools and samples. Near the horizon at top center is a 1.5 meter wide boulder dubbed Turtle rock. In the shallow crater below Turtle rock is the long white handle of a sampling instrument, thrown there javelin-style by Mitchell. Mitchell's fellow moonwalker and first American in space, Alan Shepard, also used a makeshift six iron to hit two golf balls. One of Shepard's golf balls is just visible as a white spot below Mitchell's javelin.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2601/a14pan9335-43emj.jpg
+<br />**Date image released:**  2026-01-18
+<br />**Title of the image:**  Jupiter from the Webb Space Telescope
+<br />**Description for the image:**  This infrared view of Jupiter by Webb is illuminating. High-resolution infrared images of Jupiter from the  James Webb Space Telescope (Webb) reveal, for example, differences between high-floating bright clouds -- including the Great Red Spot -- and low-lying dark clouds. Also clearly visible in the featured Webb image are Jupiter's dust ring, bright auroras at the poles, and Jupiter's moons Amalthea and Adrastea. The footprint of large volcanic moon Io's magnetic funneling of charged particles onto Jupiter is also visible in the southern aurora. Some objects are so bright that light noticeably diffracts around Webb's optics creating streaks.  Webb, which orbits the Sun near the Earth, has a mirror over six meters across making it the largest astronomical telescope ever launched -- with over six times more light-collecting area than Hubble.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2601/Jupiter2_WebbSchmidt_3283_annotated.png
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -48,39 +48,39 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2026 Jan 17 0030 UTC
+:Issued: 2026 Jan 18 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 5 (NOAA Scale
 G1).
-The greatest expected 3 hr Kp for Jan 17-Jan 19 2026 is 4.67 (NOAA Scale
+The greatest expected 3 hr Kp for Jan 18-Jan 20 2026 is 4.67 (NOAA Scale
 G1).
 
-NOAA Kp index breakdown Jan 17-Jan 19 2026
+NOAA Kp index breakdown Jan 18-Jan 20 2026
 
-             Jan 17       Jan 18       Jan 19
-00-03UT       4.67 (G1)    3.67         3.67     
-03-06UT       4.33         3.00         3.00     
-06-09UT       4.00         3.00         3.00     
-09-12UT       3.67         3.00         3.00     
-12-15UT       3.33         3.67         3.00     
-15-18UT       3.33         3.33         3.33     
-18-21UT       3.67         4.67 (G1)    3.33     
-21-00UT       3.67         3.00         3.67     
+             Jan 18       Jan 19       Jan 20
+00-03UT       4.33         4.00         3.67     
+03-06UT       4.67 (G1)    3.67         3.67     
+06-09UT       4.00         3.33         3.33     
+09-12UT       3.00         3.00         3.00     
+12-15UT       3.00         3.00         2.00     
+15-18UT       3.33         3.33         2.67     
+18-21UT       3.67         3.33         3.00     
+21-00UT       3.67         4.00         3.33     
 
-Rationale: G1 (Minor) geomagnetic storms are likely over 17-18 Jan due
-to anticipated influence from a coronal hole.
+Rationale: G1 (Minor) geomagnetic storms are expected on 18 Jan due to
+influence from a positive polarity coronal hole.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Jan 17-Jan 19 2026
+Solar Radiation Storm Forecast for Jan 18-Jan 20 2026
 
-              Jan 17  Jan 18  Jan 19
+              Jan 18  Jan 19  Jan 20
 S1 or greater    5%      5%      5%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -89,15 +89,17 @@ production is forecast.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-No radio blackouts were observed over the past 24 hours.
+Radio blackouts reaching the R1 levels were observed over the past 24
+hours. The largest was at Jan 17 2026 1029 UTC.
 
-Radio Blackout Forecast for Jan 17-Jan 19 2026
+Radio Blackout Forecast for Jan 18-Jan 20 2026
 
-              Jan 17        Jan 18        Jan 19
+              Jan 18        Jan 19        Jan 20
 R1-R2           55%           55%           55%
-R3 or greater   10%           10%           10%
+R3 or greater    5%            5%            5%
 
 Rationale: R1-R2 (Minor-Moderate) radio blackouts are likely, with a
-slight chance for R3 (Strong), over 17-19 Jan.
+slight chance of R3 (Strong), over 18-20 Jan due to the flare potential
+from multiple complex regions on the solar disk.
 
 ```
