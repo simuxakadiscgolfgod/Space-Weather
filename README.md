@@ -1,10 +1,10 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2026-01-20
-<br />**Title of the image:**  Io in True Color
-<br />**Description for the image:**  The strangest moon in the Solar System is bright yellow.  The featured picture, an attempt to show how Io would appear in the "true colors" perceptible to the average human eye, was taken in 1999 July by the Galileo spacecraft that orbited Jupiter from 1995 to 2003.  Io's colors derive from sulfur and molten silicate rock.  The unusual surface of Io is kept very young by its system of active volcanoes.  The intense tidal gravity of Jupiter stretches Io and damps wobbles caused by Jupiter's other Galilean moons.  The resulting friction greatly heats Io's interior, causing  molten rock to explode through the surface.  Io's volcanoes are so active that they are effectively turning the whole moon inside out.  Some of Io's volcanic lava is so hot it glows in the dark.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2601/iotruecolor_galileo_2796.jpg
+<br />**Date image released:**  2026-01-21
+<br />**Title of the image:**  Barred Spiral Galaxy NGC 1365 from Webb
+<br />**Description for the image:**  A mere 56 million light-years distant toward the southern constellation Fornax, NGC 1365 is an enormous barred spiral galaxy about 200,000 light-years in diameter. That's twice the size of our own barred spiral Milky Way. This sharp image from the James Webb Space Telescope's Mid-Infrared Instrument (MIRI) reveals stunning details of this magnificent spiral in infrared light. Webb's field of view stretches about 60,000 light-years across NGC 1365, exploring the galaxy's core and bright newborn star clusters. The intricate network of dusty filaments and bubbles is created by young stars along spiral arms winding from the galaxy's central bar. Astronomers suspect the gravitational field of NGC 1365's bar plays a crucial role in the galaxy's evolution, funneling gas and dust into a star-forming maelstrom and ultimately feeding material into the active galaxy's central, supermassive black hole.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2601/JWSTMIRI_ngc1365.png
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -48,57 +48,57 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2026 Jan 20 0030 UTC
+:Issued: 2026 Jan 21 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 8 (NOAA Scale
 G4).
-The greatest expected 3 hr Kp for Jan 20-Jan 22 2026 is 7.67 (NOAA Scale
-G4).
+The greatest expected 3 hr Kp for Jan 21-Jan 23 2026 is 6.67 (NOAA Scale
+G3).
 
-NOAA Kp index breakdown Jan 20-Jan 22 2026
+NOAA Kp index breakdown Jan 21-Jan 23 2026
 
-             Jan 20       Jan 21       Jan 22
-00-03UT       7.67 (G4)    4.33         3.00     
-03-06UT       6.67 (G3)    4.67 (G1)    3.33     
-06-09UT       6.33 (G2)    4.00         2.33     
-09-12UT       6.33 (G2)    3.00         2.00     
-12-15UT       6.67 (G3)    2.33         2.00     
-15-18UT       5.67 (G2)    2.67         2.33     
-18-21UT       6.00 (G2)    2.00         2.00     
-21-00UT       4.67 (G1)    3.00         2.00     
+             Jan 21       Jan 22       Jan 23
+00-03UT       6.67 (G3)    4.00         2.67     
+03-06UT       6.67 (G3)    3.33         2.67     
+06-09UT       5.67 (G2)    3.00         2.33     
+09-12UT       5.67 (G2)    2.67         2.33     
+12-15UT       4.67 (G1)    3.00         2.33     
+15-18UT       4.67 (G1)    3.00         2.33     
+18-21UT       3.67         3.33         2.33     
+21-00UT       3.67         3.67         2.00     
 
-Rationale: G4 (Severe) or greater geomagnetic storms are expected on 20
-Jan due to effects from a CME that left the Sun on 19 Jan.
+Rationale: G1-G3 (Minor-Strong) geomagnetic storms are anticipated on
+20-21 Jan due to continuing CH HSS influence and the passage of a halo
+CME that arrived late on 19 Jan.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 above S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Jan 20-Jan 22 2026
+Solar Radiation Storm Forecast for Jan 21-Jan 23 2026
 
-              Jan 20  Jan 21  Jan 22
-S1 or greater   99%     95%     65%
+              Jan 21  Jan 22  Jan 23
+S1 or greater   99%     45%     15%
 
-Rationale: An S2 (Moderate) solar radiation storm is in progress at the
-time of this summary. S1 (Minor) radiation levels are expected on 21-22
-Jan.
+Rationale: S1 (Minor) or greater solar radiation storms are expected to
+continue through 21 Jan, with the possibility of another crossing or
+slow decay keeping 22-23 Jan probabilities elevated.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-Radio blackouts reaching the R1 levels were observed over the past 24
-hours. The largest was at Jan 19 2026 1119 UTC.
+No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Jan 20-Jan 22 2026
+Radio Blackout Forecast for Jan 21-Jan 23 2026
 
-              Jan 20        Jan 21        Jan 22
-R1-R2           65%           65%           65%
-R3 or greater   25%           20%           20%
+              Jan 21        Jan 22        Jan 23
+R1-R2           60%           60%           60%
+R3 or greater   15%           15%           15%
 
-Rationale: R1-R2 (Minor-Moderate) or greater radio blackouts are likely,
-with a slight chance for R3 (Strong) or greater through 22 Jan.
+Rationale: R1-R2 (Minor-Moderate) radio blackouts are likely, with a
+slight chance for R3 (Strong) events, on 21-23 Jan.
 
 ```
