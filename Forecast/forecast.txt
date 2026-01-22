@@ -1,56 +1,55 @@
 ```
 :Product: 3-Day Forecast
-:Issued: 2026 Jan 21 0030 UTC
+:Issued: 2026 Jan 22 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 8 (NOAA Scale
-G4).
-The greatest expected 3 hr Kp for Jan 21-Jan 23 2026 is 6.67 (NOAA Scale
+The greatest observed 3 hr Kp over the past 24 hours was 7 (NOAA Scale
 G3).
+The greatest expected 3 hr Kp for Jan 22-Jan 24 2026 is 4.67 (NOAA Scale
+G1).
 
-NOAA Kp index breakdown Jan 21-Jan 23 2026
+NOAA Kp index breakdown Jan 22-Jan 24 2026
 
-             Jan 21       Jan 22       Jan 23
-00-03UT       6.67 (G3)    4.00         2.67     
-03-06UT       6.67 (G3)    3.33         2.67     
-06-09UT       5.67 (G2)    3.00         2.33     
-09-12UT       5.67 (G2)    2.67         2.33     
-12-15UT       4.67 (G1)    3.00         2.33     
-15-18UT       4.67 (G1)    3.00         2.33     
-18-21UT       3.67         3.33         2.33     
-21-00UT       3.67         3.67         2.00     
+             Jan 22       Jan 23       Jan 24
+00-03UT       3.67         3.33         3.00     
+03-06UT       4.67 (G1)    3.67         2.67     
+06-09UT       4.00         2.67         2.00     
+09-12UT       3.67         2.33         1.67     
+12-15UT       4.67 (G1)    2.33         2.00     
+15-18UT       3.33         3.00         2.33     
+18-21UT       2.67         3.00         2.33     
+21-00UT       2.67         3.33         2.00     
 
-Rationale: G1-G3 (Minor-Strong) geomagnetic storms are anticipated on
-20-21 Jan due to continuing CH HSS influence and the passage of a halo
-CME that arrived late on 19 Jan.
+Rationale: G1 (Minor) geomagnetic storms are expected on 22 Jan due to
+CH HSS influences.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 above S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Jan 21-Jan 23 2026
+Solar Radiation Storm Forecast for Jan 22-Jan 24 2026
 
-              Jan 21  Jan 22  Jan 23
-S1 or greater   99%     45%     15%
+              Jan 22  Jan 23  Jan 24
+S1 or greater   45%     15%     15%
 
-Rationale: S1 (Minor) or greater solar radiation storms are expected to
-continue through 21 Jan, with the possibility of another crossing or
-slow decay keeping 22-23 Jan probabilities elevated.
+Rationale: There is a decreasing chance for S1 (Minor) or greater solar
+radiation storms through 24 Jan.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-No radio blackouts were observed over the past 24 hours.
+Radio blackouts reaching the R1 levels were observed over the past 24
+hours. The largest was at Jan 21 2026 0712 UTC.
 
-Radio Blackout Forecast for Jan 21-Jan 23 2026
+Radio Blackout Forecast for Jan 22-Jan 24 2026
 
-              Jan 21        Jan 22        Jan 23
+              Jan 22        Jan 23        Jan 24
 R1-R2           60%           60%           60%
 R3 or greater   15%           15%           15%
 
 Rationale: R1-R2 (Minor-Moderate) radio blackouts are likely, with a
-slight chance for R3 (Strong) events, on 21-23 Jan.
+slight chance for R3 (Strong) events, on 22-24 Jan.
 
 ```

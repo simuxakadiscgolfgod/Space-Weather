@@ -1,10 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2026-01-21
-<br />**Title of the image:**  Barred Spiral Galaxy NGC 1365 from Webb
-<br />**Description for the image:**  A mere 56 million light-years distant toward the southern constellation Fornax, NGC 1365 is an enormous barred spiral galaxy about 200,000 light-years in diameter. That's twice the size of our own barred spiral Milky Way. This sharp image from the James Webb Space Telescope's Mid-Infrared Instrument (MIRI) reveals stunning details of this magnificent spiral in infrared light. Webb's field of view stretches about 60,000 light-years across NGC 1365, exploring the galaxy's core and bright newborn star clusters. The intricate network of dusty filaments and bubbles is created by young stars along spiral arms winding from the galaxy's central bar. Astronomers suspect the gravitational field of NGC 1365's bar plays a crucial role in the galaxy's evolution, funneling gas and dust into a star-forming maelstrom and ultimately feeding material into the active galaxy's central, supermassive black hole.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2601/JWSTMIRI_ngc1365.png
+<br />**Date image released:**  2026-01-22
+<br />**This image is owned by:**  Chris Fellows
+<br />**Title of the image:**  LDN 1622: Dark Nebula in Orion
+<br />**Description for the image:**  The silhouette of an intriguing dark nebula inhabits this cosmic scene. Lynds' Dark Nebula (LDN) 1622 appears against a faint background of glowing hydrogen gas only visible in long telescopic exposures of the region. In contrast, a brighter reflection nebula, vdB 62, is more easily seen just above the dusty dark nebula. LDN 1622 lies near the plane of our Milky Way Galaxy, close on the sky to Barnard's Loop, a large cloud surrounding the rich complex of emission nebulae found in the Belt and Sword of Orion. With swept-back outlines, the obscuring dust of LDN 1622 is thought to lie at a similar distance, perhaps 1,500 light-years away. At that distance, this 3 degree wide field of view would span about 100 light-years. Young stars do lie hidden within the dark expanse and have been revealed in Spitzer Space telescope infrared images. Still, the foreboding visual appearance of LDN 1622 inspires its popular name, the Boogeyman Nebula.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2601/ldn1622fellows.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -48,57 +49,56 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2026 Jan 21 0030 UTC
+:Issued: 2026 Jan 22 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 8 (NOAA Scale
-G4).
-The greatest expected 3 hr Kp for Jan 21-Jan 23 2026 is 6.67 (NOAA Scale
+The greatest observed 3 hr Kp over the past 24 hours was 7 (NOAA Scale
 G3).
+The greatest expected 3 hr Kp for Jan 22-Jan 24 2026 is 4.67 (NOAA Scale
+G1).
 
-NOAA Kp index breakdown Jan 21-Jan 23 2026
+NOAA Kp index breakdown Jan 22-Jan 24 2026
 
-             Jan 21       Jan 22       Jan 23
-00-03UT       6.67 (G3)    4.00         2.67     
-03-06UT       6.67 (G3)    3.33         2.67     
-06-09UT       5.67 (G2)    3.00         2.33     
-09-12UT       5.67 (G2)    2.67         2.33     
-12-15UT       4.67 (G1)    3.00         2.33     
-15-18UT       4.67 (G1)    3.00         2.33     
-18-21UT       3.67         3.33         2.33     
-21-00UT       3.67         3.67         2.00     
+             Jan 22       Jan 23       Jan 24
+00-03UT       3.67         3.33         3.00     
+03-06UT       4.67 (G1)    3.67         2.67     
+06-09UT       4.00         2.67         2.00     
+09-12UT       3.67         2.33         1.67     
+12-15UT       4.67 (G1)    2.33         2.00     
+15-18UT       3.33         3.00         2.33     
+18-21UT       2.67         3.00         2.33     
+21-00UT       2.67         3.33         2.00     
 
-Rationale: G1-G3 (Minor-Strong) geomagnetic storms are anticipated on
-20-21 Jan due to continuing CH HSS influence and the passage of a halo
-CME that arrived late on 19 Jan.
+Rationale: G1 (Minor) geomagnetic storms are expected on 22 Jan due to
+CH HSS influences.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 above S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Jan 21-Jan 23 2026
+Solar Radiation Storm Forecast for Jan 22-Jan 24 2026
 
-              Jan 21  Jan 22  Jan 23
-S1 or greater   99%     45%     15%
+              Jan 22  Jan 23  Jan 24
+S1 or greater   45%     15%     15%
 
-Rationale: S1 (Minor) or greater solar radiation storms are expected to
-continue through 21 Jan, with the possibility of another crossing or
-slow decay keeping 22-23 Jan probabilities elevated.
+Rationale: There is a decreasing chance for S1 (Minor) or greater solar
+radiation storms through 24 Jan.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-No radio blackouts were observed over the past 24 hours.
+Radio blackouts reaching the R1 levels were observed over the past 24
+hours. The largest was at Jan 21 2026 0712 UTC.
 
-Radio Blackout Forecast for Jan 21-Jan 23 2026
+Radio Blackout Forecast for Jan 22-Jan 24 2026
 
-              Jan 21        Jan 22        Jan 23
+              Jan 22        Jan 23        Jan 24
 R1-R2           60%           60%           60%
 R3 or greater   15%           15%           15%
 
 Rationale: R1-R2 (Minor-Moderate) radio blackouts are likely, with a
-slight chance for R3 (Strong) events, on 21-23 Jan.
+slight chance for R3 (Strong) events, on 22-24 Jan.
 
 ```
