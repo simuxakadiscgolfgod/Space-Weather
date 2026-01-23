@@ -1,11 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2026-01-22
-<br />**This image is owned by:**  Chris Fellows
-<br />**Title of the image:**  LDN 1622: Dark Nebula in Orion
-<br />**Description for the image:**  The silhouette of an intriguing dark nebula inhabits this cosmic scene. Lynds' Dark Nebula (LDN) 1622 appears against a faint background of glowing hydrogen gas only visible in long telescopic exposures of the region. In contrast, a brighter reflection nebula, vdB 62, is more easily seen just above the dusty dark nebula. LDN 1622 lies near the plane of our Milky Way Galaxy, close on the sky to Barnard's Loop, a large cloud surrounding the rich complex of emission nebulae found in the Belt and Sword of Orion. With swept-back outlines, the obscuring dust of LDN 1622 is thought to lie at a similar distance, perhaps 1,500 light-years away. At that distance, this 3 degree wide field of view would span about 100 light-years. Young stars do lie hidden within the dark expanse and have been revealed in Spitzer Space telescope infrared images. Still, the foreboding visual appearance of LDN 1622 inspires its popular name, the Boogeyman Nebula.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2601/ldn1622fellows.jpg
+<br />**Date image released:**  2026-01-23
+<br />**This image is owned by:**  Martin Pugh
+<br />**Title of the image:**  Planetary Nebula Abell 7
+<br />**Description for the image:**  Very faint planetary nebula Abell 7 is about 1,800 light-years distant. It lies just south of Orion in planet Earth's skies toward the constellation Lepus, The Hare. Posing with scattered Milky Way stars, its generally simple spherical shape about 8 light-years in diameter is revealed in this deep telescopic image. The beautiful and complex shapes seen within the cosmic cloud are visually enhanced by the use of long exposures and narrowband filters that capture emission from hydrogen and oxygen atoms. Otherwise Abell 7 would be much too faint to be appreciated by eye. A planetary nebula represents a very brief final phase in stellar evolution that our own Sun will experience 5 billion years hence, as the nebula's central, once sun-like star shrugs off its outer layers. Abell 7 itself is estimated to be 20,000 years old. But its central star, seen here as a fading white dwarf, is some 10 billion years old.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2601/Abell7pugh.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,56 +49,55 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2026 Jan 22 0030 UTC
+:Issued: 2026 Jan 23 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 7 (NOAA Scale
-G3).
-The greatest expected 3 hr Kp for Jan 22-Jan 24 2026 is 4.67 (NOAA Scale
+The greatest observed 3 hr Kp over the past 24 hours was 5 (NOAA Scale
 G1).
+The greatest expected 3 hr Kp for Jan 23-Jan 25 2026 is 5.67 (NOAA Scale
+G2).
 
-NOAA Kp index breakdown Jan 22-Jan 24 2026
+NOAA Kp index breakdown Jan 23-Jan 25 2026
 
-             Jan 22       Jan 23       Jan 24
-00-03UT       3.67         3.33         3.00     
-03-06UT       4.67 (G1)    3.67         2.67     
-06-09UT       4.00         2.67         2.00     
-09-12UT       3.67         2.33         1.67     
-12-15UT       4.67 (G1)    2.33         2.00     
-15-18UT       3.33         3.00         2.33     
-18-21UT       2.67         3.00         2.33     
-21-00UT       2.67         3.33         2.00     
+             Jan 23       Jan 24       Jan 25
+00-03UT       4.67 (G1)    3.00         2.33     
+03-06UT       4.67 (G1)    3.00         2.67     
+06-09UT       5.67 (G2)    2.33         2.33     
+09-12UT       3.33         2.33         1.67     
+12-15UT       3.67         1.67         1.33     
+15-18UT       3.00         1.67         1.33     
+18-21UT       2.33         2.00         2.00     
+21-00UT       2.67         2.33         2.33     
 
-Rationale: G1 (Minor) geomagnetic storms are expected on 22 Jan due to
-CH HSS influences.
+Rationale: G1-G2 (Minor-Moderate) geomagnetic storms are expected on 23
+Jan due to persistent CH HSS influences.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 above S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Jan 22-Jan 24 2026
+Solar Radiation Storm Forecast for Jan 23-Jan 25 2026
 
-              Jan 22  Jan 23  Jan 24
-S1 or greater   45%     15%     15%
+              Jan 23  Jan 24  Jan 25
+S1 or greater   10%     10%     10%
 
-Rationale: There is a decreasing chance for S1 (Minor) or greater solar
-radiation storms through 24 Jan.
+Rationale: There is a slight chance for S1 (Minor) or greater solar
+radiation storms through 25 Jan.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-Radio blackouts reaching the R1 levels were observed over the past 24
-hours. The largest was at Jan 21 2026 0712 UTC.
+No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Jan 22-Jan 24 2026
+Radio Blackout Forecast for Jan 23-Jan 25 2026
 
-              Jan 22        Jan 23        Jan 24
+              Jan 23        Jan 24        Jan 25
 R1-R2           60%           60%           60%
 R3 or greater   15%           15%           15%
 
 Rationale: R1-R2 (Minor-Moderate) radio blackouts are likely, with a
-slight chance for R3 (Strong) events, on 22-24 Jan.
+slight chance for R3 (Strong) events, on 23-25 Jan.
 
 ```
