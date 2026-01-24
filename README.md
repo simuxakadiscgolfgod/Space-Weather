@@ -1,11 +1,10 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2026-01-23
-<br />**This image is owned by:**  Martin Pugh
-<br />**Title of the image:**  Planetary Nebula Abell 7
-<br />**Description for the image:**  Very faint planetary nebula Abell 7 is about 1,800 light-years distant. It lies just south of Orion in planet Earth's skies toward the constellation Lepus, The Hare. Posing with scattered Milky Way stars, its generally simple spherical shape about 8 light-years in diameter is revealed in this deep telescopic image. The beautiful and complex shapes seen within the cosmic cloud are visually enhanced by the use of long exposures and narrowband filters that capture emission from hydrogen and oxygen atoms. Otherwise Abell 7 would be much too faint to be appreciated by eye. A planetary nebula represents a very brief final phase in stellar evolution that our own Sun will experience 5 billion years hence, as the nebula's central, once sun-like star shrugs off its outer layers. Abell 7 itself is estimated to be 20,000 years old. But its central star, seen here as a fading white dwarf, is some 10 billion years old.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2601/Abell7pugh.jpg
+<br />**Date image released:**  2026-01-24
+<br />**Title of the image:**  Earthset from Orion
+<br />**Description for the image:**  ght billion people are about to disappear in this snapshot from space taken on 2022 November 21. On the sixth day of the Artemis I mission, their home world is setting behind the Moon's bright edge as viewed by an external camera on the outbound Orion spacecraft. Orion was headed for a powered flyby that took it to within 130 kilometers of the lunar surface. Velocity gained in the flyby maneuver was used to reach a distant retrograde orbit around the Moon. That orbit is considered distant because it's another 92,000 kilometers beyond the Moon, and retrograde because the spacecraft orbited in the opposite direction of the Moon's orbit around planet Earth. Swinging around the Moon, Orion reached a maximum distance (just over 400,000 kilometers) from Earth on 2022 November 28, exceeding a record set by Apollo 13 for most distant spacecraft designed for human space exploration. The Artemis II mission, carrying 4 astronauts around the moon and back again, is due to launch as early as February 6.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2601/earthset-snap00.png
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,55 +48,55 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2026 Jan 23 0030 UTC
+:Issued: 2026 Jan 24 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 5 (NOAA Scale
+The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
+Scale levels).
+The greatest expected 3 hr Kp for Jan 24-Jan 26 2026 is 4.67 (NOAA Scale
 G1).
-The greatest expected 3 hr Kp for Jan 23-Jan 25 2026 is 5.67 (NOAA Scale
-G2).
 
-NOAA Kp index breakdown Jan 23-Jan 25 2026
+NOAA Kp index breakdown Jan 24-Jan 26 2026
 
-             Jan 23       Jan 24       Jan 25
-00-03UT       4.67 (G1)    3.00         2.33     
-03-06UT       4.67 (G1)    3.00         2.67     
-06-09UT       5.67 (G2)    2.33         2.33     
-09-12UT       3.33         2.33         1.67     
-12-15UT       3.67         1.67         1.33     
-15-18UT       3.00         1.67         1.33     
-18-21UT       2.33         2.00         2.00     
-21-00UT       2.67         2.33         2.33     
+             Jan 24       Jan 25       Jan 26
+00-03UT       4.67 (G1)    2.33         1.67     
+03-06UT       4.00         2.67         1.33     
+06-09UT       3.67         2.33         1.33     
+09-12UT       3.00         1.67         1.33     
+12-15UT       2.67         1.33         1.67     
+15-18UT       1.67         1.33         1.33     
+18-21UT       2.00         2.00         1.67     
+21-00UT       2.67         2.33         1.33     
 
-Rationale: G1-G2 (Minor-Moderate) geomagnetic storms are expected on 23
-Jan due to persistent CH HSS influences.
+Rationale: G1 (Minor) geomagnetic storms are expected early on 24 Jan
+due to positive polarity CH HSS influences.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
-above S-scale storm level thresholds.
+below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Jan 23-Jan 25 2026
+Solar Radiation Storm Forecast for Jan 24-Jan 26 2026
 
-              Jan 23  Jan 24  Jan 25
+              Jan 24  Jan 25  Jan 26
 S1 or greater   10%     10%     10%
 
-Rationale: There is a slight chance for S1 (Minor) or greater solar
-radiation storms through 25 Jan.
+Rationale: There is a slight chance for S1 (Minor) solar radiation
+storms over 24-26 Jan.
 
 C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Jan 23-Jan 25 2026
+Radio Blackout Forecast for Jan 24-Jan 26 2026
 
-              Jan 23        Jan 24        Jan 25
-R1-R2           60%           60%           60%
-R3 or greater   15%           15%           15%
+              Jan 24        Jan 25        Jan 26
+R1-R2           55%           55%           55%
+R3 or greater   10%           10%           10%
 
 Rationale: R1-R2 (Minor-Moderate) radio blackouts are likely, with a
-slight chance for R3 (Strong) events, on 23-25 Jan.
+slight chance for an R3 (Strong) or greater event, over 24-26 Jan.
 
 ```
