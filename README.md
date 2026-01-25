@@ -1,10 +1,10 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2026-01-24
-<br />**Title of the image:**  Earthset from Orion
-<br />**Description for the image:**  ght billion people are about to disappear in this snapshot from space taken on 2022 November 21. On the sixth day of the Artemis I mission, their home world is setting behind the Moon's bright edge as viewed by an external camera on the outbound Orion spacecraft. Orion was headed for a powered flyby that took it to within 130 kilometers of the lunar surface. Velocity gained in the flyby maneuver was used to reach a distant retrograde orbit around the Moon. That orbit is considered distant because it's another 92,000 kilometers beyond the Moon, and retrograde because the spacecraft orbited in the opposite direction of the Moon's orbit around planet Earth. Swinging around the Moon, Orion reached a maximum distance (just over 400,000 kilometers) from Earth on 2022 November 28, exceeding a record set by Apollo 13 for most distant spacecraft designed for human space exploration. The Artemis II mission, carrying 4 astronauts around the moon and back again, is due to launch as early as February 6.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2601/earthset-snap00.png
+<br />**Date image released:**  2026-01-25
+<br />**Title of the image:**  Phobos: Doomed Moon of Mars
+<br />**Description for the image:**  This moon is doomed. Mars, the red planet named for the Roman god of war, has two tiny moons, Phobos and Deimos, whose names are derived from the Greek for Fear and Panic. These Martian moons may well be captured asteroids originating in the main asteroid belt between Mars and Jupiter or perhaps from even more distant reaches of our Solar System. The larger moon, Phobos, is indeed seen to be a cratered, asteroid-like object in this stunning color image from the robotic Mars Reconnaissance Orbiter, which can image objects as small as 10 meters. But Phobos orbits so close to Mars - about 5,800 kilometers above the surface compared to 400,000 kilometers for our Moon - that gravitational tidal forces are dragging it down. In perhaps 50 million years, Phobos is expected to disintegrate into a ring of debris.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2601/Phobos_MRO_3374.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -48,55 +48,56 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2026 Jan 24 0030 UTC
+:Issued: 2026 Jan 25 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Jan 24-Jan 26 2026 is 4.67 (NOAA Scale
-G1).
+The greatest expected 3 hr Kp for Jan 25-Jan 27 2026 is 3.33 (below NOAA
+Scale levels).
 
-NOAA Kp index breakdown Jan 24-Jan 26 2026
+NOAA Kp index breakdown Jan 25-Jan 27 2026
 
-             Jan 24       Jan 25       Jan 26
-00-03UT       4.67 (G1)    2.33         1.67     
-03-06UT       4.00         2.67         1.33     
-06-09UT       3.67         2.33         1.33     
-09-12UT       3.00         1.67         1.33     
-12-15UT       2.67         1.33         1.67     
-15-18UT       1.67         1.33         1.33     
-18-21UT       2.00         2.00         1.67     
-21-00UT       2.67         2.33         1.33     
+             Jan 25       Jan 26       Jan 27
+00-03UT       2.33         1.67         2.33     
+03-06UT       2.67         1.33         1.67     
+06-09UT       2.33         1.33         2.00     
+09-12UT       1.67         1.33         1.67     
+12-15UT       1.33         1.67         1.67     
+15-18UT       1.33         1.33         2.00     
+18-21UT       2.00         1.67         2.00     
+21-00UT       2.33         1.33         3.33     
 
-Rationale: G1 (Minor) geomagnetic storms are expected early on 24 Jan
-due to positive polarity CH HSS influences.
+Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
+significant transient or recurrent solar wind features are forecast.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Jan 24-Jan 26 2026
+Solar Radiation Storm Forecast for Jan 25-Jan 27 2026
 
-              Jan 24  Jan 25  Jan 26
-S1 or greater   10%     10%     10%
+              Jan 25  Jan 26  Jan 27
+S1 or greater    5%      5%      5%
 
-Rationale: There is a slight chance for S1 (Minor) solar radiation
-storms over 24-26 Jan.
+Rationale: No S1 (Minor) or greater solar radiation storms are expected.
+No significant active region activity favorable for radiation storm
+production is forecast.
 
 C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Jan 24-Jan 26 2026
+Radio Blackout Forecast for Jan 25-Jan 27 2026
 
-              Jan 24        Jan 25        Jan 26
+              Jan 25        Jan 26        Jan 27
 R1-R2           55%           55%           55%
 R3 or greater   10%           10%           10%
 
 Rationale: R1-R2 (Minor-Moderate) radio blackouts are likely, with a
-slight chance for an R3 (Strong) or greater event, over 24-26 Jan.
+slight chance for an R3 (Strong) or greater event, over 25-27 Jan.
 
 ```
