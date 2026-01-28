@@ -1,15 +1,13 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2026-01-27
+<br />**Date image released:**  2026-01-28
 <br />**This image is owned by:**  
-Włodzimierz Bubak; 
-Text: Ogetay Kayali 
-(MTU) 
+Daniel McCauley
 
-<br />**Title of the image:**  Orion's Treasures over Snowy Mountains
-<br />**Description for the image:**  Rising over a frozen valley in the Tatra Mountains, the familiar stars and nebulas of Orion dominate this wide-field nightscape.  The featured deep photo was taken in southern Poland's highest mountain range last month, where dark skies and alpine terrain combined to reveal both Earth's rugged beauty and the structure of our galaxy.  Above the snowy mountains, Orion's bright belt stars anchor a region of glowing interstellar clouds.  The Great Orion Nebula, a vast stellar nursery visible even to the unaided eye, shines near the center of the scene.  Surrounding it is the enormous arc of Barnard's Loop, a faint shell of ionized hydrogen gas spanning much of the constellation.  To the left, the round Rosette Nebula glows softly, while the grayish Witch Head Nebula hovers to the right, illuminated by nearby starlight.  Near the top, the orange supergiant Betelgeuse marks the hunter's shoulder.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2601/OrionTatras_Bubak_2048.jpg
+<br />**Title of the image:**  M78: Reflecting Blue in a Sea of Red
+<br />**Description for the image:**  In the vast Orion Molecular Cloud complex, several bright blue nebulas are particularly apparent.  Pictured here in the center are two of the most prominent reflection nebulas - dust clouds lit by the reflecting light of bright embedded stars.  The more famous nebula is M78, in the image center, cataloged over 200 years ago.  To its upper left is the lesser known NGC 2071.  Astronomers continue to study these reflection nebulas to better understand how interior stars form.  The overall red glow is from diffuse hydrogen gas that covers much of the Orion complex that spans much of the constellation of Orion. Nearby in the greater complex, which lies about 1,500 light years away, are the Orion Nebula, the Horsehead Nebula, and Barnard's Loop -- partially seen here as the white band on the upper left.    Almost Hyperspace: Random APOD Generator
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2601/M78Red_McCauley_2048.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -53,40 +51,41 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2026 Jan 27 0030 UTC
+:Issued: 2026 Jan 28 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Jan 27-Jan 29 2026 is 4.67 (NOAA Scale
+The greatest expected 3 hr Kp for Jan 28-Jan 30 2026 is 4.67 (NOAA Scale
 G1).
 
-NOAA Kp index breakdown Jan 27-Jan 29 2026
+NOAA Kp index breakdown Jan 28-Jan 30 2026
 
-             Jan 27       Jan 28       Jan 29
-00-03UT       3.33         4.00         3.33     
-03-06UT       3.00         4.67 (G1)    3.67     
-06-09UT       2.67         3.33         3.00     
-09-12UT       2.67         3.00         2.33     
-12-15UT       2.33         3.33         2.67     
-15-18UT       2.00         3.67         3.33     
-18-21UT       2.33         4.00         3.67     
-21-00UT       2.67         4.00         4.00     
+             Jan 28       Jan 29       Jan 30
+00-03UT       3.67         3.33         2.67     
+03-06UT       3.33         3.67         2.67     
+06-09UT       3.33         3.00         2.33     
+09-12UT       3.67         2.33         2.33     
+12-15UT       4.00         2.67         2.33     
+15-18UT       4.67 (G1)    3.33         2.33     
+18-21UT       4.00         3.67         2.00     
+21-00UT       4.33         4.00         2.33     
 
-Rationale: G1 (Minor) geomagnetic storms are likely on 28 Jan due to CH
+Rationale:  G1 (Minor) geomagnetic storms are likely on 28 Jan due to CH
 HSS influences.
+
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Jan 27-Jan 29 2026
+Solar Radiation Storm Forecast for Jan 28-Jan 30 2026
 
-              Jan 27  Jan 28  Jan 29
-S1 or greater    5%      5%      1%
+              Jan 28  Jan 29  Jan 30
+S1 or greater    5%      5%      5%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
 No significant active region activity favorable for radiation storm
@@ -96,13 +95,13 @@ C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Jan 27-Jan 29 2026
+Radio Blackout Forecast for Jan 28-Jan 30 2026
 
-              Jan 27        Jan 28        Jan 29
-R1-R2           25%           25%           25%
-R3 or greater    5%            5%            1%
+              Jan 28        Jan 29        Jan 30
+R1-R2           25%           25%           20%
+R3 or greater    5%            5%            5%
 
 Rationale: A chance for R1-R2 (Minor-Moderate) radio blackouts due to
-isolated M-class flares will persist through 29 Jan.
+isolated M-class flares will persist through 30 Jan.
 
 ```
