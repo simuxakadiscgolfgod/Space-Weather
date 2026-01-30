@@ -1,11 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2026-01-29
-<br />**This image is owned by:**  Mike Selby
-<br />**Title of the image:**  NGC 2442: Galaxy in Volans
-<br />**Description for the image:**  Distorted galaxy NGC 2442 can be found in the southern constellation of the flying fish, (Piscis) Volans. Located about 50 million light-years away, the galaxy's two spiral arms extending from a pronounced central bar give it a hook-shaped appearance in this deep and colorful image, with foreground stars scattered across the telescopic field of view. The image also reveals the distant galaxy's obscuring dust lanes, young blue star clusters and reddish star forming regions surrounding a core of yellowish light from an older population of stars. But the star forming regions seem more concentrated along the drawn-out (upper right) spiral arm. The distorted structure is likely the result of an ancient close encounter with a smaller galaxy that lies off top left of the frame. This telescopic field of view spans over 200,000 light-years at the estimated distance of NGC 2442.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2601/NGC-2442-rev-1-crop-18-Jan-2026_2048.jpg
+<br />**Date image released:**  2026-01-30
+<br />**This image is owned by:**  Robert Eder
+<br />**Title of the image:**  NGC 1333: Stellar Nursery in Perseus
+<br />**Description for the image:**  NGC 1333 is seen in visible light as a reflection nebula, dominated by bluish hues characteristic of starlight reflected by interstellar dust. A mere 1,000 light-years distant toward the heroic constellation Perseus, it lies at the edge of a large, star-forming molecular cloud. This telescopic close-up spans over two full moons on the sky or just over 15 light-years at the estimated distance of NGC 1333. It shows details of the dusty region along with telltale hints of contrasty red emission from Herbig-Haro objects, jets and shocked glowing gas emanating from recently formed stars. In fact, NGC 1333 contains hundreds of stars less than a million years old, most still hidden from optical telescopes by the pervasive stardust. The chaotic environment may be similar to one in which our own Sun formed over 4.5 billion years ago.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2601/NGC1333_Robert_Eder.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,39 +49,39 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2026 Jan 29 0030 UTC
+:Issued: 2026 Jan 30 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 5 (NOAA Scale
-G1).
-The greatest expected 3 hr Kp for Jan 29-Jan 31 2026 is 5.00 (NOAA Scale
-G1).
+The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
+Scale levels).
+The greatest expected 3 hr Kp for Jan 30-Feb 01 2026 is 3.67 (below NOAA
+Scale levels).
 
-NOAA Kp index breakdown Jan 29-Jan 31 2026
+NOAA Kp index breakdown Jan 30-Feb 01 2026
 
-             Jan 29       Jan 30       Jan 31
-00-03UT       5.00 (G1)    2.67         2.67     
-03-06UT       4.67 (G1)    2.67         2.67     
-06-09UT       4.67 (G1)    2.33         2.00     
-09-12UT       4.00         2.33         2.00     
-12-15UT       3.67         2.33         1.67     
-15-18UT       4.00         2.33         1.33     
-18-21UT       3.67         2.00         2.00     
-21-00UT       3.33         2.33         2.33     
+             Jan 30       Jan 31       Feb 01
+00-03UT       3.67         2.67         1.67     
+03-06UT       3.67         2.67         1.67     
+06-09UT       2.33         2.00         1.67     
+09-12UT       2.33         2.00         1.33     
+12-15UT       2.33         1.67         1.33     
+15-18UT       2.33         1.33         1.33     
+18-21UT       2.00         2.00         1.33     
+21-00UT       2.33         2.33         1.33     
 
-Rationale: G1 (Minor) geomagnetic storms are expected on 29 Jan due to
-CH HSS influences.
+Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
+significant transient or recurrent solar wind features are forecast.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Jan 29-Jan 31 2026
+Solar Radiation Storm Forecast for Jan 30-Feb 01 2026
 
-              Jan 29  Jan 30  Jan 31
+              Jan 30  Jan 31  Feb 01
 S1 or greater    5%      1%      1%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -92,13 +92,13 @@ C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Jan 29-Jan 31 2026
+Radio Blackout Forecast for Jan 30-Feb 01 2026
 
-              Jan 29        Jan 30        Jan 31
-R1-R2           25%           10%           10%
+              Jan 30        Jan 31        Feb 01
+R1-R2           15%           10%           10%
 R3 or greater    5%            1%            1%
 
-Rationale: A decreaseing chance for R1-R2 (Minor-Moderate) radio
-blackouts exists for the next three days.
+Rationale: No R1 (Minor) or greater radio blackouts are expected.  No
+significant active region flare activity is forecast.
 
 ```
