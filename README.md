@@ -1,10 +1,10 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2026-01-31
-<br />**Title of the image:**  Artemis I: Flight Day 13
-<br />**Description for the image:**  On flight day 13 (November 28, 2022) of the Artemis 1 mission, the Orion spacecraft reached its maximum distance from Earth. At over 430,000 kilometers from Earth, its distant retrograde orbit also puts Orion nearly 70,000 kilometers from the Moon. In the same field of view in this video frame from flight day 13, planet and large natural satellite even appear about the same apparent size from the spacecraft's perspective. On flight day 26 (December 11, 2022), the uncrewed spacecraft splashed down on its home world concluding the historic Artemis I mission. The Artemis II mission, carrying 4 astronauts around the moon and back again, will launch no earlier than February 8.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2601/art001e000672-orig.jpg
+<br />**Date image released:**  2026-02-01
+<br />**Title of the image:**  Galle: Happy Face Crater on Mars
+<br />**Description for the image:**  Mars has put on a happy face.  The Martian crater Galle is famous because it has internal markings that make it look like a face that is both smiling and winking.  These markings were originally discovered in the 1970s in pictures taken by the Viking Orbiter.  The Mars Global Surveyor (MGS) spacecraft that orbited Mars from 1996 to 2006 captured the featured picture.  Happy Face Crater and its iconic features were formed by chance billions of years ago when a city-sized asteroid slammed into the Martian surface.  All rocky planets and moons in our Solar System show impact craters, with the highest number of craters found on Earth's Moon and the planet Mercury. Earth and Venus would show the most, though, were it not for weather and erosion.   Sky Surprise: What picture did APOD feature on your birthday? (after 1995)
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2602/MarsHappyFace_mgs_525.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -48,27 +48,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2026 Jan 31 0030 UTC
+:Issued: 2026 Feb 01 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Jan 31-Feb 02 2026 is 2.33 (below NOAA
+The greatest expected 3 hr Kp for Feb 01-Feb 03 2026 is 1.67 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Jan 31-Feb 02 2026
+NOAA Kp index breakdown Feb 01-Feb 03 2026
 
-             Jan 31       Feb 01       Feb 02
-00-03UT       2.33         1.67         1.67     
-03-06UT       2.00         1.67         1.33     
-06-09UT       1.67         1.67         1.33     
-09-12UT       1.33         1.33         1.33     
-12-15UT       1.33         1.33         1.33     
+             Feb 01       Feb 02       Feb 03
+00-03UT       1.67         1.67         1.67     
+03-06UT       1.67         1.33         1.33     
+06-09UT       1.67         1.00         1.00     
+09-12UT       1.33         1.00         1.00     
+12-15UT       1.33         0.67         0.67     
 15-18UT       1.33         1.33         1.33     
-18-21UT       1.67         1.33         1.67     
-21-00UT       2.00         1.33         1.67     
+18-21UT       1.33         1.67         1.67     
+21-00UT       1.33         1.67         1.67     
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
 significant transient or recurrent solar wind features are forecast.
@@ -78,9 +78,9 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Jan 31-Feb 02 2026
+Solar Radiation Storm Forecast for Feb 01-Feb 03 2026
 
-              Jan 31  Feb 01  Feb 02
+              Feb 01  Feb 02  Feb 03
 S1 or greater    1%      1%      1%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -91,13 +91,13 @@ C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Jan 31-Feb 02 2026
+Radio Blackout Forecast for Feb 01-Feb 03 2026
 
-              Jan 31        Feb 01        Feb 02
-R1-R2           15%           10%           10%
-R3 or greater    1%            1%            1%
+              Feb 01        Feb 02        Feb 03
+R1-R2           35%           35%           35%
+R3 or greater    5%            5%            5%
 
-Rationale: A slight chance for R1-2 (Minor-Moderate) radio blackouts due
-to isolated M-class activity will presist through 02 Feb.
+Rationale: No R1 (Minor) or greater radio blackouts are expected.  No
+significant active region flare activity is forecast.
 
 ```
