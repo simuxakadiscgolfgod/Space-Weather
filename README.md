@@ -1,14 +1,10 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2026-02-02
-<br />**This image is owned by:**  
-Robert G. Lyons  
-(Robservatory) 
-
-<br />**Title of the image:**  Orion: The Running Man Nebula
-<br />**Description for the image:**  What part of Orion is this? Just north of the famous Orion Nebula is a picturesque star forming region in Orion's Sword that contains a lot of intricate dust -- some of which appears blue because it reflects the light of bright embedded stars.  The region's popular name is the Running Man Nebula because, looked at from the right, part of the brown dust appears to be running legs.  Cataloged as Sharpless 279, the reflection nebula is not only part of the constellation of Orion, but part of the greater Orion molecular cloud complex.  Light from the Running Man's bright stars, including 42 Orionis, the bright star closest to the featured image center, is slowly destroying and reshaping the surrounding dust, which will likely be completely gone in about 10 million years.  The nebula spans about 15 light years and lies about 1,500 light years away.   Jigsaw Nebula: Astronomy Puzzle of the Day
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2602/RunningMan_Lyons_3298.jpg
+<br />**Date image released:**  2026-02-03
+<br />**Title of the image:**  Red Spider Planetary Nebula from Webb
+<br />**Description for the image:**  Oh what a tangled web a planetary nebula can weave.  The Red Spider Planetary Nebula shows the complex structure that can result when a normal star ejects its outer gases and becomes a white dwarf star. Officially tagged NGC 6537, this two-lobed symmetric planetary nebula houses one of the hottest white dwarfs ever observed, probably as part of a binary star system.  Internal winds flowing out from the central stars, have been measured in excess of 1,000 kilometers per second. These winds expand the nebula, flow along the nebula's walls, and cause waves of hot gas and dust to collide.  Atoms caught in these colliding shocks radiate light shown in the featured false-color infrared picture by the James Webb Space Telescope.  The Red Spider Nebula lies toward the constellation of the Archer (Sagittarius).  Its distance is not well known but has been estimated by some to be about 4,000 light-years.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2602/RedSpider_Webb_1280.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -52,58 +48,60 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2026 Feb 02 0140 UTC
+:Issued: 2026 Feb 03 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Feb 02-Feb 04 2026 is 1.67 (below NOAA
-Scale levels).
+The greatest expected 3 hr Kp for Feb 03-Feb 05 2026 is 5.00 (NOAA Scale
+G1).
 
-NOAA Kp index breakdown Feb 02-Feb 04 2026
+NOAA Kp index breakdown Feb 03-Feb 05 2026
 
-             Feb 02       Feb 03       Feb 04
-00-03UT       1.67         1.67         1.67     
-03-06UT       1.33         1.33         1.67     
-06-09UT       1.00         1.00         1.33     
-09-12UT       1.00         1.00         1.33     
-12-15UT       0.67         0.67         1.33     
-15-18UT       1.33         1.33         1.33     
-18-21UT       1.67         1.67         1.33     
-21-00UT       1.67         1.67         1.67     
+             Feb 03       Feb 04       Feb 05
+00-03UT       1.67         1.67         2.00     
+03-06UT       1.33         1.67         2.00     
+06-09UT       1.00         1.33         1.67     
+09-12UT       1.00         1.33         1.33     
+12-15UT       0.67         1.33         1.33     
+15-18UT       1.33         1.33         3.00     
+18-21UT       1.67         1.33         4.33     
+21-00UT       1.67         1.67         5.00 (G1)
 
-Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
-significant transient or recurrent solar wind features are forecast.
+Rationale: G1 (Minor) geomagnetic storm levels are likely on 05 Feb due
+to possible glancing influences from the CME associated with the 01/2357
+UTC X8.1 flare from Region 4366.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Feb 02-Feb 04 2026
+Solar Radiation Storm Forecast for Feb 03-Feb 05 2026
 
-              Feb 02  Feb 03  Feb 04
-S1 or greater    65%     50%     10%
+              Feb 03  Feb 04  Feb 05
+S1 or greater   50%     50%     50%
 
-Rationale: Solar radiation storming is likely to exceed the S1 (Minor)
-levels on 02 Feb with a chance on 03 Feb due to the recent X8.1 flare
-from Region 4366 at 01/2357 UTC.
+Rationale: There is a chance for the greater than 10 MeV proton flux to
+exceed the S1 (Minor) levels on 03-05 Feb due to the recent X8.1 flare
+event from Region 4366 and possible future eruptions.
 
 C. NOAA Radio Blackout Activity and Forecast
 
 Radio blackouts reaching the R3 levels were observed over the past 24
-hours. The largest was at Feb 01 2026 1233 UTC.
+hours. The largest was at Feb 02 2026 0036 UTC.
 
-Radio Blackout Forecast for Feb 02-Feb 04 2026
+Radio Blackout Forecast for Feb 03-Feb 05 2026
 
-              Feb 02        Feb 03        Feb 04
-R1-R2           75%           75%           75%
-R3 or greater   25%           25%           25%
+              Feb 03        Feb 04        Feb 05
+R1-R2           80%           80%           80%
+R3 or greater   40%           40%           40%
 
-Rationale: R2 radio blackouts are expected.  Active region 4366 is
-expected to produce more flare activity over the next three days, with a
-chance for an R3 or greater event.
+Rationale: Moderate to high solar activity due to M-class flaring
+(R1-R2, Minor-Moderate) is expected for the next three days with a high
+chance for occasional X-class flares (R3-Strong or greater) due to
+expected further activity from AR 4366.
 
 ```
