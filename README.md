@@ -1,13 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2026-02-04
-<br />**This image is owned by:**  
-Daniel Stern
-
-<br />**Title of the image:**  Spiral Galaxy NGC 1512: Wide Field
-<br />**Description for the image:**  Most galaxies don't have any rings -- why does this galaxy have three?  To begin, a ring that's near NGC 1512's center -- and so hard to see here -- is the nuclear ring which glows brightly with recently formed stars.  Next out is a ring of stars and dust appearing both red and blue, called, counter-intuitively, the inner ring.  This inner ring connects ends of a diffuse central bar of stars that runs horizontally across the galaxy.  Farthest out in this wide field image is a ragged structure that might be considered an outer ring. This outer ring appears spiral-like and is dotted with clusters of bright blue stars.  All these ring structures are thought to be affected by NGC 1512's own gravitational asymmetries in a drawn-out process called secular evolution.  The featured image was captured last month from a telescope at Deep Sky Chile in Chile.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2602/NGC1512_stern_6214.jpg
+<br />**Date image released:**  2026-02-05
+<br />**This image is owned by:**  Michal Wierzbinski
+<br />**Title of the image:**  NGC 1275 in the Perseus Cluster
+<br />**Description for the image:**  Active galaxy NGC 1275 is the central, dominant member of the large and relatively nearby Perseus Cluster of Galaxies. Wild-looking at visible wavelengths, the active galaxy is also a prodigious source of x-rays and radio emission. NGC 1275 accretes matter as entire galaxies fall into it, ultimately feeding a supermassive black hole at the galaxy's core. Narrowband image data used in this sharp telescopic image highlights the resulting galactic debris and filaments of glowing gas, some up to 20,000 light-years long. The filaments persist in NGC 1275, even though the turmoil of galactic collisions should destroy them.  What keeps the filaments together? Observations indicate that the structures, pushed out from the galaxy's center by the black hole's activity, are held together by magnetic fields. Also known as Perseus A, NGC 1275 itself spans over 100,000 light years and lies about 230 million light years away.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2602/ngc-1275-perseus-cluster.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -51,61 +49,56 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2026 Feb 04 0030 UTC
+:Issued: 2026 Feb 05 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Feb 04-Feb 06 2026 is 5.00 (NOAA Scale
+The greatest expected 3 hr Kp for Feb 05-Feb 07 2026 is 5.00 (NOAA Scale
 G1).
 
-NOAA Kp index breakdown Feb 04-Feb 06 2026
+NOAA Kp index breakdown Feb 05-Feb 07 2026
 
-             Feb 04       Feb 05       Feb 06
-00-03UT       1.67         2.00         4.67 (G1)
-03-06UT       1.67         2.00         4.00     
-06-09UT       1.33         1.67         3.67     
-09-12UT       1.33         1.33         3.67     
-12-15UT       1.33         1.33         3.67     
-15-18UT       1.33         3.00         4.00     
-18-21UT       1.33         4.33         4.00     
-21-00UT       1.67         5.00 (G1)    4.00     
+             Feb 05       Feb 06       Feb 07
+00-03UT       4.67 (G1)    4.67 (G1)    2.67     
+03-06UT       4.33         4.33         2.33     
+06-09UT       3.33         3.67         2.33     
+09-12UT       2.67         3.00         2.00     
+12-15UT       1.67         2.67         2.67     
+15-18UT       3.00         4.00         2.67     
+18-21UT       4.33         3.67         3.67     
+21-00UT       5.00 (G1)    4.00         2.33     
 
-Rationale: G1 (Minor) storming is likely on 05-06 Feb due to the arrival
-of the CME associated with the 01/2357 UTC X8.1 flare from Region 4366.
+Rationale: G1 (Minor) or greater geomagnetic storms are likely due to
+the anticipated influence of the CME that left the Sun on Feb 01.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Feb 04-Feb 06 2026
+Solar Radiation Storm Forecast for Feb 05-Feb 07 2026
 
-              Feb 04  Feb 05  Feb 06
+              Feb 05  Feb 06  Feb 07
 S1 or greater   30%     30%     30%
 
-Rationale: The greater than 10 MeV proton flux has a chance to exceed S1
-(Minor) levels over 04-06 Feb due to the high eruptive potential of
-Region 4366. The risk of a proton event will increase as the region
-moves into a more favorable magnetic connection point in the Suns
-western hemisphere.
+Rationale: There is a chance for an S1 (Minor) or greater solar
+radiation storms on 05-07 Feb.
 
 C. NOAA Radio Blackout Activity and Forecast
 
 Radio blackouts reaching the R3 levels were observed over the past 24
-hours. The largest was at Feb 03 2026 1408 UTC.
+hours. The largest was at Feb 04 2026 1213 UTC.
 
-Radio Blackout Forecast for Feb 04-Feb 06 2026
+Radio Blackout Forecast for Feb 05-Feb 07 2026
 
-              Feb 04        Feb 05        Feb 06
+              Feb 05        Feb 06        Feb 07
 R1-R2           80%           80%           80%
 R3 or greater   40%           40%           40%
 
-Rationale: Moderate to high solar activity is expected due to M-class
-flaring (R1-R2, Minor-Moderate) for the next three days with a high
-chance for X-class flares (R3-Strong or greater) due to expected further
-activity from AR 4366.
+Rationale: R1-R2 (Minor-Moderate) radio blackouts are expected on 05-07
+Feb, with a high chance for R3 (Strong) or greater levels to occur.
 
 ```
