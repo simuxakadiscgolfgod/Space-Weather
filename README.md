@@ -1,10 +1,10 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2026-02-06
-<br />**Title of the image:**  Supernova Remnant Cassiopeia A
-<br />**Description for the image:**  Massive stars in our Milky Way Galaxy live spectacular lives.  Collapsing from vast cosmic clouds, their nuclear furnaces ignite and create heavy elements in their cores. After only a few million years for the most massive stars, the enriched material is blasted back into interstellar space where star formation can begin anew. The expanding debris cloud known as Cassiopeia A is an example of this final phase of the stellar life cycle. Light from the supernova explosion that created this remnant would have been first seen in planet Earth's sky about 350 years ago, although it took that light 11,000 years to reach us. This sharp NIRCam image from the James Webb Space Telescope shows the still-hot filaments and knots in the supernova remnant. The whitish, smoke-like outer shell of the expanding blast wave is about 20 light-years across. A series of light echoes from the massive star's cataclysmic explosion are also identified in Webb's detailed images of the surrounding interstellar medium.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2602/CasA_nircam_4096.jpg
+<br />**Date image released:**  2026-02-07
+<br />**Title of the image:**  Crescent Enceladus
+<br />**Description for the image:**  Peering from the shadows, the Saturn-facing hemisphere of tantalizing inner moon Enceladus poses in this Cassini spacecraft image. North is up in the dramatic scene captured during November 2016 as Cassini's camera was pointed in a nearly sunward direction about 130,000 kilometers from the moon's bright crescent. In fact, the distant world reflects over 90 percent of the sunlight it receives, giving its surface about the same reflectivity as fresh snow. A mere 500 kilometers in diameter, Enceladus is a surprisingly active moon. Data and images collected during Cassini's flybys have revealed water vapor and ice grains spewing from south polar geysers and evidence of an ocean of liquid water hidden beneath the moon's icy crust.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2602/PIA20522enceladus.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -48,58 +48,58 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2026 Feb 06 0030 UTC
+:Issued: 2026 Feb 07 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 5 (NOAA Scale
+The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
+Scale levels).
+The greatest expected 3 hr Kp for Feb 07-Feb 09 2026 is 4.67 (NOAA Scale
 G1).
-The greatest expected 3 hr Kp for Feb 06-Feb 08 2026 is 4.67 (NOAA Scale
-G1).
 
-NOAA Kp index breakdown Feb 06-Feb 08 2026
+NOAA Kp index breakdown Feb 07-Feb 09 2026
 
-             Feb 06       Feb 07       Feb 08
-00-03UT       4.67 (G1)    4.00         4.67 (G1)
-03-06UT       4.00         2.67         3.67     
-06-09UT       3.33         1.67         3.33     
-09-12UT       2.67         1.67         3.33     
-12-15UT       2.67         2.33         2.00     
-15-18UT       3.00         2.67         3.33     
-18-21UT       3.33         3.33         3.33     
-21-00UT       3.67         4.00         3.67     
+             Feb 07       Feb 08       Feb 09
+00-03UT       4.00         4.67 (G1)    3.33     
+03-06UT       2.67         3.67         2.00     
+06-09UT       1.67         3.33         2.00     
+09-12UT       1.67         3.33         3.00     
+12-15UT       2.33         2.00         3.00     
+15-18UT       2.67         3.33         3.33     
+18-21UT       3.33         3.33         3.67     
+21-00UT       4.00         3.67         3.67     
 
-Rationale: G1 (Minor) geomagnetic storms are likely on 06 and 08 Feb due
-to the anticipated arrival of two CMEs glancing impacts near Earth.
+Rationale: G1 (Minor) geomagnetic storms are likely on 08 Feb due to the
+anticipated arrival of the CME associated with the 03 Feb filament
+eruption, coupled with a new negative polarity CH HSS.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Feb 06-Feb 08 2026
+Solar Radiation Storm Forecast for Feb 07-Feb 09 2026
 
-              Feb 06  Feb 07  Feb 08
+              Feb 07  Feb 08  Feb 09
 S1 or greater   25%     25%     25%
 
-Rationale: There is a chance for a S1 (Minor) solar radiation storms on
-06-08 Feb due to the magnetic complexity and dynamic of the active
+Rationale: There is a chance for S1 (Minor) solar radiation storms on
+07-09 Feb due to the magnetic complexity and dynamic of the active
 regions on the visible disk.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-Radio blackouts reaching the R1 levels were observed over the past 24
-hours. The largest was at Feb 05 2026 0436 UTC.
+No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Feb 06-Feb 08 2026
+Radio Blackout Forecast for Feb 07-Feb 09 2026
 
-              Feb 06        Feb 07        Feb 08
+              Feb 07        Feb 08        Feb 09
 R1-R2           80%           80%           80%
 R3 or greater   35%           35%           35%
 
 Rationale: R1-R2 (Minor-Moderate) radio blackouts are expected, with a
-chance for R3 (Strong) or greater levels on 06-08 Feb due to the
+chance for R3 (Strong) or greater levels on 07-09 Feb due to the
 magnetic complexity and dynamic of the active regions on the visible
 disk.
 
