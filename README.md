@@ -1,10 +1,13 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2026-02-07
-<br />**Title of the image:**  Crescent Enceladus
-<br />**Description for the image:**  Peering from the shadows, the Saturn-facing hemisphere of tantalizing inner moon Enceladus poses in this Cassini spacecraft image. North is up in the dramatic scene captured during November 2016 as Cassini's camera was pointed in a nearly sunward direction about 130,000 kilometers from the moon's bright crescent. In fact, the distant world reflects over 90 percent of the sunlight it receives, giving its surface about the same reflectivity as fresh snow. A mere 500 kilometers in diameter, Enceladus is a surprisingly active moon. Data and images collected during Cassini's flybys have revealed water vapor and ice grains spewing from south polar geysers and evidence of an ocean of liquid water hidden beneath the moon's icy crust.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2602/PIA20522enceladus.jpg
+<br />**Date image released:**  2026-02-08
+<br />**This image is owned by:**  
+Daniel Korona
+
+<br />**Title of the image:**  Active Sunspot Region 4366 Crosses the Sun
+<br />**Description for the image:**  An unusually active sunspot region is now crossing the Sun.  The region, labelled AR 4366, is much larger than the Earth and has produced several powerful solar flares over the past ten days.  In the featured image, the region is marked by large and dark sunspots toward the upper right of the Sun's disk. The image captured the Sun over a hill in Zacatecas, Mexico, 5 days ago.  AR 4366 has become a candidate for the most active solar region in this entire 11-year solar cycle.  Active solar regions are frequently associated with increased auroral activity on the Earth.  Now reaching the edge, AR 4366 will begin facing away from the Earth during the coming week. It is not known, though, if the active region will survive long enough to reappear in about two weeks' time, as the Sun rotates.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2602/Sunspot4366_Korona_1280.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -48,59 +51,58 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2026 Feb 07 0030 UTC
+:Issued: 2026 Feb 08 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Feb 07-Feb 09 2026 is 4.67 (NOAA Scale
+The greatest expected 3 hr Kp for Feb 08-Feb 10 2026 is 4.67 (NOAA Scale
 G1).
 
-NOAA Kp index breakdown Feb 07-Feb 09 2026
+NOAA Kp index breakdown Feb 08-Feb 10 2026
 
-             Feb 07       Feb 08       Feb 09
-00-03UT       4.00         4.67 (G1)    3.33     
-03-06UT       2.67         3.67         2.00     
-06-09UT       1.67         3.33         2.00     
-09-12UT       1.67         3.33         3.00     
-12-15UT       2.33         2.00         3.00     
-15-18UT       2.67         3.33         3.33     
-18-21UT       3.33         3.33         3.67     
-21-00UT       4.00         3.67         3.67     
+             Feb 08       Feb 09       Feb 10
+00-03UT       4.67 (G1)    3.33         2.67     
+03-06UT       3.67         2.67         2.67     
+06-09UT       3.33         2.00         2.00     
+09-12UT       3.33         3.00         1.67     
+12-15UT       2.00         3.00         1.67     
+15-18UT       3.33         3.33         0.67     
+18-21UT       3.33         3.00         1.67     
+21-00UT       3.67         3.67         2.67     
 
-Rationale: G1 (Minor) geomagnetic storms are likely on 08 Feb due to the
-anticipated arrival of the CME associated with the 03 Feb filament
-eruption, coupled with a new negative polarity CH HSS.
+Rationale: G1 (Minor) geomagnetic storming is likely on 08 Feb due to
+the anticipated arrival of a CME (from 03 Feb), combined with the onset
+of new negative polarity CH HSS influences.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Feb 07-Feb 09 2026
+Solar Radiation Storm Forecast for Feb 08-Feb 10 2026
 
-              Feb 07  Feb 08  Feb 09
+              Feb 08  Feb 09  Feb 10
 S1 or greater   25%     25%     25%
 
-Rationale: There is a chance for S1 (Minor) solar radiation storms on
-07-09 Feb due to the magnetic complexity and dynamic of the active
-regions on the visible disk.
+Rationale: There is a chance for S1 (Minor) or greater solar radiation
+storms over 08-10 Feb due to the eruptive potential and location of
+Region 4366.
 
 C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Feb 07-Feb 09 2026
+Radio Blackout Forecast for Feb 08-Feb 10 2026
 
-              Feb 07        Feb 08        Feb 09
-R1-R2           80%           80%           80%
-R3 or greater   35%           35%           35%
+              Feb 08        Feb 09        Feb 10
+R1-R2           75%           75%           75%
+R3 or greater   25%           25%           25%
 
 Rationale: R1-R2 (Minor-Moderate) radio blackouts are expected, with a
-chance for R3 (Strong) or greater levels on 07-09 Feb due to the
-magnetic complexity and dynamic of the active regions on the visible
-disk.
+chance for R3 (Strong) or greater events, over 08-10 Feb, primarily due
+to the eruptive potential of Region 4366.
 
 ```
