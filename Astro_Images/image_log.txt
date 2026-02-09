@@ -1,7 +1,4 @@
-<br />**Date image released:**  2026-02-08
-<br />**This image is owned by:**  
-Daniel Korona
-
-<br />**Title of the image:**  Active Sunspot Region 4366 Crosses the Sun
-<br />**Description for the image:**  An unusually active sunspot region is now crossing the Sun.  The region, labelled AR 4366, is much larger than the Earth and has produced several powerful solar flares over the past ten days.  In the featured image, the region is marked by large and dark sunspots toward the upper right of the Sun's disk. The image captured the Sun over a hill in Zacatecas, Mexico, 5 days ago.  AR 4366 has become a candidate for the most active solar region in this entire 11-year solar cycle.  Active solar regions are frequently associated with increased auroral activity on the Earth.  Now reaching the edge, AR 4366 will begin facing away from the Earth during the coming week. It is not known, though, if the active region will survive long enough to reappear in about two weeks' time, as the Sun rotates.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2602/Sunspot4366_Korona_1280.jpg
+<br />**Date image released:**  2026-02-09
+<br />**Title of the image:**  Miranda Revisited
+<br />**Description for the image:**  What is Miranda really like?  Visually, old images from NASA's Voyager 2 have been recently combined and remastered to result in the featured image of Uranus's 500-kilometer-wide moon. In the late 1980s, Voyager 2 flew by Uranus, coming close to the cratered, fractured, and unusually grooved moon -- named after a character from Shakespeare’s The Tempest.  Scientifically, planetary scientists are using old data and clear images to theorize anew about what shaped Miranda's severe surface features.  A leading hypothesis is that Miranda, beneath its icy surface, may have once hosted an expansive liquid water ocean which may be slowly freezing.  Thanks to the legacy of Voyager 2, Miranda has joined the ranks of Europa, Titan, and other icy moons in the search for water, and, possibly, microbial life, in our Solar System.   Jigsaw Moon: Astronomy Puzzle of the Day
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2602/Miranda_Voyager2Zelario12_2320.jpg
