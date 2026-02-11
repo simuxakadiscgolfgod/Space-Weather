@@ -1,13 +1,10 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2026-02-10
-<br />**This image is owned by:**  
-Max Rive
-
-<br />**Title of the image:**  In Green Company: Aurora over Norway
-<br />**Description for the image:**  Raise your arms if you see an aurora. With those instructions, two nights went by with, well, clouds -- mostly. On the third night of returning to same peaks, though, the sky not only cleared up but lit up with a spectacular auroral display. Arms went high in the air, patience and experience paid off, and the creative featured image was captured as a composite from three separate exposures. The setting is a summit of the Austnesfjorden (a fjord) close to the town of Svolvear on the Lofoten islands in northern Norway. The year was 2014. This year, our Sun is just passing solar maximum, the peak in its 11-year surface activity cycle. As expected, some spectacular auroras have recently resulted.   Portal Universe: Random APOD Generator
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2602/greencompany_rive_2916.jpg
+<br />**Date image released:**  2026-02-11
+<br />**Title of the image:**  A Year of Sunspots
+<br />**Description for the image:**  How many sunspots can you see?  The central image shows the many sunspots that occurred in 2025, month by month around the circle, and all together in the grand central image.  Each sunspot is magnetically cooled and so appears dark -- and can last from days to months. Although the featured images originated from NASA's Solar Dynamics Observatory, sunspots can be easily seen with a small telescope or binoculars equipped with a solar filter. Very large sunspot groups like recent AR 4366 can even be seen with eclipse glasses. Sunspots are still counted by eye, but the total number is not considered exact because they frequently change and break up.  Last year, 2025, coincided with a solar maximum, the period of most intense magnetic activity during its 11-year solar cycle.  Our Sun remains unpredictable in many ways, including when it ejects solar flares that will impact the Earth, and how active the next solar cycle will be.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2602/Sunspots2025_SdoSanli_3450.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -51,57 +48,57 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2026 Feb 10 0030 UTC
+:Issued: 2026 Feb 11 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Feb 10-Feb 12 2026 is 2.67 (below NOAA
+The greatest expected 3 hr Kp for Feb 11-Feb 13 2026 is 2.00 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Feb 10-Feb 12 2026
+NOAA Kp index breakdown Feb 11-Feb 13 2026
 
-             Feb 10       Feb 11       Feb 12
-00-03UT       2.67         1.67         1.67     
-03-06UT       2.67         1.67         2.00     
-06-09UT       2.67         1.67         1.67     
-09-12UT       1.67         1.00         1.33     
-12-15UT       1.67         1.33         0.67     
-15-18UT       0.67         1.33         1.00     
-18-21UT       1.67         1.00         1.67     
-21-00UT       2.00         1.67         1.67     
+             Feb 11       Feb 12       Feb 13
+00-03UT       3.67         1.67         1.67     
+03-06UT       4.67         2.00         1.33     
+06-09UT       2.67         1.67         1.33     
+09-12UT       1.00         1.33         1.33     
+12-15UT       1.33         0.67         1.33     
+15-18UT       1.33         1.00         1.33     
+18-21UT       1.00         1.67         1.67     
+21-00UT       1.67         1.67         1.67     
 
-Rationale: No G1 (Minor) or greater geomagnetic storms are expected over
-10-12 Feb.
+Rationale: Isolated G1 (Minor) geomagnetic storms are possible on 11 Feb
+due to lingering influence from embedded transients.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Feb 10-Feb 12 2026
+Solar Radiation Storm Forecast for Feb 11-Feb 13 2026
 
-              Feb 10  Feb 11  Feb 12
-S1 or greater   25%     25%     25%
+              Feb 11  Feb 12  Feb 13
+S1 or greater   25%     20%     15%
 
-Rationale: There is a chance for S1 (Minor) or greater solar radiation
-storms on 10-12 Feb due to the flare potential and location of Region
-4366.
+Rationale: There is decreasing potential for S1 (Minor) or greater solar
+radiation storms through 13 Feb due to the eruptive potential of active
+regions leaving the visible disk.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-Radio blackouts reaching the R1 levels were observed over the past 24
-hours. The largest was at Feb 09 2026 0227 UTC.
+No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Feb 10-Feb 12 2026
+Radio Blackout Forecast for Feb 11-Feb 13 2026
 
-              Feb 10        Feb 11        Feb 12
-R1-R2           65%           65%           65%
-R3 or greater   25%           25%           25%
+              Feb 11        Feb 12        Feb 13
+R1-R2           65%           65%           55%
+R3 or greater   25%           20%           15%
 
 Rationale: R1-R2 (Minor-Moderate) radio blackouts are likely, with a
-chance for R3 (Strong) or greater events, on 10-12 Feb.
+decreasing chance of R3 (Strong) or greater events through 13 Feb due to
+the eruptive potential of active regions leaving the visible disk.
 
 ```
