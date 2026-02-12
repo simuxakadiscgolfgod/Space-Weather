@@ -1,10 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2026-02-11
-<br />**Title of the image:**  A Year of Sunspots
-<br />**Description for the image:**  How many sunspots can you see?  The central image shows the many sunspots that occurred in 2025, month by month around the circle, and all together in the grand central image.  Each sunspot is magnetically cooled and so appears dark -- and can last from days to months. Although the featured images originated from NASA's Solar Dynamics Observatory, sunspots can be easily seen with a small telescope or binoculars equipped with a solar filter. Very large sunspot groups like recent AR 4366 can even be seen with eclipse glasses. Sunspots are still counted by eye, but the total number is not considered exact because they frequently change and break up.  Last year, 2025, coincided with a solar maximum, the period of most intense magnetic activity during its 11-year solar cycle.  Our Sun remains unpredictable in many ways, including when it ejects solar flares that will impact the Earth, and how active the next solar cycle will be.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2602/Sunspots2025_SdoSanli_3450.jpg
+<br />**Date image released:**  2026-02-12
+<br />**This image is owned by:**  Olaf Filzinger
+<br />**Title of the image:**  The Bay of Rainbows
+<br />**Description for the image:**  Dark, smooth regions that cover the Moon's familiar face are called by Latin names for oceans and seas. That naming convention is historical, though it may seem a little ironic to denizens of the space age who recognize the Moon as a mostly dry and airless world, and the smooth, dark areas as lava-flooded impact basins. For example, this telescopic lunar vista, looks over the expanse of the northwestern Mare Imbrium, or Sea of Rains and into the Sinus Iridum, the Bay of Rainbows. Ringed by the Jura Mountains (montes), the bay is about 250 kilometers across. Seen after local sunrise, the mountains form part of the Sinus Iridum impact crater wall. Their rugged sunlit arc is bounded at the top by Cape (promontorium) Laplace reaching nearly 3,000 meters above the bay's surface. At the bottom of the arc is Cape Heraclides, depicted by Giovanni Cassini in his 1679 telescope-based drawings mapping the moon as a moon maiden seen in profile with long, flowing hair.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2602/APOD-Sinus-Iridum-Olaf-Filzinger.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -48,57 +49,56 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2026 Feb 11 0030 UTC
+:Issued: 2026 Feb 12 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Feb 11-Feb 13 2026 is 2.00 (below NOAA
+The greatest expected 3 hr Kp for Feb 12-Feb 14 2026 is 3.00 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Feb 11-Feb 13 2026
+NOAA Kp index breakdown Feb 12-Feb 14 2026
 
-             Feb 11       Feb 12       Feb 13
-00-03UT       3.67         1.67         1.67     
-03-06UT       4.67         2.00         1.33     
-06-09UT       2.67         1.67         1.33     
-09-12UT       1.00         1.33         1.33     
-12-15UT       1.33         0.67         1.33     
-15-18UT       1.33         1.00         1.33     
-18-21UT       1.00         1.67         1.67     
-21-00UT       1.67         1.67         1.67     
+             Feb 12       Feb 13       Feb 14
+00-03UT       1.67         1.67         3.00     
+03-06UT       2.00         1.33         2.67     
+06-09UT       1.67         1.33         2.00     
+09-12UT       1.33         1.33         2.67     
+12-15UT       0.67         1.33         2.00     
+15-18UT       1.00         1.33         2.67     
+18-21UT       1.67         1.67         2.67     
+21-00UT       1.67         1.67         3.00     
 
-Rationale: Isolated G1 (Minor) geomagnetic storms are possible on 11 Feb
-due to lingering influence from embedded transients.
+Rationale: No G1 (Minor) or greater geomagnetic storms are expected.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Feb 11-Feb 13 2026
+Solar Radiation Storm Forecast for Feb 12-Feb 14 2026
 
-              Feb 11  Feb 12  Feb 13
-S1 or greater   25%     20%     15%
+              Feb 12  Feb 13  Feb 14
+S1 or greater    1%      1%      1%
 
-Rationale: There is decreasing potential for S1 (Minor) or greater solar
-radiation storms through 13 Feb due to the eruptive potential of active
-regions leaving the visible disk.
+Rationale: No S1 (Minor) or greater solar radiation storms are expected.
+No significant active region activity favorable for radiation storm
+production is forecast.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-No radio blackouts were observed over the past 24 hours.
+Radio blackouts reaching the R1 levels were observed over the past 24
+hours. The largest was at Feb 11 2026 1312 UTC.
 
-Radio Blackout Forecast for Feb 11-Feb 13 2026
+Radio Blackout Forecast for Feb 12-Feb 14 2026
 
-              Feb 11        Feb 12        Feb 13
-R1-R2           65%           65%           55%
-R3 or greater   25%           20%           15%
+              Feb 12        Feb 13        Feb 14
+R1-R2           10%           10%           10%
+R3 or greater    5%            5%            5%
 
-Rationale: R1-R2 (Minor-Moderate) radio blackouts are likely, with a
-decreasing chance of R3 (Strong) or greater events through 13 Feb due to
-the eruptive potential of active regions leaving the visible disk.
+Rationale: There is a slight chance for R1 (Minor) or greater radio
+blackouts are through 12-14 Feb.
 
 ```
