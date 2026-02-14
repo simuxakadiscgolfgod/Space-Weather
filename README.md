@@ -1,11 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2026-02-13
-<br />**This image is owned by:**  Chuck Ayoub
-<br />**Title of the image:**  NGC 147 and NGC 185
-<br />**Description for the image:**  Dwarf galaxies NGC 147 (left) and NGC 185 stand side by side in this deep telescopic portrait. The two are not-often-imaged satellite galaxies of M31, the great spiral Andromeda Galaxy, some 2.5 million light-years away. Their separation on the sky, less than one degree across a pretty field of view toward the constellation Cassiopeia, translates to only about 35 thousand light-years at Andromeda's distance, but Andromeda itself is found well outside this frame. Brighter and more famous satellite galaxies of Andromeda, M32 and M110, are seen much closer to the great spiral. NGC 147 and NGC 185 have been identified as binary galaxies, forming a gravitationally stable binary system. But recently discovered faint dwarf galaxy Cassiopeia II also seems to be part of their system, forming a gravitationally bound group within Andromeda's intriguing population of small satellite galaxies.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2602/N147N185.png
+<br />**Date image released:**  2026-02-14
+<br />**This image is owned by:**  Keighley Rockcliffe
+<br />**Title of the image:**  Roses are Red
+<br />**Description for the image:**  Roses are red, nebulas are too, and this Valentine's gift is a stunning view! Pictured is a loving look at the Rosette Nebula (NGC 2237): a cosmic bloom of bright young stars sitting atop a stem of glowing hot gas. The rose’s blue-white speckles are among the most luminous stars in the galaxy, with some burning millions of times brighter than the Sun. Their stellar winds sculpt the famed rose shape by pushing gas and dust away from the center. Though only a few million years old, these massive stars are already nearing the end of their lives, while dimmer stars embedded in the nebula will burn for billions of years to come. The vibrant red hue comes from hydrogen gas, ionized by the ultraviolet light from the young stars. The rose’s blue-white center is color-mapped to indicate the presence of similarly ionized oxygen. The Rosette Nebula reminds us of the beauty and transformation woven into the fabric of the universe.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2602/RosetteCalcagno.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,40 +49,41 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2026 Feb 13 0030 UTC
+:Issued: 2026 Feb 14 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Feb 13-Feb 15 2026 is 5.00 (NOAA Scale
+The greatest expected 3 hr Kp for Feb 14-Feb 16 2026 is 4.67 (NOAA Scale
 G1).
 
-NOAA Kp index breakdown Feb 13-Feb 15 2026
+NOAA Kp index breakdown Feb 14-Feb 16 2026
 
-             Feb 13       Feb 14       Feb 15
-00-03UT       1.67         3.00         3.67     
-03-06UT       1.33         2.67         2.67     
-06-09UT       1.33         2.00         2.67     
-09-12UT       1.33         2.67         2.33     
-12-15UT       1.33         2.00         2.33     
-15-18UT       1.33         2.67         2.33     
-18-21UT       1.67         2.67         4.67 (G1)
-21-00UT       1.67         3.00         5.00 (G1)
+             Feb 14       Feb 15       Feb 16
+00-03UT       3.00         2.67         4.67 (G1)
+03-06UT       2.67         4.33         4.33     
+06-09UT       2.00         2.67         4.00     
+09-12UT       2.67         3.33         3.00     
+12-15UT       2.00         4.33         2.67     
+15-18UT       2.67         4.67 (G1)    1.67     
+18-21UT       2.67         3.33         2.67     
+21-00UT       3.67         4.67 (G1)    3.33     
 
-Rationale: G1 (Minor) geomagnetic storms are likely on 15 Feb due to
-combined potential from a recurrent coronal hole and a passing coronal
-mass ejection.
+Rationale: Periods of G1 (Minor) storming conditions are likely on 15-16
+Feb, with a chance for isolated G2 (Moderate) storming on 15 Feb, due to
+CIR/CH HSS effects and potential weak CME interactions as CMEs from 11
+and 13 Feb pass in close proximity.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Feb 13-Feb 15 2026
+Solar Radiation Storm Forecast for Feb 14-Feb 16 2026
 
-              Feb 13  Feb 14  Feb 15
+              Feb 14  Feb 15  Feb 16
 S1 or greater    1%      1%      1%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -92,16 +93,15 @@ production is forecast.
 C. NOAA Radio Blackout Activity and Forecast
 
 Radio blackouts reaching the R1 levels were observed over the past 24
-hours. The largest was at Feb 12 2026 0240 UTC.
+hours. The largest was at Feb 13 2026 0858 UTC.
 
-Radio Blackout Forecast for Feb 13-Feb 15 2026
+Radio Blackout Forecast for Feb 14-Feb 16 2026
 
-              Feb 13        Feb 14        Feb 15
+              Feb 14        Feb 15        Feb 16
 R1-R2           10%           10%           10%
-R3 or greater    5%            5%            5%
+R3 or greater    1%            1%            1%
 
-Rationale: There exists a slight chance for R1-R2 (Minor) radio
-blackouts over 13-15 Feb due to the flare potential of multiple active
-regions on the Suns visible disk.
+Rationale:  There is a slight chance for R1-R2 (Minor-Moderate) radio
+blackouts through 16 Feb.
 
 ```
