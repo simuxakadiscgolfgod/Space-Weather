@@ -1,11 +1,10 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2026-02-14
-<br />**This image is owned by:**  Keighley Rockcliffe
-<br />**Title of the image:**  Roses are Red
-<br />**Description for the image:**  Roses are red, nebulas are too, and this Valentine's gift is a stunning view! Pictured is a loving look at the Rosette Nebula (NGC 2237): a cosmic bloom of bright young stars sitting atop a stem of glowing hot gas. The rose’s blue-white speckles are among the most luminous stars in the galaxy, with some burning millions of times brighter than the Sun. Their stellar winds sculpt the famed rose shape by pushing gas and dust away from the center. Though only a few million years old, these massive stars are already nearing the end of their lives, while dimmer stars embedded in the nebula will burn for billions of years to come. The vibrant red hue comes from hydrogen gas, ionized by the ultraviolet light from the young stars. The rose’s blue-white center is color-mapped to indicate the presence of similarly ionized oxygen. The Rosette Nebula reminds us of the beauty and transformation woven into the fabric of the universe.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2602/RosetteCalcagno.jpg
+<br />**Date image released:**  2026-02-15
+<br />**Title of the image:**  To Fly Free in Space
+<br />**Description for the image:**  What would it be like to fly free in space?  About 100 meters from the cargo bay of a space shuttle, Bruce McCandless II was living the dream -- floating farther out than anyone had ever been before.  Guided by a Manned Maneuvering Unit (MMU), astronaut McCandless, pictured, was floating free in space. During Space Shuttle mission 41-B in 1984,  McCandless and fellow NASA astronaut Robert Stewart were the first to experience such an "untethered space walk". The MMU worked by shooting jets of nitrogen and was used to help deploy and retrieve satellites.  With a mass over 140 kilograms, an MMU is heavy on Earth, but, like everything, is weightless when drifting in orbit. The MMU was later replaced with the SAFER backpack propulsion unit.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2602/freeflyer_nasa_3000.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,41 +48,41 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2026 Feb 14 0030 UTC
+:Issued: 2026 Feb 15 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Feb 14-Feb 16 2026 is 4.67 (NOAA Scale
+The greatest expected 3 hr Kp for Feb 15-Feb 17 2026 is 4.67 (NOAA Scale
 G1).
 
-NOAA Kp index breakdown Feb 14-Feb 16 2026
+NOAA Kp index breakdown Feb 15-Feb 17 2026
 
-             Feb 14       Feb 15       Feb 16
-00-03UT       3.00         2.67         4.67 (G1)
-03-06UT       2.67         4.33         4.33     
-06-09UT       2.00         2.67         4.00     
-09-12UT       2.67         3.33         3.00     
-12-15UT       2.00         4.33         2.67     
-15-18UT       2.67         4.67 (G1)    1.67     
-18-21UT       2.67         3.33         2.67     
-21-00UT       3.67         4.67 (G1)    3.33     
+             Feb 15       Feb 16       Feb 17
+00-03UT       2.67         4.67 (G1)    2.67     
+03-06UT       4.33         4.33         3.67     
+06-09UT       2.67         4.00         3.00     
+09-12UT       3.33         3.00         2.67     
+12-15UT       3.67         2.67         2.67     
+15-18UT       4.67 (G1)    1.67         1.67     
+18-21UT       3.67         2.67         1.67     
+21-00UT       4.67 (G1)    3.33         2.67     
 
-Rationale: Periods of G1 (Minor) storming conditions are likely on 15-16
-Feb, with a chance for isolated G2 (Moderate) storming on 15 Feb, due to
-CIR/CH HSS effects and potential weak CME interactions as CMEs from 11
-and 13 Feb pass in close proximity.
+Rationale: Periods of G1 (Minor) storming are likely on 15-16 Feb, with
+a chance for isolated G2 (Moderate) storming on 15 Feb, due to positive
+polarity CH HSS influences. Weak CME enhancements are possible on 15 Feb
+as a CME from 11 Feb passes in close proximity.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Feb 14-Feb 16 2026
+Solar Radiation Storm Forecast for Feb 15-Feb 17 2026
 
-              Feb 14  Feb 15  Feb 16
+              Feb 15  Feb 16  Feb 17
 S1 or greater    1%      1%      1%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -92,16 +91,15 @@ production is forecast.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-Radio blackouts reaching the R1 levels were observed over the past 24
-hours. The largest was at Feb 13 2026 0858 UTC.
+No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Feb 14-Feb 16 2026
+Radio Blackout Forecast for Feb 15-Feb 17 2026
 
-              Feb 14        Feb 15        Feb 16
+              Feb 15        Feb 16        Feb 17
 R1-R2           10%           10%           10%
 R3 or greater    1%            1%            1%
 
-Rationale:  There is a slight chance for R1-R2 (Minor-Moderate) radio
-blackouts through 16 Feb.
+Rationale: There is a slight chance for R1-R2 (Minor-Moderate) radio
+blackouts through 17 Feb.
 
 ```
