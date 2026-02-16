@@ -1,10 +1,10 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2026-02-15
-<br />**Title of the image:**  To Fly Free in Space
-<br />**Description for the image:**  What would it be like to fly free in space?  About 100 meters from the cargo bay of a space shuttle, Bruce McCandless II was living the dream -- floating farther out than anyone had ever been before.  Guided by a Manned Maneuvering Unit (MMU), astronaut McCandless, pictured, was floating free in space. During Space Shuttle mission 41-B in 1984,  McCandless and fellow NASA astronaut Robert Stewart were the first to experience such an "untethered space walk". The MMU worked by shooting jets of nitrogen and was used to help deploy and retrieve satellites.  With a mass over 140 kilograms, an MMU is heavy on Earth, but, like everything, is weightless when drifting in orbit. The MMU was later replaced with the SAFER backpack propulsion unit.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2602/freeflyer_nasa_3000.jpg
+<br />**Date image released:**  2026-02-16
+<br />**Title of the image:**  Unexplained Shocks Around a White Dwarf Star
+<br />**Description for the image:**  How is RXJ0528+2838 creating such shock waves?  A recently discovered white dwarf star, the farther left of the two largest white spots, RXJ0528+2838, was found 730 light-years away from Earth.  Most stars, when done fusing nuclei in their cores for energy, become red giant stars, the cores of which live on as faint dense white dwarfs that slowly cool down for the rest of time.  White dwarfs are so dense that the only thing that stops them from collapsing further is quantum mechanics. In about 5 billion years, our Sun will become a white dwarf, too.  The featured image, obtained with the European Southern Observatory’s Very Large Telescope, shows unexplained bow shocks around RXJ0528+2838, similar to the bow wave of water around a fast-moving ship. Astronomers don’t yet know what is powering these shocks, which have existed for at least 1,000 years.  The red, green and blue colors represent trace amounts of glowing hydrogen, nitrogen and oxygen gas.    Open Science: Browse 3,900+ codes in the Astrophysics Source Code Library
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2602/WhiteDwarfShock_VLT_960.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -48,41 +48,41 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2026 Feb 15 0030 UTC
+:Issued: 2026 Feb 16 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
-Scale levels).
-The greatest expected 3 hr Kp for Feb 15-Feb 17 2026 is 4.67 (NOAA Scale
+The greatest observed 3 hr Kp over the past 24 hours was 5 (NOAA Scale
+G1).
+The greatest expected 3 hr Kp for Feb 16-Feb 18 2026 is 4.67 (NOAA Scale
 G1).
 
-NOAA Kp index breakdown Feb 15-Feb 17 2026
+NOAA Kp index breakdown Feb 16-Feb 18 2026
 
-             Feb 15       Feb 16       Feb 17
-00-03UT       2.67         4.67 (G1)    2.67     
-03-06UT       4.33         4.33         3.67     
-06-09UT       2.67         4.00         3.00     
-09-12UT       3.33         3.00         2.67     
-12-15UT       3.67         2.67         2.67     
-15-18UT       4.67 (G1)    1.67         1.67     
-18-21UT       3.67         2.67         1.67     
-21-00UT       4.67 (G1)    3.33         2.67     
+             Feb 16       Feb 17       Feb 18
+00-03UT       4.67 (G1)    3.67         2.67     
+03-06UT       4.33         3.67         2.67     
+06-09UT       3.67         2.67         2.67     
+09-12UT       3.33         2.67         2.00     
+12-15UT       2.33         2.00         2.00     
+15-18UT       2.67         1.67         0.67     
+18-21UT       2.67         1.67         2.33     
+21-00UT       3.33         2.67         3.00     
 
-Rationale: Periods of G1 (Minor) storming are likely on 15-16 Feb, with
-a chance for isolated G2 (Moderate) storming on 15 Feb, due to positive
-polarity CH HSS influences. Weak CME enhancements are possible on 15 Feb
-as a CME from 11 Feb passes in close proximity.
+Rationale: Isolated periods of G1 (Minor-Moderate) geomagnetic storming
+are likely on 16 Feb due to positive polarity CH HSS influences with
+potential weak CME enhancements as a CME from 13 Feb might pass in close
+proximity.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Feb 15-Feb 17 2026
+Solar Radiation Storm Forecast for Feb 16-Feb 18 2026
 
-              Feb 15  Feb 16  Feb 17
+              Feb 16  Feb 17  Feb 18
 S1 or greater    1%      1%      1%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -93,13 +93,13 @@ C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Feb 15-Feb 17 2026
+Radio Blackout Forecast for Feb 16-Feb 18 2026
 
-              Feb 15        Feb 16        Feb 17
-R1-R2           10%           10%           10%
+              Feb 16        Feb 17        Feb 18
+R1-R2            5%            5%            5%
 R3 or greater    1%            1%            1%
 
-Rationale: There is a slight chance for R1-R2 (Minor-Moderate) radio
-blackouts through 17 Feb.
+Rationale: No R1 (Minor) or greater radio blackouts are expected.  No
+significant active region flare activity is forecast.
 
 ```
