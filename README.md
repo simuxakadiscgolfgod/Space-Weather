@@ -1,10 +1,19 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2026-02-16
-<br />**Title of the image:**  Unexplained Shocks Around a White Dwarf Star
-<br />**Description for the image:**  How is RXJ0528+2838 creating such shock waves?  A recently discovered white dwarf star, the farther left of the two largest white spots, RXJ0528+2838, was found 730 light-years away from Earth.  Most stars, when done fusing nuclei in their cores for energy, become red giant stars, the cores of which live on as faint dense white dwarfs that slowly cool down for the rest of time.  White dwarfs are so dense that the only thing that stops them from collapsing further is quantum mechanics. In about 5 billion years, our Sun will become a white dwarf, too.  The featured image, obtained with the European Southern Observatory’s Very Large Telescope, shows unexplained bow shocks around RXJ0528+2838, similar to the bow wave of water around a fast-moving ship. Astronomers don’t yet know what is powering these shocks, which have existed for at least 1,000 years.  The red, green and blue colors represent trace amounts of glowing hydrogen, nitrogen and oxygen gas.    Open Science: Browse 3,900+ codes in the Astrophysics Source Code Library
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2602/WhiteDwarfShock_VLT_960.jpg
+<br />**Date image released:**  2026-02-17
+<br />**This image is owned by:**  
+José J. Chambó; 
+ Text: 
+Cecilia Chirenti 
+(NASA
+GSFC, 
+UMCP, 
+CRESST II)
+
+<br />**Title of the image:**  Tails of Comet Wierzchoś
+<br />**Description for the image:**  Some comets are regular guests of our solar neighborhood; others come by only once, never to return.  We won’t have another chance to see Comet C/2024 E1 (Wierzchoś), which is currently making its way through the inner Solar System.  The hyperbolic orbit of this comet indicates that it will likely become an interstellar traveler.  Comet Wierzchoś is today near its closest approach to the Earth, passing roughly the same distance from the Earth as is the Sun.  The featured 30-minute exposure was taken last week in Chile and shows a 5-degree long ion tail as well as three shorter dust tails.  The green hue of the coma comes from the breakdown of dicarbon molecules by sunlight, but that process does not last long enough to also tinge the tails.  On the far right lies a spiral galaxy far in the distance: NGC 300.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2602/Wierzchos_Chabo_1280.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -48,41 +57,39 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2026 Feb 16 0030 UTC
+:Issued: 2026 Feb 17 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 5 (NOAA Scale
-G1).
-The greatest expected 3 hr Kp for Feb 16-Feb 18 2026 is 4.67 (NOAA Scale
-G1).
+The greatest observed 3 hr Kp over the past 24 hours was 6 (NOAA Scale
+G2).
+The greatest expected 3 hr Kp for Feb 17-Feb 19 2026 is 5.67 (NOAA Scale
+G2).
 
-NOAA Kp index breakdown Feb 16-Feb 18 2026
+NOAA Kp index breakdown Feb 17-Feb 19 2026
 
-             Feb 16       Feb 17       Feb 18
-00-03UT       4.67 (G1)    3.67         2.67     
-03-06UT       4.33         3.67         2.67     
-06-09UT       3.67         2.67         2.67     
-09-12UT       3.33         2.67         2.00     
-12-15UT       2.33         2.00         2.00     
-15-18UT       2.67         1.67         0.67     
-18-21UT       2.67         1.67         2.33     
-21-00UT       3.33         2.67         3.00     
+             Feb 17       Feb 18       Feb 19
+00-03UT       5.67 (G2)    2.67         2.67     
+03-06UT       4.33         2.67         3.33     
+06-09UT       4.67 (G1)    2.67         2.00     
+09-12UT       4.33         2.00         2.33     
+12-15UT       3.00         2.00         1.67     
+15-18UT       3.00         0.67         2.00     
+18-21UT       1.67         2.33         2.33     
+21-00UT       2.67         3.00         2.67     
 
-Rationale: Isolated periods of G1 (Minor-Moderate) geomagnetic storming
-are likely on 16 Feb due to positive polarity CH HSS influences with
-potential weak CME enhancements as a CME from 13 Feb might pass in close
-proximity.
+Rationale: G1-G2 (Minor-Moderate) geomagnetic storms are likely early on
+17 Feb due to persistent CH HSS influences.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Feb 16-Feb 18 2026
+Solar Radiation Storm Forecast for Feb 17-Feb 19 2026
 
-              Feb 16  Feb 17  Feb 18
+              Feb 17  Feb 18  Feb 19
 S1 or greater    1%      1%      1%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -91,15 +98,16 @@ production is forecast.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-No radio blackouts were observed over the past 24 hours.
+Radio blackouts reaching the R1 levels were observed over the past 24
+hours. The largest was at Feb 16 2026 0435 UTC.
 
-Radio Blackout Forecast for Feb 16-Feb 18 2026
+Radio Blackout Forecast for Feb 17-Feb 19 2026
 
-              Feb 16        Feb 17        Feb 18
-R1-R2            5%            5%            5%
+              Feb 17        Feb 18        Feb 19
+R1-R2           10%           10%           10%
 R3 or greater    1%            1%            1%
 
-Rationale: No R1 (Minor) or greater radio blackouts are expected.  No
-significant active region flare activity is forecast.
+Rationale: There is a slight chance for R1-R2 (Minor-Moderate) radio
+blackouts through 19 Feb.
 
 ```
