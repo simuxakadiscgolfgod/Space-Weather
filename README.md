@@ -1,19 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2026-02-17
-<br />**This image is owned by:**  
-José J. Chambó; 
- Text: 
-Cecilia Chirenti 
-(NASA
-GSFC, 
-UMCP, 
-CRESST II)
-
-<br />**Title of the image:**  Tails of Comet Wierzchoś
-<br />**Description for the image:**  Some comets are regular guests of our solar neighborhood; others come by only once, never to return.  We won’t have another chance to see Comet C/2024 E1 (Wierzchoś), which is currently making its way through the inner Solar System.  The hyperbolic orbit of this comet indicates that it will likely become an interstellar traveler.  Comet Wierzchoś is today near its closest approach to the Earth, passing roughly the same distance from the Earth as is the Sun.  The featured 30-minute exposure was taken last week in Chile and shows a 5-degree long ion tail as well as three shorter dust tails.  The green hue of the coma comes from the breakdown of dicarbon molecules by sunlight, but that process does not last long enough to also tinge the tails.  On the far right lies a spiral galaxy far in the distance: NGC 300.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2602/Wierzchos_Chabo_1280.jpg
+<br />**Date image released:**  2026-02-18
+<br />**This image is owned by:**  Piotr Czerski
+<br />**Title of the image:**  Orion's Cradle
+<br />**Description for the image:**  Cradled in red-glowing hydrogen gas, stars are being born in Orion.  These stellar nurseries lie at the edge of the giant Orion molecular cloud complex, some 1,500 light-years away.  This detailed view spans about 12 degrees across the center of the well-known constellation, with the Great Orion Nebula, the closest large star-forming region, visible toward the lower right.  The deep mosaic also includes, near the top center, the Flame Nebula and the Horsehead Nebula.  Image data acquired with a hydrogen-alpha filter adds other remarkable features to this wide-angle cosmic vista: pervasive tendrils of energized atomic hydrogen gas and portions of the surrounding Barnard's Loop. While the Orion Nebula and many stars in Orion are easy to see with the unaided eye, emission from the extensive interstellar gas is faint and much harder to record, even in telescopic views of the nebula-rich complex.   Sky Surprise: What picture did APOD feature on your birthday? (after 1995)
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2602/OrionBarnard_Czerski_3000.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -57,39 +49,39 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2026 Feb 17 0030 UTC
+:Issued: 2026 Feb 18 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 6 (NOAA Scale
-G2).
-The greatest expected 3 hr Kp for Feb 17-Feb 19 2026 is 5.67 (NOAA Scale
-G2).
+The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
+Scale levels).
+The greatest expected 3 hr Kp for Feb 18-Feb 20 2026 is 4.00 (below NOAA
+Scale levels).
 
-NOAA Kp index breakdown Feb 17-Feb 19 2026
+NOAA Kp index breakdown Feb 18-Feb 20 2026
 
-             Feb 17       Feb 18       Feb 19
-00-03UT       5.67 (G2)    2.67         2.67     
-03-06UT       4.33         2.67         3.33     
-06-09UT       4.67 (G1)    2.67         2.00     
-09-12UT       4.33         2.00         2.33     
-12-15UT       3.00         2.00         1.67     
-15-18UT       3.00         0.67         2.00     
-18-21UT       1.67         2.33         2.33     
-21-00UT       2.67         3.00         2.67     
+             Feb 18       Feb 19       Feb 20
+00-03UT       3.67         2.67         3.00     
+03-06UT       4.00         3.00         3.00     
+06-09UT       3.33         2.33         2.33     
+09-12UT       3.00         2.00         1.33     
+12-15UT       2.33         2.00         1.33     
+15-18UT       2.00         2.00         1.67     
+18-21UT       2.00         3.00         2.00     
+21-00UT       2.67         3.67         3.00     
 
-Rationale: G1-G2 (Minor-Moderate) geomagnetic storms are likely early on
-17 Feb due to persistent CH HSS influences.
+Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
+significant transient or recurrent solar wind features are forecast.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Feb 17-Feb 19 2026
+Solar Radiation Storm Forecast for Feb 18-Feb 20 2026
 
-              Feb 17  Feb 18  Feb 19
+              Feb 18  Feb 19  Feb 20
 S1 or greater    1%      1%      1%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -98,16 +90,15 @@ production is forecast.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-Radio blackouts reaching the R1 levels were observed over the past 24
-hours. The largest was at Feb 16 2026 0435 UTC.
+No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Feb 17-Feb 19 2026
+Radio Blackout Forecast for Feb 18-Feb 20 2026
 
-              Feb 17        Feb 18        Feb 19
+              Feb 18        Feb 19        Feb 20
 R1-R2           10%           10%           10%
 R3 or greater    1%            1%            1%
 
-Rationale: There is a slight chance for R1-R2 (Minor-Moderate) radio
-blackouts through 19 Feb.
+Rationale: Solar activity is expected to be at low levels, with a slight
+chance for M-class (R1-R2/Minor-Moderate) flares through 19 Feb.
 
 ```
