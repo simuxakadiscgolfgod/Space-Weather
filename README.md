@@ -1,11 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2026-02-18
-<br />**This image is owned by:**  Piotr Czerski
-<br />**Title of the image:**  Orion's Cradle
-<br />**Description for the image:**  Cradled in red-glowing hydrogen gas, stars are being born in Orion.  These stellar nurseries lie at the edge of the giant Orion molecular cloud complex, some 1,500 light-years away.  This detailed view spans about 12 degrees across the center of the well-known constellation, with the Great Orion Nebula, the closest large star-forming region, visible toward the lower right.  The deep mosaic also includes, near the top center, the Flame Nebula and the Horsehead Nebula.  Image data acquired with a hydrogen-alpha filter adds other remarkable features to this wide-angle cosmic vista: pervasive tendrils of energized atomic hydrogen gas and portions of the surrounding Barnard's Loop. While the Orion Nebula and many stars in Orion are easy to see with the unaided eye, emission from the extensive interstellar gas is faint and much harder to record, even in telescopic views of the nebula-rich complex.   Sky Surprise: What picture did APOD feature on your birthday? (after 1995)
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2602/OrionBarnard_Czerski_3000.jpg
+<br />**Date image released:**  2026-02-19
+<br />**This image is owned by:**  Dane Vetter
+<br />**Title of the image:**  IC 2574: Coddington's Nebula
+<br />**Description for the image:**  Grand spiral galaxies often seem to get all the glory, flaunting their young, bright, blue star clusters in beautiful, symmetric spiral arms. But small, irregular galaxies form stars too. In fact, dwarf galaxy IC 2574 shows clear evidence of intense star forming activity in its telltale reddish regions of glowing hydrogen gas. Just as in spiral galaxies, the turbulent star-forming regions in IC 2574 are churned by stellar winds and supernova explosions spewing material into the galaxy's interstellar medium and triggering further star formation. A mere 12 million light-years distant, IC 2574 is part of the M81 group of galaxies, seen toward the northern constellation Ursa Major. Also known as Coddington's Nebula, the faint but intriguing island universe is about 50,000 light-years across, discovered by American astronomer Edwin Coddington in 1898.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2602/IC2574Vetter.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,27 +49,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2026 Feb 18 0030 UTC
+:Issued: 2026 Feb 19 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Feb 18-Feb 20 2026 is 4.00 (below NOAA
+The greatest expected 3 hr Kp for Feb 19-Feb 21 2026 is 3.67 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Feb 18-Feb 20 2026
+NOAA Kp index breakdown Feb 19-Feb 21 2026
 
-             Feb 18       Feb 19       Feb 20
-00-03UT       3.67         2.67         3.00     
-03-06UT       4.00         3.00         3.00     
-06-09UT       3.33         2.33         2.33     
-09-12UT       3.00         2.00         1.33     
-12-15UT       2.33         2.00         1.33     
-15-18UT       2.00         2.00         1.67     
-18-21UT       2.00         3.00         2.00     
-21-00UT       2.67         3.67         3.00     
+             Feb 19       Feb 20       Feb 21
+00-03UT       3.33         3.00         2.33     
+03-06UT       3.67         3.00         1.67     
+06-09UT       2.00         2.33         1.33     
+09-12UT       2.33         1.33         0.67     
+12-15UT       2.33         1.33         1.00     
+15-18UT       2.00         1.67         0.67     
+18-21UT       3.00         2.00         1.33     
+21-00UT       3.67         3.00         2.00     
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
 significant transient or recurrent solar wind features are forecast.
@@ -79,9 +79,9 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Feb 18-Feb 20 2026
+Solar Radiation Storm Forecast for Feb 19-Feb 21 2026
 
-              Feb 18  Feb 19  Feb 20
+              Feb 19  Feb 20  Feb 21
 S1 or greater    1%      1%      1%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -92,13 +92,13 @@ C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Feb 18-Feb 20 2026
+Radio Blackout Forecast for Feb 19-Feb 21 2026
 
-              Feb 18        Feb 19        Feb 20
+              Feb 19        Feb 20        Feb 21
 R1-R2           10%           10%           10%
 R3 or greater    1%            1%            1%
 
 Rationale: Solar activity is expected to be at low levels, with a slight
-chance for M-class (R1-R2/Minor-Moderate) flares through 19 Feb.
+chance for M-class (R1-R2/Minor-Moderate) flares through 21 Feb.
 
 ```
