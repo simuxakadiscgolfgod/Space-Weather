@@ -1,18 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2026-02-20
-<br />**This image is owned by:**  Christian Bertincourt; 
-Text:
-Keighley Rockcliffe  
-(NASA
-GSFC, 
-UMBC
-CSST, 
-CRESST II)
-<br />**Title of the image:**  B93: A Dark Interstellar Ghost
-<br />**Description for the image:**  "A ghost in the Milky Way…” says Christian Bertincourt, the astrophotographer behind this striking image of Barnard 93 (B93).  The 93rd entry in Barnard’s Catalogue of Dark Nebulae, B93 lies within the Small Sagittarius Star Cloud (Messier 24), where its darkness stands in stark contrast to bright stars and gas in the background.  In some ways, B93 is really like a ghost, because it contains gas and dust that was dispersed by the deaths of stars, like supernovas.  B93 appears as a dark void not because it is empty, but because its dust blocks the light emitted by more distant stars and glowing gas.  Like other dark nebulas, some gas from B93, if dense and massive enough, will eventually gravitationally condense to form new stars.  If so, then once these stars ignite, B93 will transform from a dark ghost into a brilliant cradle of newborn stars.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2602/B93_bertincourt_1178.png
+<br />**Date image released:**  2026-02-21
+<br />**This image is owned by:**  Tunc Tezel
+<br />**Title of the image:**  Twilight with Moon and Planets
+<br />**Description for the image:**  Only two days after the February New Moon's annular eclipse of the Sun, a slender lunar crescent poses above the western horizon after sunset in this wintry twilight skyscape. Its nightside faintly illuminated by earthshine, the young Moon is joined by three bright planets in the mostly clear, early evening skies above the village of Kirazli, Turkiye. Inner planet Venus appears closest to the horizon. Near the beginning of its 2026 performance as planet Earth's evening star, brilliant Venus is seen through the warm sunset glare near picture center. Straight above Venus, innermost planet Mercury is easy to spot as it stands remarkably high above the horizon even as the twilight sky is growing dark. Outer planet Saturn, most distant of the naked-eye planets, is found just left of the Moon's sunlit crescent.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2602/20260219a.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -56,27 +49,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2026 Feb 20 0030 UTC
+:Issued: 2026 Feb 21 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Feb 20-Feb 22 2026 is 3.00 (below NOAA
+The greatest expected 3 hr Kp for Feb 21-Feb 23 2026 is 4.00 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Feb 20-Feb 22 2026
+NOAA Kp index breakdown Feb 21-Feb 23 2026
 
-             Feb 20       Feb 21       Feb 22
-00-03UT       2.33         2.33         1.67     
-03-06UT       2.00         1.67         1.33     
-06-09UT       1.67         1.33         1.33     
-09-12UT       1.33         0.67         1.33     
-12-15UT       1.33         1.00         1.67     
-15-18UT       2.33         0.67         1.33     
-18-21UT       2.67         1.33         1.33     
-21-00UT       3.00         2.00         1.67     
+             Feb 21       Feb 22       Feb 23
+00-03UT       2.67         1.67         2.33     
+03-06UT       3.00         1.33         2.00     
+06-09UT       2.33         1.33         2.33     
+09-12UT       3.67         1.33         2.33     
+12-15UT       2.00         1.67         2.33     
+15-18UT       1.67         1.33         3.33     
+18-21UT       0.67         1.33         3.67     
+21-00UT       0.67         1.67         4.00     
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
 significant transient or recurrent solar wind features are forecast.
@@ -86,9 +79,9 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Feb 20-Feb 22 2026
+Solar Radiation Storm Forecast for Feb 21-Feb 23 2026
 
-              Feb 20  Feb 21  Feb 22
+              Feb 21  Feb 22  Feb 23
 S1 or greater    1%      1%      1%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -99,13 +92,13 @@ C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Feb 20-Feb 22 2026
+Radio Blackout Forecast for Feb 21-Feb 23 2026
 
-              Feb 20        Feb 21        Feb 22
-R1-R2           10%           10%           10%
+              Feb 21        Feb 22        Feb 23
+R1-R2           10%           10%           20%
 R3 or greater    1%            1%            1%
 
-Rationale: There is a slight chance for R1-R2 (Minor-Moderate) radio
-blackouts through 22 Feb.
+Rationale: There exists a slight chance for R1-R2 (Minor-Moderate) radio
+blackouts over 21-23 Feb.
 
 ```
