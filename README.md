@@ -1,10 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2026-02-22
-<br />**Title of the image:**  Shadow of a Martian Robot
-<br />**Description for the image:**  What if you saw your shadow on Mars and it wasn't human?  Then you might be the Opportunity rover exploring Mars.  Opportunity explored the Red Planet from 2004 to 2018, finding evidence of ancient water, and sending breathtaking images across the inner Solar System.  Pictured here in 2004, Opportunity looks opposite the Sun into Endurance Crater and sees its own shadow.  Two wheels are visible on the lower left and right, while the floor and walls of the unusual crater are visible in the background.  Caught in a dust storm in 2018, Opportunity stopped responding, and NASA stopped trying to contact it in 2019 and declared the ground-breaking mission, originally planned for only 92 days, complete.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2602/marsshadow_opportunity_1024.jpg
+<br />**Date image released:**  2026-02-23
+<br />**This image is owned by:**  Kamil Fiedosiuk
+<br />**Title of the image:**  Pleiades: The Seven Sisters Star Cluster
+<br />**Description for the image:**  Have you ever seen the Pleiades star cluster? Even if you have, you probably have never seen it as large and clear as this. Perhaps the most famous star cluster on the sky, the bright stars of the Pleiades can be seen with the unaided eye even from the depths of a light-polluted city.  With a long exposure from a dark location, though, the dust cloud surrounding the Pleiades star cluster becomes very evident. The featured 18-hour exposure, taken from Bory Tucholskie, Poland covers a sky area several times the size of the full moon.  Also known as the Seven Sisters and M45, the Pleiades lies about 400 light years away toward the constellation of the Bull (Taurus).  A common legend with a modern twist is that one of the brighter stars faded since the cluster was named, leaving only six of the sister stars visible to the unaided eye. The actual number of Pleiades stars visible, however, may be more or less than seven, depending on the darkness of the surrounding sky and the clarity of the observer's eyesight.   Sky Surprise: What picture did APOD feature on your birthday? (after 1995)
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2602/Pleiades_Fiedosiuk_2200.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -48,39 +49,39 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2026 Feb 22 0030 UTC
+:Issued: 2026 Feb 23 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
-Scale levels).
-The greatest expected 3 hr Kp for Feb 22-Feb 24 2026 is 4.67 (NOAA Scale
+The greatest observed 3 hr Kp over the past 24 hours was 5 (NOAA Scale
+G1).
+The greatest expected 3 hr Kp for Feb 23-Feb 25 2026 is 4.67 (NOAA Scale
 G1).
 
-NOAA Kp index breakdown Feb 22-Feb 24 2026
+NOAA Kp index breakdown Feb 23-Feb 25 2026
 
-             Feb 22       Feb 23       Feb 24
-00-03UT       2.67         3.67         3.67     
-03-06UT       3.67         4.67 (G1)    3.67     
-06-09UT       2.67         3.67         2.67     
-09-12UT       1.67         3.67         2.67     
-12-15UT       2.67         2.67         2.00     
-15-18UT       2.67         2.67         1.67     
-18-21UT       3.67         2.67         1.67     
-21-00UT       3.67         3.67         2.67     
+             Feb 23       Feb 24       Feb 25
+00-03UT       3.67         3.67         2.67     
+03-06UT       4.67 (G1)    3.67         2.33     
+06-09UT       3.67         2.67         2.00     
+09-12UT       3.67         2.67         2.33     
+12-15UT       2.67         2.00         2.33     
+15-18UT       2.67         1.67         2.33     
+18-21UT       2.67         1.67         2.33     
+21-00UT       3.67         2.67         2.67     
 
-Rationale: G1 (Minor) geomagnetic storms are likely on 23 Feb due to
-effects from an anticipated coronal hole HSS.
+Rationale: G1 (Minor) geomagnetic storms are expected over 23 Feb due to
+effects from a negative polarity coronal hole.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Feb 22-Feb 24 2026
+Solar Radiation Storm Forecast for Feb 23-Feb 25 2026
 
-              Feb 22  Feb 23  Feb 24
+              Feb 23  Feb 24  Feb 25
 S1 or greater    1%      1%      1%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -91,13 +92,13 @@ C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Feb 22-Feb 24 2026
+Radio Blackout Forecast for Feb 23-Feb 25 2026
 
-              Feb 22        Feb 23        Feb 24
-R1-R2            5%           10%           10%
+              Feb 23        Feb 24        Feb 25
+R1-R2           10%           10%           10%
 R3 or greater    1%            1%            1%
 
-Rationale: There exists a slight chance for R1-R2 (Minor-Moderate) radio
-blackouts over 23-24 Feb.
+Rationale: There exists a slight chance for R1-R2(Minor-Moderate) radio
+blackouts over 23-25 Feb.
 
 ```
