@@ -1,11 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2026-02-23
-<br />**This image is owned by:**  Kamil Fiedosiuk
-<br />**Title of the image:**  Pleiades: The Seven Sisters Star Cluster
-<br />**Description for the image:**  Have you ever seen the Pleiades star cluster? Even if you have, you probably have never seen it as large and clear as this. Perhaps the most famous star cluster on the sky, the bright stars of the Pleiades can be seen with the unaided eye even from the depths of a light-polluted city.  With a long exposure from a dark location, though, the dust cloud surrounding the Pleiades star cluster becomes very evident. The featured 18-hour exposure, taken from Bory Tucholskie, Poland covers a sky area several times the size of the full moon.  Also known as the Seven Sisters and M45, the Pleiades lies about 400 light years away toward the constellation of the Bull (Taurus).  A common legend with a modern twist is that one of the brighter stars faded since the cluster was named, leaving only six of the sister stars visible to the unaided eye. The actual number of Pleiades stars visible, however, may be more or less than seven, depending on the darkness of the surrounding sky and the clarity of the observer's eyesight.   Sky Surprise: What picture did APOD feature on your birthday? (after 1995)
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2602/Pleiades_Fiedosiuk_2200.jpg
+<br />**Date image released:**  2026-02-24
+<br />**This image is owned by:**  Prasun Agrawal
+<br />**Title of the image:**  Planet Parade over Sydney Opera House
+<br />**Description for the image:**  Look up this week and see a whole bunch of planets.  Just after sunset, looking west (mostly), planets Mercury, Venus, Saturn, and Jupiter will all be visible to the unaided eye simultaneously.  If you have a telescope, planets Uranus and Neptune can also be seen.  In order up from the horizon, the lineup this week will be Venus (the brightest), Mercury, Saturn, Neptune, Uranus, and Jupiter (second brightest).  It doesn't matter where on Earth you live because this early evening planet parade will be visible through clear skies all around the globe.  The planets will appear to be nearly in a line because they all orbit the Sun in nearly the same plane: the ecliptic.  The featured image shows a similar planet parade that occurred in 2022, captured over the Sydney Opera House in southern Australia.  Although visible all week, the planets will be most easily seen together this weekend.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2602/PlanetParadeSydney_Agrawal_1663.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,56 +49,54 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2026 Feb 23 0030 UTC
+:Issued: 2026 Feb 24 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 5 (NOAA Scale
 G1).
-The greatest expected 3 hr Kp for Feb 23-Feb 25 2026 is 4.67 (NOAA Scale
+The greatest expected 3 hr Kp for Feb 24-Feb 26 2026 is 4.67 (NOAA Scale
 G1).
 
-NOAA Kp index breakdown Feb 23-Feb 25 2026
+NOAA Kp index breakdown Feb 24-Feb 26 2026
 
-             Feb 23       Feb 24       Feb 25
-00-03UT       3.67         3.67         2.67     
-03-06UT       4.67 (G1)    3.67         2.33     
-06-09UT       3.67         2.67         2.00     
-09-12UT       3.67         2.67         2.33     
-12-15UT       2.67         2.00         2.33     
-15-18UT       2.67         1.67         2.33     
-18-21UT       2.67         1.67         2.33     
-21-00UT       3.67         2.67         2.67     
+             Feb 24       Feb 25       Feb 26
+00-03UT       3.67         3.67         3.67     
+03-06UT       4.67 (G1)    3.67         3.67     
+06-09UT       3.33         3.33         3.00     
+09-12UT       3.67         3.33         3.00     
+12-15UT       3.67         3.33         3.00     
+15-18UT       3.67         3.33         3.33     
+18-21UT       3.67         3.67         3.00     
+21-00UT       3.67         3.67         3.33     
 
-Rationale: G1 (Minor) geomagnetic storms are expected over 23 Feb due to
-effects from a negative polarity coronal hole.
+Rationale: Isolated G1 (Minor) geomagnetic storming periods are possible
+on 24 Feb.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Feb 23-Feb 25 2026
+Solar Radiation Storm Forecast for Feb 24-Feb 26 2026
 
-              Feb 23  Feb 24  Feb 25
+              Feb 24  Feb 25  Feb 26
 S1 or greater    1%      1%      1%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
-No significant active region activity favorable for radiation storm
-production is forecast.
+
 
 C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Feb 23-Feb 25 2026
+Radio Blackout Forecast for Feb 24-Feb 26 2026
 
-              Feb 23        Feb 24        Feb 25
+              Feb 24        Feb 25        Feb 26
 R1-R2           10%           10%           10%
 R3 or greater    1%            1%            1%
 
-Rationale: There exists a slight chance for R1-R2(Minor-Moderate) radio
-blackouts over 23-25 Feb.
+Rationale: No R1 (Minor) or greater radio blackouts are expected. 
 
 ```
