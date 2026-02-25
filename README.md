@@ -1,11 +1,14 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2026-02-24
-<br />**This image is owned by:**  Prasun Agrawal
-<br />**Title of the image:**  Planet Parade over Sydney Opera House
-<br />**Description for the image:**  Look up this week and see a whole bunch of planets.  Just after sunset, looking west (mostly), planets Mercury, Venus, Saturn, and Jupiter will all be visible to the unaided eye simultaneously.  If you have a telescope, planets Uranus and Neptune can also be seen.  In order up from the horizon, the lineup this week will be Venus (the brightest), Mercury, Saturn, Neptune, Uranus, and Jupiter (second brightest).  It doesn't matter where on Earth you live because this early evening planet parade will be visible through clear skies all around the globe.  The planets will appear to be nearly in a line because they all orbit the Sun in nearly the same plane: the ecliptic.  The featured image shows a similar planet parade that occurred in 2022, captured over the Sydney Opera House in southern Australia.  Although visible all week, the planets will be most easily seen together this weekend.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2602/PlanetParadeSydney_Agrawal_1663.jpg
+<br />**Date image released:**  2026-02-25
+<br />**This image is owned by:**  ESA/Hubble & 
+NASA, 
+B. Balick 
+(U. Washington)
+<br />**Title of the image:**  The Egg Nebula from the Hubble Telescope
+<br />**Description for the image:**  ver wonder what it would look like to crack open the Sun?  The Egg Nebula, a dying Sun-like star, can unscramble this question.  Pictured is a combination of several visible and infrared images of the nebula (also known as RAFGL 2688 or CRL 2688) taken with the Hubble Space Telescope.  The star has shed its outer layers, and a bright, hot core (or "yolk") now illuminates the milky "egg white" shells of gas and dust surrounding the center.  The central lobes and rings are structures of gas and dust recently ejected into space, with the dust being dense enough to block our view of the stellar core.  Light beams emanate from that blocked core, escaping through holes carved in the older ejected material by newer, faster jets expelled from the star’s poles.  Astronomers are still trying to figure out what causes the disks, lobes, and jets during this short (only a few thousand years!) phase of the star’s evolution, making this an egg-cellent image to study!
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2602/Egg_Hubble_2048.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,54 +52,56 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2026 Feb 24 0030 UTC
+:Issued: 2026 Feb 25 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 5 (NOAA Scale
-G1).
-The greatest expected 3 hr Kp for Feb 24-Feb 26 2026 is 4.67 (NOAA Scale
-G1).
+The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
+Scale levels).
+The greatest expected 3 hr Kp for Feb 25-Feb 27 2026 is 3.67 (below NOAA
+Scale levels).
 
-NOAA Kp index breakdown Feb 24-Feb 26 2026
+NOAA Kp index breakdown Feb 25-Feb 27 2026
 
-             Feb 24       Feb 25       Feb 26
-00-03UT       3.67         3.67         3.67     
-03-06UT       4.67 (G1)    3.67         3.67     
-06-09UT       3.33         3.33         3.00     
-09-12UT       3.67         3.33         3.00     
-12-15UT       3.67         3.33         3.00     
-15-18UT       3.67         3.33         3.33     
-18-21UT       3.67         3.67         3.00     
-21-00UT       3.67         3.67         3.33     
+             Feb 25       Feb 26       Feb 27
+00-03UT       3.67         3.00         2.67     
+03-06UT       3.67         3.67         2.67     
+06-09UT       3.33         2.67         2.33     
+09-12UT       3.00         2.33         2.33     
+12-15UT       3.00         2.00         2.00     
+15-18UT       2.33         2.00         2.00     
+18-21UT       2.67         2.33         2.33     
+21-00UT       3.67         3.00         2.67     
 
-Rationale: Isolated G1 (Minor) geomagnetic storming periods are possible
-on 24 Feb.
+Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
+significant transient or recurrent solar wind features are forecast.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Feb 24-Feb 26 2026
+Solar Radiation Storm Forecast for Feb 25-Feb 27 2026
 
-              Feb 24  Feb 25  Feb 26
+              Feb 25  Feb 26  Feb 27
 S1 or greater    1%      1%      1%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
-
+No significant active region activity favorable for radiation storm
+production is forecast.
 
 C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Feb 24-Feb 26 2026
+Radio Blackout Forecast for Feb 25-Feb 27 2026
 
-              Feb 24        Feb 25        Feb 26
+              Feb 25        Feb 26        Feb 27
 R1-R2           10%           10%           10%
 R3 or greater    1%            1%            1%
 
-Rationale: No R1 (Minor) or greater radio blackouts are expected. 
+Rationale: There is a slight chance for R1-R2 (Minor-Moderate) radio
+blackouts through 27 Feb.
 
 ```
