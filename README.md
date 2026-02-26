@@ -1,14 +1,10 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2026-02-25
-<br />**This image is owned by:**  ESA/Hubble & 
-NASA, 
-B. Balick 
-(U. Washington)
-<br />**Title of the image:**  The Egg Nebula from the Hubble Telescope
-<br />**Description for the image:**  ver wonder what it would look like to crack open the Sun?  The Egg Nebula, a dying Sun-like star, can unscramble this question.  Pictured is a combination of several visible and infrared images of the nebula (also known as RAFGL 2688 or CRL 2688) taken with the Hubble Space Telescope.  The star has shed its outer layers, and a bright, hot core (or "yolk") now illuminates the milky "egg white" shells of gas and dust surrounding the center.  The central lobes and rings are structures of gas and dust recently ejected into space, with the dust being dense enough to block our view of the stellar core.  Light beams emanate from that blocked core, escaping through holes carved in the older ejected material by newer, faster jets expelled from the star’s poles.  Astronomers are still trying to figure out what causes the disks, lobes, and jets during this short (only a few thousand years!) phase of the star’s evolution, making this an egg-cellent image to study!
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2602/Egg_Hubble_2048.jpg
+<br />**Date image released:**  2026-02-26
+<br />**Title of the image:**  Webb and Hubble: IC 5332
+<br />**Description for the image:**  What does the universe look like through infrared goggles? Our eyes can only see visible light, but astronomers want to see more. Today’s APOD shows spiral galaxy IC 5332 as seen by two NASA telescopes: Webb in mid-infrared and Hubble in ultraviolet and visible light. To toggle between the two space-based views just slide your cursor over the image (or follow this link). The Hubble image highlights the spiral arms of the galaxy separated by dark regions, whereas the Webb image reveals a finer, more tangled structure. Interstellar dust scatters and absorbs light from the stars in the galaxy, causing the dark dust lanes in the Hubble image, and then emits heat in infrared light, so dust glows in this Webb image. The Mid-InfraRed Instrument on Webb needs to operate at a chilling temperature of -266ºC (or - 447ºF), otherwise it would detect infrared radiation from the telescope itself. Combining these observations, astronomers connect the “small scale” of gas and stars to the truly large scale of galactic structure and evolution.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2602/potm2209c.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -52,27 +48,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2026 Feb 25 0030 UTC
+:Issued: 2026 Feb 26 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Feb 25-Feb 27 2026 is 3.67 (below NOAA
+The greatest expected 3 hr Kp for Feb 26-Feb 28 2026 is 3.67 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Feb 25-Feb 27 2026
+NOAA Kp index breakdown Feb 26-Feb 28 2026
 
-             Feb 25       Feb 26       Feb 27
-00-03UT       3.67         3.00         2.67     
-03-06UT       3.67         3.67         2.67     
-06-09UT       3.33         2.67         2.33     
-09-12UT       3.00         2.33         2.33     
-12-15UT       3.00         2.00         2.00     
-15-18UT       2.33         2.00         2.00     
-18-21UT       2.67         2.33         2.33     
-21-00UT       3.67         3.00         2.67     
+             Feb 26       Feb 27       Feb 28
+00-03UT       3.67         2.67         2.33     
+03-06UT       3.67         2.67         2.00     
+06-09UT       2.67         2.33         2.00     
+09-12UT       2.33         2.33         2.00     
+12-15UT       2.00         2.00         2.00     
+15-18UT       2.00         2.00         2.00     
+18-21UT       2.33         2.33         2.00     
+21-00UT       3.00         2.67         2.33     
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
 significant transient or recurrent solar wind features are forecast.
@@ -82,9 +78,9 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Feb 25-Feb 27 2026
+Solar Radiation Storm Forecast for Feb 26-Feb 28 2026
 
-              Feb 25  Feb 26  Feb 27
+              Feb 26  Feb 27  Feb 28
 S1 or greater    1%      1%      1%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -93,15 +89,16 @@ production is forecast.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-No radio blackouts were observed over the past 24 hours.
+Radio blackouts reaching the R1 levels were observed over the past 24
+hours. The largest was at Feb 25 2026 1559 UTC.
 
-Radio Blackout Forecast for Feb 25-Feb 27 2026
+Radio Blackout Forecast for Feb 26-Feb 28 2026
 
-              Feb 25        Feb 26        Feb 27
-R1-R2           10%           10%           10%
-R3 or greater    1%            1%            1%
+              Feb 26        Feb 27        Feb 28
+R1-R2           50%           50%           50%
+R3 or greater    5%            5%            5%
 
-Rationale: There is a slight chance for R1-R2 (Minor-Moderate) radio
-blackouts through 27 Feb.
+Rationale: There is a high chance for R1-R2 (Minor-Moderate) radio
+blackouts through 28 Feb due to the flare potential of Region 4379.
 
 ```
