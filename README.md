@@ -1,10 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2026-02-26
-<br />**Title of the image:**  Webb and Hubble: IC 5332
-<br />**Description for the image:**  What does the universe look like through infrared goggles? Our eyes can only see visible light, but astronomers want to see more. Today’s APOD shows spiral galaxy IC 5332 as seen by two NASA telescopes: Webb in mid-infrared and Hubble in ultraviolet and visible light. To toggle between the two space-based views just slide your cursor over the image (or follow this link). The Hubble image highlights the spiral arms of the galaxy separated by dark regions, whereas the Webb image reveals a finer, more tangled structure. Interstellar dust scatters and absorbs light from the stars in the galaxy, causing the dark dust lanes in the Hubble image, and then emits heat in infrared light, so dust glows in this Webb image. The Mid-InfraRed Instrument on Webb needs to operate at a chilling temperature of -266ºC (or - 447ºF), otherwise it would detect infrared radiation from the telescope itself. Combining these observations, astronomers connect the “small scale” of gas and stars to the truly large scale of galactic structure and evolution.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2602/potm2209c.jpg
+<br />**Date image released:**  2026-02-28
+<br />**This image is owned by:**  Fabrizio Melandri
+<br />**Title of the image:**  Lunar Occultation of Mercury
+<br />**Description for the image:**  Fans of the western sky after sunset have lately enjoyed this month's remarkable array of bright planets. Witnessed from some locations, on February 18 planet Mercury even appeared to slide behind the Moon, an event known as a lunar occultation. These two snapshots, taken in early evening skies show before and after telescopic views of the rare disappearance of innermost planet behind young Moon. The top panel finds bright Mercury just visible at the northern (right) edge of the earthshine-illuminated lunar disk. In the bottom panel the bright planet has emerged in darker skies beyond the Moon's sunlit crescent. As seen south of Sallisaw, Oklahoma, planet Earth, this lunar occultation of Mercury lasted only about 3 minutes (video). But you can still check out a parade of planets tonight.  March 3: Total Lunar Eclipse
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2602/LunarOccultMercury_2026Feb18-Melandri.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -48,39 +49,38 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2026 Feb 26 0030 UTC
+:Issued: 2026 Feb 28 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Feb 26-Feb 28 2026 is 3.67 (below NOAA
+The greatest expected 3 hr Kp for Feb 28-Mar 02 2026 is 4.33 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Feb 26-Feb 28 2026
+NOAA Kp index breakdown Feb 28-Mar 02 2026
 
-             Feb 26       Feb 27       Feb 28
-00-03UT       3.67         2.67         2.33     
-03-06UT       3.67         2.67         2.00     
-06-09UT       2.67         2.33         2.00     
-09-12UT       2.33         2.33         2.00     
-12-15UT       2.00         2.00         2.00     
-15-18UT       2.00         2.00         2.00     
-18-21UT       2.33         2.33         2.00     
-21-00UT       3.00         2.67         2.33     
+             Feb 28       Mar 01       Mar 02
+00-03UT       3.00         3.33         3.33     
+03-06UT       2.67         4.33         3.67     
+06-09UT       1.67         4.00         3.00     
+09-12UT       1.67         3.00         2.67     
+12-15UT       1.33         2.67         3.00     
+15-18UT       1.00         2.67         3.00     
+18-21UT       2.67         3.00         3.33     
+21-00UT       3.33         3.00         3.00     
 
-Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
-significant transient or recurrent solar wind features are forecast.
+Rationale: No G1 (Minor) or greater geomagnetic storms are expected.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Feb 26-Feb 28 2026
+Solar Radiation Storm Forecast for Feb 28-Mar 02 2026
 
-              Feb 26  Feb 27  Feb 28
+              Feb 28  Mar 01  Mar 02
 S1 or greater    1%      1%      1%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -89,16 +89,15 @@ production is forecast.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-Radio blackouts reaching the R1 levels were observed over the past 24
-hours. The largest was at Feb 25 2026 1559 UTC.
+No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Feb 26-Feb 28 2026
+Radio Blackout Forecast for Feb 28-Mar 02 2026
 
-              Feb 26        Feb 27        Feb 28
-R1-R2           50%           50%           50%
+              Feb 28        Mar 01        Mar 02
+R1-R2           25%           25%           25%
 R3 or greater    5%            5%            5%
 
-Rationale: There is a high chance for R1-R2 (Minor-Moderate) radio
-blackouts through 28 Feb due to the flare potential of Region 4379.
+Rationale: There exists a chance for R1-R2 (Minor-Moderate) radio
+blackouts over 28 Feb - 02 Mar.
 
 ```
