@@ -1,11 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2026-02-28
-<br />**This image is owned by:**  Fabrizio Melandri
-<br />**Title of the image:**  Lunar Occultation of Mercury
-<br />**Description for the image:**  Fans of the western sky after sunset have lately enjoyed this month's remarkable array of bright planets. Witnessed from some locations, on February 18 planet Mercury even appeared to slide behind the Moon, an event known as a lunar occultation. These two snapshots, taken in early evening skies show before and after telescopic views of the rare disappearance of innermost planet behind young Moon. The top panel finds bright Mercury just visible at the northern (right) edge of the earthshine-illuminated lunar disk. In the bottom panel the bright planet has emerged in darker skies beyond the Moon's sunlit crescent. As seen south of Sallisaw, Oklahoma, planet Earth, this lunar occultation of Mercury lasted only about 3 minutes (video). But you can still check out a parade of planets tonight.  March 3: Total Lunar Eclipse
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2602/LunarOccultMercury_2026Feb18-Melandri.jpg
+<br />**Date image released:**  2026-03-02
+<br />**This image is owned by:**  Ignacio Fernández
+<br />**Title of the image:**  The Dusty Surroundings of Orion and the Pleiades
+<br />**Description for the image:**  How well do you know the night sky? OK, but how well can you identify famous sky objects in a very deep image? Either way, here is a test: see if you can find some well-known night-sky icons in a deep image filled with filaments of normally faint dust and gas.  This image contains the Pleiades star cluster, Barnard's Loop, Orion Nebula, Aldebaran, Betelgeuse, Witch Head Nebula, Eridanus Loop, and the California Nebula. To find their real locations, here is an annotated image version.  The reason this task might be difficult is similar to the reason it is initially hard to identify familiar constellations in a very dark sky: the tapestry of our night sky has an extremely deep hidden complexity.  The featured composite reveals some of this complexity in a 16 hours of sky exposure in dark skies over Granada, Spain.    Tonight: Total Lunar Eclipse
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2603/DustyOrionPleiades_Fernandez_5000.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,38 +49,38 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2026 Feb 28 0030 UTC
+:Issued: 2026 Mar 02 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Feb 28-Mar 02 2026 is 4.33 (below NOAA
+The greatest expected 3 hr Kp for Mar 02-Mar 04 2026 is 3.67 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Feb 28-Mar 02 2026
+NOAA Kp index breakdown Mar 02-Mar 04 2026
 
-             Feb 28       Mar 01       Mar 02
-00-03UT       3.00         3.33         3.33     
-03-06UT       2.67         4.33         3.67     
-06-09UT       1.67         4.00         3.00     
-09-12UT       1.67         3.00         2.67     
-12-15UT       1.33         2.67         3.00     
-15-18UT       1.00         2.67         3.00     
-18-21UT       2.67         3.00         3.33     
-21-00UT       3.33         3.00         3.00     
+             Mar 02       Mar 03       Mar 04
+00-03UT       2.67         3.33         2.33     
+03-06UT       2.33         3.67         2.67     
+06-09UT       2.00         2.67         2.33     
+09-12UT       2.00         2.00         2.33     
+12-15UT       2.00         2.00         2.00     
+15-18UT       2.33         2.33         2.00     
+18-21UT       3.00         2.67         2.00     
+21-00UT       3.00         2.67         2.00     
 
-Rationale: No G1 (Minor) or greater geomagnetic storms are expected.
+Rationale: No G1 (Minor) or greater geomagnetic storms are expected. 
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Feb 28-Mar 02 2026
+Solar Radiation Storm Forecast for Mar 02-Mar 04 2026
 
-              Feb 28  Mar 01  Mar 02
+              Mar 02  Mar 03  Mar 04
 S1 or greater    1%      1%      1%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -91,13 +91,13 @@ C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Feb 28-Mar 02 2026
+Radio Blackout Forecast for Mar 02-Mar 04 2026
 
-              Feb 28        Mar 01        Mar 02
+              Mar 02        Mar 03        Mar 04
 R1-R2           25%           25%           25%
 R3 or greater    5%            5%            5%
 
 Rationale: There exists a chance for R1-R2 (Minor-Moderate) radio
-blackouts over 28 Feb - 02 Mar.
+blackouts over 02-04 Mar.
 
 ```
