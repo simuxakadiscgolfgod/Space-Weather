@@ -1,11 +1,18 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2026-03-02
-<br />**This image is owned by:**  Ignacio Fernández
-<br />**Title of the image:**  The Dusty Surroundings of Orion and the Pleiades
-<br />**Description for the image:**  How well do you know the night sky? OK, but how well can you identify famous sky objects in a very deep image? Either way, here is a test: see if you can find some well-known night-sky icons in a deep image filled with filaments of normally faint dust and gas.  This image contains the Pleiades star cluster, Barnard's Loop, Orion Nebula, Aldebaran, Betelgeuse, Witch Head Nebula, Eridanus Loop, and the California Nebula. To find their real locations, here is an annotated image version.  The reason this task might be difficult is similar to the reason it is initially hard to identify familiar constellations in a very dark sky: the tapestry of our night sky has an extremely deep hidden complexity.  The featured composite reveals some of this complexity in a 16 hours of sky exposure in dark skies over Granada, Spain.    Tonight: Total Lunar Eclipse
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2603/DustyOrionPleiades_Fernandez_5000.jpg
+<br />**Date image released:**  2026-03-04
+<br />**This image is owned by:**  Peter Bresseler;
+Text:
+Keighley Rockcliffe  
+(NASA
+GSFC, 
+UMBC
+CSST, 
+CRESST II)
+<br />**Title of the image:**  Shapley 1: An Annular Planetary Nebula
+<br />**Description for the image:**  What’s looking back at you isn’t a cosmic eye, but Shapley 1, a beautifully symmetric planetary nebula.  Shapley 1, also known as the Fine Ring Nebula or PLN 329+2.1, bejewels the southern sky constellation of the Carpenter's Square  (Norma).  The nebula is the result of a star near the mass of our Sun running out of fuel and shedding its outer layers.  Glowing oxygen from those expelled layers makes up the circular halo.  The bright central point is actually a binary: a white dwarf, the remaining stellar core after the outer layers are expelled into space, and another star, orbiting each other every 2.9 days.  Shapley 1’s annular shape is due to our top-down view of the system and provides insight into the influence of central stars on planetary nebula structures.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2603/Shapley1_Bresseler_2092.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,55 +56,55 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2026 Mar 02 0030 UTC
+:Issued: 2026 Mar 04 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Mar 02-Mar 04 2026 is 3.67 (below NOAA
-Scale levels).
+The greatest expected 3 hr Kp for Mar 04-Mar 06 2026 is 4.67 (NOAA Scale
+G1).
 
-NOAA Kp index breakdown Mar 02-Mar 04 2026
+NOAA Kp index breakdown Mar 04-Mar 06 2026
 
-             Mar 02       Mar 03       Mar 04
-00-03UT       2.67         3.33         2.33     
-03-06UT       2.33         3.67         2.67     
-06-09UT       2.00         2.67         2.33     
-09-12UT       2.00         2.00         2.33     
-12-15UT       2.00         2.00         2.00     
-15-18UT       2.33         2.33         2.00     
-18-21UT       3.00         2.67         2.00     
-21-00UT       3.00         2.67         2.00     
+             Mar 04       Mar 05       Mar 06
+00-03UT       4.67 (G1)    2.33         4.33     
+03-06UT       3.67         2.33         4.33     
+06-09UT       2.67         1.00         3.33     
+09-12UT       1.67         1.33         3.33     
+12-15UT       0.67         1.00         3.00     
+15-18UT       0.67         2.33         2.67     
+18-21UT       1.67         2.33         3.00     
+21-00UT       2.00         3.33         4.33     
 
-Rationale: No G1 (Minor) or greater geomagnetic storms are expected. 
+Rationale: Isolated G1 (Minor) geomagnetic storms are possible on 04 Mar
+due to CH HSS influences.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Mar 02-Mar 04 2026
+Solar Radiation Storm Forecast for Mar 04-Mar 06 2026
 
-              Mar 02  Mar 03  Mar 04
+              Mar 04  Mar 05  Mar 06
 S1 or greater    1%      1%      1%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
-No significant active region activity favorable for radiation storm
-production is forecast.
+
 
 C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Mar 02-Mar 04 2026
+Radio Blackout Forecast for Mar 04-Mar 06 2026
 
-              Mar 02        Mar 03        Mar 04
+              Mar 04        Mar 05        Mar 06
 R1-R2           25%           25%           25%
 R3 or greater    5%            5%            5%
 
-Rationale: There exists a chance for R1-R2 (Minor-Moderate) radio
-blackouts over 02-04 Mar.
+Rationale: There is a chance for R1-R2 (Minor-Moderate) radio blackouts,
+with a slight chance for R3 (Strong) events, through 06 Mar.
 
 ```
