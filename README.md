@@ -1,18 +1,10 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2026-03-04
-<br />**This image is owned by:**  Peter Bresseler;
-Text:
-Keighley Rockcliffe  
-(NASA
-GSFC, 
-UMBC
-CSST, 
-CRESST II)
-<br />**Title of the image:**  Shapley 1: An Annular Planetary Nebula
-<br />**Description for the image:**  What’s looking back at you isn’t a cosmic eye, but Shapley 1, a beautifully symmetric planetary nebula.  Shapley 1, also known as the Fine Ring Nebula or PLN 329+2.1, bejewels the southern sky constellation of the Carpenter's Square  (Norma).  The nebula is the result of a star near the mass of our Sun running out of fuel and shedding its outer layers.  Glowing oxygen from those expelled layers makes up the circular halo.  The bright central point is actually a binary: a white dwarf, the remaining stellar core after the outer layers are expelled into space, and another star, orbiting each other every 2.9 days.  Shapley 1’s annular shape is due to our top-down view of the system and provides insight into the influence of central stars on planetary nebula structures.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2603/Shapley1_Bresseler_2092.jpg
+<br />**Date image released:**  2026-03-06
+<br />**Title of the image:**  The Astrosphere of HD 61005
+<br />**Description for the image:**  Do young stars blow bubbles? The larger view shows a stellar field observed with the Cerro Tololo Inter-American Observatory in Chile, and the inset highlights HD 61005, a star like our Sun, only 120 light-years away. Much younger than the Sun, at just about 100 million years old, it blows a fast and dense stellar wind that pushes out the cooler dust and gas that surrounds it, forming a bubble called an astrosphere. The star-blown bubble was detected with the Chandra X-ray Observatory, and it has a diameter roughly 200 times the Earth-Sun distance.  Our Sun has a bubble too, called the heliosphere, which protects the planets from cosmic radiation. Also shown in the inset is debris left behind from star formation, observed by Hubble. The debris appears as wings, giving the star its nickname: the Moth.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2603/astrosphere_labeled_1024.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -56,39 +48,40 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2026 Mar 04 0030 UTC
+:Issued: 2026 Mar 06 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Mar 04-Mar 06 2026 is 4.67 (NOAA Scale
+The greatest expected 3 hr Kp for Mar 06-Mar 08 2026 is 4.67 (NOAA Scale
 G1).
 
-NOAA Kp index breakdown Mar 04-Mar 06 2026
+NOAA Kp index breakdown Mar 06-Mar 08 2026
 
-             Mar 04       Mar 05       Mar 06
-00-03UT       4.67 (G1)    2.33         4.33     
-03-06UT       3.67         2.33         4.33     
-06-09UT       2.67         1.00         3.33     
-09-12UT       1.67         1.33         3.33     
-12-15UT       0.67         1.00         3.00     
-15-18UT       0.67         2.33         2.67     
-18-21UT       1.67         2.33         3.00     
-21-00UT       2.00         3.33         4.33     
+             Mar 06       Mar 07       Mar 08
+00-03UT       2.00         3.67         4.00     
+03-06UT       2.33         3.33         2.00     
+06-09UT       3.33         2.00         2.00     
+09-12UT       3.33         1.67         2.00     
+12-15UT       3.67         3.00         2.67     
+15-18UT       4.00         3.33         2.67     
+18-21UT       4.67 (G1)    3.67         2.67     
+21-00UT       4.33         3.33         3.00     
 
-Rationale: Isolated G1 (Minor) geomagnetic storms are possible on 04 Mar
-due to CH HSS influences.
+Rationale: Isolated G1 (Minor) geomagnetic storms are possible on 06 Mar
+due to the anticipated arrival of a CIR associated with a negative
+polarity coronal hole high speed stream.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Mar 04-Mar 06 2026
+Solar Radiation Storm Forecast for Mar 06-Mar 08 2026
 
-              Mar 04  Mar 05  Mar 06
+              Mar 06  Mar 07  Mar 08
 S1 or greater    1%      1%      1%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -98,13 +91,13 @@ C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Mar 04-Mar 06 2026
+Radio Blackout Forecast for Mar 06-Mar 08 2026
 
-              Mar 04        Mar 05        Mar 06
-R1-R2           25%           25%           25%
-R3 or greater    5%            5%            5%
+              Mar 06        Mar 07        Mar 08
+R1-R2           20%           20%           20%
+R3 or greater    1%            1%            1%
 
-Rationale: There is a chance for R1-R2 (Minor-Moderate) radio blackouts,
-with a slight chance for R3 (Strong) events, through 06 Mar.
+Rationale: There is a slight chance for R1-R2 (Minor-Moderate) radio
+blackouts through 08 Mar.
 
 ```

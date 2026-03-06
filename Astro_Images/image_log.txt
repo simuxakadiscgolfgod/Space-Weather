@@ -1,12 +1,4 @@
-<br />**Date image released:**  2026-03-04
-<br />**This image is owned by:**  Peter Bresseler;
-Text:
-Keighley Rockcliffe  
-(NASA
-GSFC, 
-UMBC
-CSST, 
-CRESST II)
-<br />**Title of the image:**  Shapley 1: An Annular Planetary Nebula
-<br />**Description for the image:**  What’s looking back at you isn’t a cosmic eye, but Shapley 1, a beautifully symmetric planetary nebula.  Shapley 1, also known as the Fine Ring Nebula or PLN 329+2.1, bejewels the southern sky constellation of the Carpenter's Square  (Norma).  The nebula is the result of a star near the mass of our Sun running out of fuel and shedding its outer layers.  Glowing oxygen from those expelled layers makes up the circular halo.  The bright central point is actually a binary: a white dwarf, the remaining stellar core after the outer layers are expelled into space, and another star, orbiting each other every 2.9 days.  Shapley 1’s annular shape is due to our top-down view of the system and provides insight into the influence of central stars on planetary nebula structures.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2603/Shapley1_Bresseler_2092.jpg
+<br />**Date image released:**  2026-03-06
+<br />**Title of the image:**  The Astrosphere of HD 61005
+<br />**Description for the image:**  Do young stars blow bubbles? The larger view shows a stellar field observed with the Cerro Tololo Inter-American Observatory in Chile, and the inset highlights HD 61005, a star like our Sun, only 120 light-years away. Much younger than the Sun, at just about 100 million years old, it blows a fast and dense stellar wind that pushes out the cooler dust and gas that surrounds it, forming a bubble called an astrosphere. The star-blown bubble was detected with the Chandra X-ray Observatory, and it has a diameter roughly 200 times the Earth-Sun distance.  Our Sun has a bubble too, called the heliosphere, which protects the planets from cosmic radiation. Also shown in the inset is debris left behind from star formation, observed by Hubble. The debris appears as wings, giving the star its nickname: the Moth.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2603/astrosphere_labeled_1024.jpg
