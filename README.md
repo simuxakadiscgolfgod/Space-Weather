@@ -1,10 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2026-03-06
-<br />**Title of the image:**  The Astrosphere of HD 61005
-<br />**Description for the image:**  Do young stars blow bubbles? The larger view shows a stellar field observed with the Cerro Tololo Inter-American Observatory in Chile, and the inset highlights HD 61005, a star like our Sun, only 120 light-years away. Much younger than the Sun, at just about 100 million years old, it blows a fast and dense stellar wind that pushes out the cooler dust and gas that surrounds it, forming a bubble called an astrosphere. The star-blown bubble was detected with the Chandra X-ray Observatory, and it has a diameter roughly 200 times the Earth-Sun distance.  Our Sun has a bubble too, called the heliosphere, which protects the planets from cosmic radiation. Also shown in the inset is debris left behind from star formation, observed by Hubble. The debris appears as wings, giving the star its nickname: the Moth.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2603/astrosphere_labeled_1024.jpg
+<br />**Date image released:**  2026-03-07
+<br />**This image is owned by:**  Tunc Tezel
+<br />**Title of the image:**  Two Eclipses of Saros 133
+<br />**Description for the image:**  Centered on maximum eclipse, these two total lunar eclipse sequences look almost identical. Yet the one shown on top is composed of images recorded in February 2008, while at the bottom is the recent March 2026 total eclipse of the Moon. Why are they so similar? Because these two total lunar eclipses are from the same Saros cycle. The Saros cycle was discovered historically from observations of the Moon's orbit. With a period of 18 years, 11 and 1/3 days, the cycle predicts when the Sun, Earth, and Moon all return to the same relative geometry for a lunar (or solar) eclipse. Eclipses separated by one Saros period belong to the same numbered Saros series, in this case Saros 133. So expect the next lunar eclipse in Saros 133 to be a repeat of this year's March 3 eclipse. You can watch the next Saros 133 total lunar eclipse on March 13, 2044.   Growing Gallery: Total Lunar Eclipse of March 3
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2603/Two_Eclipses_Horalek_Tezel_1200px.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -48,56 +49,56 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2026 Mar 06 0030 UTC
+:Issued: 2026 Mar 07 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Mar 06-Mar 08 2026 is 4.67 (NOAA Scale
-G1).
+The greatest expected 3 hr Kp for Mar 07-Mar 09 2026 is 3.67 (below NOAA
+Scale levels).
 
-NOAA Kp index breakdown Mar 06-Mar 08 2026
+NOAA Kp index breakdown Mar 07-Mar 09 2026
 
-             Mar 06       Mar 07       Mar 08
-00-03UT       2.00         3.67         4.00     
-03-06UT       2.33         3.33         2.00     
-06-09UT       3.33         2.00         2.00     
-09-12UT       3.33         1.67         2.00     
-12-15UT       3.67         3.00         2.67     
-15-18UT       4.00         3.33         2.67     
-18-21UT       4.67 (G1)    3.67         2.67     
-21-00UT       4.33         3.33         3.00     
+             Mar 07       Mar 08       Mar 09
+00-03UT       2.67         2.67         2.67     
+03-06UT       3.67         3.67         2.67     
+06-09UT       3.67         2.67         3.67     
+09-12UT       2.67         2.67         2.67     
+12-15UT       2.67         1.67         1.67     
+15-18UT       2.67         1.67         1.67     
+18-21UT       2.67         2.67         2.67     
+21-00UT       3.67         3.00         2.67     
 
-Rationale: Isolated G1 (Minor) geomagnetic storms are possible on 06 Mar
-due to the anticipated arrival of a CIR associated with a negative
-polarity coronal hole high speed stream.
+Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
+significant transient or recurrent solar wind features are forecast.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Mar 06-Mar 08 2026
+Solar Radiation Storm Forecast for Mar 07-Mar 09 2026
 
-              Mar 06  Mar 07  Mar 08
+              Mar 07  Mar 08  Mar 09
 S1 or greater    1%      1%      1%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
-
+No significant active region activity favorable for radiation storm
+production is forecast.
 
 C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Mar 06-Mar 08 2026
+Radio Blackout Forecast for Mar 07-Mar 09 2026
 
-              Mar 06        Mar 07        Mar 08
+              Mar 07        Mar 08        Mar 09
 R1-R2           20%           20%           20%
 R3 or greater    1%            1%            1%
 
 Rationale: There is a slight chance for R1-R2 (Minor-Moderate) radio
-blackouts through 08 Mar.
+blackouts through 09 Mar.
 
 ```
