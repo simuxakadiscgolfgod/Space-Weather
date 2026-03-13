@@ -1,11 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2026-03-11
-<br />**This image is owned by:**  William Vrbasso
-<br />**Title of the image:**  CG 4: The Globule and the Galaxy
-<br />**Description for the image:**  Is this a cosmic monster ready to devour an unsuspecting galaxy? Thankfully, that is not the case. The red “monster” shown in the featured image is Cometary Globule CG 4, 1,300 light-years away in the Constellation Puppis. CG 4 is a molecular cloud, where hydrogen becomes cold enough to form molecules that can be brought together by gravity to create stars. The shape of CG 4 resembles that of a comet, but its head is 1.5 light-year in diameter and its tail is 8 light-years long; for comparison, the distance from the Earth to the sun is only 8 light-minutes. Astronomers believe that the tail of a cometary globule could have been shaped by a nearby supernova explosion or by irradiation from hot, massive stars. Indeed, CG 4 and other nearby globules point away from the Vela Supernova Remnant, at the center of the Gum Nebula. The edge-on spiral galaxy, ESO 257-19, is more than a hundred million light-years beyond CG 4, and is completely safe from the “monster”.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2603/cg4.jpg
+<br />**Date image released:**  2026-03-13
+<br />**This image is owned by:**  Jason Perry
+<br />**Title of the image:**  Toolondo Totality Trails
+<br />**Description for the image:**  In this composited night skyscape, stacked exposures trace graceful star trails above Lake Toolondo, Victoria, Australia, planet Earth. Captured while the lunar eclipse of March 3 was in progress, the exposures used were made during the hour-long total eclipse phase. So faint star trails are easily visible along with the trail of the reddened Moon in the eclipse-darkened skies above the lake and trees. Of course, the apparent motion of Moon and stars revealed in the timelapse composite reflect the Earth's daily rotation around its axis. Dramatically punctuating the Moon's trail as totality ended, a single, separate telephoto image of the totally eclipsed Moon was scaled and blended into the scene.   Growing Gallery: Total Lunar Eclipse of March 3
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2603/Jason_Perry_Totality_Trail_Lake_Toolondo_Australia1600.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,40 +49,39 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2026 Mar 11 0040 UTC
+:Issued: 2026 Mar 13 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Mar 11-Mar 13 2026 is 5.00 (NOAA Scale
+The greatest expected 3 hr Kp for Mar 13-Mar 15 2026 is 5.00 (NOAA Scale
 G1).
 
-NOAA Kp index breakdown Mar 11-Mar 13 2026
+NOAA Kp index breakdown Mar 13-Mar 15 2026
 
-             Mar 11       Mar 12       Mar 13
-00-03UT       2.67         1.67         1.67     
-03-06UT       2.33         1.33         1.33     
-06-09UT       2.00         1.33         1.33     
-09-12UT       2.00         1.33         2.67     
-12-15UT       1.00         1.33         3.33     
-15-18UT       1.33         1.67         5.00 (G1)
-18-21UT       1.00         1.33         4.33     
-21-00UT       1.67         1.67         4.33     
+             Mar 13       Mar 14       Mar 15
+00-03UT       1.67         4.67 (G1)    4.00     
+03-06UT       1.33         4.00         3.33     
+06-09UT       1.33         4.00         2.67     
+09-12UT       2.67         3.00         2.00     
+12-15UT       3.33         2.67         2.00     
+15-18UT       5.00 (G1)    2.33         2.00     
+18-21UT       4.33         2.33         2.33     
+21-00UT       4.33         3.67         2.67     
 
-Rationale: Isolated periods of G1 (Minor) storming are possible on 13
-Mar because of the onset of a positive polarity coronal hole high speed
-stream (+CH HSS).
+Rationale: G1 (Minor) geomagnetic storms are likely over 13-14 Mar due
+to influence from a positive polarity coronal hole.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Mar 11-Mar 13 2026
+Solar Radiation Storm Forecast for Mar 13-Mar 15 2026
 
-              Mar 11  Mar 12  Mar 13
+              Mar 13  Mar 14  Mar 15
 S1 or greater    1%      1%      1%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -93,13 +92,13 @@ C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Mar 11-Mar 13 2026
+Radio Blackout Forecast for Mar 13-Mar 15 2026
 
-              Mar 11        Mar 12        Mar 13
+              Mar 13        Mar 14        Mar 15
 R1-R2           20%           20%           20%
 R3 or greater    1%            1%            1%
 
 Rationale: There exists a slight chance for R1-R2 (Minor-Moderate) radio
-blackouts over 11-13 Mar.
+blackouts over 13-15 Mar.
 
 ```
