@@ -1,11 +1,10 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2026-03-13
-<br />**This image is owned by:**  Jason Perry
-<br />**Title of the image:**  Toolondo Totality Trails
-<br />**Description for the image:**  In this composited night skyscape, stacked exposures trace graceful star trails above Lake Toolondo, Victoria, Australia, planet Earth. Captured while the lunar eclipse of March 3 was in progress, the exposures used were made during the hour-long total eclipse phase. So faint star trails are easily visible along with the trail of the reddened Moon in the eclipse-darkened skies above the lake and trees. Of course, the apparent motion of Moon and stars revealed in the timelapse composite reflect the Earth's daily rotation around its axis. Dramatically punctuating the Moon's trail as totality ended, a single, separate telephoto image of the totally eclipsed Moon was scaled and blended into the scene.   Growing Gallery: Total Lunar Eclipse of March 3
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2603/Jason_Perry_Totality_Trail_Lake_Toolondo_Australia1600.jpg
+<br />**Date image released:**  2026-03-14
+<br />**Title of the image:**  A Year for K2-315b
+<br />**Description for the image:**  Want to visit a planet that has 3.14 days in a year? Then plan a trip to K2-315b, an earth-sized planet orbiting around a cool, red, M dwarf star about once every 3.14 days. The exoplanet's discovery, based on publicly available data from the planet-hunting Kepler Space Telescope's extended K2 mission, was announced in 2020. K2-315b's measured orbital period in days is nearly equal to the extremely popular irrational number Pi. That puts the exoplanet so close to its parent star that its surface is likely very warm, baking-hot in fact. And this Pi planet is over 185 light-years away. So instead of trying to arrange for an interstellar vacation to K2-315b, there may be easier and more comfortable ways for you to celebrate Pi day on planet Earth.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2603/MIT-Pi-Planet-01-PRESS.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,39 +48,39 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2026 Mar 13 0030 UTC
+:Issued: 2026 Mar 14 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
-Scale levels).
-The greatest expected 3 hr Kp for Mar 13-Mar 15 2026 is 5.00 (NOAA Scale
-G1).
+The greatest observed 3 hr Kp over the past 24 hours was 6 (NOAA Scale
+G2).
+The greatest expected 3 hr Kp for Mar 14-Mar 16 2026 is 5.67 (NOAA Scale
+G2).
 
-NOAA Kp index breakdown Mar 13-Mar 15 2026
+NOAA Kp index breakdown Mar 14-Mar 16 2026
 
-             Mar 13       Mar 14       Mar 15
-00-03UT       1.67         4.67 (G1)    4.00     
-03-06UT       1.33         4.00         3.33     
-06-09UT       1.33         4.00         2.67     
-09-12UT       2.67         3.00         2.00     
-12-15UT       3.33         2.67         2.00     
-15-18UT       5.00 (G1)    2.33         2.00     
-18-21UT       4.33         2.33         2.33     
-21-00UT       4.33         3.67         2.67     
+             Mar 14       Mar 15       Mar 16
+00-03UT       5.67 (G2)    4.00         3.67     
+03-06UT       5.67 (G2)    3.33         3.33     
+06-09UT       4.33         2.00         2.67     
+09-12UT       4.00         2.00         2.00     
+12-15UT       3.67         2.67         1.67     
+15-18UT       3.00         2.00         2.00     
+18-21UT       3.00         2.33         2.00     
+21-00UT       3.00         2.67         3.00     
 
-Rationale: G1 (Minor) geomagnetic storms are likely over 13-14 Mar due
-to influence from a positive polarity coronal hole.
+Rationale: G1 (Minor) and G2 (Moderate) geomagnetic storms are expected
+over 14 Mar due to coronal hole influence.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Mar 13-Mar 15 2026
+Solar Radiation Storm Forecast for Mar 14-Mar 16 2026
 
-              Mar 13  Mar 14  Mar 15
+              Mar 14  Mar 15  Mar 16
 S1 or greater    1%      1%      1%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -90,15 +89,17 @@ production is forecast.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-No radio blackouts were observed over the past 24 hours.
+Radio blackouts reaching the R1 levels were observed over the past 24
+hours. The largest was at Mar 13 2026 0955 UTC.
 
-Radio Blackout Forecast for Mar 13-Mar 15 2026
+Radio Blackout Forecast for Mar 14-Mar 16 2026
 
-              Mar 13        Mar 14        Mar 15
-R1-R2           20%           20%           20%
+              Mar 14        Mar 15        Mar 16
+R1-R2           25%           25%           20%
 R3 or greater    1%            1%            1%
 
-Rationale: There exists a slight chance for R1-R2 (Minor-Moderate) radio
-blackouts over 13-15 Mar.
+Rationale: There exists a chance for R1-R2 (Minor-Moderate) radio
+blackouts over 14 Mar and a slight chance for R1-R2 (Minor-Moderate)
+radio blackouts over 15-16 Mar.
 
 ```
