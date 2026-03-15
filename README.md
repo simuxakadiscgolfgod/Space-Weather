@@ -1,10 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2026-03-14
-<br />**Title of the image:**  A Year for K2-315b
-<br />**Description for the image:**  Want to visit a planet that has 3.14 days in a year? Then plan a trip to K2-315b, an earth-sized planet orbiting around a cool, red, M dwarf star about once every 3.14 days. The exoplanet's discovery, based on publicly available data from the planet-hunting Kepler Space Telescope's extended K2 mission, was announced in 2020. K2-315b's measured orbital period in days is nearly equal to the extremely popular irrational number Pi. That puts the exoplanet so close to its parent star that its surface is likely very warm, baking-hot in fact. And this Pi planet is over 185 light-years away. So instead of trying to arrange for an interstellar vacation to K2-315b, there may be easier and more comfortable ways for you to celebrate Pi day on planet Earth.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2603/MIT-Pi-Planet-01-PRESS.jpg
+<br />**Date image released:**  2026-03-15
+<br />**This image is owned by:**  Robert Fedez
+<br />**Title of the image:**  Equinox at the Pyramid of the Feathered Serpent
+<br />**Description for the image:**  To see the feathered serpent descend the Mayan pyramid requires exquisite timing.  You must visit El Castillo -- in Mexico's Yucatán Peninsula -- near an equinox.  Then, during the late afternoon if the sky is clear, the pyramid's own shadows create triangles that merge into the famous illusion of a slithering viper.  Also known as the Temple of Kukulkan, the impressive step-pyramid stands 30 meters tall and 55 meters wide at the base.  Built up as a series of square terraces by the pre-Columbian civilization between the 9th and 12th century, the structure can be used as a calendar and is noted for astronomical alignments. The featured composite image was captured in 2019 with Jupiter and Saturn straddling the diagonal central band of our Milky Way galaxy. In a few days another equinox will occur -- not only at Temple of Kukulcán, but all over planet Earth.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2603/MayanMilkyWay_Fernandez_1600.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -48,39 +49,39 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2026 Mar 14 0030 UTC
+:Issued: 2026 Mar 15 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 6 (NOAA Scale
 G2).
-The greatest expected 3 hr Kp for Mar 14-Mar 16 2026 is 5.67 (NOAA Scale
-G2).
+The greatest expected 3 hr Kp for Mar 15-Mar 17 2026 is 4.67 (NOAA Scale
+G1).
 
-NOAA Kp index breakdown Mar 14-Mar 16 2026
+NOAA Kp index breakdown Mar 15-Mar 17 2026
 
-             Mar 14       Mar 15       Mar 16
-00-03UT       5.67 (G2)    4.00         3.67     
-03-06UT       5.67 (G2)    3.33         3.33     
-06-09UT       4.33         2.00         2.67     
-09-12UT       4.00         2.00         2.00     
-12-15UT       3.67         2.67         1.67     
-15-18UT       3.00         2.00         2.00     
-18-21UT       3.00         2.33         2.00     
-21-00UT       3.00         2.67         3.00     
+             Mar 15       Mar 16       Mar 17
+00-03UT       4.00         3.67         2.67     
+03-06UT       4.33         3.67         3.00     
+06-09UT       4.67 (G1)    3.00         2.33     
+09-12UT       4.00         2.33         2.33     
+12-15UT       3.67         2.00         2.33     
+15-18UT       3.33         2.67         2.33     
+18-21UT       2.67         3.00         2.33     
+21-00UT       2.67         3.00         2.00     
 
-Rationale: G1 (Minor) and G2 (Moderate) geomagnetic storms are expected
-over 14 Mar due to coronal hole influence.
+Rationale: G1 (Minor) geomagnetic storms are expected on 15 Mar due to
+influence from a positive polarity coronal hole.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Mar 14-Mar 16 2026
+Solar Radiation Storm Forecast for Mar 15-Mar 17 2026
 
-              Mar 14  Mar 15  Mar 16
+              Mar 15  Mar 16  Mar 17
 S1 or greater    1%      1%      1%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -89,17 +90,15 @@ production is forecast.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-Radio blackouts reaching the R1 levels were observed over the past 24
-hours. The largest was at Mar 13 2026 0955 UTC.
+No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Mar 14-Mar 16 2026
+Radio Blackout Forecast for Mar 15-Mar 17 2026
 
-              Mar 14        Mar 15        Mar 16
-R1-R2           25%           25%           20%
+              Mar 15        Mar 16        Mar 17
+R1-R2           15%           10%           10%
 R3 or greater    1%            1%            1%
 
-Rationale: There exists a chance for R1-R2 (Minor-Moderate) radio
-blackouts over 14 Mar and a slight chance for R1-R2 (Minor-Moderate)
-radio blackouts over 15-16 Mar.
+Rationale: There is a slight chance for R1-R2 (Minor-Moderate) radio
+blackouts over 15-17 Mar.
 
 ```
