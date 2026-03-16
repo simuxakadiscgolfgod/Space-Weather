@@ -1,11 +1,10 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2026-03-15
-<br />**This image is owned by:**  Robert Fedez
-<br />**Title of the image:**  Equinox at the Pyramid of the Feathered Serpent
-<br />**Description for the image:**  To see the feathered serpent descend the Mayan pyramid requires exquisite timing.  You must visit El Castillo -- in Mexico's Yucatán Peninsula -- near an equinox.  Then, during the late afternoon if the sky is clear, the pyramid's own shadows create triangles that merge into the famous illusion of a slithering viper.  Also known as the Temple of Kukulkan, the impressive step-pyramid stands 30 meters tall and 55 meters wide at the base.  Built up as a series of square terraces by the pre-Columbian civilization between the 9th and 12th century, the structure can be used as a calendar and is noted for astronomical alignments. The featured composite image was captured in 2019 with Jupiter and Saturn straddling the diagonal central band of our Milky Way galaxy. In a few days another equinox will occur -- not only at Temple of Kukulcán, but all over planet Earth.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2603/MayanMilkyWay_Fernandez_1600.jpg
+<br />**Date image released:**  2026-03-16
+<br />**Title of the image:**  NGC 1566: The Spanish Dancer Galaxy
+<br />**Description for the image:**  If not perfect, then this spiral galaxy is at least one of the most photogenic. An island universe containing billions of stars and situated about 40 million light-years away toward the constellation of the Dolphinfish (Dorado), NGC 1566 presents a gorgeous face-on view. Classified as a grand design spiral, NGC 1566 shows two prominent and graceful spiral arms that are traced by bright blue star clusters, red emission nebulas, and dark cosmic dust lanes. Numerous Hubble Space Telescope images of NGC 1566 have been taken to study star formation, supernovas, and the spiral's unusually active center. NGC 1566's flaring center makes the spiral one of the closest and brightest Seyfert galaxies, likely housing a central supermassive black hole wreaking havoc on surrounding stars and gas.   Sky Surprise: What picture did APOD feature on your birthday? (after 1995)
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2603/SpanishDancer_Hubble_3716.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,39 +48,39 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2026 Mar 15 0030 UTC
+:Issued: 2026 Mar 16 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 6 (NOAA Scale
-G2).
-The greatest expected 3 hr Kp for Mar 15-Mar 17 2026 is 4.67 (NOAA Scale
-G1).
+The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
+Scale levels).
+The greatest expected 3 hr Kp for Mar 16-Mar 18 2026 is 3.67 (below NOAA
+Scale levels).
 
-NOAA Kp index breakdown Mar 15-Mar 17 2026
+NOAA Kp index breakdown Mar 16-Mar 18 2026
 
-             Mar 15       Mar 16       Mar 17
-00-03UT       4.00         3.67         2.67     
-03-06UT       4.33         3.67         3.00     
-06-09UT       4.67 (G1)    3.00         2.33     
-09-12UT       4.00         2.33         2.33     
-12-15UT       3.67         2.00         2.33     
-15-18UT       3.33         2.67         2.33     
-18-21UT       2.67         3.00         2.33     
-21-00UT       2.67         3.00         2.00     
+             Mar 16       Mar 17       Mar 18
+00-03UT       3.67         2.67         2.67     
+03-06UT       3.67         3.00         2.33     
+06-09UT       3.00         2.33         2.00     
+09-12UT       2.67         2.00         1.33     
+12-15UT       2.67         2.00         1.67     
+15-18UT       3.00         2.00         2.00     
+18-21UT       3.33         2.33         2.33     
+21-00UT       3.33         2.67         2.67     
 
-Rationale: G1 (Minor) geomagnetic storms are expected on 15 Mar due to
-influence from a positive polarity coronal hole.
+Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
+significant transient or recurrent solar wind features are forecast.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Mar 15-Mar 17 2026
+Solar Radiation Storm Forecast for Mar 16-Mar 18 2026
 
-              Mar 15  Mar 16  Mar 17
+              Mar 16  Mar 17  Mar 18
 S1 or greater    1%      1%      1%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -92,13 +91,13 @@ C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Mar 15-Mar 17 2026
+Radio Blackout Forecast for Mar 16-Mar 18 2026
 
-              Mar 15        Mar 16        Mar 17
-R1-R2           15%           10%           10%
+              Mar 16        Mar 17        Mar 18
+R1-R2           15%           15%           15%
 R3 or greater    1%            1%            1%
 
-Rationale: There is a slight chance for R1-R2 (Minor-Moderate) radio
-blackouts over 15-17 Mar.
+Rationale: There exists a slight chance for R1-R2 (Minor-Moderate) radio
+blackouts over 16-18 Mar.
 
 ```
