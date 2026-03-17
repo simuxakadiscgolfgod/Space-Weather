@@ -1,10 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2026-03-16
-<br />**Title of the image:**  NGC 1566: The Spanish Dancer Galaxy
-<br />**Description for the image:**  If not perfect, then this spiral galaxy is at least one of the most photogenic. An island universe containing billions of stars and situated about 40 million light-years away toward the constellation of the Dolphinfish (Dorado), NGC 1566 presents a gorgeous face-on view. Classified as a grand design spiral, NGC 1566 shows two prominent and graceful spiral arms that are traced by bright blue star clusters, red emission nebulas, and dark cosmic dust lanes. Numerous Hubble Space Telescope images of NGC 1566 have been taken to study star formation, supernovas, and the spiral's unusually active center. NGC 1566's flaring center makes the spiral one of the closest and brightest Seyfert galaxies, likely housing a central supermassive black hole wreaking havoc on surrounding stars and gas.   Sky Surprise: What picture did APOD feature on your birthday? (after 1995)
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2603/SpanishDancer_Hubble_3716.jpg
+<br />**Date image released:**  2026-03-17
+<br />**This image is owned by:**  Nico Carver
+<br />**Title of the image:**  The Tadpoles of IC 410
+<br />**Description for the image:**  This telescopic close-up shows off the central regions of otherwise faint emission nebula IC 410, captured under backyard skies. Presented in a Hubble color palette, the image combines visible broadband and narrowband data with data from the near-infrared. Below and right of center are two remarkable inhabitants of the interstellar pond of gas and dust. the Tadpoles of IC 410. Partly obscured by foreground dust, the nebula itself surrounds NGC 1893, a young galactic cluster of stars. Formed in the interstellar cloud a mere 4 million years ago, the intensely hot, bright cluster stars energize the glowing gas. But the cosmic tadpoles themselves are composed of denser cooler gas and dust. Around 10 light-years long they are likely sites of ongoing star formation. Sculpted by stellar winds and radiation their heads are outlined by bright ridges of ionized gas while their tails trail away from the cluster's central young stars. IC 410 lies some 10,000 light-years away, toward the nebula-rich constellation Auriga.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2603/APOD_Sub_Tadpoles_NicoCarver.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -48,56 +49,57 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2026 Mar 16 0030 UTC
+:Issued: 2026 Mar 17 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Mar 16-Mar 18 2026 is 3.67 (below NOAA
-Scale levels).
+The greatest expected 3 hr Kp for Mar 17-Mar 19 2026 is 6.33 (NOAA Scale
+G2).
 
-NOAA Kp index breakdown Mar 16-Mar 18 2026
+NOAA Kp index breakdown Mar 17-Mar 19 2026
 
-             Mar 16       Mar 17       Mar 18
-00-03UT       3.67         2.67         2.67     
-03-06UT       3.67         3.00         2.33     
-06-09UT       3.00         2.33         2.00     
-09-12UT       2.67         2.00         1.33     
-12-15UT       2.67         2.00         1.67     
-15-18UT       3.00         2.00         2.00     
-18-21UT       3.33         2.33         2.33     
-21-00UT       3.33         2.67         2.67     
+             Mar 17       Mar 18       Mar 19
+00-03UT       2.67         2.67         1.67     
+03-06UT       3.00         2.33         5.33 (G1)
+06-09UT       2.33         2.00         6.33 (G2)
+09-12UT       2.00         1.33         5.67 (G2)
+12-15UT       2.00         1.67         4.33     
+15-18UT       2.00         2.00         3.33     
+18-21UT       2.33         2.33         3.67     
+21-00UT       2.67         2.67         4.00     
 
-Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
-significant transient or recurrent solar wind features are forecast.
+Rationale: G2 (Moderate) geomagnetic storming is likely, with a chance
+for isolated periods of G3 (Strong) geomagnetic storming, on 19 Mar with
+the arrival of the 16 Mar CME.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Mar 16-Mar 18 2026
+Solar Radiation Storm Forecast for Mar 17-Mar 19 2026
 
-              Mar 16  Mar 17  Mar 18
-S1 or greater    1%      1%      1%
+              Mar 17  Mar 18  Mar 19
+S1 or greater    5%      5%     10%
 
-Rationale: No S1 (Minor) or greater solar radiation storms are expected.
-No significant active region activity favorable for radiation storm
-production is forecast.
+Rationale: A slight chance for S1 (Minor) levels will exist on 19 Mar
+with any shock enhancement with the arrival of the 16 Mar CME.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-No radio blackouts were observed over the past 24 hours.
+Radio blackouts reaching the R1 levels were observed over the past 24
+hours. The largest was at Mar 16 2026 1215 UTC.
 
-Radio Blackout Forecast for Mar 16-Mar 18 2026
+Radio Blackout Forecast for Mar 17-Mar 19 2026
 
-              Mar 16        Mar 17        Mar 18
-R1-R2           15%           15%           15%
-R3 or greater    1%            1%            1%
+              Mar 17        Mar 18        Mar 19
+R1-R2           30%           30%           30%
+R3 or greater    5%            5%            5%
 
-Rationale: There exists a slight chance for R1-R2 (Minor-Moderate) radio
-blackouts over 16-18 Mar.
+Rationale: Solar activity is expected to be at low levels, with a chance
+for M-class (R1-R2/Minor-Moderate) flares through 19 Mar.
 
 ```
