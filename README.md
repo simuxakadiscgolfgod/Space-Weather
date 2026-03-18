@@ -1,11 +1,18 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2026-03-17
-<br />**This image is owned by:**  Nico Carver
-<br />**Title of the image:**  The Tadpoles of IC 410
-<br />**Description for the image:**  This telescopic close-up shows off the central regions of otherwise faint emission nebula IC 410, captured under backyard skies. Presented in a Hubble color palette, the image combines visible broadband and narrowband data with data from the near-infrared. Below and right of center are two remarkable inhabitants of the interstellar pond of gas and dust. the Tadpoles of IC 410. Partly obscured by foreground dust, the nebula itself surrounds NGC 1893, a young galactic cluster of stars. Formed in the interstellar cloud a mere 4 million years ago, the intensely hot, bright cluster stars energize the glowing gas. But the cosmic tadpoles themselves are composed of denser cooler gas and dust. Around 10 light-years long they are likely sites of ongoing star formation. Sculpted by stellar winds and radiation their heads are outlined by bright ridges of ionized gas while their tails trail away from the cluster's central young stars. IC 410 lies some 10,000 light-years away, toward the nebula-rich constellation Auriga.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2603/APOD_Sub_Tadpoles_NicoCarver.jpg
+<br />**Date image released:**  2026-03-18
+<br />**This image is owned by:**  2025 Horacio Lander / AstroHoracio
+
+Text:
+Keighley Rockcliffe  
+(NASA
+GSFC, 
+UMBC CSST, 
+CRESST II)
+<br />**Title of the image:**  Cygnus and the Solitary Tree
+<br />**Description for the image:**  A lone tree stands in a quiet meadow in Guadalajara, Spain, silhouetted against the Cygnus region rising above like flames in the night sky.  This deep night skyscape is a composite of exposures that reveals a range of brightness and color human eyes can't quite see on their own. Spanning over a thousand times the angular size of the full moon, Cygnus sets the sky afire with active star formation where clouds of gas and dust collapse under gravity until nuclear fusion ignites and new stars are born. These stars  ionize the surrounding hydrogen gas, causing it to glow crimson, while tendrils of interstellar dust absorb some of that light and cast dark shadows across the sky. Cygnus is a trove of celestial treasures, notably the Veil, Crescent, and Pelican nebulae, as well as  Cygnus X-1, the first confirmed black hole.  Cygnus continues to yield fresh science, including a new three-dimensional model of the Cygnus Loop made possible by the Chandra X-ray Observatory.   Almost Hyperspace: Random APOD Generator
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2603/cygnus_tree_crop.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,57 +56,57 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2026 Mar 17 0030 UTC
+:Issued: 2026 Mar 18 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Mar 17-Mar 19 2026 is 6.33 (NOAA Scale
+The greatest expected 3 hr Kp for Mar 18-Mar 20 2026 is 6.33 (NOAA Scale
 G2).
 
-NOAA Kp index breakdown Mar 17-Mar 19 2026
+NOAA Kp index breakdown Mar 18-Mar 20 2026
 
-             Mar 17       Mar 18       Mar 19
-00-03UT       2.67         2.67         1.67     
-03-06UT       3.00         2.33         5.33 (G1)
-06-09UT       2.33         2.00         6.33 (G2)
-09-12UT       2.00         1.33         5.67 (G2)
-12-15UT       2.00         1.67         4.33     
-15-18UT       2.00         2.00         3.33     
-18-21UT       2.33         2.33         3.67     
-21-00UT       2.67         2.67         4.00     
+             Mar 18       Mar 19       Mar 20
+00-03UT       2.67         1.67         5.00 (G1)
+03-06UT       2.33         5.33 (G1)    4.33     
+06-09UT       2.00         6.33 (G2)    3.67     
+09-12UT       1.33         5.67 (G2)    3.00     
+12-15UT       1.67         4.33         2.67     
+15-18UT       2.00         3.33         3.67     
+18-21UT       2.33         3.67         4.33     
+21-00UT       2.67         4.00         4.67 (G1)
 
-Rationale: G2 (Moderate) geomagnetic storming is likely, with a chance
-for isolated periods of G3 (Strong) geomagnetic storming, on 19 Mar with
-the arrival of the 16 Mar CME.
+Rationale: G1-G2 (Minor-Moderate) geomagnetic storms are likely on 19-20
+Mar due to the anticipated arrival of the CME associated with the 16 Mar
+M2.7 flare.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Mar 17-Mar 19 2026
+Solar Radiation Storm Forecast for Mar 18-Mar 20 2026
 
-              Mar 17  Mar 18  Mar 19
-S1 or greater    5%      5%     10%
+              Mar 18  Mar 19  Mar 20
+S1 or greater    5%     10%     10%
 
-Rationale: A slight chance for S1 (Minor) levels will exist on 19 Mar
-with any shock enhancement with the arrival of the 16 Mar CME.
+Rationale: There is a slight chance for S1 (Minor) solar radiation
+storms on 19-20 Mar due to the potential for accelerated particles ahead
+of the anticipated CME shock.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-Radio blackouts reaching the R1 levels were observed over the past 24
-hours. The largest was at Mar 16 2026 1215 UTC.
+No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Mar 17-Mar 19 2026
+Radio Blackout Forecast for Mar 18-Mar 20 2026
 
-              Mar 17        Mar 18        Mar 19
-R1-R2           30%           30%           30%
+              Mar 18        Mar 19        Mar 20
+R1-R2           35%           35%           35%
 R3 or greater    5%            5%            5%
 
-Rationale: Solar activity is expected to be at low levels, with a chance
-for M-class (R1-R2/Minor-Moderate) flares through 19 Mar.
+Rationale: There is a chance for R1-R2 (Minor-Moderate) radio blackouts,
+with a slight chance for R3 (Strong) events through 20 Mar.
 
 ```
