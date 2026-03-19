@@ -1,18 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2026-03-18
-<br />**This image is owned by:**  2025 Horacio Lander / AstroHoracio
-
-Text:
-Keighley Rockcliffe  
-(NASA
-GSFC, 
-UMBC CSST, 
-CRESST II)
-<br />**Title of the image:**  Cygnus and the Solitary Tree
-<br />**Description for the image:**  A lone tree stands in a quiet meadow in Guadalajara, Spain, silhouetted against the Cygnus region rising above like flames in the night sky.  This deep night skyscape is a composite of exposures that reveals a range of brightness and color human eyes can't quite see on their own. Spanning over a thousand times the angular size of the full moon, Cygnus sets the sky afire with active star formation where clouds of gas and dust collapse under gravity until nuclear fusion ignites and new stars are born. These stars  ionize the surrounding hydrogen gas, causing it to glow crimson, while tendrils of interstellar dust absorb some of that light and cast dark shadows across the sky. Cygnus is a trove of celestial treasures, notably the Veil, Crescent, and Pelican nebulae, as well as  Cygnus X-1, the first confirmed black hole.  Cygnus continues to yield fresh science, including a new three-dimensional model of the Cygnus Loop made possible by the Chandra X-ray Observatory.   Almost Hyperspace: Random APOD Generator
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2603/cygnus_tree_crop.jpg
+<br />**Date image released:**  2026-03-19
+<br />**This image is owned by:**  Michael Seeley
+<br />**Title of the image:**  Launch Plume: SpaceX Jellyfish
+<br />**Description for the image:**  ven if you live with your head in the clouds, you won’t find a jellyfish like this one very often. The featured image shows a SpaceX Falcon 9 rocket launch from Cape Canaveral in Florida on March 4. The launch happened 52 minutes before sunrise, and the second stage rocket exhaust plume was high enough in the sky to catch the light of the rising sun, while the photographer was still in the dark. This combination of light and shadow, possible at dawn or dusk, makes the exhaust, mostly water vapor and carbon dioxide, appear as a glowing cloud. It only looks like it's going down, as the rocket follows the curvature of the Earth on its way to space. A related effect is the twilight phenomenon, which causes colorful contrails sometimes mistaken for UFOs. But, in case you are wondering: real jellyfish were sent to space by NASA in the 1990s as part of a science experiment.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2603/jellyfish.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -56,57 +49,59 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2026 Mar 18 0030 UTC
+:Issued: 2026 Mar 19 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Mar 18-Mar 20 2026 is 6.33 (NOAA Scale
+The greatest expected 3 hr Kp for Mar 19-Mar 21 2026 is 6.33 (NOAA Scale
 G2).
 
-NOAA Kp index breakdown Mar 18-Mar 20 2026
+NOAA Kp index breakdown Mar 19-Mar 21 2026
 
-             Mar 18       Mar 19       Mar 20
-00-03UT       2.67         1.67         5.00 (G1)
-03-06UT       2.33         5.33 (G1)    4.33     
-06-09UT       2.00         6.33 (G2)    3.67     
-09-12UT       1.33         5.67 (G2)    3.00     
-12-15UT       1.67         4.33         2.67     
-15-18UT       2.00         3.33         3.67     
-18-21UT       2.33         3.67         4.33     
-21-00UT       2.67         4.00         4.67 (G1)
+             Mar 19       Mar 20       Mar 21
+00-03UT       1.67         6.33 (G2)    4.33     
+03-06UT       2.00         6.00 (G2)    6.33 (G2)
+06-09UT       2.33         4.67 (G1)    5.67 (G2)
+09-12UT       3.00         4.33         5.00 (G1)
+12-15UT       3.33         4.33         5.00 (G1)
+15-18UT       4.33         4.00         4.67 (G1)
+18-21UT       5.33 (G1)    4.00         4.67 (G1)
+21-00UT       6.00 (G2)    3.33         4.33     
 
-Rationale: G1-G2 (Minor-Moderate) geomagnetic storms are likely on 19-20
-Mar due to the anticipated arrival of the CME associated with the 16 Mar
-M2.7 flare.
+Rationale: G1-G2 (Minor-Moderate) geomagnetic storms are expected over
+19-21 Mar due to arrival of the 16 and 18 Mar CMEs alongside an
+anticipated solar sector boundary crossing.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Mar 18-Mar 20 2026
+Solar Radiation Storm Forecast for Mar 19-Mar 21 2026
 
-              Mar 18  Mar 19  Mar 20
-S1 or greater    5%     10%     10%
+              Mar 19  Mar 20  Mar 21
+S1 or greater   10%     10%     10%
 
-Rationale: There is a slight chance for S1 (Minor) solar radiation
-storms on 19-20 Mar due to the potential for accelerated particles ahead
-of the anticipated CME shock.
+Rationale: There is a slight chance for S1 (Minor) or greater solar
+radiation storms on 19-21 Mar due to the potential of CME shock
+influences.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-No radio blackouts were observed over the past 24 hours.
+Radio blackouts reaching the R1 levels were observed over the past 24
+hours. The largest was at Mar 18 2026 0839 UTC.
 
-Radio Blackout Forecast for Mar 18-Mar 20 2026
+Radio Blackout Forecast for Mar 19-Mar 21 2026
 
-              Mar 18        Mar 19        Mar 20
+              Mar 19        Mar 20        Mar 21
 R1-R2           35%           35%           35%
-R3 or greater    5%            5%            5%
+R3 or greater   10%           10%           10%
 
 Rationale: There is a chance for R1-R2 (Minor-Moderate) radio blackouts,
-with a slight chance for R3 (Strong) events through 20 Mar.
+with a slight chance for R3 (Strong) events through 21 Mar due
+predominantly to the flaring potential of Region 4392.
 
 ```
