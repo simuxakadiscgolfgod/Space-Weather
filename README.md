@@ -1,11 +1,12 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2026-03-21
-<br />**This image is owned by:**  Dietmar Hager
-<br />**Title of the image:**  Galaxies in the River: NGC 1300 and NGC 1297
-<br />**Description for the image:**  Spiral NGC 1300 and elliptical NGC 1297 are galaxies that lie on the banks of the southern constellation Eridanus (The River). At 70 million light-years distant or more, both are members of the Eridanus Galaxy Cluster. About 100,000 light-years across, at lower left in this sharp, galaxy group photo NGC 1300 is seen face-on with a prominent central bar and grand, sweeping spiral arms. Like other spiral galaxies, including our own barred spiral Milky Way Galaxy, NGC 1300 is thought to have a supermassive central black hole. A contrast in appearance and slightly more distant, NGC 1297 is the roughly spherical large elliptical galaxy near the top of the frame. With little active star formation, elliptical galaxies are composed of older populations of stars and are likely he result of multiple collisions and mergers with spirals.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2603/NGC1300-LRGB.jpg
+<br />**Date image released:**  2026-03-23
+<br />**This image is owned by:**  Jeff Dai
+(TWAN)
+<br />**Title of the image:**  Light Pillars and Orion over Mohe
+<br />**Description for the image:**  What's happening at the end of that street?  Pictured here are not auroras but light pillars, a phenomenon typically much closer.  In most places on Earth, a lucky viewer can see a Sun pillar, a column of light appearing to extend up from the Sun caused by flat fluttering ice-crystals reflecting sunlight from the upper atmosphere.  Usually, these ice crystals evaporate before reaching the ground.  During freezing temperatures, however, flat fluttering ice crystals may form near the ground and are sometimes known as a crystal fog.  These small ice crystals may then reflect not the Sun but ground lights.  The featured image captured not only numerous light pillars but also the iconic constellation of Orion, and was taken in Mohe, the northernmost city in China.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2603/LightPillarsMohe_Dai_2000.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,40 +50,41 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2026 Mar 21 0030 UTC
+:Issued: 2026 Mar 23 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 7 (NOAA Scale
 G3).
-The greatest expected 3 hr Kp for Mar 21-Mar 23 2026 is 6.67 (NOAA Scale
-G3).
+The greatest expected 3 hr Kp for Mar 23-Mar 25 2026 is 6.00 (NOAA Scale
+G2).
 
-NOAA Kp index breakdown Mar 21-Mar 23 2026
+NOAA Kp index breakdown Mar 23-Mar 25 2026
 
-             Mar 21       Mar 22       Mar 23
-00-03UT       6.67 (G3)    4.67 (G1)    3.33     
-03-06UT       6.33 (G2)    5.00 (G1)    4.33     
-06-09UT       5.67 (G2)    4.33         3.00     
-09-12UT       5.00 (G1)    4.00         3.00     
-12-15UT       3.33         2.67         2.00     
-15-18UT       4.00         3.33         2.00     
-18-21UT       4.67 (G1)    4.33         3.33     
-21-00UT       4.33         4.33         3.00     
+             Mar 23       Mar 24       Mar 25
+00-03UT       6.00 (G2)    4.00         3.00     
+03-06UT       5.67 (G2)    3.67         3.67     
+06-09UT       4.67 (G1)    3.00         2.67     
+09-12UT       4.00         2.33         2.67     
+12-15UT       3.00         2.33         2.00     
+15-18UT       3.00         2.33         2.00     
+18-21UT       3.33         2.67         2.67     
+21-00UT       3.67         3.00         2.67     
 
-Rationale: G1-G3 (Minor-Strong) geomagnetic storm conditions are
-expected on 21 Mar with G1 (Minor) conditions likely on 22 Mar due to
-persistent CME effects followed by HSS activity.
+Rationale: Periods of G1-G2 (Minor-Moderate) geomagnetic storming are
+expected on 23 Mar in response to negative polarity CH HSS influences.
+Periods of active conditions are expected on 24-25 Mar as negative
+polarity CH HSS influences continue, but gradually diminish.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Mar 21-Mar 23 2026
+Solar Radiation Storm Forecast for Mar 23-Mar 25 2026
 
-              Mar 21  Mar 22  Mar 23
+              Mar 23  Mar 24  Mar 25
 S1 or greater    1%      1%      1%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -93,13 +95,14 @@ C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Mar 21-Mar 23 2026
+Radio Blackout Forecast for Mar 23-Mar 25 2026
 
-              Mar 21        Mar 22        Mar 23
-R1-R2           10%           10%           10%
-R3 or greater    1%            1%            1%
+              Mar 23        Mar 24        Mar 25
+R1-R2           25%           20%           20%
+R3 or greater    5%            1%            1%
 
-Rationale: No R1 (Minor) or greater radio blackouts are expected.  No
-significant active region flare activity is forecast.
+Rationale: Solar activity is expected to be low with a chance for
+M-class flares on 23 Mar, and is likely to be low with a slight chance
+for an M-class flare on 24-25 Mar.
 
 ```
