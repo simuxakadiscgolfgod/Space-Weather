@@ -1,12 +1,18 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2026-03-23
-<br />**This image is owned by:**  Jeff Dai
-(TWAN)
-<br />**Title of the image:**  Light Pillars and Orion over Mohe
-<br />**Description for the image:**  What's happening at the end of that street?  Pictured here are not auroras but light pillars, a phenomenon typically much closer.  In most places on Earth, a lucky viewer can see a Sun pillar, a column of light appearing to extend up from the Sun caused by flat fluttering ice-crystals reflecting sunlight from the upper atmosphere.  Usually, these ice crystals evaporate before reaching the ground.  During freezing temperatures, however, flat fluttering ice crystals may form near the ground and are sometimes known as a crystal fog.  These small ice crystals may then reflect not the Sun but ground lights.  The featured image captured not only numerous light pillars but also the iconic constellation of Orion, and was taken in Mohe, the northernmost city in China.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2603/LightPillarsMohe_Dai_2000.jpg
+<br />**Date image released:**  2026-03-25
+<br />**This image is owned by:**  Rositsa Dimitrova
+
+Text:
+Keighley Rockcliffe  
+(NASA
+GSFC, 
+UMBC CSST, 
+CRESST II)
+<br />**Title of the image:**  The Guardians of Rapa Nui beneath the Milky Way
+<br />**Description for the image:**  In the words of today's astrophotographer, Rositsa Dimitrova, "What have these silent sentinels watched pass across the sky?" The volcanic mo'ai (meaning statue) of Ahu Tongariki stand guard over Rapa Nui (Isla de Pascua, Easter Island), a Polynesian island (annexed by Chile in 1888) located thousands of kilometers off the coast of South America in the Pacific Ocean. Due to the island's remoteness, the mo'ai, with their backs to the dark ocean, are able to gaze upon a clear and vibrant night sky. Pictured, these larger-than-life statues stare at the bright band of the Milky Way, partly obscured by interstellar dust and blurred by Earth's clouds. Under such clear night skies, the Rapa Nui created observatories and used astronomical observations for navigation, calendar calibration, celebrations, and more. Images like this one remind us of the importance of dark skies, protecting the land underneath them, and preserving the culture that they inspire.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2603/rapa_nui_milky_way.jpeg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -50,59 +56,55 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2026 Mar 23 0030 UTC
+:Issued: 2026 Mar 25 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 7 (NOAA Scale
-G3).
-The greatest expected 3 hr Kp for Mar 23-Mar 25 2026 is 6.00 (NOAA Scale
-G2).
+The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
+Scale levels).
+The greatest expected 3 hr Kp for Mar 25-Mar 27 2026 is 3.67 (below NOAA
+Scale levels).
 
-NOAA Kp index breakdown Mar 23-Mar 25 2026
+NOAA Kp index breakdown Mar 25-Mar 27 2026
 
-             Mar 23       Mar 24       Mar 25
-00-03UT       6.00 (G2)    4.00         3.00     
-03-06UT       5.67 (G2)    3.67         3.67     
-06-09UT       4.67 (G1)    3.00         2.67     
-09-12UT       4.00         2.33         2.67     
-12-15UT       3.00         2.33         2.00     
-15-18UT       3.00         2.33         2.00     
-18-21UT       3.33         2.67         2.67     
-21-00UT       3.67         3.00         2.67     
+             Mar 25       Mar 26       Mar 27
+00-03UT       3.33         3.00         2.33     
+03-06UT       3.33         2.00         2.67     
+06-09UT       3.33         2.00         2.00     
+09-12UT       2.67         2.67         2.00     
+12-15UT       3.00         2.67         1.67     
+15-18UT       2.00         3.00         2.00     
+18-21UT       2.67         3.67         2.00     
+21-00UT       3.00         3.67         2.33     
 
-Rationale: Periods of G1-G2 (Minor-Moderate) geomagnetic storming are
-expected on 23 Mar in response to negative polarity CH HSS influences.
-Periods of active conditions are expected on 24-25 Mar as negative
-polarity CH HSS influences continue, but gradually diminish.
+Rationale: No G1 (Minor) or greater geomagnetic storms are expected
+through 27 Mar.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Mar 23-Mar 25 2026
+Solar Radiation Storm Forecast for Mar 25-Mar 27 2026
 
-              Mar 23  Mar 24  Mar 25
+              Mar 25  Mar 26  Mar 27
 S1 or greater    1%      1%      1%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
-No significant active region activity favorable for radiation storm
-production is forecast.
+
 
 C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Mar 23-Mar 25 2026
+Radio Blackout Forecast for Mar 25-Mar 27 2026
 
-              Mar 23        Mar 24        Mar 25
-R1-R2           25%           20%           20%
-R3 or greater    5%            1%            1%
+              Mar 25        Mar 26        Mar 27
+R1-R2           25%           25%           25%
+R3 or greater    5%            5%            5%
 
-Rationale: Solar activity is expected to be low with a chance for
-M-class flares on 23 Mar, and is likely to be low with a slight chance
-for an M-class flare on 24-25 Mar.
+Rationale: There is a chance for R1-R2 (Minor-Moderate) radio blackouts,
+with a slight chance for R3 (Strong) events through 27 Mar.
 
 ```
