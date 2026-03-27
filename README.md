@@ -1,10 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2026-03-26
-<br />**Title of the image:**  Black Holes and Neutron Stars: 218 Mergers and Counting
-<br />**Description for the image:**  What is the sound of two black holes merging in deep space? Sound waves don't propagate in vacuum, but gravitational waves do. In 2015 we were able to "hear" them for the first time and confirm one of Albert Einstein's theoretical predictions. Each square on the grid of the featured image represents one of the gravitational wave detections announced so far by the LIGO-VIRGO-KAGRA Collaboration. These plots show how the binary pair accelerates in their orbit around each other towards merger: the rising frequency effect is called a "chirp". Although there are significantly more neutron stars than black holes, most of the detections are binary black hole mergers. That happens because black holes are heavier and their signals are louder and can be seen farther away, resulting in more detections. These events are rare, and we don't expect to see one close by in our Galaxy any time soon. But they are happening continuously throughout the cosmos.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2603/GWTC4-Events-Poster-Landscape.jpg
+<br />**Date image released:**  2026-03-27
+<br />**This image is owned by:**  Peter Kennett
+<br />**Title of the image:**  Hickson 44 in Leo
+<br />**Description for the image:**  Scanning the skies for galaxies, Canadian astronomer Paul Hickson and colleagues identified some 100 compact groups of galaxies, now appropriately called Hickson Compact Groups. The four prominent galaxies seen in this intriguing telescopic skyscape are one such group, Hickson 44. The Hickson 44 galaxy group is about 100 million light-years distant, far beyond the foreground Milky Way stars, toward the northern springtime constellation Leo. The two spiral galaxies in the center of the image are edge-on NGC 3190 with distinctive, warped dust lanes, and S-shaped NGC 3187. Along with the bright elliptical, NGC 3193 (left) they are also known as Arp 316. The spiral toward the lower right corner is NGC 3185, the 4th member of the Hickson group. Like other galaxies in Hickson groups, these show signs of distortion and enhanced star formation, evidence of a gravitational tug of war that will eventually result in galaxy mergers on a cosmic timescale. The merger process is now understood to be a normal part of the evolution of galaxies, including our own Milky Way. For scale, NGC 3190 is about 75,000 light-years across at the estimated distance of Hickson 44.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2603/NGC3190-APOD.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -48,40 +49,39 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2026 Mar 26 0030 UTC
+:Issued: 2026 Mar 27 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 5 (NOAA Scale
-G1). The greatest expected 3 hr Kp for Mar 26-Mar 28 2026 is 4.67 (NOAA
-Scale G1).
+The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
+Scale levels).
+The greatest expected 3 hr Kp for Mar 27-Mar 29 2026 is 3.00 (below NOAA
+Scale levels).
 
-NOAA Kp index breakdown Mar 26-Mar 28 2026
+NOAA Kp index breakdown Mar 27-Mar 29 2026
 
-             Mar 26       Mar 27       Mar 28
-00-03UT       4.67 (G1)    2.33         1.67     
-03-06UT       4.67 (G1)    2.67         2.00     
-06-09UT       4.00         2.00         1.33     
-09-12UT       2.67         2.00         0.67     
-12-15UT       2.67         1.67         1.33     
-15-18UT       3.00         2.00         1.33     
-18-21UT       2.33         2.00         1.67     
-21-00UT       2.00         2.33         1.67     
+             Mar 27       Mar 28       Mar 29
+00-03UT       2.33         1.67         2.33     
+03-06UT       2.67         2.00         1.67     
+06-09UT       2.00         1.33         1.00     
+09-12UT       2.00         0.67         0.67     
+12-15UT       1.67         1.33         1.67     
+15-18UT       2.00         1.33         2.33     
+18-21UT       2.00         1.67         2.67     
+21-00UT       2.33         1.67         3.00     
 
-Rationale: G1 (Minor) geomagnetic storms are expected on 26 Mar due to a
-possible glancing blow from a CME that left the Sun on 22 Mar. No
-further G1 (Minor) or greater geomagnetic storms are expected on 27-28
-Mar.
+Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
+significant transient or recurrent solar wind features are forecast.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Mar 26-Mar 28 2026
+Solar Radiation Storm Forecast for Mar 27-Mar 29 2026
 
-              Mar 26  Mar 27  Mar 28
+              Mar 27  Mar 28  Mar 29
 S1 or greater    1%      1%      1%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -90,15 +90,16 @@ production is forecast.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-No radio blackouts were observed over the past 24 hours.
+Radio blackouts reaching the R1 levels were observed over the past 24
+hours. The largest was at Mar 26 2026 0623 UTC.
 
-Radio Blackout Forecast for Mar 26-Mar 28 2026
+Radio Blackout Forecast for Mar 27-Mar 29 2026
 
-              Mar 26        Mar 27        Mar 28
-R1-R2           30%           30%           30%
+              Mar 27        Mar 28        Mar 29
+R1-R2           40%           40%           40%
 R3 or greater    5%            5%            5%
 
-Rationale: There is a chance for R1-R2 (Minor-Moderate) radio blackouts,
-with a slight chance for R3 (Strong) events through 28 Mar.
+Rationale: There is a chance for R1-R2 (Minor-Moderate) radio blackouts
+over 27-29 Mar.
 
 ```
