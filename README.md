@@ -1,10 +1,10 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2026-03-28
-<br />**Title of the image:**  Robert Goddard and Nell
-<br />**Description for the image:**  Robert H. Goddard, considered the father of modern rocketry, was born in Worcester Massachusetts in 1882. As a 16 year old, Goddard read H.G. Wells' science fiction classic "War Of The Worlds" and dreamed of space flight. By 1926 he had designed, built, and flown the world's first liquid fuel rocket. Launched 100 years ago, on March 16, 1926 from his aunt Effie's farm in Auburn Massachusetts, the rocket dubbed "Nell", rose to an altitude of 41 feet in a flight that lasted about 2 1/2 seconds. In this posed photo Goddard stands next to the 10 foot tall rocket, holding the launch stand frame. To achieve a stable flight without the need for fins, the rocket's heavy motor was located at the top, fed by lines from liquid oxygen and gasoline fuel tanks at the bottom. Widely recognized as a gifted experimenter and engineering genius, his rockets were many years ahead of their time. Goddard was awarded over 200 patents in rocket technology, most of them after his death in 1945. A liquid fuel rocket constructed on principles developed by Goddard landed humans on the Moon in 1969.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2603/goddardphotop9-1_wb.jpg
+<br />**Date image released:**  2026-03-29
+<br />**Title of the image:**  A Message from Earth
+<br />**Description for the image:**  What are these Earthlings trying to tell us?  The featured message was broadcast from Earth towards the globular star cluster M13 in 1974.  During the dedication of an upgrade to the Arecibo Observatory - then the largest single radio telescope in the world - a string of 1's and 0's representing the diagram was sent.  This attempt at extraterrestrial communication was mostly ceremonial - humanity regularly broadcasts radio and television signals out into space accidentally.  Even were this message received, M13 is so far away we would have to wait almost 50,000 years to hear an answer.  The featured message gives a few simple facts about humanity and its knowledge: from left to right are numbers from one to ten, atoms including hydrogen and carbon, some interesting molecules, DNA, a human with description, basics of our Solar System, and basics of the sending telescope.  Several searches for extraterrestrial intelligence are currently underway.   Explore the Universe: Random APOD Generator
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2603/Message_Arecibo_2000.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -48,39 +48,39 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2026 Mar 28 0030 UTC
+:Issued: 2026 Mar 29 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Mar 28-Mar 30 2026 is 4.00 (below NOAA
-Scale levels).
+The greatest expected 3 hr Kp for Mar 29-Mar 31 2026 is 4.67 (NOAA Scale
+G1).
 
-NOAA Kp index breakdown Mar 28-Mar 30 2026
+NOAA Kp index breakdown Mar 29-Mar 31 2026
 
-             Mar 28       Mar 29       Mar 30
-00-03UT       1.67         2.33         3.67     
-03-06UT       2.00         1.67         4.00     
-06-09UT       1.33         1.00         3.00     
-09-12UT       0.67         0.67         2.33     
-12-15UT       1.33         1.67         2.00     
-15-18UT       1.33         2.33         2.33     
-18-21UT       1.67         2.67         3.00     
-21-00UT       1.67         3.00         3.00     
+             Mar 29       Mar 30       Mar 31
+00-03UT       2.33         3.67         3.67     
+03-06UT       1.67         4.67 (G1)    3.00     
+06-09UT       1.00         3.00         2.67     
+09-12UT       0.67         2.33         2.00     
+12-15UT       1.67         2.33         2.00     
+15-18UT       2.33         2.33         2.33     
+18-21UT       2.67         3.00         2.67     
+21-00UT       3.00         3.67         2.67     
 
-Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
-significant transient or recurrent solar wind features are forecast.
+Rationale: G1 (Minor) geomagnetic storming is likely on 30 Mar in
+response to +CH HSS influences.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Mar 28-Mar 30 2026
+Solar Radiation Storm Forecast for Mar 29-Mar 31 2026
 
-              Mar 28  Mar 29  Mar 30
+              Mar 29  Mar 30  Mar 31
 S1 or greater    5%      5%      5%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -89,15 +89,16 @@ production is forecast.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-No radio blackouts were observed over the past 24 hours.
+Radio blackouts reaching the R1 levels were observed over the past 24
+hours. The largest was at Mar 28 2026 0418 UTC.
 
-Radio Blackout Forecast for Mar 28-Mar 30 2026
+Radio Blackout Forecast for Mar 29-Mar 31 2026
 
-              Mar 28        Mar 29        Mar 30
-R1-R2           45%           45%           40%
-R3 or greater    5%            5%            5%
+              Mar 29        Mar 30        Mar 31
+R1-R2           50%           50%           50%
+R3 or greater   10%           10%           10%
 
-Rationale: There is a chance for R1-R2 (Minor-Moderate) radio blackouts
-over 28-30 Mar.
+Rationale: There is a chance for R1-R2 (Minor-Moderate) radio blackouts,
+and a slight chance for an R3 (Strong) event, on 29-31 Mar.
 
 ```
