@@ -1,10 +1,15 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2026-03-29
-<br />**Title of the image:**  A Message from Earth
-<br />**Description for the image:**  What are these Earthlings trying to tell us?  The featured message was broadcast from Earth towards the globular star cluster M13 in 1974.  During the dedication of an upgrade to the Arecibo Observatory - then the largest single radio telescope in the world - a string of 1's and 0's representing the diagram was sent.  This attempt at extraterrestrial communication was mostly ceremonial - humanity regularly broadcasts radio and television signals out into space accidentally.  Even were this message received, M13 is so far away we would have to wait almost 50,000 years to hear an answer.  The featured message gives a few simple facts about humanity and its knowledge: from left to right are numbers from one to ten, atoms including hydrogen and carbon, some interesting molecules, DNA, a human with description, basics of our Solar System, and basics of the sending telescope.  Several searches for extraterrestrial intelligence are currently underway.   Explore the Universe: Random APOD Generator
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2603/Message_Arecibo_2000.jpg
+<br />**Date image released:**  2026-03-30
+<br />**This image is owned by:**  SADR Observatory Team: 
+
+J-C Dalouzy, 
+P. Bazart, M. Dherbécourt, C. Humbert,  G. Leroy, 
+J-P Quéau, H. Talbot, & E. Valin
+<br />**Title of the image:**  Peculiar Elliptical Galaxy Centaurus A
+<br />**Description for the image:**  What's happened to the center of this galaxy?  Dramatic dust lanes run across the center of unusual elliptical galaxy Centaurus A. These dust lanes are so thick they almost completely obscure the galaxy's center in visible light.  This is particularly unusual as Cen A's older stars and oval shape are characteristic of a giant elliptical galaxy, a galaxy type typically low in dark dust.  Pictured in this deep image is a complex network of foreground gas and dust, as well as shells of dim stars and a jet projecting to the upper right.  Also known as NGC 5128, Cen A is surely the result of a galactic collision where many young dust-creating stars were formed.  However, details of the creation of Cen A's unusually active center and iconic central dust lanes are still being researched.  Cen A lies only 13 million light years away, making it the closest active galaxy.    Jigsaw Galaxy: Astronomy Puzzle of the Day
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2603/CenA_SADR_5000.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -48,27 +53,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2026 Mar 29 0030 UTC
+:Issued: 2026 Mar 30 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Mar 29-Mar 31 2026 is 4.67 (NOAA Scale
+The greatest expected 3 hr Kp for Mar 30-Apr 01 2026 is 4.67 (NOAA Scale
 G1).
 
-NOAA Kp index breakdown Mar 29-Mar 31 2026
+NOAA Kp index breakdown Mar 30-Apr 01 2026
 
-             Mar 29       Mar 30       Mar 31
-00-03UT       2.33         3.67         3.67     
-03-06UT       1.67         4.67 (G1)    3.00     
-06-09UT       1.00         3.00         2.67     
-09-12UT       0.67         2.33         2.00     
-12-15UT       1.67         2.33         2.00     
-15-18UT       2.33         2.33         2.33     
-18-21UT       2.67         3.00         2.67     
-21-00UT       3.00         3.67         2.67     
+             Mar 30       Mar 31       Apr 01
+00-03UT       3.67         3.67         2.33     
+03-06UT       4.67 (G1)    3.00         2.00     
+06-09UT       3.00         2.67         2.00     
+09-12UT       2.33         2.00         2.00     
+12-15UT       2.33         2.00         2.00     
+15-18UT       2.33         2.33         2.00     
+18-21UT       3.00         2.67         2.00     
+21-00UT       3.67         2.67         2.33     
 
 Rationale: G1 (Minor) geomagnetic storming is likely on 30 Mar in
 response to +CH HSS influences.
@@ -78,9 +83,9 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Mar 29-Mar 31 2026
+Solar Radiation Storm Forecast for Mar 30-Apr 01 2026
 
-              Mar 29  Mar 30  Mar 31
+              Mar 30  Mar 31  Apr 01
 S1 or greater    5%      5%      5%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -89,16 +94,15 @@ production is forecast.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-Radio blackouts reaching the R1 levels were observed over the past 24
-hours. The largest was at Mar 28 2026 0418 UTC.
+No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Mar 29-Mar 31 2026
+Radio Blackout Forecast for Mar 30-Apr 01 2026
 
-              Mar 29        Mar 30        Mar 31
-R1-R2           50%           50%           50%
+              Mar 30        Mar 31        Apr 01
+R1-R2           45%           45%           45%
 R3 or greater   10%           10%           10%
 
 Rationale: There is a chance for R1-R2 (Minor-Moderate) radio blackouts,
-and a slight chance for an R3 (Strong) event, on 29-31 Mar.
+and a slight chance for an R3 (Strong) event on 30 Mar - 01 Apr.
 
 ```
