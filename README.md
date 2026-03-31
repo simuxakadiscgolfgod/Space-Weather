@@ -1,15 +1,10 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2026-03-30
-<br />**This image is owned by:**  SADR Observatory Team: 
-
-J-C Dalouzy, 
-P. Bazart, M. Dherbécourt, C. Humbert,  G. Leroy, 
-J-P Quéau, H. Talbot, & E. Valin
-<br />**Title of the image:**  Peculiar Elliptical Galaxy Centaurus A
-<br />**Description for the image:**  What's happened to the center of this galaxy?  Dramatic dust lanes run across the center of unusual elliptical galaxy Centaurus A. These dust lanes are so thick they almost completely obscure the galaxy's center in visible light.  This is particularly unusual as Cen A's older stars and oval shape are characteristic of a giant elliptical galaxy, a galaxy type typically low in dark dust.  Pictured in this deep image is a complex network of foreground gas and dust, as well as shells of dim stars and a jet projecting to the upper right.  Also known as NGC 5128, Cen A is surely the result of a galactic collision where many young dust-creating stars were formed.  However, details of the creation of Cen A's unusually active center and iconic central dust lanes are still being researched.  Cen A lies only 13 million light years away, making it the closest active galaxy.    Jigsaw Galaxy: Astronomy Puzzle of the Day
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2603/CenA_SADR_5000.jpg
+<br />**Date image released:**  2026-03-31
+<br />**Title of the image:**  Uranus's Largest Moon: Titania
+<br />**Description for the image:**  Titania's tortured terrain is a mix of canyons, cliffs, and craters.  NASA's interplanetary robot spacecraft Voyager 2 passed the largest moon of Uranus in 1986 and took the feature picture. That the trenches of Titania resemble those on another moon of Uranus, Ariel, indicate that Titania underwent some violent surface event possibly related to water freezing and expanding in its distant past.  Although Titania is Uranus's largest moon, it is only about half the radius of Triton - the largest moon of Uranus's sister planet Neptune, which itself is slightly smaller than Earth's Moon.  Titania, discovered by William Herschel in 1787, is essentially a large dirty iceball that is composed of about half water-ice and half rock.  There is recent speculation that radioactive heating melts some underground ice into oceans.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2603/Titania_Voyager2_960.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -53,56 +48,60 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2026 Mar 30 0030 UTC
+:Issued: 2026 Mar 31 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Mar 30-Apr 01 2026 is 4.67 (NOAA Scale
-G1).
+The greatest expected 3 hr Kp for Mar 31-Apr 02 2026 is 5.67 (NOAA Scale
+G2).
 
-NOAA Kp index breakdown Mar 30-Apr 01 2026
+NOAA Kp index breakdown Mar 31-Apr 02 2026
 
-             Mar 30       Mar 31       Apr 01
-00-03UT       3.67         3.67         2.33     
-03-06UT       4.67 (G1)    3.00         2.00     
-06-09UT       3.00         2.67         2.00     
-09-12UT       2.33         2.00         2.00     
-12-15UT       2.33         2.00         2.00     
-15-18UT       2.33         2.33         2.00     
-18-21UT       3.00         2.67         2.00     
-21-00UT       3.67         2.67         2.33     
+             Mar 31       Apr 01       Apr 02
+00-03UT       3.67         5.00 (G1)    2.67     
+03-06UT       3.00         4.67 (G1)    2.67     
+06-09UT       2.67         4.33         2.00     
+09-12UT       2.00         4.00         1.67     
+12-15UT       4.67 (G1)    3.00         1.67     
+15-18UT       5.67 (G2)    2.67         1.33     
+18-21UT       5.67 (G2)    2.00         1.67     
+21-00UT       5.00 (G1)    2.33         1.67     
 
-Rationale: G1 (Minor) geomagnetic storming is likely on 30 Mar in
-response to +CH HSS influences.
+Rationale: Enhancements are likely to reach G2 (Moderate) levels midday
+to late on 31 Mar, with a chance for G3 (Strong) storm levels due to
+possible CME effects from the 30 Mar X1.4 major flare event. Active to
+G1 (Minor) levels are then expected into 01 Apr due to continued CH HSS
+and CME effects.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Mar 30-Apr 01 2026
+Solar Radiation Storm Forecast for Mar 31-Apr 02 2026
 
-              Mar 30  Mar 31  Apr 01
-S1 or greater    5%      5%      5%
+              Mar 31  Apr 01  Apr 02
+S1 or greater   50%     50%     25%
 
-Rationale: No S1 (Minor) or greater solar radiation storms are expected.
-No significant active region activity favorable for radiation storm
-production is forecast.
+Rationale: The greater than 10 MeV proton flux is likely to exceed event
+levels (S1/Minor) on 31 Mar through 02 Apr.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-No radio blackouts were observed over the past 24 hours.
+Radio blackouts reaching the R3 levels were observed over the past 24
+hours. The largest was at Mar 30 2026 0319 UTC.
 
-Radio Blackout Forecast for Mar 30-Apr 01 2026
+Radio Blackout Forecast for Mar 31-Apr 02 2026
 
-              Mar 30        Mar 31        Apr 01
-R1-R2           45%           45%           45%
+              Mar 31        Apr 01        Apr 02
+R1-R2           55%           55%           55%
 R3 or greater   10%           10%           10%
 
-Rationale: There is a chance for R1-R2 (Minor-Moderate) radio blackouts,
-and a slight chance for an R3 (Strong) event on 30 Mar - 01 Apr.
+Rationale: Solar activity is expected to be low with M-class flares
+(R1-R2/Minor-Moderate) likely through 02 Apr and a slight chance of
+X-class flares (R3/Strong) through 02 Apr.
 
 ```

@@ -1,9 +1,4 @@
-<br />**Date image released:**  2026-03-30
-<br />**This image is owned by:**  SADR Observatory Team: 
-
-J-C Dalouzy, 
-P. Bazart, M. Dherbécourt, C. Humbert,  G. Leroy, 
-J-P Quéau, H. Talbot, & E. Valin
-<br />**Title of the image:**  Peculiar Elliptical Galaxy Centaurus A
-<br />**Description for the image:**  What's happened to the center of this galaxy?  Dramatic dust lanes run across the center of unusual elliptical galaxy Centaurus A. These dust lanes are so thick they almost completely obscure the galaxy's center in visible light.  This is particularly unusual as Cen A's older stars and oval shape are characteristic of a giant elliptical galaxy, a galaxy type typically low in dark dust.  Pictured in this deep image is a complex network of foreground gas and dust, as well as shells of dim stars and a jet projecting to the upper right.  Also known as NGC 5128, Cen A is surely the result of a galactic collision where many young dust-creating stars were formed.  However, details of the creation of Cen A's unusually active center and iconic central dust lanes are still being researched.  Cen A lies only 13 million light years away, making it the closest active galaxy.    Jigsaw Galaxy: Astronomy Puzzle of the Day
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2603/CenA_SADR_5000.jpg
+<br />**Date image released:**  2026-03-31
+<br />**Title of the image:**  Uranus's Largest Moon: Titania
+<br />**Description for the image:**  Titania's tortured terrain is a mix of canyons, cliffs, and craters.  NASA's interplanetary robot spacecraft Voyager 2 passed the largest moon of Uranus in 1986 and took the feature picture. That the trenches of Titania resemble those on another moon of Uranus, Ariel, indicate that Titania underwent some violent surface event possibly related to water freezing and expanding in its distant past.  Although Titania is Uranus's largest moon, it is only about half the radius of Triton - the largest moon of Uranus's sister planet Neptune, which itself is slightly smaller than Earth's Moon.  Titania, discovered by William Herschel in 1787, is essentially a large dirty iceball that is composed of about half water-ice and half rock.  There is recent speculation that radioactive heating melts some underground ice into oceans.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2603/Titania_Voyager2_960.jpg
