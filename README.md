@@ -1,10 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2026-03-31
-<br />**Title of the image:**  Uranus's Largest Moon: Titania
-<br />**Description for the image:**  Titania's tortured terrain is a mix of canyons, cliffs, and craters.  NASA's interplanetary robot spacecraft Voyager 2 passed the largest moon of Uranus in 1986 and took the feature picture. That the trenches of Titania resemble those on another moon of Uranus, Ariel, indicate that Titania underwent some violent surface event possibly related to water freezing and expanding in its distant past.  Although Titania is Uranus's largest moon, it is only about half the radius of Triton - the largest moon of Uranus's sister planet Neptune, which itself is slightly smaller than Earth's Moon.  Titania, discovered by William Herschel in 1787, is essentially a large dirty iceball that is composed of about half water-ice and half rock.  There is recent speculation that radioactive heating melts some underground ice into oceans.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2603/Titania_Voyager2_960.jpg
+<br />**Date image released:**  2026-04-21
+<br />**This image is owned by:**  Angel Fux
+<br />**Title of the image:**  Three Sky Arches over Snowy Alps
+<br />**Description for the image:**  Why are there three arches across the sky instead of two? Last month, after being dropped off by a helicopter at a high mountain peak in the Alps near the Swiss Italian border, an adventurous astrophotographer expected two arches of our Milky Way galaxy to be visible during the night. These were the inner arch looking in toward the center of our galaxy on the left, visible just before sunrise, and the outer arch on the right visible just after sunset.  But there were three arches. The surprised astrophotographer soon realized that the sky was so dark that an entire arc of faint zodiacal light was also noticeable -- sunlight scattered by inner Solar System dust.  And it artfully connected the two Milky Way arches!  The next morning a helicopter picked the astrophotographer back up, and after 40 hours of processing and combining that night's images, the featured triple-arch 360-degree panorama resulted.    Jigsaw Vistas: Astronomy Puzzle of the Day
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2604/TripleArchAlps_Fux_7500.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -48,60 +49,58 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2026 Mar 31 0030 UTC
+:Issued: 2026 Apr 21 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 5 (NOAA Scale
+G1).
+The greatest expected 3 hr Kp for Apr 21-Apr 23 2026 is 4.00 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Mar 31-Apr 02 2026 is 5.67 (NOAA Scale
-G2).
 
-NOAA Kp index breakdown Mar 31-Apr 02 2026
+NOAA Kp index breakdown Apr 21-Apr 23 2026
 
-             Mar 31       Apr 01       Apr 02
-00-03UT       3.67         5.00 (G1)    2.67     
-03-06UT       3.00         4.67 (G1)    2.67     
-06-09UT       2.67         4.33         2.00     
-09-12UT       2.00         4.00         1.67     
-12-15UT       4.67 (G1)    3.00         1.67     
-15-18UT       5.67 (G2)    2.67         1.33     
-18-21UT       5.67 (G2)    2.00         1.67     
-21-00UT       5.00 (G1)    2.33         1.67     
+             Apr 21       Apr 22       Apr 23
+00-03UT       3.33         2.67         1.67     
+03-06UT       4.00         2.00         1.33     
+06-09UT       3.00         2.33         1.33     
+09-12UT       2.67         2.00         1.33     
+12-15UT       2.33         2.00         1.33     
+15-18UT       3.00         2.33         1.33     
+18-21UT       2.67         2.00         1.67     
+21-00UT       2.33         2.00         1.67     
 
-Rationale: Enhancements are likely to reach G2 (Moderate) levels midday
-to late on 31 Mar, with a chance for G3 (Strong) storm levels due to
-possible CME effects from the 30 Mar X1.4 major flare event. Active to
-G1 (Minor) levels are then expected into 01 Apr due to continued CH HSS
-and CME effects.
+Rationale: Active periods (below NOAA G-scale levels) of geomagnetic
+activity are expected on 21 Apr, with a slight chance for a G1 (Minor)
+geomagnetic storm as the CH HSS effects wane.  No geomagnetic storms are
+expected on 22-23 Apr.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Mar 31-Apr 02 2026
+Solar Radiation Storm Forecast for Apr 21-Apr 23 2026
 
-              Mar 31  Apr 01  Apr 02
-S1 or greater   50%     50%     25%
+              Apr 21  Apr 22  Apr 23
+S1 or greater    1%      1%      1%
 
-Rationale: The greater than 10 MeV proton flux is likely to exceed event
-levels (S1/Minor) on 31 Mar through 02 Apr.
+Rationale: No S1 (Minor) or greater solar radiation storms are expected.
+No significant active region activity favorable for radiation storm
+production is forecast.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-Radio blackouts reaching the R3 levels were observed over the past 24
-hours. The largest was at Mar 30 2026 0319 UTC.
+No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Mar 31-Apr 02 2026
+Radio Blackout Forecast for Apr 21-Apr 23 2026
 
-              Mar 31        Apr 01        Apr 02
-R1-R2           55%           55%           55%
-R3 or greater   10%           10%           10%
+              Apr 21        Apr 22        Apr 23
+R1-R2            5%            5%            5%
+R3 or greater    1%            1%            1%
 
-Rationale: Solar activity is expected to be low with M-class flares
-(R1-R2/Minor-Moderate) likely through 02 Apr and a slight chance of
-X-class flares (R3/Strong) through 02 Apr.
+Rationale: No R1 (Minor) or greater radio blackouts are expected.  No
+significant active region flare activity is forecast.
 
 ```
