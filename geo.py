@@ -17,9 +17,6 @@ try:
 except OSError:
     pass
 
-# set column names
-geo_df = geo_df.rename(columns=geo_df.iloc[0]).drop(geo_df.index[0])
-
 #change Kp to numeric
 geo_df['Kp'] = pd.to_numeric(geo_df['Kp'], errors='coerce')
 
