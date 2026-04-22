@@ -1,11 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2026-04-21
-<br />**This image is owned by:**  Angel Fux
-<br />**Title of the image:**  Three Sky Arches over Snowy Alps
-<br />**Description for the image:**  Why are there three arches across the sky instead of two? Last month, after being dropped off by a helicopter at a high mountain peak in the Alps near the Swiss Italian border, an adventurous astrophotographer expected two arches of our Milky Way galaxy to be visible during the night. These were the inner arch looking in toward the center of our galaxy on the left, visible just before sunrise, and the outer arch on the right visible just after sunset.  But there were three arches. The surprised astrophotographer soon realized that the sky was so dark that an entire arc of faint zodiacal light was also noticeable -- sunlight scattered by inner Solar System dust.  And it artfully connected the two Milky Way arches!  The next morning a helicopter picked the astrophotographer back up, and after 40 hours of processing and combining that night's images, the featured triple-arch 360-degree panorama resulted.    Jigsaw Vistas: Astronomy Puzzle of the Day
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2604/TripleArchAlps_Fux_7500.jpg
+<br />**Date image released:**  2009-06-16
+<br />**This image is owned by:**  Tahir Sisman
+<br />**Title of the image:**  Moonrise Over Turkey
+<br />**Description for the image:**  Is the Moon larger when near the horizon?  No -- as shown above, the Moon appears to be very nearly the same size no matter its location on the sky.  Oddly, the cause or causes for the common Moon Illusion are still being debated. Two leading explanations both hinge on the illusion that foreground objects make a horizon Moon seem farther in the distance.  The historically most popular explanation then holds that the mind interprets more distant objects as wider, while a more recent explanation adds that the distance illusion may actually make the eye focus differently.  Either way, the angular diameter of the Moon is always about 0.5 degrees.  In the above time-lapse sequence of the Moon taken in 2007, with one exposure taken to bring up the foreground of Izmit Bay in Turkey.  On the occasion of our 14th anniversary, the APOD editors thank all of our contributors and mirror site operators whose volunteer efforts help bring the wonders of astronomy to millions of people around the world. Additional thanks also go to our Turkish mirror site operators for submitting the above mouseover image.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/0906/moonrise_sisman_orig.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,41 +49,39 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2026 Apr 21 0030 UTC
+:Issued: 2026 Apr 22 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 5 (NOAA Scale
 G1).
-The greatest expected 3 hr Kp for Apr 21-Apr 23 2026 is 4.00 (below NOAA
+The greatest expected 3 hr Kp for Apr 22-Apr 24 2026 is 3.00 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Apr 21-Apr 23 2026
+NOAA Kp index breakdown Apr 22-Apr 24 2026
 
-             Apr 21       Apr 22       Apr 23
-00-03UT       3.33         2.67         1.67     
-03-06UT       4.00         2.00         1.33     
-06-09UT       3.00         2.33         1.33     
-09-12UT       2.67         2.00         1.33     
-12-15UT       2.33         2.00         1.33     
-15-18UT       3.00         2.33         1.33     
-18-21UT       2.67         2.00         1.67     
-21-00UT       2.33         2.00         1.67     
+             Apr 22       Apr 23       Apr 24
+00-03UT       2.67         2.33         2.33     
+03-06UT       2.00         2.00         2.67     
+06-09UT       2.33         2.00         2.67     
+09-12UT       2.00         2.00         1.67     
+12-15UT       2.00         0.67         1.33     
+15-18UT       2.33         2.00         2.00     
+18-21UT       2.00         2.67         2.00     
+21-00UT       2.00         3.00         2.33     
 
-Rationale: Active periods (below NOAA G-scale levels) of geomagnetic
-activity are expected on 21 Apr, with a slight chance for a G1 (Minor)
-geomagnetic storm as the CH HSS effects wane.  No geomagnetic storms are
-expected on 22-23 Apr.
+Rationale: No G1 (Minor) or greater geomagnetic storms are expected as
+the ongoing CH HSS effects wane.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Apr 21-Apr 23 2026
+Solar Radiation Storm Forecast for Apr 22-Apr 24 2026
 
-              Apr 21  Apr 22  Apr 23
+              Apr 22  Apr 23  Apr 24
 S1 or greater    1%      1%      1%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -94,13 +92,13 @@ C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Apr 21-Apr 23 2026
+Radio Blackout Forecast for Apr 22-Apr 24 2026
 
-              Apr 21        Apr 22        Apr 23
-R1-R2            5%            5%            5%
+              Apr 22        Apr 23        Apr 24
+R1-R2           10%           10%           10%
 R3 or greater    1%            1%            1%
 
-Rationale: No R1 (Minor) or greater radio blackouts are expected.  No
-significant active region flare activity is forecast.
+Rationale: There is a slight chance for R1-R2 (Minor-Moderate) radio
+blackouts in the next three days.
 
 ```
