@@ -1,11 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2009-06-16
-<br />**This image is owned by:**  Tahir Sisman
-<br />**Title of the image:**  Moonrise Over Turkey
-<br />**Description for the image:**  Is the Moon larger when near the horizon?  No -- as shown above, the Moon appears to be very nearly the same size no matter its location on the sky.  Oddly, the cause or causes for the common Moon Illusion are still being debated. Two leading explanations both hinge on the illusion that foreground objects make a horizon Moon seem farther in the distance.  The historically most popular explanation then holds that the mind interprets more distant objects as wider, while a more recent explanation adds that the distance illusion may actually make the eye focus differently.  Either way, the angular diameter of the Moon is always about 0.5 degrees.  In the above time-lapse sequence of the Moon taken in 2007, with one exposure taken to bring up the foreground of Izmit Bay in Turkey.  On the occasion of our 14th anniversary, the APOD editors thank all of our contributors and mirror site operators whose volunteer efforts help bring the wonders of astronomy to millions of people around the world. Additional thanks also go to our Turkish mirror site operators for submitting the above mouseover image.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/0906/moonrise_sisman_orig.jpg
+<br />**Date image released:**  2026-04-25
+<br />**This image is owned by:**  Lorenzo Busilacchi
+<br />**Title of the image:**  The Persistence of Sunlight
+<br />**Description for the image:**  This seaside sunset offered a surreal experience, captured in a sea and skyscape from the west coast of Sardinia, Italy, planet Earth. The Daliesque scene is a composition of sequential exposures made with a camera and long telephoto lens. The Sun is not melting, though. Its shifting and fluid appearance as it nears the horizon is caused as refraction along the line of sight changes and creates distorted images or mirages of the reddened solar disk. The changes in atmospheric refraction correspond to atmospheric layers with sharply different temperatures and densities. Another famous but fleeting effect of atmospheric refraction produced by a long sight-line to the setting (or rising) Sun is often called the green flash.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2604/sequenzasunsetnebida.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,56 +49,59 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2026 Apr 22 0030 UTC
+:Issued: 2026 Apr 25 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 5 (NOAA Scale
-G1).
-The greatest expected 3 hr Kp for Apr 22-Apr 24 2026 is 3.00 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
 Scale levels).
+The greatest expected 3 hr Kp for Apr 25-Apr 27 2026 is 4.67 (NOAA Scale
+G1).
 
-NOAA Kp index breakdown Apr 22-Apr 24 2026
+NOAA Kp index breakdown Apr 25-Apr 27 2026
 
-             Apr 22       Apr 23       Apr 24
-00-03UT       2.67         2.33         2.33     
-03-06UT       2.00         2.00         2.67     
-06-09UT       2.33         2.00         2.67     
-09-12UT       2.00         2.00         1.67     
-12-15UT       2.00         0.67         1.33     
-15-18UT       2.33         2.00         2.00     
-18-21UT       2.00         2.67         2.00     
-21-00UT       2.00         3.00         2.33     
+             Apr 25       Apr 26       Apr 27
+00-03UT       3.33         4.67 (G1)    2.67     
+03-06UT       3.00         4.33         2.67     
+06-09UT       2.33         3.67         2.33     
+09-12UT       2.33         3.00         2.33     
+12-15UT       2.00         3.00         2.33     
+15-18UT       2.67         2.33         2.33     
+18-21UT       4.33         2.67         2.33     
+21-00UT       4.67 (G1)    3.00         2.00     
 
-Rationale: No G1 (Minor) or greater geomagnetic storms are expected as
-the ongoing CH HSS effects wane.
+Rationale: Isolated G1-G2 (Minor-Moderate) geomagnetic storming
+conditions are possible late on 25 Apr into early 26 Apr in response to
+the arrival of the glancing CMEs.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Apr 22-Apr 24 2026
+Solar Radiation Storm Forecast for Apr 25-Apr 27 2026
 
-              Apr 22  Apr 23  Apr 24
-S1 or greater    1%      1%      1%
+              Apr 25  Apr 26  Apr 27
+S1 or greater   25%     20%     10%
 
-Rationale: No S1 (Minor) or greater solar radiation storms are expected.
-No significant active region activity favorable for radiation storm
-production is forecast.
+Rationale: There is a chance for S1 (Minor) or greater solar radiation
+storms due to the flare activity of Region 4419 as it rotates toward the
+western limb and Region 4420 as it approaches central solar meridian.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-No radio blackouts were observed over the past 24 hours.
+Radio blackouts reaching the R3 levels were observed over the past 24
+hours. The largest was at Apr 24 2026 0813 UTC.
 
-Radio Blackout Forecast for Apr 22-Apr 24 2026
+Radio Blackout Forecast for Apr 25-Apr 27 2026
 
-              Apr 22        Apr 23        Apr 24
-R1-R2           10%           10%           10%
-R3 or greater    1%            1%            1%
+              Apr 25        Apr 26        Apr 27
+R1-R2           75%           75%           70%
+R3 or greater   35%           30%           20%
 
-Rationale: There is a slight chance for R1-R2 (Minor-Moderate) radio
-blackouts in the next three days.
+Rationale: R1-R2 (Minor-Moderate) radio blackouts are expected through
+26 Apr, with a chance for R3 (Strong or greater) radio blackouts,
+primarily driven by the ongoing complexity of Regions 4419 and 4420.
 
 ```
