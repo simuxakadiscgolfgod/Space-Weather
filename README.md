@@ -1,11 +1,10 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2026-04-25
-<br />**This image is owned by:**  Lorenzo Busilacchi
-<br />**Title of the image:**  The Persistence of Sunlight
-<br />**Description for the image:**  This seaside sunset offered a surreal experience, captured in a sea and skyscape from the west coast of Sardinia, Italy, planet Earth. The Daliesque scene is a composition of sequential exposures made with a camera and long telephoto lens. The Sun is not melting, though. Its shifting and fluid appearance as it nears the horizon is caused as refraction along the line of sight changes and creates distorted images or mirages of the reddened solar disk. The changes in atmospheric refraction correspond to atmospheric layers with sharply different temperatures and densities. Another famous but fleeting effect of atmospheric refraction produced by a long sight-line to the setting (or rising) Sun is often called the green flash.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2604/sequenzasunsetnebida.jpg
+<br />**Date image released:**  2026-04-26
+<br />**Title of the image:**  Mystic Mountain Monster being Destroyed
+<br />**Description for the image:**  Inside the head of this interstellar monster is a star that is slowly destroying it.  The huge monster, actually an inanimate series of pillars of gas and dust, measures light years in length.  The in-head star is not itself visible through the opaque interstellar dust but is bursting out partly by ejecting opposing beams of energetic particles called Herbig-Haro jets.  Located about 7,500 light years away in the Carina Nebula and known informally as Mystic Mountain, the appearance of these pillars is dominated by dark dust even though they are composed mostly of clear hydrogen gas.  The featured image was taken with the Hubble Space Telescope. All over these pillars, the energetic light and winds from massive newly formed stars are evaporating and dispersing the dusty stellar nurseries in which they formed.  Within a few million years, the head of this giant, as well as most of its body, will have been completely evaporated by internal and surrounding stars.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2604/MysticPillar_HubbleSchmidt_1433.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,59 +48,60 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2026 Apr 25 0030 UTC
+:Issued: 2026 Apr 26 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Apr 25-Apr 27 2026 is 4.67 (NOAA Scale
+The greatest expected 3 hr Kp for Apr 26-Apr 28 2026 is 4.67 (NOAA Scale
 G1).
 
-NOAA Kp index breakdown Apr 25-Apr 27 2026
+NOAA Kp index breakdown Apr 26-Apr 28 2026
 
-             Apr 25       Apr 26       Apr 27
-00-03UT       3.33         4.67 (G1)    2.67     
-03-06UT       3.00         4.33         2.67     
-06-09UT       2.33         3.67         2.33     
-09-12UT       2.33         3.00         2.33     
-12-15UT       2.00         3.00         2.33     
-15-18UT       2.67         2.33         2.33     
-18-21UT       4.33         2.67         2.33     
-21-00UT       4.67 (G1)    3.00         2.00     
+             Apr 26       Apr 27       Apr 28
+00-03UT       4.67 (G1)    3.67         2.33     
+03-06UT       4.33         3.00         2.00     
+06-09UT       3.33         2.67         2.00     
+09-12UT       3.33         2.33         2.00     
+12-15UT       2.33         2.00         2.33     
+15-18UT       2.33         2.33         2.00     
+18-21UT       3.00         3.33         2.00     
+21-00UT       3.33         3.33         2.00     
 
 Rationale: Isolated G1-G2 (Minor-Moderate) geomagnetic storming
-conditions are possible late on 25 Apr into early 26 Apr in response to
-the arrival of the glancing CMEs.
+conditions are possible (G1 likely with a chance for G2)early 26 Apr in
+response to the arrival of the glancing CMEs.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Apr 25-Apr 27 2026
+Solar Radiation Storm Forecast for Apr 26-Apr 28 2026
 
-              Apr 25  Apr 26  Apr 27
-S1 or greater   25%     20%     10%
+              Apr 26  Apr 27  Apr 28
+S1 or greater   10%     10%     10%
 
-Rationale: There is a chance for S1 (Minor) or greater solar radiation
-storms due to the flare activity of Region 4419 as it rotates toward the
-western limb and Region 4420 as it approaches central solar meridian.
+Rationale: There is a chance to exceed the S1 (Minor) solar radiation
+storm thresholds due to the flare potential of Region 4419 further
+beyond the western limb, and Region 4420 near the central solar
+meridian.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-Radio blackouts reaching the R3 levels were observed over the past 24
-hours. The largest was at Apr 24 2026 0813 UTC.
+Radio blackouts reaching the R1 levels were observed over the past 24
+hours. The largest was at Apr 25 2026 0759 UTC.
 
-Radio Blackout Forecast for Apr 25-Apr 27 2026
+Radio Blackout Forecast for Apr 26-Apr 28 2026
 
-              Apr 25        Apr 26        Apr 27
-R1-R2           75%           75%           70%
-R3 or greater   35%           30%           20%
+              Apr 26        Apr 27        Apr 28
+R1-R2           55%           55%           55%
+R3 or greater   15%           15%           15%
 
-Rationale: R1-R2 (Minor-Moderate) radio blackouts are expected through
-26 Apr, with a chance for R3 (Strong or greater) radio blackouts,
-primarily driven by the ongoing complexity of Regions 4419 and 4420.
+Rationale: R1-R2 (Minor-Moderate) radio blackouts are likely, with a
+slight chance for R3 (Strong or greater) events through 28 Apr,
+primarily driven by the complexity of Regions 4420, 4423, and 4425.
 
 ```
