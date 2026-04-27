@@ -1,10 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2026-04-26
-<br />**Title of the image:**  Mystic Mountain Monster being Destroyed
-<br />**Description for the image:**  Inside the head of this interstellar monster is a star that is slowly destroying it.  The huge monster, actually an inanimate series of pillars of gas and dust, measures light years in length.  The in-head star is not itself visible through the opaque interstellar dust but is bursting out partly by ejecting opposing beams of energetic particles called Herbig-Haro jets.  Located about 7,500 light years away in the Carina Nebula and known informally as Mystic Mountain, the appearance of these pillars is dominated by dark dust even though they are composed mostly of clear hydrogen gas.  The featured image was taken with the Hubble Space Telescope. All over these pillars, the energetic light and winds from massive newly formed stars are evaporating and dispersing the dusty stellar nurseries in which they formed.  Within a few million years, the head of this giant, as well as most of its body, will have been completely evaporated by internal and surrounding stars.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2604/MysticPillar_HubbleSchmidt_1433.jpg
+<br />**Date image released:**  2026-04-27
+<br />**This image is owned by:**  Uli Fehr
+<br />**Title of the image:**  Comet R3 PanSTARRS Behind Satellite Trails
+<br />**Description for the image:**  Can you find the comet? Somewhere through this web of satellite trails is Comet C/2025 R3 (PanSTARRS), a bright visitor passing through the inner Solar System. Now, the orbiting satellites themselves only appear as streaks because of the long camera exposure, over 10 minutes in this case. On the contrary, to the eye, satellites appear as points that drift slowly across the night sky and shine by reflecting sunlight -- primarily just after sunset and before sunrise.  The featured image was taken just before sunrise two weeks ago from Bavaria, Germany.  Presently, Comet R3 PanSTARRS is hard to see for even another reason -- because it is so (angularly) close to the Sun. As the comet rounds the Sun, it will be best seen in coming weeks from southern hemispheree skies, although then it will be heading out to interstellar space and fading. If you haven't yet found the comet, don't despair; please take a closer look just above the image center.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2604/CometTrails_Fehr_2756.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -48,60 +49,56 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2026 Apr 26 0030 UTC
+:Issued: 2026 Apr 27 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Apr 26-Apr 28 2026 is 4.67 (NOAA Scale
-G1).
+The greatest expected 3 hr Kp for Apr 27-Apr 29 2026 is 3.67 (below NOAA
+Scale levels).
 
-NOAA Kp index breakdown Apr 26-Apr 28 2026
+NOAA Kp index breakdown Apr 27-Apr 29 2026
 
-             Apr 26       Apr 27       Apr 28
-00-03UT       4.67 (G1)    3.67         2.33     
-03-06UT       4.33         3.00         2.00     
-06-09UT       3.33         2.67         2.00     
-09-12UT       3.33         2.33         2.00     
-12-15UT       2.33         2.00         2.33     
-15-18UT       2.33         2.33         2.00     
-18-21UT       3.00         3.33         2.00     
-21-00UT       3.33         3.33         2.00     
+             Apr 27       Apr 28       Apr 29
+00-03UT       3.67         2.33         2.00     
+03-06UT       3.33         2.00         2.33     
+06-09UT       3.00         1.33         1.67     
+09-12UT       2.33         1.00         1.33     
+12-15UT       2.00         1.67         1.00     
+15-18UT       1.33         1.33         2.67     
+18-21UT       2.33         1.67         3.00     
+21-00UT       2.33         2.00         3.33     
 
-Rationale: Isolated G1-G2 (Minor-Moderate) geomagnetic storming
-conditions are possible (G1 likely with a chance for G2)early 26 Apr in
-response to the arrival of the glancing CMEs.
+Rationale: No G1 (Minor) or greater geomagnetic storms are expected. 
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Apr 26-Apr 28 2026
+Solar Radiation Storm Forecast for Apr 27-Apr 29 2026
 
-              Apr 26  Apr 27  Apr 28
+              Apr 27  Apr 28  Apr 29
 S1 or greater   10%     10%     10%
 
-Rationale: There is a chance to exceed the S1 (Minor) solar radiation
-storm thresholds due to the flare potential of Region 4419 further
-beyond the western limb, and Region 4420 near the central solar
-meridian.
+Rationale: There exists a slight chance for S1 (Minor) or greater solar
+radiation storms over the next three days (27-29 Apr).
 
 C. NOAA Radio Blackout Activity and Forecast
 
-Radio blackouts reaching the R1 levels were observed over the past 24
-hours. The largest was at Apr 25 2026 0759 UTC.
+Radio blackouts reaching the R2 levels were observed over the past 24
+hours. The largest was at Apr 26 2026 2257 UTC.
 
-Radio Blackout Forecast for Apr 26-Apr 28 2026
+Radio Blackout Forecast for Apr 27-Apr 29 2026
 
-              Apr 26        Apr 27        Apr 28
+              Apr 27        Apr 28        Apr 29
 R1-R2           55%           55%           55%
 R3 or greater   15%           15%           15%
 
-Rationale: R1-R2 (Minor-Moderate) radio blackouts are likely, with a
-slight chance for R3 (Strong or greater) events through 28 Apr,
-primarily driven by the complexity of Regions 4420, 4423, and 4425.
+Rationale: R1-R2 (Minor-Moderate) radio blackouts remain likely, with a
+slight chance for R3 (Strong), over 27-29 Apr due to the flare potential
+from multiple complex regions on the Suns visible disk.
 
 ```
