@@ -1,11 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2026-04-27
-<br />**This image is owned by:**  Uli Fehr
-<br />**Title of the image:**  Comet R3 PanSTARRS Behind Satellite Trails
-<br />**Description for the image:**  Can you find the comet? Somewhere through this web of satellite trails is Comet C/2025 R3 (PanSTARRS), a bright visitor passing through the inner Solar System. Now, the orbiting satellites themselves only appear as streaks because of the long camera exposure, over 10 minutes in this case. On the contrary, to the eye, satellites appear as points that drift slowly across the night sky and shine by reflecting sunlight -- primarily just after sunset and before sunrise.  The featured image was taken just before sunrise two weeks ago from Bavaria, Germany.  Presently, Comet R3 PanSTARRS is hard to see for even another reason -- because it is so (angularly) close to the Sun. As the comet rounds the Sun, it will be best seen in coming weeks from southern hemispheree skies, although then it will be heading out to interstellar space and fading. If you haven't yet found the comet, don't despair; please take a closer look just above the image center.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2604/CometTrails_Fehr_2756.jpg
+<br />**Date image released:**  2026-04-28
+<br />**This image is owned by:**  Marcelo Salemme
+<br />**Title of the image:**  CG 30: Cometary Globules
+<br />**Description for the image:**  They're like mountain peaks, but they are forming stars. Bright-rimmed, flowing shapes gather near the center of this rich starfield toward the borders of the nautical southern constellations Puppis and Vela. Composed of interstellar gas and  dust, the grouping of light-year sized cometary globules is about 1300 light-years distant. Energetic ultraviolet light from nearby hot stars has molded the globules and ionized their bright rims. The globules also stream away from the Vela supernova remnant which may have influenced their swept-back shapes. Within them, cores of cold gas and dust are likely collapsing to form low mass stars whose formation will ultimately cause the globules to disperse. In fact, cometary globule CG 30 (upper right in the group) sports a small reddish glow inside its head, a telltale sign of energetic jets from a star in the early stages of formation.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2604/CG30Globules_Salamme_2772.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,56 +49,58 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2026 Apr 27 0030 UTC
+:Issued: 2026 Apr 28 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Apr 27-Apr 29 2026 is 3.67 (below NOAA
+The greatest expected 3 hr Kp for Apr 28-Apr 30 2026 is 4.00 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Apr 27-Apr 29 2026
+NOAA Kp index breakdown Apr 28-Apr 30 2026
 
-             Apr 27       Apr 28       Apr 29
-00-03UT       3.67         2.33         2.00     
-03-06UT       3.33         2.00         2.33     
-06-09UT       3.00         1.33         1.67     
-09-12UT       2.33         1.00         1.33     
-12-15UT       2.00         1.67         1.00     
-15-18UT       1.33         1.33         2.67     
-18-21UT       2.33         1.67         3.00     
-21-00UT       2.33         2.00         3.33     
+             Apr 28       Apr 29       Apr 30
+00-03UT       1.67         2.00         4.00     
+03-06UT       1.33         2.33         3.33     
+06-09UT       1.33         1.67         2.67     
+09-12UT       1.33         1.33         3.00     
+12-15UT       1.67         2.00         2.33     
+15-18UT       1.33         3.00         2.33     
+18-21UT       1.33         3.33         2.00     
+21-00UT       1.67         4.00         3.00     
 
-Rationale: No G1 (Minor) or greater geomagnetic storms are expected. 
+Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
+significant transient or recurrent solar wind features are forecast.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Apr 27-Apr 29 2026
+Solar Radiation Storm Forecast for Apr 28-Apr 30 2026
 
-              Apr 27  Apr 28  Apr 29
-S1 or greater   10%     10%     10%
+              Apr 28  Apr 29  Apr 30
+S1 or greater   15%     15%     15%
 
-Rationale: There exists a slight chance for S1 (Minor) or greater solar
-radiation storms over the next three days (27-29 Apr).
+Rationale: There is a slight chance the greater than 10 MeV proton flux
+could reach S1 (Minor) levels, but is mainly expected to remain at
+background levels 28-30 Apr.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-Radio blackouts reaching the R2 levels were observed over the past 24
-hours. The largest was at Apr 26 2026 2257 UTC.
+Radio blackouts reaching the R1 levels were observed over the past 24
+hours. The largest was at Apr 27 2026 0645 UTC.
 
-Radio Blackout Forecast for Apr 27-Apr 29 2026
+Radio Blackout Forecast for Apr 28-Apr 30 2026
 
-              Apr 27        Apr 28        Apr 29
-R1-R2           55%           55%           55%
-R3 or greater   15%           15%           15%
+              Apr 28        Apr 29        Apr 30
+R1-R2           70%           70%           70%
+R3 or greater   25%           25%           25%
 
-Rationale: R1-R2 (Minor-Moderate) radio blackouts remain likely, with a
-slight chance for R3 (Strong), over 27-29 Apr due to the flare potential
-from multiple complex regions on the Suns visible disk.
+Rationale: There is a high likelihood for R1/R2 (Minor/Moderate) radio
+blackouts, and a slight chance for R3 (Strong or greater) events through
+30 Apr, due primarily to the complexity of regions 4420 and 4425.
 
 ```
