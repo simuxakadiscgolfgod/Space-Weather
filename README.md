@@ -1,11 +1,18 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2026-04-28
-<br />**This image is owned by:**  Marcelo Salemme
-<br />**Title of the image:**  CG 30: Cometary Globules
-<br />**Description for the image:**  They're like mountain peaks, but they are forming stars. Bright-rimmed, flowing shapes gather near the center of this rich starfield toward the borders of the nautical southern constellations Puppis and Vela. Composed of interstellar gas and  dust, the grouping of light-year sized cometary globules is about 1300 light-years distant. Energetic ultraviolet light from nearby hot stars has molded the globules and ionized their bright rims. The globules also stream away from the Vela supernova remnant which may have influenced their swept-back shapes. Within them, cores of cold gas and dust are likely collapsing to form low mass stars whose formation will ultimately cause the globules to disperse. In fact, cometary globule CG 30 (upper right in the group) sports a small reddish glow inside its head, a telltale sign of energetic jets from a star in the early stages of formation.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2604/CG30Globules_Salamme_2772.jpg
+<br />**Date image released:**  2026-04-29
+<br />**This image is owned by:**  Gianni Tumino
+
+Text:
+Keighley Rockcliffe  
+(NASA
+GSFC, 
+UMBC CSST, 
+CRESST II)
+<br />**Title of the image:**  The Moon, Venus, and the Pleiades
+<br />**Description for the image:**  No, Earth did not recently acquire six more moons!  Today’s APOD is a combination of images following the Moon, Venus, and the Pleiades across a southern Sicilian sky as twilight turned to evening on April 19. From 2023 to 2029, the Pleiades' and the Moon “visit" each other once per month due to the Pleiades' location in the ecliptic plane. April 2026 saw the celestial alignment of their visit with Venus.  About six stars in the Pleiades cluster (Messier 45) are typically visible with the unaided eye. Due to the cluster’s visibility across the world, there are many myths and legends across cultures associated with the Pleiades. The Haudenosaunee people of North America, for example, say that seven boys danced so enthusiastically that they lifted off into the sky. Astronomers recently found thousands more Pleiades members, showing that after thousands of years of gazing upon this cluster, there is yet more to learn about the Pleiades.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2604/moon_venus_pleiades.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,27 +56,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2026 Apr 28 0030 UTC
+:Issued: 2026 Apr 29 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 1 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Apr 28-Apr 30 2026 is 4.00 (below NOAA
+The greatest expected 3 hr Kp for Apr 29-May 01 2026 is 4.00 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Apr 28-Apr 30 2026
+NOAA Kp index breakdown Apr 29-May 01 2026
 
-             Apr 28       Apr 29       Apr 30
-00-03UT       1.67         2.00         4.00     
-03-06UT       1.33         2.33         3.33     
-06-09UT       1.33         1.67         2.67     
-09-12UT       1.33         1.33         3.00     
-12-15UT       1.67         2.00         2.33     
-15-18UT       1.33         3.00         2.33     
-18-21UT       1.33         3.33         2.00     
-21-00UT       1.67         4.00         3.00     
+             Apr 29       Apr 30       May 01
+00-03UT       0.33         4.00         3.00     
+03-06UT       0.67         3.33         2.67     
+06-09UT       1.33         2.67         2.67     
+09-12UT       1.33         3.00         2.33     
+12-15UT       1.00         2.33         2.00     
+15-18UT       1.00         2.33         2.00     
+18-21UT       1.33         2.00         2.00     
+21-00UT       1.67         3.00         2.33     
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
 significant transient or recurrent solar wind features are forecast.
@@ -79,28 +86,28 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Apr 28-Apr 30 2026
+Solar Radiation Storm Forecast for Apr 29-May 01 2026
 
-              Apr 28  Apr 29  Apr 30
+              Apr 29  Apr 30  May 01
 S1 or greater   15%     15%     15%
 
 Rationale: There is a slight chance the greater than 10 MeV proton flux
 could reach S1 (Minor) levels, but is mainly expected to remain at
-background levels 28-30 Apr.
+background levels 29-30 Apr and 01 May.
 
 C. NOAA Radio Blackout Activity and Forecast
 
 Radio blackouts reaching the R1 levels were observed over the past 24
-hours. The largest was at Apr 27 2026 0645 UTC.
+hours. The largest was at Apr 28 2026 1353 UTC.
 
-Radio Blackout Forecast for Apr 28-Apr 30 2026
+Radio Blackout Forecast for Apr 29-May 01 2026
 
-              Apr 28        Apr 29        Apr 30
+              Apr 29        Apr 30        May 01
 R1-R2           70%           70%           70%
-R3 or greater   25%           25%           25%
+R3 or greater   20%           20%           20%
 
 Rationale: There is a high likelihood for R1/R2 (Minor/Moderate) radio
 blackouts, and a slight chance for R3 (Strong or greater) events through
-30 Apr, due primarily to the complexity of regions 4420 and 4425.
+01 May, due primarily to the complexity of regions 4420 and 4425.
 
 ```
