@@ -1,6 +1,6 @@
 ```
 :Product: 3-Day Forecast
-:Issued: 2026 Apr 29 0030 UTC
+:Issued: 2026 Apr 29 1230 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
@@ -15,7 +15,7 @@ NOAA Kp index breakdown Apr 29-May 01 2026
              Apr 29       Apr 30       May 01
 00-03UT       0.33         4.00         3.00     
 03-06UT       0.67         3.33         2.67     
-06-09UT       1.33         2.67         2.67     
+06-09UT       1.00         2.67         2.67     
 09-12UT       1.33         3.00         2.33     
 12-15UT       1.00         2.33         2.00     
 15-18UT       1.00         2.33         2.00     
@@ -37,7 +37,8 @@ S1 or greater   15%     15%     15%
 
 Rationale: There is a slight chance the greater than 10 MeV proton flux
 could reach S1 (Minor) levels, but is mainly expected to remain at
-background levels 29-30 Apr and 01 May.
+background levels 29 Apr - 01 May.
+
 
 C. NOAA Radio Blackout Activity and Forecast
 

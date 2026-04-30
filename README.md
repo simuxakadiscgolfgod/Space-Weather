@@ -1,18 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2026-04-29
-<br />**This image is owned by:**  Gianni Tumino
-
-Text:
-Keighley Rockcliffe  
-(NASA
-GSFC, 
-UMBC CSST, 
-CRESST II)
-<br />**Title of the image:**  The Moon, Venus, and the Pleiades
-<br />**Description for the image:**  No, Earth did not recently acquire six more moons!  Today’s APOD is a combination of images following the Moon, Venus, and the Pleiades across a southern Sicilian sky as twilight turned to evening on April 19. From 2023 to 2029, the Pleiades' and the Moon “visit" each other once per month due to the Pleiades' location in the ecliptic plane. April 2026 saw the celestial alignment of their visit with Venus.  About six stars in the Pleiades cluster (Messier 45) are typically visible with the unaided eye. Due to the cluster’s visibility across the world, there are many myths and legends across cultures associated with the Pleiades. The Haudenosaunee people of North America, for example, say that seven boys danced so enthusiastically that they lifted off into the sky. Astronomers recently found thousands more Pleiades members, showing that after thousands of years of gazing upon this cluster, there is yet more to learn about the Pleiades.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2604/moon_venus_pleiades.jpg
+<br />**Date image released:**  2015-09-23
+<br />**This image is owned by:**  Adrianos Golemis
+<br />**Title of the image:**  Antarctic Analemma
+<br />**Description for the image:**  Does the Sun return to the same spot on the sky every day? No.  A better and more visual answer to that question is an analemma, a composite image taken from the same spot at the same time over the course of a year. The featured weekly analemma was taken despite cold temperatures and high winds near the Concordia Station in Antarctica. The position of the Sun at 4 pm was captured on multiple days in the digital composite image, believed to be the first analemma constructed from Antarctica. The reason the image only shows the Sun from September to March is because the Sun was below the horizon for much of the rest of the year. In fact, today being an equinox, the Sun rises today at the South Pole after a six month absence and won't set again until the next equinox in March, baring large atmospheric refraction effects. Conversely, today the Sun sets at the North Pole after half a year of continuous daylight. For all of the Earth in between, though, the equinox means that today will have a nighttime and daytime that are both 12 hours long.    Follow APOD on: Facebook,  Google Plus, or Twitter
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/1509/AnalemmaAntarctica_Golemis_4608.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -56,7 +49,7 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2026 Apr 29 0030 UTC
+:Issued: 2026 Apr 29 1230 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
@@ -71,7 +64,7 @@ NOAA Kp index breakdown Apr 29-May 01 2026
              Apr 29       Apr 30       May 01
 00-03UT       0.33         4.00         3.00     
 03-06UT       0.67         3.33         2.67     
-06-09UT       1.33         2.67         2.67     
+06-09UT       1.00         2.67         2.67     
 09-12UT       1.33         3.00         2.33     
 12-15UT       1.00         2.33         2.00     
 15-18UT       1.00         2.33         2.00     
@@ -93,7 +86,8 @@ S1 or greater   15%     15%     15%
 
 Rationale: There is a slight chance the greater than 10 MeV proton flux
 could reach S1 (Minor) levels, but is mainly expected to remain at
-background levels 29-30 Apr and 01 May.
+background levels 29 Apr - 01 May.
+
 
 C. NOAA Radio Blackout Activity and Forecast
 

@@ -1,12 +1,5 @@
-<br />**Date image released:**  2026-04-29
-<br />**This image is owned by:**  Gianni Tumino
-
-Text:
-Keighley Rockcliffe  
-(NASA
-GSFC, 
-UMBC CSST, 
-CRESST II)
-<br />**Title of the image:**  The Moon, Venus, and the Pleiades
-<br />**Description for the image:**  No, Earth did not recently acquire six more moons!  Today’s APOD is a combination of images following the Moon, Venus, and the Pleiades across a southern Sicilian sky as twilight turned to evening on April 19. From 2023 to 2029, the Pleiades' and the Moon “visit" each other once per month due to the Pleiades' location in the ecliptic plane. April 2026 saw the celestial alignment of their visit with Venus.  About six stars in the Pleiades cluster (Messier 45) are typically visible with the unaided eye. Due to the cluster’s visibility across the world, there are many myths and legends across cultures associated with the Pleiades. The Haudenosaunee people of North America, for example, say that seven boys danced so enthusiastically that they lifted off into the sky. Astronomers recently found thousands more Pleiades members, showing that after thousands of years of gazing upon this cluster, there is yet more to learn about the Pleiades.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2604/moon_venus_pleiades.jpg
+<br />**Date image released:**  2015-09-23
+<br />**This image is owned by:**  Adrianos Golemis
+<br />**Title of the image:**  Antarctic Analemma
+<br />**Description for the image:**  Does the Sun return to the same spot on the sky every day? No.  A better and more visual answer to that question is an analemma, a composite image taken from the same spot at the same time over the course of a year. The featured weekly analemma was taken despite cold temperatures and high winds near the Concordia Station in Antarctica. The position of the Sun at 4 pm was captured on multiple days in the digital composite image, believed to be the first analemma constructed from Antarctica. The reason the image only shows the Sun from September to March is because the Sun was below the horizon for much of the rest of the year. In fact, today being an equinox, the Sun rises today at the South Pole after a six month absence and won't set again until the next equinox in March, baring large atmospheric refraction effects. Conversely, today the Sun sets at the North Pole after half a year of continuous daylight. For all of the Earth in between, though, the equinox means that today will have a nighttime and daytime that are both 12 hours long.    Follow APOD on: Facebook,  Google Plus, or Twitter
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/1509/AnalemmaAntarctica_Golemis_4608.jpg
