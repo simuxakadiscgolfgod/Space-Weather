@@ -1,11 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2015-09-23
-<br />**This image is owned by:**  Adrianos Golemis
-<br />**Title of the image:**  Antarctic Analemma
-<br />**Description for the image:**  Does the Sun return to the same spot on the sky every day? No.  A better and more visual answer to that question is an analemma, a composite image taken from the same spot at the same time over the course of a year. The featured weekly analemma was taken despite cold temperatures and high winds near the Concordia Station in Antarctica. The position of the Sun at 4 pm was captured on multiple days in the digital composite image, believed to be the first analemma constructed from Antarctica. The reason the image only shows the Sun from September to March is because the Sun was below the horizon for much of the rest of the year. In fact, today being an equinox, the Sun rises today at the South Pole after a six month absence and won't set again until the next equinox in March, baring large atmospheric refraction effects. Conversely, today the Sun sets at the North Pole after half a year of continuous daylight. For all of the Earth in between, though, the equinox means that today will have a nighttime and daytime that are both 12 hours long.    Follow APOD on: Facebook,  Google Plus, or Twitter
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/1509/AnalemmaAntarctica_Golemis_4608.jpg
+<br />**Date image released:**  2026-05-01
+<br />**This image is owned by:**  Chuck Ayoub
+<br />**Title of the image:**  Markarian's Chain
+<br />**Description for the image:**  Near the heart of the Virgo Galaxy Cluster, a string of galaxies known as Markarian's Chain stretches across this telescopic field of view. Anchored in the frame at bottom right by prominent lenticular galaxies, M84 (bottom) and M86, you can follow the chain's gentle arc up and toward the left. Near center you'll spot the pair of interacting galaxies NGC 4438 and NGC 4435, known to some as Markarian's Eyes. An estimated 50 million light-years distant, the Virgo Cluster itself is the nearest galaxy cluster. With up to about 2,000 member galaxies, it has a noticeable gravitational influence on our own Local Group of Galaxies. Within the Virgo Cluster at least seven galaxies in Markarian's Chain  appear to move coherently, while others may appear to be part of the chain by chance.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2605/M84andM86.png
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,59 +49,55 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2026 Apr 29 1230 UTC
+:Issued: 2026 May 01 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 1 (below NOAA
-Scale levels).
-The greatest expected 3 hr Kp for Apr 29-May 01 2026 is 4.00 (below NOAA
-Scale levels).
+The greatest observed 3 hr Kp over the past 24 hours was 5 (NOAA Scale
+G1).
+The greatest expected 3 hr Kp for May 01-May 03 2026 is 4.67 (NOAA Scale
+G1).
 
-NOAA Kp index breakdown Apr 29-May 01 2026
+NOAA Kp index breakdown May 01-May 03 2026
 
-             Apr 29       Apr 30       May 01
-00-03UT       0.33         4.00         3.00     
-03-06UT       0.67         3.33         2.67     
-06-09UT       1.00         2.67         2.67     
-09-12UT       1.33         3.00         2.33     
-12-15UT       1.00         2.33         2.00     
-15-18UT       1.00         2.33         2.00     
-18-21UT       1.33         2.00         2.00     
-21-00UT       1.67         3.00         2.33     
+             May 01       May 02       May 03
+00-03UT       2.67         2.33         2.33     
+03-06UT       3.00         2.33         1.67     
+06-09UT       4.67 (G1)    2.33         1.33     
+09-12UT       2.67         2.33         2.33     
+12-15UT       3.67         2.00         2.67     
+15-18UT       2.00         2.00         3.00     
+18-21UT       2.00         2.00         3.33     
+21-00UT       1.67         2.00         3.33     
 
-Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
-significant transient or recurrent solar wind features are forecast.
+Rationale: G1 (Minor) geomagnetic storms are expected on 01 May due to
+influence from a negative polarity coronal hole.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Apr 29-May 01 2026
+Solar Radiation Storm Forecast for May 01-May 03 2026
 
-              Apr 29  Apr 30  May 01
-S1 or greater   15%     15%     15%
+              May 01  May 02  May 03
+S1 or greater   10%     10%     10%
 
-Rationale: There is a slight chance the greater than 10 MeV proton flux
-could reach S1 (Minor) levels, but is mainly expected to remain at
-background levels 29 Apr - 01 May.
-
+Rationale: There exists a slight chance for S1 (Minor) or greater solar
+radiation storms over 01-03 May.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-Radio blackouts reaching the R1 levels were observed over the past 24
-hours. The largest was at Apr 28 2026 1353 UTC.
+No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Apr 29-May 01 2026
+Radio Blackout Forecast for May 01-May 03 2026
 
-              Apr 29        Apr 30        May 01
-R1-R2           70%           70%           70%
-R3 or greater   20%           20%           20%
+              May 01        May 02        May 03
+R1-R2           50%           50%           50%
+R3 or greater   10%           10%           10%
 
-Rationale: There is a high likelihood for R1/R2 (Minor/Moderate) radio
-blackouts, and a slight chance for R3 (Strong or greater) events through
-01 May, due primarily to the complexity of regions 4420 and 4425.
+Rationale: A chance exists for R1-R2 (Minor-Moderate) radio blackouts,
+with a slight chance for R3 (Strong), over 01-03 May.
 
 ```
