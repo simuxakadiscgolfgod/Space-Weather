@@ -1,11 +1,10 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2026-05-01
-<br />**This image is owned by:**  Chuck Ayoub
-<br />**Title of the image:**  Markarian's Chain
-<br />**Description for the image:**  Near the heart of the Virgo Galaxy Cluster, a string of galaxies known as Markarian's Chain stretches across this telescopic field of view. Anchored in the frame at bottom right by prominent lenticular galaxies, M84 (bottom) and M86, you can follow the chain's gentle arc up and toward the left. Near center you'll spot the pair of interacting galaxies NGC 4438 and NGC 4435, known to some as Markarian's Eyes. An estimated 50 million light-years distant, the Virgo Cluster itself is the nearest galaxy cluster. With up to about 2,000 member galaxies, it has a noticeable gravitational influence on our own Local Group of Galaxies. Within the Virgo Cluster at least seven galaxies in Markarian's Chain  appear to move coherently, while others may appear to be part of the chain by chance.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2605/M84andM86.png
+<br />**Date image released:**  2026-05-02
+<br />**Title of the image:**  Seeing Titan
+<br />**Description for the image:**  Shrouded in a thick atmosphere, the surface of Saturn's largest moon, Titan, is really hard to see. Small particles suspended in Titan's upper atmosphere cause an almost impenetrable haze, strongly scattering light at visible wavelengths and hiding surface features from prying eyes. Still, Titan's surface is better imaged at infrared wavelengths, where scattering is weaker and atmospheric absorption is reduced. Arrayed around this visible light image (center) of Titan are some of the clearest global infrared views of the tantalizing moon so far. In false color, the six panels present a consistent processing of 13 years of infrared image data from the Visual and Infrared Mapping Spectrometer (VIMS) on board the Cassini spacecraft orbiting Saturn from 2004 to 2017. They offer a stunning comparison with Cassini's visible light view. NASA's revolutionary rotorcraft mission to Titan's surface is due to launch no earlier than July, 2028.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2605/PIA21923_fig1SeeingTitan2400.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,55 +48,57 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2026 May 01 0030 UTC
+:Issued: 2026 May 02 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 5 (NOAA Scale
-G1).
-The greatest expected 3 hr Kp for May 01-May 03 2026 is 4.67 (NOAA Scale
-G1).
+The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
+Scale levels).
+The greatest expected 3 hr Kp for May 02-May 04 2026 is 4.00 (below NOAA
+Scale levels).
 
-NOAA Kp index breakdown May 01-May 03 2026
+NOAA Kp index breakdown May 02-May 04 2026
 
-             May 01       May 02       May 03
-00-03UT       2.67         2.33         2.33     
-03-06UT       3.00         2.33         1.67     
-06-09UT       4.67 (G1)    2.33         1.33     
-09-12UT       2.67         2.33         2.33     
-12-15UT       3.67         2.00         2.67     
-15-18UT       2.00         2.00         3.00     
-18-21UT       2.00         2.00         3.33     
-21-00UT       1.67         2.00         3.33     
+             May 02       May 03       May 04
+00-03UT       2.33         2.67         2.67     
+03-06UT       2.33         3.00         3.00     
+06-09UT       3.00         4.00         2.67     
+09-12UT       2.67         2.67         2.67     
+12-15UT       2.00         2.33         1.67     
+15-18UT       2.00         1.67         1.67     
+18-21UT       1.67         1.67         0.67     
+21-00UT       2.67         2.67         2.67     
 
-Rationale: G1 (Minor) geomagnetic storms are expected on 01 May due to
-influence from a negative polarity coronal hole.
+Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
+significant transient or recurrent solar wind features are forecast.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for May 01-May 03 2026
+Solar Radiation Storm Forecast for May 02-May 04 2026
 
-              May 01  May 02  May 03
-S1 or greater   10%     10%     10%
+              May 02  May 03  May 04
+S1 or greater    1%      1%      1%
 
-Rationale: There exists a slight chance for S1 (Minor) or greater solar
-radiation storms over 01-03 May.
+Rationale: No S1 (Minor) or greater solar radiation storms are expected.
+No significant active region activity favorable for radiation storm
+production is forecast.
 
 C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for May 01-May 03 2026
+Radio Blackout Forecast for May 02-May 04 2026
 
-              May 01        May 02        May 03
-R1-R2           50%           50%           50%
-R3 or greater   10%           10%           10%
+              May 02        May 03        May 04
+R1-R2           40%           40%           40%
+R3 or greater    5%            5%            5%
 
-Rationale: A chance exists for R1-R2 (Minor-Moderate) radio blackouts,
-with a slight chance for R3 (Strong), over 01-03 May.
+Rationale: There exists a chance for R1-R2 (Minor-Moderate) radio
+blackouts over 02-04 May due to the potential from multiple complex
+regions on the Suns visible disk.
 
 ```
