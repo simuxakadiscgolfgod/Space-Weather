@@ -1,10 +1,10 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2026-05-02
-<br />**Title of the image:**  Seeing Titan
-<br />**Description for the image:**  Shrouded in a thick atmosphere, the surface of Saturn's largest moon, Titan, is really hard to see. Small particles suspended in Titan's upper atmosphere cause an almost impenetrable haze, strongly scattering light at visible wavelengths and hiding surface features from prying eyes. Still, Titan's surface is better imaged at infrared wavelengths, where scattering is weaker and atmospheric absorption is reduced. Arrayed around this visible light image (center) of Titan are some of the clearest global infrared views of the tantalizing moon so far. In false color, the six panels present a consistent processing of 13 years of infrared image data from the Visual and Infrared Mapping Spectrometer (VIMS) on board the Cassini spacecraft orbiting Saturn from 2004 to 2017. They offer a stunning comparison with Cassini's visible light view. NASA's revolutionary rotorcraft mission to Titan's surface is due to launch no earlier than July, 2028.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2605/PIA21923_fig1SeeingTitan2400.jpg
+<br />**Date image released:**  2026-05-03
+<br />**Title of the image:**  Trifid Pillars and Jets
+<br />**Description for the image:**  Dust pillars are like interstellar mountains.  They survive because they are more dense than their surroundings, but they are slowly being  eroded away by a hostile environment.  Visible in the featured picture by the Hubble Space Telescope is the end of a huge gas and dust pillar in the Trifid Nebula (M20), punctuated by a smaller pillar pointing up and an unusual jet pointing to the upper left.  Many of the bright dots are newly formed stars. A star near the small pillar's end is slowly being stripped of its accreting gas by radiation from a tremendously brighter star situated off the top of the image.  The jet extends nearly a light-year and would not be visible without external illumination.  As gas and dust evaporate from the pillars, the hidden stellar source of this jet will likely be uncovered, possibly over the next 20,000 years.   Explore the Universe: Random APOD Generator
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2605/TrifidPillar_Hubble_4074.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -48,40 +48,39 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2026 May 02 0030 UTC
+:Issued: 2026 May 03 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for May 02-May 04 2026 is 4.00 (below NOAA
+The greatest expected 3 hr Kp for May 03-May 05 2026 is 4.00 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown May 02-May 04 2026
+NOAA Kp index breakdown May 03-May 05 2026
 
-             May 02       May 03       May 04
-00-03UT       2.33         2.67         2.67     
-03-06UT       2.33         3.00         3.00     
-06-09UT       3.00         4.00         2.67     
-09-12UT       2.67         2.67         2.67     
-12-15UT       2.00         2.33         1.67     
-15-18UT       2.00         1.67         1.67     
-18-21UT       1.67         1.67         0.67     
-21-00UT       2.67         2.67         2.67     
+             May 03       May 04       May 05
+00-03UT       2.67         2.67         2.67     
+03-06UT       3.00         3.00         2.67     
+06-09UT       4.00         2.67         2.00     
+09-12UT       2.67         2.67         2.00     
+12-15UT       2.33         1.67         1.67     
+15-18UT       1.67         1.67         1.67     
+18-21UT       1.67         0.67         1.67     
+21-00UT       2.67         2.67         2.00     
 
-Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
-significant transient or recurrent solar wind features are forecast.
+Rationale: No G1 (Minor) or greater geomagnetic storms are expected.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for May 02-May 04 2026
+Solar Radiation Storm Forecast for May 03-May 05 2026
 
-              May 02  May 03  May 04
-S1 or greater    1%      1%      1%
+              May 03  May 04  May 05
+S1 or greater    5%      5%      5%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
 No significant active region activity favorable for radiation storm
@@ -91,14 +90,14 @@ C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for May 02-May 04 2026
+Radio Blackout Forecast for May 03-May 05 2026
 
-              May 02        May 03        May 04
-R1-R2           40%           40%           40%
+              May 03        May 04        May 05
+R1-R2           45%           45%           45%
 R3 or greater    5%            5%            5%
 
 Rationale: There exists a chance for R1-R2 (Minor-Moderate) radio
-blackouts over 02-04 May due to the potential from multiple complex
-regions on the Suns visible disk.
+blackouts over 03-05 May due to the flare potential from multiple
+complex active regions on the Suns visible disk.
 
 ```
