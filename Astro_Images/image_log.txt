@@ -1,4 +1,6 @@
-<br />**Date image released:**  2026-05-03
-<br />**Title of the image:**  Trifid Pillars and Jets
-<br />**Description for the image:**  Dust pillars are like interstellar mountains.  They survive because they are more dense than their surroundings, but they are slowly being  eroded away by a hostile environment.  Visible in the featured picture by the Hubble Space Telescope is the end of a huge gas and dust pillar in the Trifid Nebula (M20), punctuated by a smaller pillar pointing up and an unusual jet pointing to the upper left.  Many of the bright dots are newly formed stars. A star near the small pillar's end is slowly being stripped of its accreting gas by radiation from a tremendously brighter star situated off the top of the image.  The jet extends nearly a light-year and would not be visible without external illumination.  As gas and dust evaporate from the pillars, the hidden stellar source of this jet will likely be uncovered, possibly over the next 20,000 years.   Explore the Universe: Random APOD Generator
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2605/TrifidPillar_Hubble_4074.jpg
+<br />**Date image released:**  2017-03-25
+<br />**This image is owned by:**  Damian
+Peach
+<br />**Title of the image:**  Ganymede's Shadow
+<br />**Description for the image:**  Approaching opposition early next month, Jupiter is offering some of its best telescopic views from planet Earth. On March 17, this impressively sharp image of the solar system's ruling gas giant was taken from a remote observatory in Chile. Bounded by planet girdling winds, familiar dark belts and light zones span the giant planet spotted with rotating oval storms. The solar system's largest moon Ganymede is above and left in the frame, its shadow seen in transit across the northern Jovian cloud tops. Ganymede itself is seen in remarkable detail along with bright surface features on fellow Galilean moon Io, right of Jupiter's looming disk.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/1703/2017-03-17-0726_2-RGBdp.jpg

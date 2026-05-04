@@ -1,10 +1,12 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2026-05-03
-<br />**Title of the image:**  Trifid Pillars and Jets
-<br />**Description for the image:**  Dust pillars are like interstellar mountains.  They survive because they are more dense than their surroundings, but they are slowly being  eroded away by a hostile environment.  Visible in the featured picture by the Hubble Space Telescope is the end of a huge gas and dust pillar in the Trifid Nebula (M20), punctuated by a smaller pillar pointing up and an unusual jet pointing to the upper left.  Many of the bright dots are newly formed stars. A star near the small pillar's end is slowly being stripped of its accreting gas by radiation from a tremendously brighter star situated off the top of the image.  The jet extends nearly a light-year and would not be visible without external illumination.  As gas and dust evaporate from the pillars, the hidden stellar source of this jet will likely be uncovered, possibly over the next 20,000 years.   Explore the Universe: Random APOD Generator
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2605/TrifidPillar_Hubble_4074.jpg
+<br />**Date image released:**  2017-03-25
+<br />**This image is owned by:**  Damian
+Peach
+<br />**Title of the image:**  Ganymede's Shadow
+<br />**Description for the image:**  Approaching opposition early next month, Jupiter is offering some of its best telescopic views from planet Earth. On March 17, this impressively sharp image of the solar system's ruling gas giant was taken from a remote observatory in Chile. Bounded by planet girdling winds, familiar dark belts and light zones span the giant planet spotted with rotating oval storms. The solar system's largest moon Ganymede is above and left in the frame, its shadow seen in transit across the northern Jovian cloud tops. Ganymede itself is seen in remarkable detail along with bright surface features on fellow Galilean moon Io, right of Jupiter's looming disk.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/1703/2017-03-17-0726_2-RGBdp.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -48,38 +50,39 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2026 May 03 0030 UTC
+:Issued: 2026 May 04 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for May 03-May 05 2026 is 4.00 (below NOAA
+The greatest expected 3 hr Kp for May 04-May 06 2026 is 3.00 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown May 03-May 05 2026
+NOAA Kp index breakdown May 04-May 06 2026
 
-             May 03       May 04       May 05
-00-03UT       2.67         2.67         2.67     
-03-06UT       3.00         3.00         2.67     
-06-09UT       4.00         2.67         2.00     
-09-12UT       2.67         2.67         2.00     
-12-15UT       2.33         1.67         1.67     
-15-18UT       1.67         1.67         1.67     
-18-21UT       1.67         0.67         1.67     
-21-00UT       2.67         2.67         2.00     
+             May 04       May 05       May 06
+00-03UT       2.67         2.00         1.67     
+03-06UT       3.00         2.67         2.00     
+06-09UT       2.00         1.67         2.67     
+09-12UT       2.00         1.67         1.67     
+12-15UT       1.67         1.00         0.67     
+15-18UT       1.67         0.67         0.67     
+18-21UT       0.67         1.00         1.67     
+21-00UT       2.00         1.67         1.67     
 
-Rationale: No G1 (Minor) or greater geomagnetic storms are expected.
+Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
+significant transient or recurrent solar wind features are forecast.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for May 03-May 05 2026
+Solar Radiation Storm Forecast for May 04-May 06 2026
 
-              May 03  May 04  May 05
+              May 04  May 05  May 06
 S1 or greater    5%      5%      5%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -90,14 +93,13 @@ C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for May 03-May 05 2026
+Radio Blackout Forecast for May 04-May 06 2026
 
-              May 03        May 04        May 05
-R1-R2           45%           45%           45%
+              May 04        May 05        May 06
+R1-R2           40%           40%           40%
 R3 or greater    5%            5%            5%
 
-Rationale: There exists a chance for R1-R2 (Minor-Moderate) radio
-blackouts over 03-05 May due to the flare potential from multiple
-complex active regions on the Suns visible disk.
+Rationale: No R1 (Minor) or greater radio blackouts are expected.  No
+significant active region flare activity is forecast.
 
 ```
