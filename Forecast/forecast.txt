@@ -1,39 +1,39 @@
 ```
 :Product: 3-Day Forecast
-:Issued: 2026 May 04 0030 UTC
+:Issued: 2026 May 05 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
-Scale levels).
-The greatest expected 3 hr Kp for May 04-May 06 2026 is 3.00 (below NOAA
-Scale levels).
+The greatest observed 3 hr Kp over the past 24 hours was 6 (NOAA Scale
+G2).
+The greatest expected 3 hr Kp for May 05-May 07 2026 is 5.67 (NOAA Scale
+G2).
 
-NOAA Kp index breakdown May 04-May 06 2026
+NOAA Kp index breakdown May 05-May 07 2026
 
-             May 04       May 05       May 06
-00-03UT       2.67         2.00         1.67     
-03-06UT       3.00         2.67         2.00     
-06-09UT       2.00         1.67         2.67     
-09-12UT       2.00         1.67         1.67     
-12-15UT       1.67         1.00         0.67     
-15-18UT       1.67         0.67         0.67     
-18-21UT       0.67         1.00         1.67     
-21-00UT       2.00         1.67         1.67     
+             May 05       May 06       May 07
+00-03UT       5.33 (G1)    2.67         3.33     
+03-06UT       5.67 (G2)    2.33         3.67     
+06-09UT       5.00 (G1)    2.00         3.00     
+09-12UT       4.00         1.33         2.33     
+12-15UT       3.00         1.67         2.33     
+15-18UT       2.33         2.33         3.33     
+18-21UT       2.00         2.00         3.33     
+21-00UT       2.67         2.67         3.67     
 
-Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
-significant transient or recurrent solar wind features are forecast.
+Rationale: Isolated G1-G2 (Minor-Moderate) storming periods are possible
+early on 05 May as CME/CH HSS effects persist.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
-Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
+Solar radiation, as observed by NOAA GOES-19 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for May 04-May 06 2026
+Solar Radiation Storm Forecast for May 05-May 07 2026
 
-              May 04  May 05  May 06
-S1 or greater    5%      5%      5%
+              May 05  May 06  May 07
+S1 or greater    5%      1%      1%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
 No significant active region activity favorable for radiation storm
@@ -41,15 +41,17 @@ production is forecast.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-No radio blackouts were observed over the past 24 hours.
+Radio blackouts reaching the R1 levels were observed over the past 24
+hours. The largest was at May 04 2026 0133 UTC.
 
-Radio Blackout Forecast for May 04-May 06 2026
+Radio Blackout Forecast for May 05-May 07 2026
 
-              May 04        May 05        May 06
-R1-R2           40%           40%           40%
+              May 05        May 06        May 07
+R1-R2           30%           30%           30%
 R3 or greater    5%            5%            5%
 
-Rationale: No R1 (Minor) or greater radio blackouts are expected.  No
-significant active region flare activity is forecast.
+Rationale: There is a chance for isolated R1-R2 (Minor-Moderate) radio
+blackouts on 05-07 May, primarily due to the flare potential of Region
+4429.
 
 ```

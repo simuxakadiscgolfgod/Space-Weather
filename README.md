@@ -1,12 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2017-03-25
-<br />**This image is owned by:**  Damian
-Peach
-<br />**Title of the image:**  Ganymede's Shadow
-<br />**Description for the image:**  Approaching opposition early next month, Jupiter is offering some of its best telescopic views from planet Earth. On March 17, this impressively sharp image of the solar system's ruling gas giant was taken from a remote observatory in Chile. Bounded by planet girdling winds, familiar dark belts and light zones span the giant planet spotted with rotating oval storms. The solar system's largest moon Ganymede is above and left in the frame, its shadow seen in transit across the northern Jovian cloud tops. Ganymede itself is seen in remarkable detail along with bright surface features on fellow Galilean moon Io, right of Jupiter's looming disk.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/1703/2017-03-17-0726_2-RGBdp.jpg
+<br />**Date image released:**  2026-05-05
+<br />**This image is owned by:**  Marcin Rosadziński
+<br />**Title of the image:**  Orion over Mount Teide
+<br />**Description for the image:**  Orion is rarely seen like this.  To achieve this majestic vista, you need a camera capable of taking such long duration exposures that faint features in the night sky become revealed.  Iconic nebulas that appear include the Orion Nebula, the Flame Nebula, and Barnard's Loop. For contrast, it also helps to have a volcano on the foreground, in this case the Teide volcano on Tenerife on the Canary Islands of Spain.  But if you want your Teide volcano snow-covered, you also need good timing -- because that only happens, typically, for a few days each year.  Good timing also includes waiting for Orion to appear just behind Teide, which occurred late last year after sunset.  The featured image is the result of a series of images taken consecutively with the same camera from the same location.   Sky Surprise: What picture did APOD feature on your birthday? (after 1995)
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2605/OrionTeide_Rosadzinski_4247.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -50,40 +49,40 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2026 May 04 0030 UTC
+:Issued: 2026 May 05 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
-Scale levels).
-The greatest expected 3 hr Kp for May 04-May 06 2026 is 3.00 (below NOAA
-Scale levels).
+The greatest observed 3 hr Kp over the past 24 hours was 6 (NOAA Scale
+G2).
+The greatest expected 3 hr Kp for May 05-May 07 2026 is 5.67 (NOAA Scale
+G2).
 
-NOAA Kp index breakdown May 04-May 06 2026
+NOAA Kp index breakdown May 05-May 07 2026
 
-             May 04       May 05       May 06
-00-03UT       2.67         2.00         1.67     
-03-06UT       3.00         2.67         2.00     
-06-09UT       2.00         1.67         2.67     
-09-12UT       2.00         1.67         1.67     
-12-15UT       1.67         1.00         0.67     
-15-18UT       1.67         0.67         0.67     
-18-21UT       0.67         1.00         1.67     
-21-00UT       2.00         1.67         1.67     
+             May 05       May 06       May 07
+00-03UT       5.33 (G1)    2.67         3.33     
+03-06UT       5.67 (G2)    2.33         3.67     
+06-09UT       5.00 (G1)    2.00         3.00     
+09-12UT       4.00         1.33         2.33     
+12-15UT       3.00         1.67         2.33     
+15-18UT       2.33         2.33         3.33     
+18-21UT       2.00         2.00         3.33     
+21-00UT       2.67         2.67         3.67     
 
-Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
-significant transient or recurrent solar wind features are forecast.
+Rationale: Isolated G1-G2 (Minor-Moderate) storming periods are possible
+early on 05 May as CME/CH HSS effects persist.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
-Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
+Solar radiation, as observed by NOAA GOES-19 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for May 04-May 06 2026
+Solar Radiation Storm Forecast for May 05-May 07 2026
 
-              May 04  May 05  May 06
-S1 or greater    5%      5%      5%
+              May 05  May 06  May 07
+S1 or greater    5%      1%      1%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
 No significant active region activity favorable for radiation storm
@@ -91,15 +90,17 @@ production is forecast.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-No radio blackouts were observed over the past 24 hours.
+Radio blackouts reaching the R1 levels were observed over the past 24
+hours. The largest was at May 04 2026 0133 UTC.
 
-Radio Blackout Forecast for May 04-May 06 2026
+Radio Blackout Forecast for May 05-May 07 2026
 
-              May 04        May 05        May 06
-R1-R2           40%           40%           40%
+              May 05        May 06        May 07
+R1-R2           30%           30%           30%
 R3 or greater    5%            5%            5%
 
-Rationale: No R1 (Minor) or greater radio blackouts are expected.  No
-significant active region flare activity is forecast.
+Rationale: There is a chance for isolated R1-R2 (Minor-Moderate) radio
+blackouts on 05-07 May, primarily due to the flare potential of Region
+4429.
 
 ```
