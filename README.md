@@ -1,11 +1,13 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2025-04-29
-<br />**This image is owned by:**  Natan Fontes
-<br />**Title of the image:**  Saturn's Rings Appear to Disappear
-<br />**Description for the image:**  Where are Saturn's ears? Galileo is credited, in 1610, as the first person to see Saturn's rings. Testing out Lipperhey's recently co-invented telescope, Galileo did not know what they were and so called them "ears".  The mystery deepened in 1612, when Saturn's ears mysteriously disappeared. Today we know exactly what happened: from the perspective of the Earth, Saturn's rings had become too thin to see.  The same drama plays out every 15 years because Saturn, like Earth, undergoes tilt-driven seasons. This means that as Saturn goes around the Sun, its equator and rings can tilt noticeably toward the Sun and inner Solar System, making them easily visible, but from other orbital locations will appear almost not at all.  The featured picture from Brasilia, Brazil shows a modern version of this sequence: the top ring-dominated image was taken in 2020, while the bottom ring-obscure image taken earlier in 2025.   Make Saturn's Rings Musical: Play them like a harp!
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2504/SaturnSeasons_Fontes_960.jpg
+<br />**Date image released:**  2026-05-08
+<br />**This image is owned by:**  Jakub Kuřák & 
+Martin Mašek 
+(FZU of the Czech Academy of Sciences)
+<br />**Title of the image:**  Comet R3 PanSTARRS Before Rigel
+<br />**Description for the image:**  Which way is Comet R3 PanSTARRS going? Not towards the star at the top of the image, because that is Rigel, which, being far in the background, is unrelated to the comet. Not through the nebula in the image middle, because that is the Witch Head Nebula and it, too, is far in the distance -- but not far from Rigel.  Not into northern skies because over the past week Comet C/2025 R3 (PanSTARRS) has moved into southern skies and is now best visible in Earth's Southern Hemisphere toward the west after sunset.  Angularly, Comet R3 PanSTARRS is slowly moving toward the upper right, night by night, and will soon be in the constellation Orion. Spatially, the comet is now headed out of our Solar System but should remain visible to cameras in southern skies for about a week.  The featured image was captured last week near Cerro Paranal in Chile.   Growing Gallery: Comet R3 PanSTARRS in 2026
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2605/CometRigel_Karuk_2851.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,40 +51,38 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2026 May 07 0030 UTC
+:Issued: 2026 May 08 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 1 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for May 07-May 09 2026 is 4.33 (below NOAA
+The greatest expected 3 hr Kp for May 08-May 10 2026 is 4.00 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown May 07-May 09 2026
+NOAA Kp index breakdown May 08-May 10 2026
 
-             May 07       May 08       May 09
-00-03UT       2.00         3.67         2.67     
-03-06UT       2.00         4.00         2.33     
-06-09UT       2.33         3.33         2.33     
-09-12UT       2.33         3.00         2.33     
-12-15UT       2.67         2.33         2.33     
-15-18UT       3.00         2.67         2.00     
-18-21UT       3.67         3.33         2.33     
-21-00UT       4.33         3.67         2.67     
+             May 08       May 09       May 10
+00-03UT       2.67         2.67         2.67     
+03-06UT       3.67         3.67         2.67     
+06-09UT       4.00         3.00         2.00     
+09-12UT       2.67         2.67         2.00     
+12-15UT       3.67         2.67         2.00     
+15-18UT       1.67         1.67         1.67     
+18-21UT       2.33         2.00         1.67     
+21-00UT       2.67         2.67         2.00     
 
-Rationale: There is a chance for isolated periods of G1-G2
-(Minor-Moderate) geomagnetic storming late on 07 May through 08 May due
-to the onset of +CH HSS influences.
+Rationale: No G1 (Minor) or greater geomagnetic storms are expected.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-19 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for May 07-May 09 2026
+Solar Radiation Storm Forecast for May 08-May 10 2026
 
-              May 07  May 08  May 09
+              May 08  May 09  May 10
 S1 or greater    1%      1%      1%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -91,20 +91,16 @@ production is forecast.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-No radio blackouts were observed over the past 24 hours.
+Radio blackouts reaching the R1 levels were observed over the past 24
+hours. The largest was at May 07 2026 1514 UTC.
 
-Radio Blackout Forecast for May 07-May 09 2026
+Radio Blackout Forecast for May 08-May 10 2026
 
-              May 07        May 08        May 09
-R1-R2           15%           30%           30%
-R3 or greater    1%           10%           10%
+              May 08        May 09        May 10
+R1-R2           45%           45%           45%
+R3 or greater   10%           10%           10%
 
-Rationale: There is a slight chance for isolated R1-R2 (Minor-Moderate)
-radio blackouts on 07 May. Probabilities increase beginning 08 May as up
-to two active regions near L=330 rotate into view from beyond the
-eastern limb. Considering the size of these regions and recent far-side
-eruptions seen in coronagraph imagery, solar activity is expected to
-increase 08-09 May with a chance for R1-R2 (Minor-Moderate) radio
-blackouts, and a slight chance for R3 (Strong or greater) events.
+Rationale: There exists a chance for R1-R2 (Minor-Moderate) radio
+blackouts, and a slight chance for R3 (Strong), over 08-10 May.
 
 ```
