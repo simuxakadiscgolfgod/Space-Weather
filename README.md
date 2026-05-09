@@ -1,13 +1,10 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2026-05-08
-<br />**This image is owned by:**  Jakub Kuřák & 
-Martin Mašek 
-(FZU of the Czech Academy of Sciences)
-<br />**Title of the image:**  Comet R3 PanSTARRS Before Rigel
-<br />**Description for the image:**  Which way is Comet R3 PanSTARRS going? Not towards the star at the top of the image, because that is Rigel, which, being far in the background, is unrelated to the comet. Not through the nebula in the image middle, because that is the Witch Head Nebula and it, too, is far in the distance -- but not far from Rigel.  Not into northern skies because over the past week Comet C/2025 R3 (PanSTARRS) has moved into southern skies and is now best visible in Earth's Southern Hemisphere toward the west after sunset.  Angularly, Comet R3 PanSTARRS is slowly moving toward the upper right, night by night, and will soon be in the constellation Orion. Spatially, the comet is now headed out of our Solar System but should remain visible to cameras in southern skies for about a week.  The featured image was captured last week near Cerro Paranal in Chile.   Growing Gallery: Comet R3 PanSTARRS in 2026
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2605/CometRigel_Karuk_2851.jpg
+<br />**Date image released:**  2026-05-09
+<br />**Title of the image:**  Messier Craters in Stereo
+<br />**Description for the image:**  Many bright nebulae and star clusters in planet Earth's sky are associated with the name of astronomer Charles Messier from his famous 18th century catalog. His name is also given to these two large and remarkable craters on the Moon. Standouts in the dark, smooth lunar Sea of Fertility or Mare Fecunditatis, Messier (left) and Messier A have dimensions of 15 by 8 and 16 by 11 kilometers respectively. Their elongated shapes are explained by the extremely shallow-angle trajectory followed by an impactor, moving left to right, that gouged out the craters. The shallow impact also resulted in two bright rays of material extending along the surface to the right, beyond the picture. Intended to be viewed with red/blue glasses (red for the left eye), this striking stereo picture of the crater pair was recently created from high resolution scans of two images (AS11-42-6304, AS11-42-6305) taken during the Apollo 11 mission to the Moon.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2605/MessierCrater3d_vantuyne.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -51,38 +48,38 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2026 May 08 0030 UTC
+:Issued: 2026 May 09 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for May 08-May 10 2026 is 4.00 (below NOAA
+The greatest expected 3 hr Kp for May 09-May 11 2026 is 3.00 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown May 08-May 10 2026
+NOAA Kp index breakdown May 09-May 11 2026
 
-             May 08       May 09       May 10
-00-03UT       2.67         2.67         2.67     
-03-06UT       3.67         3.67         2.67     
-06-09UT       4.00         3.00         2.00     
-09-12UT       2.67         2.67         2.00     
-12-15UT       3.67         2.67         2.00     
-15-18UT       1.67         1.67         1.67     
-18-21UT       2.33         2.00         1.67     
-21-00UT       2.67         2.67         2.00     
+             May 09       May 10       May 11
+00-03UT       2.67         2.67         1.67     
+03-06UT       3.00         2.00         2.67     
+06-09UT       2.67         2.00         2.67     
+09-12UT       2.00         1.67         1.67     
+12-15UT       2.00         1.00         1.33     
+15-18UT       1.67         0.67         1.33     
+18-21UT       2.00         1.00         2.00     
+21-00UT       2.67         1.67         2.67     
 
-Rationale: No G1 (Minor) or greater geomagnetic storms are expected.
+Rationale: No G1 (Minor) or greater geomagnetic storms are expected. 
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-19 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for May 08-May 10 2026
+Solar Radiation Storm Forecast for May 09-May 11 2026
 
-              May 08  May 09  May 10
+              May 09  May 10  May 11
 S1 or greater    1%      1%      1%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -91,16 +88,15 @@ production is forecast.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-Radio blackouts reaching the R1 levels were observed over the past 24
-hours. The largest was at May 07 2026 1514 UTC.
+No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for May 08-May 10 2026
+Radio Blackout Forecast for May 09-May 11 2026
 
-              May 08        May 09        May 10
+              May 09        May 10        May 11
 R1-R2           45%           45%           45%
 R3 or greater   10%           10%           10%
 
 Rationale: There exists a chance for R1-R2 (Minor-Moderate) radio
-blackouts, and a slight chance for R3 (Strong), over 08-10 May.
+blackouts, with a slight chance for R3 (Strong), over 09-11 May.
 
 ```
