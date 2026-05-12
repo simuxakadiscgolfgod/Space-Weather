@@ -1,4 +1,13 @@
-<br />**Date image released:**  1996-07-31
-<br />**Title of the image:**  A Violet Moon
-<br />**Description for the image:**  Checking out the Galileo spacecraft's cameras during its December 1992 flyby of Earth's Moon, controllers took this dramatically illuminated picture through a violet filter. The view looks down on the Moon's north polar region with the Sun shining from the left at a low angle and the direction toward the moon's North pole toward the lower right. Across the image upper left stretches the smooth volcanic plain of the Mare Imbrium. Pythagoras crater, 65 miles wide, is near the center of the image -- mostly in shadow, its central peak just catches the sunlight. Yesterday, the Moon made its closest approach to Earth and was full for the second time in July (as reckoned by UT dates). The closest point in the Moon's orbit is referred to as Lunar Perigee, a mere 221,797 miles at 8 hours UT. The second full moon in a month is known as a "Blue Moon".
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/moon1_gal_big.gif
+<br />**Date image released:**  2026-05-12
+<br />**This image is owned by:**  Julien De Winter, 
+Sascha Ebeler
+
+Text:
+Keighley Rockcliffe  
+(NASA
+GSFC, 
+UMBC CSST, 
+CRESST II)
+<br />**Title of the image:**  The Conjunction of Comet R3 PanSTARRS and the Orion Nebula
+<br />**Description for the image:**  Today’s composite image features something old, something new, something borrowed, and something blue! Comet R3 PanSTARRS, streaking across the right of the image, likely originated from the Oort Cloud, meaning it is an old Solar System relic from billions of years ago. It’s bright extended ion tail glows blue  as the gas escaping the comet’s core is ionized by sunlight. Astronomers are fascinated by comets for all sorts of reasons: comet compositions are untouched time capsules containing the building blocks of Solar System planets; comets may have delivered water to the young Earth; the behavior of cometary tails shed light on solar wind and radiation interactions. The background mosaic, featuring the Orion Nebula (M42), was taken over two nights of observation with the comet captured on the third night. The Orion Nebula is our nearest stellar nursery and, at about 2 million years old, is our something (relatively) new! Now at around 127.5 million kilometers from Earth, we wave goodbye to the borrowed Comet R3 PanSTARRS as it leaves the Solar System.   Growing Gallery: Comet R3 in 2026
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2605/CometR3_Orion.jpg

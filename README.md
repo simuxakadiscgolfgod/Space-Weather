@@ -1,10 +1,19 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  1996-07-31
-<br />**Title of the image:**  A Violet Moon
-<br />**Description for the image:**  Checking out the Galileo spacecraft's cameras during its December 1992 flyby of Earth's Moon, controllers took this dramatically illuminated picture through a violet filter. The view looks down on the Moon's north polar region with the Sun shining from the left at a low angle and the direction toward the moon's North pole toward the lower right. Across the image upper left stretches the smooth volcanic plain of the Mare Imbrium. Pythagoras crater, 65 miles wide, is near the center of the image -- mostly in shadow, its central peak just catches the sunlight. Yesterday, the Moon made its closest approach to Earth and was full for the second time in July (as reckoned by UT dates). The closest point in the Moon's orbit is referred to as Lunar Perigee, a mere 221,797 miles at 8 hours UT. The second full moon in a month is known as a "Blue Moon".
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/moon1_gal_big.gif
+<br />**Date image released:**  2026-05-12
+<br />**This image is owned by:**  Julien De Winter, 
+Sascha Ebeler
+
+Text:
+Keighley Rockcliffe  
+(NASA
+GSFC, 
+UMBC CSST, 
+CRESST II)
+<br />**Title of the image:**  The Conjunction of Comet R3 PanSTARRS and the Orion Nebula
+<br />**Description for the image:**  Today’s composite image features something old, something new, something borrowed, and something blue! Comet R3 PanSTARRS, streaking across the right of the image, likely originated from the Oort Cloud, meaning it is an old Solar System relic from billions of years ago. It’s bright extended ion tail glows blue  as the gas escaping the comet’s core is ionized by sunlight. Astronomers are fascinated by comets for all sorts of reasons: comet compositions are untouched time capsules containing the building blocks of Solar System planets; comets may have delivered water to the young Earth; the behavior of cometary tails shed light on solar wind and radiation interactions. The background mosaic, featuring the Orion Nebula (M42), was taken over two nights of observation with the comet captured on the third night. The Orion Nebula is our nearest stellar nursery and, at about 2 million years old, is our something (relatively) new! Now at around 127.5 million kilometers from Earth, we wave goodbye to the borrowed Comet R3 PanSTARRS as it leaves the Solar System.   Growing Gallery: Comet R3 in 2026
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2605/CometR3_Orion.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -48,27 +57,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2026 May 11 0030 UTC
+:Issued: 2026 May 12 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for May 11-May 13 2026 is 2.67 (below NOAA
+The greatest expected 3 hr Kp for May 12-May 14 2026 is 3.67 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown May 11-May 13 2026
+NOAA Kp index breakdown May 12-May 14 2026
 
-             May 11       May 12       May 13
-00-03UT       1.67         1.67         1.67     
-03-06UT       2.67         1.67         2.67     
-06-09UT       2.67         1.33         2.67     
-09-12UT       1.67         1.33         2.33     
-12-15UT       1.33         1.33         2.33     
-15-18UT       1.33         0.67         2.00     
-18-21UT       2.00         1.67         2.33     
-21-00UT       2.67         1.67         2.67     
+             May 12       May 13       May 14
+00-03UT       3.00         3.33         3.00     
+03-06UT       2.00         3.33         3.00     
+06-09UT       2.00         2.00         2.33     
+09-12UT       2.67         3.00         2.00     
+12-15UT       2.67         3.00         1.67     
+15-18UT       2.67         2.00         2.00     
+18-21UT       2.67         3.67         2.67     
+21-00UT       3.67         3.33         2.67     
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
 significant transient or recurrent solar wind features are forecast.
@@ -78,27 +87,27 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-19 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for May 11-May 13 2026
+Solar Radiation Storm Forecast for May 12-May 14 2026
 
-              May 11  May 12  May 13
-S1 or greater   20%     20%     20%
+              May 12  May 13  May 14
+S1 or greater   10%      5%      5%
 
-Rationale: No S1 (Minor) or greater solar radiation storms are expected.
-No significant active region activity favorable for radiation storm
-production is forecast.
+Rationale: There is a slight chance for S1 (Minor) or greater solar
+radiation storms on 12 May due to the potential from Region 4432.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-Radio blackouts reaching the R2 levels were observed over the past 24
-hours. The largest was at May 10 2026 1339 UTC.
+No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for May 11-May 13 2026
+Radio Blackout Forecast for May 12-May 14 2026
 
-              May 11        May 12        May 13
+              May 12        May 13        May 14
 R1-R2           45%           45%           45%
-R3 or greater   20%           20%           20%
+R3 or greater   10%            5%            5%
 
-Rationale: There exists a chance for R1-R2 (Minor-Moderate) radio
-blackouts, with a slight chance for R3 (Strong), over 11-13 May.
+Rationale: There is a chance for R1-R2 (Minor-Moderate) radio blackouts
+through 14 May. A slight chance exists for an R3 (Strong) or greater
+radio blackout on 12 May. All mostly due to the complexity of Regions
+4432 and 4436.
 
 ```
