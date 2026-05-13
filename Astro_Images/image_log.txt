@@ -1,13 +1,5 @@
-<br />**Date image released:**  2026-05-12
-<br />**This image is owned by:**  Julien De Winter, 
-Sascha Ebeler
-
-Text:
-Keighley Rockcliffe  
-(NASA
-GSFC, 
-UMBC CSST, 
-CRESST II)
-<br />**Title of the image:**  The Conjunction of Comet R3 PanSTARRS and the Orion Nebula
-<br />**Description for the image:**  Today’s composite image features something old, something new, something borrowed, and something blue! Comet R3 PanSTARRS, streaking across the right of the image, likely originated from the Oort Cloud, meaning it is an old Solar System relic from billions of years ago. It’s bright extended ion tail glows blue  as the gas escaping the comet’s core is ionized by sunlight. Astronomers are fascinated by comets for all sorts of reasons: comet compositions are untouched time capsules containing the building blocks of Solar System planets; comets may have delivered water to the young Earth; the behavior of cometary tails shed light on solar wind and radiation interactions. The background mosaic, featuring the Orion Nebula (M42), was taken over two nights of observation with the comet captured on the third night. The Orion Nebula is our nearest stellar nursery and, at about 2 million years old, is our something (relatively) new! Now at around 127.5 million kilometers from Earth, we wave goodbye to the borrowed Comet R3 PanSTARRS as it leaves the Solar System.   Growing Gallery: Comet R3 in 2026
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2605/CometR3_Orion.jpg
+<br />**Date image released:**  2026-05-13
+<br />**This image is owned by:**  Neven Krcmarek
+<br />**Title of the image:**  NGC 188: Old Cluster in the New General Catalog
+<br />**Description for the image:**  The New General Catalog of star clusters and nebulae really isn't so new. In fact, it was published in 1888 - an effort by J. L. E. Dreyer to consolidate the work of astronomers William, Caroline, and John Herschel along with others into a useful single, complete catalog of astronomical discoveries and measurements. Dreyer's work was largely successful and is still important today, as this famous catalog continues to lend its "NGC" to bright clusters, galaxies, and nebulae. Take for example the star cluster known as NGC 188 (item number 188 in the NGC compilation). It lies about 6,000 light-years distant in the northern constellation Cepheus and represents a galactic or open star cluster. With an age of about 7 billion years, NGC 188 is old for an open cluster. Its old, evolved red giant stars have yellowish hues in this colorful, deep sky view. NGC 188 also enjoys the designation Caldwell 1 in a modern compilation of deep sky objects. Located well above the plane of the Milky Way and seen in the direction of planet Earth's north celestial pole, the ancient stellar group is known to some as the Polarissima Cluster.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2605/Polarissima.jpg

@@ -1,19 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2026-05-12
-<br />**This image is owned by:**  Julien De Winter, 
-Sascha Ebeler
-
-Text:
-Keighley Rockcliffe  
-(NASA
-GSFC, 
-UMBC CSST, 
-CRESST II)
-<br />**Title of the image:**  The Conjunction of Comet R3 PanSTARRS and the Orion Nebula
-<br />**Description for the image:**  Today’s composite image features something old, something new, something borrowed, and something blue! Comet R3 PanSTARRS, streaking across the right of the image, likely originated from the Oort Cloud, meaning it is an old Solar System relic from billions of years ago. It’s bright extended ion tail glows blue  as the gas escaping the comet’s core is ionized by sunlight. Astronomers are fascinated by comets for all sorts of reasons: comet compositions are untouched time capsules containing the building blocks of Solar System planets; comets may have delivered water to the young Earth; the behavior of cometary tails shed light on solar wind and radiation interactions. The background mosaic, featuring the Orion Nebula (M42), was taken over two nights of observation with the comet captured on the third night. The Orion Nebula is our nearest stellar nursery and, at about 2 million years old, is our something (relatively) new! Now at around 127.5 million kilometers from Earth, we wave goodbye to the borrowed Comet R3 PanSTARRS as it leaves the Solar System.   Growing Gallery: Comet R3 in 2026
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2605/CometR3_Orion.jpg
+<br />**Date image released:**  2026-05-13
+<br />**This image is owned by:**  Neven Krcmarek
+<br />**Title of the image:**  NGC 188: Old Cluster in the New General Catalog
+<br />**Description for the image:**  The New General Catalog of star clusters and nebulae really isn't so new. In fact, it was published in 1888 - an effort by J. L. E. Dreyer to consolidate the work of astronomers William, Caroline, and John Herschel along with others into a useful single, complete catalog of astronomical discoveries and measurements. Dreyer's work was largely successful and is still important today, as this famous catalog continues to lend its "NGC" to bright clusters, galaxies, and nebulae. Take for example the star cluster known as NGC 188 (item number 188 in the NGC compilation). It lies about 6,000 light-years distant in the northern constellation Cepheus and represents a galactic or open star cluster. With an age of about 7 billion years, NGC 188 is old for an open cluster. Its old, evolved red giant stars have yellowish hues in this colorful, deep sky view. NGC 188 also enjoys the designation Caldwell 1 in a modern compilation of deep sky objects. Located well above the plane of the Milky Way and seen in the direction of planet Earth's north celestial pole, the ancient stellar group is known to some as the Polarissima Cluster.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2605/Polarissima.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -57,57 +49,56 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2026 May 12 0030 UTC
+:Issued: 2026 May 13 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 1 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for May 12-May 14 2026 is 3.67 (below NOAA
-Scale levels).
+The greatest expected 3 hr Kp for May 13-May 15 2026 is 4.67 (NOAA Scale
+G1).
 
-NOAA Kp index breakdown May 12-May 14 2026
+NOAA Kp index breakdown May 13-May 15 2026
 
-             May 12       May 13       May 14
-00-03UT       3.00         3.33         3.00     
-03-06UT       2.00         3.33         3.00     
-06-09UT       2.00         2.00         2.33     
-09-12UT       2.67         3.00         2.00     
-12-15UT       2.67         3.00         1.67     
-15-18UT       2.67         2.00         2.00     
-18-21UT       2.67         3.67         2.67     
-21-00UT       3.67         3.33         2.67     
+             May 13       May 14       May 15
+00-03UT       3.33         3.00         3.67     
+03-06UT       3.33         3.00         4.67 (G1)
+06-09UT       2.00         2.33         4.00     
+09-12UT       3.00         2.00         3.67     
+12-15UT       3.00         1.67         3.67     
+15-18UT       2.00         2.00         3.67     
+18-21UT       3.67         2.67         4.00     
+21-00UT       3.33         2.67         3.67     
 
-Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
-significant transient or recurrent solar wind features are forecast.
+Rationale: G1 (Minor) geomagnetic storming is likely on 15 May due to a
+negative polarity CH HSS influences.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-19 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for May 12-May 14 2026
+Solar Radiation Storm Forecast for May 13-May 15 2026
 
-              May 12  May 13  May 14
+              May 13  May 14  May 15
 S1 or greater   10%      5%      5%
 
 Rationale: There is a slight chance for S1 (Minor) or greater solar
-radiation storms on 12 May due to the potential from Region 4432.
+radiation storms on 13 May, mainly due to the potential of Region 4432.
 
 C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for May 12-May 14 2026
+Radio Blackout Forecast for May 13-May 15 2026
 
-              May 12        May 13        May 14
-R1-R2           45%           45%           45%
+              May 13        May 14        May 15
+R1-R2           40%           40%           40%
 R3 or greater   10%            5%            5%
 
 Rationale: There is a chance for R1-R2 (Minor-Moderate) radio blackouts
-through 14 May. A slight chance exists for an R3 (Strong) or greater
-radio blackout on 12 May. All mostly due to the complexity of Regions
-4432 and 4436.
+on through 15 May, and a slight chance for R3 (Strong) or greater
+blackouts on 13 May.
 
 ```
