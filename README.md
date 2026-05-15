@@ -1,11 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2026-05-13
-<br />**This image is owned by:**  Neven Krcmarek
-<br />**Title of the image:**  NGC 188: Old Cluster in the New General Catalog
-<br />**Description for the image:**  The New General Catalog of star clusters and nebulae really isn't so new. In fact, it was published in 1888 - an effort by J. L. E. Dreyer to consolidate the work of astronomers William, Caroline, and John Herschel along with others into a useful single, complete catalog of astronomical discoveries and measurements. Dreyer's work was largely successful and is still important today, as this famous catalog continues to lend its "NGC" to bright clusters, galaxies, and nebulae. Take for example the star cluster known as NGC 188 (item number 188 in the NGC compilation). It lies about 6,000 light-years distant in the northern constellation Cepheus and represents a galactic or open star cluster. With an age of about 7 billion years, NGC 188 is old for an open cluster. Its old, evolved red giant stars have yellowish hues in this colorful, deep sky view. NGC 188 also enjoys the designation Caldwell 1 in a modern compilation of deep sky objects. Located well above the plane of the Milky Way and seen in the direction of planet Earth's north celestial pole, the ancient stellar group is known to some as the Polarissima Cluster.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2605/Polarissima.jpg
+<br />**Date image released:**  2026-05-15
+<br />**This image is owned by:**  Chester Hall-Fernandez
+<br />**Title of the image:**  R3 PanSTARRS: An Orion Comet
+<br />**Description for the image:**  Comet R3 PanSTARRS might be best remembered as an Orion comet.  A key reason is because Comet C/2025 R3 (PanSTARRS) was near its most spectacular -- in terms of tail visibility -- when passing in front of the iconic constellation.  Although rare, other bright comets, too, have ventured across Orion, including  Lovejoy in 2015, Hale-Bopp in 1997, and the Great Comet of 1264.  Best visible in long duration exposures, the featured image was captured last week from the Craigieburn Mountain Range in New Zealand.  Visible in the deep background image are the Orion Nebula, Barnard's Loop, and through R3's tail, the bright star Saiph, the sixth brightest star in the constellation of Orion. Comet R3 PanSTARRS continues to fade as it moves further south, passing into the constellation of the Unicorn (Monoceros) in the next few days.    Sky Surprise: What picture did APOD feature on your birthday? (after 1995)
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2605/R3Orion_Hall_2870.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,56 +49,56 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2026 May 13 0030 UTC
+:Issued: 2026 May 15 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 1 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for May 13-May 15 2026 is 4.67 (NOAA Scale
-G1).
+The greatest expected 3 hr Kp for May 15-May 17 2026 is 5.67 (NOAA Scale
+G2).
 
-NOAA Kp index breakdown May 13-May 15 2026
+NOAA Kp index breakdown May 15-May 17 2026
 
-             May 13       May 14       May 15
-00-03UT       3.33         3.00         3.67     
-03-06UT       3.33         3.00         4.67 (G1)
-06-09UT       2.00         2.33         4.00     
-09-12UT       3.00         2.00         3.67     
-12-15UT       3.00         1.67         3.67     
-15-18UT       2.00         2.00         3.67     
-18-21UT       3.67         2.67         4.00     
-21-00UT       3.33         2.67         3.67     
+             May 15       May 16       May 17
+00-03UT       4.00         4.33         3.00     
+03-06UT       5.67 (G2)    5.00 (G1)    4.67 (G1)
+06-09UT       4.00         3.67         3.33     
+09-12UT       3.67         3.33         3.00     
+12-15UT       3.67         3.33         3.00     
+15-18UT       3.67         3.33         3.67     
+18-21UT       4.00         3.33         3.33     
+21-00UT       3.67         3.33         2.67     
 
-Rationale: G1 (Minor) geomagnetic storming is likely on 15 May due to a
-negative polarity CH HSS influences.
+Rationale: G1-G2 (Minor-Moderate) geomagnetic storms are expected
+through 17 May due to the anticipated arrival of a negative polarity
+high speed stream.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-19 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for May 13-May 15 2026
+Solar Radiation Storm Forecast for May 15-May 17 2026
 
-              May 13  May 14  May 15
-S1 or greater   10%      5%      5%
+              May 15  May 16  May 17
+S1 or greater    5%      5%      5%
 
-Rationale: There is a slight chance for S1 (Minor) or greater solar
-radiation storms on 13 May, mainly due to the potential of Region 4432.
+Rationale: No S1 (Minor) or greater solar radiation storms are expected.
+
 
 C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for May 13-May 15 2026
+Radio Blackout Forecast for May 15-May 17 2026
 
-              May 13        May 14        May 15
-R1-R2           40%           40%           40%
-R3 or greater   10%            5%            5%
+              May 15        May 16        May 17
+R1-R2           40%           30%           25%
+R3 or greater    5%            5%            5%
 
 Rationale: There is a chance for R1-R2 (Minor-Moderate) radio blackouts
-on through 15 May, and a slight chance for R3 (Strong) or greater
-blackouts on 13 May.
+15-16 May, decreasing to a slight chance on 17 May.
 
 ```
