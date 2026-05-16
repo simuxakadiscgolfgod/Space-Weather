@@ -1,11 +1,10 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2026-05-15
-<br />**This image is owned by:**  Chester Hall-Fernandez
-<br />**Title of the image:**  R3 PanSTARRS: An Orion Comet
-<br />**Description for the image:**  Comet R3 PanSTARRS might be best remembered as an Orion comet.  A key reason is because Comet C/2025 R3 (PanSTARRS) was near its most spectacular -- in terms of tail visibility -- when passing in front of the iconic constellation.  Although rare, other bright comets, too, have ventured across Orion, including  Lovejoy in 2015, Hale-Bopp in 1997, and the Great Comet of 1264.  Best visible in long duration exposures, the featured image was captured last week from the Craigieburn Mountain Range in New Zealand.  Visible in the deep background image are the Orion Nebula, Barnard's Loop, and through R3's tail, the bright star Saiph, the sixth brightest star in the constellation of Orion. Comet R3 PanSTARRS continues to fade as it moves further south, passing into the constellation of the Unicorn (Monoceros) in the next few days.    Sky Surprise: What picture did APOD feature on your birthday? (after 1995)
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2605/R3Orion_Hall_2870.jpg
+<br />**Date image released:**  2026-05-16
+<br />**Title of the image:**  Aurora Slathers Up the Sky
+<br />**Description for the image:**  Like salsa verde on your favorite burrito, a green aurora slathers up the sky in this 2017 June 25 snapshot from the International Space Station. About 400 kilometers (250 miles) above Earth, the orbiting station is itself within the upper realm of the auroral displays. Aurorae have the signature colors of excited molecules and atoms at the low densities found at extreme altitudes. Emission from atomic oxygen dominates this view. The tantalizing glow is green at lower altitudes, but rarer reddish bands extend above the space station's horizon. The orbital scene was captured while passing over a point south and east of Australia, with stars above the horizon at the right belonging to the constellation Canis Major, Orion's big dog. Sirius, alpha star of Canis Major, is the brightest star near the Earth's limb.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2605/aurora_iss052e007857.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,56 +48,59 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2026 May 15 0030 UTC
+:Issued: 2026 May 16 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
-Scale levels).
-The greatest expected 3 hr Kp for May 15-May 17 2026 is 5.67 (NOAA Scale
+The greatest observed 3 hr Kp over the past 24 hours was 6 (NOAA Scale
+G2).
+The greatest expected 3 hr Kp for May 16-May 18 2026 is 5.67 (NOAA Scale
 G2).
 
-NOAA Kp index breakdown May 15-May 17 2026
+NOAA Kp index breakdown May 16-May 18 2026
 
-             May 15       May 16       May 17
-00-03UT       4.00         4.33         3.00     
-03-06UT       5.67 (G2)    5.00 (G1)    4.67 (G1)
-06-09UT       4.00         3.67         3.33     
-09-12UT       3.67         3.33         3.00     
-12-15UT       3.67         3.33         3.00     
-15-18UT       3.67         3.33         3.67     
-18-21UT       4.00         3.33         3.33     
-21-00UT       3.67         3.33         2.67     
+             May 16       May 17       May 18
+00-03UT       5.67 (G2)    3.00         3.33     
+03-06UT       5.33 (G1)    4.67 (G1)    3.33     
+06-09UT       4.67 (G1)    3.33         2.00     
+09-12UT       4.33         3.00         2.00     
+12-15UT       4.00         3.00         3.00     
+15-18UT       4.00         3.67         3.33     
+18-21UT       4.33         3.33         3.33     
+21-00UT       4.33         2.67         3.00     
 
-Rationale: G1-G2 (Minor-Moderate) geomagnetic storms are expected
-through 17 May due to the anticipated arrival of a negative polarity
-high speed stream.
+Rationale: G1-G2 (Minor-Moderate) geomagnetic storms are likely on 16
+May due to the CIR associated with a positive polarity CH HSS. G1
+(Minor) storming levels are likely on 17 May due to the CH HSS
+persistence.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-19 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for May 15-May 17 2026
+Solar Radiation Storm Forecast for May 16-May 18 2026
 
-              May 15  May 16  May 17
+              May 16  May 17  May 18
 S1 or greater    5%      5%      5%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
-
+No significant active region activity favorable for radiation storm
+production is forecast.
 
 C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for May 15-May 17 2026
+Radio Blackout Forecast for May 16-May 18 2026
 
-              May 15        May 16        May 17
+              May 16        May 17        May 18
 R1-R2           40%           30%           25%
 R3 or greater    5%            5%            5%
 
-Rationale: There is a chance for R1-R2 (Minor-Moderate) radio blackouts
-15-16 May, decreasing to a slight chance on 17 May.
+Rationale: There is a decreasing chance for R1-R2 (Minor-Moderate) radio
+blackouts through 18 May due to the flare potential of the regions on
+disk.
 
 ```
