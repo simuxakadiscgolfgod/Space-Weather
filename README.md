@@ -1,10 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2026-05-17
-<br />**Title of the image:**  NGC 1300: Barred Spiral Galaxy
-<br />**Description for the image:**  Across the center of this spiral galaxy is a bar.  And at the center of this bar is smaller spiral.  And at the center of that spiral is a supermassive black hole.  This all happens in the big, beautiful, barred spiral galaxy cataloged as NGC 1300, a galaxy that lies some 70 million light-years away toward the constellation of the river Eridanus. This Hubble Space Telescope composite view of the gorgeous island universe is one of the most detailed Hubble images ever made of a complete galaxy.  NGC 1300 spans over 100,000 light-years and the Hubble image reveals striking details of the galaxy's dominant central bar and majestic spiral arms. How the giant bar formed, how it remains, and how it affects star formation remains an active topic of research.   Jigsaw Universe: Astronomy Puzzle of the Day
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2605/NGC1300_HST_6637.jpg
+<br />**Date image released:**  2026-05-18
+<br />**This image is owned by:**  Simone Curzi
+<br />**Title of the image:**  Unraveling NGC 3169
+<br />**Description for the image:**  Spiral galaxy NGC 3169 looks to be unraveling like a ball of cosmic yarn. It lies some 70 million light-years away, south of bright star Regulus toward the faint constellation Sextans. Wound up spiral arms are pulled out into sweeping tidal tails as NGC 3169 (left) and neighboring NGC 3166 interact gravitationally. Eventually the galaxies will merge into one, a common fate even for bright galaxies in the local universe. Drawn out stellar arcs and plumes are clear indications of the ongoing gravitational interactions across the deep and colorful galaxy group photo. The telescopic frame spans about 20 arc minutes or about 400,000 light-years at the group's estimated distance, and includes smaller, bluish NGC 3165 to the right. NGC 3169 is also known to shine across the spectrum from radio to X-rays, harboring an active galactic nucleus that is the site of a supermassive black hole.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2605/ngc3169_ngc3166_ngc3165.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -48,40 +49,40 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2026 May 17 0030 UTC
+:Issued: 2026 May 18 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 6 (NOAA Scale
-G2).
-The greatest expected 3 hr Kp for May 17-May 19 2026 is 5.00 (NOAA Scale
+The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
+Scale levels).
+The greatest expected 3 hr Kp for May 18-May 20 2026 is 5.33 (NOAA Scale
 G1).
 
-NOAA Kp index breakdown May 17-May 19 2026
+NOAA Kp index breakdown May 18-May 20 2026
 
-             May 17       May 18       May 19
-00-03UT       3.33         3.67         4.33     
-03-06UT       4.00         3.33         3.67     
-06-09UT       4.67 (G1)    3.00         3.00     
+             May 18       May 19       May 20
+00-03UT       3.67         4.33         2.33     
+03-06UT       3.33         5.33 (G1)    2.33     
+06-09UT       3.00         3.67         2.00     
 09-12UT       2.33         2.67         2.00     
-12-15UT       2.00         2.67         1.67     
-15-18UT       2.33         5.00 (G1)    2.00     
-18-21UT       3.00         3.33         3.00     
-21-00UT       3.67         3.33         3.33     
+12-15UT       2.00         2.00         2.00     
+15-18UT       5.00 (G1)    2.00         2.00     
+18-21UT       4.00         3.00         2.00     
+21-00UT       3.33         3.33         2.00     
 
-Rationale: G1 (Minor) geomagnetic storms are expected on 17 May due to
-the negative polarity CH HSS ongoing effects. G1 (Minor) storming levels
-are likely on 18 May due to possible glancing blow of a CME from 16 May.
+Rationale: Isolated periods of G1 (Minor) geomagnetic storms are
+possible on 18-19 May due to a potential glancing blow from a CME that
+left the Sun on 16 May.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-19 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for May 17-May 19 2026
+Solar Radiation Storm Forecast for May 18-May 20 2026
 
-              May 17  May 18  May 19
+              May 18  May 19  May 20
 S1 or greater    5%      5%      1%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -91,16 +92,15 @@ production is forecast.
 C. NOAA Radio Blackout Activity and Forecast
 
 Radio blackouts reaching the R1 levels were observed over the past 24
-hours. The largest was at May 16 2026 1742 UTC.
+hours. The largest was at May 17 2026 0339 UTC.
 
-Radio Blackout Forecast for May 17-May 19 2026
+Radio Blackout Forecast for May 18-May 20 2026
 
-              May 17        May 18        May 19
-R1-R2           40%           40%           40%
+              May 18        May 19        May 20
+R1-R2           40%           45%           45%
 R3 or greater    5%            5%            5%
 
-Rationale: R1-R2 (Minor-Moderate) radio blackouts are likely through 19
-May due to the flare potential and evolution of the active regions on
-the visible disk.
+Rationale: There is a chance for R1-R2 (Minor-Moderate) radio blackouts
+through 20 May, with no little to no R3 (Strong) blackouts expected.
 
 ```
