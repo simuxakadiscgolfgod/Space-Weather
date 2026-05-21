@@ -1,18 +1,10 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2026-05-20
-<br />**This image is owned by:**  William Vrbasso
-
-Text:
-Keighley Rockcliffe  
-(NASA
-GSFC, 
-UMBC CSST, 
-CRESST II)
-<br />**Title of the image:**  The Dark Wolf Nebula
-<br />**Description for the image:**  A dark wolf lies in gum. No, this isn’t a riddle! Today's image features the Dark Wolf Nebula (Sandqvist–Lindroos 17), a spooky dust cloud embedded within the Gum 55 (RCW 113) Nebula in the Scorpius constellation. While dust is a pest to us, it serves a vital role in creating the necessary conditions for stars to be born. The Dark Wolf absorbs the intense ultraviolet and visible light emitted by young stars in Gum 55 and re-emits it at longer, mainly infrared, wavelengths. This prevents the higher energy light from heating up the gas in the region. When a region of gas is cool enough, gravity takes over and causes the gas to collapse into a star. Not only does dust act as an interstellar thermostat, but it is also the meet-cute for single hydrogen atoms forming molecular hydrogen, the building block for stars. The seemingly sinister Dark Wolf is actually a harbinger of cosmic life.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2605/dark_wolf.jpg
+<br />**Date image released:**  2026-05-21
+<br />**Title of the image:**  A Collision of Galaxy Clusters
+<br />**Description for the image:**  This big beautiful spiral shines in X-ray light. It is about 20 times larger than our Galaxy.   It belongs to Abell 2029, a galaxy cluster one billion light-years away.   (To see only the galaxies, hover your cursor over the image, or follow this link.)      Galaxy clusters are the largest structures in the universe that are supported by gravity.     Abell 2029 is formed by thousands of galaxies, surrounded by a huge cloud of hot gas and the equivalent of hundreds of trillions times the mass of the Sun in dark matter.     The spiral is made of gas, mostly hydrogen and helium, heated to tens of millions of degrees.     It was found in a recent study that used data from NASA's Chandra X-ray Observatory to show that Abell 2029 had a collision with a smaller cluster four billion years ago.     The collision affected the gravitational field and caused the intracluster gas to slosh, like wine moving in a wine glass, shaping the spiral.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2605/a2029_lg.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -56,40 +48,38 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2026 May 20 0030 UTC
+:Issued: 2026 May 21 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for May 20-May 22 2026 is 3.67 (below NOAA
+The greatest expected 3 hr Kp for May 21-May 23 2026 is 3.67 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown May 20-May 22 2026
+NOAA Kp index breakdown May 21-May 23 2026
 
-             May 20       May 21       May 22
-00-03UT       2.67         2.67         2.67     
-03-06UT       2.33         2.00         3.67     
-06-09UT       2.00         2.33         2.00     
-09-12UT       2.00         2.33         0.67     
-12-15UT       2.00         2.33         1.67     
-15-18UT       2.00         2.33         1.67     
-18-21UT       2.00         2.33         2.33     
-21-00UT       2.00         2.67         2.33     
+             May 21       May 22       May 23
+00-03UT       2.67         2.67         2.33     
+03-06UT       3.67         3.00         2.67     
+06-09UT       2.33         2.00         2.33     
+09-12UT       2.00         1.67         1.67     
+12-15UT       1.67         0.67         1.67     
+15-18UT       2.33         1.67         2.00     
+18-21UT       2.33         2.33         2.33     
+21-00UT       3.00         2.67         2.33     
 
-Rationale: No G1 (Minor) or greater geomagnetic storms are expected. A
-solar sector boundary crossing and positive polarity CH HSS influences
-are possible through 21-22 May.
+Rationale: No G1 (Minor) or greater geomagnetic storms are expected. 
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-19 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for May 20-May 22 2026
+Solar Radiation Storm Forecast for May 21-May 23 2026
 
-              May 20  May 21  May 22
+              May 21  May 22  May 23
 S1 or greater    5%      5%      5%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -99,14 +89,14 @@ C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for May 20-May 22 2026
+Radio Blackout Forecast for May 21-May 23 2026
 
-              May 20        May 21        May 22
-R1-R2           20%           20%           25%
+              May 21        May 22        May 23
+R1-R2           20%           25%           25%
 R3 or greater    5%            5%            5%
 
 Rationale: There is a slight chance for R1-R2 (Minor-Moderate) radio
-blackouts through 21 May, increasing to a chance on 22 May. R3 (Strong)
-or greater events are not expected.
+blackouts on 21 May, increasing to a chance on 22-23 May due to regions
+anticipated to rotate onto the visible disk in that interval.
 
 ```
