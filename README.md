@@ -1,10 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2026-05-21
-<br />**Title of the image:**  A Collision of Galaxy Clusters
-<br />**Description for the image:**  This big beautiful spiral shines in X-ray light. It is about 20 times larger than our Galaxy.   It belongs to Abell 2029, a galaxy cluster one billion light-years away.   (To see only the galaxies, hover your cursor over the image, or follow this link.)      Galaxy clusters are the largest structures in the universe that are supported by gravity.     Abell 2029 is formed by thousands of galaxies, surrounded by a huge cloud of hot gas and the equivalent of hundreds of trillions times the mass of the Sun in dark matter.     The spiral is made of gas, mostly hydrogen and helium, heated to tens of millions of degrees.     It was found in a recent study that used data from NASA's Chandra X-ray Observatory to show that Abell 2029 had a collision with a smaller cluster four billion years ago.     The collision affected the gravitational field and caused the intracluster gas to slosh, like wine moving in a wine glass, shaping the spiral.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2605/a2029_lg.jpg
+<br />**Date image released:**  2026-05-22
+<br />**This image is owned by:**  Luigi Morrone
+<br />**Title of the image:**  The Nebulous Realm of WR 134
+<br />**Description for the image:**  This cosmic snapshot covers a field of view over twice as wide as the full Moon within the boundaries of the high-flying constellation Cygnus. Made using astronomical narrowband filters, the image highlights the bright edge of a ring-like nebula traced by the glow of ionized hydrogen and oxygen gas. Embedded in the region's expanse of interstellar clouds, the complex, glowing arcs are sections of shells of material swept up by the wind from Wolf-Rayet star WR 134, the brightest star near image center. Distance estimates put WR 134 about 6,000 light-years away, making this telescopic frame over 100 light-years across. Shedding their outer envelopes in powerful stellar winds, massive Wolf-Rayet stars have burned through their nuclear fuel at a prodigious rate and end their final phase of massive star evolution in a spectacular supernova. Their stellar winds and final supernova explosion enrich the interstellar material with heavy elements to be incorporated in future generations of stars.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2605/WR134morrone2048.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -48,55 +49,55 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2026 May 21 0030 UTC
+:Issued: 2026 May 22 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for May 21-May 23 2026 is 3.67 (below NOAA
+The greatest expected 3 hr Kp for May 22-May 24 2026 is 2.67 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown May 21-May 23 2026
+NOAA Kp index breakdown May 22-May 24 2026
 
-             May 21       May 22       May 23
-00-03UT       2.67         2.67         2.33     
-03-06UT       3.67         3.00         2.67     
-06-09UT       2.33         2.00         2.33     
-09-12UT       2.00         1.67         1.67     
-12-15UT       1.67         0.67         1.67     
-15-18UT       2.33         1.67         2.00     
-18-21UT       2.33         2.33         2.33     
-21-00UT       3.00         2.67         2.33     
+             May 22       May 23       May 24
+00-03UT       2.67         2.33         1.67     
+03-06UT       2.67         2.67         1.67     
+06-09UT       2.00         2.33         1.33     
+09-12UT       1.67         1.67         1.33     
+12-15UT       0.67         1.67         1.33     
+15-18UT       1.67         2.00         1.33     
+18-21UT       2.00         2.33         1.33     
+21-00UT       2.67         2.33         1.67     
 
-Rationale: No G1 (Minor) or greater geomagnetic storms are expected. 
+Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-19 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for May 21-May 23 2026
+Solar Radiation Storm Forecast for May 22-May 24 2026
 
-              May 21  May 22  May 23
+              May 22  May 23  May 24
 S1 or greater    5%      5%      5%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
-
+No significant active region activity favorable for radiation storm
+production is forecast.
 
 C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for May 21-May 23 2026
+Radio Blackout Forecast for May 22-May 24 2026
 
-              May 21        May 22        May 23
-R1-R2           20%           25%           25%
+              May 22        May 23        May 24
+R1-R2           25%           25%           25%
 R3 or greater    5%            5%            5%
 
-Rationale: There is a slight chance for R1-R2 (Minor-Moderate) radio
-blackouts on 21 May, increasing to a chance on 22-23 May due to regions
-anticipated to rotate onto the visible disk in that interval.
+Rationale: There is a chance for R1-R2 (Minor-Moderate) radio blackouts
+through 24 May.
 
 ```
