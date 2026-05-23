@@ -1,11 +1,10 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2026-05-22
-<br />**This image is owned by:**  Luigi Morrone
-<br />**Title of the image:**  The Nebulous Realm of WR 134
-<br />**Description for the image:**  This cosmic snapshot covers a field of view over twice as wide as the full Moon within the boundaries of the high-flying constellation Cygnus. Made using astronomical narrowband filters, the image highlights the bright edge of a ring-like nebula traced by the glow of ionized hydrogen and oxygen gas. Embedded in the region's expanse of interstellar clouds, the complex, glowing arcs are sections of shells of material swept up by the wind from Wolf-Rayet star WR 134, the brightest star near image center. Distance estimates put WR 134 about 6,000 light-years away, making this telescopic frame over 100 light-years across. Shedding their outer envelopes in powerful stellar winds, massive Wolf-Rayet stars have burned through their nuclear fuel at a prodigious rate and end their final phase of massive star evolution in a spectacular supernova. Their stellar winds and final supernova explosion enrich the interstellar material with heavy elements to be incorporated in future generations of stars.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2605/WR134morrone2048.jpg
+<br />**Date image released:**  2026-05-23
+<br />**Title of the image:**  Messier 2
+<br />**Description for the image:**  After the Crab Nebula, this giant star cluster is the second entry in 18th century astronomer Charles Messier's famous list of things that are not comets. M2 is one of the largest globular star clusters now known to roam the halo of our Milky Way galaxy. Though Messier originally described it as a nebula without stars, this stunning Hubble image resolves stars across the cluster's central 40 light-years. Its population of stars numbers close to 150,000, concentrated within a total diameter of around 175 light-years. About 55,000 light-years distant toward the constellation Aquarius, this ancient denizen of the Milky Way, also known as NGC 7089, is 13 billion years old. An extended stellar debris stream, a signature of past gravitational tidal disruption, was recently found to be associated with Messier 2.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2605/potw1913aa.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,38 +48,39 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2026 May 22 0030 UTC
+:Issued: 2026 May 23 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for May 22-May 24 2026 is 2.67 (below NOAA
+The greatest expected 3 hr Kp for May 23-May 25 2026 is 2.67 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown May 22-May 24 2026
+NOAA Kp index breakdown May 23-May 25 2026
 
-             May 22       May 23       May 24
-00-03UT       2.67         2.33         1.67     
-03-06UT       2.67         2.67         1.67     
-06-09UT       2.00         2.33         1.33     
-09-12UT       1.67         1.67         1.33     
-12-15UT       0.67         1.67         1.33     
-15-18UT       1.67         2.00         1.33     
-18-21UT       2.00         2.33         1.33     
-21-00UT       2.67         2.33         1.67     
+             May 23       May 24       May 25
+00-03UT       2.33         1.67         1.67     
+03-06UT       2.67         1.67         1.33     
+06-09UT       2.33         1.33         1.33     
+09-12UT       1.67         1.33         1.33     
+12-15UT       1.67         1.33         1.67     
+15-18UT       2.00         1.33         1.33     
+18-21UT       2.33         1.33         1.67     
+21-00UT       2.33         1.67         1.33     
 
-Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  
+Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
+significant transient or recurrent solar wind features are forecast.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-19 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for May 22-May 24 2026
+Solar Radiation Storm Forecast for May 23-May 25 2026
 
-              May 22  May 23  May 24
+              May 23  May 24  May 25
 S1 or greater    5%      5%      5%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -89,15 +89,16 @@ production is forecast.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-No radio blackouts were observed over the past 24 hours.
+Radio blackouts reaching the R1 levels were observed over the past 24
+hours. The largest was at May 22 2026 1029 UTC.
 
-Radio Blackout Forecast for May 22-May 24 2026
+Radio Blackout Forecast for May 23-May 25 2026
 
-              May 22        May 23        May 24
+              May 23        May 24        May 25
 R1-R2           25%           25%           25%
 R3 or greater    5%            5%            5%
 
 Rationale: There is a chance for R1-R2 (Minor-Moderate) radio blackouts
-through 24 May.
+over 23-25 May.
 
 ```
