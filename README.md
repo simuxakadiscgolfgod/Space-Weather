@@ -1,10 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2026-05-23
-<br />**Title of the image:**  Messier 2
-<br />**Description for the image:**  After the Crab Nebula, this giant star cluster is the second entry in 18th century astronomer Charles Messier's famous list of things that are not comets. M2 is one of the largest globular star clusters now known to roam the halo of our Milky Way galaxy. Though Messier originally described it as a nebula without stars, this stunning Hubble image resolves stars across the cluster's central 40 light-years. Its population of stars numbers close to 150,000, concentrated within a total diameter of around 175 light-years. About 55,000 light-years distant toward the constellation Aquarius, this ancient denizen of the Milky Way, also known as NGC 7089, is 13 billion years old. An extended stellar debris stream, a signature of past gravitational tidal disruption, was recently found to be associated with Messier 2.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2605/potw1913aa.jpg
+<br />**Date image released:**  2020-08-04
+<br />**This image is owned by:**  Robert Gendler
+<br />**Title of the image:**  NGC 2442: Galaxy in Volans
+<br />**Description for the image:**  Distorted galaxy NGC 2442 can be found in the southern constellation of the flying fish, (Piscis) Volans. Located about 50 million light-years away, the galaxy's two spiral arms extending from a pronounced central bar have a hook-like appearance in wide-field images. But this mosaicked close-up, constructed from Hubble Space Telescope and European Southern Observatory data, follows the galaxy's structure in amazing detail. Obscuring dust lanes, young blue star clusters and reddish star forming regions surround a core of yellowish light from an older population of stars. The sharp image data also reveal more distant background galaxies seen right through NGC 2442's star clusters and nebulae. The image spans about 75,000 light-years at the estimated distance of NGC 2442.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2008/NGC2442_HstGendler_2400.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -48,27 +49,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2026 May 23 0030 UTC
+:Issued: 2026 May 24 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 1 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for May 23-May 25 2026 is 2.67 (below NOAA
+The greatest expected 3 hr Kp for May 24-May 26 2026 is 3.00 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown May 23-May 25 2026
+NOAA Kp index breakdown May 24-May 26 2026
 
-             May 23       May 24       May 25
-00-03UT       2.33         1.67         1.67     
-03-06UT       2.67         1.67         1.33     
-06-09UT       2.33         1.33         1.33     
-09-12UT       1.67         1.33         1.33     
-12-15UT       1.67         1.33         1.67     
-15-18UT       2.00         1.33         1.33     
-18-21UT       2.33         1.33         1.67     
-21-00UT       2.33         1.67         1.33     
+             May 24       May 25       May 26
+00-03UT       1.67         1.67         1.33     
+03-06UT       1.67         1.33         2.00     
+06-09UT       1.33         1.33         2.33     
+09-12UT       1.33         1.33         2.00     
+12-15UT       1.33         1.67         2.00     
+15-18UT       1.33         1.33         2.00     
+18-21UT       1.33         1.67         2.00     
+21-00UT       1.67         1.33         3.00     
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
 significant transient or recurrent solar wind features are forecast.
@@ -78,9 +79,9 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-19 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for May 23-May 25 2026
+Solar Radiation Storm Forecast for May 24-May 26 2026
 
-              May 23  May 24  May 25
+              May 24  May 25  May 26
 S1 or greater    5%      5%      5%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -89,16 +90,17 @@ production is forecast.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-Radio blackouts reaching the R1 levels were observed over the past 24
-hours. The largest was at May 22 2026 1029 UTC.
+No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for May 23-May 25 2026
+Radio Blackout Forecast for May 24-May 26 2026
 
-              May 23        May 24        May 25
-R1-R2           25%           25%           25%
+              May 24        May 25        May 26
+R1-R2           35%           35%           35%
 R3 or greater    5%            5%            5%
 
-Rationale: There is a chance for R1-R2 (Minor-Moderate) radio blackouts
-over 23-25 May.
+Rationale: There exists a chance for R1-R2 (Minor-Moderate) radio
+blackouts over 24-26 May primarily due to Region 4441 and the complexity
+and activity of new regions rotating from the eastern limb including
+Region 4446.
 
 ```
