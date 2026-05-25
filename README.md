@@ -1,11 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2020-08-04
-<br />**This image is owned by:**  Robert Gendler
-<br />**Title of the image:**  NGC 2442: Galaxy in Volans
-<br />**Description for the image:**  Distorted galaxy NGC 2442 can be found in the southern constellation of the flying fish, (Piscis) Volans. Located about 50 million light-years away, the galaxy's two spiral arms extending from a pronounced central bar have a hook-like appearance in wide-field images. But this mosaicked close-up, constructed from Hubble Space Telescope and European Southern Observatory data, follows the galaxy's structure in amazing detail. Obscuring dust lanes, young blue star clusters and reddish star forming regions surround a core of yellowish light from an older population of stars. The sharp image data also reveal more distant background galaxies seen right through NGC 2442's star clusters and nebulae. The image spans about 75,000 light-years at the estimated distance of NGC 2442.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2008/NGC2442_HstGendler_2400.jpg
+<br />**Date image released:**  2026-05-25
+<br />**This image is owned by:**  John Hayes
+<br />**Title of the image:**  Thackeray's Globules
+<br />**Description for the image:**  What are these strange space globs?  Situated in rich star fields and glowing hydrogen gas, these opaque clouds of interstellar dust and gas are so large they might be able to form stars. Their home is known as IC 2944, a bright stellar nursery located about 7,600 light years away toward the constellation of the Centaur (Centaurus). The largest of these  dark globules, first spotted by A. D. Thackeray in 1950 using a telescope in South Africa, is likely two separate but overlapping clouds, each more than one light-year wide. Along with other data, the featured Hubble palette image from the El Sauce Observatory in Chile, indicates that Thackeray's globules are fractured and churning as a result of intense ultraviolet radiation from young, hot stars already energizing and heating the bright emission nebula. These and similar dark globules known to be associated with other star forming regions may ultimately be dissipated by their hostile environment -- like cosmic lumps of butter in a hot frying pan.   Interstellar Jigsaw: Astronomy Puzzle of the Day
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2605/ThackerayGlobs_Hayes_2664.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,27 +49,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2026 May 24 0030 UTC
+:Issued: 2026 May 25 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 1 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for May 24-May 26 2026 is 3.00 (below NOAA
+The greatest expected 3 hr Kp for May 25-May 27 2026 is 3.67 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown May 24-May 26 2026
+NOAA Kp index breakdown May 25-May 27 2026
 
-             May 24       May 25       May 26
-00-03UT       1.67         1.67         1.33     
-03-06UT       1.67         1.33         2.00     
-06-09UT       1.33         1.33         2.33     
-09-12UT       1.33         1.33         2.00     
-12-15UT       1.33         1.67         2.00     
-15-18UT       1.33         1.33         2.00     
-18-21UT       1.33         1.67         2.00     
-21-00UT       1.67         1.33         3.00     
+             May 25       May 26       May 27
+00-03UT       1.67         1.33         2.67     
+03-06UT       1.33         2.00         3.67     
+06-09UT       1.33         2.33         3.00     
+09-12UT       1.33         2.00         2.67     
+12-15UT       1.67         2.00         2.33     
+15-18UT       1.33         2.00         2.00     
+18-21UT       1.67         2.00         2.33     
+21-00UT       1.33         3.00         2.67     
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
 significant transient or recurrent solar wind features are forecast.
@@ -79,9 +79,9 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-19 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for May 24-May 26 2026
+Solar Radiation Storm Forecast for May 25-May 27 2026
 
-              May 24  May 25  May 26
+              May 25  May 26  May 27
 S1 or greater    5%      5%      5%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -92,15 +92,14 @@ C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for May 24-May 26 2026
+Radio Blackout Forecast for May 25-May 27 2026
 
-              May 24        May 25        May 26
+              May 25        May 26        May 27
 R1-R2           35%           35%           35%
 R3 or greater    5%            5%            5%
 
-Rationale: There exists a chance for R1-R2 (Minor-Moderate) radio
-blackouts over 24-26 May primarily due to Region 4441 and the complexity
-and activity of new regions rotating from the eastern limb including
-Region 4446.
+Rationale: Solar activity is expected to remain at low levels, with a
+chance for isolated M-class flares (R1-R2/Minor-Moderate) on 25-27 May,
+primarily due to the flare potential of Region 4441 and Region 4446.
 
 ```
