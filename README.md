@@ -1,11 +1,12 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2026-05-25
-<br />**This image is owned by:**  John Hayes
-<br />**Title of the image:**  Thackeray's Globules
-<br />**Description for the image:**  What are these strange space globs?  Situated in rich star fields and glowing hydrogen gas, these opaque clouds of interstellar dust and gas are so large they might be able to form stars. Their home is known as IC 2944, a bright stellar nursery located about 7,600 light years away toward the constellation of the Centaur (Centaurus). The largest of these  dark globules, first spotted by A. D. Thackeray in 1950 using a telescope in South Africa, is likely two separate but overlapping clouds, each more than one light-year wide. Along with other data, the featured Hubble palette image from the El Sauce Observatory in Chile, indicates that Thackeray's globules are fractured and churning as a result of intense ultraviolet radiation from young, hot stars already energizing and heating the bright emission nebula. These and similar dark globules known to be associated with other star forming regions may ultimately be dissipated by their hostile environment -- like cosmic lumps of butter in a hot frying pan.   Interstellar Jigsaw: Astronomy Puzzle of the Day
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2605/ThackerayGlobs_Hayes_2664.jpg
+<br />**Date image released:**  2026-05-26
+<br />**This image is owned by:**  Adam Block, 
+El Sauce Obs.
+<br />**Title of the image:**  NGC 3660 and Burçin's Galaxy
+<br />**Description for the image:**  The upper galaxy might be more photogenic, but the lower galaxy is more unusual.  The galaxy up top is NGC 3660, a spiral galaxy similar to our own Milky Way galaxy in that it has several bright blue spiral arms and a central bar of stars, dust, and gas. Captured by chance in the featured deep and colorful image, surprisingly, is SN 2026cff, a supernova found just to the right of the central bar.  Farther in the distance is the bottom galaxy, known informally as Burçin’s galaxy, but formally cataloged as LEDA 1000714. The center of this galaxy appears to be an old elliptical galaxy, but it is strangely surrounded by not one but two rings of stars.  What created Burçin's galaxy is a mystery and remains a continuing topic of research, but it likely involves the accretion of one or more smaller galaxies.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2605/Ngc3660Burcin_Block_1176.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,27 +50,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2026 May 25 0030 UTC
+:Issued: 2026 May 26 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for May 25-May 27 2026 is 3.67 (below NOAA
+The greatest expected 3 hr Kp for May 26-May 28 2026 is 3.67 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown May 25-May 27 2026
+NOAA Kp index breakdown May 26-May 28 2026
 
-             May 25       May 26       May 27
-00-03UT       1.67         1.33         2.67     
-03-06UT       1.33         2.00         3.67     
-06-09UT       1.33         2.33         3.00     
-09-12UT       1.33         2.00         2.67     
-12-15UT       1.67         2.00         2.33     
-15-18UT       1.33         2.00         2.00     
-18-21UT       1.67         2.00         2.33     
-21-00UT       1.33         3.00         2.67     
+             May 26       May 27       May 28
+00-03UT       1.67         2.67         3.00     
+03-06UT       1.67         3.67         3.67     
+06-09UT       2.00         3.00         3.00     
+09-12UT       1.67         2.67         2.67     
+12-15UT       1.67         2.33         2.00     
+15-18UT       1.67         2.00         1.67     
+18-21UT       2.00         2.33         2.67     
+21-00UT       2.00         2.67         1.67     
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
 significant transient or recurrent solar wind features are forecast.
@@ -79,27 +80,25 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-19 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for May 25-May 27 2026
+Solar Radiation Storm Forecast for May 26-May 28 2026
 
-              May 25  May 26  May 27
-S1 or greater    5%      5%      5%
+              May 26  May 27  May 28
+S1 or greater   50%      5%      5%
 
-Rationale: No S1 (Minor) or greater solar radiation storms are expected.
-No significant active region activity favorable for radiation storm
-production is forecast.
+Rationale: There is a chance for S1 (Minor) or greater solar radiation
+storms due to activity beyond the NW limb.
 
 C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for May 25-May 27 2026
+Radio Blackout Forecast for May 26-May 28 2026
 
-              May 25        May 26        May 27
+              May 26        May 27        May 28
 R1-R2           35%           35%           35%
 R3 or greater    5%            5%            5%
 
-Rationale: Solar activity is expected to remain at low levels, with a
-chance for isolated M-class flares (R1-R2/Minor-Moderate) on 25-27 May,
-primarily due to the flare potential of Region 4441 and Region 4446.
+Rationale: There is a chance for R1-R2 (Minor-Moderate) radio blackouts
+all three days.
 
 ```
