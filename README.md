@@ -1,18 +1,10 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2026-05-27
-<br />**This image is owned by:**  Bernard Miller
-
-Text:
-Keighley Rockcliffe  
-(NASA
-GSFC, 
-UMBC CSST, 
-CRESST II)
-<br />**Title of the image:**  PK 164 +31.1: The Headphone Nebula
-<br />**Description for the image:**  What is a pair of headphones doing in the sky? Today’s image features the Headphone Nebula, also known as PK 164 +31.1 or Jones-Emberson 1. This planetary nebula, the remnant of a dying Sun-like star, faintly occupies an angular region of the Lynx constellation about 1/5th the diameter of the full moon. The red and blue-ish green colors trace hydrogen and oxygen atoms, respectively, that have been excited and ionized by the nebula's central white dwarf. The headphone shape, where two lobes of hydrogen puncture the inner region of oxygen, adds this object to a long list of oddly shaped nebulae. The morphology of such strange nebulae hint at the presence of a stellar or planetary companion, which can stir the material flowing out from the dying star. You can listen to Hubble and JWST sonifications of planetary nebulae through your very own headphones!
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2605/headphone_nebula.jpg
+<br />**Date image released:**  2026-05-28
+<br />**Title of the image:**  NGC 1514: The Crystal Ball Nebula
+<br />**Description for the image:**  What do you see in this crystal ball?   The featured image shows NGC 1514, known as the Crystal Ball Nebula, observed by the Gemini North telescope on Maunakea, in Hawai'i.   NGC 1514 is 1,500 light-years away and was discovered by William Herschel in 1790.   This planetary nebula is formed when a star becomes a red giant and ejects its outer gas layers.   The ejected shell of gas is heated up by the core of the star to temperatures hotter than the surface of our Sun: that makes the gas shine, creating beautiful images like this one.       The slightly asymmetrical shape of the Crystal Ball Nebula reveals a secret: the bright star in the center has a companion.   As the two stars orbit each other with a period of about nine years, they shape the gas around them.   In about 10,000 - 25,000 years the nebula will be dissipated by their stellar winds.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2605/noirlab2613a_large.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -56,55 +48,57 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2026 May 27 0030 UTC
+:Issued: 2026 May 28 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for May 27-May 29 2026 is 3.67 (below NOAA
+The greatest expected 3 hr Kp for May 28-May 30 2026 is 3.67 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown May 27-May 29 2026
+NOAA Kp index breakdown May 28-May 30 2026
 
-             May 27       May 28       May 29
-00-03UT       3.33         3.00         1.67     
-03-06UT       3.67         3.67         2.00     
-06-09UT       3.00         3.00         1.67     
-09-12UT       2.33         2.33         1.33     
-12-15UT       2.33         2.00         1.33     
-15-18UT       2.33         1.67         1.67     
-18-21UT       2.67         2.67         2.00     
-21-00UT       3.00         1.67         2.33     
+             May 28       May 29       May 30
+00-03UT       3.00         3.33         2.00     
+03-06UT       3.67         3.00         2.00     
+06-09UT       3.00         1.67         1.33     
+09-12UT       2.33         2.00         1.00     
+12-15UT       2.00         2.00         1.00     
+15-18UT       1.67         1.67         1.67     
+18-21UT       2.67         2.33         2.33     
+21-00UT       1.67         2.33         2.33     
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
 significant transient or recurrent solar wind features are forecast.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
-Solar radiation, as observed by NOAA GOES-19 over the past 24 hours, was
-above S-scale storm level thresholds.
+Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
+below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for May 27-May 29 2026
+Solar Radiation Storm Forecast for May 28-May 30 2026
 
-              May 27  May 28  May 29
-S1 or greater   10%      1%      1%
+              May 28  May 29  May 30
+S1 or greater    5%      5%      5%
 
-Rationale: There is a slight chance for S1 (Minor) or greater solar
-radiation storms on 27 May as flux levels are still slightly elevated.
+Rationale: No S1 (Minor) or greater solar radiation storms are expected.
+No significant active region activity favorable for radiation storm
+production is forecast.
 
 C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for May 27-May 29 2026
+Radio Blackout Forecast for May 28-May 30 2026
 
-              May 27        May 28        May 29
+              May 28        May 29        May 30
 R1-R2           40%           40%           40%
 R3 or greater    5%            5%            5%
 
 Rationale: There is a chance for R1-R2 (Minor-Moderate) radio blackouts
-through 29 May due to the flaring potential on the visible disk.
+through 30 May due to the flaring potential of the visible disk and
+regions rotating onto the eastern limb.
 
 ```
