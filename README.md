@@ -1,10 +1,10 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2026-05-29
-<br />**Title of the image:**  Messier 104
-<br />**Description for the image:**  A gorgeous spiral galaxy, Messier 104 is famous for its nearly edge-on profile featuring a broad ring of obscuring dust lanes. Seen in silhouette against an extensive central bulge of stars, the swath of cosmic dust lends a broad brimmed hat-like appearance to the galaxy suggesting a more popular moniker, the Sombrero Galaxy. Also known as NGC 4594, the Sombrero galaxy can be seen across the spectrum and is host to a central supermassive black hole. About 50,000 light-years across and 28 million light-years away, M104 is one of the largest galaxies at the southern edge of the Virgo Galaxy Cluster. Still, the spiky foreground stars in this field of view lie well within our own Milky Way. This broad view of the well-known galaxy was processed to reveal M104's extended halo, as well as a faint tidal stellar stream. It was captured by the Dark Energy Camera (DECam) on the Blanco 4-meter telescope at the Cerro Tololo Inter-American Observatory.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2605/M104noirlab2612a.jpg
+<br />**Date image released:**  2026-05-30
+<br />**Title of the image:**  Supermoon Versus Micromoon
+<br />**Description for the image:**  What is so micro about tonight's blue micromoon?  Just after sunset, a full moon will appear slightly smaller and dimmer than usual.  The reason is that the Moon's fully illuminated phase occurs within a short time of apogee - when the Moon is farthest from the Earth in its elliptical orbit.  In fact, tonight's micromoon will be the farthest, smallest, and dimmest Moon this year.  But tonight's micromoon is notable for yet another reason: it is also a blue moon, meaning that it is the second full moon in the same month (moon-th).  Pictured here, a supermoon -- when the full moon appears near its largest -- is compared to a micromoon as photographed from Kolkata, India in May and December of 2021.  Although the next micromoon occurs next month, and the next blue moon at the end of 2028, the next blue micromoon will not occur until 2053.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2605/SuperMicroMoon_Mukherjee_3000.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -48,29 +48,29 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2026 May 29 0030 UTC
+:Issued: 2026 May 30 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for May 29-May 31 2026 is 4.00 (below NOAA
+The greatest expected 3 hr Kp for May 30-Jun 01 2026 is 4.00 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown May 29-May 31 2026
+NOAA Kp index breakdown May 30-Jun 01 2026
 
-             May 29       May 30       May 31
-00-03UT       3.33         2.33         3.00     
-03-06UT       2.67         2.00         2.33     
-06-09UT       2.33         1.33         2.33     
-09-12UT       2.33         1.33         1.67     
-12-15UT       2.00         2.67         3.33     
-15-18UT       2.33         2.33         2.67     
-18-21UT       2.67         3.00         4.00     
-21-00UT       3.67         3.00         3.67     
+             May 30       May 31       Jun 01
+00-03UT       2.00         3.00         3.00     
+03-06UT       2.00         2.33         3.00     
+06-09UT       4.00         2.33         2.67     
+09-12UT       2.00         1.67         2.00     
+12-15UT       2.00         3.33         2.67     
+15-18UT       3.00         2.67         2.00     
+18-21UT       1.00         4.00         2.67     
+21-00UT       2.00         3.67         2.67     
 
-Rationale: No G1 (Minor) or greater geomagnetic storms are expected. No
+Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
 significant transient or recurrent solar wind features are forecast.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
@@ -78,9 +78,9 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for May 29-May 31 2026
+Solar Radiation Storm Forecast for May 30-Jun 01 2026
 
-              May 29  May 30  May 31
+              May 30  May 31  Jun 01
 S1 or greater    5%      5%      5%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -89,15 +89,16 @@ production is forecast.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-No radio blackouts were observed over the past 24 hours.
+Radio blackouts reaching the R1 levels were observed over the past 24
+hours. The largest was at May 29 2026 0704 UTC.
 
-Radio Blackout Forecast for May 29-May 31 2026
+Radio Blackout Forecast for May 30-Jun 01 2026
 
-              May 29        May 30        May 31
+              May 30        May 31        Jun 01
 R1-R2           40%           40%           40%
 R3 or greater    5%            5%            5%
 
 Rationale: There is a chance for R1-R2 (Minor-Moderate) radio blackouts
-through 31 May.
+over 30 May-01 Jun.
 
 ```
