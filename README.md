@@ -1,10 +1,10 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2026-05-31
-<br />**Title of the image:**  Eagle Nebula Pillars in Infrared from Hubble
-<br />**Description for the image:**  Newborn stars are forming in the Eagle Nebula.  They are gravitationally contracting in pillars of dense gas and dust.  The intense radiation of these newly-formed bright stars is causing surrounding material to boil away. This image, taken with the Hubble Space Telescope in near infrared light, allows the viewer to see through much of the thick dust that makes the pillars opaque in visible light.  The giant structures are light years in length and dubbed informally the Pillars of Creation.  Associated with the open star cluster M16, the Eagle Nebula lies about 6,500 light years away.  The Eagle Nebula is a satisfying target for small telescopes in a nebula-rich part of the sky toward the split constellation Serpens Cauda (the tail of the snake).    Sky Surprise: What picture did APOD feature on your birthday? (after 1995)
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2605/M16Ir_HubbleRomero_2786.jpg
+<br />**Date image released:**  2026-06-01
+<br />**Title of the image:**  Saturn at Night
+<br />**Description for the image:**  Telescopic views of Saturn and its beautiful rings often make it the star of star parties. But this stunning view of the outer gas gaint planet's rings and night side just isn't possible from telescopes in the vicinity of planet Earth. Peering out from the inner Solar System they can only bring Saturn's day side into view. In fact, this image of Saturn's slender sunlit crescent with the planet's night shadow cast across its broad and complex ring system was captured by the robot spacecraft Cassini. After a seven year long journey from planet Earth, Cassini called Saturn orbit home for 13 years (from 2004 - 2017) before it was directed to dive into the atmosphere of the gas giant on September 15, 2017. This magnificent mosaic is composed of frames recorded by Cassini's wide-angle camera only two days before its grand final plunge. And Saturn's night will not be seen again until another spaceship from Earth calls.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2605/LastRingPortrait_Cassini_4472.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -48,27 +48,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2026 May 31 0030 UTC
+:Issued: 2026 Jun 01 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for May 31-Jun 02 2026 is 4.00 (below NOAA
+The greatest expected 3 hr Kp for Jun 01-Jun 03 2026 is 4.00 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown May 31-Jun 02 2026
+NOAA Kp index breakdown Jun 01-Jun 03 2026
 
-             May 31       Jun 01       Jun 02
-00-03UT       4.00         3.67         2.33     
-03-06UT       3.00         3.00         2.00     
-06-09UT       2.33         2.67         1.67     
-09-12UT       1.67         2.00         1.33     
-12-15UT       2.33         2.67         1.00     
-15-18UT       2.67         2.00         1.67     
-18-21UT       4.00         2.67         1.67     
-21-00UT       3.67         2.67         2.00     
+             Jun 01       Jun 02       Jun 03
+00-03UT       3.67         2.67         2.00     
+03-06UT       3.00         2.33         3.33     
+06-09UT       2.33         2.00         4.00     
+09-12UT       2.00         1.33         3.00     
+12-15UT       1.67         1.33         2.67     
+15-18UT       2.00         2.00         2.33     
+18-21UT       2.00         2.00         2.33     
+21-00UT       2.33         2.33         2.67     
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
 significant transient or recurrent solar wind features are forecast.
@@ -78,10 +78,10 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for May 31-Jun 02 2026
+Solar Radiation Storm Forecast for Jun 01-Jun 03 2026
 
-              May 31  Jun 01  Jun 02
-S1 or greater    5%      5%      5%
+              Jun 01  Jun 02  Jun 03
+S1 or greater    5%      5%      1%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
 No significant active region activity favorable for radiation storm
@@ -91,13 +91,13 @@ C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for May 31-Jun 02 2026
+Radio Blackout Forecast for Jun 01-Jun 03 2026
 
-              May 31        Jun 01        Jun 02
-R1-R2           40%           40%           40%
-R3 or greater    5%            5%            5%
+              Jun 01        Jun 02        Jun 03
+R1-R2           25%           25%           20%
+R3 or greater    5%            5%            1%
 
 Rationale: There is a chance for R1-R2 (Minor-Moderate) radio blackouts
-over 31 May-02 Jun.
+on 01-02 Jun, with a slight chance for R1-R2 events on 03 Jun.
 
 ```
