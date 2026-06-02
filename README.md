@@ -1,10 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2026-06-01
-<br />**Title of the image:**  Saturn at Night
-<br />**Description for the image:**  Telescopic views of Saturn and its beautiful rings often make it the star of star parties. But this stunning view of the outer gas gaint planet's rings and night side just isn't possible from telescopes in the vicinity of planet Earth. Peering out from the inner Solar System they can only bring Saturn's day side into view. In fact, this image of Saturn's slender sunlit crescent with the planet's night shadow cast across its broad and complex ring system was captured by the robot spacecraft Cassini. After a seven year long journey from planet Earth, Cassini called Saturn orbit home for 13 years (from 2004 - 2017) before it was directed to dive into the atmosphere of the gas giant on September 15, 2017. This magnificent mosaic is composed of frames recorded by Cassini's wide-angle camera only two days before its grand final plunge. And Saturn's night will not be seen again until another spaceship from Earth calls.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2605/LastRingPortrait_Cassini_4472.jpg
+<br />**Date image released:**  2026-06-02
+<br />**This image is owned by:**  José Mtanous
+<br />**Title of the image:**  The Vela Supernova Remnant
+<br />**Description for the image:**  The explosion is over, but the consequences continue.  About twelve thousand years ago, a relatively normal star in the constellation Vela suddenly exploded, creating a strange point of light briefly visible to humans living near the beginning of recorded history.  The outer layers of the star crashed into the interstellar medium, driving a shock wave that is still visible today.  The featured image, taken piecemeal over 60 hours from the Khomas Region of Namibia, captures some of that filamentary and gigantic shock in visible light, with details highlighted by hydrogen (red) and oxygen (blue) emissions. As gas flies away from the detonated star, it decays and reacts with the interstellar medium, producing light in many different colors and energy bands. Remaining at the center of the Vela Supernova Remnant is a pulsar, a star as dense as nuclear matter that spins around more than ten times in a single second.   Explore the Universe: Random APOD Generator
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2606/Vela_Mtanous_2900.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -48,40 +49,39 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2026 Jun 01 0030 UTC
+:Issued: 2026 Jun 02 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Jun 01-Jun 03 2026 is 4.00 (below NOAA
+The greatest expected 3 hr Kp for Jun 02-Jun 04 2026 is 3.67 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Jun 01-Jun 03 2026
+NOAA Kp index breakdown Jun 02-Jun 04 2026
 
-             Jun 01       Jun 02       Jun 03
-00-03UT       3.67         2.67         2.00     
-03-06UT       3.00         2.33         3.33     
-06-09UT       2.33         2.00         4.00     
-09-12UT       2.00         1.33         3.00     
-12-15UT       1.67         1.33         2.67     
-15-18UT       2.00         2.00         2.33     
-18-21UT       2.00         2.00         2.33     
-21-00UT       2.33         2.33         2.67     
+             Jun 02       Jun 03       Jun 04
+00-03UT       1.67         1.67         3.00     
+03-06UT       1.33         3.00         2.67     
+06-09UT       1.33         2.67         2.67     
+09-12UT       1.33         1.67         3.00     
+12-15UT       1.33         2.33         2.67     
+15-18UT       1.33         2.67         3.00     
+18-21UT       1.67         3.67         2.67     
+21-00UT       2.67         3.00         3.67     
 
-Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
-significant transient or recurrent solar wind features are forecast.
+Rationale: G1 (Minor) or greater geomagnetic storms are expected.  
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Jun 01-Jun 03 2026
+Solar Radiation Storm Forecast for Jun 02-Jun 04 2026
 
-              Jun 01  Jun 02  Jun 03
-S1 or greater    5%      5%      1%
+              Jun 02  Jun 03  Jun 04
+S1 or greater    1%      1%      1%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
 No significant active region activity favorable for radiation storm
@@ -91,13 +91,13 @@ C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Jun 01-Jun 03 2026
+Radio Blackout Forecast for Jun 02-Jun 04 2026
 
-              Jun 01        Jun 02        Jun 03
-R1-R2           25%           25%           20%
-R3 or greater    5%            5%            1%
+              Jun 02        Jun 03        Jun 04
+R1-R2           20%           20%           20%
+R3 or greater    1%            1%            1%
 
-Rationale: There is a chance for R1-R2 (Minor-Moderate) radio blackouts
-on 01-02 Jun, with a slight chance for R1-R2 events on 03 Jun.
+Rationale: There is a slight chance for R1-R2 (Minor-Moderate) radio
+blackouts through 04 Jun.
 
 ```
