@@ -1,11 +1,13 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2026-06-05
-<br />**This image is owned by:**  Rafael Sampaio
-<br />**Title of the image:**  The Hydra Cluster of Galaxies
-<br />**Description for the image:**  Within our own Milky Way galaxy, two bright, spiky stars stand like sentinels in the foreground of this cosmic snapshot. Far beyond them are the galaxies of the Hydra Cluster. In fact, while the spiky foreground stars are hundreds of light-years distant, the Hydra Cluster galaxies are well over 100 million light-years away. Three large galaxies near the cluster center, two yellow ellipticals (NGC 3311, NGC 3309) and one prominent blue spiral (NGC 3312), are the dominant galaxies, each about 150,000 light-years in diameter. An intriguing overlapping galaxy pair cataloged as NGC 3314 lies above and left of NGC 3312. Also known as Abell 1060, the Hydra galaxy cluster is one of three large galaxy clusters within 200 million light-years of the Milky Way. In the nearby universe, galaxies are gravitationally bound into clusters which themselves are loosely bound into superclusters. Superclusters in turn are seen to align over even larger scales.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2606/HydraClusterSampaio.jpg
+<br />**Date image released:**  2026-06-08
+<br />**This image is owned by:**  Jakub Kuřák & 
+Martin Mašek 
+(FZU of the Czech Academy of Sciences)
+<br />**Title of the image:**  Comet R3 PanSTARRS Through Time
+<br />**Description for the image:**  What happens to a comet as it leaves our inner Solar System?  Now, the arrival of a comet into the inner Solar System is typically heralded with great fanfare and high hopes that the comet will become bright and photogenic. But on the way out, the comet's nucleus is less warmed by the Sun, less gas and dust are expelled, the bright coma around the nucleus shrinks and fades, and the tail length drops off. Many comets will then return to the outer Solar System and only return in hundreds or thousands of years. In contrast, some comets -- like Comet C/2025 R3 (PanSTARRS) -- receive a gravitational kick from the planets and so will never return. Pictured, Comet R3 PanSTARRs was imaged deeply many nights in early to mid-May near Cerro Paranal in Chile. Later images appear closer to the top and clearly show the shrinking ion tail.    Comet R3 Gallery: Comet R3 PanSTARRS in 2026
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2606/R3Tails_Kurak_1973.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,57 +51,57 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2026 Jun 05 0030 UTC
+:Issued: 2026 Jun 08 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Jun 05-Jun 07 2026 is 6.67 (NOAA Scale
+The greatest expected 3 hr Kp for Jun 08-Jun 10 2026 is 6.67 (NOAA Scale
 G3).
 
-NOAA Kp index breakdown Jun 05-Jun 07 2026
+NOAA Kp index breakdown Jun 08-Jun 10 2026
 
-             Jun 05       Jun 06       Jun 07
-00-03UT       5.33 (G1)    4.33         3.00     
-03-06UT       6.67 (G3)    4.00         3.00     
-06-09UT       5.67 (G2)    4.00         2.00     
-09-12UT       5.33 (G1)    3.00         2.67     
-12-15UT       4.33         2.33         2.67     
-15-18UT       4.67 (G1)    2.67         2.67     
-18-21UT       5.00 (G1)    3.33         2.00     
-21-00UT       4.33         3.67         2.67     
+             Jun 08       Jun 09       Jun 10
+00-03UT       2.33         5.67 (G2)    3.67     
+03-06UT       2.00         5.33 (G1)    3.33     
+06-09UT       4.33         4.33         2.33     
+09-12UT       5.00 (G1)    3.33         2.00     
+12-15UT       5.67 (G2)    3.00         2.00     
+15-18UT       6.67 (G3)    3.33         2.00     
+18-21UT       5.33 (G1)    3.67         2.67     
+21-00UT       5.67 (G2)    4.00         2.67     
 
 Rationale: Periods of G1-G3 (Minor-Strong) geomagnetic storming are
-likely on 05 Jun, with a chance for G4 (Severe) storm periods, due to
-the anticipated arrival of multiple CMEs that left the Sun on 03 Jun.
+likely on 08 Jun, with G1-G2 (Minor-Moderate) levels likely on 09 Jun,
+due to the anticipated passage of a CME that left the Sun on 06 Jun.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Jun 05-Jun 07 2026
+Solar Radiation Storm Forecast for Jun 08-Jun 10 2026
 
-              Jun 05  Jun 06  Jun 07
-S1 or greater    5%      5%      5%
+              Jun 08  Jun 09  Jun 10
+S1 or greater   25%      5%      5%
 
-Rationale: No S1 (Minor) or greater solar radiation storms are expected.
-No significant active region activity favorable for radiation storm
-production is forecast.
+Rationale: There is a chance for the greater than 10 MeV proton flux to
+reach S1 (Minor) levels on 08 June with the shock arrival of the 06 June
+CME.
 
 C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Jun 05-Jun 07 2026
+Radio Blackout Forecast for Jun 08-Jun 10 2026
 
-              Jun 05        Jun 06        Jun 07
-R1-R2           50%           50%           50%
+              Jun 08        Jun 09        Jun 10
+R1-R2           55%           55%           55%
 R3 or greater   10%           10%           10%
 
-Rationale: There is a chance for R1-R2 (Minor-Moderate) radio blackouts,
-with a slight chance for R3 (Strong) or greater events, over 05-07 Jun.
+Rationale: R1-R2 (Minor-Moderate) radio blackouts are likely, with a
+slight chance for an R3 (Strong) or greater event, over 08-10 Jun.
 
 ```
