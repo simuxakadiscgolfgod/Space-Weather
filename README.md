@@ -1,13 +1,12 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2026-06-08
-<br />**This image is owned by:**  Jakub Kuřák & 
-Martin Mašek 
-(FZU of the Czech Academy of Sciences)
-<br />**Title of the image:**  Comet R3 PanSTARRS Through Time
-<br />**Description for the image:**  What happens to a comet as it leaves our inner Solar System?  Now, the arrival of a comet into the inner Solar System is typically heralded with great fanfare and high hopes that the comet will become bright and photogenic. But on the way out, the comet's nucleus is less warmed by the Sun, less gas and dust are expelled, the bright coma around the nucleus shrinks and fades, and the tail length drops off. Many comets will then return to the outer Solar System and only return in hundreds or thousands of years. In contrast, some comets -- like Comet C/2025 R3 (PanSTARRS) -- receive a gravitational kick from the planets and so will never return. Pictured, Comet R3 PanSTARRs was imaged deeply many nights in early to mid-May near Cerro Paranal in Chile. Later images appear closer to the top and clearly show the shrinking ion tail.    Comet R3 Gallery: Comet R3 PanSTARRS in 2026
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2606/R3Tails_Kurak_1973.jpg
+<br />**Date image released:**  2026-06-09
+<br />**This image is owned by:**  Josep Drudis,
+Christian Sasse
+<br />**Title of the image:**  Thor's Helmet
+<br />**Description for the image:**  Thor not only has his own day (Thursday), but a helmet in the heavens.  Popularly called Thor's Helmet, NGC 2359 is a hat-shaped cosmic cloud with wing-like appendages. Heroically sized even for a Norse god, Thor's Helmet is about 30 light-years across. In fact, the cosmic head-covering is more like an interstellar bubble, blown by a fast wind from the bright, massive star near the bubble's center. Known as a Wolf-Rayet star, the central star is an extremely hot giant thought to be in a brief, pre-supernova stage of evolution. NGC 2359 is located about 15,000 light-years away toward the constellation of the Great Overdog. This sharp image is a combination of deep images taken in light emitted by hydrogen (red) and oxygen (blue).  The star in the center of Thor's Helmet is expected to explode in a spectacular supernova sometime within the next few thousand years.   Sky Surprise: What picture did APOD feature on your birthday? (after 1995)
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2606/Thor_Drudis_4389.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -51,57 +50,58 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2026 Jun 08 0030 UTC
+:Issued: 2026 Jun 09 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Jun 08-Jun 10 2026 is 6.67 (NOAA Scale
-G3).
+The greatest expected 3 hr Kp for Jun 09-Jun 11 2026 is 4.33 (below NOAA
+Scale levels).
 
-NOAA Kp index breakdown Jun 08-Jun 10 2026
+NOAA Kp index breakdown Jun 09-Jun 11 2026
 
-             Jun 08       Jun 09       Jun 10
-00-03UT       2.33         5.67 (G2)    3.67     
-03-06UT       2.00         5.33 (G1)    3.33     
-06-09UT       4.33         4.33         2.33     
-09-12UT       5.00 (G1)    3.33         2.00     
-12-15UT       5.67 (G2)    3.00         2.00     
-15-18UT       6.67 (G3)    3.33         2.00     
-18-21UT       5.33 (G1)    3.67         2.67     
-21-00UT       5.67 (G2)    4.00         2.67     
+             Jun 09       Jun 10       Jun 11
+00-03UT       4.33         3.00         2.00     
+03-06UT       4.00         3.33         2.00     
+06-09UT       3.00         2.33         3.00     
+09-12UT       3.33         2.00         2.67     
+12-15UT       2.33         2.00         3.00     
+15-18UT       1.67         2.00         3.33     
+18-21UT       3.00         2.33         3.00     
+21-00UT       2.67         2.33         4.00     
 
-Rationale: Periods of G1-G3 (Minor-Strong) geomagnetic storming are
-likely on 08 Jun, with G1-G2 (Minor-Moderate) levels likely on 09 Jun,
-due to the anticipated passage of a CME that left the Sun on 06 Jun.
+Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
+significant transient or recurrent solar wind features are forecast.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Jun 08-Jun 10 2026
+Solar Radiation Storm Forecast for Jun 09-Jun 11 2026
 
-              Jun 08  Jun 09  Jun 10
-S1 or greater   25%      5%      5%
+              Jun 09  Jun 10  Jun 11
+S1 or greater   10%     10%     10%
 
-Rationale: There is a chance for the greater than 10 MeV proton flux to
-reach S1 (Minor) levels on 08 June with the shock arrival of the 06 June
-CME.
+Rationale: No S1 (Minor) or greater solar radiation storms are expected.
+No significant active region activity favorable for radiation storm
+production is forecast.
 
 C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Jun 08-Jun 10 2026
+Radio Blackout Forecast for Jun 09-Jun 11 2026
 
-              Jun 08        Jun 09        Jun 10
+              Jun 09        Jun 10        Jun 11
 R1-R2           55%           55%           55%
 R3 or greater   10%           10%           10%
 
-Rationale: R1-R2 (Minor-Moderate) radio blackouts are likely, with a
-slight chance for an R3 (Strong) or greater event, over 08-10 Jun.
+Rationale: Isolated R1/R2 (Minor/Moderate) radio blackouts are likely,
+with a slight chance for isolated R3 (Strong) events through 11 June,
+primarily due to the flare potential exhibited by Regions 4456 (N17W61,
+Dai/beta), 4462 (N15W07, Dsi/beta), 4464 and 4465.
 
 ```
