@@ -1,12 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2026-06-09
-<br />**This image is owned by:**  Josep Drudis,
-Christian Sasse
-<br />**Title of the image:**  Thor's Helmet
-<br />**Description for the image:**  Thor not only has his own day (Thursday), but a helmet in the heavens.  Popularly called Thor's Helmet, NGC 2359 is a hat-shaped cosmic cloud with wing-like appendages. Heroically sized even for a Norse god, Thor's Helmet is about 30 light-years across. In fact, the cosmic head-covering is more like an interstellar bubble, blown by a fast wind from the bright, massive star near the bubble's center. Known as a Wolf-Rayet star, the central star is an extremely hot giant thought to be in a brief, pre-supernova stage of evolution. NGC 2359 is located about 15,000 light-years away toward the constellation of the Great Overdog. This sharp image is a combination of deep images taken in light emitted by hydrogen (red) and oxygen (blue).  The star in the center of Thor's Helmet is expected to explode in a spectacular supernova sometime within the next few thousand years.   Sky Surprise: What picture did APOD feature on your birthday? (after 1995)
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2606/Thor_Drudis_4389.jpg
+<br />**Date image released:**  2026-06-12
+<br />**This image is owned by:**  Josh Dury
+<br />**Title of the image:**  Venus and Jupiter: Conjunction from Avebury
+<br />**Description for the image:**  To see Venus and Jupiter together this month, you won't need binoculars or even a telescope. Just look up after sunset and you'll find them emerging as the sky grows dark near the western horizon. In fact, on June 9 the two brightest planets were in close conjunction, separated on the sky by less than 2 degrees from our perspective. Since (brighter) inner planet Venus orbits the Sun faster than outer planet Jupiter, it catches up with and passes the outer planet along the ecliptic roughly every 13 months. But every three years or so their resulting conjunction can be viewed far enough from the Sun to be easily seen in Earth's twilight skies. On June 9, the two celestial beacon's close "cosmic kiss" was captured here next to the two large standing stones at the cove within a 4,000 year old stone circle at Avebury, UK. Larger than Stonehenge, the Avebury henge and stone circle complex is also recognized as one of the most significant neolithic ceremonial sites on planet Earth.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2606/CosmicKissTheCoveAveburyDury.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -50,40 +49,44 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2026 Jun 09 0030 UTC
+:Issued: 2026 Jun 12 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
-Scale levels).
-The greatest expected 3 hr Kp for Jun 09-Jun 11 2026 is 4.33 (below NOAA
-Scale levels).
+The greatest observed 3 hr Kp over the past 24 hours was 5 (NOAA Scale
+G1).
+The greatest expected 3 hr Kp for Jun 12-Jun 14 2026 is 5.67 (NOAA Scale
+G2).
 
-NOAA Kp index breakdown Jun 09-Jun 11 2026
+NOAA Kp index breakdown Jun 12-Jun 14 2026
 
-             Jun 09       Jun 10       Jun 11
-00-03UT       4.33         3.00         2.00     
-03-06UT       4.00         3.33         2.00     
-06-09UT       3.00         2.33         3.00     
-09-12UT       3.33         2.00         2.67     
-12-15UT       2.33         2.00         3.00     
-15-18UT       1.67         2.00         3.33     
-18-21UT       3.00         2.33         3.00     
-21-00UT       2.67         2.33         4.00     
+             Jun 12       Jun 13       Jun 14
+00-03UT       4.67 (G1)    4.67 (G1)    4.67 (G1)
+03-06UT       3.67         3.33         4.00     
+06-09UT       2.33         5.67 (G2)    3.33     
+09-12UT       2.33         3.00         3.33     
+12-15UT       2.00         4.67 (G1)    2.67     
+15-18UT       3.33         5.00 (G1)    2.67     
+18-21UT       3.33         4.33         3.67     
+21-00UT       4.67 (G1)    4.33         4.00     
 
-Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
-significant transient or recurrent solar wind features are forecast.
+Rationale: Geomagnetic field conditions are expected to reach G1 (Minor)
+geomagnetic storming on 12 June under anticipated -CH HSS effects. G2
+(Moderate) geomagnetic storming levels are likely on 13 June
+due to the persistence of the high-speed stream and the arrival of the
+disturbances caused by the CMEs that left the Sun on 09 and 11 June. G1
+(Minor) levels are likely on 14 June, as the CMEs effects wane.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Jun 09-Jun 11 2026
+Solar Radiation Storm Forecast for Jun 12-Jun 14 2026
 
-              Jun 09  Jun 10  Jun 11
-S1 or greater   10%     10%     10%
+              Jun 12  Jun 13  Jun 14
+S1 or greater    5%      5%      5%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
 No significant active region activity favorable for radiation storm
@@ -93,15 +96,14 @@ C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Jun 09-Jun 11 2026
+Radio Blackout Forecast for Jun 12-Jun 14 2026
 
-              Jun 09        Jun 10        Jun 11
-R1-R2           55%           55%           55%
+              Jun 12        Jun 13        Jun 14
+R1-R2           45%           45%           45%
 R3 or greater   10%           10%           10%
 
-Rationale: Isolated R1/R2 (Minor/Moderate) radio blackouts are likely,
-with a slight chance for isolated R3 (Strong) events through 11 June,
-primarily due to the flare potential exhibited by Regions 4456 (N17W61,
-Dai/beta), 4462 (N15W07, Dsi/beta), 4464 and 4465.
+Rationale: There is a high chance for R1-R2 (Minor-Moderate) radio
+blackouts, and a slight chance for isolated R3 (Strong) events, mostly
+due to the flare potential of Region 4465.
 
 ```
