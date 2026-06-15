@@ -1,10 +1,12 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2026-06-13
-<br />**Title of the image:**  Interplanetary Earth
-<br />**Description for the image:**  In an interplanetary first, on July 19, 2013 Earth was photographed on the same day from two other worlds of the Solar System, innermost planet Mercury and ringed gas giant Saturn. Pictured on the left, Earth is the pale blue dot just below the rings of Saturn, as captured by the robotic Cassini spacecraft then orbiting the outermost gas giant. On that same day people across planet Earth snapped many of their own pictures of Saturn. On the right, the Earth-Moon system is seen against the dark background of space as captured by the sunward MESSENGER spacecraft, then in Mercury orbit. MESSENGER took its image as part of a search for small natural satellites of Mercury, moons that would be expected to be quite dim. In the MESSENGER image, the brighter Earth and Moon are both overexposed and shine brightly with reflected sunlight. Destined not to return to their home world, both Cassini and MESSENGER have since retired from their missions of Solar System exploration.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2606/earth_cassinimessenger_1799.jpg
+<br />**Date image released:**  2026-06-15
+<br />**This image is owned by:**  John Winkopp  
+(WAI Media)
+<br />**Title of the image:**  Triple Shockwave from Sun Crossing Rocket
+<br />**Description for the image:**  What's happening to this Sun-crossing rocket?  The SpaceX Falcon 9 rocket, visible on the upper left, launched only about one minute before this amazing image was captured.  As it rose to low Earth orbit from Cape Canaveral, Florida, USA,  in late May, the rocket became supersonic before it crossed the disk of the distant Sun -- from the perspective of the well-placed photographer.  The spacecraft's high speed caused bow-shaped compressed-air shockwaves to form across leading surfaces, with at least three visible even outside the Sun's disk because they refract sunlight.  The trailing exhaust caused turbulence visible on the lower right. None of this was damaging to the robotic Starlink 10-53 mission, which delivered 29 communications satellites to low Earth orbit as planned.  And if that isn't amazing enough - the Sun had spots!    Sky Surprise: What picture did APOD feature on your birthday? (after 1995)
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2606/TripleSunShock_Winkopp_1108.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -48,44 +50,40 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2026 Jun 13 0030 UTC
+:Issued: 2026 Jun 15 1230 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Jun 13-Jun 15 2026 is 5.67 (NOAA Scale
-G2).
+The greatest expected 3 hr Kp for Jun 15-Jun 17 2026 is 3.67 (below NOAA
+Scale levels).
 
-NOAA Kp index breakdown Jun 13-Jun 15 2026
+NOAA Kp index breakdown Jun 15-Jun 17 2026
 
-             Jun 13       Jun 14       Jun 15
-00-03UT       3.33         4.67 (G1)    3.00     
-03-06UT       4.67 (G1)    4.00         2.33     
-06-09UT       5.67 (G2)    3.33         3.67     
-09-12UT       3.00         3.33         2.67     
-12-15UT       4.67 (G1)    2.67         2.67     
-15-18UT       5.00 (G1)    2.67         2.00     
-18-21UT       4.33         3.67         2.33     
-21-00UT       4.33         4.00         2.33     
+             Jun 15       Jun 16       Jun 17
+00-03UT       2.00         2.67         2.00     
+03-06UT       1.67         3.67         2.67     
+06-09UT       1.33         3.67         3.00     
+09-12UT       1.67         2.67         2.67     
+12-15UT       1.00         1.67         2.00     
+15-18UT       1.00         1.67         2.33     
+18-21UT       0.67         1.67         1.67     
+21-00UT       1.33         2.00         2.67     
 
-Rationale: Geomagnetic field conditions are likely to reach G2
-(Moderate) geomagnetic storm levels on 13 Jun due to the persistence of
-the high-speed stream combined with the anticipated arrival of CMEs that
-left the Sun over 09 Jun and 11 Jun. Conditions are expected to decrease
-on 14 Jun, with isolated G1 (Minor) storming periods still likely, as
-CME influences wane.
+Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
+significant transient or recurrent solar wind features are forecast.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Jun 13-Jun 15 2026
+Solar Radiation Storm Forecast for Jun 15-Jun 17 2026
 
-              Jun 13  Jun 14  Jun 15
-S1 or greater    5%      5%      5%
+              Jun 15  Jun 16  Jun 17
+S1 or greater    1%      1%      1%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
 No significant active region activity favorable for radiation storm
@@ -95,13 +93,13 @@ C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Jun 13-Jun 15 2026
+Radio Blackout Forecast for Jun 15-Jun 17 2026
 
-              Jun 13        Jun 14        Jun 15
-R1-R2           35%           35%           35%
-R3 or greater    5%            5%            5%
+              Jun 15        Jun 16        Jun 17
+R1-R2           15%           15%           15%
+R3 or greater    1%            1%            1%
 
-Rationale: There is a chance for R1-R2 (Minor-Moderate) radio blackouts
-on 13-15 Jun, primarily due to the potential of Regions 4464 and 4465.
+Rationale: There is a slight chance for R1-R2 (Minor-Moderate) radio
+blackouts over 15-17 Jun.
 
 ```
