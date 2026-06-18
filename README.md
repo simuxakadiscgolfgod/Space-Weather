@@ -1,10 +1,17 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2026-06-16
-<br />**Title of the image:**  Moons, Rings, Shadows, Clouds: Saturn (Cassini)
-<br />**Description for the image:**  While cruising around Saturn, be on the lookout for picturesque arrangements of moons, rings, and shadows. One such striking sight occurred in 2005 and was captured by the then Saturn-orbiting Cassini spacecraft. In the featured image, moons Mimas (left) and Tethys (right) are visible on either side of Saturn's thin rings, which are seen nearly edge-on.  Across the top of Saturn are dark shadows of the wide rings, exhibiting their impressive complexity. The violet-light image brings up the texture of the backdrop: Saturn's clouds. Cassini orbited Saturn from 2004 until mid-2017, when the robotic spacecraft was directed to dive into Saturn to keep it from contaminating any moons.    Explore the Universe: Random APOD Generator
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2606/SaturnRingsMoons_Cassini_960.jpg
+<br />**Date image released:**  2026-06-18
+<br />**This image is owned by:**  X-ray: NASA/CXC/UCLA/Z. Zhu et al.; ESA/XMM-Newton; Optical: PanSTARRS; Radio: MeerKAT; Image Processing: NASA/CXC/SAO/L. Frattare and P. Edmonds
+ Text: 
+Cecilia Chirenti 
+(NASA
+GSFC, 
+UMCP, 
+CRESST II)
+<br />**Title of the image:**  Possible Supernova Remnant in Galactic Center
+<br />**Description for the image:**  Do you see that blue blob to the lower right of the image center?   Astronomers think that it shows where a massive star exploded as a supernova whose light reached Earth 1,700 years ago.   The image combines optical data from the PanSTARRS telescopes in Hawaii (background stars in red, green, and blue), radio from the MeerKAT telescope in South Africa (large red cloud) and X-rays from NASA's Chandra X-ray Observatory and ESA’s XMM-Newton (shown in blue).   The large cloud is a star forming region called Sagittarius C, which is approximately 50 light-years in extent and about 26,000 light-years from Earth.   It is located only about 260 light-years from the supermassive black hole in the center of the Galaxy (off to the left of the image).   If the blue blob is confirmed to be a supernova remnant, it would be one of the closest ever discovered to the Galactic Center.   In this dense region, the deaths of massive stars are connected to the birth of new stars through gas and magnetic fields in a complex way.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2606/sgrc_lg.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -48,55 +55,55 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2026 Jun 16 0030 UTC
+:Issued: 2026 Jun 18 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Jun 16-Jun 18 2026 is 4.00 (below NOAA
+The greatest expected 3 hr Kp for Jun 18-Jun 20 2026 is 4.00 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Jun 16-Jun 18 2026
+NOAA Kp index breakdown Jun 18-Jun 20 2026
 
-             Jun 16       Jun 17       Jun 18
-00-03UT       2.67         3.00         3.33     
-03-06UT       3.67         2.00         3.00     
-06-09UT       3.67         2.00         2.33     
-09-12UT       2.67         1.67         2.00     
-12-15UT       1.67         1.33         1.67     
-15-18UT       1.67         2.67         1.33     
-18-21UT       1.67         4.00         1.33     
-21-00UT       2.00         3.00         2.67     
+             Jun 18       Jun 19       Jun 20
+00-03UT       3.33         3.00         3.00     
+03-06UT       3.00         4.00         3.67     
+06-09UT       2.33         3.67         2.67     
+09-12UT       2.00         3.00         2.33     
+12-15UT       1.67         3.00         2.00     
+15-18UT       1.33         2.00         2.00     
+18-21UT       1.33         1.67         2.33     
+21-00UT       2.67         3.00         3.00     
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected
-through 18 Jun.
+through Jun 20.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Jun 16-Jun 18 2026
+Solar Radiation Storm Forecast for Jun 18-Jun 20 2026
 
-              Jun 16  Jun 17  Jun 18
+              Jun 18  Jun 19  Jun 20
 S1 or greater    1%      1%      1%
 
-Rationale: No S1 (Minor) or greater solar radiation storms are expected.
-through 18 Jun.
+Rationale: No S1 (Minor) or greater solar radiation storms are expected
+through Jun 20.
 
 C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Jun 16-Jun 18 2026
+Radio Blackout Forecast for Jun 18-Jun 20 2026
 
-              Jun 16        Jun 17        Jun 18
-R1-R2           20%           20%           20%
+              Jun 18        Jun 19        Jun 20
+R1-R2           10%           15%           15%
 R3 or greater    1%            1%            1%
 
-Rationale: There is a slight chance for R1-R2 (Minor-Moderate) radio
-blackouts through 18 Jun.
+Rationale: There is a slight chance of R1-R2 (Minor-Moderate) radio
+blackouts through Jun 20.
 
 ```
