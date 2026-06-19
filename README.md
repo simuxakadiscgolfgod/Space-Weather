@@ -1,17 +1,13 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2026-06-18
-<br />**This image is owned by:**  X-ray: NASA/CXC/UCLA/Z. Zhu et al.; ESA/XMM-Newton; Optical: PanSTARRS; Radio: MeerKAT; Image Processing: NASA/CXC/SAO/L. Frattare and P. Edmonds
- Text: 
-Cecilia Chirenti 
-(NASA
-GSFC, 
-UMCP, 
-CRESST II)
-<br />**Title of the image:**  Possible Supernova Remnant in Galactic Center
-<br />**Description for the image:**  Do you see that blue blob to the lower right of the image center?   Astronomers think that it shows where a massive star exploded as a supernova whose light reached Earth 1,700 years ago.   The image combines optical data from the PanSTARRS telescopes in Hawaii (background stars in red, green, and blue), radio from the MeerKAT telescope in South Africa (large red cloud) and X-rays from NASA's Chandra X-ray Observatory and ESA’s XMM-Newton (shown in blue).   The large cloud is a star forming region called Sagittarius C, which is approximately 50 light-years in extent and about 26,000 light-years from Earth.   It is located only about 260 light-years from the supermassive black hole in the center of the Galaxy (off to the left of the image).   If the blue blob is confirmed to be a supernova remnant, it would be one of the closest ever discovered to the Galactic Center.   In this dense region, the deaths of massive stars are connected to the birth of new stars through gas and magnetic fields in a complex way.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2606/sgrc_lg.jpg
+<br />**Date image released:**  2026-06-19
+<br />**This image is owned by:**  Rodrigo Guerra,   
+Original Painting: 
+Vincent van Gogh
+<br />**Title of the image:**  Starry Night II
+<br />**Description for the image:**  Does this scene look familiar? It is a modern recreation of the famous painting Starry Night by Vincent van Gogh.  Both the image and the painting depict a tall tree on the left, a crescent moon on the upper right, the planet Venus just to the right of the tree, a foreground horizon rising from left to right, and clouds above the horizon. Differences include that the photograph was taken in mid-April earlier this year in Cascavel, Brazil, while the painting was composed in Saint-Rémy-de-Provence, France, in 1889.  The original Starry Night is considered by many to be one of the three most famous paintings in the world today and a statement about the wonders of the night sky. Today is (roughly) the anniversary of the morning that van Gogh saw the sky that he later painted in his version of Starry Night.    Night Sky Jigsaw: Astronomy Puzzle of the Day
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2606/StarryNight2_Guerra_4080.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -55,55 +51,56 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2026 Jun 18 0030 UTC
+:Issued: 2026 Jun 19 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Jun 18-Jun 20 2026 is 4.00 (below NOAA
+The greatest expected 3 hr Kp for Jun 19-Jun 21 2026 is 4.00 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Jun 18-Jun 20 2026
+NOAA Kp index breakdown Jun 19-Jun 21 2026
 
-             Jun 18       Jun 19       Jun 20
-00-03UT       3.33         3.00         3.00     
-03-06UT       3.00         4.00         3.67     
-06-09UT       2.33         3.67         2.67     
-09-12UT       2.00         3.00         2.33     
-12-15UT       1.67         3.00         2.00     
-15-18UT       1.33         2.00         2.00     
-18-21UT       1.33         1.67         2.33     
-21-00UT       2.67         3.00         3.00     
+             Jun 19       Jun 20       Jun 21
+00-03UT       3.00         3.00         2.67     
+03-06UT       4.00         3.67         2.00     
+06-09UT       3.67         2.67         2.33     
+09-12UT       3.00         2.33         2.33     
+12-15UT       3.00         2.00         2.33     
+15-18UT       2.00         2.00         2.33     
+18-21UT       1.67         2.33         2.33     
+21-00UT       3.00         3.00         2.67     
 
-Rationale: No G1 (Minor) or greater geomagnetic storms are expected
-through Jun 20.
+Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
+significant transient or recurrent solar wind features are forecast.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Jun 18-Jun 20 2026
+Solar Radiation Storm Forecast for Jun 19-Jun 21 2026
 
-              Jun 18  Jun 19  Jun 20
+              Jun 19  Jun 20  Jun 21
 S1 or greater    1%      1%      1%
 
-Rationale: No S1 (Minor) or greater solar radiation storms are expected
-through Jun 20.
+Rationale: No S1 (Minor) or greater solar radiation storms are expected.
+No significant active region activity favorable for radiation storm
+production is forecast.
 
 C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Jun 18-Jun 20 2026
+Radio Blackout Forecast for Jun 19-Jun 21 2026
 
-              Jun 18        Jun 19        Jun 20
-R1-R2           10%           15%           15%
+              Jun 19        Jun 20        Jun 21
+R1-R2           15%           15%           15%
 R3 or greater    1%            1%            1%
 
-Rationale: There is a slight chance of R1-R2 (Minor-Moderate) radio
-blackouts through Jun 20.
+Rationale: There is a slight chance for R1 (Minor) radio blackouts on
+19-21 Jun.
 
 ```
