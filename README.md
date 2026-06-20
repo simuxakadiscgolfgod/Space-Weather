@@ -1,13 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2026-06-19
-<br />**This image is owned by:**  Rodrigo Guerra,   
-Original Painting: 
-Vincent van Gogh
-<br />**Title of the image:**  Starry Night II
-<br />**Description for the image:**  Does this scene look familiar? It is a modern recreation of the famous painting Starry Night by Vincent van Gogh.  Both the image and the painting depict a tall tree on the left, a crescent moon on the upper right, the planet Venus just to the right of the tree, a foreground horizon rising from left to right, and clouds above the horizon. Differences include that the photograph was taken in mid-April earlier this year in Cascavel, Brazil, while the painting was composed in Saint-Rémy-de-Provence, France, in 1889.  The original Starry Night is considered by many to be one of the three most famous paintings in the world today and a statement about the wonders of the night sky. Today is (roughly) the anniversary of the morning that van Gogh saw the sky that he later painted in his version of Starry Night.    Night Sky Jigsaw: Astronomy Puzzle of the Day
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2606/StarryNight2_Guerra_4080.jpg
+<br />**Date image released:**  2026-06-20
+<br />**This image is owned by:**  Debra Ceravolo
+<br />**Title of the image:**  Daytime Moon Meets Evening Star
+<br />**Description for the image:**  Venus is now appearing on the celestial stage as Earth's brilliant evening star, performing with the Moon, other wandering planets, and bright stars in western skies. For evening sky gazers on June 17, the celestial beacon rose after sunset close by a young, slender, crescent Moon. But from some locations the Moon could be seen to occult or pass in front of Venus. And from a backyard observatory in southern British Columbia, Canada, the lunar occultation was played out in daylight. This stunning telescopic snapshot captured a scene in dramatically cloudy skies, following Venus' hour long disappearance, as the evening star emerged beyond the bright lunar limb.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2606/Venus_Moon_2026_06_17.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -51,27 +49,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2026 Jun 19 0030 UTC
+:Issued: 2026 Jun 20 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Jun 19-Jun 21 2026 is 4.00 (below NOAA
+The greatest expected 3 hr Kp for Jun 20-Jun 22 2026 is 3.67 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Jun 19-Jun 21 2026
+NOAA Kp index breakdown Jun 20-Jun 22 2026
 
-             Jun 19       Jun 20       Jun 21
-00-03UT       3.00         3.00         2.67     
-03-06UT       4.00         3.67         2.00     
-06-09UT       3.67         2.67         2.33     
-09-12UT       3.00         2.33         2.33     
-12-15UT       3.00         2.00         2.33     
-15-18UT       2.00         2.00         2.33     
-18-21UT       1.67         2.33         2.33     
-21-00UT       3.00         3.00         2.67     
+             Jun 20       Jun 21       Jun 22
+00-03UT       2.67         2.67         1.67     
+03-06UT       3.67         3.00         2.00     
+06-09UT       2.67         3.00         1.67     
+09-12UT       2.67         2.67         1.67     
+12-15UT       1.67         1.67         1.00     
+15-18UT       1.67         1.67         1.33     
+18-21UT       2.67         1.67         0.67     
+21-00UT       3.00         2.00         1.67     
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
 significant transient or recurrent solar wind features are forecast.
@@ -81,9 +79,9 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Jun 19-Jun 21 2026
+Solar Radiation Storm Forecast for Jun 20-Jun 22 2026
 
-              Jun 19  Jun 20  Jun 21
+              Jun 20  Jun 21  Jun 22
 S1 or greater    1%      1%      1%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -94,13 +92,13 @@ C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Jun 19-Jun 21 2026
+Radio Blackout Forecast for Jun 20-Jun 22 2026
 
-              Jun 19        Jun 20        Jun 21
+              Jun 20        Jun 21        Jun 22
 R1-R2           15%           15%           15%
 R3 or greater    1%            1%            1%
 
 Rationale: There is a slight chance for R1 (Minor) radio blackouts on
-19-21 Jun.
+20-22 Jun.
 
 ```
