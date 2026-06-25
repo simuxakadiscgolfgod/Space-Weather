@@ -1,10 +1,17 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2019-04-30
-<br />**Title of the image:**  Meteor Misses Galaxy
-<br />**Description for the image:**  The galaxy was never in danger. For one thing, the Triangulum galaxy (M33), pictured, is much bigger than the tiny grain of rock at the head of the meteor. For another, the galaxy is much farther away -- in this instance 3 million light years as opposed to only about 0.0003 light seconds.  Even so, the meteor's path took it angularly below the galaxy. Also the wind high in Earth's atmosphere blew the meteor's glowing evaporative molecule train away from the galaxy, in angular projection.  Still, the astrophotographer was quite lucky to capture both a meteor and a galaxy in a single exposure -- which was subsequently added to two other images of M33 to bring up the spiral galaxy's colors.  At the end, the meteor was gone in a second, but the galaxy will last billions of years.    Follow APOD on: Instagram, Facebook,  Reddit, or Twitter
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/1904/M33Meteor_Chokshi_2000.jpg
+<br />**Date image released:**  2026-06-25
+<br />**This image is owned by:**  Marcella Giulia Pace
+ Text: 
+Cecilia Chirenti 
+(NASA
+GSFC, 
+UMCP, 
+CRESST II)
+<br />**Title of the image:**  Anticrepuscular Rays over Sicily
+<br />**Description for the image:**  The Sun has just set... in the opposite side of the sky.   Pictured here are anticrepuscular rays apparently converging in the east in this image of the limestone plateau in the heart of the Hyblaean Mountains of southeastern Sicily, in Italy.   How were these anticrepuscular rays formed, if the Sun wasn't there?   After the Sun set (in the west, as usual) its light still illuminated a cloud higher up in the sky.   Partially blocked by the cloud, the sunlight produced patterns of light and shadow, crossing the sky in parallel lines.   Perspective makes it look like they converge in the east, in the same way that train tracks appear to meet in the distance.   This effect can also happen at sunrise, only the directions are exchanged.   In rare cases, both crepuscular and anticrepuscular rays can be seen at the same time.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2606/crepuscular2.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -48,40 +55,40 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2026 Jun 23 0030 UTC
+:Issued: 2026 Jun 25 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Jun 23-Jun 25 2026 is 4.00 (below NOAA
+The greatest expected 3 hr Kp for Jun 25-Jun 27 2026 is 4.00 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Jun 23-Jun 25 2026
+NOAA Kp index breakdown Jun 25-Jun 27 2026
 
-             Jun 23       Jun 24       Jun 25
-00-03UT       1.67         1.67         3.67     
-03-06UT       2.00         2.33         4.00     
-06-09UT       1.67         1.67         2.67     
-09-12UT       1.33         1.67         2.67     
-12-15UT       1.33         2.67         1.67     
-15-18UT       0.67         2.67         1.67     
-18-21UT       1.00         3.67         2.67     
-21-00UT       1.67         3.67         3.67     
+             Jun 25       Jun 26       Jun 27
+00-03UT       3.67         3.33         3.00     
+03-06UT       4.00         3.67         3.67     
+06-09UT       2.67         2.00         2.00     
+09-12UT       2.67         1.67         2.67     
+12-15UT       1.67         3.00         2.00     
+15-18UT       1.67         3.67         2.00     
+18-21UT       2.67         3.33         2.67     
+21-00UT       3.67         3.00         3.00     
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected. 
-Active conditions are likely 24-25 Jun due to the anticipated arrival of
-a slow-moving CME that departed the Sun on 20 Jun.
+Periods of active conditions are likely 25-27 Jun in response to -CH HSS
+influences.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Jun 23-Jun 25 2026
+Solar Radiation Storm Forecast for Jun 25-Jun 27 2026
 
-              Jun 23  Jun 24  Jun 25
+              Jun 25  Jun 26  Jun 27
 S1 or greater    5%      5%      5%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -92,13 +99,13 @@ C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Jun 23-Jun 25 2026
+Radio Blackout Forecast for Jun 25-Jun 27 2026
 
-              Jun 23        Jun 24        Jun 25
-R1-R2           30%           35%           35%
-R3 or greater    5%            5%            5%
+              Jun 25        Jun 26        Jun 27
+R1-R2           50%           50%           50%
+R3 or greater   10%           10%           10%
 
-Rationale: There is a chance for R1-R2 (Minor-Moderate) radio blackouts
-over 22-24 Jun due primarily to the flare potential of Region 4473.
+Rationale: There is a high chance for R1-R2 (Minor-Moderate) radio
+blackouts 54-27 Jun due primarily to the flare potential of Region 4478.
 
 ```

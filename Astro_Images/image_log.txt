@@ -1,4 +1,11 @@
-<br />**Date image released:**  2019-04-30
-<br />**Title of the image:**  Meteor Misses Galaxy
-<br />**Description for the image:**  The galaxy was never in danger. For one thing, the Triangulum galaxy (M33), pictured, is much bigger than the tiny grain of rock at the head of the meteor. For another, the galaxy is much farther away -- in this instance 3 million light years as opposed to only about 0.0003 light seconds.  Even so, the meteor's path took it angularly below the galaxy. Also the wind high in Earth's atmosphere blew the meteor's glowing evaporative molecule train away from the galaxy, in angular projection.  Still, the astrophotographer was quite lucky to capture both a meteor and a galaxy in a single exposure -- which was subsequently added to two other images of M33 to bring up the spiral galaxy's colors.  At the end, the meteor was gone in a second, but the galaxy will last billions of years.    Follow APOD on: Instagram, Facebook,  Reddit, or Twitter
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/1904/M33Meteor_Chokshi_2000.jpg
+<br />**Date image released:**  2026-06-25
+<br />**This image is owned by:**  Marcella Giulia Pace
+ Text: 
+Cecilia Chirenti 
+(NASA
+GSFC, 
+UMCP, 
+CRESST II)
+<br />**Title of the image:**  Anticrepuscular Rays over Sicily
+<br />**Description for the image:**  The Sun has just set... in the opposite side of the sky.   Pictured here are anticrepuscular rays apparently converging in the east in this image of the limestone plateau in the heart of the Hyblaean Mountains of southeastern Sicily, in Italy.   How were these anticrepuscular rays formed, if the Sun wasn't there?   After the Sun set (in the west, as usual) its light still illuminated a cloud higher up in the sky.   Partially blocked by the cloud, the sunlight produced patterns of light and shadow, crossing the sky in parallel lines.   Perspective makes it look like they converge in the east, in the same way that train tracks appear to meet in the distance.   This effect can also happen at sunrise, only the directions are exchanged.   In rare cases, both crepuscular and anticrepuscular rays can be seen at the same time.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2606/crepuscular2.jpg
