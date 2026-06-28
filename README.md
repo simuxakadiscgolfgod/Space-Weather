@@ -1,17 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2026-06-25
-<br />**This image is owned by:**  Marcella Giulia Pace
- Text: 
-Cecilia Chirenti 
-(NASA
-GSFC, 
-UMCP, 
-CRESST II)
-<br />**Title of the image:**  Anticrepuscular Rays over Sicily
-<br />**Description for the image:**  The Sun has just set... in the opposite side of the sky.   Pictured here are anticrepuscular rays apparently converging in the east in this image of the limestone plateau in the heart of the Hyblaean Mountains of southeastern Sicily, in Italy.   How were these anticrepuscular rays formed, if the Sun wasn't there?   After the Sun set (in the west, as usual) its light still illuminated a cloud higher up in the sky.   Partially blocked by the cloud, the sunlight produced patterns of light and shadow, crossing the sky in parallel lines.   Perspective makes it look like they converge in the east, in the same way that train tracks appear to meet in the distance.   This effect can also happen at sunrise, only the directions are exchanged.   In rare cases, both crepuscular and anticrepuscular rays can be seen at the same time.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2606/crepuscular2.jpg
+<br />**Date image released:**  2026-06-28
+<br />**This image is owned by:**  Alfredo Vidal Pérez
+<br />**Title of the image:**  AR 4478: Giant Sunspot Group
+<br />**Description for the image:**  Right now, one of the largest sunspot groups in recent history is crossing the Sun.  Active Region 4478 is not only big -- it's violent, showing tangled magnetic fields capable of throwing off huge clouds of particles into the Solar System.  Some of these CMEs might impact the Earth.  At the extreme, these solar storms could cause some Earth-orbiting satellites to malfunction, the Earth's atmosphere to slightly distort, and electrical power grids to surge.  When impacting Earth's upper atmosphere, these particles can produce beautiful auroras. Pictured here, AR 4478 and its dark sunspots were captured in visible light a few days ago from Barcelona, Spain.  Almost as large as AR 3664 was in 2024, the AR 4478 sunspot group is so big that it is visible just with glasses specially designed to view solar eclipses.  This week, skygazing enthusiasts all over the globe will not only be tracking AR 4478 during the day -- but keenly watching night skies for its corresponding bright auroras.   Sky Surprise: What picture did APOD feature on your birthday? (after 1995)
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2606/AR4478_vidal_960.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -55,40 +49,39 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2026 Jun 25 0030 UTC
+:Issued: 2026 Jun 28 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Jun 25-Jun 27 2026 is 4.00 (below NOAA
+The greatest expected 3 hr Kp for Jun 28-Jun 30 2026 is 4.33 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Jun 25-Jun 27 2026
+NOAA Kp index breakdown Jun 28-Jun 30 2026
 
-             Jun 25       Jun 26       Jun 27
-00-03UT       3.67         3.33         3.00     
-03-06UT       4.00         3.67         3.67     
-06-09UT       2.67         2.00         2.00     
-09-12UT       2.67         1.67         2.67     
-12-15UT       1.67         3.00         2.00     
-15-18UT       1.67         3.67         2.00     
-18-21UT       2.67         3.33         2.67     
-21-00UT       3.67         3.00         3.00     
+             Jun 28       Jun 29       Jun 30
+00-03UT       3.00         1.67         1.67     
+03-06UT       3.67         1.33         3.00     
+06-09UT       3.67         1.33         4.00     
+09-12UT       3.00         1.33         4.33     
+12-15UT       2.00         1.33         4.33     
+15-18UT       1.67         1.33         3.67     
+18-21UT       2.67         1.67         3.33     
+21-00UT       2.67         1.67         1.67     
 
-Rationale: No G1 (Minor) or greater geomagnetic storms are expected. 
-Periods of active conditions are likely 25-27 Jun in response to -CH HSS
-influences.
+Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
+significant transient or recurrent solar wind features are forecast.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Jun 25-Jun 27 2026
+Solar Radiation Storm Forecast for Jun 28-Jun 30 2026
 
-              Jun 25  Jun 26  Jun 27
+              Jun 28  Jun 29  Jun 30
 S1 or greater    5%      5%      5%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -99,13 +92,14 @@ C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Jun 25-Jun 27 2026
+Radio Blackout Forecast for Jun 28-Jun 30 2026
 
-              Jun 25        Jun 26        Jun 27
+              Jun 28        Jun 29        Jun 30
 R1-R2           50%           50%           50%
 R3 or greater   10%           10%           10%
 
-Rationale: There is a high chance for R1-R2 (Minor-Moderate) radio
-blackouts 54-27 Jun due primarily to the flare potential of Region 4478.
+Rationale: A high chance for R1-2 (Minor-Moderate) radio blackouts due
+to M-class flare activity will presist through 30 Jun primarily due to
+the flare potential presently observed in Regions 4475 and 4478.
 
 ```

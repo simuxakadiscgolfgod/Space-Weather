@@ -1,11 +1,5 @@
-<br />**Date image released:**  2026-06-25
-<br />**This image is owned by:**  Marcella Giulia Pace
- Text: 
-Cecilia Chirenti 
-(NASA
-GSFC, 
-UMCP, 
-CRESST II)
-<br />**Title of the image:**  Anticrepuscular Rays over Sicily
-<br />**Description for the image:**  The Sun has just set... in the opposite side of the sky.   Pictured here are anticrepuscular rays apparently converging in the east in this image of the limestone plateau in the heart of the Hyblaean Mountains of southeastern Sicily, in Italy.   How were these anticrepuscular rays formed, if the Sun wasn't there?   After the Sun set (in the west, as usual) its light still illuminated a cloud higher up in the sky.   Partially blocked by the cloud, the sunlight produced patterns of light and shadow, crossing the sky in parallel lines.   Perspective makes it look like they converge in the east, in the same way that train tracks appear to meet in the distance.   This effect can also happen at sunrise, only the directions are exchanged.   In rare cases, both crepuscular and anticrepuscular rays can be seen at the same time.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2606/crepuscular2.jpg
+<br />**Date image released:**  2026-06-28
+<br />**This image is owned by:**  Alfredo Vidal Pérez
+<br />**Title of the image:**  AR 4478: Giant Sunspot Group
+<br />**Description for the image:**  Right now, one of the largest sunspot groups in recent history is crossing the Sun.  Active Region 4478 is not only big -- it's violent, showing tangled magnetic fields capable of throwing off huge clouds of particles into the Solar System.  Some of these CMEs might impact the Earth.  At the extreme, these solar storms could cause some Earth-orbiting satellites to malfunction, the Earth's atmosphere to slightly distort, and electrical power grids to surge.  When impacting Earth's upper atmosphere, these particles can produce beautiful auroras. Pictured here, AR 4478 and its dark sunspots were captured in visible light a few days ago from Barcelona, Spain.  Almost as large as AR 3664 was in 2024, the AR 4478 sunspot group is so big that it is visible just with glasses specially designed to view solar eclipses.  This week, skygazing enthusiasts all over the globe will not only be tracking AR 4478 during the day -- but keenly watching night skies for its corresponding bright auroras.   Sky Surprise: What picture did APOD feature on your birthday? (after 1995)
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2606/AR4478_vidal_960.jpg
