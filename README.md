@@ -1,11 +1,10 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2026-06-28
-<br />**This image is owned by:**  Alfredo Vidal Pérez
-<br />**Title of the image:**  AR 4478: Giant Sunspot Group
-<br />**Description for the image:**  Right now, one of the largest sunspot groups in recent history is crossing the Sun.  Active Region 4478 is not only big -- it's violent, showing tangled magnetic fields capable of throwing off huge clouds of particles into the Solar System.  Some of these CMEs might impact the Earth.  At the extreme, these solar storms could cause some Earth-orbiting satellites to malfunction, the Earth's atmosphere to slightly distort, and electrical power grids to surge.  When impacting Earth's upper atmosphere, these particles can produce beautiful auroras. Pictured here, AR 4478 and its dark sunspots were captured in visible light a few days ago from Barcelona, Spain.  Almost as large as AR 3664 was in 2024, the AR 4478 sunspot group is so big that it is visible just with glasses specially designed to view solar eclipses.  This week, skygazing enthusiasts all over the globe will not only be tracking AR 4478 during the day -- but keenly watching night skies for its corresponding bright auroras.   Sky Surprise: What picture did APOD feature on your birthday? (after 1995)
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2606/AR4478_vidal_960.jpg
+<br />**Date image released:**  2026-06-29
+<br />**Title of the image:**  M82: Galaxy with a Supergalactic Wind
+<br />**Description for the image:**  Why is the Cigar Galaxy billowing red smoke?  M82, as this starburst galaxy is also known, was stirred up by a recent pass near large spiral galaxy M81.  This doesn't fully explain the source of the red-glowing outwardly expanding gas and dust, however.  Evidence indicates that this gas and dust is being driven out by the combined emerging particle winds of many stars, together creating a galactic superwind.  The dust particles are thought to originate in M82's interstellar medium and are actually similar in size to particles in cigar smoke.  The featured photographic mosaic combines images taken in visible light from the Hubble Space Telescope and images taken in infrared light from James Webb Space Telescope.  It shows the light-colored central galaxy nearly edge on across the image center with tremendous orange and red colored filaments of gas and dust extending both up and down.  The filaments extend for over 10,000 light years. The 12-million light-year distant Cigar Galaxy is the brightest galaxy in the sky in infrared light and can be seen in visible light with a small telescope towards the constellation of the Great Bear (Ursa Major).
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2606/M82_HubbleWebb_5000.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,39 +48,39 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2026 Jun 28 0030 UTC
+:Issued: 2026 Jun 29 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Jun 28-Jun 30 2026 is 4.33 (below NOAA
-Scale levels).
+The greatest expected 3 hr Kp for Jun 29-Jul 01 2026 is 5.00 (NOAA Scale
+G1).
 
-NOAA Kp index breakdown Jun 28-Jun 30 2026
+NOAA Kp index breakdown Jun 29-Jul 01 2026
 
-             Jun 28       Jun 29       Jun 30
-00-03UT       3.00         1.67         1.67     
-03-06UT       3.67         1.33         3.00     
-06-09UT       3.67         1.33         4.00     
-09-12UT       3.00         1.33         4.33     
-12-15UT       2.00         1.33         4.33     
-15-18UT       1.67         1.33         3.67     
-18-21UT       2.67         1.67         3.33     
-21-00UT       2.67         1.67         1.67     
+             Jun 29       Jun 30       Jul 01
+00-03UT       1.67         4.67 (G1)    2.67     
+03-06UT       1.33         5.00 (G1)    2.67     
+06-09UT       1.33         4.00         2.33     
+09-12UT       1.33         4.00         2.33     
+12-15UT       1.33         3.67         2.33     
+15-18UT       1.33         3.33         2.33     
+18-21UT       1.67         3.00         2.00     
+21-00UT       4.67 (G1)    1.67         4.33     
 
-Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
-significant transient or recurrent solar wind features are forecast.
+Rationale: Isolated G1 (Minor) conditions are likely on 29-30 Jun due to
+the potential arrival of the 26 Jun CME.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Jun 28-Jun 30 2026
+Solar Radiation Storm Forecast for Jun 29-Jul 01 2026
 
-              Jun 28  Jun 29  Jun 30
+              Jun 29  Jun 30  Jul 01
 S1 or greater    5%      5%      5%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -92,14 +91,14 @@ C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Jun 28-Jun 30 2026
+Radio Blackout Forecast for Jun 29-Jul 01 2026
 
-              Jun 28        Jun 29        Jun 30
+              Jun 29        Jun 30        Jul 01
 R1-R2           50%           50%           50%
 R3 or greater   10%           10%           10%
 
-Rationale: A high chance for R1-2 (Minor-Moderate) radio blackouts due
-to M-class flare activity will presist through 30 Jun primarily due to
-the flare potential presently observed in Regions 4475 and 4478.
+Rationale: There is a chance for R1-R2 (Minor-Moderate) radio blackouts
+and a slight chance for R3 (Strong or greater) events, primarily due to
+the potential of Regions 4475, 4478, and 4479.
 
 ```
