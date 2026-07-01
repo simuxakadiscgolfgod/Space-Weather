@@ -1,10 +1,18 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2026-06-30
-<br />**Title of the image:**  Unusually Smooth Sections of Asteroid Itokawa
-<br />**Description for the image:**  Why are parts of this asteroid's surface so smooth?  The answer seems likely to do with the dynamics of an asteroid that is a loose pile of rubble rather than a solid rock.  The unusual asteroid Itokawa was visited by the Japanese spacecraft Hayabusa in 2005 which imaged and documented its unusual structure and mysterious lack of craters.  Analyses of the border regions between smooth and rugged sections indicate that jostling of the asteroid might be creating segregation between large and small rocks near the surface, like the Brazil nut effect.  The robotic Hayabusa actually touched down on one of the smooth patches, dubbed the MUSES Sea, and collected soil samples. These samples were returned to Earth and are not only giving clues to the ancient history of this unusual asteroid, but also about the early years of our entire Solar System. Computer simulations show that 500-meter asteroid Itokawa may impact the Earth within the next few million years.   Rocking Space: Today is Asteroid Day
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2606/itokawa07_hayabusa_1080.jpg
+<br />**Date image released:**  2026-07-01
+<br />**This image is owned by:**  Ángel Molina
+
+Text:
+Keighley Rockcliffe  
+(NASA
+GSFC, 
+UMBC CSST, 
+CRESST II)
+<br />**Title of the image:**  The Cotton Candy Clouds of Rho Ophiuchi
+<br />**Description for the image:**  Although they look like cotton candy, you cannot eat these clouds! Taken in Cádiz, Spain, today's image features the Rho Ophiuchi complex, a rich tapestry of young and old astronomical phenomena. This colorful cloud complex is a nearby star-forming region containing hundreds of young stellar objects, including protostars and T Tauri stars. Light from the triple star system at its center reflects off of small dust grains to create the blue reflection nebula. Ultraviolet light from hot stars ionizes the surrounding hydrogen gas, creating the red emission nebula. Antares, a red supergiant big enough to engulf the Solar System’s asteroid belt, lights up the yellow region. Dark interstellar dust blocks some of the complex’s color. Recent JWST observations exhibit shadows cast by hidden circumstellar disks, the beginning stages of planet formation. Messier 4, a globular cluster almost as old as the universe, sits in the bottom right and witnesses yet another chaotic burst of youth in the Milky Way.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2607/rho_ophiuchi_1024.png
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -48,56 +56,59 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2026 Jun 30 0030 UTC
+:Issued: 2026 Jul 01 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 1 (below NOAA
-Scale levels).
-The greatest expected 3 hr Kp for Jun 30-Jul 02 2026 is 5.00 (NOAA Scale
+The greatest observed 3 hr Kp over the past 24 hours was 5 (NOAA Scale
+G1).
+The greatest expected 3 hr Kp for Jul 01-Jul 03 2026 is 5.00 (NOAA Scale
 G1).
 
-NOAA Kp index breakdown Jun 30-Jul 02 2026
+NOAA Kp index breakdown Jul 01-Jul 03 2026
 
-             Jun 30       Jul 01       Jul 02
-00-03UT       3.00         2.00         3.33     
-03-06UT       5.00 (G1)    1.67         4.00     
-06-09UT       4.67 (G1)    1.67         3.00     
-09-12UT       4.00         1.67         2.67     
-12-15UT       3.67         2.00         2.00     
-15-18UT       3.33         2.33         2.00     
-18-21UT       3.00         3.67         2.00     
-21-00UT       2.67         4.33         1.67     
+             Jul 01       Jul 02       Jul 03
+00-03UT       4.00         3.33         1.67     
+03-06UT       5.00 (G1)    4.00         1.67     
+06-09UT       3.67         3.00         1.67     
+09-12UT       3.00         2.67         1.33     
+12-15UT       2.33         2.00         1.33     
+15-18UT       2.00         2.00         1.33     
+18-21UT       3.00         2.00         1.33     
+21-00UT       4.33         1.67         1.33     
 
-Rationale: G1 (Minor) storm conditions are likely 30 Jun with the
-anticipated arrival of the 26 Jun CME.
+Rationale: G1 (Minor) storm conditions are early 01 Jul in response to
+ongoing influences from the arrival of a CME that left the Sun on 26
+Jun. Analysis is ongoing to evaluate potential Earth impacts from the 30
+June X1.1 CME, with preliminary tracking suggesting an arrival over
+03-04 Jul.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Jun 30-Jul 02 2026
+Solar Radiation Storm Forecast for Jul 01-Jul 03 2026
 
-              Jun 30  Jul 01  Jul 02
-S1 or greater    5%      5%     10%
+              Jul 01  Jul 02  Jul 03
+S1 or greater   20%     20%     20%
 
 Rationale: The probability for S1 (Minor) or greater solar radiation
-storms increases beginning 02 Jul as Regions 4478  and 4479 continue to
+storms increases beginning 03 Jul as Regions 4478 and 4479 continue to
 develop and move westward into a more favorable position to connect with
 Earth.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-Radio blackouts reaching the R1 levels were observed over the past 24
-hours. The largest was at Jun 29 2026 2140 UTC.
+Radio blackouts reaching the R3 levels were observed over the past 24
+hours. The largest was at Jun 30 2026 2050 UTC.
 
-Radio Blackout Forecast for Jun 30-Jul 02 2026
+Radio Blackout Forecast for Jul 01-Jul 03 2026
 
-              Jun 30        Jul 01        Jul 02
-R1-R2           60%           60%           60%
-R3 or greater   10%           10%           10%
+              Jul 01        Jul 02        Jul 03
+R1-R2           70%           70%           70%
+R3 or greater   20%           20%           20%
 
 Rationale: Isolated R1-R2 (Minor-Moderate) radio blackouts are likely
 with a slight chance for R3 (Strong) or greater events primarily due to

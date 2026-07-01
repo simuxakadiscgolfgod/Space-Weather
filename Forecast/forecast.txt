@@ -1,55 +1,58 @@
 ```
 :Product: 3-Day Forecast
-:Issued: 2026 Jun 30 0030 UTC
+:Issued: 2026 Jul 01 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 1 (below NOAA
-Scale levels).
-The greatest expected 3 hr Kp for Jun 30-Jul 02 2026 is 5.00 (NOAA Scale
+The greatest observed 3 hr Kp over the past 24 hours was 5 (NOAA Scale
+G1).
+The greatest expected 3 hr Kp for Jul 01-Jul 03 2026 is 5.00 (NOAA Scale
 G1).
 
-NOAA Kp index breakdown Jun 30-Jul 02 2026
+NOAA Kp index breakdown Jul 01-Jul 03 2026
 
-             Jun 30       Jul 01       Jul 02
-00-03UT       3.00         2.00         3.33     
-03-06UT       5.00 (G1)    1.67         4.00     
-06-09UT       4.67 (G1)    1.67         3.00     
-09-12UT       4.00         1.67         2.67     
-12-15UT       3.67         2.00         2.00     
-15-18UT       3.33         2.33         2.00     
-18-21UT       3.00         3.67         2.00     
-21-00UT       2.67         4.33         1.67     
+             Jul 01       Jul 02       Jul 03
+00-03UT       4.00         3.33         1.67     
+03-06UT       5.00 (G1)    4.00         1.67     
+06-09UT       3.67         3.00         1.67     
+09-12UT       3.00         2.67         1.33     
+12-15UT       2.33         2.00         1.33     
+15-18UT       2.00         2.00         1.33     
+18-21UT       3.00         2.00         1.33     
+21-00UT       4.33         1.67         1.33     
 
-Rationale: G1 (Minor) storm conditions are likely 30 Jun with the
-anticipated arrival of the 26 Jun CME.
+Rationale: G1 (Minor) storm conditions are early 01 Jul in response to
+ongoing influences from the arrival of a CME that left the Sun on 26
+Jun. Analysis is ongoing to evaluate potential Earth impacts from the 30
+June X1.1 CME, with preliminary tracking suggesting an arrival over
+03-04 Jul.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Jun 30-Jul 02 2026
+Solar Radiation Storm Forecast for Jul 01-Jul 03 2026
 
-              Jun 30  Jul 01  Jul 02
-S1 or greater    5%      5%     10%
+              Jul 01  Jul 02  Jul 03
+S1 or greater   20%     20%     20%
 
 Rationale: The probability for S1 (Minor) or greater solar radiation
-storms increases beginning 02 Jul as Regions 4478  and 4479 continue to
+storms increases beginning 03 Jul as Regions 4478 and 4479 continue to
 develop and move westward into a more favorable position to connect with
 Earth.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-Radio blackouts reaching the R1 levels were observed over the past 24
-hours. The largest was at Jun 29 2026 2140 UTC.
+Radio blackouts reaching the R3 levels were observed over the past 24
+hours. The largest was at Jun 30 2026 2050 UTC.
 
-Radio Blackout Forecast for Jun 30-Jul 02 2026
+Radio Blackout Forecast for Jul 01-Jul 03 2026
 
-              Jun 30        Jul 01        Jul 02
-R1-R2           60%           60%           60%
-R3 or greater   10%           10%           10%
+              Jul 01        Jul 02        Jul 03
+R1-R2           70%           70%           70%
+R3 or greater   20%           20%           20%
 
 Rationale: Isolated R1-R2 (Minor-Moderate) radio blackouts are likely
 with a slight chance for R3 (Strong) or greater events primarily due to
