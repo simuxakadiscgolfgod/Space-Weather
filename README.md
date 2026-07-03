@@ -1,10 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2026-07-02
-<br />**Title of the image:**  Sibling Supernova Remnants
-<br />**Description for the image:**  What happens when one of the stars in a binary goes supernova?   This image combines visible (yellow), ultraviolet (purple) and infrared light (cyan, red and orange) to show two supernova remnants and their surrounding environment, about 6,000 light-years away.   The younger one is the well-known Jellyfish Nebula in the center (mostly in yellow).   If we could see it by eye, it would appear larger than the full moon in the sky.   The filament shown in purple is part of an older, overlapping supernova remnant, G189.6+3.3.   A new study used data from NASA's Fermi Gamma-ray Space Telescope to piece together their story.   Astronomers believe that there were two stars in a binary system, then the first one exploded as a supernova, kicking away its companion, which also exploded as a supernova tens of thousands of years later, creating the superimposed supernova remnants we see today.   The bright star on the right is actually a triple star system named Propus.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2607/sibling_supernovae.jpg
+<br />**Date image released:**  2026-07-03
+<br />**This image is owned by:**  Mike Selby
+<br />**Title of the image:**  Three Galaxies in Pavo
+<br />**Description for the image:**  Some 190 million light-years away, far beyond the bright stars and nebulae of the Milky Way, these three galaxies are drawn together by gravity in a mesmerizing cosmic dance. Clearly distorted by galactic-scale gravitational interactions, large spiral galaxies NGC6769 and NGC6770 are seen face-on, with luminous galactic disks scarred by obscuring interstellar dust lanes. Their young blue star clusters along drawn out spiral arms are spawned in star forming regions that result from collisions of massive molecular clouds. Below, spiral NGC6771 presents a more edge-on perspective, its boxy central bulge due to tidal star streams. Of course, in the distant future a merger of the three galaxies is inevitable. At the estimated distance of this galaxy trio, known to some as the Devil's Mask, the sharp telescopic frame spans over 300 thousand light-years within the boundaries of the far southern constellation Pavo.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2607/NGC6769LRGBcropAZ-1500-20-May-2026.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -48,60 +49,59 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2026 Jul 02 0030 UTC
+:Issued: 2026 Jul 03 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 5 (NOAA Scale
-G1).
-The greatest expected 3 hr Kp for Jul 02-Jul 04 2026 is 6.00 (NOAA Scale
+The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
+Scale levels).
+The greatest expected 3 hr Kp for Jul 03-Jul 05 2026 is 5.67 (NOAA Scale
 G2).
 
-NOAA Kp index breakdown Jul 02-Jul 04 2026
+NOAA Kp index breakdown Jul 03-Jul 05 2026
 
-             Jul 02       Jul 03       Jul 04
-00-03UT       2.00         6.00 (G2)    4.67 (G1)
-03-06UT       2.33         4.67 (G1)    4.33     
-06-09UT       2.00         4.67 (G1)    4.33     
-09-12UT       2.33         4.00         3.33     
-12-15UT       3.33         4.00         3.00     
-15-18UT       3.67         4.33         2.00     
-18-21UT       3.00         4.67 (G1)    4.00     
-21-00UT       4.33         4.67 (G1)    4.33     
+             Jul 03       Jul 04       Jul 05
+00-03UT       2.33         5.67 (G2)    2.67     
+03-06UT       2.33         4.67 (G1)    2.33     
+06-09UT       4.67 (G1)    4.33         2.33     
+09-12UT       5.67 (G2)    4.33         2.33     
+12-15UT       5.67 (G2)    3.67         2.33     
+15-18UT       4.67 (G1)    3.67         2.33     
+18-21UT       4.67 (G1)    3.33         4.67 (G1)
+21-00UT       5.00 (G1)    2.33         5.00 (G1)
 
-Rationale: Unsettled to active conditions are possible on 02 Jul with
-the arrival of a CME that left the Sun on 27 Jun, but confidence is
-lower for this event. G1-G2 conditions are likely by 03 Jul due to the
-anticipated arrival of the 30 Jun CME associated with the X1.1 flare.
+Rationale: G1-G2 (Minor-Moderate) geomagnetic storming conditions are
+anticipated 03-04 Jul due to a CME that left the Sun  on 30 Jun. G1
+conditions are also anticipated late on 05 Jul due to a CME that left
+the Sun on 01 Jul.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Jul 02-Jul 04 2026
+Solar Radiation Storm Forecast for Jul 03-Jul 05 2026
 
-              Jul 02  Jul 03  Jul 04
+              Jul 03  Jul 04  Jul 05
 S1 or greater   20%     20%     20%
 
 Rationale: There is a slight chance for S1 (Minor) or greater solar
-radiation as Regions 4478 and 4479 continue to develop and move westward
-into a more favorable position to connect with Earth.
+radiation storms through 05 Jul due to the anticipated arrivals of
+several CMEs.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-Radio blackouts reaching the R2 levels were observed over the past 24
-hours. The largest was at Jul 01 2026 2309 UTC.
+Radio blackouts reaching the R1 levels were observed over the past 24
+hours. The largest was at Jul 02 2026 0156 UTC.
 
-Radio Blackout Forecast for Jul 02-Jul 04 2026
+Radio Blackout Forecast for Jul 03-Jul 05 2026
 
-              Jul 02        Jul 03        Jul 04
+              Jul 03        Jul 04        Jul 05
 R1-R2           70%           70%           70%
 R3 or greater   20%           20%           20%
 
-Rationale: Isolated R1-R2 (Minor-Moderate) radio blackouts are likely
-with a slight chance for R3 (Strong) or greater events primarily due to
-the potential of Regions 4478 and 4479.
+Rationale: R1-R2 (Minor-Moderate) radio blackouts are likely, with a
+slight chance for R3 (Strong) or greater events, through 05 Jul.
 
 ```
