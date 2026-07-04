@@ -1,58 +1,60 @@
 ```
 :Product: 3-Day Forecast
-:Issued: 2026 Jul 03 0030 UTC
+:Issued: 2026 Jul 04 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Jul 03-Jul 05 2026 is 5.67 (NOAA Scale
+The greatest expected 3 hr Kp for Jul 04-Jul 06 2026 is 5.67 (NOAA Scale
 G2).
 
-NOAA Kp index breakdown Jul 03-Jul 05 2026
+NOAA Kp index breakdown Jul 04-Jul 06 2026
 
-             Jul 03       Jul 04       Jul 05
-00-03UT       2.33         5.67 (G2)    2.67     
-03-06UT       2.33         4.67 (G1)    2.33     
-06-09UT       4.67 (G1)    4.33         2.33     
-09-12UT       5.67 (G2)    4.33         2.33     
-12-15UT       5.67 (G2)    3.67         2.33     
-15-18UT       4.67 (G1)    3.67         2.33     
-18-21UT       4.67 (G1)    3.33         4.67 (G1)
-21-00UT       5.00 (G1)    2.33         5.00 (G1)
+             Jul 04       Jul 05       Jul 06
+00-03UT       5.67 (G2)    2.67         3.00     
+03-06UT       4.67 (G1)    2.33         4.00     
+06-09UT       4.33         2.33         3.33     
+09-12UT       4.33         2.33         3.33     
+12-15UT       3.67         2.33         3.00     
+15-18UT       3.67         2.33         3.00     
+18-21UT       3.33         4.67 (G1)    2.00     
+21-00UT       2.33         5.00 (G1)    2.00     
 
-Rationale: G1-G2 (Minor-Moderate) geomagnetic storming conditions are
-anticipated 03-04 Jul due to a CME that left the Sun  on 30 Jun. G1
-conditions are also anticipated late on 05 Jul due to a CME that left
-the Sun on 01 Jul.
+Rationale: CME arrival from the event on 30 June is likely to bring G1
+(Minor) geomagnetic storm conditions, with a chance for G2 (Moderate)
+levels early on 04 Jul. Further CME activity from 01-02 Jul, combined
+with possible influences from +CH72, are likely to bring active to
+additional G1 (Minor) storm conditions on 05 Jul, with isolated periods
+of G2 (Moderate) levels possible.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Jul 03-Jul 05 2026
+Solar Radiation Storm Forecast for Jul 04-Jul 06 2026
 
-              Jul 03  Jul 04  Jul 05
-S1 or greater   20%     20%     20%
+              Jul 04  Jul 05  Jul 06
+S1 or greater   20%     20%     10%
 
 Rationale: There is a slight chance for S1 (Minor) or greater solar
-radiation storms through 05 Jul due to the anticipated arrivals of
-several CMEs.
+radiation storms through 06 Jul due to the more geoeffective locations
+of the complex regions on the solar disk.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-Radio blackouts reaching the R1 levels were observed over the past 24
-hours. The largest was at Jul 02 2026 0156 UTC.
+Radio blackouts reaching the R2 levels were observed over the past 24
+hours. The largest was at Jul 03 2026 1811 UTC.
 
-Radio Blackout Forecast for Jul 03-Jul 05 2026
+Radio Blackout Forecast for Jul 04-Jul 06 2026
 
-              Jul 03        Jul 04        Jul 05
-R1-R2           70%           70%           70%
-R3 or greater   20%           20%           20%
+              Jul 04        Jul 05        Jul 06
+R1-R2           70%           70%           55%
+R3 or greater   20%           20%           10%
 
 Rationale: R1-R2 (Minor-Moderate) radio blackouts are likely, with a
-slight chance for R3 (Strong) or greater events, through 05 Jul.
+slight chance for R3 (Strong) or greater events, through 06 Jul.
 
 ```

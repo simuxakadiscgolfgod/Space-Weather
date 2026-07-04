@@ -1,11 +1,10 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2026-07-03
-<br />**This image is owned by:**  Mike Selby
-<br />**Title of the image:**  Three Galaxies in Pavo
-<br />**Description for the image:**  Some 190 million light-years away, far beyond the bright stars and nebulae of the Milky Way, these three galaxies are drawn together by gravity in a mesmerizing cosmic dance. Clearly distorted by galactic-scale gravitational interactions, large spiral galaxies NGC6769 and NGC6770 are seen face-on, with luminous galactic disks scarred by obscuring interstellar dust lanes. Their young blue star clusters along drawn out spiral arms are spawned in star forming regions that result from collisions of massive molecular clouds. Below, spiral NGC6771 presents a more edge-on perspective, its boxy central bulge due to tidal star streams. Of course, in the distant future a merger of the three galaxies is inevitable. At the estimated distance of this galaxy trio, known to some as the Devil's Mask, the sharp telescopic frame spans over 300 thousand light-years within the boundaries of the far southern constellation Pavo.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2607/NGC6769LRGBcropAZ-1500-20-May-2026.jpg
+<br />**Date image released:**  2026-07-04
+<br />**Title of the image:**  Pathfinder on Mars
+<br />**Description for the image:**  On July 4th, 1997, using its own array of fireworks, a parachute, and a cocoon of airbags, the Mars Pathfinder spacecraft bounced like a giant beach ball at least 15 times before it came to rest on the surface of Mars at 10:07 AM Pacific Daylight Time. After its then novel airbag-assisted landing sequence was completed, Pathfinder transmitted this color mosaic to mission operators on Earth. In the scene from another world, the Mars Sojourner robot rover is visible in the foreground, crouched on top of the unfolded Pathfinder.  About the size of a large house cat, the six-wheeled, solar-powered Sojourner became the first successful Martian rover. Surrounding Pathfinder are deflated airbags and the rock-strewn terrain of the Ares Vallis floodplain. In the distance Martian hills appear against a dusty brownish sky. The Pathfinder lander was subsequently renamed the Carl Sagan Memorial Station.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2607/PIA00621.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,59 +48,61 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2026 Jul 03 0030 UTC
+:Issued: 2026 Jul 04 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Jul 03-Jul 05 2026 is 5.67 (NOAA Scale
+The greatest expected 3 hr Kp for Jul 04-Jul 06 2026 is 5.67 (NOAA Scale
 G2).
 
-NOAA Kp index breakdown Jul 03-Jul 05 2026
+NOAA Kp index breakdown Jul 04-Jul 06 2026
 
-             Jul 03       Jul 04       Jul 05
-00-03UT       2.33         5.67 (G2)    2.67     
-03-06UT       2.33         4.67 (G1)    2.33     
-06-09UT       4.67 (G1)    4.33         2.33     
-09-12UT       5.67 (G2)    4.33         2.33     
-12-15UT       5.67 (G2)    3.67         2.33     
-15-18UT       4.67 (G1)    3.67         2.33     
-18-21UT       4.67 (G1)    3.33         4.67 (G1)
-21-00UT       5.00 (G1)    2.33         5.00 (G1)
+             Jul 04       Jul 05       Jul 06
+00-03UT       5.67 (G2)    2.67         3.00     
+03-06UT       4.67 (G1)    2.33         4.00     
+06-09UT       4.33         2.33         3.33     
+09-12UT       4.33         2.33         3.33     
+12-15UT       3.67         2.33         3.00     
+15-18UT       3.67         2.33         3.00     
+18-21UT       3.33         4.67 (G1)    2.00     
+21-00UT       2.33         5.00 (G1)    2.00     
 
-Rationale: G1-G2 (Minor-Moderate) geomagnetic storming conditions are
-anticipated 03-04 Jul due to a CME that left the Sun  on 30 Jun. G1
-conditions are also anticipated late on 05 Jul due to a CME that left
-the Sun on 01 Jul.
+Rationale: CME arrival from the event on 30 June is likely to bring G1
+(Minor) geomagnetic storm conditions, with a chance for G2 (Moderate)
+levels early on 04 Jul. Further CME activity from 01-02 Jul, combined
+with possible influences from +CH72, are likely to bring active to
+additional G1 (Minor) storm conditions on 05 Jul, with isolated periods
+of G2 (Moderate) levels possible.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Jul 03-Jul 05 2026
+Solar Radiation Storm Forecast for Jul 04-Jul 06 2026
 
-              Jul 03  Jul 04  Jul 05
-S1 or greater   20%     20%     20%
+              Jul 04  Jul 05  Jul 06
+S1 or greater   20%     20%     10%
 
 Rationale: There is a slight chance for S1 (Minor) or greater solar
-radiation storms through 05 Jul due to the anticipated arrivals of
-several CMEs.
+radiation storms through 06 Jul due to the more geoeffective locations
+of the complex regions on the solar disk.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-Radio blackouts reaching the R1 levels were observed over the past 24
-hours. The largest was at Jul 02 2026 0156 UTC.
+Radio blackouts reaching the R2 levels were observed over the past 24
+hours. The largest was at Jul 03 2026 1811 UTC.
 
-Radio Blackout Forecast for Jul 03-Jul 05 2026
+Radio Blackout Forecast for Jul 04-Jul 06 2026
 
-              Jul 03        Jul 04        Jul 05
-R1-R2           70%           70%           70%
-R3 or greater   20%           20%           20%
+              Jul 04        Jul 05        Jul 06
+R1-R2           70%           70%           55%
+R3 or greater   20%           20%           10%
 
 Rationale: R1-R2 (Minor-Moderate) radio blackouts are likely, with a
-slight chance for R3 (Strong) or greater events, through 05 Jul.
+slight chance for R3 (Strong) or greater events, through 06 Jul.
 
 ```
