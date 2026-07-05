@@ -1,10 +1,10 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2026-07-04
-<br />**Title of the image:**  Pathfinder on Mars
-<br />**Description for the image:**  On July 4th, 1997, using its own array of fireworks, a parachute, and a cocoon of airbags, the Mars Pathfinder spacecraft bounced like a giant beach ball at least 15 times before it came to rest on the surface of Mars at 10:07 AM Pacific Daylight Time. After its then novel airbag-assisted landing sequence was completed, Pathfinder transmitted this color mosaic to mission operators on Earth. In the scene from another world, the Mars Sojourner robot rover is visible in the foreground, crouched on top of the unfolded Pathfinder.  About the size of a large house cat, the six-wheeled, solar-powered Sojourner became the first successful Martian rover. Surrounding Pathfinder are deflated airbags and the rock-strewn terrain of the Ares Vallis floodplain. In the distance Martian hills appear against a dusty brownish sky. The Pathfinder lander was subsequently renamed the Carl Sagan Memorial Station.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2607/PIA00621.jpg
+<br />**Date image released:**  2026-07-05
+<br />**Title of the image:**  Saturn's Iapetus: Painted Moon
+<br />**Description for the image:**  What has happened to Saturn's moon Iapetus?  Vast sections of this strange world are dark as coal, while others are as bright as snow.  To help better understand this unusually tinted moon, in 2007 NASA directed the robotic Cassini spacecraft then orbiting Saturn to swoop within 2,000 kilometers.  Pictured here, from about 75,000 kilometers out, is the hemisphere of Iapetus that is always trailing.  A large impact crater seen in the south spans 500 kilometers and appears superposed on an older crater of similar size.  The dark material is seen increasingly coating the easternmost part of Iapetus, darkening craters and highlands alike.  A leading hypothesis is that the dark material is mostly a form of carbon-rich soil leftover from when relatively warm but dirty ice sublimates.  An initial coating of this dark material may have been effectively painted on by the accretion of meteor-liberated debris from other moons.   Jigsaw Moon: Astronomy Puzzle of the Day
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2607/iapetus4_cassini_4100.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -48,61 +48,60 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2026 Jul 04 0030 UTC
+:Issued: 2026 Jul 05 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
-Scale levels).
-The greatest expected 3 hr Kp for Jul 04-Jul 06 2026 is 5.67 (NOAA Scale
-G2).
+The greatest observed 3 hr Kp over the past 24 hours was 7 (NOAA Scale
+G3).
+The greatest expected 3 hr Kp for Jul 05-Jul 07 2026 is 4.67 (NOAA Scale
+G1).
 
-NOAA Kp index breakdown Jul 04-Jul 06 2026
+NOAA Kp index breakdown Jul 05-Jul 07 2026
 
-             Jul 04       Jul 05       Jul 06
-00-03UT       5.67 (G2)    2.67         3.00     
-03-06UT       4.67 (G1)    2.33         4.00     
-06-09UT       4.33         2.33         3.33     
-09-12UT       4.33         2.33         3.33     
-12-15UT       3.67         2.33         3.00     
-15-18UT       3.67         2.33         3.00     
-18-21UT       3.33         4.67 (G1)    2.00     
-21-00UT       2.33         5.00 (G1)    2.00     
+             Jul 05       Jul 06       Jul 07
+00-03UT       4.33         3.33         1.67     
+03-06UT       4.67 (G1)    4.00         1.33     
+06-09UT       3.67         3.33         1.33     
+09-12UT       3.00         3.33         1.67     
+12-15UT       2.67         2.67         1.67     
+15-18UT       2.33         1.67         1.33     
+18-21UT       2.33         2.00         1.33     
+21-00UT       2.67         2.00         1.33     
 
-Rationale: CME arrival from the event on 30 June is likely to bring G1
-(Minor) geomagnetic storm conditions, with a chance for G2 (Moderate)
-levels early on 04 Jul. Further CME activity from 01-02 Jul, combined
-with possible influences from +CH72, are likely to bring active to
-additional G1 (Minor) storm conditions on 05 Jul, with isolated periods
-of G2 (Moderate) levels possible.
+Rationale: G1 (Minor) geomagnetic storms are anticipated, with the
+potential for G2 (Moderate) storming, early on 05 Jul due to possible
+arrivals of CMEs that left the Sun on 01-02 Jul and a potential positive
+polarity high speed stream.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Jul 04-Jul 06 2026
+Solar Radiation Storm Forecast for Jul 05-Jul 07 2026
 
-              Jul 04  Jul 05  Jul 06
-S1 or greater   20%     20%     10%
+              Jul 05  Jul 06  Jul 07
+S1 or greater   20%     10%      1%
 
 Rationale: There is a slight chance for S1 (Minor) or greater solar
-radiation storms through 06 Jul due to the more geoeffective locations
-of the complex regions on the solar disk.
+radiation storms on 05-06 Jul.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-Radio blackouts reaching the R2 levels were observed over the past 24
-hours. The largest was at Jul 03 2026 1811 UTC.
+Radio blackouts reaching the R3 levels were observed over the past 24
+hours. The largest was at Jul 04 2026 2041 UTC.
 
-Radio Blackout Forecast for Jul 04-Jul 06 2026
+Radio Blackout Forecast for Jul 05-Jul 07 2026
 
-              Jul 04        Jul 05        Jul 06
-R1-R2           70%           70%           55%
-R3 or greater   20%           20%           10%
+              Jul 05        Jul 06        Jul 07
+R1-R2           75%           60%           15%
+R3 or greater   20%           10%            1%
 
-Rationale: R1-R2 (Minor-Moderate) radio blackouts are likely, with a
-slight chance for R3 (Strong) or greater events, through 06 Jul.
+Rationale: R1-R2 (Minor-Moderate) radio blackouts are expected on 05
+Jul, decreasing to likely on 06 Jul. There is a slight chance for R3
+(Strong) events through 06 Jul. Both decrease significantly on 07 Jul as
+Regions 4479 and 4480 rotate beyond the western limb.
 
 ```
