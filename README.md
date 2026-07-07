@@ -1,11 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2026-07-06
-<br />**This image is owned by:**  Julien Looten
-<br />**Title of the image:**  Dueling Bands over the Atacama Desert
-<br />**Description for the image:**  What are these two bands in the sky?  The more commonly seen band is on the left and is the central band of our Milky Way galaxy.  Our Sun orbits in the disk of this spiral galaxy so that from inside, it appears as a band of comparable brightness all the way around the sky.  The less commonly seen band, on the right, is zodiacal light -- sunlight reflected from dust orbiting the Sun in our Solar System.  Zodiacal light is brightest near the Sun and so is best seen just before sunrise or just after sunset.  On some evenings, this ribbon of zodiacal light can appear quite prominent.  It was discovered only in this century that zodiacal dust was mostly expelled by comets that have passed near Jupiter.  The featured image was captured about a year ago from the Atacama Desert in Chile.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2607/ZodiMw_Looten_6125.jpg
+<br />**Date image released:**  2026-07-07
+<br />**This image is owned by:**  Rod Prazeres
+<br />**Title of the image:**  NGC 6188: Dragons of Ara
+<br />**Description for the image:**  Where can you find dragons fighting in the night sky?  In the southern constellation of the Altar: Ara. The dragons are, of course, actually made of suggestively shaped gas and dust.  The celestial home of the mythological battling beasts is cataloged as NGC 6188 and located about 4,000 light years away near the edge of a large molecular cloud.  Massive, young stars of the embedded Ara OB1 association were formed there only a few million years ago, sculpting the dark shapes and powering the nebular glow with stellar winds and intense ultraviolet radiation.  Joining NGC 6188 on this cosmic canvas, visible toward the lower right, is unusual emission nebula NGC 6164, also created by one of the region's massive stars.  This impressively wide field picture, captured from Queensland, Australia, spans over 2 degrees (four full Moons).
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2607/AraDragons_Prazeres_7200.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,59 +49,56 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2026 Jul 06 0030 UTC
+:Issued: 2026 Jul 07 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Jul 06-Jul 08 2026 is 4.00 (below NOAA
+The greatest expected 3 hr Kp for Jul 07-Jul 09 2026 is 3.67 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Jul 06-Jul 08 2026
+NOAA Kp index breakdown Jul 07-Jul 09 2026
 
-             Jul 06       Jul 07       Jul 08
-00-03UT       3.33         1.67         1.33     
-03-06UT       4.00         1.33         1.33     
-06-09UT       3.33         1.33         1.33     
-09-12UT       3.33         1.67         1.67     
-12-15UT       2.67         1.67         1.33     
-15-18UT       1.67         1.33         1.33     
-18-21UT       2.00         1.33         1.67     
-21-00UT       2.00         1.33         1.67     
+             Jul 07       Jul 08       Jul 09
+00-03UT       1.67         1.33         3.00     
+03-06UT       1.33         1.33         3.67     
+06-09UT       1.33         1.33         2.67     
+09-12UT       1.67         1.67         2.67     
+12-15UT       1.67         1.33         2.67     
+15-18UT       1.33         1.33         2.00     
+18-21UT       1.33         1.67         2.00     
+21-00UT       1.33         1.67         2.67     
 
-Rationale: No G1 (Minor) or greater geomagnetic storms are expected
-through 08 Jul.
+Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
+significant transient or recurrent solar wind features are forecast.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Jul 06-Jul 08 2026
+Solar Radiation Storm Forecast for Jul 07-Jul 09 2026
 
-              Jul 06  Jul 07  Jul 08
-S1 or greater   20%     10%      1%
+              Jul 07  Jul 08  Jul 09
+S1 or greater    5%      5%      5%
 
-Rationale: There is a slight chance for S1 (Minor) or greater solar
-radiation storms on 06-07 Jul due to the complexity of the regions
-transiting the western limb.
+Rationale: No S1 (Minor) or greater solar radiation storms are expected.
+No significant active region activity favorable for radiation storm
+production is forecast.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-Radio blackouts reaching the R2 levels were observed over the past 24
-hours. The largest was at Jul 05 2026 1757 UTC.
+No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Jul 06-Jul 08 2026
+Radio Blackout Forecast for Jul 07-Jul 09 2026
 
-              Jul 06        Jul 07        Jul 08
-R1-R2           75%           60%           15%
-R3 or greater   20%           10%            1%
+              Jul 07        Jul 08        Jul 09
+R1-R2           55%           20%           20%
+R3 or greater   10%            5%            5%
 
-Rationale: R1-R2 (Minor-Moderate) radio blackouts are expected on 06
-Jul, decreasing to likely on 07 Jul, and a slight chance on 08 Jul.
-There is a slight chance for R3 (Strong) or greater events through 07
-Jul.
+Rationale: R1-R2 (Minor-Moderate) radio blackouts are likely on Jul 07.
+There is a slight chance for R1-R2 radio blackout events on July 08-09.
 
 ```
