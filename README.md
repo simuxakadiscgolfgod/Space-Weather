@@ -1,11 +1,10 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2026-07-07
-<br />**This image is owned by:**  Rod Prazeres
-<br />**Title of the image:**  NGC 6188: Dragons of Ara
-<br />**Description for the image:**  Where can you find dragons fighting in the night sky?  In the southern constellation of the Altar: Ara. The dragons are, of course, actually made of suggestively shaped gas and dust.  The celestial home of the mythological battling beasts is cataloged as NGC 6188 and located about 4,000 light years away near the edge of a large molecular cloud.  Massive, young stars of the embedded Ara OB1 association were formed there only a few million years ago, sculpting the dark shapes and powering the nebular glow with stellar winds and intense ultraviolet radiation.  Joining NGC 6188 on this cosmic canvas, visible toward the lower right, is unusual emission nebula NGC 6164, also created by one of the region's massive stars.  This impressively wide field picture, captured from Queensland, Australia, spans over 2 degrees (four full Moons).
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2607/AraDragons_Prazeres_7200.jpg
+<br />**Date image released:**  2003-03-17
+<br />**Title of the image:**  SN 1006: History's Brightest Supernova
+<br />**Description for the image:**  Suddenly, in the year 1006 AD, a new star appeared in the sky.  Over the course of just a few days, the rogue star became brighter than the planet Venus.  The star, likely the talk of everyone who could see it, was recorded by people who lived in areas now known as China, Egypt, Iraq, Italy, Japan, and Switzerland.  The celestial newcomer, now known to be a supernova, took months to fade.  Modern observations have been used to measure the speed of the still-expanding shock wave, allowing a better estimate of its distance and hence a better estimate of the true brightness of the supernova.  It turns out SN 1006 likely achieved an apparent visual magnitude of -7.5, making it the brightest supernova on record.  The shock wave was imaged in 1998 from CTIO (left panel), and then subtracted from a similar image taken in 1986 (right panel), highlighting the relative expansion.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/0303/sn1006_noao_big.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,27 +48,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2026 Jul 07 0030 UTC
+:Issued: 2026 Jul 08 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Jul 07-Jul 09 2026 is 3.67 (below NOAA
+The greatest expected 3 hr Kp for Jul 08-Jul 10 2026 is 3.67 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Jul 07-Jul 09 2026
+NOAA Kp index breakdown Jul 08-Jul 10 2026
 
-             Jul 07       Jul 08       Jul 09
-00-03UT       1.67         1.33         3.00     
-03-06UT       1.33         1.33         3.67     
-06-09UT       1.33         1.33         2.67     
-09-12UT       1.67         1.67         2.67     
-12-15UT       1.67         1.33         2.67     
-15-18UT       1.33         1.33         2.00     
-18-21UT       1.33         1.67         2.00     
-21-00UT       1.33         1.67         2.67     
+             Jul 08       Jul 09       Jul 10
+00-03UT       1.33         3.00         3.67     
+03-06UT       1.33         3.67         2.67     
+06-09UT       1.33         2.67         2.67     
+09-12UT       1.67         2.67         2.67     
+12-15UT       1.33         2.67         2.67     
+15-18UT       1.33         2.00         2.67     
+18-21UT       1.67         2.00         3.67     
+21-00UT       1.67         2.67         2.67     
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
 significant transient or recurrent solar wind features are forecast.
@@ -79,10 +78,10 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Jul 07-Jul 09 2026
+Solar Radiation Storm Forecast for Jul 08-Jul 10 2026
 
-              Jul 07  Jul 08  Jul 09
-S1 or greater    5%      5%      5%
+              Jul 08  Jul 09  Jul 10
+S1 or greater    1%      1%      1%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
 No significant active region activity favorable for radiation storm
@@ -90,15 +89,17 @@ production is forecast.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-No radio blackouts were observed over the past 24 hours.
+Radio blackouts reaching the R1 levels were observed over the past 24
+hours. The largest was at Jul 07 2026 1419 UTC associated with an M4.0
+solar flare.
 
-Radio Blackout Forecast for Jul 07-Jul 09 2026
+Radio Blackout Forecast for Jul 08-Jul 10 2026
 
-              Jul 07        Jul 08        Jul 09
-R1-R2           55%           20%           20%
-R3 or greater   10%            5%            5%
+              Jul 08        Jul 09        Jul 10
+R1-R2           40%           40%           40%
+R3 or greater   10%           10%           10%
 
-Rationale: R1-R2 (Minor-Moderate) radio blackouts are likely on Jul 07.
-There is a slight chance for R1-R2 radio blackout events on July 08-09.
+Rationale: There is a chance for R1-R2 (Minor-Moderate) and a slight
+chance for R3 (Strong) or greater radio blackouts on 08-10 Jul.
 
 ```

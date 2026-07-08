@@ -1,26 +1,26 @@
 ```
 :Product: 3-Day Forecast
-:Issued: 2026 Jul 07 0030 UTC
+:Issued: 2026 Jul 08 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Jul 07-Jul 09 2026 is 3.67 (below NOAA
+The greatest expected 3 hr Kp for Jul 08-Jul 10 2026 is 3.67 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Jul 07-Jul 09 2026
+NOAA Kp index breakdown Jul 08-Jul 10 2026
 
-             Jul 07       Jul 08       Jul 09
-00-03UT       1.67         1.33         3.00     
-03-06UT       1.33         1.33         3.67     
-06-09UT       1.33         1.33         2.67     
-09-12UT       1.67         1.67         2.67     
-12-15UT       1.67         1.33         2.67     
-15-18UT       1.33         1.33         2.00     
-18-21UT       1.33         1.67         2.00     
-21-00UT       1.33         1.67         2.67     
+             Jul 08       Jul 09       Jul 10
+00-03UT       1.33         3.00         3.67     
+03-06UT       1.33         3.67         2.67     
+06-09UT       1.33         2.67         2.67     
+09-12UT       1.67         2.67         2.67     
+12-15UT       1.33         2.67         2.67     
+15-18UT       1.33         2.00         2.67     
+18-21UT       1.67         2.00         3.67     
+21-00UT       1.67         2.67         2.67     
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
 significant transient or recurrent solar wind features are forecast.
@@ -30,10 +30,10 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Jul 07-Jul 09 2026
+Solar Radiation Storm Forecast for Jul 08-Jul 10 2026
 
-              Jul 07  Jul 08  Jul 09
-S1 or greater    5%      5%      5%
+              Jul 08  Jul 09  Jul 10
+S1 or greater    1%      1%      1%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
 No significant active region activity favorable for radiation storm
@@ -41,15 +41,17 @@ production is forecast.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-No radio blackouts were observed over the past 24 hours.
+Radio blackouts reaching the R1 levels were observed over the past 24
+hours. The largest was at Jul 07 2026 1419 UTC associated with an M4.0
+solar flare.
 
-Radio Blackout Forecast for Jul 07-Jul 09 2026
+Radio Blackout Forecast for Jul 08-Jul 10 2026
 
-              Jul 07        Jul 08        Jul 09
-R1-R2           55%           20%           20%
-R3 or greater   10%            5%            5%
+              Jul 08        Jul 09        Jul 10
+R1-R2           40%           40%           40%
+R3 or greater   10%           10%           10%
 
-Rationale: R1-R2 (Minor-Moderate) radio blackouts are likely on Jul 07.
-There is a slight chance for R1-R2 radio blackout events on July 08-09.
+Rationale: There is a chance for R1-R2 (Minor-Moderate) and a slight
+chance for R3 (Strong) or greater radio blackouts on 08-10 Jul.
 
 ```
