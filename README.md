@@ -1,11 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2026-07-10
-<br />**This image is owned by:**  The Mare Orientale
-<br />**Title of the image:**  Western Moon, Eastern Sea
-<br />**Description for the image:**  The Mare Orientale, Latin for Eastern Sea, is one of the most striking large scale lunar features. The youngest of the large lunar impact basins it's very difficult to see from an earthbound perspective. Still, captured on July 7 during a period of favorable tilt, or libration of the lunar nearside, the Eastern Sea can be found at the upper right in this sharp telescopic view. In the image, the large lunar mare is extremely foreshortened and stretches along the Moon's western edge. Formed by the impact of an asteroid over 3 billion years ago and nearly 1000 kilometers across, the impact basin's concentric circular features are ripples in the lunar crust. But they are a little easier to spot in more direct images of the region taken from lunar orbit. So why is the Eastern Sea at the Moon's western edge? The Mare Orientale lunar feature was named before 1961. That's when the convention labeling east and west on lunar maps was reversed.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2607/C14MareOrientaleGuyBardon.jpg
+<br />**Date image released:**  2026-07-11
+<br />**This image is owned by:**  Chuck Ayoub
+<br />**Title of the image:**  Messier 24: Sagittarius Star Cloud
+<br />**Description for the image:**  Unlike most entries in Charles Messier's famous catalog of deep sky objects, M24 is not a bright galaxy, star cluster, or nebula. It's a gap in nearby, obscuring interstellar dust clouds that allows a view of the distant stars in the Sagittarius spiral arm of our Milky Way galaxy. Direct your gaze through this gap with binoculars or a small telescope and you are looking through a window over 300 light-years wide at stars some 10,000 light-years or more from Earth. Sometimes called the Small Sagittarius Star Cloud, M24's luminous stars stretch across this gorgeous interstellar scene.  Spanning over four full moons on the sky toward the constellation Sagittarius, the telescopic field of view includes dark markings B92 and B93 near the center of M24, along with other clouds of dust and glowing nebulae toward the center of the Milky Way.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2607/M24.png
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,39 +49,39 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2026 Jul 10 0030 UTC
+:Issued: 2026 Jul 11 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Jul 10-Jul 12 2026 is 3.67 (below NOAA
-Scale levels).
+The greatest expected 3 hr Kp for Jul 11-Jul 13 2026 is 5.00 (NOAA Scale
+G1).
 
-NOAA Kp index breakdown Jul 10-Jul 12 2026
+NOAA Kp index breakdown Jul 11-Jul 13 2026
 
-             Jul 10       Jul 11       Jul 12
-00-03UT       3.67         3.67         2.33     
-03-06UT       2.67         2.00         2.00     
-06-09UT       2.67         2.00         2.00     
-09-12UT       2.67         2.67         2.00     
-12-15UT       2.67         2.67         2.00     
-15-18UT       2.67         2.67         2.00     
-18-21UT       3.67         2.67         2.00     
-21-00UT       2.67         3.00         2.33     
+             Jul 11       Jul 12       Jul 13
+00-03UT       3.00         2.33         3.33     
+03-06UT       2.00         2.00         3.00     
+06-09UT       2.00         3.33         2.67     
+09-12UT       2.00         3.67         2.33     
+12-15UT       1.67         5.00 (G1)    1.67     
+15-18UT       1.67         4.67 (G1)    2.00     
+18-21UT       2.00         4.00         2.00     
+21-00UT       1.67         3.33         2.33     
 
-Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
-significant transient or recurrent solar wind features are forecast.
+Rationale: G1 (Minor) geomagnetic storms are likely on 12 Jul due to
+anticipated influence from a CME that left the Sun on 09 Jul.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Jul 10-Jul 12 2026
+Solar Radiation Storm Forecast for Jul 11-Jul 13 2026
 
-              Jul 10  Jul 11  Jul 12
+              Jul 11  Jul 12  Jul 13
 S1 or greater    1%      1%      1%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -90,16 +90,16 @@ production is forecast.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-Radio blackouts reaching the R1 levels were observed over the past 24
-hours. The largest was at Jul 09 2026 0227 UTC.
+No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Jul 10-Jul 12 2026
+Radio Blackout Forecast for Jul 11-Jul 13 2026
 
-              Jul 10        Jul 11        Jul 12
-R1-R2           40%           40%           40%
+              Jul 11        Jul 12        Jul 13
+R1-R2           30%           30%           30%
 R3 or greater   10%           10%           10%
 
-Rationale: There is a chance for R1-R2 (Minor-Moderate) and a slight
-chance for R3 (Strong) radio blackouts on 10-12 Jul.
+Rationale: There is a chance for R1-R2 (Minor-Moderate) radio blackouts,
+a slight chance for R3 (Strong), over 11-13 Jul due to the eruptive
+potential of Regions 4482 and 4485.
 
 ```
