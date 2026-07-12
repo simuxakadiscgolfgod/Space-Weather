@@ -1,11 +1,10 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2026-07-11
-<br />**This image is owned by:**  Chuck Ayoub
-<br />**Title of the image:**  Messier 24: Sagittarius Star Cloud
-<br />**Description for the image:**  Unlike most entries in Charles Messier's famous catalog of deep sky objects, M24 is not a bright galaxy, star cluster, or nebula. It's a gap in nearby, obscuring interstellar dust clouds that allows a view of the distant stars in the Sagittarius spiral arm of our Milky Way galaxy. Direct your gaze through this gap with binoculars or a small telescope and you are looking through a window over 300 light-years wide at stars some 10,000 light-years or more from Earth. Sometimes called the Small Sagittarius Star Cloud, M24's luminous stars stretch across this gorgeous interstellar scene.  Spanning over four full moons on the sky toward the constellation Sagittarius, the telescopic field of view includes dark markings B92 and B93 near the center of M24, along with other clouds of dust and glowing nebulae toward the center of the Milky Way.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2607/M24.png
+<br />**Date image released:**  2026-07-12
+<br />**Title of the image:**  Galaxy NGC 474: Shells and Star Streams
+<br />**Description for the image:**  What's happening to galaxy NGC 474?  The multiple layers of emission appear strangely complex given the relatively featureless appearance of the elliptical galaxy in less deep images.  The cause of the shells is a topic of research, but they are possibly tidal tails related to debris left over from absorbing numerous small galaxies in the past billion years.  Alternatively, the shells may be like ripples in a pond, where the ongoing collision with the spiral galaxy just to the right of NGC 474 is causing density waves to ripple through the galactic giant.  Regardless of the actual cause, the featured image dramatically highlights the increasing evidence that the halos of some elliptical galaxies are surprisingly complicated.  Similarly, the halo of our own Milky Way Galaxy is one example of such unexpected intricacies.  NGC 474 spans about 250,000 light years and lies about 100 million light years distant toward the constellation of the Fish (Pisces).
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2607/NGC474_CfhtCoelum_1500.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,39 +48,39 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2026 Jul 11 0030 UTC
+:Issued: 2026 Jul 12 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Jul 11-Jul 13 2026 is 5.00 (NOAA Scale
+The greatest expected 3 hr Kp for Jul 12-Jul 14 2026 is 5.00 (NOAA Scale
 G1).
 
-NOAA Kp index breakdown Jul 11-Jul 13 2026
+NOAA Kp index breakdown Jul 12-Jul 14 2026
 
-             Jul 11       Jul 12       Jul 13
-00-03UT       3.00         2.33         3.33     
-03-06UT       2.00         2.00         3.00     
-06-09UT       2.00         3.33         2.67     
-09-12UT       2.00         3.67         2.33     
-12-15UT       1.67         5.00 (G1)    1.67     
-15-18UT       1.67         4.67 (G1)    2.00     
-18-21UT       2.00         4.00         2.00     
-21-00UT       1.67         3.33         2.33     
+             Jul 12       Jul 13       Jul 14
+00-03UT       2.33         3.33         2.00     
+03-06UT       2.00         3.00         1.67     
+06-09UT       3.33         2.67         1.67     
+09-12UT       3.67         2.33         2.00     
+12-15UT       5.00 (G1)    1.67         2.00     
+15-18UT       4.67 (G1)    2.00         1.67     
+18-21UT       4.00         2.00         1.67     
+21-00UT       3.33         2.33         1.67     
 
-Rationale: G1 (Minor) geomagnetic storms are likely on 12 Jul due to
-anticipated influence from a CME that left the Sun on 09 Jul.
+Rationale: G1 (Minor)geomagnetic storming conditions are likely on 12
+Jul due to the anticipated arrival of a CME that left the Sun on 09 Jul.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Jul 11-Jul 13 2026
+Solar Radiation Storm Forecast for Jul 12-Jul 14 2026
 
-              Jul 11  Jul 12  Jul 13
+              Jul 12  Jul 13  Jul 14
 S1 or greater    1%      1%      1%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -92,14 +91,13 @@ C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Jul 11-Jul 13 2026
+Radio Blackout Forecast for Jul 12-Jul 14 2026
 
-              Jul 11        Jul 12        Jul 13
-R1-R2           30%           30%           30%
-R3 or greater   10%           10%           10%
+              Jul 12        Jul 13        Jul 14
+R1-R2           25%           25%           20%
+R3 or greater    5%            5%            1%
 
-Rationale: There is a chance for R1-R2 (Minor-Moderate) radio blackouts,
-a slight chance for R3 (Strong), over 11-13 Jul due to the eruptive
-potential of Regions 4482 and 4485.
+Rationale: There is a chance for R1-R2 (Minor-Moderate) radio blackouts
+over 12-14 Jul.
 
 ```
