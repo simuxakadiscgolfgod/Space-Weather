@@ -1,38 +1,38 @@
 ```
 :Product: 3-Day Forecast
-:Issued: 2026 Jul 12 0030 UTC
+:Issued: 2026 Jul 14 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Jul 12-Jul 14 2026 is 5.00 (NOAA Scale
-G1).
+The greatest expected 3 hr Kp for Jul 14-Jul 16 2026 is 4.33 (below NOAA
+Scale levels).
 
-NOAA Kp index breakdown Jul 12-Jul 14 2026
+NOAA Kp index breakdown Jul 14-Jul 16 2026
 
-             Jul 12       Jul 13       Jul 14
-00-03UT       2.33         3.33         2.00     
-03-06UT       2.00         3.00         1.67     
-06-09UT       3.33         2.67         1.67     
-09-12UT       3.67         2.33         2.00     
-12-15UT       5.00 (G1)    1.67         2.00     
-15-18UT       4.67 (G1)    2.00         1.67     
-18-21UT       4.00         2.00         1.67     
-21-00UT       3.33         2.33         1.67     
+             Jul 14       Jul 15       Jul 16
+00-03UT       4.00         2.67         3.00     
+03-06UT       4.33         3.33         3.00     
+06-09UT       3.33         3.00         2.00     
+09-12UT       3.33         1.67         2.67     
+12-15UT       3.00         1.67         2.67     
+15-18UT       2.67         1.33         2.67     
+18-21UT       2.33         1.67         2.00     
+21-00UT       2.33         2.33         2.67     
 
-Rationale: G1 (Minor)geomagnetic storming conditions are likely on 12
-Jul due to the anticipated arrival of a CME that left the Sun on 09 Jul.
+Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
+significant transient or recurrent solar wind features are forecast.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Jul 12-Jul 14 2026
+Solar Radiation Storm Forecast for Jul 14-Jul 16 2026
 
-              Jul 12  Jul 13  Jul 14
+              Jul 14  Jul 15  Jul 16
 S1 or greater    1%      1%      1%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -43,13 +43,14 @@ C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Jul 12-Jul 14 2026
+Radio Blackout Forecast for Jul 14-Jul 16 2026
 
-              Jul 12        Jul 13        Jul 14
-R1-R2           25%           25%           20%
-R3 or greater    5%            5%            1%
+              Jul 14        Jul 15        Jul 16
+R1-R2           25%           20%           15%
+R3 or greater    5%            1%            1%
 
-Rationale: There is a chance for R1-R2 (Minor-Moderate) radio blackouts
-over 12-14 Jul.
+Rationale: A chance for M-class flare activity will persist through 14
+Jul before probabilities decrease to only a slight chance for 16-19 Jul
+due to AR 4485s departure over the western limb.
 
 ```
