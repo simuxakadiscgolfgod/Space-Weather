@@ -1,17 +1,18 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2026-07-14
-<br />**This image is owned by:**  JAXA, 
-U. of Tokyo, 
-Chiba Tech, 
-Tokyo U. of Science, 
-AIST, 
-Paris Obs., 
-IAC
-<br />**Title of the image:**  Double Lobed Asteroid Torifune
-<br />**Description for the image:**  Why is this asteroid a double?  Earlier this month the Japanese robotic spacecraft Hayabusa2 shot past asteroid 98943 Torifune and captured pictures. Although previous observations from distant Earth indicated that Torifune was oblong, Hayabusa2 found that Torifune actually has two joined lobes.  With a length of about four soccer fields, this space rock frequently comes near the Earth as it orbits the Sun, although it is not a threat.  Besides the two lobes, Torifune shows many large boulders, but, surprisingly, no obvious craters, likely because its surface is a pile of rubble.  Like asteroid Arrokoth, it appears that each lobe formed separately before colliding and becoming stuck together.  Hayabusa2 famously encountered asteroid Ryugu in 2018, and now heads for an encounter in 2031 with 1998 KY26, a smaller asteroid that rotates unusually fast and might have reservoirs of ice.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2607/Torifune_JAXA_1400.jpg
+<br />**Date image released:**  2026-07-15
+<br />**This image is owned by:**  Mario Vargas
+
+Text:
+Keighley Rockcliffe  
+(NASA
+GSFC, 
+UMBC CSST, 
+CRESST II)
+<br />**Title of the image:**  Red Sprites in the Tatacoa Desert
+<br />**Description for the image:**  Is there an angry Sith using force lightning in the Tatacoa Desert? This is not science fiction, but a red sprite with multiple streamers! Ordinary lightning occurs when thundercloud particles collide, lose their electrons, and build up negative charge at the cloud bottom. The cloud’s negative charge repels negative charge deeper into the Earth, leaving Earth’s surface positively charged. The opposite charges attract, reaching towards each other and superheating the air into a white strike of plasma. Red sprites are millisecond events triggered by positive cloud-to-ground lightning. They extend up into the mesosphere where the air is too thin for thunder. Their red glow comes from heated molecular nitrogen. There are several potential causes for red sprites, including that the preceding positive lightning exposes the negatively charged cloud core to the positively charged upper atmosphere, allowing those charges to connect. NASA’s Juno has observed sprites on Jupiter, indicating that sprites occur on other planets!
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2607/red_sprite.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -55,27 +56,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2026 Jul 14 0030 UTC
+:Issued: 2026 Jul 15 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Jul 14-Jul 16 2026 is 4.33 (below NOAA
+The greatest expected 3 hr Kp for Jul 15-Jul 17 2026 is 3.67 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Jul 14-Jul 16 2026
+NOAA Kp index breakdown Jul 15-Jul 17 2026
 
-             Jul 14       Jul 15       Jul 16
-00-03UT       4.00         2.67         3.00     
-03-06UT       4.33         3.33         3.00     
-06-09UT       3.33         3.00         2.00     
-09-12UT       3.33         1.67         2.67     
-12-15UT       3.00         1.67         2.67     
-15-18UT       2.67         1.33         2.67     
-18-21UT       2.33         1.67         2.00     
-21-00UT       2.33         2.33         2.67     
+             Jul 15       Jul 16       Jul 17
+00-03UT       3.00         3.00         2.67     
+03-06UT       3.67         2.33         2.33     
+06-09UT       3.33         2.00         2.00     
+09-12UT       2.33         2.33         1.33     
+12-15UT       1.33         1.33         1.33     
+15-18UT       1.67         2.00         1.67     
+18-21UT       2.00         2.00         2.00     
+21-00UT       2.67         2.00         2.33     
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
 significant transient or recurrent solar wind features are forecast.
@@ -85,9 +86,9 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Jul 14-Jul 16 2026
+Solar Radiation Storm Forecast for Jul 15-Jul 17 2026
 
-              Jul 14  Jul 15  Jul 16
+              Jul 15  Jul 16  Jul 17
 S1 or greater    1%      1%      1%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -98,14 +99,14 @@ C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Jul 14-Jul 16 2026
+Radio Blackout Forecast for Jul 15-Jul 17 2026
 
-              Jul 14        Jul 15        Jul 16
-R1-R2           25%           20%           15%
-R3 or greater    5%            1%            1%
+              Jul 15        Jul 16        Jul 17
+R1-R2           10%           10%           10%
+R3 or greater    1%            1%            1%
 
-Rationale: A chance for M-class flare activity will persist through 14
-Jul before probabilities decrease to only a slight chance for 16-19 Jul
-due to AR 4485s departure over the western limb.
+Rationale: A slight chance for isolated R1-2 (Minor-Moderate) radio
+blackouts will persist through 17 Jul primarily due to returning active
+regions on the eastern limb.
 
 ```
