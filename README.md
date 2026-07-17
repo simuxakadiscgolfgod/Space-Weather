@@ -1,17 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2026-07-16
-<br />**This image is owned by:**  Team Ciel Austral
- Text: 
-Cecilia Chirenti 
-(NASA
-GSFC, 
-UMCP, 
-CRESST II)
-<br />**Title of the image:**  NGC 300: A Cosmic Gemstone with Stars and Gas Clouds
-<br />**Description for the image:**  This sparkling, colorful gemstone is a spiral galaxy, NGC 300.   It is one of the closest spiral galaxies to Earth, only about 6 million light-years away.     But does it really look like this?   Here is a more standard portrait of it.   This unusual image combines the light from the stars and dust within the galaxy with the light from ionized clouds of interstellar gas shown in red (Sulphur), green (Hydrogen) and blue (Oxygen).   Combining red and green light in different proportions makes yellow or orange light, most visible in the image.   Light from other ionized gases is also at work in neon signs, fluorescent tubes and street lights.   These massive clouds of ionized gas are typically created by young, massive stars that produce high-energy ultraviolet radiation capable of ionizing the gas.   Massive stars are short-lived, compared with lighter stars like our sun, and explode as supernovas at the end of their lives.   Some of the colorful clouds in the image could be hiding supernova remnants.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2607/ngc300.jpg
+<br />**Date image released:**  2026-07-17
+<br />**This image is owned by:**  Dan Bartlett
+<br />**Title of the image:**  The Dust Trail of Comet Tempel 2
+<br />**Description for the image:**  Comet 10P/Tempel 2 orbits the Sun once every 5.4 years. Currently visible in binoculars or small telescopes toward the constellation Capricornus, the periodic comet is captured in this sharp telescopic image from July 11 sporting a bright nuclear region and pretty greenish coma. Remarkably, a thin dust trail, not a typical dust tail, is also seen extending both east and west of the Tempel 2 nucleus. Unlike a comet dust tail, which tends to temporarily fan out in a direction away from the Sun, this dust trail is due to the residual dust shed during many past orbits along this ancient periodic comet's orbital plane. In fact, Tempel 2's dust trail may get a little narrower and brighter from our perspective as Earth crosses through the comet's orbital plane on July 20. Comet 10P/Tempel 2 will reach a perihelion on August 2, and make its closest approach to Earth on August 3.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2607/10P_Tempel2_20260711_DEBartlett2048.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -55,25 +49,25 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2026 Jul 16 0030 UTC
+:Issued: 2026 Jul 17 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Jul 16-Jul 18 2026 is 3.00 (below NOAA
+The greatest expected 3 hr Kp for Jul 17-Jul 19 2026 is 3.00 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Jul 16-Jul 18 2026
+NOAA Kp index breakdown Jul 17-Jul 19 2026
 
-             Jul 16       Jul 17       Jul 18
-00-03UT       3.00         2.67         1.67     
-03-06UT       2.33         2.33         1.33     
-06-09UT       2.00         2.00         1.33     
-09-12UT       2.33         1.33         1.33     
-12-15UT       1.33         1.33         1.33     
-15-18UT       2.00         1.67         1.33     
+             Jul 17       Jul 18       Jul 19
+00-03UT       2.00         2.33         1.67     
+03-06UT       1.67         3.00         2.00     
+06-09UT       1.67         1.67         1.67     
+09-12UT       1.67         1.67         1.33     
+12-15UT       1.67         1.00         0.67     
+15-18UT       1.67         1.00         0.67     
 18-21UT       2.00         2.00         1.67     
 21-00UT       2.00         2.33         1.67     
 
@@ -85,9 +79,9 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Jul 16-Jul 18 2026
+Solar Radiation Storm Forecast for Jul 17-Jul 19 2026
 
-              Jul 16  Jul 17  Jul 18
+              Jul 17  Jul 18  Jul 19
 S1 or greater    1%      1%      1%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -98,14 +92,13 @@ C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Jul 16-Jul 18 2026
+Radio Blackout Forecast for Jul 17-Jul 19 2026
 
-              Jul 16        Jul 17        Jul 18
-R1-R2           10%           10%           10%
+              Jul 17        Jul 18        Jul 19
+R1-R2           25%           25%           25%
 R3 or greater    1%            1%            1%
 
-Rationale: A slight chance for R1-2 (Minor-Moderate) radio blackouts
-will persist through 18 Jul primarily due to returning regions on the
-Eastern limb.
+Rationale: There is a chance for R1-R2 (Minor-Moderate) radio blackouts
+over 17-19 Jul.
 
 ```
