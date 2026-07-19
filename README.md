@@ -1,10 +1,10 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2026-07-18
-<br />**Title of the image:**  Shadow and Rainbow
-<br />**Description for the image:**  At sunset, an alignment of rainbow and mountain shadow was captured in this remarkable snapshot. The stunning view was recorded from a fire lookout on Smith Peak in the Plumas National Forest near Portola, California on July 13.  Still, near sunset it's no accident that the majestic mountain shadow seems to point to the center of the graceful rainbow arc. Due to perspective and the long line of sight the mountain shadow naturally forms a tapering triangular shape, its apex positioned at the point opposite the Sun on the horizon. Following thunderstorms across the region, the rainbow arcs across the early evening sky, with its colorful and characteristic 42 degree arc formed as sunlight is refracted and reflected by the atmospheric water droplets. The geometric center of a rainbow arc lies at the antisolar point. And in this scene from the golden hour on planet Earth, that's also oposite the setting Sun along the distant horizon.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2607/ShadowandRainbow_Loschiavo.jpg
+<br />**Date image released:**  2026-07-19
+<br />**Title of the image:**  Flying Saucer Crash Lands in Utah Desert
+<br />**Description for the image:**  A flying saucer from outer space crash-landed in the Utah desert after being tracked by radar and chased by helicopters.  The year was 2004, and no space aliens were involved.  The saucer, pictured here, was the Genesis sample return capsule, part of a human-made robot Genesis spaceship launched in 2001 by NASA itself to study the Sun.  The unexpectedly hard landing at over 300 kilometers per hour occurred because the parachutes did not open as planned.  The Genesis mission had been orbiting the Sun collecting solar wind particles that are usually deflected away by Earth's magnetic field. Despite the crash landing, many return samples remained in good enough condition to analyze. Genesis-related discoveries included new details about the composition of the Sun and how the abundance of some types of elements differ across the Solar System. These results have provided intriguing clues into details of how the Sun and planets formed billions of years ago.    Almost Hyperspace: Random APOD Generator
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2607/Genesisimpact_nasa_960.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -48,27 +48,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2026 Jul 18 0030 UTC
+:Issued: 2026 Jul 19 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 1 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Jul 18-Jul 20 2026 is 2.67 (below NOAA
+The greatest expected 3 hr Kp for Jul 19-Jul 21 2026 is 2.00 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Jul 18-Jul 20 2026
+NOAA Kp index breakdown Jul 19-Jul 21 2026
 
-             Jul 18       Jul 19       Jul 20
-00-03UT       1.67         1.67         1.33     
-03-06UT       2.00         2.00         1.33     
-06-09UT       2.67         1.67         1.33     
-09-12UT       2.00         1.33         1.33     
-12-15UT       1.67         0.67         1.67     
-15-18UT       1.00         0.67         1.67     
-18-21UT       1.00         1.67         1.67     
-21-00UT       2.00         1.67         1.33     
+             Jul 19       Jul 20       Jul 21
+00-03UT       1.67         1.33         1.33     
+03-06UT       2.00         2.00         2.00     
+06-09UT       1.67         2.00         2.00     
+09-12UT       1.33         1.33         1.33     
+12-15UT       0.67         1.67         1.33     
+15-18UT       0.67         0.67         0.67     
+18-21UT       1.67         0.67         0.67     
+21-00UT       1.67         1.33         1.67     
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
 significant transient or recurrent solar wind features are forecast.
@@ -78,9 +78,9 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Jul 18-Jul 20 2026
+Solar Radiation Storm Forecast for Jul 19-Jul 21 2026
 
-              Jul 18  Jul 19  Jul 20
+              Jul 19  Jul 20  Jul 21
 S1 or greater    1%      1%      1%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -91,13 +91,13 @@ C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Jul 18-Jul 20 2026
+Radio Blackout Forecast for Jul 19-Jul 21 2026
 
-              Jul 18        Jul 19        Jul 20
+              Jul 19        Jul 20        Jul 21
 R1-R2           15%           15%           15%
 R3 or greater    1%            1%            1%
 
 Rationale: There remains a slight chance for R1-R2 (Minor-Moderate)
-radio blackouts over 18-20 Jul.
+radio blackouts over 19-21 Jul.
 
 ```
