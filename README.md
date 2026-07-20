@@ -1,10 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2026-07-19
-<br />**Title of the image:**  Flying Saucer Crash Lands in Utah Desert
-<br />**Description for the image:**  A flying saucer from outer space crash-landed in the Utah desert after being tracked by radar and chased by helicopters.  The year was 2004, and no space aliens were involved.  The saucer, pictured here, was the Genesis sample return capsule, part of a human-made robot Genesis spaceship launched in 2001 by NASA itself to study the Sun.  The unexpectedly hard landing at over 300 kilometers per hour occurred because the parachutes did not open as planned.  The Genesis mission had been orbiting the Sun collecting solar wind particles that are usually deflected away by Earth's magnetic field. Despite the crash landing, many return samples remained in good enough condition to analyze. Genesis-related discoveries included new details about the composition of the Sun and how the abundance of some types of elements differ across the Solar System. These results have provided intriguing clues into details of how the Sun and planets formed billions of years ago.    Almost Hyperspace: Random APOD Generator
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2607/Genesisimpact_nasa_960.jpg
+<br />**Date image released:**  2026-07-20
+<br />**This image is owned by:**  Logan Carpenter
+<br />**Title of the image:**  NGC 3576: The Statue of Liberty Nebula
+<br />**Description for the image:**  What's happening in the Statue of Liberty nebula?  Bright stars and interesting molecules are forming and being liberated. The complex nebula resides in the star forming region called RCW 57, and besides the iconic monument, to some looks like a flying superhero or a weeping angel.  This re-assigned color image showcases dense knots of dark interstellar dust, fields of glowing hydrogen gas ionized by these stars, and great loops of gas expelled by dying stars. A detailed study of NGC 3576, also known as NGC 3582 and NGC 3584, uncovered at least 33 massive stars in the end stages of formation, and the clear presence of the complex carbon molecules known as polycyclic aromatic hydrocarbons (PAHs). PAHs are thought to be created in the cooling gas of star forming regions, and their development in the Sun's formation nebula five billion years ago may have been an important step in the development of life on Earth.   Jigsaw Star Statue: Astronomy Puzzle of the Day
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2607/LibertyNeb_Carpenter_1830.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -48,39 +49,39 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2026 Jul 19 0030 UTC
+:Issued: 2026 Jul 20 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 1 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Jul 19-Jul 21 2026 is 2.00 (below NOAA
-Scale levels).
+The greatest expected 3 hr Kp for Jul 20-Jul 22 2026 is 5.00 (NOAA Scale
+G1).
 
-NOAA Kp index breakdown Jul 19-Jul 21 2026
+NOAA Kp index breakdown Jul 20-Jul 22 2026
 
-             Jul 19       Jul 20       Jul 21
-00-03UT       1.67         1.33         1.33     
-03-06UT       2.00         2.00         2.00     
-06-09UT       1.67         2.00         2.00     
-09-12UT       1.33         1.33         1.33     
-12-15UT       0.67         1.67         1.33     
-15-18UT       0.67         0.67         0.67     
-18-21UT       1.67         0.67         0.67     
-21-00UT       1.67         1.33         1.67     
+             Jul 20       Jul 21       Jul 22
+00-03UT       1.33         1.33         4.00     
+03-06UT       2.00         2.00         4.00     
+06-09UT       2.00         2.00         4.00     
+09-12UT       1.33         1.33         4.33     
+12-15UT       1.67         1.33         5.00 (G1)
+15-18UT       0.67         2.33         5.00 (G1)
+18-21UT       0.67         3.00         4.67 (G1)
+21-00UT       1.33         4.00         4.33     
 
-Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
-significant transient or recurrent solar wind features are forecast.
+Rationale: G1 (Minor) geomagnetic storms are likely on 22 Jul due to the
+anticipated onset of influence from a negative polarity coronal hole.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Jul 19-Jul 21 2026
+Solar Radiation Storm Forecast for Jul 20-Jul 22 2026
 
-              Jul 19  Jul 20  Jul 21
+              Jul 20  Jul 21  Jul 22
 S1 or greater    1%      1%      1%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -91,13 +92,13 @@ C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Jul 19-Jul 21 2026
+Radio Blackout Forecast for Jul 20-Jul 22 2026
 
-              Jul 19        Jul 20        Jul 21
+              Jul 20        Jul 21        Jul 22
 R1-R2           15%           15%           15%
 R3 or greater    1%            1%            1%
 
-Rationale: There remains a slight chance for R1-R2 (Minor-Moderate)
-radio blackouts over 19-21 Jul.
+Rationale: There remains a chance for R1-R2 (Minor-Moderate) radio
+blackouts over 20-22 Jul.
 
 ```
