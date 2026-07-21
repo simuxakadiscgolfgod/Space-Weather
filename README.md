@@ -1,11 +1,10 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2026-07-20
-<br />**This image is owned by:**  Logan Carpenter
-<br />**Title of the image:**  NGC 3576: The Statue of Liberty Nebula
-<br />**Description for the image:**  What's happening in the Statue of Liberty nebula?  Bright stars and interesting molecules are forming and being liberated. The complex nebula resides in the star forming region called RCW 57, and besides the iconic monument, to some looks like a flying superhero or a weeping angel.  This re-assigned color image showcases dense knots of dark interstellar dust, fields of glowing hydrogen gas ionized by these stars, and great loops of gas expelled by dying stars. A detailed study of NGC 3576, also known as NGC 3582 and NGC 3584, uncovered at least 33 massive stars in the end stages of formation, and the clear presence of the complex carbon molecules known as polycyclic aromatic hydrocarbons (PAHs). PAHs are thought to be created in the cooling gas of star forming regions, and their development in the Sun's formation nebula five billion years ago may have been an important step in the development of life on Earth.   Jigsaw Star Statue: Astronomy Puzzle of the Day
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2607/LibertyNeb_Carpenter_1830.jpg
+<br />**Date image released:**  2026-07-21
+<br />**Title of the image:**  Turtle Rock on Mars
+<br />**Description for the image:**  Is this a fossilized turtle on Mars?  No.  Although resembling a large Earth tortoise, this is a layered rock outcrop on Mars that is estimated to span about 15 meters, making it much larger than turtles on Earth. NASA’s robotic Curiosity rover came across this unusual mound, dubbed Miraflores, last month during its 4922nd Martian day exploring Mars.  The small butte may survive because it was somehow more resistant to erosion than surrounding rock.  More recent wind has now covered its top with orange Martian sand.  Below the top shell, many layers of stratified rock are visible, possibly indicating a long history of intermittent wind-blown sand being deposited and then hardened by ground water.  Similar wind-eroded layered landforms, such as yardangs in the Qaidam Desert of China, exist here on Earth. Curiosity and its companion rover Perseverance continue to investigate the ancient history of Mars as well as searching for signs of primeval life.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2607/TurtleRock_Curiosity_2048.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,40 +48,41 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2026 Jul 20 0030 UTC
+:Issued: 2026 Jul 21 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 1 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Jul 20-Jul 22 2026 is 5.00 (NOAA Scale
+The greatest expected 3 hr Kp for Jul 21-Jul 23 2026 is 5.33 (NOAA Scale
 G1).
 
-NOAA Kp index breakdown Jul 20-Jul 22 2026
+NOAA Kp index breakdown Jul 21-Jul 23 2026
 
-             Jul 20       Jul 21       Jul 22
-00-03UT       1.33         1.33         4.00     
-03-06UT       2.00         2.00         4.00     
-06-09UT       2.00         2.00         4.00     
-09-12UT       1.33         1.33         4.33     
-12-15UT       1.67         1.33         5.00 (G1)
-15-18UT       0.67         2.33         5.00 (G1)
-18-21UT       0.67         3.00         4.67 (G1)
-21-00UT       1.33         4.00         4.33     
+             Jul 21       Jul 22       Jul 23
+00-03UT       1.33         3.33         4.00     
+03-06UT       2.00         3.67         3.00     
+06-09UT       2.00         3.00         2.67     
+09-12UT       1.33         3.00         2.00     
+12-15UT       1.33         4.00         2.00     
+15-18UT       2.33         4.67 (G1)    2.67     
+18-21UT       2.33         5.33 (G1)    3.00     
+21-00UT       3.00         5.00 (G1)    3.00     
 
-Rationale: G1 (Minor) geomagnetic storms are likely on 22 Jul due to the
-anticipated onset of influence from a negative polarity coronal hole.
+Rationale: G1 (Minor) geomagnetic storms are expected on 22 Jul due to
+the anticipated arrival of a CIR ahead of a negative polarity coronal
+hole high speed stream.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Jul 20-Jul 22 2026
+Solar Radiation Storm Forecast for Jul 21-Jul 23 2026
 
-              Jul 20  Jul 21  Jul 22
-S1 or greater    1%      1%      1%
+              Jul 21  Jul 22  Jul 23
+S1 or greater    5%      5%      5%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
 No significant active region activity favorable for radiation storm
@@ -90,15 +90,17 @@ production is forecast.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-No radio blackouts were observed over the past 24 hours.
+Radio blackouts reaching the R1 levels were observed over the past 24
+hours. The largest was at Jul 20 2026 2225 UTC.
 
-Radio Blackout Forecast for Jul 20-Jul 22 2026
+Radio Blackout Forecast for Jul 21-Jul 23 2026
 
-              Jul 20        Jul 21        Jul 22
-R1-R2           15%           15%           15%
-R3 or greater    1%            1%            1%
+              Jul 21        Jul 22        Jul 23
+R1-R2           40%           40%           40%
+R3 or greater    5%            5%            5%
 
-Rationale: There remains a chance for R1-R2 (Minor-Moderate) radio
-blackouts over 20-22 Jul.
+Rationale: There is a high chance for R1-R2 (Minor-Moderate) radio
+blackouts through 23 Jul primarily due to the eruptive potential of
+Region 4493.
 
 ```
