@@ -1,10 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2026-07-22
-<br />**Title of the image:**  The Corona Australis Molecular Cloud and the Chandelier Cluster
-<br />**Description for the image:**  The Southern Crown (Corona Australis) dazzles with young and ancient celestial jewels. The Corona Australis Cloud is a collage of reflection and emission nebulae on the left of today’s image. At 430 light years away, this cloud is one of the closest star-forming regions to Earth. It contains gas cool enough (-260 Celsius or -440 Fahrenheit) to collapse into protostars. Recently formed stars paint blue hues across the cloud as their light reflects off surrounding material. The waltz of the R Coronae Australis binary system stirs up the nebula NGC 6729. The younger of the pair ionizes nearby gas with its ultraviolet light, causing it to glow. The Chandelier Cluster (NGC 6723) dangles from the top right, but is actually tens of thousands of light years farther away than its apparent star-forming neighbor. While NGC 6723 experienced multiple periods of star formation creating slightly younger stars, the chandelier twinkles with stars almost as old as the universe.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2607/corona_australis.jpg
+<br />**Date image released:**  2026-07-24
+<br />**This image is owned by:**  Chinese astronomers
+<br />**Title of the image:**  RCW 86: Historical Supernova Remnant
+<br />**Description for the image:**  In 185 AD, Chinese astronomers recorded the appearance of a new star in the Nanmen asterism. That part of the sky is identified with part of the southern constellation Centaurus on modern star charts. In fact, the new star was reported to be visible to the naked-eye for months before it faded from view, and is now thought to be the earliest recorded supernova. In this 21st century telescopic image, the wispy outlines of a faint emission nebula recognized as the remnant of that historical stellar explosion can be traced against a starry background. The ragged but roughly circular extent of the nebula, cataloged as RCW 86, represents interstellar gas ionized by the supernova's still expanding shock wave. Space-based images indicate an abundance of the element iron in RCW 86 and the absence of a neutron star or pulsar within the remnant, suggesting that the original supernova was Type Ia. Unlike the core collapse supernova explosion of a massive star, a Type Ia supernova is a thermonuclear detonation on a white dwarf star that has accreted material from its companion in a binary star system. Near the plane of our Milky Way galaxy and larger than the full moon on the sky this supernova remnant is too faint to be seen by eye though. RCW 86 is some 8,000 light-years distant and around 100 light-years across.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2607/RCW86Final2048.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -48,39 +49,39 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2026 Jul 22 0030 UTC
+:Issued: 2026 Jul 24 0230 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
-Scale levels).
-The greatest expected 3 hr Kp for Jul 22-Jul 24 2026 is 5.00 (NOAA Scale
+The greatest observed 3 hr Kp over the past 24 hours was 5 (NOAA Scale
+G1).
+The greatest expected 3 hr Kp for Jul 24-Jul 26 2026 is 5.33 (NOAA Scale
 G1).
 
-NOAA Kp index breakdown Jul 22-Jul 24 2026
+NOAA Kp index breakdown Jul 24-Jul 26 2026
 
-             Jul 22       Jul 23       Jul 24
-00-03UT       3.67         4.00         3.67     
-03-06UT       5.00 (G1)    3.00         3.00     
-06-09UT       4.67 (G1)    2.67         2.67     
-09-12UT       4.00         2.00         2.67     
-12-15UT       3.33         2.00         2.00     
-15-18UT       3.00         2.67         2.00     
-18-21UT       3.00         3.33         2.33     
-21-00UT       3.67         3.67         2.67     
+             Jul 24       Jul 25       Jul 26
+00-03UT       5.00 (G1)    2.67         2.00     
+03-06UT       5.00 (G1)    2.33         1.67     
+06-09UT       4.33         2.00         1.33     
+09-12UT       3.33         1.33         1.00     
+12-15UT       2.33         1.33         1.33     
+15-18UT       2.33         1.67         1.33     
+18-21UT       3.00         2.00         1.33     
+21-00UT       4.67 (G1)    2.33         1.67     
 
-Rationale: G1 (Minor) geomagnetic storms are likely on 22 Jul due to
-negative polarity coronal hole high speed stream effects.
+Rationale: G1 (Minor) geomagnetic activity is expected on 24 July due to
+CH HSS influences and possible CME impacts.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Jul 22-Jul 24 2026
+Solar Radiation Storm Forecast for Jul 24-Jul 26 2026
 
-              Jul 22  Jul 23  Jul 24
+              Jul 24  Jul 25  Jul 26
 S1 or greater    5%      5%      5%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -89,17 +90,16 @@ production is forecast.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-Radio blackouts reaching the R1 levels were observed over the past 24
-hours. The largest was at Jul 21 2026 1727 UTC.
+No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Jul 22-Jul 24 2026
+Radio Blackout Forecast for Jul 24-Jul 26 2026
 
-              Jul 22        Jul 23        Jul 24
-R1-R2           55%           55%           55%
-R3 or greater   10%           10%           10%
+              Jul 24        Jul 25        Jul 26
+R1-R2           55%           45%           45%
+R3 or greater   10%            5%            5%
 
-Rationale: Solar activity is expected to be low with further M-class
-flares (R1-R2/Minor-Moderate) likely on 22-24 Jul primarily due to the
-flare potential of AR 4493.
+Rationale: Solar activity is expected to be low with a decreasing chance
+for further M-class flares (R1-R2/Minor-Moderate) on 24-26 Jul primarily
+due to the flare potential of AR 4493.
 
 ```
