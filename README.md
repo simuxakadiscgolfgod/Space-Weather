@@ -1,11 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2026-07-25
-<br />**This image is owned by:**  Tranquility
-<br />**Title of the image:**  Tranquility and Serenity
-<br />**Description for the image:**  The Seas of Tranquility and Serenity are calm today. They're calm most every day though, since they are actually lunar maria, ancient lava flows filling in large impact basins on the Moon. Also known by Latin names Mare Tranquillitatis (right) and Mare Serenitatis, the smooth dark lunar "seas" are in stark contrast to the bright cratered lunar highlands surrounding them in this telescopic view. Of course their names are based on the historical, pre-telescopic designations of lunar maria. Easily visible to the unaided eye, the broad features on the Moon's near side were imagined to be like the expansive oceans of planet Earth. On July 20, 1969, the Apollo 11 lunar module Eagle touched down on the Mare Tranquillitatis (at lower right), establishing Tranquility base and the first human presence on the Moon.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2607/TranquilitySerenity2048.jpg
+<br />**Date image released:**  2015-10-08
+<br />**This image is owned by:**  Robert Gendler
+<br />**Title of the image:**  M83: The Thousand-Ruby Galaxy
+<br />**Description for the image:**  Big, bright, and beautiful, spiral galaxy M83 lies a mere twelve million light-years away, near the southeastern tip of the very long constellation Hydra. Prominent spiral arms traced by dark dust lanes and blue star clusters lend this galaxy its popular name, The Southern Pinwheel.  But reddish star forming regions that dot the sweeping arms highlighted in this sparkling color composite also suggest another nickname, The Thousand-Ruby Galaxy. About 40,000 light-years across, M83 is a member of a group of galaxies that includes active galaxy Centaurus A. In fact, the core of M83 itself is bright at x-ray energies, showing a high concentration of neutron stars and black holes left from an intense burst of star formation. This sharp composite color image also features spiky foreground Milky Way stars and distant background galaxies. The image data was taken from the Subaru Telescope, the European Southern Observatory's Wide Field Imager camera, and the Hubble Legacy Archive.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/1510/gendlerM83-New-HST-ESO-LL.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,27 +49,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2026 Jul 25 0030 UTC
+:Issued: 2026 Jul 26 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Jul 25-Jul 27 2026 is 3.67 (below NOAA
+The greatest expected 3 hr Kp for Jul 26-Jul 28 2026 is 3.67 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Jul 25-Jul 27 2026
+NOAA Kp index breakdown Jul 26-Jul 28 2026
 
-             Jul 25       Jul 26       Jul 27
-00-03UT       1.67         2.00         3.00     
-03-06UT       1.33         1.67         3.00     
-06-09UT       1.33         1.33         3.00     
-09-12UT       1.33         1.00         3.33     
-12-15UT       1.33         1.33         3.00     
-15-18UT       1.33         1.33         3.67     
-18-21UT       1.67         1.33         3.67     
-21-00UT       1.67         1.67         3.33     
+             Jul 26       Jul 27       Jul 28
+00-03UT       2.00         3.00         3.67     
+03-06UT       1.67         3.00         3.33     
+06-09UT       1.33         3.00         2.00     
+09-12UT       1.00         3.33         3.00     
+12-15UT       1.33         3.00         3.33     
+15-18UT       1.33         3.33         2.00     
+18-21UT       1.33         3.67         3.33     
+21-00UT       1.67         3.67         3.00     
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
 significant transient or recurrent solar wind features are forecast.
@@ -79,9 +79,9 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Jul 25-Jul 27 2026
+Solar Radiation Storm Forecast for Jul 26-Jul 28 2026
 
-              Jul 25  Jul 26  Jul 27
+              Jul 26  Jul 27  Jul 28
 S1 or greater    5%      5%      5%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -92,14 +92,13 @@ C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Jul 25-Jul 27 2026
+Radio Blackout Forecast for Jul 26-Jul 28 2026
 
-              Jul 25        Jul 26        Jul 27
-R1-R2           35%           35%           35%
+              Jul 26        Jul 27        Jul 28
+R1-R2           35%           35%           30%
 R3 or greater    5%            5%            5%
 
-Rationale: Solar activity is expected to be at low levels with a high
-chance for M-class flares (35%) on 25-27 July due to the flare potential
-of Regions 4493 and 4494.
+Rationale: There is a chance for R1 (Minor) or greater radio blackouts
+26-28 Jul.
 
 ```
