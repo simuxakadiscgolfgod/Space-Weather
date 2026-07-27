@@ -1,11 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2015-10-08
-<br />**This image is owned by:**  Robert Gendler
-<br />**Title of the image:**  M83: The Thousand-Ruby Galaxy
-<br />**Description for the image:**  Big, bright, and beautiful, spiral galaxy M83 lies a mere twelve million light-years away, near the southeastern tip of the very long constellation Hydra. Prominent spiral arms traced by dark dust lanes and blue star clusters lend this galaxy its popular name, The Southern Pinwheel.  But reddish star forming regions that dot the sweeping arms highlighted in this sparkling color composite also suggest another nickname, The Thousand-Ruby Galaxy. About 40,000 light-years across, M83 is a member of a group of galaxies that includes active galaxy Centaurus A. In fact, the core of M83 itself is bright at x-ray energies, showing a high concentration of neutron stars and black holes left from an intense burst of star formation. This sharp composite color image also features spiky foreground Milky Way stars and distant background galaxies. The image data was taken from the Subaru Telescope, the European Southern Observatory's Wide Field Imager camera, and the Hubble Legacy Archive.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/1510/gendlerM83-New-HST-ESO-LL.jpg
+<br />**Date image released:**  2026-07-27
+<br />**This image is owned by:**  Paweł Piechnik
+<br />**Title of the image:**  NGC 7635: The Bubble Nebula
+<br />**Description for the image:**  What created this huge space bubble? Blown by the wind from a star, this tantalizing, head-like apparition is cataloged as NGC 7635, but known simply as the Bubble Nebula. Taken from Krakow, Poland, the featured view utilizes a long exposure to reveal the intricate details of this cosmic bubble and its environment. Although it looks delicate, the 10 light-year diameter bubble offers evidence of violent processes at work. Seen here right of the Bubble's center, a bright hot star is embedded in the nebula's reflecting dust. A fierce stellar wind and intense radiation from the star, which likely has a mass 10 to 20 times that of the Sun, has blasted out the structure of glowing gas against denser material in a surrounding molecular cloud. The intriguing Bubble Nebula lies a mere 11,000 light-years away toward the boastful constellation Cassiopeia.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2607/Bubble_Piechnik_1616.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,27 +49,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2026 Jul 26 0030 UTC
+:Issued: 2026 Jul 27 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Jul 26-Jul 28 2026 is 3.67 (below NOAA
+The greatest expected 3 hr Kp for Jul 27-Jul 29 2026 is 3.67 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Jul 26-Jul 28 2026
+NOAA Kp index breakdown Jul 27-Jul 29 2026
 
-             Jul 26       Jul 27       Jul 28
-00-03UT       2.00         3.00         3.67     
-03-06UT       1.67         3.00         3.33     
-06-09UT       1.33         3.00         2.00     
-09-12UT       1.00         3.33         3.00     
-12-15UT       1.33         3.00         3.33     
-15-18UT       1.33         3.33         2.00     
-18-21UT       1.33         3.67         3.33     
-21-00UT       1.67         3.67         3.00     
+             Jul 27       Jul 28       Jul 29
+00-03UT       3.00         3.67         2.67     
+03-06UT       3.00         3.33         2.00     
+06-09UT       3.00         2.00         2.00     
+09-12UT       3.33         3.00         2.00     
+12-15UT       3.00         3.33         2.00     
+15-18UT       3.33         2.00         2.00     
+18-21UT       3.67         3.33         2.00     
+21-00UT       3.67         3.00         2.33     
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
 significant transient or recurrent solar wind features are forecast.
@@ -79,9 +79,9 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Jul 26-Jul 28 2026
+Solar Radiation Storm Forecast for Jul 27-Jul 29 2026
 
-              Jul 26  Jul 27  Jul 28
+              Jul 27  Jul 28  Jul 29
 S1 or greater    5%      5%      5%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -90,15 +90,16 @@ production is forecast.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-No radio blackouts were observed over the past 24 hours.
+Radio blackouts reaching the R1 levels were observed over the past 24
+hours. The largest was at Jul 26 2026 1528 UTC.
 
-Radio Blackout Forecast for Jul 26-Jul 28 2026
+Radio Blackout Forecast for Jul 27-Jul 29 2026
 
-              Jul 26        Jul 27        Jul 28
-R1-R2           35%           35%           30%
-R3 or greater    5%            5%            5%
+              Jul 27        Jul 28        Jul 29
+R1-R2           45%           45%           45%
+R3 or greater   10%           10%           10%
 
 Rationale: There is a chance for R1 (Minor) or greater radio blackouts
-26-28 Jul.
+from one of five sunspot regions currently facing Earth.
 
 ```
