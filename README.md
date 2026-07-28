@@ -1,11 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2026-07-27
-<br />**This image is owned by:**  Paweł Piechnik
-<br />**Title of the image:**  NGC 7635: The Bubble Nebula
-<br />**Description for the image:**  What created this huge space bubble? Blown by the wind from a star, this tantalizing, head-like apparition is cataloged as NGC 7635, but known simply as the Bubble Nebula. Taken from Krakow, Poland, the featured view utilizes a long exposure to reveal the intricate details of this cosmic bubble and its environment. Although it looks delicate, the 10 light-year diameter bubble offers evidence of violent processes at work. Seen here right of the Bubble's center, a bright hot star is embedded in the nebula's reflecting dust. A fierce stellar wind and intense radiation from the star, which likely has a mass 10 to 20 times that of the Sun, has blasted out the structure of glowing gas against denser material in a surrounding molecular cloud. The intriguing Bubble Nebula lies a mere 11,000 light-years away toward the boastful constellation Cassiopeia.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2607/Bubble_Piechnik_1616.jpg
+<br />**Date image released:**  2026-07-28
+<br />**This image is owned by:**  Gonzalo Laserna Vargas
+<br />**Title of the image:**  Barnards Loop over Twin Volcanoes
+<br />**Description for the image:**  What's connecting these two volcanoes? In ancient folklore, the two volcanoes, Parinacota (left) and Pomerape (right), are connected by representing a mythical prince and princess who engaged in a forbidden romance.  Beneath the ground, the two peaks are not known to be connected by a common pool of hot magma, and neither volcano has erupted in the past 1000 years.  Above the ground, there is usually nothing in the sky that connects them -- except if you use careful timing and look from a specific location.  The featured well-planned image was captured from Bolivia in mid-April with a series of camera exposures taken on the same day and from the same location.  Then, Barnard's Loop appeared to connect the volcanic peaks. Also visible in the image is the Orion Nebula in the center, the star Betelgeuse on the right, and the Rosette Nebula on the upper right.    Sky Surprise: What picture did APOD feature on your birthday? (after 1995)
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2607/LoopVolcanos_Laserna_5815.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,27 +49,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2026 Jul 27 0030 UTC
+:Issued: 2026 Jul 28 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Jul 27-Jul 29 2026 is 3.67 (below NOAA
+The greatest expected 3 hr Kp for Jul 28-Jul 30 2026 is 3.67 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Jul 27-Jul 29 2026
+NOAA Kp index breakdown Jul 28-Jul 30 2026
 
-             Jul 27       Jul 28       Jul 29
-00-03UT       3.00         3.67         2.67     
-03-06UT       3.00         3.33         2.00     
-06-09UT       3.00         2.00         2.00     
-09-12UT       3.33         3.00         2.00     
-12-15UT       3.00         3.33         2.00     
-15-18UT       3.33         2.00         2.00     
-18-21UT       3.67         3.33         2.00     
-21-00UT       3.67         3.00         2.33     
+             Jul 28       Jul 29       Jul 30
+00-03UT       3.67         2.67         2.00     
+03-06UT       3.33         2.00         1.67     
+06-09UT       2.00         2.00         2.00     
+09-12UT       3.00         2.00         2.00     
+12-15UT       3.33         2.00         2.00     
+15-18UT       2.00         2.00         2.33     
+18-21UT       3.33         2.00         2.67     
+21-00UT       3.00         2.33         2.67     
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
 significant transient or recurrent solar wind features are forecast.
@@ -79,9 +79,9 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Jul 27-Jul 29 2026
+Solar Radiation Storm Forecast for Jul 28-Jul 30 2026
 
-              Jul 27  Jul 28  Jul 29
+              Jul 28  Jul 29  Jul 30
 S1 or greater    5%      5%      5%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -91,15 +91,15 @@ production is forecast.
 C. NOAA Radio Blackout Activity and Forecast
 
 Radio blackouts reaching the R1 levels were observed over the past 24
-hours. The largest was at Jul 26 2026 1528 UTC.
+hours. The largest was at Jul 27 2026 0243 UTC.
 
-Radio Blackout Forecast for Jul 27-Jul 29 2026
+Radio Blackout Forecast for Jul 28-Jul 30 2026
 
-              Jul 27        Jul 28        Jul 29
-R1-R2           45%           45%           45%
+              Jul 28        Jul 29        Jul 30
+R1-R2           40%           40%           40%
 R3 or greater   10%           10%           10%
 
-Rationale: There is a chance for R1 (Minor) or greater radio blackouts
-from one of five sunspot regions currently facing Earth.
+Rationale: There is a chance for R1-R2 (Minor-Moderate) radio blackouts
+and a slight chance for R3 (Strong) or greater blackouts on 28-30 Jul.
 
 ```
