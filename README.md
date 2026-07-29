@@ -1,11 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2026-07-28
-<br />**This image is owned by:**  Gonzalo Laserna Vargas
-<br />**Title of the image:**  Barnards Loop over Twin Volcanoes
-<br />**Description for the image:**  What's connecting these two volcanoes? In ancient folklore, the two volcanoes, Parinacota (left) and Pomerape (right), are connected by representing a mythical prince and princess who engaged in a forbidden romance.  Beneath the ground, the two peaks are not known to be connected by a common pool of hot magma, and neither volcano has erupted in the past 1000 years.  Above the ground, there is usually nothing in the sky that connects them -- except if you use careful timing and look from a specific location.  The featured well-planned image was captured from Bolivia in mid-April with a series of camera exposures taken on the same day and from the same location.  Then, Barnard's Loop appeared to connect the volcanic peaks. Also visible in the image is the Orion Nebula in the center, the star Betelgeuse on the right, and the Rosette Nebula on the upper right.    Sky Surprise: What picture did APOD feature on your birthday? (after 1995)
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2607/LoopVolcanos_Laserna_5815.jpg
+<br />**Date image released:**  2017-03-30
+<br />**This image is owned by:**  Lloyd L. Smith
+<br />**Title of the image:**  Young Stars and Dusty Nebulae in Taurus
+<br />**Description for the image:**  This complex of dusty nebulae lingers along the edge of the Taurus molecular cloud, a mere 450 light-years distant. Stars are forming on the cosmic scene. Composed from almost 40 hours of image data, the 2 degree wide telescopic field of view includes some youthful T-Tauri class stars embedded in the remnants of their natal clouds at the right. Millions of years old and still going through stellar adolescence, the stars are variable in brightness and in the late phases of their gravitational collapse. Their core temperatures will rise to sustain nuclear fusion as they grow into stable, low mass, main sequence stars, a stage of stellar evolution achieved by our middle-aged Sun about 4.5 billion years ago. Another youthful variable star, V1023 Tauri, can be spotted on the left. Within its yellowish dust cloud, it lies next to the striking blue reflection nebula Cederblad 30, also known as LBN 782. Just above the bright bluish reflection nebula is dusty dark nebula Barnard 7.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/1703/LBN782ProcessedLRv1-2.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,27 +49,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2026 Jul 28 0030 UTC
+:Issued: 2026 Jul 29 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Jul 28-Jul 30 2026 is 3.67 (below NOAA
+The greatest expected 3 hr Kp for Jul 29-Jul 31 2026 is 4.33 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Jul 28-Jul 30 2026
+NOAA Kp index breakdown Jul 29-Jul 31 2026
 
-             Jul 28       Jul 29       Jul 30
-00-03UT       3.67         2.67         2.00     
-03-06UT       3.33         2.00         1.67     
-06-09UT       2.00         2.00         2.00     
-09-12UT       3.00         2.00         2.00     
-12-15UT       3.33         2.00         2.00     
-15-18UT       2.00         2.00         2.33     
-18-21UT       3.33         2.00         2.67     
-21-00UT       3.00         2.33         2.67     
+             Jul 29       Jul 30       Jul 31
+00-03UT       2.67         3.00         4.00     
+03-06UT       2.00         1.67         4.33     
+06-09UT       2.00         2.00         3.00     
+09-12UT       2.00         2.00         2.33     
+12-15UT       2.00         2.00         2.00     
+15-18UT       2.00         2.67         2.00     
+18-21UT       2.67         3.33         2.33     
+21-00UT       2.67         4.00         3.00     
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
 significant transient or recurrent solar wind features are forecast.
@@ -79,10 +79,10 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Jul 28-Jul 30 2026
+Solar Radiation Storm Forecast for Jul 29-Jul 31 2026
 
-              Jul 28  Jul 29  Jul 30
-S1 or greater    5%      5%      5%
+              Jul 29  Jul 30  Jul 31
+S1 or greater    1%      1%      1%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
 No significant active region activity favorable for radiation storm
@@ -90,16 +90,15 @@ production is forecast.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-Radio blackouts reaching the R1 levels were observed over the past 24
-hours. The largest was at Jul 27 2026 0243 UTC.
+No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Jul 28-Jul 30 2026
+Radio Blackout Forecast for Jul 29-Jul 31 2026
 
-              Jul 28        Jul 29        Jul 30
-R1-R2           40%           40%           40%
-R3 or greater   10%           10%           10%
+              Jul 29        Jul 30        Jul 31
+R1-R2           30%           30%           25%
+R3 or greater    1%            1%            1%
 
-Rationale: There is a chance for R1-R2 (Minor-Moderate) radio blackouts
-and a slight chance for R3 (Strong) or greater blackouts on 28-30 Jul.
+Rationale: Solar activity is expected to be low with a chance for
+M-class flares (R1-R2, Minor-Moderate) through 30 Jul.
 
 ```
