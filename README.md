@@ -1,11 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2017-03-30
-<br />**This image is owned by:**  Lloyd L. Smith
-<br />**Title of the image:**  Young Stars and Dusty Nebulae in Taurus
-<br />**Description for the image:**  This complex of dusty nebulae lingers along the edge of the Taurus molecular cloud, a mere 450 light-years distant. Stars are forming on the cosmic scene. Composed from almost 40 hours of image data, the 2 degree wide telescopic field of view includes some youthful T-Tauri class stars embedded in the remnants of their natal clouds at the right. Millions of years old and still going through stellar adolescence, the stars are variable in brightness and in the late phases of their gravitational collapse. Their core temperatures will rise to sustain nuclear fusion as they grow into stable, low mass, main sequence stars, a stage of stellar evolution achieved by our middle-aged Sun about 4.5 billion years ago. Another youthful variable star, V1023 Tauri, can be spotted on the left. Within its yellowish dust cloud, it lies next to the striking blue reflection nebula Cederblad 30, also known as LBN 782. Just above the bright bluish reflection nebula is dusty dark nebula Barnard 7.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/1703/LBN782ProcessedLRv1-2.jpg
+<br />**Date image released:**  2026-07-31
+<br />**This image is owned by:**  Alessandro Cipolat Bares
+<br />**Title of the image:**  NGC 4372 and the Dark Doodad
+<br />**Description for the image:**  The Dark Doodad Nebula drifts through southern skies, a tantalizing target for binoculars toward the small constellation Musca, The Fly. A dusty interstellar cloud, it's seen against rich starfields just south of the Coalsack Nebula and the Southern Cross. Stretching for about 3 degrees across this telescopic field of view, the Dark Doodad is punctuated near its southern tip (upper right) by yellowish globular star cluster NGC 4372. Of course NGC 4372 roams the halo of our Milky Way galaxy, a background object some 20,000 light-years away and only by chance along our line-of-sight to the Dark Doodad. About 700 light-years distant and over 30 light-years long, the Dark Doodad's well defined silhouette belongs to the potentially star-forming Musca molecular cloud. The dusty Dark Doodad's delightfully alliterative moniker was first coined by astro-imager and writer Dennis di Cicco in 1986 while observing Comet Halley from the Australian outback.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2607/DARK-DOODAD_2048.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,27 +49,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2026 Jul 29 0030 UTC
+:Issued: 2026 Jul 31 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Jul 29-Jul 31 2026 is 4.33 (below NOAA
+The greatest expected 3 hr Kp for Jul 31-Aug 02 2026 is 4.00 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Jul 29-Jul 31 2026
+NOAA Kp index breakdown Jul 31-Aug 02 2026
 
-             Jul 29       Jul 30       Jul 31
-00-03UT       2.67         3.00         4.00     
-03-06UT       2.00         1.67         4.33     
-06-09UT       2.00         2.00         3.00     
-09-12UT       2.00         2.00         2.33     
-12-15UT       2.00         2.00         2.00     
-15-18UT       2.00         2.67         2.00     
-18-21UT       2.67         3.33         2.33     
-21-00UT       2.67         4.00         3.00     
+             Jul 31       Aug 01       Aug 02
+00-03UT       0.67         3.00         1.67     
+03-06UT       1.00         2.33         1.33     
+06-09UT       1.67         2.00         1.33     
+09-12UT       1.67         1.33         1.33     
+12-15UT       1.67         4.00         1.33     
+15-18UT       2.33         3.67         1.33     
+18-21UT       2.67         3.00         1.67     
+21-00UT       3.67         2.67         1.67     
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
 significant transient or recurrent solar wind features are forecast.
@@ -77,11 +77,11 @@ significant transient or recurrent solar wind features are forecast.
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
-below S-scale storm level thresholds.
+above S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Jul 29-Jul 31 2026
+Solar Radiation Storm Forecast for Jul 31-Aug 02 2026
 
-              Jul 29  Jul 30  Jul 31
+              Jul 31  Aug 01  Aug 02
 S1 or greater    1%      1%      1%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -90,15 +90,16 @@ production is forecast.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-No radio blackouts were observed over the past 24 hours.
+Radio blackouts reaching the R1 levels were observed over the past 24
+hours. The largest was at Jul 30 2026 1700 UTC.
 
-Radio Blackout Forecast for Jul 29-Jul 31 2026
+Radio Blackout Forecast for Jul 31-Aug 02 2026
 
-              Jul 29        Jul 30        Jul 31
-R1-R2           30%           30%           25%
+              Jul 31        Aug 01        Aug 02
+R1-R2           25%           25%           25%
 R3 or greater    1%            1%            1%
 
 Rationale: Solar activity is expected to be low with a chance for
-M-class flares (R1-R2, Minor-Moderate) through 30 Jul.
+M-class flares (R1-R2, Minor-Moderate) through 02 Aug.
 
 ```
