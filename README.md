@@ -1,11 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2026-07-31
-<br />**This image is owned by:**  Alessandro Cipolat Bares
-<br />**Title of the image:**  NGC 4372 and the Dark Doodad
-<br />**Description for the image:**  The Dark Doodad Nebula drifts through southern skies, a tantalizing target for binoculars toward the small constellation Musca, The Fly. A dusty interstellar cloud, it's seen against rich starfields just south of the Coalsack Nebula and the Southern Cross. Stretching for about 3 degrees across this telescopic field of view, the Dark Doodad is punctuated near its southern tip (upper right) by yellowish globular star cluster NGC 4372. Of course NGC 4372 roams the halo of our Milky Way galaxy, a background object some 20,000 light-years away and only by chance along our line-of-sight to the Dark Doodad. About 700 light-years distant and over 30 light-years long, the Dark Doodad's well defined silhouette belongs to the potentially star-forming Musca molecular cloud. The dusty Dark Doodad's delightfully alliterative moniker was first coined by astro-imager and writer Dennis di Cicco in 1986 while observing Comet Halley from the Australian outback.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2607/DARK-DOODAD_2048.jpg
+<br />**Date image released:**  2026-08-01
+<br />**This image is owned by:**  Branko Nadj
+<br />**Title of the image:**  Buck Moon and Belt of Venus
+<br />**Description for the image:**  The Buck Moon is a traditional name for the full moon of July. In this colorful Adriatic sea and skyscape captured on July 28 from Krk Island along the coast of Croatia, a full Buck Moon is just rising over distant mountains. Since a full moon rises as the Sun sets, Earth's shadow also rises in the twilight scene, a diffuse gray band extending above the mountainous southeastern horizon. Above Earth's shadow band is the pinkish antitwilight arch. That subtly tinted band of backscattered sunlight is more widely known as the Belt of Venus. But as it shares the eastern horizon with the atmospheric shadow of Earth and Belt of Venus, this full Buck Moon seems to set the stage for the New Moon to come. The New Moon of August 12 will cast its shadow on planet Earth in a much anticipated total solar eclipse.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2608/FullMoon28-7-2026BrankoNadj.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,57 +49,56 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2026 Jul 31 0030 UTC
+:Issued: 2026 Aug 01 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Jul 31-Aug 02 2026 is 4.00 (below NOAA
-Scale levels).
+The greatest expected 3 hr Kp for Aug 01-Aug 03 2026 is 5.67 (NOAA Scale
+G2).
 
-NOAA Kp index breakdown Jul 31-Aug 02 2026
+NOAA Kp index breakdown Aug 01-Aug 03 2026
 
-             Jul 31       Aug 01       Aug 02
-00-03UT       0.67         3.00         1.67     
-03-06UT       1.00         2.33         1.33     
-06-09UT       1.67         2.00         1.33     
-09-12UT       1.67         1.33         1.33     
-12-15UT       1.67         4.00         1.33     
-15-18UT       2.33         3.67         1.33     
-18-21UT       2.67         3.00         1.67     
-21-00UT       3.67         2.67         1.67     
+             Aug 01       Aug 02       Aug 03
+00-03UT       3.00         4.00         3.33     
+03-06UT       2.33         4.33         4.00     
+06-09UT       2.00         5.67 (G2)    3.00     
+09-12UT       1.33         4.33         2.33     
+12-15UT       3.00         5.00 (G1)    3.00     
+15-18UT       3.00         3.00         1.00     
+18-21UT       3.67         1.67         1.00     
+21-00UT       4.00         1.67         0.67     
 
-Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
-significant transient or recurrent solar wind features are forecast.
+Rationale: G1-G2 (Minor-Moderate) geomagnetic storms are likely on 02
+Aug due to the anticipated arrival of CME that left the Sun on 30 Jul.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
-above S-scale storm level thresholds.
+above S-scale storm level thresholds (S1 - Minor level).
 
-Solar Radiation Storm Forecast for Jul 31-Aug 02 2026
+Solar Radiation Storm Forecast for Aug 01-Aug 03 2026
 
-              Jul 31  Aug 01  Aug 02
-S1 or greater    1%      1%      1%
+              Aug 01  Aug 02  Aug 03
+S1 or greater   75%     25%      10%
 
-Rationale: No S1 (Minor) or greater solar radiation storms are expected.
-No significant active region activity favorable for radiation storm
-production is forecast.
+Rationale: S1 (Minor) solar radiation storms are expected on 01 Aug.
+There is a chance for S1 (Minor) radiation storms on 02 Aug and a slight
+chance on 03 Aug.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-Radio blackouts reaching the R1 levels were observed over the past 24
-hours. The largest was at Jul 30 2026 1700 UTC.
+No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Jul 31-Aug 02 2026
+Radio Blackout Forecast for Aug 01-Aug 03 2026
 
-              Jul 31        Aug 01        Aug 02
-R1-R2           25%           25%           25%
-R3 or greater    1%            1%            1%
+              Aug 01        Aug 02        Aug 03
+R1-R2           35%           35%           35%
+R3 or greater    5%            5%            5%
 
-Rationale: Solar activity is expected to be low with a chance for
-M-class flares (R1-R2, Minor-Moderate) through 02 Aug.
+Rationale: There is a chance for R1 (Minor) radio blackouts on 01-03
+Aug.
 
 ```
