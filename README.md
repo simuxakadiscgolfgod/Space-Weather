@@ -1,11 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2026-08-01
-<br />**This image is owned by:**  Branko Nadj
-<br />**Title of the image:**  Buck Moon and Belt of Venus
-<br />**Description for the image:**  The Buck Moon is a traditional name for the full moon of July. In this colorful Adriatic sea and skyscape captured on July 28 from Krk Island along the coast of Croatia, a full Buck Moon is just rising over distant mountains. Since a full moon rises as the Sun sets, Earth's shadow also rises in the twilight scene, a diffuse gray band extending above the mountainous southeastern horizon. Above Earth's shadow band is the pinkish antitwilight arch. That subtly tinted band of backscattered sunlight is more widely known as the Belt of Venus. But as it shares the eastern horizon with the atmospheric shadow of Earth and Belt of Venus, this full Buck Moon seems to set the stage for the New Moon to come. The New Moon of August 12 will cast its shadow on planet Earth in a much anticipated total solar eclipse.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2608/FullMoon28-7-2026BrankoNadj.jpg
+<br />**Date image released:**  2026-08-02
+<br />**This image is owned by:**  Christa Harbig
+<br />**Title of the image:**  A Fire Rainbow over West Virginia
+<br />**Description for the image:**  What's happening to this cloud? Ice crystals in a distant cirrus cloud are acting like little floating prisms.  Known informally as a fire rainbow for its flame-like appearance, a circumhorizon arc appears parallel to the horizon. For a circumhorizontal arc to be visible, the Sun must be at least 58 degrees high in a sky where cirrus clouds present below --  in this case cirrus fibratus.  The numerous, flat, hexagonal ice-crystals that compose the cirrus cloud must be aligned horizontally to properly refract sunlight in a collectively similar manner.  Therefore, circumhorizontal arcs are somewhat unusual to see.  The featured fire rainbow was photographed in 2021 near North Fork Mountain in West Virginia, USA.    Sky Surprise: What picture did APOD feature on your birthday? (after 1995)
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2608/FireRainbow_Harbig_4000.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,56 +49,58 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2026 Aug 01 0030 UTC
+:Issued: 2026 Aug 02 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 1 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Aug 01-Aug 03 2026 is 5.67 (NOAA Scale
+The greatest expected 3 hr Kp for Aug 02-Aug 04 2026 is 5.67 (NOAA Scale
 G2).
 
-NOAA Kp index breakdown Aug 01-Aug 03 2026
+NOAA Kp index breakdown Aug 02-Aug 04 2026
 
-             Aug 01       Aug 02       Aug 03
-00-03UT       3.00         4.00         3.33     
-03-06UT       2.33         4.33         4.00     
-06-09UT       2.00         5.67 (G2)    3.00     
-09-12UT       1.33         4.33         2.33     
-12-15UT       3.00         5.00 (G1)    3.00     
-15-18UT       3.00         3.00         1.00     
-18-21UT       3.67         1.67         1.00     
-21-00UT       4.00         1.67         0.67     
+             Aug 02       Aug 03       Aug 04
+00-03UT       5.00 (G1)    3.33         1.67     
+03-06UT       5.67 (G2)    4.00         1.67     
+06-09UT       4.67 (G1)    3.00         1.33     
+09-12UT       4.33         2.33         1.33     
+12-15UT       4.00         3.00         1.33     
+15-18UT       3.67         1.00         1.33     
+18-21UT       3.33         1.00         1.67     
+21-00UT       3.00         0.67         1.33     
 
 Rationale: G1-G2 (Minor-Moderate) geomagnetic storms are likely on 02
-Aug due to the anticipated arrival of CME that left the Sun on 30 Jul.
+Aug due to the anticipated arrival of the CME that left the Sun on 30
+Jul. Active conditions are likely to continue on 03 Aug as CME effects
+persist.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
-above S-scale storm level thresholds (S1 - Minor level).
+below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Aug 01-Aug 03 2026
+Solar Radiation Storm Forecast for Aug 02-Aug 04 2026
 
-              Aug 01  Aug 02  Aug 03
-S1 or greater   75%     25%      10%
+              Aug 02  Aug 03  Aug 04
+S1 or greater    5%      1%      1%
 
-Rationale: S1 (Minor) solar radiation storms are expected on 01 Aug.
-There is a chance for S1 (Minor) radiation storms on 02 Aug and a slight
-chance on 03 Aug.
+Rationale: No S1 (Minor) or greater solar radiation storms are expected.
+No significant active region activity favorable for radiation storm
+production is forecast.
 
 C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Aug 01-Aug 03 2026
+Radio Blackout Forecast for Aug 02-Aug 04 2026
 
-              Aug 01        Aug 02        Aug 03
-R1-R2           35%           35%           35%
+              Aug 02        Aug 03        Aug 04
+R1-R2           30%           30%           30%
 R3 or greater    5%            5%            5%
 
-Rationale: There is a chance for R1 (Minor) radio blackouts on 01-03
-Aug.
+Rationale: There is a chance for R1-R2 (Minor-Moderate) radio blackouts
+over 02-04 Aug.
 
 ```
