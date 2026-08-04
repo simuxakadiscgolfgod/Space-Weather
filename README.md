@@ -1,11 +1,10 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2026-08-03
-<br />**This image is owned by:**  Tom Burnett
-<br />**Title of the image:**  Vaporizing Meteor Photobombs the Lacerta Nebula
-<br />**Description for the image:**  What's happening to this meteor? This bright meteor streak appeared and disappeared quickly during a long exposure of the Great Lacerta Nebula, seen faintly in red toward the center of the image. The meteoroid, likely a small pebble, creates its glow partly by heating and exciting surrounding air in Earth's atmosphere, but itself vaporizes and leaves wind-blown gas and dust with colors that give clues to its composition.  The featured image was captured last month from Death Valley Observatories in Nevada, USA.  This month, though, is particularly good for seeing meteors. Presently there are three meteor showers ongoing, although they are currently competing for visibility with the glow of a bright gibbous Moon.  The most active of these showers, the Perseids, will be busiest in about 10 days -- after the Moon has dimmed considerably.  This year, the Perseids peak nearly coincides with not only a new Moon, but, from some locations, one that totally eclipses the Sun.    Sky Surprise: What picture did APOD feature on your birthday? (after 1995)
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2608/MeteorGecko_Burnett_4944.jpg
+<br />**Date image released:**  2026-08-04
+<br />**Title of the image:**  Curious Cometary Knots in the Helix Nebula
+<br />**Description for the image:**  What causes unusual knots of gas and dust in planetary nebulas?  Seen also in the Ring Nebula, the Dumbbell Nebula and NGC 2392, the knots' existence was not initially predicted, and their origins are still not well understood.  Pictured here is a fascinating image of part of the Helix Nebula by the James Webb Space Telescope showing tremendous detail in infrared light. The cometary knots have masses similar to the Earth but have sizes typically several times the orbit of Pluto.  One hypothesis for the fragmentation and evolution of the knots includes existing gas being driven out by a less dense but highly energetic stellar wind of the central evolving star.  The Helix Nebula is one of the closest examples of a planetary nebula created at the end of the life of a Sun-like star.  Given a technical designation of NGC 7293, the Helix Nebula lies about 650 light-years away towards the constellation of Water Carrier (Aquarius).   Open Science: Browse 4,000+ codes in the Astrophysics Source Code Library
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2608/HelixKnots_JWST_2000.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,41 +48,40 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2026 Aug 03 0030 UTC
+:Issued: 2026 Aug 04 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 6 (NOAA Scale
-G2).
-The greatest expected 3 hr Kp for Aug 03-Aug 05 2026 is 4.67 (NOAA Scale
-G1).
+The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
+Scale levels).
+The greatest expected 3 hr Kp for Aug 04-Aug 06 2026 is 4.00 (below NOAA
+Scale levels).
 
-NOAA Kp index breakdown Aug 03-Aug 05 2026
+NOAA Kp index breakdown Aug 04-Aug 06 2026
 
-             Aug 03       Aug 04       Aug 05
-00-03UT       4.00         3.00         1.33     
-03-06UT       4.67 (G1)    3.33         1.67     
-06-09UT       4.00         3.00         1.67     
-09-12UT       4.00         2.33         1.67     
-12-15UT       3.00         2.00         1.33     
-15-18UT       3.00         2.00         1.33     
-18-21UT       3.00         1.67         1.00     
-21-00UT       2.67         1.33         1.67     
+             Aug 04       Aug 05       Aug 06
+00-03UT       4.00         1.33         1.33     
+03-06UT       3.33         1.67         1.67     
+06-09UT       3.00         1.67         1.67     
+09-12UT       2.00         1.67         1.33     
+12-15UT       1.33         1.33         1.33     
+15-18UT       2.00         1.33         1.33     
+18-21UT       2.33         1.00         1.33     
+21-00UT       2.00         1.67         1.67     
 
-Rationale: G1 (Minor) geomagnetic storms are expected on 03 Aug as the
-CME ongoing effects persist. No G1 or greater geomagnetic storms are
-expected on 04-05 Aug, as no further transient or recurrent solar wind
-significant features are forecast.
+Rationale: No G1 (Minor) or greater geomagnetic storms are expected. 
+Unsettled to active periods are expected early on 04 Aug due to
+persistent CME activity.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Aug 03-Aug 05 2026
+Solar Radiation Storm Forecast for Aug 04-Aug 06 2026
 
-              Aug 03  Aug 04  Aug 05
+              Aug 04  Aug 05  Aug 06
 S1 or greater    1%      1%      1%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -94,14 +92,14 @@ C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Aug 03-Aug 05 2026
+Radio Blackout Forecast for Aug 04-Aug 06 2026
 
-              Aug 03        Aug 04        Aug 05
+              Aug 04        Aug 05        Aug 06
 R1-R2           20%           20%           20%
 R3 or greater    1%            1%            1%
 
-Rationale: There is a chance for R1-R2 (Minor-Moderate) radio blackouts
-on 03-05 Aug due to the flare potential of the active regions currently
-located on the visible solar disk.
+Rationale: Solar activity is expected to be low with a slight chance for
+M-class (R1-R2/Minor-Moderate) flares over 04-06 Aug primarily due to
+the potential of Regions 4498 and 4502.
 
 ```
