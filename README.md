@@ -1,10 +1,18 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2026-08-04
-<br />**Title of the image:**  Curious Cometary Knots in the Helix Nebula
-<br />**Description for the image:**  What causes unusual knots of gas and dust in planetary nebulas?  Seen also in the Ring Nebula, the Dumbbell Nebula and NGC 2392, the knots' existence was not initially predicted, and their origins are still not well understood.  Pictured here is a fascinating image of part of the Helix Nebula by the James Webb Space Telescope showing tremendous detail in infrared light. The cometary knots have masses similar to the Earth but have sizes typically several times the orbit of Pluto.  One hypothesis for the fragmentation and evolution of the knots includes existing gas being driven out by a less dense but highly energetic stellar wind of the central evolving star.  The Helix Nebula is one of the closest examples of a planetary nebula created at the end of the life of a Sun-like star.  Given a technical designation of NGC 7293, the Helix Nebula lies about 650 light-years away towards the constellation of Water Carrier (Aquarius).   Open Science: Browse 4,000+ codes in the Astrophysics Source Code Library
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2608/HelixKnots_JWST_2000.jpg
+<br />**Date image released:**  2026-08-05
+<br />**This image is owned by:**  Brad Croslin
+
+Text:
+Keighley Rockcliffe  
+(NASA
+GSFC, 
+UMBC CSST, 
+CRESST II)
+<br />**Title of the image:**  Spokes on Saturn's B Ring
+<br />**Description for the image:**  Don’t get spooked by Saturn’s ghostly spokes! Today we feature a nearly two-hour timelapse of Saturn and its rings looping forwards and backwards. A day on Saturn is only 10 hours long, so two hours of observation covers quite a bit of its rotation. If you look closely, a ghoulish shadow appears and disappears as Saturn’s B ring rotates. Decades of observation with Voyager 2, Cassini, and Hubble show the appearance of Saturn’s spokes varies with the planet’s seasons. Like Earth, Saturn’s spin axis is tilted compared to the plane of its orbit around the Sun. During Saturn’s equinox, the rings are less tilted away from the Sun and the planet receives more evenly distributed sunlight and solar wind. Although their origin is still uncertain, Saturn’s spokes may be shadows of and reflections off of dust and ice levitating above the rings caused by electromagnetic interactions between the solar wind and the planet’s magnetic field.   Find dark skies and look up this August to witness the Perseid meteor shower uninhibited by the Moon!
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2608/saturn_spokes.gif
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -48,40 +56,39 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2026 Aug 04 0030 UTC
+:Issued: 2026 Aug 05 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Aug 04-Aug 06 2026 is 4.00 (below NOAA
+The greatest expected 3 hr Kp for Aug 05-Aug 07 2026 is 3.00 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Aug 04-Aug 06 2026
+NOAA Kp index breakdown Aug 05-Aug 07 2026
 
-             Aug 04       Aug 05       Aug 06
-00-03UT       4.00         1.33         1.33     
-03-06UT       3.33         1.67         1.67     
-06-09UT       3.00         1.67         1.67     
-09-12UT       2.00         1.67         1.33     
-12-15UT       1.33         1.33         1.33     
-15-18UT       2.00         1.33         1.33     
-18-21UT       2.33         1.00         1.33     
-21-00UT       2.00         1.67         1.67     
+             Aug 05       Aug 06       Aug 07
+00-03UT       1.33         1.33         3.00     
+03-06UT       1.33         1.67         2.00     
+06-09UT       1.33         1.67         2.00     
+09-12UT       1.67         1.33         2.67     
+12-15UT       1.33         1.33         2.67     
+15-18UT       1.33         1.33         2.67     
+18-21UT       1.67         1.33         2.67     
+21-00UT       1.67         1.67         3.00     
 
-Rationale: No G1 (Minor) or greater geomagnetic storms are expected. 
-Unsettled to active periods are expected early on 04 Aug due to
-persistent CME activity.
+Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
+significant transient or recurrent solar wind features are forecast.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Aug 04-Aug 06 2026
+Solar Radiation Storm Forecast for Aug 05-Aug 07 2026
 
-              Aug 04  Aug 05  Aug 06
+              Aug 05  Aug 06  Aug 07
 S1 or greater    1%      1%      1%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -92,14 +99,14 @@ C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Aug 04-Aug 06 2026
+Radio Blackout Forecast for Aug 05-Aug 07 2026
 
-              Aug 04        Aug 05        Aug 06
-R1-R2           20%           20%           20%
+              Aug 05        Aug 06        Aug 07
+R1-R2           20%           20%           15%
 R3 or greater    1%            1%            1%
 
-Rationale: Solar activity is expected to be low with a slight chance for
-M-class (R1-R2/Minor-Moderate) flares over 04-06 Aug primarily due to
-the potential of Regions 4498 and 4502.
+Rationale: There is a slight chance for M-class (R1-R2/Minor-Moderate)
+flares 05-07 Aug, primarily due to the flare potential of Regions 4498,
+4499, and 4502.
 
 ```
