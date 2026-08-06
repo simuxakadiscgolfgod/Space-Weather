@@ -1,18 +1,10 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2026-08-05
-<br />**This image is owned by:**  Brad Croslin
-
-Text:
-Keighley Rockcliffe  
-(NASA
-GSFC, 
-UMBC CSST, 
-CRESST II)
-<br />**Title of the image:**  Spokes on Saturn's B Ring
-<br />**Description for the image:**  Don’t get spooked by Saturn’s ghostly spokes! Today we feature a nearly two-hour timelapse of Saturn and its rings looping forwards and backwards. A day on Saturn is only 10 hours long, so two hours of observation covers quite a bit of its rotation. If you look closely, a ghoulish shadow appears and disappears as Saturn’s B ring rotates. Decades of observation with Voyager 2, Cassini, and Hubble show the appearance of Saturn’s spokes varies with the planet’s seasons. Like Earth, Saturn’s spin axis is tilted compared to the plane of its orbit around the Sun. During Saturn’s equinox, the rings are less tilted away from the Sun and the planet receives more evenly distributed sunlight and solar wind. Although their origin is still uncertain, Saturn’s spokes may be shadows of and reflections off of dust and ice levitating above the rings caused by electromagnetic interactions between the solar wind and the planet’s magnetic field.   Find dark skies and look up this August to witness the Perseid meteor shower uninhibited by the Moon!
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2608/saturn_spokes.gif
+<br />**Date image released:**  2026-08-06
+<br />**Title of the image:**  New Sharpest Image of the Sun Uncovers Instability
+<br />**Description for the image:**  What does the new sharpest image of our Sun show? Instability. To be clear, a certain kind of interactive process called the Kelvin-Helmholtz instability (KHI). This instability can create waves and swirls when two streams flow past each other -- in this case variable streams of solar magnetic plasma. Long hypothesized to occur on the Sun's surface, KHI streaks and swirls were confirmed in just-released dramatic high-resolution images taken recently by the Inouye Solar Telescope in Hawaii, USA.  The featured false-yellow image, actually taken in deep blue, is the highest resolution image yet of the Sun in visible light. It spans about the radius of the Earth, but its finest details are city sized.  Visible are several smooth tops of changing solar granules, while the edges of the flower-like structures have been found to harbor multiple KHI swirls.  Future research may investigate how the KHI helps move energy, magnetic fields, and may even heat the surrounding solar corona.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2608/SunFlowers_NSO_1901.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -56,27 +48,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2026 Aug 05 0030 UTC
+:Issued: 2026 Aug 06 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 1 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Aug 05-Aug 07 2026 is 3.00 (below NOAA
+The greatest expected 3 hr Kp for Aug 06-Aug 08 2026 is 3.67 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Aug 05-Aug 07 2026
+NOAA Kp index breakdown Aug 06-Aug 08 2026
 
-             Aug 05       Aug 06       Aug 07
-00-03UT       1.33         1.33         3.00     
+             Aug 06       Aug 07       Aug 08
+00-03UT       1.00         1.67         2.67     
 03-06UT       1.33         1.67         2.00     
-06-09UT       1.33         1.67         2.00     
-09-12UT       1.67         1.33         2.67     
-12-15UT       1.33         1.33         2.67     
-15-18UT       1.33         1.33         2.67     
-18-21UT       1.67         1.33         2.67     
-21-00UT       1.67         1.67         3.00     
+06-09UT       1.33         1.33         2.33     
+09-12UT       1.00         1.33         2.67     
+12-15UT       1.00         2.67         2.67     
+15-18UT       1.00         3.33         2.00     
+18-21UT       1.00         3.67         2.00     
+21-00UT       1.33         3.33         2.33     
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
 significant transient or recurrent solar wind features are forecast.
@@ -86,9 +78,9 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Aug 05-Aug 07 2026
+Solar Radiation Storm Forecast for Aug 06-Aug 08 2026
 
-              Aug 05  Aug 06  Aug 07
+              Aug 06  Aug 07  Aug 08
 S1 or greater    1%      1%      1%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -99,14 +91,16 @@ C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Aug 05-Aug 07 2026
+Radio Blackout Forecast for Aug 06-Aug 08 2026
 
-              Aug 05        Aug 06        Aug 07
-R1-R2           20%           20%           15%
+              Aug 06        Aug 07        Aug 08
+R1-R2           15%           10%           10%
 R3 or greater    1%            1%            1%
 
-Rationale: There is a slight chance for M-class (R1-R2/Minor-Moderate)
-flares 05-07 Aug, primarily due to the flare potential of Regions 4498,
-4499, and 4502.
+Rationale: With ongoing region decay and several active regions in the
+western hemisphere expected to rotate off the disk over the coming days,
+there is a decreasing chance for M-class (R1-R2/Minor-Moderate) flares
+over 06-08 Aug. Current Solar Orbiter HMI imagery suggests no
+significant returning regions during the forecast period.
 
 ```
