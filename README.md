@@ -1,10 +1,17 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2026-08-06
-<br />**Title of the image:**  New Sharpest Image of the Sun Uncovers Instability
-<br />**Description for the image:**  What does the new sharpest image of our Sun show? Instability. To be clear, a certain kind of interactive process called the Kelvin-Helmholtz instability (KHI). This instability can create waves and swirls when two streams flow past each other -- in this case variable streams of solar magnetic plasma. Long hypothesized to occur on the Sun's surface, KHI streaks and swirls were confirmed in just-released dramatic high-resolution images taken recently by the Inouye Solar Telescope in Hawaii, USA.  The featured false-yellow image, actually taken in deep blue, is the highest resolution image yet of the Sun in visible light. It spans about the radius of the Earth, but its finest details are city sized.  Visible are several smooth tops of changing solar granules, while the edges of the flower-like structures have been found to harbor multiple KHI swirls.  Future research may investigate how the KHI helps move energy, magnetic fields, and may even heat the surrounding solar corona.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2608/SunFlowers_NSO_1901.jpg
+<br />**Date image released:**  2026-08-07
+<br />**This image is owned by:**  NSF–DOE Vera C. Rubin Observatory/NOIRLab/SLAC/AURA
+ Text: 
+Cecilia Chirenti 
+(NASA
+GSFC, 
+UMCP, 
+CRESST II)
+<br />**Title of the image:**  Rubin's COSMOS field
+<br />**Description for the image:**  There are more than half a million galaxies in the central panel of this image from the NSF-DOE Vera C. Rubin Observatory in Chile.   This is the COSMOS field, a patch of sky several times larger than the full moon, first observed by Hubble.   It has also been observed by Webb and other telescopes because it contains comparatively few bright stars from our own galaxy, offering a relatively unimpeded view of other galaxies outside the Milky Way.   The outer panels, numbered 1-10, show zoomed-in views of the corresponding small regions highlighted in the central panel.   The variety of galaxy shapes and sizes is astonishing.   Some of them are so far away that their light has traveled for billions of years before reaching Earth.   Rubin will come back every couple of days to the COSMOS field as part of its ten-year Legacy Survey of Space and Time.   It will allow a dynamic view of the COSMOS field and how the sky changes over time.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2608/noirlab2618b.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -48,27 +55,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2026 Aug 06 0030 UTC
+:Issued: 2026 Aug 07 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 1 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Aug 06-Aug 08 2026 is 3.67 (below NOAA
+The greatest expected 3 hr Kp for Aug 07-Aug 09 2026 is 3.67 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Aug 06-Aug 08 2026
+NOAA Kp index breakdown Aug 07-Aug 09 2026
 
-             Aug 06       Aug 07       Aug 08
-00-03UT       1.00         1.67         2.67     
-03-06UT       1.33         1.67         2.00     
-06-09UT       1.33         1.33         2.33     
-09-12UT       1.00         1.33         2.67     
-12-15UT       1.00         2.67         2.67     
-15-18UT       1.00         3.33         2.00     
-18-21UT       1.00         3.67         2.00     
-21-00UT       1.33         3.33         2.33     
+             Aug 07       Aug 08       Aug 09
+00-03UT       1.67         2.67         3.33     
+03-06UT       1.67         2.67         3.67     
+06-09UT       1.33         2.33         3.33     
+09-12UT       1.33         2.33         2.33     
+12-15UT       2.67         1.33         2.00     
+15-18UT       3.33         1.33         2.00     
+18-21UT       3.67         2.00         3.33     
+21-00UT       3.33         2.33         3.33     
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
 significant transient or recurrent solar wind features are forecast.
@@ -78,9 +85,9 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Aug 06-Aug 08 2026
+Solar Radiation Storm Forecast for Aug 07-Aug 09 2026
 
-              Aug 06  Aug 07  Aug 08
+              Aug 07  Aug 08  Aug 09
 S1 or greater    1%      1%      1%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -91,16 +98,13 @@ C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Aug 06-Aug 08 2026
+Radio Blackout Forecast for Aug 07-Aug 09 2026
 
-              Aug 06        Aug 07        Aug 08
-R1-R2           15%           10%           10%
+              Aug 07        Aug 08        Aug 09
+R1-R2           10%           10%            5%
 R3 or greater    1%            1%            1%
 
-Rationale: With ongoing region decay and several active regions in the
-western hemisphere expected to rotate off the disk over the coming days,
-there is a decreasing chance for M-class (R1-R2/Minor-Moderate) flares
-over 06-08 Aug. Current Solar Orbiter HMI imagery suggests no
-significant returning regions during the forecast period.
+Rationale: There is a slight chance for R1-R2 (Minor-Moderate) radio
+blackouts on 07-09 Aug.
 
 ```
