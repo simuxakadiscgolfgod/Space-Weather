@@ -1,17 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2026-08-07
-<br />**This image is owned by:**  NSF–DOE Vera C. Rubin Observatory/NOIRLab/SLAC/AURA
- Text: 
-Cecilia Chirenti 
-(NASA
-GSFC, 
-UMCP, 
-CRESST II)
-<br />**Title of the image:**  Rubin's COSMOS field
-<br />**Description for the image:**  There are more than half a million galaxies in the central panel of this image from the NSF-DOE Vera C. Rubin Observatory in Chile.   This is the COSMOS field, a patch of sky several times larger than the full moon, first observed by Hubble.   It has also been observed by Webb and other telescopes because it contains comparatively few bright stars from our own galaxy, offering a relatively unimpeded view of other galaxies outside the Milky Way.   The outer panels, numbered 1-10, show zoomed-in views of the corresponding small regions highlighted in the central panel.   The variety of galaxy shapes and sizes is astonishing.   Some of them are so far away that their light has traveled for billions of years before reaching Earth.   Rubin will come back every couple of days to the COSMOS field as part of its ten-year Legacy Survey of Space and Time.   It will allow a dynamic view of the COSMOS field and how the sky changes over time.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2608/noirlab2618b.jpg
+<br />**Date image released:**  2026-08-08
+<br />**This image is owned by:**  Dan Bartlett
+<br />**Title of the image:**  A Messier Moment for Tempel 2
+<br />**Description for the image:**  Which of these is not a comet? You guessed it - the one on the right is a globular star cluster. The diffuse greenish coma of periodic comet 10P/Tempel 2 is at left in the frame. In fact the globular star cluster is Messier 30, also known as M30, or the 30th entry in astronomer Charles Messier's catalog of things which are not comets. The well-known 18th century astronomer kept a list of objects he observed, now his famous Messier Catalogue of Nebulae and Star Clusters, which did not move from night to night against the background stars and so were not the comets he was hunting for. So the famous comet hunter would get the correct answer too, even though his telescope would show both 10P/Tempel 2 and distant star cluster as similar looking faint and fuzzy objects in his field of view. Recorded on July 29, this modern telescopic image captures periodic comet Tempel 2 as it briefly swept close on the sky to M30. While the periodic comet's faint, narrow, orbital dust trail seems to pierce the globular star cluster, Tempel 2 was a mere 3.5 light-minutes away. Messier 30 is some 28,000 light-years distant.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2608/10P_Tempel2_Globular_M30_20260729_DEBartlett.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -55,27 +49,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2026 Aug 07 0030 UTC
+:Issued: 2026 Aug 08 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 1 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Aug 07-Aug 09 2026 is 3.67 (below NOAA
+The greatest expected 3 hr Kp for Aug 08-Aug 10 2026 is 3.67 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Aug 07-Aug 09 2026
+NOAA Kp index breakdown Aug 08-Aug 10 2026
 
-             Aug 07       Aug 08       Aug 09
-00-03UT       1.67         2.67         3.33     
-03-06UT       1.67         2.67         3.67     
-06-09UT       1.33         2.33         3.33     
-09-12UT       1.33         2.33         2.33     
-12-15UT       2.67         1.33         2.00     
-15-18UT       3.33         1.33         2.00     
-18-21UT       3.67         2.00         3.33     
-21-00UT       3.33         2.33         3.33     
+             Aug 08       Aug 09       Aug 10
+00-03UT       2.67         3.33         2.33     
+03-06UT       2.67         3.67         2.00     
+06-09UT       2.33         3.33         2.00     
+09-12UT       2.33         2.33         2.00     
+12-15UT       1.33         2.00         2.00     
+15-18UT       1.33         2.00         2.00     
+18-21UT       2.00         3.33         2.00     
+21-00UT       2.33         3.33         2.33     
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
 significant transient or recurrent solar wind features are forecast.
@@ -85,9 +79,9 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Aug 07-Aug 09 2026
+Solar Radiation Storm Forecast for Aug 08-Aug 10 2026
 
-              Aug 07  Aug 08  Aug 09
+              Aug 08  Aug 09  Aug 10
 S1 or greater    1%      1%      1%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -98,13 +92,13 @@ C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Aug 07-Aug 09 2026
+Radio Blackout Forecast for Aug 08-Aug 10 2026
 
-              Aug 07        Aug 08        Aug 09
+              Aug 08        Aug 09        Aug 10
 R1-R2           10%           10%            5%
 R3 or greater    1%            1%            1%
 
-Rationale: There is a slight chance for R1-R2 (Minor-Moderate) radio
-blackouts on 07-09 Aug.
+Rationale: There is a slight chance for R1 (Minor) or greater radio
+blackouts on 08-10 Aug.
 
 ```
