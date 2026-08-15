@@ -1,18 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2026-08-13
-<br />**This image is owned by:**  Ruiyu Zhang
-
-Text:
-Keighley Rockcliffe  
-(NASA
-GSFC, 
-UMBC CSST, 
-CRESST II)
-<br />**Title of the image:**  Total Solar Eclipse Over Spain
-<br />**Description for the image:**  On August 12th, 2026, the Moon totally eclipsed the Sun and cast its shadow across Siberia, Greenland, Iceland, Spain, and Portugal. Today’s image features two total solar eclipses viewed from Zaragoza, Spain, one over the Cathedral-Basilica of Our Lady of the Pillar and the other reflecting in the Ebro River. For a few moments, Spain saw its first major total solar eclipse since 1905. Those witnessing totality may experience a chill in the air, the quieting of birds, the confused chirps of insects, and the shared awe of many. It’s the corona’s time to shine as the Sun’s bright disk is blocked by the Moon. Among other reasons to study eclipses, they help scientists understand why the corona is millions of degrees hotter than the Sun’s surface. Enthusiastic citizens can contribute to these studies by recording how wildlife responds, imaging the corona, and monitoring air temperature and clouds.  More spectacular eclipse images: Solar Eclipse of 2026 August 12
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2608/total_solar_eclipse.jpg
+<br />**Date image released:**  2026-08-15
+<br />**This image is owned by:**  Clear Skies
+<br />**Title of the image:**  Bright Perseids from Sweden
+<br />**Description for the image:**  Known for its bright and fast meteors, the annual Perseid Meteor Shower comes to planet Earth's skies from a radiant in the heroic constellation Perseus. The popular northern summer celestial spectacle is created as grains of dust cast off along the orbit of periodic comet 109P/Swift-Tuttle vaporize in Earth's dense atmosphere, tracing brief, but beautiful streaks through the night. Taken near the shower's peak of activity on August 12, this composite image recorded two bright perseid meteors and one meteor's watery reflection from a location near the coastal village of Grisslehamn, Sweden.  Almost as bright as Altair, brightest star on the scene, the meteors appear along with the faint, diffuse background of the Milky Way. This year, the shower's peak activity coincided with a New Moon, so perseid meteor flashes were undiminished by bright moonlight. And for many skywatchers, this night of bright perseid meteors followed their viewing of the silhouette of the New Moon in a much anticipated solar eclipse.  Growing Gallery: Solar Eclipse of 2026 August 12
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2608/PerseidsAPOD_P-MHeden.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -56,40 +49,39 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2026 Aug 13 0030 UTC
+:Issued: 2026 Aug 15 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Aug 13-Aug 15 2026 is 4.00 (below NOAA
+The greatest expected 3 hr Kp for Aug 15-Aug 17 2026 is 3.67 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Aug 13-Aug 15 2026
+NOAA Kp index breakdown Aug 15-Aug 17 2026
 
-             Aug 13       Aug 14       Aug 15
-00-03UT       2.00         3.67         3.67     
-03-06UT       1.67         3.33         3.33     
-06-09UT       1.33         3.00         3.00     
-09-12UT       1.00         2.67         3.00     
-12-15UT       1.33         3.00         2.33     
-15-18UT       1.67         3.33         2.67     
-18-21UT       1.67         3.33         3.00     
-21-00UT       3.00         4.00         3.00     
+             Aug 15       Aug 16       Aug 17
+00-03UT       3.33         2.33         1.67     
+03-06UT       3.33         2.00         2.33     
+06-09UT       3.00         2.67         2.00     
+09-12UT       3.00         2.33         2.33     
+12-15UT       2.33         2.33         2.33     
+15-18UT       2.67         2.33         2.33     
+18-21UT       3.00         2.33         2.33     
+21-00UT       3.00         2.67         2.33     
 
-Rationale: No G1 (Minor) or greater geomagnetic storms are expected. 
-Unsettled to active levels are expected on 14-15 Aug due to CH HSS
-effects.
+Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
+significant transient or recurrent solar wind features are forecast.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Aug 13-Aug 15 2026
+Solar Radiation Storm Forecast for Aug 15-Aug 17 2026
 
-              Aug 13  Aug 14  Aug 15
+              Aug 15  Aug 16  Aug 17
 S1 or greater    1%      1%      1%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -100,15 +92,13 @@ C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Aug 13-Aug 15 2026
+Radio Blackout Forecast for Aug 15-Aug 17 2026
 
-              Aug 13        Aug 14        Aug 15
-R1-R2           10%           15%           15%
+              Aug 15        Aug 16        Aug 17
+R1-R2           15%           15%           15%
 R3 or greater    1%            1%            1%
 
-Rationale: Solar activity is expected to be low to very low 13-15 Aug,
-though there is an increasing but slight chance for M-class
-(R1-R2/Minor-Moderate) flares, primarily driven by the development
-observed in Regions 4503 and 4507.
+Rationale: There is a slight chance for R1-R2 (Minor-Moderate) radio
+blackouts on 15-17 Aug.
 
 ```
