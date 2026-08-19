@@ -1,11 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2026-08-16
-<br />**This image is owned by:**  Dave Lane
-<br />**Title of the image:**  Milky Way over Yellowstone
-<br />**Description for the image:**  The Milky Way was not created by an evaporating lake.  The colorful pool of water, about 10 meters across, is known as Silex Spring and is located in Yellowstone National Park in Wyoming, USA.  Illuminated artificially, the colors are caused by layers of bacteria that grow in the hot spring.  Steam rises off the spring, heated by underground magma associated with the Yellowstone Hotspot.  Unrelated and far in the distance, the central band of our Milky Way Galaxy arches high overhead, a band lit by billions of stars.  The picture features a 16-image panorama taken in 2014.  If the Yellowstone Hotspot causes another supervolcanic eruption as it did about 640,000 years ago, a large part of North America would be affected.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2608/mwyellowstone_lane_1800.jpg
+<br />**Date image released:**  2016-02-01
+<br />**This image is owned by:**  Dani Caxete
+<br />**Title of the image:**  Find the Man in the Moon
+<br />**Description for the image:**  Have you ever seen the Man in the Moon? This common question plays on the ability of humans to see pareidolia -- imagining familiar icons where they don't actually exist. The textured surface of Earth's full Moon is home to numerous identifications of iconic objects, not only in modern western culture but in world folklore throughout history. Examples, typically dependent on the Moon's perceived orientation, include the Woman in the Moon and the Rabbit in the Moon. One facial outline commonly identified as the Man in the Moon starts by imagining the two dark circular areas -- lunar maria -- here just above the Moon's center, to be the eyes.  Surprisingly, there actually is a man in this Moon image -- a close look will reveal a real person -- with a telescope -- silhouetted against the Moon. This featured well-planned image was taken in mid-January in Cadalso de los Vidrios in Madrid, Spain. Do you have a favorite object that you see in the Moon?
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/1602/ManInMoon_Caxete_2770.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,40 +49,40 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2026 Aug 16 0030 UTC
+:Issued: 2026 Aug 19 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
-Scale levels).
-The greatest expected 3 hr Kp for Aug 16-Aug 18 2026 is 4.00 (below NOAA
-Scale levels).
+The greatest observed 3 hr Kp over the past 24 hours was 5 (NOAA Scale
+G1).
+The greatest expected 3 hr Kp for Aug 19-Aug 21 2026 is 4.67 (NOAA Scale
+G1).
 
-NOAA Kp index breakdown Aug 16-Aug 18 2026
+NOAA Kp index breakdown Aug 19-Aug 21 2026
 
-             Aug 16       Aug 17       Aug 18
-00-03UT       1.33         2.00         2.67     
-03-06UT       1.33         3.00         4.00     
-06-09UT       1.67         2.67         3.00     
-09-12UT       1.33         4.00         2.67     
-12-15UT       1.33         3.00         2.67     
-15-18UT       1.33         3.00         2.00     
-18-21UT       1.67         2.67         1.00     
-21-00UT       1.67         3.00         2.00     
+             Aug 19       Aug 20       Aug 21
+00-03UT       4.33         4.00         4.00     
+03-06UT       4.67 (G1)    3.33         2.00     
+06-09UT       4.00         3.33         1.67     
+09-12UT       4.67 (G1)    3.00         2.33     
+12-15UT       4.00         2.33         2.33     
+15-18UT       3.67         2.00         2.67     
+18-21UT       3.33         2.33         2.67     
+21-00UT       3.67         3.00         3.00     
 
-Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
-significant transient or recurrent solar wind features are forecast.
+Rationale: G1 (Minor) geomagnetic storms are likely on 19 Aug due to the
+influences of a CME and/or CIR.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Aug 16-Aug 18 2026
+Solar Radiation Storm Forecast for Aug 19-Aug 21 2026
 
-              Aug 16  Aug 17  Aug 18
-S1 or greater    1%      1%      1%
+              Aug 19  Aug 20  Aug 21
+S1 or greater    5%      5%      5%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
 No significant active region activity favorable for radiation storm
@@ -92,13 +92,13 @@ C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Aug 16-Aug 18 2026
+Radio Blackout Forecast for Aug 19-Aug 21 2026
 
-              Aug 16        Aug 17        Aug 18
-R1-R2           15%           15%           15%
-R3 or greater    1%            1%            1%
+              Aug 19        Aug 20        Aug 21
+R1-R2           35%           35%           35%
+R3 or greater    5%            5%            5%
 
-Rationale: There is a slight chance for R1-R2 (Minor-Moderate) radio
-blackouts on 16-18 Aug.
+Rationale: There is a chance for R1-R2 (Minor-Moderate) radio blackouts,
+with a slight chance for R3 (Strong) events through 21 Aug.
 
 ```
