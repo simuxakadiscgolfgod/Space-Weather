@@ -1,13 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2015-07-14
-<br />**This image is owned by:**  NASA,
-Johns Hopkins Univ./APL,
-Southwest Research Inst.
-<br />**Title of the image:**  New Horizons Passes Pluto and Charon
-<br />**Description for the image:**  Will the New Horizons spacecraft survive its closest approach to Pluto and return useful images and data? Humanity will know in a few hours. Regardless of how well it functions, New Horizon's rapid speed will take it whizzing past Pluto and its moons today, with the time of closest approach being at 11:50 UT (7:50 am EDT). To better take images and data, though, the robotic spacecraft was preprogrammed and taken intentionally out of contact with the Earth until about 1:00 am UT July 15, which corresponds to about 9:00 pm EDT on July 14.  Therefore, much of mankind will be holding its breath through this day, hoping that the piano-sized spacecraft communicates again with ground stations on Earth.  Hopefully, at that time, New Horizons will begin beaming back new and enlightening data about a world that has remained remote and mysterious since its discovery 85 years ago. Featured above is a New Horizons composite image of the moon Charon (left) and Pluto (right) taken 3 days ago, already showing both worlds in unprecedented detail.    Pluto flyby updates: #PlutoFlyby, Twitter, Facebook, Web, NASA TV
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/1507/PlutoCharon01_NewHorizons_1422.jpg
+<br />**Date image released:**  2026-08-22
+<br />**This image is owned by:**  Valašské Meziříčí Observatory
+<br />**Title of the image:**  Mostly Perseids
+<br />**Description for the image:**  Recorded the night of August 12-13, images from four dedicated meteor-monitoring cameras at an astronomical observatory in Czechia were aligned and combined to create this all-night, all-sky view. On that night, the total count came to 1,706 meteors. And since that coincided with the peak activity of the 2026 Perseid Meteor Shower, most are perseids. Their overwhelming numbers make them easy to spot. Quite convincingly, perseid trails all trace back to a single radiant on the sky at the upper right, a region in the annual shower's eponymous constellation Perseus. But meteors belonging to other much less active showers can also revealed by finding their radiants too. For example, seen crossing the perseid trails are meteors from a shower whose radiant lies in Cygnus, known as Kappa Cygnids. The antihelion complex, a general region near Aquarius and opposite the Sun in the sky, is also identifiable as a weak source for meteors.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2608/allsky_CEMeNt_Aug12-13final_pretty_8bit.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -51,27 +49,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2026 Aug 21 0030 UTC
+:Issued: 2026 Aug 22 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Aug 21-Aug 23 2026 is 4.00 (below NOAA
+The greatest expected 3 hr Kp for Aug 22-Aug 24 2026 is 3.33 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Aug 21-Aug 23 2026
+NOAA Kp index breakdown Aug 22-Aug 24 2026
 
-             Aug 21       Aug 22       Aug 23
-00-03UT       3.00         2.67         3.00     
-03-06UT       3.67         4.00         2.00     
-06-09UT       2.67         2.33         2.00     
-09-12UT       2.33         2.33         2.00     
-12-15UT       2.33         2.00         2.00     
-15-18UT       1.67         1.00         2.00     
-18-21UT       2.33         2.00         2.00     
-21-00UT       2.67         2.00         2.33     
+             Aug 22       Aug 23       Aug 24
+00-03UT       3.00         3.00         1.67     
+03-06UT       3.33         2.00         1.33     
+06-09UT       2.33         2.00         1.33     
+09-12UT       2.33         2.00         1.33     
+12-15UT       2.00         2.00         1.33     
+15-18UT       1.00         2.00         1.33     
+18-21UT       2.00         2.00         1.67     
+21-00UT       2.00         2.33         1.67     
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
 significant transient or recurrent solar wind features are forecast.
@@ -81,9 +79,9 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Aug 21-Aug 23 2026
+Solar Radiation Storm Forecast for Aug 22-Aug 24 2026
 
-              Aug 21  Aug 22  Aug 23
+              Aug 22  Aug 23  Aug 24
 S1 or greater    5%      5%      5%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -92,16 +90,17 @@ production is forecast.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-Radio blackouts reaching the R2 levels were observed over the past 24
-hours. The largest was at Aug 20 2026 1142 UTC.
+Radio blackouts reaching the R1 levels were observed over the past 24
+hours. The largest was at Aug 21 2026 1018 UTC.
 
-Radio Blackout Forecast for Aug 21-Aug 23 2026
+Radio Blackout Forecast for Aug 22-Aug 24 2026
 
-              Aug 21        Aug 22        Aug 23
+              Aug 22        Aug 23        Aug 24
 R1-R2           40%           40%           40%
 R3 or greater   10%           10%           10%
 
-Rationale: There is a chance for R1-R2 (Minor-Moderate), and a slight
-chance for R3 (Strong) or greater radio blackouts on 21-23 Aug.
+Rationale: There is a chance for isolated R1-R2 (Minor-Moderate) radio
+blackouts, and a slight chance for R3 (Strong) events on 22-24 Aug,
+mostly due to the flare potential of Region 4513.
 
 ```
