@@ -1,11 +1,10 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2026-08-22
-<br />**This image is owned by:**  Valašské Meziříčí Observatory
-<br />**Title of the image:**  Mostly Perseids
-<br />**Description for the image:**  Recorded the night of August 12-13, images from four dedicated meteor-monitoring cameras at an astronomical observatory in Czechia were aligned and combined to create this all-night, all-sky view. On that night, the total count came to 1,706 meteors. And since that coincided with the peak activity of the 2026 Perseid Meteor Shower, most are perseids. Their overwhelming numbers make them easy to spot. Quite convincingly, perseid trails all trace back to a single radiant on the sky at the upper right, a region in the annual shower's eponymous constellation Perseus. But meteors belonging to other much less active showers can also revealed by finding their radiants too. For example, seen crossing the perseid trails are meteors from a shower whose radiant lies in Cygnus, known as Kappa Cygnids. The antihelion complex, a general region near Aquarius and opposite the Sun in the sky, is also identifiable as a weak source for meteors.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2608/allsky_CEMeNt_Aug12-13final_pretty_8bit.jpg
+<br />**Date image released:**  2000-07-22
+<br />**Title of the image:**  GLAST Gamma Ray Sky Simulation
+<br />**Description for the image:**  What shines in the gamma-ray sky? This simulated image models the intensities of gamma rays with over 40 million times the energy of visible light,  and represents how the sky might appear to the Gamma-ray Large Area Space Telescope (GLAST) after its first year in orbit. Familiar steady stars are absent from the dramatic 80x80 degree field which looks directly away from the center of the Galaxy. Instead, the Geminga and Crab pulsars - bizarre, spinning stellar corpses known to be neutron stars - are the two brightest gamma-ray sources. These and other gamma-ray bright objects in the field, monstrous active galaxies and still unknown sources, have been detected by the Energetic Gamma-Ray Experiment Telescope (EGRET) on the orbiting Compton Gamma-Ray Observatory. However, most of the simulated sources are new - extrapolating current ideas and anticipating discoveries resulting from GLAST's improved gamma-ray vision. The central broad band of faint gamma-ray emission is due to high-energy cosmic rays colliding with interstellar gas in the outer spiral arms of the Milky Way, while below is a diffuse energetic glow from prominent molecular clouds in Monoceros, Orion, Auriga, and Taurus. Intended to explore extreme environments in the distant cosmos and planned for launch in 2005, GLAST is under development by NASA, U.S., and international partners.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/0007/anticenter_glastsim_big.gif
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,27 +48,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2026 Aug 22 0030 UTC
+:Issued: 2026 Aug 23 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 1 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Aug 22-Aug 24 2026 is 3.33 (below NOAA
+The greatest expected 3 hr Kp for Aug 23-Aug 25 2026 is 1.67 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Aug 22-Aug 24 2026
+NOAA Kp index breakdown Aug 23-Aug 25 2026
 
-             Aug 22       Aug 23       Aug 24
-00-03UT       3.00         3.00         1.67     
-03-06UT       3.33         2.00         1.33     
-06-09UT       2.33         2.00         1.33     
-09-12UT       2.33         2.00         1.33     
-12-15UT       2.00         2.00         1.33     
-15-18UT       1.00         2.00         1.33     
-18-21UT       2.00         2.00         1.67     
-21-00UT       2.00         2.33         1.67     
+             Aug 23       Aug 24       Aug 25
+00-03UT       1.67         1.67         1.67     
+03-06UT       1.33         1.33         1.67     
+06-09UT       1.33         1.33         1.33     
+09-12UT       1.33         1.33         1.33     
+12-15UT       1.33         1.33         1.33     
+15-18UT       1.33         1.33         1.33     
+18-21UT       1.67         1.67         1.67     
+21-00UT       1.67         1.67         1.33     
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
 significant transient or recurrent solar wind features are forecast.
@@ -79,9 +78,9 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Aug 22-Aug 24 2026
+Solar Radiation Storm Forecast for Aug 23-Aug 25 2026
 
-              Aug 22  Aug 23  Aug 24
+              Aug 23  Aug 24  Aug 25
 S1 or greater    5%      5%      5%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -90,17 +89,16 @@ production is forecast.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-Radio blackouts reaching the R1 levels were observed over the past 24
-hours. The largest was at Aug 21 2026 1018 UTC.
+No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Aug 22-Aug 24 2026
+Radio Blackout Forecast for Aug 23-Aug 25 2026
 
-              Aug 22        Aug 23        Aug 24
-R1-R2           40%           40%           40%
+              Aug 23        Aug 24        Aug 25
+R1-R2           45%           45%           45%
 R3 or greater   10%           10%           10%
 
-Rationale: There is a chance for isolated R1-R2 (Minor-Moderate) radio
-blackouts, and a slight chance for R3 (Strong) events on 22-24 Aug,
-mostly due to the flare potential of Region 4513.
+Rationale: There is a chance for R1-R2 (Minor-Moderate) radio blackouts,
+and a slight chance for an isolated R3 (Strong or greater) event over
+23-25 Aug.
 
 ```
