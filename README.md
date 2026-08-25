@@ -1,11 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2026-08-24
-<br />**This image is owned by:**  Spilios Asimakopoulos
-<br />**Title of the image:**  Comet 220P in Outburst
-<br />**Description for the image:**  Comet 220P is unexpectedly bright. Normally, periodic Comet 220P/McNaught is so dim that to see it requires a telescope. Two surprising outbursts this year, however, have made it about 20,000 times brighter than usual, so that it is now visible with binoculars and long-duration camera exposures. As expected, Comet 220P continues to orbit the Sun between Mars and Jupiter with a period of over 5 years.  The featured long duration exposure, taken 10 days ago from South Africa, shows the comet's bright green head and short dust tail.  Reasons for Comet 220P's impressive outbursts are unknown but could be caused by the release of built-up subsurface gas or comet quakes.  Comet 220P will pass about one Earth-Sun distance from the Earth in October, after which it is expected to fade quickly  as it begins its return to the far part of its orbit.   APOD's main NASA site is moving : From apod.nasa.gov to science.nasa.gov/apod
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2608/Comet220P_SA_4104.jpg
+<br />**Date image released:**  2026-08-25
+<br />**This image is owned by:**  Tim Martin
+<br />**Title of the image:**  Earth's Shadow Visualized with Lunar Eclipses
+<br />**Description for the image:**  What’s creating this giant hole in space? This is not a black hole — it’s a shadow.  It’s Earth’s shadow.  Since at least the time of Aristotle, people have noted that Earth's dark shadow on the Moon during a partial lunar eclipse is circular -- although never a whole circle.  Using modern digital technology, though, the images of multiple lunar eclipses can be combined to show Earth's complete shadow.  The featured image compilation by a perseistent astrophotographer is constructed from 22 years of lunar eclipses.  The Moon is not eclipsed every month (moon-th) because the Moon's orbit is slightly tilted relative to Earth's orbit.  Close inspection of some lunar eclipse images shows a faint blue band where  Earth’s atmosphere filters out more red sunlight than blue.  Later this week, a new lunar eclipse will occur and will be best visible in parts of North and South America, Europe, and Africa.    APOD's main NASA site is moving : From apod.nasa.gov to science.nasa.gov/apod
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2608/EarthShadow_Martin_4000.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,27 +49,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2026 Aug 24 0030 UTC
+:Issued: 2026 Aug 25 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Aug 24-Aug 26 2026 is 1.67 (below NOAA
+The greatest expected 3 hr Kp for Aug 25-Aug 27 2026 is 4.00 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Aug 24-Aug 26 2026
+NOAA Kp index breakdown Aug 25-Aug 27 2026
 
-             Aug 24       Aug 25       Aug 26
-00-03UT       1.67         1.67         1.67     
-03-06UT       1.67         1.67         1.67     
-06-09UT       1.67         1.33         1.67     
-09-12UT       1.33         1.33         1.33     
-12-15UT       0.67         1.33         0.67     
-15-18UT       1.33         1.33         1.33     
-18-21UT       1.67         1.67         1.67     
-21-00UT       1.67         1.33         1.67     
+             Aug 25       Aug 26       Aug 27
+00-03UT       2.67         1.67         1.67     
+03-06UT       1.67         1.67         1.33     
+06-09UT       1.67         1.67         1.33     
+09-12UT       1.67         1.33         1.67     
+12-15UT       1.67         0.67         2.33     
+15-18UT       0.67         1.33         2.67     
+18-21UT       0.67         1.67         4.00     
+21-00UT       1.33         1.67         4.00     
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
 significant transient or recurrent solar wind features are forecast.
@@ -79,26 +79,27 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Aug 24-Aug 26 2026
+Solar Radiation Storm Forecast for Aug 25-Aug 27 2026
 
-              Aug 24  Aug 25  Aug 26
-S1 or greater   10%     10%     10%
+              Aug 25  Aug 26  Aug 27
+S1 or greater   30%     10%     10%
 
-Rationale: There is a slight chance for the greater than 10 MeV proton
-flux to reach S1 (Minor) levels over 24-26 Aug.
+Rationale: There is a chance for the greater than 10 MeV proton flux to
+reach S1 (Minor) levels on 25 Aug, with a slight chance for S1 levels on
+26-27 Aug.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-No radio blackouts were observed over the past 24 hours.
+Radio blackouts reaching the R1 levels were observed over the past 24
+hours. The largest was at Aug 24 2026 1936 UTC.
 
-Radio Blackout Forecast for Aug 24-Aug 26 2026
+Radio Blackout Forecast for Aug 25-Aug 27 2026
 
-              Aug 24        Aug 25        Aug 26
+              Aug 25        Aug 26        Aug 27
 R1-R2           45%           45%           45%
 R3 or greater   10%           10%           10%
 
-Rationale: There is a chance for R1-R2 (Minor-Moderate) radio blackouts
-and a slight chance for an isolated R3 (Strong or greater) event over
-24-26 Aug.
+Rationale: There is a chance for R1-R2 (Minor-Moderate) radio blackouts,
+and a slight chance for an R3 (Strong) or greater event, over 25-27 Aug.
 
 ```
