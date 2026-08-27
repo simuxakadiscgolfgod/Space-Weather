@@ -1,4 +1,11 @@
-<br />**Date image released:**  2026-08-26
-<br />**Title of the image:**  JWST Images The Lion's Head Nebula
-<br />**Description for the image:**  Are we looking at the future of our Sun? The James Webb Space Telescope captured today’s composite image of the Lion’s Head Nebula (NGC 2392) with its NIRCam and MIRI instruments. The Lion’s Head Nebula is the remnant of a Sun-like star. This star was unable to sustain the nuclear fusion in its core needed to remain stable. It began to shed layers of gas and dust into space, forming this planetary nebula. A hot stellar core, called a white dwarf, is left behind within the lion’s nose. Do not boop this nose! Intense radiation from the white dwarf is ionizing the gas as it expands, creating the irregular bubble that makes up the lion’s face. Dust clumps that have survived the white dwarf’s radiation and a cloud of ionized gas make up the lion’s mane. This new and more detailed view of the nebula will help humanity learn more about how the gas and dust interact with each other and the white dwarf radiation.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2608/lions_head_nebula.jpg
+<br />**Date image released:**  2026-08-27
+<br />**This image is owned by:**  Victor Lima
+ Text: 
+Cecilia Chirenti 
+(NASA
+GSFC, 
+UMCP, 
+CRESST II)
+<br />**Title of the image:**  Colorful Aurora over Icelandic Waterfall
+<br />**Description for the image:**  What a sight to behold, when a night sky became filled with colors that appeared to rain over the Skógafoss waterfall in Iceland.     This image was taken in a single 5 second exposure by the photographer in April 2025.   Seeing an aurora is on many people's bucket lists.   But it is not easy.   It requires high solar activity, dark and clear skies, and usually a viewing location at high latitude.   That makes the northern lights more easily seen than the corresponding southern lights, simply because there is less landmass in the Southern Hemisphere, especially around the Antarctic Circle.   Auroras are caused by charged particles from the solar wind that are captured by the Earth's magnetosphere and guided by the magnetic field to a region close to one of the poles, where they collide with gas particles in the atmosphere.   Different colors indicate interactions with different gases at different altitudes, like oxygen (red and green) and nitrogen (blue and pink).        APOD's main NASA site is moving : From apod.nasa.gov to science.nasa.gov/apod
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2608/Aurora_over_Fall.jpg

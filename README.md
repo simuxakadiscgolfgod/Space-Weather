@@ -1,10 +1,17 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2026-08-26
-<br />**Title of the image:**  JWST Images The Lion's Head Nebula
-<br />**Description for the image:**  Are we looking at the future of our Sun? The James Webb Space Telescope captured today’s composite image of the Lion’s Head Nebula (NGC 2392) with its NIRCam and MIRI instruments. The Lion’s Head Nebula is the remnant of a Sun-like star. This star was unable to sustain the nuclear fusion in its core needed to remain stable. It began to shed layers of gas and dust into space, forming this planetary nebula. A hot stellar core, called a white dwarf, is left behind within the lion’s nose. Do not boop this nose! Intense radiation from the white dwarf is ionizing the gas as it expands, creating the irregular bubble that makes up the lion’s face. Dust clumps that have survived the white dwarf’s radiation and a cloud of ionized gas make up the lion’s mane. This new and more detailed view of the nebula will help humanity learn more about how the gas and dust interact with each other and the white dwarf radiation.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2608/lions_head_nebula.jpg
+<br />**Date image released:**  2026-08-27
+<br />**This image is owned by:**  Victor Lima
+ Text: 
+Cecilia Chirenti 
+(NASA
+GSFC, 
+UMCP, 
+CRESST II)
+<br />**Title of the image:**  Colorful Aurora over Icelandic Waterfall
+<br />**Description for the image:**  What a sight to behold, when a night sky became filled with colors that appeared to rain over the Skógafoss waterfall in Iceland.     This image was taken in a single 5 second exposure by the photographer in April 2025.   Seeing an aurora is on many people's bucket lists.   But it is not easy.   It requires high solar activity, dark and clear skies, and usually a viewing location at high latitude.   That makes the northern lights more easily seen than the corresponding southern lights, simply because there is less landmass in the Southern Hemisphere, especially around the Antarctic Circle.   Auroras are caused by charged particles from the solar wind that are captured by the Earth's magnetosphere and guided by the magnetic field to a region close to one of the poles, where they collide with gas particles in the atmosphere.   Different colors indicate interactions with different gases at different altitudes, like oxygen (red and green) and nitrogen (blue and pink).        APOD's main NASA site is moving : From apod.nasa.gov to science.nasa.gov/apod
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2608/Aurora_over_Fall.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -48,58 +55,56 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2026 Aug 26 0030 UTC
+:Issued: 2026 Aug 27 1230 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 1 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Aug 26-Aug 28 2026 is 5.67 (NOAA Scale
+The greatest expected 3 hr Kp for Aug 27-Aug 29 2026 is 5.67 (NOAA Scale
 G2).
 
-NOAA Kp index breakdown Aug 26-Aug 28 2026
+NOAA Kp index breakdown Aug 27-Aug 29 2026
 
-             Aug 26       Aug 27       Aug 28
-00-03UT       1.00         3.67         5.67 (G2)
-03-06UT       0.67         3.33         4.67 (G1)
-06-09UT       0.67         3.33         4.00     
-09-12UT       0.33         3.00         4.00     
-12-15UT       0.33         3.67         3.67     
-15-18UT       0.67         3.67         4.00     
-18-21UT       1.00         3.67         4.00     
-21-00UT       1.67         4.67 (G1)    4.67 (G1)
+             Aug 27       Aug 28       Aug 29
+00-03UT       1.33         5.67 (G2)    5.67 (G2)
+03-06UT       0.67         4.67 (G1)    4.67 (G1)
+06-09UT       0.67         4.00         4.00     
+09-12UT       0.67         4.00         3.00     
+12-15UT       3.00         3.67         2.33     
+15-18UT       3.67         4.00         2.67     
+18-21UT       4.33         4.00         2.67     
+21-00UT       4.67 (G1)    4.67 (G1)    3.00     
 
 Rationale: Isolated G1-G2 (Minor-Moderate) geomagnetic storms are likely
-on 27-28 Aug due to the combined influences of a coronal hole high speed
-stream and the arrival of a CME that left the Sun on 25 Aug.
+through 29 Aug due to both CH HSS and CME arrival influences.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Aug 26-Aug 28 2026
+Solar Radiation Storm Forecast for Aug 27-Aug 29 2026
 
-              Aug 26  Aug 27  Aug 28
+              Aug 27  Aug 28  Aug 29
 S1 or greater   10%     10%     10%
 
-Rationale: A slight chance for S1 (Minor) storms will persist through 28
-Aug given the currently level of activity and potential displayed by
-Region 4513.
+Rationale: There is a slight chance for S1 (Minor) or greater solar
+radiation storms all three days.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-Radio blackouts reaching the R2 levels were observed over the past 24
-hours. The largest was at Aug 25 2026 1002 UTC.
+No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Aug 26-Aug 28 2026
+Radio Blackout Forecast for Aug 27-Aug 29 2026
 
-              Aug 26        Aug 27        Aug 28
-R1-R2           55%           55%           55%
-R3 or greater   15%           15%           15%
+              Aug 27        Aug 28        Aug 29
+R1-R2           45%           45%           45%
+R3 or greater   10%           10%           10%
 
-Rationale: R1-R2 (Minor-Moderate) radio blackouts are likely through 28
-Aug due to the flare potential currently exhibited by Region 4513.
+Rationale: There is a strong chance for R1-R2 (Minor-Moderate) radio
+blackouts and a slight chance for R3 (Strong) or greater blackouts all
+three days.
 
 ```
