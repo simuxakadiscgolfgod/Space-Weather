@@ -1,17 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2026-08-27
-<br />**This image is owned by:**  Victor Lima
- Text: 
-Cecilia Chirenti 
-(NASA
-GSFC, 
-UMCP, 
-CRESST II)
-<br />**Title of the image:**  Colorful Aurora over Icelandic Waterfall
-<br />**Description for the image:**  What a sight to behold, when a night sky became filled with colors that appeared to rain over the Skógafoss waterfall in Iceland.     This image was taken in a single 5 second exposure by the photographer in April 2025.   Seeing an aurora is on many people's bucket lists.   But it is not easy.   It requires high solar activity, dark and clear skies, and usually a viewing location at high latitude.   That makes the northern lights more easily seen than the corresponding southern lights, simply because there is less landmass in the Southern Hemisphere, especially around the Antarctic Circle.   Auroras are caused by charged particles from the solar wind that are captured by the Earth's magnetosphere and guided by the magnetic field to a region close to one of the poles, where they collide with gas particles in the atmosphere.   Different colors indicate interactions with different gases at different altitudes, like oxygen (red and green) and nitrogen (blue and pink).        APOD's main NASA site is moving : From apod.nasa.gov to science.nasa.gov/apod
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2608/Aurora_over_Fall.jpg
+<br />**Date image released:**  2026-08-28
+<br />**This image is owned by:**  Osvaldo Castillo
+<br />**Title of the image:**  The Sky Turns Above Paranal
+<br />**Description for the image:**  At the latitude of ESO's Paranal Observatory in Chile, about 25 degrees south, Earth's rotation moves the planet's surface eastward at over 1,500 kilometers per hour. And while that's faster than the speed of sound at sea level, the motion is imperceptible. Still, that motion can be revealed in the apparent rotation of the night sky by photographing star trails. This star trail image was composed from a digital stack of 300 consecutive 25-second exposures made with a camera fixed to a tripod to trace the star trail arcs. The graceful arcs are concentric and centered at the south celestial pole, the southern hemisphere extension of Earth's axis of rotation into space. One of the observatory's operating 1.8 meter auxiliary telescopes, AT 3, appears beneath the south celestial pole, faintly illuminated in the foreground of this well-planned scene from a rotating planet.   Growing Gallery: Lunar Eclipse of 2026 August 28 APOD's main NASA site is moving: From apod.nasa.gov to science.nasa.gov/apod
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2608/TheSkyTurnsAboveParanal.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -55,56 +49,57 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2026 Aug 27 1230 UTC
+:Issued: 2026 Aug 28 1230 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 1 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Aug 27-Aug 29 2026 is 5.67 (NOAA Scale
+The greatest expected 3 hr Kp for Aug 28-Aug 30 2026 is 5.67 (NOAA Scale
 G2).
 
-NOAA Kp index breakdown Aug 27-Aug 29 2026
+NOAA Kp index breakdown Aug 28-Aug 30 2026
 
-             Aug 27       Aug 28       Aug 29
-00-03UT       1.33         5.67 (G2)    5.67 (G2)
-03-06UT       0.67         4.67 (G1)    4.67 (G1)
-06-09UT       0.67         4.00         4.00     
-09-12UT       0.67         4.00         3.00     
-12-15UT       3.00         3.67         2.33     
-15-18UT       3.67         4.00         2.67     
-18-21UT       4.33         4.00         2.67     
-21-00UT       4.67 (G1)    4.67 (G1)    3.00     
+             Aug 28       Aug 29       Aug 30
+00-03UT       1.00         5.67 (G2)    2.67     
+03-06UT       0.67         5.67 (G2)    3.67     
+06-09UT       1.00         4.67 (G1)    3.67     
+09-12UT       1.67         4.67 (G1)    2.67     
+12-15UT       2.67         3.67         1.67     
+15-18UT       3.67         3.67         1.00     
+18-21UT       4.67 (G1)    2.67         1.67     
+21-00UT       5.67 (G2)    2.67         2.67     
 
-Rationale: Isolated G1-G2 (Minor-Moderate) geomagnetic storms are likely
-through 29 Aug due to both CH HSS and CME arrival influences.
+Rationale: Periods of G1-G2 (Minor-Moderate) geomagnetic storming are
+likely on 28-29 Aug due to positive polarity CH HSS influences and the
+anticipated arrival of CMEs that left the Sun on 25-26 Aug.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Aug 27-Aug 29 2026
+Solar Radiation Storm Forecast for Aug 28-Aug 30 2026
 
-              Aug 27  Aug 28  Aug 29
-S1 or greater   10%     10%     10%
+              Aug 28  Aug 29  Aug 30
+S1 or greater    5%      5%      5%
 
-Rationale: There is a slight chance for S1 (Minor) or greater solar
-radiation storms all three days.
+Rationale: No S1 (Minor) or greater solar radiation storms are expected.
+No significant active region activity favorable for radiation storm
+production is forecast.
 
 C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Aug 27-Aug 29 2026
+Radio Blackout Forecast for Aug 28-Aug 30 2026
 
-              Aug 27        Aug 28        Aug 29
-R1-R2           45%           45%           45%
-R3 or greater   10%           10%           10%
+              Aug 28        Aug 29        Aug 30
+R1-R2           30%           30%           30%
+R3 or greater    5%            5%            5%
 
-Rationale: There is a strong chance for R1-R2 (Minor-Moderate) radio
-blackouts and a slight chance for R3 (Strong) or greater blackouts all
-three days.
+Rationale: There is a chance for R1-R2 (Minor-Moderate) radio blackouts
+on 28-30 Aug.
 
 ```
