@@ -1,40 +1,40 @@
 ```
 :Product: 3-Day Forecast
-:Issued: 2026 Aug 28 1230 UTC
+:Issued: 2026 Aug 29 1230 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 1 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Aug 28-Aug 30 2026 is 5.67 (NOAA Scale
+The greatest expected 3 hr Kp for Aug 29-Aug 31 2026 is 5.67 (NOAA Scale
 G2).
 
-NOAA Kp index breakdown Aug 28-Aug 30 2026
+NOAA Kp index breakdown Aug 29-Aug 31 2026
 
-             Aug 28       Aug 29       Aug 30
-00-03UT       1.00         5.67 (G2)    2.67     
-03-06UT       0.67         5.67 (G2)    3.67     
-06-09UT       1.00         4.67 (G1)    3.67     
-09-12UT       1.67         4.67 (G1)    2.67     
-12-15UT       2.67         3.67         1.67     
-15-18UT       3.67         3.67         1.00     
-18-21UT       4.67 (G1)    2.67         1.67     
-21-00UT       5.67 (G2)    2.67         2.67     
+             Aug 29       Aug 30       Aug 31
+00-03UT       4.33         2.67         1.67     
+03-06UT       3.33         3.67         2.00     
+06-09UT       3.67         3.67         1.67     
+09-12UT       3.00         2.67         1.67     
+12-15UT       3.00         1.67         1.00     
+15-18UT       3.67         1.00         1.00     
+18-21UT       4.67 (G1)    1.67         0.67     
+21-00UT       5.67 (G2)    2.67         2.00     
 
 Rationale: Periods of G1-G2 (Minor-Moderate) geomagnetic storming are
-likely on 28-29 Aug due to positive polarity CH HSS influences and the
-anticipated arrival of CMEs that left the Sun on 25-26 Aug.
+likely on 29 Aug due to positive polarity CH HSS influences, coupled
+with the anticipated arrival of CMEs that left the Sun on 25-26 Aug.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Aug 28-Aug 30 2026
+Solar Radiation Storm Forecast for Aug 29-Aug 31 2026
 
-              Aug 28  Aug 29  Aug 30
-S1 or greater    5%      5%      5%
+              Aug 29  Aug 30  Aug 31
+S1 or greater    1%      1%      1%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
 No significant active region activity favorable for radiation storm
@@ -44,13 +44,13 @@ C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Aug 28-Aug 30 2026
+Radio Blackout Forecast for Aug 29-Aug 31 2026
 
-              Aug 28        Aug 29        Aug 30
-R1-R2           30%           30%           30%
-R3 or greater    5%            5%            5%
+              Aug 29        Aug 30        Aug 31
+R1-R2           25%           25%           25%
+R3 or greater    1%            1%            1%
 
 Rationale: There is a chance for R1-R2 (Minor-Moderate) radio blackouts
-on 28-30 Aug.
+on 29-31 Aug.
 
 ```
