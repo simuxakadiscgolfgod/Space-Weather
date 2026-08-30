@@ -1,11 +1,10 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2026-08-29
-<br />**This image is owned by:**  Gwenaël Blanck
-<br />**Title of the image:**  Eclipse Pair
-<br />**Description for the image:**  clipses tend to come in pairs. Twice a year, during an eclipse season that lasts about 34 days, Sun, Moon, and Earth can nearly align. Then the new and full phases of the Moon, separated by just over 14 days, create a solar and a lunar eclipse. But only rarely is the alignment at both new moon and full moon during a single eclipse season close enough to produce a pair with both total solar and lunar eclipses. More often, partial eclipses are part of any eclipse season. But, the last eclipse season of 2026 did produce this fortnight-separated pairing of a total solar eclipse on August 12 (top) and an almost total lunar eclipse on the night of August 27/28. At New Moon, the solar eclipse was captured at Peñafiel, Spain near the begining of totality in this HDR composite image, revealing a flash of Bailey's beads and a golden solar corona. At the following Full Moon, the deep partial lunar eclipse was recorded from Sèvres, France. Also an HDR composite, the image shows this partial eclipse at closer to half its 93 percent maximum phase, so about half the visible lunar disk appears darkened and reddened within Earth's umbral shadow. The coming eclipse season will see an annular solar eclipse on 2027 February 6 paired with a penumbral lunar eclipse on February 20/21.   Growing Gallery: Lunar Eclipse of 2026 August 28 APOD's main NASA site is moving: From apod.nasa.gov to science.nasa.gov/apod
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2608/2026-08_12and28-EclipsePair.jpg
+<br />**Date image released:**  2026-08-30
+<br />**Title of the image:**  M74: A Grand Design Spiral
+<br />**Description for the image:**  If not the most grand, then this spiral galaxy is at least one of the most photogenic.  An island universe of about 100 billion stars, 32 million light-years away toward the constellation Pisces, M74 presents a gorgeous face-on view.  Classified as an Sc galaxy, the grand design of M74's graceful spiral arms are traced by bright blue star clusters and dark cosmic dust lanes.  Constructed from archival images, this sharp composite is from the Hubble Space Telescope.  Spanning about 30,000 light-years across the face of M74, it includes exposures recording emission from hydrogen atoms, highlighting the reddish glow of the galaxy's large star-forming regions.   APOD's main NASA site is moving: From apod.nasa.gov to science.nasa.gov/apod
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2608/m74_hst_1280.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,40 +48,39 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2026 Aug 29 1230 UTC
+:Issued: 2026 Aug 30 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Aug 29-Aug 31 2026 is 5.67 (NOAA Scale
-G2).
+The greatest expected 3 hr Kp for Aug 30-Sep 01 2026 is 3.67 (below NOAA
+Scale levels).
 
-NOAA Kp index breakdown Aug 29-Aug 31 2026
+NOAA Kp index breakdown Aug 30-Sep 01 2026
 
-             Aug 29       Aug 30       Aug 31
-00-03UT       4.33         2.67         1.67     
-03-06UT       3.33         3.67         2.00     
-06-09UT       3.67         3.67         1.67     
-09-12UT       3.00         2.67         1.67     
-12-15UT       3.00         1.67         1.00     
-15-18UT       3.67         1.00         1.00     
-18-21UT       4.67 (G1)    1.67         0.67     
-21-00UT       5.67 (G2)    2.67         2.00     
+             Aug 30       Aug 31       Sep 01
+00-03UT       2.67         1.67         1.67     
+03-06UT       3.67         2.00         1.33     
+06-09UT       3.67         1.67         1.67     
+09-12UT       2.67         1.67         1.33     
+12-15UT       1.67         1.00         1.33     
+15-18UT       1.00         1.00         1.33     
+18-21UT       1.67         0.67         1.33     
+21-00UT       2.67         2.00         1.67     
 
-Rationale: Periods of G1-G2 (Minor-Moderate) geomagnetic storming are
-likely on 29 Aug due to positive polarity CH HSS influences, coupled
-with the anticipated arrival of CMEs that left the Sun on 25-26 Aug.
+Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
+significant transient or recurrent solar wind features are forecast.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Aug 29-Aug 31 2026
+Solar Radiation Storm Forecast for Aug 30-Sep 01 2026
 
-              Aug 29  Aug 30  Aug 31
+              Aug 30  Aug 31  Sep 01
 S1 or greater    1%      1%      1%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -93,13 +91,15 @@ C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Aug 29-Aug 31 2026
+Radio Blackout Forecast for Aug 30-Sep 01 2026
 
-              Aug 29        Aug 30        Aug 31
-R1-R2           25%           25%           25%
+              Aug 30        Aug 31        Sep 01
+R1-R2           25%           25%           10%
 R3 or greater    1%            1%            1%
 
 Rationale: There is a chance for R1-R2 (Minor-Moderate) radio blackouts
-on 29-31 Aug.
+on 30-31 Aug and 01 Sep. As Region 4517 rotates off the disk, activity
+levels are expected to decrease to a slight chance for R1-R2
+(Minor-Moderate) radio blackouts.
 
 ```
