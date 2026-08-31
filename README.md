@@ -1,10 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2026-08-30
-<br />**Title of the image:**  M74: A Grand Design Spiral
-<br />**Description for the image:**  If not the most grand, then this spiral galaxy is at least one of the most photogenic.  An island universe of about 100 billion stars, 32 million light-years away toward the constellation Pisces, M74 presents a gorgeous face-on view.  Classified as an Sc galaxy, the grand design of M74's graceful spiral arms are traced by bright blue star clusters and dark cosmic dust lanes.  Constructed from archival images, this sharp composite is from the Hubble Space Telescope.  Spanning about 30,000 light-years across the face of M74, it includes exposures recording emission from hydrogen atoms, highlighting the reddish glow of the galaxy's large star-forming regions.   APOD's main NASA site is moving: From apod.nasa.gov to science.nasa.gov/apod
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2608/m74_hst_1280.jpg
+<br />**Date image released:**  2021-01-07
+<br />**This image is owned by:**  Miloslav Druckmuller
+<br />**Title of the image:**  Total Solar Eclipse 2020
+<br />**Description for the image:**  Along a narrow path crossing southern South America through Chile and Argentina, the final New Moon of 2020 moved in front of the Sun on December 14 in the year's only total solar eclipse. Within about 2 days of perigee, the closest point in its elliptical orbit, the New Moon's surface is faintly lit by earthshine in this dramatic composite view. The image is a processed composite of 55 calibrated exposures ranging from 1/640 to 3 seconds. Covering a large range in brightness during totality, it reveals the dim lunar surface and faint background stars, along with planet-sized prominences at the Sun's edge, an enormous coronal mass ejection, and sweeping coronal structures normally hidden in the Sun's glare. Look closely for an ill-fated sungrazing Kreutz family comet (C/2020 X3 SOHO) approaching from the lower left, at about the 7 o'clock position. In 2021 eclipse chasers will see an annular solar eclipse coming up on June 10. They'll have to wait until December 4 for the only total solar eclipse in 2021 though. That eclipse will be total along a narrow path crossing the southernmost continent of Antarctica.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2101/Tse_2020_400mm_dmwa-rot.png
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -48,27 +49,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2026 Aug 30 0030 UTC
+:Issued: 2026 Aug 31 1230 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Aug 30-Sep 01 2026 is 3.67 (below NOAA
+The greatest expected 3 hr Kp for Aug 31-Sep 02 2026 is 3.67 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Aug 30-Sep 01 2026
+NOAA Kp index breakdown Aug 31-Sep 02 2026
 
-             Aug 30       Aug 31       Sep 01
-00-03UT       2.67         1.67         1.67     
-03-06UT       3.67         2.00         1.33     
-06-09UT       3.67         1.67         1.67     
-09-12UT       2.67         1.67         1.33     
-12-15UT       1.67         1.00         1.33     
-15-18UT       1.00         1.00         1.33     
-18-21UT       1.67         0.67         1.33     
-21-00UT       2.67         2.00         1.67     
+             Aug 31       Sep 01       Sep 02
+00-03UT       3.00         1.67         1.67     
+03-06UT       3.33         1.67         1.67     
+06-09UT       3.33         1.67         1.67     
+09-12UT       3.33         1.33         1.33     
+12-15UT       3.67         1.33         1.33     
+15-18UT       1.67         0.67         0.67     
+18-21UT       0.67         1.33         1.33     
+21-00UT       1.67         1.67         1.67     
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
 significant transient or recurrent solar wind features are forecast.
@@ -78,9 +79,9 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Aug 30-Sep 01 2026
+Solar Radiation Storm Forecast for Aug 31-Sep 02 2026
 
-              Aug 30  Aug 31  Sep 01
+              Aug 31  Sep 01  Sep 02
 S1 or greater    1%      1%      1%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -91,15 +92,13 @@ C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Aug 30-Sep 01 2026
+Radio Blackout Forecast for Aug 31-Sep 02 2026
 
-              Aug 30        Aug 31        Sep 01
-R1-R2           25%           25%           10%
+              Aug 31        Sep 01        Sep 02
+R1-R2           10%           10%           10%
 R3 or greater    1%            1%            1%
 
-Rationale: There is a chance for R1-R2 (Minor-Moderate) radio blackouts
-on 30-31 Aug and 01 Sep. As Region 4517 rotates off the disk, activity
-levels are expected to decrease to a slight chance for R1-R2
-(Minor-Moderate) radio blackouts.
+Rationale: There is a slight chance for R1-R2 (Minor-Moderate) radio
+blackouts on 31 Aug - 02 Sep.
 
 ```
