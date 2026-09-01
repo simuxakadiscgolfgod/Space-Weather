@@ -1,11 +1,10 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2021-01-07
-<br />**This image is owned by:**  Miloslav Druckmuller
-<br />**Title of the image:**  Total Solar Eclipse 2020
-<br />**Description for the image:**  Along a narrow path crossing southern South America through Chile and Argentina, the final New Moon of 2020 moved in front of the Sun on December 14 in the year's only total solar eclipse. Within about 2 days of perigee, the closest point in its elliptical orbit, the New Moon's surface is faintly lit by earthshine in this dramatic composite view. The image is a processed composite of 55 calibrated exposures ranging from 1/640 to 3 seconds. Covering a large range in brightness during totality, it reveals the dim lunar surface and faint background stars, along with planet-sized prominences at the Sun's edge, an enormous coronal mass ejection, and sweeping coronal structures normally hidden in the Sun's glare. Look closely for an ill-fated sungrazing Kreutz family comet (C/2020 X3 SOHO) approaching from the lower left, at about the 7 o'clock position. In 2021 eclipse chasers will see an annular solar eclipse coming up on June 10. They'll have to wait until December 4 for the only total solar eclipse in 2021 though. That eclipse will be total along a narrow path crossing the southernmost continent of Antarctica.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2101/Tse_2020_400mm_dmwa-rot.png
+<br />**Date image released:**  2026-09-01
+<br />**Title of the image:**  A Plane Lunar Eclipse
+<br />**Description for the image:**  Did you need to be on the right side of this airplane to see this eclipse? No.  Lunar eclipses are routinely seen from the half of the Earth facing the Moon when the eclipse occurs, making them some of the most commonly witnessed astronomical events. You don't even need any special equipment to see one -- just your unaided eyes.  Lunar eclipses are also some of the most photographed astronomical events because, unlike with a solar eclipse, your eyes and camera do not have to look toward the bright Sun. However, considering the featured image taken last week from Portugal, if you were on the left side of that airplane during takeoff, you might have trouble seeing it -- at first. But even then, after takeoff, since lunar eclipses typically last for hours, you might soon be able to safely cross the aisle(s) to see it.   Gallery: Lunar Eclipse of 2026 August APOD's main NASA site is moving: From apod.nasa.gov to science.nasa.gov/apod
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2608/PlaneEclipse_Ferreira_1059.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,27 +48,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2026 Aug 31 1230 UTC
+:Issued: 2026 Sep 01 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Aug 31-Sep 02 2026 is 3.67 (below NOAA
+The greatest expected 3 hr Kp for Sep 01-Sep 03 2026 is 3.00 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Aug 31-Sep 02 2026
+NOAA Kp index breakdown Sep 01-Sep 03 2026
 
-             Aug 31       Sep 01       Sep 02
-00-03UT       3.00         1.67         1.67     
-03-06UT       3.33         1.67         1.67     
-06-09UT       3.33         1.67         1.67     
-09-12UT       3.33         1.33         1.33     
-12-15UT       3.67         1.33         1.33     
-15-18UT       1.67         0.67         0.67     
-18-21UT       0.67         1.33         1.33     
-21-00UT       1.67         1.67         1.67     
+             Sep 01       Sep 02       Sep 03
+00-03UT       3.00         2.00         1.67     
+03-06UT       3.00         1.67         1.67     
+06-09UT       2.00         1.67         1.33     
+09-12UT       1.33         1.33         0.67     
+12-15UT       1.33         0.67         0.67     
+15-18UT       1.67         1.33         1.33     
+18-21UT       2.00         1.33         1.33     
+21-00UT       2.00         1.67         1.33     
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
 significant transient or recurrent solar wind features are forecast.
@@ -79,9 +78,9 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Aug 31-Sep 02 2026
+Solar Radiation Storm Forecast for Sep 01-Sep 03 2026
 
-              Aug 31  Sep 01  Sep 02
+              Sep 01  Sep 02  Sep 03
 S1 or greater    1%      1%      1%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -92,13 +91,13 @@ C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Aug 31-Sep 02 2026
+Radio Blackout Forecast for Sep 01-Sep 03 2026
 
-              Aug 31        Sep 01        Sep 02
+              Sep 01        Sep 02        Sep 03
 R1-R2           10%           10%           10%
 R3 or greater    1%            1%            1%
 
 Rationale: There is a slight chance for R1-R2 (Minor-Moderate) radio
-blackouts on 31 Aug - 02 Sep.
+blackouts on 01-03 Sep.
 
 ```
