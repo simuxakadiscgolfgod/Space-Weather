@@ -1,10 +1,18 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2026-09-01
-<br />**Title of the image:**  A Plane Lunar Eclipse
-<br />**Description for the image:**  Did you need to be on the right side of this airplane to see this eclipse? No.  Lunar eclipses are routinely seen from the half of the Earth facing the Moon when the eclipse occurs, making them some of the most commonly witnessed astronomical events. You don't even need any special equipment to see one -- just your unaided eyes.  Lunar eclipses are also some of the most photographed astronomical events because, unlike with a solar eclipse, your eyes and camera do not have to look toward the bright Sun. However, considering the featured image taken last week from Portugal, if you were on the left side of that airplane during takeoff, you might have trouble seeing it -- at first. But even then, after takeoff, since lunar eclipses typically last for hours, you might soon be able to safely cross the aisle(s) to see it.   Gallery: Lunar Eclipse of 2026 August APOD's main NASA site is moving: From apod.nasa.gov to science.nasa.gov/apod
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2608/PlaneEclipse_Ferreira_1059.jpg
+<br />**Date image released:**  2026-09-02
+<br />**This image is owned by:**  Javier Castro
+
+Text:
+Keighley Rockcliffe  
+(NASA
+GSFC, 
+UMBC CSST, 
+CRESST II)
+<br />**Title of the image:**  Solar Eclipses and Culture
+<br />**Description for the image:**  Pretend you have never heard of a solar eclipse. The Sun’s behavior has been predictable your whole life. One day, you witness the sky transform as it does in today’s spliced image spanning two hours of the August 12, 2026 solar eclipse. The Sun disappears, leaving behind a bright, empty ring. What would you think had happened? Humans have interpreted eclipses in countless ways throughout history, embedding beliefs about connection, rebirth, or danger into culture. “Eclipse” comes from the Greek word “ékleipsis” meaning “abandonment”. In ancient Greece, the solar eclipse marked the anger of the gods and the Sun abandoning humanity. To the Diné people, this celestial alignment is a time of renewal. Out of respect and to avoid the danger of sunlight, the Diné stay inside until the Sun and Moon separate. The Batammariba people of Benin and Togo believe that the Sun and Moon fight during an eclipse, so the community encourages peace among themselves. Eclipses are an example of the longstanding connection between astronomy and society.   Gallery: Solar Eclipse of 2026 August 12
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2609/colors_of_eclipse.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -48,27 +56,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2026 Sep 01 0030 UTC
+:Issued: 2026 Sep 02 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Sep 01-Sep 03 2026 is 3.00 (below NOAA
+The greatest expected 3 hr Kp for Sep 02-Sep 04 2026 is 2.00 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Sep 01-Sep 03 2026
+NOAA Kp index breakdown Sep 02-Sep 04 2026
 
-             Sep 01       Sep 02       Sep 03
-00-03UT       3.00         2.00         1.67     
-03-06UT       3.00         1.67         1.67     
-06-09UT       2.00         1.67         1.33     
-09-12UT       1.33         1.33         0.67     
-12-15UT       1.33         0.67         0.67     
-15-18UT       1.67         1.33         1.33     
-18-21UT       2.00         1.33         1.33     
-21-00UT       2.00         1.67         1.33     
+             Sep 02       Sep 03       Sep 04
+00-03UT       2.00         1.67         1.33     
+03-06UT       1.67         1.67         1.67     
+06-09UT       1.67         1.33         1.67     
+09-12UT       1.33         0.33         1.33     
+12-15UT       0.33         0.67         1.00     
+15-18UT       1.33         1.33         1.33     
+18-21UT       1.33         1.33         1.67     
+21-00UT       1.67         1.33         1.33     
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
 significant transient or recurrent solar wind features are forecast.
@@ -78,9 +86,9 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Sep 01-Sep 03 2026
+Solar Radiation Storm Forecast for Sep 02-Sep 04 2026
 
-              Sep 01  Sep 02  Sep 03
+              Sep 02  Sep 03  Sep 04
 S1 or greater    1%      1%      1%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -91,13 +99,14 @@ C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Sep 01-Sep 03 2026
+Radio Blackout Forecast for Sep 02-Sep 04 2026
 
-              Sep 01        Sep 02        Sep 03
+              Sep 02        Sep 03        Sep 04
 R1-R2           10%           10%           10%
 R3 or greater    1%            1%            1%
 
-Rationale: There is a slight chance for R1-R2 (Minor-Moderate) radio
-blackouts on 01-03 Sep.
+Rationale: Solar activity will likely reach low levels with isolated to
+occasional C-class flare activity, with a slight chance for M-class
+flares (R1-R2/Minor-Moderate), through 04 Sep.
 
 ```
