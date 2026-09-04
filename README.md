@@ -1,17 +1,10 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2026-09-03
-<br />**This image is owned by:**  Włodzimierz Bubak
- Text: 
-Cecilia Chirenti 
-(NASA
-GSFC, 
-UMCP, 
-CRESST II)
-<br />**Title of the image:**  The Eclipse and the Stork
-<br />**Description for the image:**  How do animals react to a total solar eclipse?   The featured image shows a stork roosting on her nest in Poland at a partial phase of the recent total solar eclipse.   If you are lucky enough to experience a total eclipse somewhere quiet and close to nature, you may be able to notice unusual daytime animal behaviors.     During totality, you may hear nighttime sounds like crickets and frogs and see fireflies.   In the dark, most birds are quiet.   Thinking that it is time to go to bed, ducks and other waterfowl prepare to sleep on one leg, with their heads turned around and their beaks tucked into their back feathers (they don't really sleep with their heads tucked under one wing).   When sunlight returns at the end of totality, songbirds greet the new "morning" with their dawn songs.   The crickets and frogs go quiet again.   Animals and people resume their lifes, only briefly disturbed by the chance alignment of our Sun and Moon.     APOD's main NASA site is moving : From apod.nasa.gov to science.nasa.gov/apod
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2609/eclipse_stork.jpg
+<br />**Date image released:**  2026-09-04
+<br />**Title of the image:**  Nā ʻUhane Māhoe Huki Pū i ke Ola
+<br />**Description for the image:**  Nā ʻUhane Māhoe Huki Pū i ke Ola, is the Hawaiian name given to this image of a pair of spiral galaxies locked in a mutual gravitational embrace. Some 200 million light-years distant toward the high flying constellation Pegasus their spectacular, galactic scale merger is captured in sharp detail in the image from the 8.1 meter Gemini North telescope on Maunakea, Hawai‘i. The galaxy pair, known as NGC 7253 and Arp 278, was chosen as a target, researched, and given a Hawaiian name by high school students in the joint Gemini Observatory and University of Hawaiʻi Project Hōkūlani internship program.  The name translates to "The Twin Spirits Pulling Together Creating Life". That's both culturally and astronomically appropriate for galaxy collisions that trigger a cosmic maelstrom of star formation from galactic reservoirs of elemental building blocks of life. These merging galaxies are found within a region of Pegasus identified as the Hawaiian navigational constellation Ka Lupe o Kawelo.  APOD's main NASA site is moving: From apod.nasa.gov to science.nasa.gov/apod
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2609/noirlab2621a.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -55,27 +48,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2026 Sep 03 0030 UTC
+:Issued: 2026 Sep 04 0305 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Sep 03-Sep 05 2026 is 1.67 (below NOAA
+The greatest expected 3 hr Kp for Sep 04-Sep 06 2026 is 2.67 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Sep 03-Sep 05 2026
+NOAA Kp index breakdown Sep 04-Sep 06 2026
 
-             Sep 03       Sep 04       Sep 05
-00-03UT       1.67         1.33         1.67     
-03-06UT       1.67         1.67         1.33     
-06-09UT       1.33         1.67         1.33     
-09-12UT       0.33         1.33         1.33     
-12-15UT       0.67         1.00         1.33     
+             Sep 04       Sep 05       Sep 06
+00-03UT       1.33         1.67         1.67     
+03-06UT       1.67         1.33         1.67     
+06-09UT       1.67         1.33         1.33     
+09-12UT       1.33         1.33         1.33     
+12-15UT       1.00         1.33         1.33     
 15-18UT       1.33         1.33         1.33     
-18-21UT       1.33         1.67         1.67     
-21-00UT       1.33         1.33         1.67     
+18-21UT       1.67         1.67         2.00     
+21-00UT       1.33         1.67         2.67     
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
 significant transient or recurrent solar wind features are forecast.
@@ -85,10 +78,10 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Sep 03-Sep 05 2026
+Solar Radiation Storm Forecast for Sep 04-Sep 06 2026
 
-              Sep 03  Sep 04  Sep 05
-S1 or greater    5%      5%      1%
+              Sep 04  Sep 05  Sep 06
+S1 or greater    5%      1%      1%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
 No significant active region activity favorable for radiation storm
@@ -96,17 +89,16 @@ production is forecast.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-Radio blackouts reaching the R1 levels were observed over the past 24
-hours. The largest was at Sep 02 2026 1920 UTC.
+No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Sep 03-Sep 05 2026
+Radio Blackout Forecast for Sep 04-Sep 06 2026
 
-              Sep 03        Sep 04        Sep 05
-R1-R2           15%           15%           15%
+              Sep 04        Sep 05        Sep 06
+R1-R2           20%           20%           20%
 R3 or greater    1%            1%            1%
 
-Rationale: Solar activity will likely reach low levels with isolated to
-occasional C-class flare activity, with a slight chance for M-class
-flares (R1-R2/Minor-Moderate), through 05 Sep.
+Rationale: Solar activity will likely reach low levels due to occasional
+C-class flare activity, with a slight chance for M-class flares
+(R1-R2/Minor-Moderate), through 06 Sep.
 
 ```
