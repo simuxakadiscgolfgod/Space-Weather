@@ -1,56 +1,55 @@
 ```
 :Product: 3-Day Forecast
-:Issued: 2026 Sep 04 0305 UTC
+:Issued: 2026 Sep 05 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Sep 04-Sep 06 2026 is 2.67 (below NOAA
+The greatest expected 3 hr Kp for Sep 05-Sep 07 2026 is 3.67 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Sep 04-Sep 06 2026
+NOAA Kp index breakdown Sep 05-Sep 07 2026
 
-             Sep 04       Sep 05       Sep 06
-00-03UT       1.33         1.67         1.67     
-03-06UT       1.67         1.33         1.67     
-06-09UT       1.67         1.33         1.33     
-09-12UT       1.33         1.33         1.33     
-12-15UT       1.00         1.33         1.33     
-15-18UT       1.33         1.33         1.33     
-18-21UT       1.67         1.67         2.00     
-21-00UT       1.33         1.67         2.67     
+             Sep 05       Sep 06       Sep 07
+00-03UT       1.67         1.67         3.33     
+03-06UT       1.33         1.67         2.00     
+06-09UT       1.33         1.33         2.00     
+09-12UT       1.33         1.33         3.00     
+12-15UT       1.33         1.33         3.67     
+15-18UT       1.33         1.33         3.33     
+18-21UT       1.67         1.33         3.33     
+21-00UT       1.67         1.67         3.00     
 
-Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
-significant transient or recurrent solar wind features are forecast.
+Rationale: No G1 (Minor) or greater geomagnetic storms are expected
+through 07 Sep.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Sep 04-Sep 06 2026
+Solar Radiation Storm Forecast for Sep 05-Sep 07 2026
 
-              Sep 04  Sep 05  Sep 06
-S1 or greater    5%      1%      1%
+              Sep 05  Sep 06  Sep 07
+S1 or greater    1%      1%      1%
 
-Rationale: No S1 (Minor) or greater solar radiation storms are expected.
-No significant active region activity favorable for radiation storm
-production is forecast.
+Rationale: No S1 (Minor) or greater solar radiation storms are expected
+through 07 Sep.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-No radio blackouts were observed over the past 24 hours.
+Radio blackouts reaching the R1 levels were observed over the past 24
+hours. The largest was at Sep 04 2026 0753 UTC.
 
-Radio Blackout Forecast for Sep 04-Sep 06 2026
+Radio Blackout Forecast for Sep 05-Sep 07 2026
 
-              Sep 04        Sep 05        Sep 06
+              Sep 05        Sep 06        Sep 07
 R1-R2           20%           20%           20%
 R3 or greater    1%            1%            1%
 
-Rationale: Solar activity will likely reach low levels due to occasional
-C-class flare activity, with a slight chance for M-class flares
-(R1-R2/Minor-Moderate), through 06 Sep.
+Rationale: There is a slight chance for R1-R2 (Minor-Moderate) radio
+blackout events through 07 Sep.
 
 ```
