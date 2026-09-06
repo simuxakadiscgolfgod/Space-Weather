@@ -1,10 +1,10 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2026-09-05
-<br />**Title of the image:**  Chasing the Moon's Shadow
-<br />**Description for the image:**  Chasing the shadow of a New Moon, NASA’s WB-57F high altitude research aircraft took to the skies off the coast of Iceland on August 12 to observe a total solar eclipse. At 50,000 feet the aircraft was piloted along the precisely determined path of totality to maximize its time in the Moon’s shadow. A suite of high-resolution cameras on board was able to record eclipse data from above the clouds, dust, and atmospheric water vapor that interfere with observations made closer to the ground. This view from the cockpit, taken from an inflight video, captures the solar corona emerging at the beginning of totality. The sky appears dark in the shadow of the Moon. Venus is shining left of center in the video frame, while Jupiter and Mercury are just visible to the right of the eclipsed Sun. But the sky is bright along the distant horizon below, beyond the reach of the Moon's shadow.  APOD's main NASA site is moving: From apod.nasa.gov to science.nasa.gov/apod
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2609/2026Eclipse_WB57GoPro_Totality_H264_Abridged.jpg
+<br />**Date image released:**  2026-09-06
+<br />**Title of the image:**  Pluto in Enhanced Color
+<br />**Description for the image:**  Pluto is more colorful than we can see. Color data and high-resolution images of our Solar System's most famous dwarf planet, taken by the robotic New Horizons spacecraft during its flyby in 2015 July, have been digitally combined to give an enhanced-color view of this ancient world sporting an unexpectedly young surface. The featured enhanced color image is not only esthetically pretty but scientifically useful, making surface regions of differing chemical composition visually distinct. For example, the light-colored heart-shaped Tombaugh Regio on the lower right is clearly shown here to be divisible into two regions that are geologically different, with the leftmost lobe, Sputnik Planitia, also appearing unusually smooth. After Pluto, New Horizons continued on, shooting  past asteroid Arrokoth in 2019 with enough speed to escape our Solar System completely.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2609/PlutoEnhancedHiRes_NewHorizons_5000.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -48,56 +48,59 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2026 Sep 05 0030 UTC
+:Issued: 2026 Sep 06 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Sep 05-Sep 07 2026 is 3.67 (below NOAA
+The greatest expected 3 hr Kp for Sep 06-Sep 08 2026 is 3.67 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Sep 05-Sep 07 2026
+NOAA Kp index breakdown Sep 06-Sep 08 2026
 
-             Sep 05       Sep 06       Sep 07
-00-03UT       1.67         1.67         3.33     
-03-06UT       1.33         1.67         2.00     
-06-09UT       1.33         1.33         2.00     
-09-12UT       1.33         1.33         3.00     
-12-15UT       1.33         1.33         3.67     
-15-18UT       1.33         1.33         3.33     
-18-21UT       1.67         1.33         3.33     
-21-00UT       1.67         1.67         3.00     
+             Sep 06       Sep 07       Sep 08
+00-03UT       1.67         3.33         3.33     
+03-06UT       1.67         2.00         4.00     
+06-09UT       1.33         2.00         3.67     
+09-12UT       1.33         3.00         3.33     
+12-15UT       1.33         3.67         3.00     
+15-18UT       1.33         3.33         3.00     
+18-21UT       1.33         3.33         2.67     
+21-00UT       1.67         3.00         3.00     
 
-Rationale: No G1 (Minor) or greater geomagnetic storms are expected
-through 07 Sep.
+Rationale: While a CIR ahead of a positive polarity coronal high speed
+stream and CME influences are anticipated to arrive on 07-08 Sep, no G1
+(Minor) or greater geomagnetic storms are expected.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
-below S-scale storm level thresholds.
+above S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Sep 05-Sep 07 2026
+Solar Radiation Storm Forecast for Sep 06-Sep 08 2026
 
-              Sep 05  Sep 06  Sep 07
-S1 or greater    1%      1%      1%
+              Sep 06  Sep 07  Sep 08
+S1 or greater   75%     10%     10%
 
-Rationale: No S1 (Minor) or greater solar radiation storms are expected
-through 07 Sep.
+Rationale: S1 (Minor) solar radiation storms are expected on 06 Sep due
+to elevated levels from eruptive activity on 05 Sep, decreasing to a
+slight chance on 07-08 Sep, due to the source region remaining in a
+geo-effective location.
 
 C. NOAA Radio Blackout Activity and Forecast
 
 Radio blackouts reaching the R1 levels were observed over the past 24
-hours. The largest was at Sep 04 2026 0753 UTC.
+hours. The largest was at Sep 05 2026 1518 UTC.
 
-Radio Blackout Forecast for Sep 05-Sep 07 2026
+Radio Blackout Forecast for Sep 06-Sep 08 2026
 
-              Sep 05        Sep 06        Sep 07
+              Sep 06        Sep 07        Sep 08
 R1-R2           20%           20%           20%
 R3 or greater    1%            1%            1%
 
 Rationale: There is a slight chance for R1-R2 (Minor-Moderate) radio
-blackout events through 07 Sep.
+blackouts through 08 Sep.
 
 ```
