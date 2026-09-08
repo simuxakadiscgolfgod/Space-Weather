@@ -1,10 +1,10 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2026-09-06
-<br />**Title of the image:**  Pluto in Enhanced Color
-<br />**Description for the image:**  Pluto is more colorful than we can see. Color data and high-resolution images of our Solar System's most famous dwarf planet, taken by the robotic New Horizons spacecraft during its flyby in 2015 July, have been digitally combined to give an enhanced-color view of this ancient world sporting an unexpectedly young surface. The featured enhanced color image is not only esthetically pretty but scientifically useful, making surface regions of differing chemical composition visually distinct. For example, the light-colored heart-shaped Tombaugh Regio on the lower right is clearly shown here to be divisible into two regions that are geologically different, with the leftmost lobe, Sputnik Planitia, also appearing unusually smooth. After Pluto, New Horizons continued on, shooting  past asteroid Arrokoth in 2019 with enough speed to escape our Solar System completely.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2609/PlutoEnhancedHiRes_NewHorizons_5000.jpg
+<br />**Date image released:**  2026-09-08
+<br />**Title of the image:**  Hubble: Decagon Around Saturn's South Pole
+<br />**Description for the image:**  Why are Saturn’s poles geometric? Saturn’s North Pole has been known to be surrounded by a hexagonal (6 sides) cloud since discovery in 1987 in data taken by NASA’s Voyager spacecrafts, which quickly flew past the ringed world in the early 1980s.  Now, recent observations of Saturn by the Hubble Space Telescope reveal a slightly different geometric cloud pattern around the South Pole: a decagon (10 sides).  The geometric boundaries are possibly caused by waves when the fast-moving gas away from the poles interacts with slower-moving gas closer to the poles.  In the featured image composite by the Hubble taken last year, the South Pole of Saturn is marked by an X and surrounded by bands of circulating clouds.  The decagon appears most prominent in the dark inner regions.  The northern hexagon has proven stable for over 40 years, while the stability of the southern decagon will surely remain a topic of research.   APOD's main NASA site is moving: From apod.nasa.gov to science.nasa.gov/apod
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2609/SaturnDecagon_Hubble_960.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -48,59 +48,58 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2026 Sep 06 0030 UTC
+:Issued: 2026 Sep 08 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Sep 06-Sep 08 2026 is 3.67 (below NOAA
-Scale levels).
+The greatest expected 3 hr Kp for Sep 08-Sep 10 2026 is 5.00 (NOAA Scale
+G1).
 
-NOAA Kp index breakdown Sep 06-Sep 08 2026
+NOAA Kp index breakdown Sep 08-Sep 10 2026
 
-             Sep 06       Sep 07       Sep 08
-00-03UT       1.67         3.33         3.33     
-03-06UT       1.67         2.00         4.00     
-06-09UT       1.33         2.00         3.67     
-09-12UT       1.33         3.00         3.33     
-12-15UT       1.33         3.67         3.00     
-15-18UT       1.33         3.33         3.00     
-18-21UT       1.33         3.33         2.67     
-21-00UT       1.67         3.00         3.00     
+             Sep 08       Sep 09       Sep 10
+00-03UT       4.33         3.67         3.00     
+03-06UT       4.33         4.67 (G1)    2.67     
+06-09UT       4.67 (G1)    5.00 (G1)    2.33     
+09-12UT       4.67 (G1)    3.67         2.00     
+12-15UT       4.67 (G1)    3.33         2.00     
+15-18UT       4.00         3.33         0.67     
+18-21UT       4.33         3.00         1.33     
+21-00UT       3.33         2.67         1.33     
 
-Rationale: While a CIR ahead of a positive polarity coronal high speed
-stream and CME influences are anticipated to arrive on 07-08 Sep, no G1
-(Minor) or greater geomagnetic storms are expected.
+Rationale: G1 (Minor) geomagnetic storms are likely through 09 Sep due
+to combined positive polarity CH HSS effects and the anticipated arrival
+of CMEs that left the Sun on 05 and 06 Sep.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
-above S-scale storm level thresholds.
+below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Sep 06-Sep 08 2026
+Solar Radiation Storm Forecast for Sep 08-Sep 10 2026
 
-              Sep 06  Sep 07  Sep 08
-S1 or greater   75%     10%     10%
+              Sep 08  Sep 09  Sep 10
+S1 or greater    1%      1%      1%
 
-Rationale: S1 (Minor) solar radiation storms are expected on 06 Sep due
-to elevated levels from eruptive activity on 05 Sep, decreasing to a
-slight chance on 07-08 Sep, due to the source region remaining in a
-geo-effective location.
+Rationale: No S1 (Minor) or greater solar radiation storms are expected.
+No significant active region activity favorable for radiation storm
+production is forecast.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-Radio blackouts reaching the R1 levels were observed over the past 24
-hours. The largest was at Sep 05 2026 1518 UTC.
+No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Sep 06-Sep 08 2026
+Radio Blackout Forecast for Sep 08-Sep 10 2026
 
-              Sep 06        Sep 07        Sep 08
-R1-R2           20%           20%           20%
+              Sep 08        Sep 09        Sep 10
+R1-R2           15%           15%           15%
 R3 or greater    1%            1%            1%
 
-Rationale: There is a slight chance for R1-R2 (Minor-Moderate) radio
-blackouts through 08 Sep.
+Rationale: Solar activity is likely to be at low levels due to
+occasional C-class flare activity, with a slight chance for M-class
+flares (R1-R2/Minor-Moderate) through 10 Sep.
 
 ```
