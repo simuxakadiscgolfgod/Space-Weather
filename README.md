@@ -1,11 +1,17 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2009-01-03
-<br />**This image is owned by:**  Dark Atmospheres
-<br />**Title of the image:**  Double Cluster in Perseus
-<br />**Description for the image:**  Some 7,000 light-years away, this pair of open or galactic star clusters is an easy binocular target, a lovely starfield in the northern constellation Perseus. Also visible to the unaided eye from dark sky areas, it was cataloged in 130 BC by Greek astronomer Hipparchus. Now known as h and chi Persei, or NGC 869(above right) and NGC 884, the clusters themselves are separated by only a few hundred light-years and contain stars much younger and hotter than the Sun.  In addition to being physically close together, the clusters' ages based on their individual stars are similar - evidence that both clusters were likely a product of the same star-forming region.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/0901/clusters_2_ritter.jpg
+<br />**Date image released:**  2026-09-10
+<br />**This image is owned by:**  Alessandro Merga
+ Text: 
+Cecilia Chirenti 
+(NASA
+GSFC, 
+UMCP, 
+CRESST II)
+<br />**Title of the image:**  LDN 1295: The Giraffe Nebula
+<br />**Description for the image:**  What does this image look like to you?   Many see a giraffe facing right, with neck stretched high and long legs mid-stride (but some may see a squirrel instead).   The featured image shows LDN 1295, also called the Giraffe Nebula, in the constellation of the mythical queen of Aethiopia (Cassiopeia).   It is an object in the Lynds Catalogue of Dark Nebulas, compiled in 1962 by American astronomer Beverly Lynds, a pioneer for women in astronomy and astrophysics.   Dark nebulas are interstellar clouds of dust and gas that block the visible light of the stars behind them.   These nebulas are often faint and challenging targets for astrophotographers.   Why do we see animal shapes and faces in nebulas, clouds, and pretty much everywhere?   It is due to pareidolia, our tendency to look for familiar patterns.   Pareidolia may provide animals with an evolutionary advantage, for example in identifying (and avoiding) predators.     APOD's main NASA site is moving : From apod.nasa.gov to science.nasa.gov/apod
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2609/LDN1295_giraffe.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,41 +55,39 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2026 Sep 09 0030 UTC
+:Issued: 2026 Sep 10 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 5 (NOAA Scale
-G1).
-The greatest expected 3 hr Kp for Sep 09-Sep 11 2026 is 5.67 (NOAA Scale
-G2).
+The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
+Scale levels).
+The greatest expected 3 hr Kp for Sep 10-Sep 12 2026 is 3.00 (below NOAA
+Scale levels).
 
-NOAA Kp index breakdown Sep 09-Sep 11 2026
+NOAA Kp index breakdown Sep 10-Sep 12 2026
 
-             Sep 09       Sep 10       Sep 11
-00-03UT       5.00 (G1)    3.00         2.00     
-03-06UT       5.67 (G2)    2.67         2.33     
-06-09UT       4.00         2.67         2.00     
-09-12UT       3.33         2.33         2.00     
-12-15UT       2.67         1.33         2.33     
-15-18UT       3.00         2.00         2.67     
-18-21UT       3.00         2.00         2.67     
-21-00UT       3.33         2.33         3.00     
+             Sep 10       Sep 11       Sep 12
+00-03UT       3.00         2.00         2.33     
+03-06UT       2.67         2.33         2.67     
+06-09UT       2.67         2.00         2.67     
+09-12UT       2.33         2.00         2.33     
+12-15UT       1.33         2.33         1.33     
+15-18UT       2.00         2.67         1.00     
+18-21UT       2.00         2.67         2.00     
+21-00UT       2.33         3.00         2.33     
 
-Rationale: G1-G2 (Minor-Moderate) geomagnetic storms are likely on 09
-Sep due to the combination of positive polarity coronal hole high speed
-stream effects and the anticipated arrival of CMEs that left the Sun
-05-06 Sep.
+Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
+significant transient or recurrent solar wind features are forecast.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Sep 09-Sep 11 2026
+Solar Radiation Storm Forecast for Sep 10-Sep 12 2026
 
-              Sep 09  Sep 10  Sep 11
+              Sep 10  Sep 11  Sep 12
 S1 or greater    1%      1%      1%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -94,14 +98,15 @@ C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Sep 09-Sep 11 2026
+Radio Blackout Forecast for Sep 10-Sep 12 2026
 
-              Sep 09        Sep 10        Sep 11
-R1-R2           10%           10%           10%
+              Sep 10        Sep 11        Sep 12
+R1-R2           10%           10%            5%
 R3 or greater    1%            1%            1%
 
-Rationale: Solar activity is likely to be at low levels with
-occasional C-class flare activity and a slight chance for M-class
-flares (R1-R2/Minor-Moderate) through 11 Sep.
+Rationale: Solar activity is likely to be at very low to low levels with
+a decreasing likelihood for C- and M-class flares (R1-R2/Minor-Moderate)
+through 12 Sep as Region 4421 rotates beyond the West limb and other
+regions on the visible disk continue to decay.
 
 ```

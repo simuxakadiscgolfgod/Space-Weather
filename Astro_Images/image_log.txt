@@ -1,5 +1,11 @@
-<br />**Date image released:**  2009-01-03
-<br />**This image is owned by:**  Dark Atmospheres
-<br />**Title of the image:**  Double Cluster in Perseus
-<br />**Description for the image:**  Some 7,000 light-years away, this pair of open or galactic star clusters is an easy binocular target, a lovely starfield in the northern constellation Perseus. Also visible to the unaided eye from dark sky areas, it was cataloged in 130 BC by Greek astronomer Hipparchus. Now known as h and chi Persei, or NGC 869(above right) and NGC 884, the clusters themselves are separated by only a few hundred light-years and contain stars much younger and hotter than the Sun.  In addition to being physically close together, the clusters' ages based on their individual stars are similar - evidence that both clusters were likely a product of the same star-forming region.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/0901/clusters_2_ritter.jpg
+<br />**Date image released:**  2026-09-10
+<br />**This image is owned by:**  Alessandro Merga
+ Text: 
+Cecilia Chirenti 
+(NASA
+GSFC, 
+UMCP, 
+CRESST II)
+<br />**Title of the image:**  LDN 1295: The Giraffe Nebula
+<br />**Description for the image:**  What does this image look like to you?   Many see a giraffe facing right, with neck stretched high and long legs mid-stride (but some may see a squirrel instead).   The featured image shows LDN 1295, also called the Giraffe Nebula, in the constellation of the mythical queen of Aethiopia (Cassiopeia).   It is an object in the Lynds Catalogue of Dark Nebulas, compiled in 1962 by American astronomer Beverly Lynds, a pioneer for women in astronomy and astrophysics.   Dark nebulas are interstellar clouds of dust and gas that block the visible light of the stars behind them.   These nebulas are often faint and challenging targets for astrophotographers.   Why do we see animal shapes and faces in nebulas, clouds, and pretty much everywhere?   It is due to pareidolia, our tendency to look for familiar patterns.   Pareidolia may provide animals with an evolutionary advantage, for example in identifying (and avoiding) predators.     APOD's main NASA site is moving : From apod.nasa.gov to science.nasa.gov/apod
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2609/LDN1295_giraffe.jpg
