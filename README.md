@@ -1,17 +1,10 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2026-09-10
-<br />**This image is owned by:**  Alessandro Merga
- Text: 
-Cecilia Chirenti 
-(NASA
-GSFC, 
-UMCP, 
-CRESST II)
-<br />**Title of the image:**  LDN 1295: The Giraffe Nebula
-<br />**Description for the image:**  What does this image look like to you?   Many see a giraffe facing right, with neck stretched high and long legs mid-stride (but some may see a squirrel instead).   The featured image shows LDN 1295, also called the Giraffe Nebula, in the constellation of the mythical queen of Aethiopia (Cassiopeia).   It is an object in the Lynds Catalogue of Dark Nebulas, compiled in 1962 by American astronomer Beverly Lynds, a pioneer for women in astronomy and astrophysics.   Dark nebulas are interstellar clouds of dust and gas that block the visible light of the stars behind them.   These nebulas are often faint and challenging targets for astrophotographers.   Why do we see animal shapes and faces in nebulas, clouds, and pretty much everywhere?   It is due to pareidolia, our tendency to look for familiar patterns.   Pareidolia may provide animals with an evolutionary advantage, for example in identifying (and avoiding) predators.     APOD's main NASA site is moving : From apod.nasa.gov to science.nasa.gov/apod
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2609/LDN1295_giraffe.jpg
+<br />**Date image released:**  2026-09-12
+<br />**Title of the image:**  Apollo 11: Catching Some Sun
+<br />**Description for the image:**  Bright sunlight glints as long dark shadows mark this image of the surface of the Moon. It was taken on July 20, 1969, by Apollo 11 astronaut Neil Armstrong, the first to walk on the lunar surface. Pictured is the mission's lunar module, the Eagle, and spacesuited lunar module pilot Buzz Aldrin. Aldrin is unfurling a long sheet of foil also known as the Solar Wind Composition Experiment. Exposed facing the Sun, the foil trapped particles streaming outward in the solar wind, catching a sample of material from the Sun itself. Along with 22 kilograms of moon rocks and lunar soil samples, the solar wind collector was returned for analysis in earthbound laboratories.  APOD's main NASA site is moving: From apod.nasa.gov to science.nasa.gov/apod
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2609/AS11-40-5872HR.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -55,58 +48,56 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2026 Sep 10 0030 UTC
+:Issued: 2026 Sep 12 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Sep 10-Sep 12 2026 is 3.00 (below NOAA
+The greatest expected 3 hr Kp for Sep 12-Sep 14 2026 is 3.67 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Sep 10-Sep 12 2026
+NOAA Kp index breakdown Sep 12-Sep 14 2026
 
-             Sep 10       Sep 11       Sep 12
-00-03UT       3.00         2.00         2.33     
-03-06UT       2.67         2.33         2.67     
-06-09UT       2.67         2.00         2.67     
-09-12UT       2.33         2.00         2.33     
-12-15UT       1.33         2.33         1.33     
-15-18UT       2.00         2.67         1.00     
-18-21UT       2.00         2.67         2.00     
-21-00UT       2.33         3.00         2.33     
+             Sep 12       Sep 13       Sep 14
+00-03UT       2.33         2.33         3.33     
+03-06UT       2.67         2.00         3.67     
+06-09UT       2.67         2.33         3.00     
+09-12UT       2.33         2.33         3.00     
+12-15UT       1.33         2.33         3.00     
+15-18UT       1.00         2.33         3.00     
+18-21UT       2.00         2.67         3.67     
+21-00UT       2.33         3.33         3.33     
 
-Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
-significant transient or recurrent solar wind features are forecast.
+Rationale: No G1 (Minor) or greater geomagnetic storms are expected
+through 14 Sep, though a solar sector boundary crossing and CH HSS on
+13-14 Sep are expected to create unsettled to active conditions.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Sep 10-Sep 12 2026
+Solar Radiation Storm Forecast for Sep 12-Sep 14 2026
 
-              Sep 10  Sep 11  Sep 12
+              Sep 12  Sep 13  Sep 14
 S1 or greater    1%      1%      1%
 
-Rationale: No S1 (Minor) or greater solar radiation storms are expected.
-No significant active region activity favorable for radiation storm
-production is forecast.
+Rationale: No S1 (Minor) or greater solar radiation storms are expected
+through 14 Sep.
 
 C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Sep 10-Sep 12 2026
+Radio Blackout Forecast for Sep 12-Sep 14 2026
 
-              Sep 10        Sep 11        Sep 12
-R1-R2           10%           10%            5%
+              Sep 12        Sep 13        Sep 14
+R1-R2           10%           10%           10%
 R3 or greater    1%            1%            1%
 
-Rationale: Solar activity is likely to be at very low to low levels with
-a decreasing likelihood for C- and M-class flares (R1-R2/Minor-Moderate)
-through 12 Sep as Region 4421 rotates beyond the West limb and other
-regions on the visible disk continue to decay.
+Rationale: There is a slight chance for R1-R2 (Minor-Moderate) radio
+blackouts through 14 Sep.
 
 ```
