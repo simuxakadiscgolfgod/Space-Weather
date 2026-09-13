@@ -1,10 +1,13 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2026-09-12
-<br />**Title of the image:**  Apollo 11: Catching Some Sun
-<br />**Description for the image:**  Bright sunlight glints as long dark shadows mark this image of the surface of the Moon. It was taken on July 20, 1969, by Apollo 11 astronaut Neil Armstrong, the first to walk on the lunar surface. Pictured is the mission's lunar module, the Eagle, and spacesuited lunar module pilot Buzz Aldrin. Aldrin is unfurling a long sheet of foil also known as the Solar Wind Composition Experiment. Exposed facing the Sun, the foil trapped particles streaming outward in the solar wind, catching a sample of material from the Sun itself. Along with 22 kilograms of moon rocks and lunar soil samples, the solar wind collector was returned for analysis in earthbound laboratories.  APOD's main NASA site is moving: From apod.nasa.gov to science.nasa.gov/apod
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2609/AS11-40-5872HR.jpg
+<br />**Date image released:**  2012-01-11
+<br />**This image is owned by:**  Alex Cherney
+(Terrastro,
+TWAN)
+<br />**Title of the image:**  Little Planet Lovejoy
+<br />**Description for the image:**  Once a bright apparition in the southern hemisphere dawn Comet Lovejoy is fading, but its long tail still stretches across skies near the south celestial pole. Captured on the morning of December 30th, the comet appears near edge of this little planet as well. Of course, the little planet is actually planet Earth and the image was created from a 12 frame mosaic used to construct a spherical panorama. The type of stereographic projection used to map the image pixels is centered directly below the camera and is known as the little planet projection. Stars surrounding this little planet were above the photographer's cloudy horizon near the Bay of Islands on the Great Ocean Road in southern Victoria, Australia. Running alongside the Milky Way the comet can be identified, with other celestial highlights, by putting your cursor over the picture. Very bright stars Canopus and Sirius are right of the little planet.
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/1201/Cherney_PlanetLovejoy.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -48,56 +51,57 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2026 Sep 12 0030 UTC
+:Issued: 2026 Sep 13 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Sep 12-Sep 14 2026 is 3.67 (below NOAA
+The greatest expected 3 hr Kp for Sep 13-Sep 15 2026 is 3.67 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Sep 12-Sep 14 2026
+NOAA Kp index breakdown Sep 13-Sep 15 2026
 
-             Sep 12       Sep 13       Sep 14
-00-03UT       2.33         2.33         3.33     
-03-06UT       2.67         2.00         3.67     
-06-09UT       2.67         2.33         3.00     
-09-12UT       2.33         2.33         3.00     
-12-15UT       1.33         2.33         3.00     
-15-18UT       1.00         2.33         3.00     
-18-21UT       2.00         2.67         3.67     
-21-00UT       2.33         3.33         3.33     
+             Sep 13       Sep 14       Sep 15
+00-03UT       2.33         3.33         3.33     
+03-06UT       2.00         3.67         3.67     
+06-09UT       2.33         3.00         3.33     
+09-12UT       2.33         3.00         3.33     
+12-15UT       2.33         3.00         3.00     
+15-18UT       2.33         3.00         2.00     
+18-21UT       2.67         3.67         3.00     
+21-00UT       3.33         3.33         3.00     
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected
-through 14 Sep, though a solar sector boundary crossing and CH HSS on
-13-14 Sep are expected to create unsettled to active conditions.
+through 15 Sep, though a solar sector boundary crossing and CH HSS are
+anticipated to generate unsettled conditions on 13 Sep and isolated
+active conditions on 14-15 Sep.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Sep 12-Sep 14 2026
+Solar Radiation Storm Forecast for Sep 13-Sep 15 2026
 
-              Sep 12  Sep 13  Sep 14
+              Sep 13  Sep 14  Sep 15
 S1 or greater    1%      1%      1%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected
-through 14 Sep.
+through 15 Sep.
 
 C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Sep 12-Sep 14 2026
+Radio Blackout Forecast for Sep 13-Sep 15 2026
 
-              Sep 12        Sep 13        Sep 14
+              Sep 13        Sep 14        Sep 15
 R1-R2           10%           10%           10%
 R3 or greater    1%            1%            1%
 
 Rationale: There is a slight chance for R1-R2 (Minor-Moderate) radio
-blackouts through 14 Sep.
+blackouts through 15 Sep.
 
 ```
