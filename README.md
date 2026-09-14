@@ -1,13 +1,10 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2012-01-11
-<br />**This image is owned by:**  Alex Cherney
-(Terrastro,
-TWAN)
-<br />**Title of the image:**  Little Planet Lovejoy
-<br />**Description for the image:**  Once a bright apparition in the southern hemisphere dawn Comet Lovejoy is fading, but its long tail still stretches across skies near the south celestial pole. Captured on the morning of December 30th, the comet appears near edge of this little planet as well. Of course, the little planet is actually planet Earth and the image was created from a 12 frame mosaic used to construct a spherical panorama. The type of stereographic projection used to map the image pixels is centered directly below the camera and is known as the little planet projection. Stars surrounding this little planet were above the photographer's cloudy horizon near the Bay of Islands on the Great Ocean Road in southern Victoria, Australia. Running alongside the Milky Way the comet can be identified, with other celestial highlights, by putting your cursor over the picture. Very bright stars Canopus and Sirius are right of the little planet.
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/1201/Cherney_PlanetLovejoy.jpg
+<br />**Date image released:**  2026-09-14
+<br />**Title of the image:**  Where Your Elements Came From
+<br />**Description for the image:**  The hydrogen in your body and present in every molecule of water came from the Big Bang.  There are no other appreciable sources of hydrogen in the universe.  The carbon in your body was made by nuclear fusion in the interior of stars, as was the oxygen.  Much of the iron in your body was made during supernovas of stars that occurred long ago and far away.  The gold in your jewelry was likely made from neutron stars during collisions that may have been visible as short-duration gamma-ray bursts or gravitational wave events. Elements like phosphorus and copper are present in our bodies in only small amounts but are essential to the functioning of all known life.  The featured periodic table is color coded to indicate humanity's best guess as to the nuclear origin of all known elements.  The sites of nuclear creation of some elements, such as copper, are not really well known and are continuing topics of observational and computational research.   APOD's main NASA site is moving: From apod.nasa.gov to science.nasa.gov/apod
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2609/ElementOrigins2_svs_6000.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -51,57 +48,56 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2026 Sep 13 0030 UTC
+:Issued: 2026 Sep 14 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Sep 13-Sep 15 2026 is 3.67 (below NOAA
-Scale levels).
+The greatest expected 3 hr Kp for Sep 14-Sep 16 2026 is 4.67 (NOAA Scale
+G1).
 
-NOAA Kp index breakdown Sep 13-Sep 15 2026
+NOAA Kp index breakdown Sep 14-Sep 16 2026
 
-             Sep 13       Sep 14       Sep 15
-00-03UT       2.33         3.33         3.33     
-03-06UT       2.00         3.67         3.67     
-06-09UT       2.33         3.00         3.33     
-09-12UT       2.33         3.00         3.33     
-12-15UT       2.33         3.00         3.00     
-15-18UT       2.33         3.00         2.00     
-18-21UT       2.67         3.67         3.00     
-21-00UT       3.33         3.33         3.00     
+             Sep 14       Sep 15       Sep 16
+00-03UT       3.33         3.33         3.67     
+03-06UT       3.67         3.67         3.33     
+06-09UT       3.00         3.33         3.00     
+09-12UT       3.00         3.33         2.67     
+12-15UT       3.00         3.00         3.00     
+15-18UT       3.00         2.00         3.33     
+18-21UT       3.67         3.00         3.67     
+21-00UT       3.33         3.00         4.67 (G1)
 
-Rationale: No G1 (Minor) or greater geomagnetic storms are expected
-through 15 Sep, though a solar sector boundary crossing and CH HSS are
-anticipated to generate unsettled conditions on 13 Sep and isolated
-active conditions on 14-15 Sep.
+Rationale: Isolated G1 (Minor) geomagnetic storming periods are expected
+on 16 Sep due to the anticipated effects of two CH HSSs and likely solar
+sector boundary crossings due to their differing polarities.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Sep 13-Sep 15 2026
+Solar Radiation Storm Forecast for Sep 14-Sep 16 2026
 
-              Sep 13  Sep 14  Sep 15
+              Sep 14  Sep 15  Sep 16
 S1 or greater    1%      1%      1%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected
-through 15 Sep.
+through 16 Sep.
 
 C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Sep 13-Sep 15 2026
+Radio Blackout Forecast for Sep 14-Sep 16 2026
 
-              Sep 13        Sep 14        Sep 15
+              Sep 14        Sep 15        Sep 16
 R1-R2           10%           10%           10%
 R3 or greater    1%            1%            1%
 
 Rationale: There is a slight chance for R1-R2 (Minor-Moderate) radio
-blackouts through 15 Sep.
+blackouts through 16 Sep.
 
 ```
