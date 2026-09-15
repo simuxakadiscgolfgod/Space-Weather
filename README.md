@@ -1,10 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2026-09-14
-<br />**Title of the image:**  Where Your Elements Came From
-<br />**Description for the image:**  The hydrogen in your body and present in every molecule of water came from the Big Bang.  There are no other appreciable sources of hydrogen in the universe.  The carbon in your body was made by nuclear fusion in the interior of stars, as was the oxygen.  Much of the iron in your body was made during supernovas of stars that occurred long ago and far away.  The gold in your jewelry was likely made from neutron stars during collisions that may have been visible as short-duration gamma-ray bursts or gravitational wave events. Elements like phosphorus and copper are present in our bodies in only small amounts but are essential to the functioning of all known life.  The featured periodic table is color coded to indicate humanity's best guess as to the nuclear origin of all known elements.  The sites of nuclear creation of some elements, such as copper, are not really well known and are continuing topics of observational and computational research.   APOD's main NASA site is moving: From apod.nasa.gov to science.nasa.gov/apod
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2609/ElementOrigins2_svs_6000.jpg
+<br />**Date image released:**  2026-09-15
+<br />**This image is owned by:**  Arnaud Mariat
+<br />**Title of the image:**  A Daytime Eclipse: Moon Occults Venus
+<br />**Description for the image:**  There was something behind the clouds.  Upon close inspection, it was the Moon, which was hard to see yesterday around noon above the small village of Cessy, France.  But soon, it was not only the Moon. As expected, a bright dot suddenly appeared from behind the Moon -- the planet Venus far in the distance.  Captured in the single featured exposure, both appeared to show a crescent phase.  The Moon's crescent was quite slight -- with only about 10 percent of its face illuminated by the Sun. In contrast, Venus's crescent was more full -- showing about 25 percent illumination. Venus appeared brighter because it is nearer the Sun and because its clouds are more reflective than the dark lunar surface. An occultation of Venus by the Moon is visible to only about 10 percent of the Earth, but in yesterday's event even most of that was experiencing daytime.   APOD's main NASA site is moving: From apod.nasa.gov to science.nasa.gov/apod
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2609/MoonVenus_Mariat_1410.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -48,56 +49,55 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2026 Sep 14 0030 UTC
+:Issued: 2026 Sep 15 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Sep 14-Sep 16 2026 is 4.67 (NOAA Scale
+The greatest expected 3 hr Kp for Sep 15-Sep 17 2026 is 4.67 (NOAA Scale
 G1).
 
-NOAA Kp index breakdown Sep 14-Sep 16 2026
+NOAA Kp index breakdown Sep 15-Sep 17 2026
 
-             Sep 14       Sep 15       Sep 16
-00-03UT       3.33         3.33         3.67     
-03-06UT       3.67         3.67         3.33     
-06-09UT       3.00         3.33         3.00     
-09-12UT       3.00         3.33         2.67     
-12-15UT       3.00         3.00         3.00     
-15-18UT       3.00         2.00         3.33     
-18-21UT       3.67         3.00         3.67     
-21-00UT       3.33         3.00         4.67 (G1)
+             Sep 15       Sep 16       Sep 17
+00-03UT       3.33         3.67         3.67     
+03-06UT       4.67 (G1)    3.33         3.00     
+06-09UT       3.33         3.00         2.00     
+09-12UT       3.67         2.67         2.67     
+12-15UT       3.00         3.00         2.67     
+15-18UT       3.00         3.33         2.67     
+18-21UT       3.00         3.67         2.00     
+21-00UT       3.00         4.67 (G1)    2.67     
 
-Rationale: Isolated G1 (Minor) geomagnetic storming periods are expected
-on 16 Sep due to the anticipated effects of two CH HSSs and likely solar
-sector boundary crossings due to their differing polarities.
+Rationale: G1 (Minor) geomagnetic storms are likely on 15-16 Sep due to
+the CH HSS effects combined with CMEs glancing blow.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Sep 14-Sep 16 2026
+Solar Radiation Storm Forecast for Sep 15-Sep 17 2026
 
-              Sep 14  Sep 15  Sep 16
-S1 or greater    1%      1%      1%
+              Sep 15  Sep 16  Sep 17
+S1 or greater   20%     20%     20%
 
-Rationale: No S1 (Minor) or greater solar radiation storms are expected
-through 16 Sep.
+Rationale: There is a slight chance for S1 (Minor) solar radiation
+storms on 15-17 Sep period.
 
 C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Sep 14-Sep 16 2026
+Radio Blackout Forecast for Sep 15-Sep 17 2026
 
-              Sep 14        Sep 15        Sep 16
+              Sep 15        Sep 16        Sep 17
 R1-R2           10%           10%           10%
 R3 or greater    1%            1%            1%
 
 Rationale: There is a slight chance for R1-R2 (Minor-Moderate) radio
-blackouts through 16 Sep.
+blackouts on 15-17 Sep period.
 
 ```
