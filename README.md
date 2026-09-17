@@ -1,10 +1,17 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2026-09-16
-<br />**Title of the image:**  Webb's View of M64
-<br />**Description for the image:**  Sometimes where Hubble finds darkness, Webb sees light. An example is today’s composite images of Messier 64 (M64), a nearby spiral galaxy of many names. The dark band of dust partially blocking its bright core earned it the moniker “the Black Eye Galaxy.” Webb’s Mid-InfraRed Instrument (MIRI) sees that dust, shown in red, as it absorbs and re-emits light from surrounding newborn stars. These young stars are embedded in pink star-forming regions in the secondary Hubble-only image. M64’s inner and outer gas regions counter-rotate, creating regions of increased star formation where the two gas “currents” meet and compress. A merger between M64 and a smaller galaxy was likely the cause of the opposing motion of the outer gas. Spiral galaxies were once thought to have peaceful histories. M64 was key evidence that spiral galaxies, including the Milky Way, can and do experience mergers. Webb’s view of M64 will tell astronomers about the structure, motion, and composition of the galaxy’s dust and add context to the galaxy’s merger history and evolution.   APOD's main NASA site is moving: From apod.nasa.gov to science.nasa.gov/apod
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2609/M64_Webb.jpg
+<br />**Date image released:**  2026-09-17
+<br />**This image is owned by:**  ESA/Webb, NASA & CSA, M. Reiter; Acknowledgement: M. H. Özsaraç
+ Text: 
+Cecilia Chirenti 
+(NASA
+GSFC, 
+UMCP, 
+CRESST II)
+<br />**Title of the image:**  A Treasure Chest in the Carina Nebula
+<br />**Description for the image:**  This treasure chest is full of stars.   The featured image was obtained with NASA's James Webb Space Telescope and shows a dust pilar in the Carina Nebula inside our Galaxy, roughly 7500 light-years away.   It is formed by interstellar gas and dust, and shaped by powerful stellar winds and radiation form neighboring stars like the nearby Eta Carinae stellar system which is more luminous than 5 million suns.   The star formation inside the pillar is excavating its head, creating the open lid of the chest.     Astronomers estimate that there are about 70 stars in a compact cluster inside the pillar.   This cluster is now thought to be only around 1.3 million years old.   Its bounty of young stars includes a massive star approximately 19 times as massive as the Sun.   More massive stars are rarer, shine brighter and evolve faster than less massive stars.   They are the shiniest jewels in the treasure chest.     APOD's main NASA site is moving : From apod.nasa.gov to science.nasa.gov/apod
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2609/JWST_Treasure_Chest.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -48,39 +55,40 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2026 Sep 16 0030 UTC
+:Issued: 2026 Sep 17 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Sep 16-Sep 18 2026 is 4.67 (NOAA Scale
+The greatest expected 3 hr Kp for Sep 17-Sep 19 2026 is 4.67 (NOAA Scale
 G1).
 
-NOAA Kp index breakdown Sep 16-Sep 18 2026
+NOAA Kp index breakdown Sep 17-Sep 19 2026
 
-             Sep 16       Sep 17       Sep 18
-00-03UT       3.67         4.00         3.67     
-03-06UT       3.33         4.67 (G1)    2.00     
-06-09UT       3.00         3.67         2.00     
-09-12UT       2.67         3.33         2.67     
-12-15UT       3.00         3.33         2.67     
-15-18UT       3.33         3.33         2.67     
-18-21UT       3.67         3.33         2.67     
-21-00UT       4.67 (G1)    3.33         3.00     
+             Sep 17       Sep 18       Sep 19
+00-03UT       4.00         3.67         2.67     
+03-06UT       4.67 (G1)    2.00         2.00     
+06-09UT       3.67         2.00         2.33     
+09-12UT       3.33         2.67         2.33     
+12-15UT       3.33         2.67         2.33     
+15-18UT       3.33         2.67         2.33     
+18-21UT       3.33         2.67         2.33     
+21-00UT       3.33         3.00         2.67     
 
-Rationale: G1 (Minor) geomagnetic storms are likely on 16-17 Sep due to
-the anticipated effect of -CH HSS and CMEs glancing blow.
+Rationale: G1 (Minor) geomagnetic storms are likely on 17 Sep.  No
+significant transient or recurrent solar wind features are forecast for
+18-19 Sep.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Sep 16-Sep 18 2026
+Solar Radiation Storm Forecast for Sep 17-Sep 19 2026
 
-              Sep 16  Sep 17  Sep 18
+              Sep 17  Sep 18  Sep 19
 S1 or greater    1%      1%      1%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -91,9 +99,9 @@ C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Sep 16-Sep 18 2026
+Radio Blackout Forecast for Sep 17-Sep 19 2026
 
-              Sep 16        Sep 17        Sep 18
+              Sep 17        Sep 18        Sep 19
 R1-R2            5%            5%            5%
 R3 or greater    1%            1%            1%
 
