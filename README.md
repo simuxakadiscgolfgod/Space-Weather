@@ -1,17 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2026-09-17
-<br />**This image is owned by:**  ESA/Webb, NASA & CSA, M. Reiter; Acknowledgement: M. H. Özsaraç
- Text: 
-Cecilia Chirenti 
-(NASA
-GSFC, 
-UMCP, 
-CRESST II)
-<br />**Title of the image:**  A Treasure Chest in the Carina Nebula
-<br />**Description for the image:**  This treasure chest is full of stars.   The featured image was obtained with NASA's James Webb Space Telescope and shows a dust pilar in the Carina Nebula inside our Galaxy, roughly 7500 light-years away.   It is formed by interstellar gas and dust, and shaped by powerful stellar winds and radiation form neighboring stars like the nearby Eta Carinae stellar system which is more luminous than 5 million suns.   The star formation inside the pillar is excavating its head, creating the open lid of the chest.     Astronomers estimate that there are about 70 stars in a compact cluster inside the pillar.   This cluster is now thought to be only around 1.3 million years old.   Its bounty of young stars includes a massive star approximately 19 times as massive as the Sun.   More massive stars are rarer, shine brighter and evolve faster than less massive stars.   They are the shiniest jewels in the treasure chest.     APOD's main NASA site is moving : From apod.nasa.gov to science.nasa.gov/apod
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2609/JWST_Treasure_Chest.jpg
+<br />**Date image released:**  2026-09-18
+<br />**This image is owned by:**  George Chatzifrantzis
+<br />**Title of the image:**  Messier 33: The Triangulum Galaxy
+<br />**Description for the image:**  The small, northern constellation Triangulum harbors this magnificent face-on spiral galaxy, Messier 33. Its popular names include the Pinwheel Galaxy or just the Triangulum Galaxy. M33 is over 50,000 light-years in diameter, third largest in the Local Group of galaxies after the Andromeda Galaxy (M31), and our own Milky Way. About 3 million light-years from the Milky Way, M33 is itself thought to be a satellite of the Andromeda Galaxy and astronomers in these two galaxies would likely have spectacular views of each other's grand spiral star systems. As for the view from the Milky Way, this sharp telescopic image shows off M33's blue star clusters and pinkish star forming regions along the galaxy's loosely wound spiral arms. In fact, the cavernous NGC 604 is the brightest star forming region, seen here at about the 5 o'clock position from the galaxy center. Like M31, M33's population of well-measured variable stars have helped make this nearby spiral a cosmic yardstick for establishing the distance scale of the Universe.  APOD's main NASA site is moving: From apod.nasa.gov to science.nasa.gov/apod
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2609/m33m14_rasa3NM.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -55,40 +49,39 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2026 Sep 17 0030 UTC
+:Issued: 2026 Sep 18 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Sep 17-Sep 19 2026 is 4.67 (NOAA Scale
-G1).
+The greatest expected 3 hr Kp for Sep 18-Sep 20 2026 is 3.67 (below NOAA
+Scale levels).
 
-NOAA Kp index breakdown Sep 17-Sep 19 2026
+NOAA Kp index breakdown Sep 18-Sep 20 2026
 
-             Sep 17       Sep 18       Sep 19
-00-03UT       4.00         3.67         2.67     
-03-06UT       4.67 (G1)    2.00         2.00     
-06-09UT       3.67         2.00         2.33     
-09-12UT       3.33         2.67         2.33     
-12-15UT       3.33         2.67         2.33     
-15-18UT       3.33         2.67         2.33     
-18-21UT       3.33         2.67         2.33     
-21-00UT       3.33         3.00         2.67     
+             Sep 18       Sep 19       Sep 20
+00-03UT       3.67         2.67         2.33     
+03-06UT       2.00         2.00         2.00     
+06-09UT       2.00         2.33         2.00     
+09-12UT       2.67         2.33         2.00     
+12-15UT       2.67         2.33         2.00     
+15-18UT       2.67         2.33         2.00     
+18-21UT       2.67         2.33         2.00     
+21-00UT       3.00         2.67         2.33     
 
-Rationale: G1 (Minor) geomagnetic storms are likely on 17 Sep.  No
-significant transient or recurrent solar wind features are forecast for
-18-19 Sep.
+Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
+significant transient or recurrent solar wind features are forecast.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Sep 17-Sep 19 2026
+Solar Radiation Storm Forecast for Sep 18-Sep 20 2026
 
-              Sep 17  Sep 18  Sep 19
+              Sep 18  Sep 19  Sep 20
 S1 or greater    1%      1%      1%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -99,9 +92,9 @@ C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Sep 17-Sep 19 2026
+Radio Blackout Forecast for Sep 18-Sep 20 2026
 
-              Sep 17        Sep 18        Sep 19
+              Sep 18        Sep 19        Sep 20
 R1-R2            5%            5%            5%
 R3 or greater    1%            1%            1%
 
