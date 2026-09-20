@@ -1,11 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2026-09-19
-<br />**This image is owned by:**  Neelam and Ajay Talwar
-<br />**Title of the image:**  A Zodiacal Night
-<br />**Description for the image:**  Also known as the false dawn, a luminous band of zodiacal light is captured in this dark night skyscape. The serene view was recorded just before the beginning of astronomical twilight during September's star party at the remote Hanle Dark Sky Reserve, Ladakh, India, planet Earth. At about 4,500 meters altitude, the dark sky reserve presents a haven for hardy stargazing and astrophotography enthusiasts. While meteors streak through the night, bright planet Jupiter appears immersed in the faint zodiacal glow near the eastern horizon. Follow the zodiacal band toward the zenith to find open star cluster M44 and a yellowish tinged planet Mars near the center of the frame. In fact, serendipitous detections of interplanetary dust by NASA's Juno spacecraft suggest Mars itself is the source of dust that back scatters sunlight and creates zodiacal light in planet Earth's night.  APOD's main NASA site is moving: From apod.nasa.gov to science.nasa.gov/apod
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2609/2026-09-09ZodiacalLightHSP.jpg
+<br />**Date image released:**  2026-09-20
+<br />**This image is owned by:**  Giuseppe Petricca
+<br />**Title of the image:**  Analemma over the Callanish Stones
+<br />**Description for the image:**  If you went outside at the same time every day and took a picture that included the Sun, how would the Sun's position change?  A visual answer to that question is an analemma, a composite image taken from the same spot at the same time over the course of a year.  The featured analemma was composed from images taken every few days at noon near the village of Callanish in the Outer Hebrides in Scotland, UK.  In the foreground are the Callanish Stones, a stone circle built around 2700 BC during humanity's Bronze Age.  It is not known if the placement of the Callanish Stones has or had astronomical significance.  The ultimate causes for the figure-8 shape of this and all analemmas are the tilt of the Earth axis and the ellipticity of the Earth's orbit around the Sun.  At the solstices, the Sun will appear at the top or bottom of an analemma. The featured image was taken near the December solstice and so the Sun appears near the bottom.  Equinoxes, however, correspond to analemma middle points -- not the intersection point. In two days there will be an equinox ("equal night"), when day and night are equal over all of planet Earth. Many cultures celebrate a change of season at an equinox.   APOD's main NASA site is moving: From apod.nasa.gov to science.nasa.gov/apod
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2609/CallanishAnalemma_Petricca_1280.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,26 +49,26 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2026 Sep 19 0030 UTC
+:Issued: 2026 Sep 20 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Sep 19-Sep 21 2026 is 2.00 (below NOAA
+The greatest expected 3 hr Kp for Sep 20-Sep 22 2026 is 2.00 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Sep 19-Sep 21 2026
+NOAA Kp index breakdown Sep 20-Sep 22 2026
 
-             Sep 19       Sep 20       Sep 21
+             Sep 20       Sep 21       Sep 22
 00-03UT       1.67         1.67         1.67     
-03-06UT       2.00         2.00         2.00     
-06-09UT       1.67         1.67         1.67     
-09-12UT       1.67         1.33         1.33     
-12-15UT       1.67         0.67         0.67     
-15-18UT       0.67         1.33         1.33     
-18-21UT       0.67         1.33         1.33     
+03-06UT       2.00         2.00         1.33     
+06-09UT       1.67         1.67         1.33     
+09-12UT       1.33         1.33         1.33     
+12-15UT       0.67         0.67         1.33     
+15-18UT       1.33         1.33         1.33     
+18-21UT       1.33         1.33         1.67     
 21-00UT       1.67         1.67         1.67     
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
@@ -79,9 +79,9 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Sep 19-Sep 21 2026
+Solar Radiation Storm Forecast for Sep 20-Sep 22 2026
 
-              Sep 19  Sep 20  Sep 21
+              Sep 20  Sep 21  Sep 22
 S1 or greater    1%      1%      1%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -92,9 +92,9 @@ C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Sep 19-Sep 21 2026
+Radio Blackout Forecast for Sep 20-Sep 22 2026
 
-              Sep 19        Sep 20        Sep 21
+              Sep 20        Sep 21        Sep 22
 R1-R2            1%            1%            1%
 R3 or greater    1%            1%            1%
 
