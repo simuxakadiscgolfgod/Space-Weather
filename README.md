@@ -1,11 +1,12 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2026-09-21
-<br />**This image is owned by:**  Piotr Czerski
-<br />**Title of the image:**  Cocoon Nebula Wide Field
-<br />**Description for the image:**  When does a nebula look like a comet?  In this crowded starfield covering over two degrees within the high-flying constellation of the Swan (Cygnus), the eye is drawn to the Cocoon Nebula.  A compact star forming region, the cosmic Cocoon punctuates a nebula bright in emission and reflection on the lower right, with a long trail of interstellar dust clouds to the left, making the entire complex appear a bit like a comet.  Cataloged as IC 5146, the central bright head of the nebula spans about 10 light years, while the dark dusty tail spans nearly 100 light years.  Both are located about 2,500 light years away.  A bright star near the colorful nebula's center likely supplies power and helps clear out a cavity.  The long dusty filaments of the tail, although dark in this visible light image, hide stars in the process of formation. The featured image was captured in July from Death Valley, California, USA.   APOD's main NASA site is moving: From apod.nasa.gov to science.nasa.gov/apod
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2609/Cocoon_Czerski_3000.jpg
+<br />**Date image released:**  2026-09-22
+<br />**This image is owned by:**  Petr Horalek /
+Inst. Physics Opava
+<br />**Title of the image:**  Chance Triple Alignment: Plane, Space Station, Sun
+<br />**Description for the image:**  This shot captured an unexpected silhouette. Which is it?  It isn't the sunspots, the small dark regions caused by concentrated magnetic fields visible around the Sun's bright disk. Sunspots typically last for weeks and were expected, since these spots were seen previously.  It isn’t the International Space Station (ISS), the small dark structure on the middle left.  This is because the featured picture was planned with sub-second timing to record the iconic structure passing before the Sun.  It is the airplane.  Just as this exposure was taking place in June, from Prasek in the Czech Republic, an airplane began its own miniature partial eclipse.  The result is this triply aligned image of our Sun.  The photographer estimates that the chance of any random Sun image containing silhouettes of both a space station and an airplane, from that location, is about 30 million to one.    APOD's main NASA site is moving: From apod.nasa.gov to science.nasa.gov/apod
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2609/PlaneIssSpots_Horalek_1500.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,39 +50,39 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2026 Sep 21 1230 UTC
+:Issued: 2026 Sep 22 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Sep 21-Sep 23 2026 is 2.00 (below NOAA
-Scale levels).
+The greatest expected 3 hr Kp for Sep 22-Sep 24 2026 is 5.33 (NOAA Scale
+G1).
 
-NOAA Kp index breakdown Sep 21-Sep 23 2026
+NOAA Kp index breakdown Sep 22-Sep 24 2026
 
-             Sep 21       Sep 22       Sep 23
-00-03UT       1.67         1.67         1.67     
-03-06UT       1.00         2.00         2.00     
-06-09UT       1.67         1.67         1.67     
-09-12UT       1.67         1.33         1.33     
-12-15UT       1.33         0.67         0.67     
-15-18UT       1.33         0.67         0.67     
-18-21UT       1.33         1.67         1.67     
-21-00UT       1.33         1.67         1.67     
+             Sep 22       Sep 23       Sep 24
+00-03UT       1.00         1.67         4.33     
+03-06UT       1.00         2.00         5.33 (G1)
+06-09UT       1.67         2.00         4.67 (G1)
+09-12UT       2.00         2.00         3.33     
+12-15UT       2.00         2.33         2.33     
+15-18UT       0.67         2.67         3.00     
+18-21UT       1.67         3.33         3.33     
+21-00UT       1.67         4.33         3.00     
 
-Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
-significant transient or recurrent solar wind features are forecast.
+Rationale: G1 (Minor) geomagnetic storm conditions are likely on 24 Sep
+due to CH HSS effects.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Sep 21-Sep 23 2026
+Solar Radiation Storm Forecast for Sep 22-Sep 24 2026
 
-              Sep 21  Sep 22  Sep 23
+              Sep 22  Sep 23  Sep 24
 S1 or greater    1%      1%      1%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -92,12 +93,13 @@ C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Sep 21-Sep 23 2026
+Radio Blackout Forecast for Sep 22-Sep 24 2026
 
-              Sep 21        Sep 22        Sep 23
-R1-R2            5%            5%            5%
+              Sep 22        Sep 23        Sep 24
+R1-R2           10%           10%           10%
 R3 or greater    1%            1%            1%
 
-Rationale: No R1 (Minor) or greater radio blackouts are expected.  
+Rationale: There is a slight chance for R1-R2 (Minor-Moderate) radio
+blackouts through 24 Sep.
 
 ```
