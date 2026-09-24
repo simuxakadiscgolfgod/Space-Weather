@@ -1,10 +1,17 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2026-09-23
-<br />**Title of the image:**  A New Lunar Crater: McGetchin
-<br />**Description for the image:**  A once-in-a-lifetime crater has appeared on the Moon! A comet or asteroid roughly the size of a humpback whale (approximately 10-20 meters, 30-60 feet) crashed into the Moon sometime between April and May of 2024. The Lunar Reconnaissance Orbiter (LRO), with its monthly monitoring of the Moon, captured today’s images of the lunar surface before and after the event. The resulting crater, named after Apollo-era lunar scientist McGetchin, is two soccer fields across. Craters of this size are only expected once every 132 years! Follow up thermal imaging revealed a large cold spot that surrounds the warm crater. Surface impacts will puff up the loose lunar sediment, or regolith, making it less dense and harder to retain heat. This event affected an area much larger than the visible crater, which will inform humanity’s understanding of surface impacts and the evolution of the Moon’s surface. It also reminds us all to be thankful for Earth's atmosphere.   APOD's email for image submissions has changed. Please see: APOD Submissions.  APOD's main NASA site is moving: From apod.nasa.gov to science.nasa.gov/apod
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2609/mcgetchin_after.jpg
+<br />**Date image released:**  2026-09-24
+<br />**This image is owned by:**  Stephane Vetter, Yann Sainty
+ Text: 
+Cecilia Chirenti 
+(NASA
+GSFC, 
+UMCP, 
+CRESST II)
+<br />**Title of the image:**  The Ghosts of Five Supernovas
+<br />**Description for the image:**  The ghosts of five supernovas haunt this extraordinary image.   It was acquired at Oukaïmeden Observatory in Morocco with approximately 200 hours of observations and shows a large patch of the sky, equivalent to the area of one thousand full moons tiled together, in the constellation of Auriga (the charioteer).   From left to right, the five supernova remnants visible across the field are G181.1+9.5, G182.4+4.3, G179.0+2.6, G180.0−1.7 (Sh2-240, the Spaghetti Nebula), and G178.2−4.2.   They are highlighted in the annotated image, together with open cluster M37 and the Tadpole Nebula.   As each explosion expanded into space, it created a growing shell of shocked gas and delicate filamentary structures shown in red (hydrogen) and blue (oxygen), respectively.    These ancient stellar explosions happened independently; they are at various distances up to about several thousands of light-years away from Earth and have estimated ages up to tens of thousands of years old.   Early humans may have witnessed them as bright new stars, fading over weeks or months.     APOD's email for image submissions has changed. Please see: APOD Submissions.    APOD's main NASA site is moving : From apod.nasa.gov to science.nasa.gov/apod
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2609/5SNR_Auriga_2000.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -48,27 +55,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2026 Sep 23 0030 UTC
+:Issued: 2026 Sep 24 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Sep 23-Sep 25 2026 is 5.33 (NOAA Scale
+The greatest expected 3 hr Kp for Sep 24-Sep 26 2026 is 5.00 (NOAA Scale
 G1).
 
-NOAA Kp index breakdown Sep 23-Sep 25 2026
+NOAA Kp index breakdown Sep 24-Sep 26 2026
 
-             Sep 23       Sep 24       Sep 25
-00-03UT       1.67         4.33         3.67     
-03-06UT       2.00         5.33 (G1)    3.67     
-06-09UT       2.00         4.67 (G1)    3.33     
-09-12UT       2.00         3.33         3.00     
-12-15UT       2.33         2.33         3.00     
-15-18UT       2.67         3.00         3.00     
-18-21UT       3.33         3.33         3.33     
-21-00UT       4.33         3.00         3.00     
+             Sep 24       Sep 25       Sep 26
+00-03UT       4.33         3.67         3.00     
+03-06UT       5.00 (G1)    3.67         3.67     
+06-09UT       4.67 (G1)    3.00         2.67     
+09-12UT       3.33         2.67         2.00     
+12-15UT       2.33         2.33         1.67     
+15-18UT       2.33         3.00         2.33     
+18-21UT       3.00         3.33         2.33     
+21-00UT       3.33         3.00         2.67     
 
 Rationale: G1 (Minor) geomagnetic storm conditions are likely on 24 Sep
 due to CH HSS effects.
@@ -78,9 +85,9 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Sep 23-Sep 25 2026
+Solar Radiation Storm Forecast for Sep 24-Sep 26 2026
 
-              Sep 23  Sep 24  Sep 25
+              Sep 24  Sep 25  Sep 26
 S1 or greater    1%      1%      1%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -91,13 +98,13 @@ C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Sep 23-Sep 25 2026
+Radio Blackout Forecast for Sep 24-Sep 26 2026
 
-              Sep 23        Sep 24        Sep 25
+              Sep 24        Sep 25        Sep 26
 R1-R2           20%           20%           20%
 R3 or greater    1%            1%            1%
 
 Rationale: There is a slight chance for R1-R2 (Minor-Moderate) radio
-blackouts on 23-25 Sep.
+blackouts through 26 Sep.
 
 ```
