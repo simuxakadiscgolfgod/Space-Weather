@@ -1,17 +1,10 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2026-09-24
-<br />**This image is owned by:**  Stephane Vetter, Yann Sainty
- Text: 
-Cecilia Chirenti 
-(NASA
-GSFC, 
-UMCP, 
-CRESST II)
-<br />**Title of the image:**  The Ghosts of Five Supernovas
-<br />**Description for the image:**  The ghosts of five supernovas haunt this extraordinary image.   It was acquired at Oukaïmeden Observatory in Morocco with approximately 200 hours of observations and shows a large patch of the sky, equivalent to the area of one thousand full moons tiled together, in the constellation of Auriga (the charioteer).   From left to right, the five supernova remnants visible across the field are G181.1+9.5, G182.4+4.3, G179.0+2.6, G180.0−1.7 (Sh2-240, the Spaghetti Nebula), and G178.2−4.2.   They are highlighted in the annotated image, together with open cluster M37 and the Tadpole Nebula.   As each explosion expanded into space, it created a growing shell of shocked gas and delicate filamentary structures shown in red (hydrogen) and blue (oxygen), respectively.    These ancient stellar explosions happened independently; they are at various distances up to about several thousands of light-years away from Earth and have estimated ages up to tens of thousands of years old.   Early humans may have witnessed them as bright new stars, fading over weeks or months.     APOD's email for image submissions has changed. Please see: APOD Submissions.    APOD's main NASA site is moving : From apod.nasa.gov to science.nasa.gov/apod
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2609/5SNR_Auriga_2000.jpg
+<br />**Date image released:**  2026-09-27
+<br />**Title of the image:**  Andromeda before Photoshop
+<br />**Description for the image:**  What does the Andromeda galaxy really look like? The featured image shows how our Milky Way Galaxy's closest major galactic neighbor really appears in a long exposure through Earth's busy skies and with a digital camera that introduces normal imperfections.  The picture is a stack of 223 images, each a 300 second exposure, taken from a garden observatory in Portugal during 2019.  Obvious image deficiencies include bright parallel airplane trails, long and continuous satellite trails, short cosmic ray streaks, and bad pixels.  These imperfections were actually not removed with Photoshop specifically, but rather greatly reduced with a series of computer software packages that included Astro Pixel Processor, DeepSkyStacker, and PixInsight.  All of this work was done not to deceive you with a digital fantasy that has little to do with the real likeness of the Andromeda galaxy (M31), but to minimize Earthly artifacts that have nothing to do with the distant galaxy and so better recreate what M31 really does look like.   APOD's email for image submissions has changed. Please see: APOD Submissions APOD's main NASA site is moving: From apod.nasa.gov to science.nasa.gov/apod
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2609/M31Before_Scherer_4298.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -55,39 +48,39 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2026 Sep 24 0030 UTC
+:Issued: 2026 Sep 27 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Sep 24-Sep 26 2026 is 5.00 (NOAA Scale
-G1).
+The greatest expected 3 hr Kp for Sep 27-Sep 29 2026 is 3.00 (below NOAA
+Scale levels).
 
-NOAA Kp index breakdown Sep 24-Sep 26 2026
+NOAA Kp index breakdown Sep 27-Sep 29 2026
 
-             Sep 24       Sep 25       Sep 26
-00-03UT       4.33         3.67         3.00     
-03-06UT       5.00 (G1)    3.67         3.67     
-06-09UT       4.67 (G1)    3.00         2.67     
-09-12UT       3.33         2.67         2.00     
-12-15UT       2.33         2.33         1.67     
-15-18UT       2.33         3.00         2.33     
-18-21UT       3.00         3.33         2.33     
-21-00UT       3.33         3.00         2.67     
+             Sep 27       Sep 28       Sep 29
+00-03UT       2.67         1.67         1.67     
+03-06UT       3.00         2.00         1.33     
+06-09UT       2.67         1.67         1.33     
+09-12UT       2.67         1.67         1.00     
+12-15UT       2.00         1.67         1.00     
+15-18UT       1.67         0.67         1.33     
+18-21UT       1.67         0.67         1.67     
+21-00UT       2.00         1.67         1.67     
 
-Rationale: G1 (Minor) geomagnetic storm conditions are likely on 24 Sep
-due to CH HSS effects.
+Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
+significant transient or recurrent solar wind features are forecast.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Sep 24-Sep 26 2026
+Solar Radiation Storm Forecast for Sep 27-Sep 29 2026
 
-              Sep 24  Sep 25  Sep 26
+              Sep 27  Sep 28  Sep 29
 S1 or greater    1%      1%      1%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -98,13 +91,13 @@ C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Sep 24-Sep 26 2026
+Radio Blackout Forecast for Sep 27-Sep 29 2026
 
-              Sep 24        Sep 25        Sep 26
-R1-R2           20%           20%           20%
+              Sep 27        Sep 28        Sep 29
+R1-R2           10%           10%            5%
 R3 or greater    1%            1%            1%
 
 Rationale: There is a slight chance for R1-R2 (Minor-Moderate) radio
-blackouts through 26 Sep.
+blackouts through 29 Sep.
 
 ```
