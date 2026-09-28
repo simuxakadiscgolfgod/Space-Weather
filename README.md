@@ -1,10 +1,10 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2026-09-27
-<br />**Title of the image:**  Andromeda before Photoshop
-<br />**Description for the image:**  What does the Andromeda galaxy really look like? The featured image shows how our Milky Way Galaxy's closest major galactic neighbor really appears in a long exposure through Earth's busy skies and with a digital camera that introduces normal imperfections.  The picture is a stack of 223 images, each a 300 second exposure, taken from a garden observatory in Portugal during 2019.  Obvious image deficiencies include bright parallel airplane trails, long and continuous satellite trails, short cosmic ray streaks, and bad pixels.  These imperfections were actually not removed with Photoshop specifically, but rather greatly reduced with a series of computer software packages that included Astro Pixel Processor, DeepSkyStacker, and PixInsight.  All of this work was done not to deceive you with a digital fantasy that has little to do with the real likeness of the Andromeda galaxy (M31), but to minimize Earthly artifacts that have nothing to do with the distant galaxy and so better recreate what M31 really does look like.   APOD's email for image submissions has changed. Please see: APOD Submissions APOD's main NASA site is moving: From apod.nasa.gov to science.nasa.gov/apod
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2609/M31Before_Scherer_4298.jpg
+<br />**Date image released:**  2026-09-28
+<br />**Title of the image:**  Cosmic Latte: The Average Color of the Universe
+<br />**Description for the image:**  What color is the universe?  More precisely, if the entire sky were smeared out, what color would the final mix be?  This whimsical question came up when trying to determine what stars are commonplace in nearby galaxies. The answer, depicted here, is a conditionally perceived shade of beige. In computer parlance: #FFF8E7.  To determine this, astronomers computationally averaged the light emitted by one of the larger samples of galaxies analyzed: the 200,000 galaxies of the 2dF Galaxy Redshift Survey.  The resulting cosmic spectrum has some emission in all parts of the electromagnetic spectrum, but a single perceived composite color.  This color has become much less blue over the past 10 billion years, indicating that redder stars are becoming more prevalent.  In a contest to better name the color, notable entries included skyvory, univeige, and the winner: cosmic latte.   APOD's email for image submissions has changed. Please see: APOD Submissions  Tomorrow: APOD's main NASA site is moving: From apod.nasa.gov to science.nasa.gov/apod
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2609/CosmicLatte_jhu_960.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -48,27 +48,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2026 Sep 27 0030 UTC
+:Issued: 2026 Sep 28 1230 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Sep 27-Sep 29 2026 is 3.00 (below NOAA
+The greatest expected 3 hr Kp for Sep 28-Sep 30 2026 is 2.00 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Sep 27-Sep 29 2026
+NOAA Kp index breakdown Sep 28-Sep 30 2026
 
-             Sep 27       Sep 28       Sep 29
-00-03UT       2.67         1.67         1.67     
-03-06UT       3.00         2.00         1.33     
-06-09UT       2.67         1.67         1.33     
-09-12UT       2.67         1.67         1.00     
-12-15UT       2.00         1.67         1.00     
-15-18UT       1.67         0.67         1.33     
-18-21UT       1.67         0.67         1.67     
-21-00UT       2.00         1.67         1.67     
+             Sep 28       Sep 29       Sep 30
+00-03UT       0.67         1.67         1.67     
+03-06UT       1.67         2.00         1.67     
+06-09UT       1.00         1.67         1.67     
+09-12UT       1.67         1.00         1.33     
+12-15UT       1.67         1.00         1.33     
+15-18UT       0.67         1.00         1.00     
+18-21UT       0.67         1.67         1.00     
+21-00UT       1.67         1.67         1.67     
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
 significant transient or recurrent solar wind features are forecast.
@@ -78,9 +78,9 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Sep 27-Sep 29 2026
+Solar Radiation Storm Forecast for Sep 28-Sep 30 2026
 
-              Sep 27  Sep 28  Sep 29
+              Sep 28  Sep 29  Sep 30
 S1 or greater    1%      1%      1%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -91,13 +91,13 @@ C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Sep 27-Sep 29 2026
+Radio Blackout Forecast for Sep 28-Sep 30 2026
 
-              Sep 27        Sep 28        Sep 29
-R1-R2           10%           10%            5%
+              Sep 28        Sep 29        Sep 30
+R1-R2            5%            1%            1%
 R3 or greater    1%            1%            1%
 
-Rationale: There is a slight chance for R1-R2 (Minor-Moderate) radio
-blackouts through 29 Sep.
+Rationale: No R1 (Minor) or greater radio blackouts are expected.  No
+significant active region flare activity is forecast.
 
 ```
