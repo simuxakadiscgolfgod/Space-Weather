@@ -1,10 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2026-09-28
-<br />**Title of the image:**  Cosmic Latte: The Average Color of the Universe
-<br />**Description for the image:**  What color is the universe?  More precisely, if the entire sky were smeared out, what color would the final mix be?  This whimsical question came up when trying to determine what stars are commonplace in nearby galaxies. The answer, depicted here, is a conditionally perceived shade of beige. In computer parlance: #FFF8E7.  To determine this, astronomers computationally averaged the light emitted by one of the larger samples of galaxies analyzed: the 200,000 galaxies of the 2dF Galaxy Redshift Survey.  The resulting cosmic spectrum has some emission in all parts of the electromagnetic spectrum, but a single perceived composite color.  This color has become much less blue over the past 10 billion years, indicating that redder stars are becoming more prevalent.  In a contest to better name the color, notable entries included skyvory, univeige, and the winner: cosmic latte.   APOD's email for image submissions has changed. Please see: APOD Submissions  Tomorrow: APOD's main NASA site is moving: From apod.nasa.gov to science.nasa.gov/apod
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2609/CosmicLatte_jhu_960.jpg
+<br />**Date image released:**  2026-09-29
+<br />**This image is owned by:**  Pawel Piechnik
+<br />**Title of the image:**  Sh2-188: The Shrimp Nebula
+<br />**Description for the image:**  What causes the swirl in the Shrimp Nebula? Its high speed is likely.  What is sure is that Sh2-188 is one of the larger planetary nebulas on the night sky, by angular size, spanning about half the diameter of the Moon.  Moreover, the white-dwarf core -- leftover from the Sun-like star that shed its outer atmosphere -- is moving unusually fast through interstellar space, creating a bow shock most visible on the upper left that is similar to a boat plowing through water.  Although faint, the  Shrimp Nebula glows also by compressing and brightening gas on its leading edge.  The featured image was taken in the light of hydrogen, sulfur, and oxygen by a backyard telescope in Krakow, Poland and then digitally adjusted to approximate the nebula's true colors.    APOD's email for image submissions has changed. Please see: APOD Submissions  APOD's main NASA site has moved: From apod.nasa.gov to science.nasa.gov/apod
+<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2609/Shrimp_Pawel_2048.jpg
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -48,27 +49,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2026 Sep 28 1230 UTC
+:Issued: 2026 Sep 29 1230 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Sep 28-Sep 30 2026 is 2.00 (below NOAA
+The greatest expected 3 hr Kp for Sep 29-Oct 01 2026 is 2.00 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Sep 28-Sep 30 2026
+NOAA Kp index breakdown Sep 29-Oct 01 2026
 
-             Sep 28       Sep 29       Sep 30
-00-03UT       0.67         1.67         1.67     
-03-06UT       1.67         2.00         1.67     
-06-09UT       1.00         1.67         1.67     
-09-12UT       1.67         1.00         1.33     
-12-15UT       1.67         1.00         1.33     
-15-18UT       0.67         1.00         1.00     
-18-21UT       0.67         1.67         1.00     
-21-00UT       1.67         1.67         1.67     
+             Sep 29       Sep 30       Oct 01
+00-03UT       2.00         1.67         1.67     
+03-06UT       0.33         1.67         1.33     
+06-09UT       0.67         1.67         1.33     
+09-12UT       1.33         1.33         1.33     
+12-15UT       1.00         1.33         1.33     
+15-18UT       1.33         1.00         1.33     
+18-21UT       1.33         1.00         1.67     
+21-00UT       2.00         1.67         1.67     
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
 significant transient or recurrent solar wind features are forecast.
@@ -78,9 +79,9 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Sep 28-Sep 30 2026
+Solar Radiation Storm Forecast for Sep 29-Oct 01 2026
 
-              Sep 28  Sep 29  Sep 30
+              Sep 29  Sep 30  Oct 01
 S1 or greater    1%      1%      1%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -91,13 +92,13 @@ C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Sep 28-Sep 30 2026
+Radio Blackout Forecast for Sep 29-Oct 01 2026
 
-              Sep 28        Sep 29        Sep 30
-R1-R2            5%            1%            1%
+              Sep 29        Sep 30        Oct 01
+R1-R2           10%           10%           10%
 R3 or greater    1%            1%            1%
 
-Rationale: No R1 (Minor) or greater radio blackouts are expected.  No
-significant active region flare activity is forecast.
+Rationale: There is a slight chance for R1-R2 (Minor-Moderate) radio
+blackouts.
 
 ```
