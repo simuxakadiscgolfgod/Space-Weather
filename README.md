@@ -1,11 +1,10 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2026-09-29
-<br />**This image is owned by:**  Pawel Piechnik
-<br />**Title of the image:**  Sh2-188: The Shrimp Nebula
-<br />**Description for the image:**  What causes the swirl in the Shrimp Nebula? Its high speed is likely.  What is sure is that Sh2-188 is one of the larger planetary nebulas on the night sky, by angular size, spanning about half the diameter of the Moon.  Moreover, the white-dwarf core -- leftover from the Sun-like star that shed its outer atmosphere -- is moving unusually fast through interstellar space, creating a bow shock most visible on the upper left that is similar to a boat plowing through water.  Although faint, the  Shrimp Nebula glows also by compressing and brightening gas on its leading edge.  The featured image was taken in the light of hydrogen, sulfur, and oxygen by a backyard telescope in Krakow, Poland and then digitally adjusted to approximate the nebula's true colors.    APOD's email for image submissions has changed. Please see: APOD Submissions  APOD's main NASA site has moved: From apod.nasa.gov to science.nasa.gov/apod
-<br />**URL for this image:**  https://apod.nasa.gov/apod/image/2609/Shrimp_Pawel_2048.jpg
+<br />**Date image released:**  2026-10-01
+<br />**Title of the image:**  NASA Science
+<br />**Description for the image:**  Have you ever seen the full moon rise? This colorful image was photographed last weekend in Sicily, just outside the town of Nicosia, in Italy. It is a composite photograph that shows the Moon rising as the sky turns darker. Lower clouds are reflecting the colors of antitwilight, while ash and gas from Mount Etna are seen higher in the background. The pink band lower in the sky is called the Belt of Venus. During a full moon, the Moon and the Sun are in opposition in the sky: the moon rises as the sun sets. The lunar phase cycle lasts approximately 29.5 days (but the Moon takes approximately 27 days to orbit the Earth). In some cultures of the Northern Hemisphere, the September full moon is called the Harvest Moon. Does your culture have a special name for it? (A full moon by any other name would shine as bright.)APOD's email for image submissions has changed. Please see: APOD SubmissionsAPOD's main NASA site has moved : From apod.nasa.gov to science.nasa.gov/apodTomorrow's picture: sharpless						
+<br />**URL for this image:**  https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,39 +48,39 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2026 Sep 29 1230 UTC
+:Issued: 2026 Oct 01 1230 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 1 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Sep 29-Oct 01 2026 is 2.00 (below NOAA
-Scale levels).
+The greatest expected 3 hr Kp for Oct 01-Oct 03 2026 is 4.67 (NOAA Scale
+G1).
 
-NOAA Kp index breakdown Sep 29-Oct 01 2026
+NOAA Kp index breakdown Oct 01-Oct 03 2026
 
-             Sep 29       Sep 30       Oct 01
-00-03UT       2.00         1.67         1.67     
-03-06UT       0.33         1.67         1.33     
-06-09UT       0.67         1.67         1.33     
-09-12UT       1.33         1.33         1.33     
-12-15UT       1.00         1.33         1.33     
-15-18UT       1.33         1.00         1.33     
-18-21UT       1.33         1.00         1.67     
-21-00UT       2.00         1.67         1.67     
+             Oct 01       Oct 02       Oct 03
+00-03UT       0.33         2.33         3.67     
+03-06UT       0.33         2.67         2.00     
+06-09UT       0.67         2.67         2.00     
+09-12UT       1.00         3.33         3.00     
+12-15UT       1.33         3.67         3.00     
+15-18UT       1.33         4.67 (G1)    3.33     
+18-21UT       1.67         4.00         3.33     
+21-00UT       1.67         3.33         3.33     
 
-Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
-significant transient or recurrent solar wind features are forecast.
+Rationale: G1 (Minor) geomagnetic storms are likely on 02 Oct due to the
+anticipated arrival of 28 Sep CME.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Sep 29-Oct 01 2026
+Solar Radiation Storm Forecast for Oct 01-Oct 03 2026
 
-              Sep 29  Sep 30  Oct 01
+              Oct 01  Oct 02  Oct 03
 S1 or greater    1%      1%      1%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -92,13 +91,13 @@ C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Sep 29-Oct 01 2026
+Radio Blackout Forecast for Oct 01-Oct 03 2026
 
-              Sep 29        Sep 30        Oct 01
+              Oct 01        Oct 02        Oct 03
 R1-R2           10%           10%           10%
 R3 or greater    1%            1%            1%
 
 Rationale: There is a slight chance for R1-R2 (Minor-Moderate) radio
-blackouts.
+blackouts on 01-03 Oct.
 
 ```
