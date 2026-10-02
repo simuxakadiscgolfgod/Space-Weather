@@ -1,9 +1,9 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2026-10-01
+<br />**Date image released:**  2026-10-02
 <br />**Title of the image:**  NASA Science
-<br />**Description for the image:**  Have you ever seen the full moon rise? This colorful image was photographed last weekend in Sicily, just outside the town of Nicosia, in Italy. It is a composite photograph that shows the Moon rising as the sky turns darker. Lower clouds are reflecting the colors of antitwilight, while ash and gas from Mount Etna are seen higher in the background. The pink band lower in the sky is called the Belt of Venus. During a full moon, the Moon and the Sun are in opposition in the sky: the moon rises as the sun sets. The lunar phase cycle lasts approximately 29.5 days (but the Moon takes approximately 27 days to orbit the Earth). In some cultures of the Northern Hemisphere, the September full moon is called the Harvest Moon. Does your culture have a special name for it? (A full moon by any other name would shine as bright.)APOD's email for image submissions has changed. Please see: APOD SubmissionsAPOD's main NASA site has moved : From apod.nasa.gov to science.nasa.gov/apodTomorrow's picture: sharpless						
+<br />**Description for the image:**  What does it take to image hundreds of nebulas? Today’s image contains the entire Sharpless Catalog of H II Regions, totaling 313 objects. Zoom in and explore! You may spot fan favorites like the Eagle (Sh2-49), Heart (Sh2-190), and Orion (Sh2-281) Nebulas. Despite its name, this catalog contains more than the glow of ionized hydrogen that makes up H II regions. There are planetary nebulas (the Medusa Nebula, Sh2-274) and supernova remnants (the Spaghetti Nebula, Sh2-240) as well. Astrophotographer Bing Xin traversed the dark skies of Eastern China and Inner Mongolia to catch them all. Narrowband filters that primarily capture light from ionized hydrogen and oxygen as well as red-green-blue filters were used. Each object took 2 to 6 hours to capture, with the entire catalog taking around 800 hours to complete! Which object is your favorite?APOD's email for image submissions has changed. Please see: APOD SubmissionsTomorrow's picture: just Curiosity						
 <br />**URL for this image:**  https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png
 
 ## X-Ray Flux
@@ -48,39 +48,42 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2026 Oct 01 1230 UTC
+:Issued: 2026 Oct 02 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 1 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Oct 01-Oct 03 2026 is 4.67 (NOAA Scale
+The greatest expected 3 hr Kp for Oct 02-Oct 04 2026 is 4.67 (NOAA Scale
 G1).
 
-NOAA Kp index breakdown Oct 01-Oct 03 2026
+NOAA Kp index breakdown Oct 02-Oct 04 2026
 
-             Oct 01       Oct 02       Oct 03
-00-03UT       0.33         2.33         3.67     
-03-06UT       0.33         2.67         2.00     
-06-09UT       0.67         2.67         2.00     
-09-12UT       1.00         3.33         3.00     
-12-15UT       1.33         3.67         3.00     
-15-18UT       1.33         4.67 (G1)    3.33     
-18-21UT       1.67         4.00         3.33     
-21-00UT       1.67         3.33         3.33     
+             Oct 02       Oct 03       Oct 04
+00-03UT       0.67         3.67         3.67     
+03-06UT       1.33         3.00         3.67     
+06-09UT       1.33         2.67         2.67     
+09-12UT       3.00         1.67         2.67     
+12-15UT       4.33         1.67         2.67     
+15-18UT       3.67         2.67         3.67     
+18-21UT       4.67 (G1)    3.67         4.67 (G1)
+21-00UT       4.67 (G1)    3.67         3.67     
 
-Rationale: G1 (Minor) geomagnetic storms are likely on 02 Oct due to the
-anticipated arrival of 28 Sep CME.
+Rationale: G1 (Minor) geomagnetic storming is likely on 02 Oct due to
+glancing coronal mass ejection influences from a filament eruption that
+left the Sun on 28 Sep. G1 (Minor) geomagnetic storming is likely again
+on 04 Oct under positive polarity coronal hole high speed stream
+effects.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Oct 01-Oct 03 2026
+Solar Radiation Storm Forecast for Oct 02-Oct 04 2026
 
-              Oct 01  Oct 02  Oct 03
+              Oct 02  Oct 03  Oct 04
 S1 or greater    1%      1%      1%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -91,13 +94,13 @@ C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Oct 01-Oct 03 2026
+Radio Blackout Forecast for Oct 02-Oct 04 2026
 
-              Oct 01        Oct 02        Oct 03
-R1-R2           10%           10%           10%
+              Oct 02        Oct 03        Oct 04
+R1-R2           15%           15%           15%
 R3 or greater    1%            1%            1%
 
-Rationale: There is a slight chance for R1-R2 (Minor-Moderate) radio
-blackouts on 01-03 Oct.
+Rationale: A slight chance for R1-R2 (Minor-Moderate) radio blackouts
+due to isolated M-class flare activity will persist through 04 Oct.
 
 ```
