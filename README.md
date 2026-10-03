@@ -1,9 +1,9 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2026-10-02
+<br />**Date image released:**  2026-10-03
 <br />**Title of the image:**  NASA Science
-<br />**Description for the image:**  What does it take to image hundreds of nebulas? Today’s image contains the entire Sharpless Catalog of H II Regions, totaling 313 objects. Zoom in and explore! You may spot fan favorites like the Eagle (Sh2-49), Heart (Sh2-190), and Orion (Sh2-281) Nebulas. Despite its name, this catalog contains more than the glow of ionized hydrogen that makes up H II regions. There are planetary nebulas (the Medusa Nebula, Sh2-274) and supernova remnants (the Spaghetti Nebula, Sh2-240) as well. Astrophotographer Bing Xin traversed the dark skies of Eastern China and Inner Mongolia to catch them all. Narrowband filters that primarily capture light from ionized hydrogen and oxygen as well as red-green-blue filters were used. Each object took 2 to 6 hours to capture, with the entire catalog taking around 800 hours to complete! Which object is your favorite?APOD's email for image submissions has changed. Please see: APOD SubmissionsTomorrow's picture: just Curiosity						
+<br />**Description for the image:**  On sol 1943 of its journey of exploration across the surface of Mars, the Curiosity Rover recorded this selfie at the south rim of Vera Rubin Ridge. Of course a sol is a Martian solar day, about 40 minutes longer than an Earth day. Curiosity's sol 1943 corresponds to Earth date January 23, 2018. Also composed as an interactive 360 degree VR, the mosaicked panorama combines 61 exposures taken by the small car-sized rover's Mars Hand Lens Imager (MAHLI). Frames containing the imager's arm have been edited out while the extended background used was taken by the rover's Mastcam on sol 1903. At the top of the rover's mast, sitting above the Mastcam, the laser-firing ChemCam housing blocks out the distant, 5 kilometer high peak of Mount Sharp. On Earth date August 26, 2026, Curiosity marked an total elevation gain of 1 kilometer in its trek from the floor of Gale Crater up the slope of Mount Sharp.APOD's email for image submissions has changed. Please see: APOD Submissions.Tomorrow's picture: Sunday's Childe
 <br />**URL for this image:**  https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png
 
 ## X-Ray Flux
@@ -48,42 +48,39 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2026 Oct 02 0030 UTC
+:Issued: 2026 Oct 03 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 1 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Oct 02-Oct 04 2026 is 4.67 (NOAA Scale
+The greatest expected 3 hr Kp for Oct 03-Oct 05 2026 is 4.67 (NOAA Scale
 G1).
 
-NOAA Kp index breakdown Oct 02-Oct 04 2026
+NOAA Kp index breakdown Oct 03-Oct 05 2026
 
-             Oct 02       Oct 03       Oct 04
-00-03UT       0.67         3.67         3.67     
-03-06UT       1.33         3.00         3.67     
-06-09UT       1.33         2.67         2.67     
-09-12UT       3.00         1.67         2.67     
-12-15UT       4.33         1.67         2.67     
-15-18UT       3.67         2.67         3.67     
-18-21UT       4.67 (G1)    3.67         4.67 (G1)
-21-00UT       4.67 (G1)    3.67         3.67     
+             Oct 03       Oct 04       Oct 05
+00-03UT       1.00         3.67         3.67     
+03-06UT       1.33         4.67 (G1)    2.67     
+06-09UT       1.33         3.67         3.67     
+09-12UT       1.67         2.67         3.00     
+12-15UT       2.33         2.67         2.67     
+15-18UT       2.00         2.67         3.00     
+18-21UT       2.67         3.00         2.33     
+21-00UT       3.33         3.67         2.33     
 
-Rationale: G1 (Minor) geomagnetic storming is likely on 02 Oct due to
-glancing coronal mass ejection influences from a filament eruption that
-left the Sun on 28 Sep. G1 (Minor) geomagnetic storming is likely again
-on 04 Oct under positive polarity coronal hole high speed stream
-effects.
+Rationale: G1 (Minor) geomagnetic storms are likely on 04 Oct due to
+waning CME effects and a geoeffective +CH/HSS.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Oct 02-Oct 04 2026
+Solar Radiation Storm Forecast for Oct 03-Oct 05 2026
 
-              Oct 02  Oct 03  Oct 04
+              Oct 03  Oct 04  Oct 05
 S1 or greater    1%      1%      1%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -94,13 +91,12 @@ C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Oct 02-Oct 04 2026
+Radio Blackout Forecast for Oct 03-Oct 05 2026
 
-              Oct 02        Oct 03        Oct 04
-R1-R2           15%           15%           15%
+              Oct 03        Oct 04        Oct 05
+R1-R2            5%            5%            5%
 R3 or greater    1%            1%            1%
 
-Rationale: A slight chance for R1-R2 (Minor-Moderate) radio blackouts
-due to isolated M-class flare activity will persist through 04 Oct.
+Rationale: No radio blackouts are expected for 03-05 Oct.
 
 ```
