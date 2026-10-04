@@ -1,9 +1,9 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2026-10-03
+<br />**Date image released:**  2026-10-04
 <br />**Title of the image:**  NASA Science
-<br />**Description for the image:**  On sol 1943 of its journey of exploration across the surface of Mars, the Curiosity Rover recorded this selfie at the south rim of Vera Rubin Ridge. Of course a sol is a Martian solar day, about 40 minutes longer than an Earth day. Curiosity's sol 1943 corresponds to Earth date January 23, 2018. Also composed as an interactive 360 degree VR, the mosaicked panorama combines 61 exposures taken by the small car-sized rover's Mars Hand Lens Imager (MAHLI). Frames containing the imager's arm have been edited out while the extended background used was taken by the rover's Mastcam on sol 1903. At the top of the rover's mast, sitting above the Mastcam, the laser-firing ChemCam housing blocks out the distant, 5 kilometer high peak of Mount Sharp. On Earth date August 26, 2026, Curiosity marked an total elevation gain of 1 kilometer in its trek from the floor of Gale Crater up the slope of Mount Sharp.APOD's email for image submissions has changed. Please see: APOD Submissions.Tomorrow's picture: Sunday's Childe
+<br />**Description for the image:**  Yes, but can your rainbow do this? After the remnants of Hurricane Florence passed over the Jersey Shore, New Jersey, USA in 2018, the Sun came out in one direction but something quite unusual appeared in the opposite direction: a hall of rainbows. Over the course of the next half hour, to the delight of the photographer and his daughter, vibrant supernumerary rainbows faded in and out, with at least five captured in this featured single shot. Supernumerary rainbows only form when falling water droplets are all nearly the same size and typically less than a millimeter across. Then, sunlight will not only reflect from inside the raindrops, but interfere, a wave phenomenon similar to ripples on a pond when a stone is thrown in. In fact, supernumerary rainbows can only be explained with waves, and their noted existence in the early 1800s was considered early evidence of light's wave nature.Your Sky Surprise: What picture did APOD feature on your birthday? (post 1995)Tomorrow's picture: open space						
 <br />**URL for this image:**  https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png
 
 ## X-Ray Flux
@@ -48,39 +48,39 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2026 Oct 03 0030 UTC
+:Issued: 2026 Oct 04 0520 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 1 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Oct 03-Oct 05 2026 is 4.67 (NOAA Scale
+The greatest expected 3 hr Kp for Oct 04-Oct 06 2026 is 4.67 (NOAA Scale
 G1).
 
-NOAA Kp index breakdown Oct 03-Oct 05 2026
+NOAA Kp index breakdown Oct 04-Oct 06 2026
 
-             Oct 03       Oct 04       Oct 05
-00-03UT       1.00         3.67         3.67     
-03-06UT       1.33         4.67 (G1)    2.67     
-06-09UT       1.33         3.67         3.67     
-09-12UT       1.67         2.67         3.00     
-12-15UT       2.33         2.67         2.67     
-15-18UT       2.00         2.67         3.00     
-18-21UT       2.67         3.00         2.33     
-21-00UT       3.33         3.67         2.33     
+             Oct 04       Oct 05       Oct 06
+00-03UT       3.00         3.67         3.33     
+03-06UT       3.00         3.67         3.67     
+06-09UT       3.00         3.33         3.00     
+09-12UT       4.00         3.00         3.00     
+12-15UT       4.67 (G1)    2.67         2.33     
+15-18UT       4.00         3.00         2.00     
+18-21UT       3.33         2.33         2.00     
+21-00UT       3.00         2.33         1.67     
 
-Rationale: G1 (Minor) geomagnetic storms are likely on 04 Oct due to
-waning CME effects and a geoeffective +CH/HSS.
+Rationale: G1 (Minor) storm levels are likely on 04 Oct due to the
+influence of a coronal hole high-speed stream.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Oct 03-Oct 05 2026
+Solar Radiation Storm Forecast for Oct 04-Oct 06 2026
 
-              Oct 03  Oct 04  Oct 05
+              Oct 04  Oct 05  Oct 06
 S1 or greater    1%      1%      1%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -91,12 +91,13 @@ C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Oct 03-Oct 05 2026
+Radio Blackout Forecast for Oct 04-Oct 06 2026
 
-              Oct 03        Oct 04        Oct 05
+              Oct 04        Oct 05        Oct 06
 R1-R2            5%            5%            5%
 R3 or greater    1%            1%            1%
 
-Rationale: No radio blackouts are expected for 03-05 Oct.
+Rationale: No R1 (Minor) or greater radio blackouts are expected.  No
+significant active region flare activity is forecast.
 
 ```
