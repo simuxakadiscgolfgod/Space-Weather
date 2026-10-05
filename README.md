@@ -1,9 +1,9 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2026-10-04
+<br />**Date image released:**  2026-10-05
 <br />**Title of the image:**  NASA Science
-<br />**Description for the image:**  Yes, but can your rainbow do this? After the remnants of Hurricane Florence passed over the Jersey Shore, New Jersey, USA in 2018, the Sun came out in one direction but something quite unusual appeared in the opposite direction: a hall of rainbows. Over the course of the next half hour, to the delight of the photographer and his daughter, vibrant supernumerary rainbows faded in and out, with at least five captured in this featured single shot. Supernumerary rainbows only form when falling water droplets are all nearly the same size and typically less than a millimeter across. Then, sunlight will not only reflect from inside the raindrops, but interfere, a wave phenomenon similar to ripples on a pond when a stone is thrown in. In fact, supernumerary rainbows can only be explained with waves, and their noted existence in the early 1800s was considered early evidence of light's wave nature.Your Sky Surprise: What picture did APOD feature on your birthday? (post 1995)Tomorrow's picture: open space						
+<br />**Description for the image:**  A deep image of the Sombrero galaxy reveals surprises. M104 is named the Sombrero galaxy because, on shorter exposures, it looks like a hat. A key defining feature of this huge galaxy is a dark brim of dust that circles the disk galaxy's center. A much longer exposure, however, brings up a hairy past where a bright, hazy halo is revealed that extends well past the central disk and contains many unresolved stars. Surprisingly, in this stellar haze, structures can be seen that include a diagonal ring. These structures and tidal streams provide fresh evidence that M104 had a violent past and is surely the result of collisions and mergers of smaller galaxies. Light takes about 30 million years to reach us from the Sombrero galaxy, which fully spans about 150 thousand light years across. The featured image was taken over seven days in mid-2026 from Namibia.Your Sky Surprise: What picture did APOD feature on your birthday? (post 1995)Tomorrow's picture: a smile						
 <br />**URL for this image:**  https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png
 
 ## X-Ray Flux
@@ -48,39 +48,39 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2026 Oct 04 0520 UTC
+:Issued: 2026 Oct 05 1230 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
-Scale levels).
-The greatest expected 3 hr Kp for Oct 04-Oct 06 2026 is 4.67 (NOAA Scale
+The greatest observed 3 hr Kp over the past 24 hours was 6 (NOAA Scale
+G2).
+The greatest expected 3 hr Kp for Oct 05-Oct 07 2026 is 5.33 (NOAA Scale
 G1).
 
-NOAA Kp index breakdown Oct 04-Oct 06 2026
+NOAA Kp index breakdown Oct 05-Oct 07 2026
 
-             Oct 04       Oct 05       Oct 06
-00-03UT       3.00         3.67         3.33     
-03-06UT       3.00         3.67         3.67     
-06-09UT       3.00         3.33         3.00     
-09-12UT       4.00         3.00         3.00     
-12-15UT       4.67 (G1)    2.67         2.33     
-15-18UT       4.00         3.00         2.00     
-18-21UT       3.33         2.33         2.00     
-21-00UT       3.00         2.33         1.67     
+             Oct 05       Oct 06       Oct 07
+00-03UT       4.00         3.33         2.33     
+03-06UT       5.33 (G1)    3.67         2.67     
+06-09UT       2.33         3.00         2.00     
+09-12UT       3.33         3.00         2.33     
+12-15UT       2.67         2.33         2.33     
+15-18UT       4.67 (G1)    2.00         2.00     
+18-21UT       2.67         2.00         2.00     
+21-00UT       1.67         1.67         1.67     
 
-Rationale: G1 (Minor) storm levels are likely on 04 Oct due to the
-influence of a coronal hole high-speed stream.
+Rationale: G1 (Minor) geomagnetic storms are expected on 05 Oct due to
+influence from a positive polarity CH HSS.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Oct 04-Oct 06 2026
+Solar Radiation Storm Forecast for Oct 05-Oct 07 2026
 
-              Oct 04  Oct 05  Oct 06
+              Oct 05  Oct 06  Oct 07
 S1 or greater    1%      1%      1%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -91,9 +91,9 @@ C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Oct 04-Oct 06 2026
+Radio Blackout Forecast for Oct 05-Oct 07 2026
 
-              Oct 04        Oct 05        Oct 06
+              Oct 05        Oct 06        Oct 07
 R1-R2            5%            5%            5%
 R3 or greater    1%            1%            1%
 
