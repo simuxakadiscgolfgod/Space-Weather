@@ -1,9 +1,9 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2026-10-05
+<br />**Date image released:**  2026-10-06
 <br />**Title of the image:**  NASA Science
-<br />**Description for the image:**  A deep image of the Sombrero galaxy reveals surprises. M104 is named the Sombrero galaxy because, on shorter exposures, it looks like a hat. A key defining feature of this huge galaxy is a dark brim of dust that circles the disk galaxy's center. A much longer exposure, however, brings up a hairy past where a bright, hazy halo is revealed that extends well past the central disk and contains many unresolved stars. Surprisingly, in this stellar haze, structures can be seen that include a diagonal ring. These structures and tidal streams provide fresh evidence that M104 had a violent past and is surely the result of collisions and mergers of smaller galaxies. Light takes about 30 million years to reach us from the Sombrero galaxy, which fully spans about 150 thousand light years across. The featured image was taken over seven days in mid-2026 from Namibia.Your Sky Surprise: What picture did APOD feature on your birthday? (post 1995)Tomorrow's picture: a smile						
+<br />**Description for the image:**  Have you ever seen a complete auroral oval? You can't see one from the ground because it makes too large a circle around one of Earth's magnetic poles. But spacecraft high above the Earth can see them. The featured video from ESA and CAS's robotic SMILE spacecraft shows not only a full auroral oval, but using ultraviolet light, one that occurred during the day. The time-lapse covers about an hour in late July and shows visually how variable and turbulent auroras really are. The points of light on the sides are distant stars that appear to move only because SMILE's camera view shifts as the spacecraft orbits the Earth. A goal of SMILE is to better understand how the Sun's wind interacts with the Earth's magnetosphere -- and so better understand how to protect astronauts, spacecraft, and ground-based electrical grids from solar storms.Tomorrow's picture: a ghost						
 <br />**URL for this image:**  https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png
 
 ## X-Ray Flux
@@ -48,56 +48,57 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2026 Oct 05 1230 UTC
+:Issued: 2026 Oct 06 1230 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 6 (NOAA Scale
-G2).
-The greatest expected 3 hr Kp for Oct 05-Oct 07 2026 is 5.33 (NOAA Scale
-G1).
+The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
+Scale levels).
+The greatest expected 3 hr Kp for Oct 06-Oct 08 2026 is 3.00 (below NOAA
+Scale levels).
 
-NOAA Kp index breakdown Oct 05-Oct 07 2026
+NOAA Kp index breakdown Oct 06-Oct 08 2026
 
-             Oct 05       Oct 06       Oct 07
-00-03UT       4.00         3.33         2.33     
-03-06UT       5.33 (G1)    3.67         2.67     
-06-09UT       2.33         3.00         2.00     
-09-12UT       3.33         3.00         2.33     
-12-15UT       2.67         2.33         2.33     
-15-18UT       4.67 (G1)    2.00         2.00     
-18-21UT       2.67         2.00         2.00     
-21-00UT       1.67         1.67         1.67     
+             Oct 06       Oct 07       Oct 08
+00-03UT       3.00         2.67         2.67     
+03-06UT       3.00         2.67         2.33     
+06-09UT       2.33         2.33         2.00     
+09-12UT       2.67         2.00         1.00     
+12-15UT       2.67         1.67         1.33     
+15-18UT       2.00         1.67         2.00     
+18-21UT       2.00         2.00         2.33     
+21-00UT       2.67         2.00         2.00     
 
-Rationale: G1 (Minor) geomagnetic storms are expected on 05 Oct due to
-influence from a positive polarity CH HSS.
+Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
+significant transient or recurrent solar wind features are forecast.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Oct 05-Oct 07 2026
+Solar Radiation Storm Forecast for Oct 06-Oct 08 2026
 
-              Oct 05  Oct 06  Oct 07
-S1 or greater    1%      1%      1%
+              Oct 06  Oct 07  Oct 08
+S1 or greater   10%     10%     10%
 
-Rationale: No S1 (Minor) or greater solar radiation storms are expected.
-No significant active region activity favorable for radiation storm
-production is forecast.
+Rationale: There is a slight chance (10%) for a greater than 10 MeV
+proton event exceeding the 10 pfu (S1-Minor) threshold through 08 Oct.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-No radio blackouts were observed over the past 24 hours.
+Radio blackouts reaching the R1 levels were observed over the past 24
+hours. The largest was at Oct 06 2026 0805 UTC.
 
-Radio Blackout Forecast for Oct 05-Oct 07 2026
+Radio Blackout Forecast for Oct 06-Oct 08 2026
 
-              Oct 05        Oct 06        Oct 07
-R1-R2            5%            5%            5%
-R3 or greater    1%            1%            1%
+              Oct 06        Oct 07        Oct 08
+R1-R2           40%           40%           40%
+R3 or greater    5%            5%            5%
 
-Rationale: No R1 (Minor) or greater radio blackouts are expected.  No
-significant active region flare activity is forecast.
+Rationale: Solar activity is expected to be at low levels with an
+increased chance (40%) for further M-class flares (R1-R2,
+Minor-Moderate) through 08 Oct, particularly from Region 4549.
 
 ```
