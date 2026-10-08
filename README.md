@@ -1,9 +1,9 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2026-10-07
+<br />**Date image released:**  2026-10-08
 <br />**Title of the image:**  NASA Science
-<br />**Description for the image:**  "Happy New Year!" No, wait, this is not a fireworks display. This image shows Nebula Pa 30, observed with the Gemini North Telescope in Hawai'i. It is likely the remnant of an old supernova explosion: separate historical records by Chinese, Japanese and Arabic astronomers tell of a "guest star" that appeared in the sky for 185 days in the year 1181. It is believed that this bright new point of light came from the supernova that caused the fireworks in Pa 30. Astronomers don't know exactly what happened in this unusual explosion, classified as a Type Iax supernova, but it is thought to be caused by the merger of two white dwarfs. The mysterious central star in the image is extremely hot and produces a strong wind, possibly forming the radial filaments. Look closely at them: those pearl-like knots stringing the filaments are 4 light-days in diameter. Understanding how a supernova created this amazing nebula continues an 845-year old mystery (and counting).Tomorrow's picture: smörgåsbord						
+<br />**Description for the image:**  How was the Saturn system imaged so clearly? Astrophotographer Tom Williams captured such exquisite details due to one night of exceptional atmospheric conditions above the United Kingdom. This means more than a cloudless sky. Pockets of air at different temperatures and densities move around and bend light as it travels through Earth’s atmosphere, distorting astronomy images. This is called “seeing.” Less atmospheric turbulence means clearer images. The astrophotographer reduced the impact of seeing with the lucky imaging technique: thousands of short-exposure images are taken very quickly with a high-speed camera and the clearest images are added up. Which object in this smörgåsbord interests you? Perhaps Titan or the icy stripes of Enceladus? Maybe the gaps and spokes in Saturn’s rings? Saturn's opposition, when Earth passes in between the planet and the Sun, occurred on October 4th. Due to the planet's proximity and full illumination from the Sun, now is a great time of year to observe it!Tomorrow's picture: bumpy						
 <br />**URL for this image:**  https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png
 
 ## X-Ray Flux
@@ -48,27 +48,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2026 Oct 07 1230 UTC
+:Issued: 2026 Oct 08 1230 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Oct 07-Oct 09 2026 is 5.67 (NOAA Scale
+The greatest expected 3 hr Kp for Oct 08-Oct 10 2026 is 5.67 (NOAA Scale
 G2).
 
-NOAA Kp index breakdown Oct 07-Oct 09 2026
+NOAA Kp index breakdown Oct 08-Oct 10 2026
 
-             Oct 07       Oct 08       Oct 09
-00-03UT       1.00         1.33         1.67     
-03-06UT       1.33         1.67         5.00 (G1)
-06-09UT       1.00         1.33         4.33     
-09-12UT       0.67         1.67         5.67 (G2)
-12-15UT       2.00         1.67         4.00     
-15-18UT       2.67         1.33         3.00     
-18-21UT       2.67         1.33         3.00     
-21-00UT       3.00         1.33         4.00     
+             Oct 08       Oct 09       Oct 10
+00-03UT       1.00         1.67         4.00     
+03-06UT       1.67         5.00 (G1)    3.67     
+06-09UT       1.00         4.33         3.00     
+09-12UT       2.00         5.67 (G2)    3.00     
+12-15UT       1.00         4.00         2.67     
+15-18UT       1.67         3.00         2.33     
+18-21UT       1.67         3.00         2.33     
+21-00UT       1.67         4.00         2.67     
 
 Rationale: G1-G2 (Minor-Moderate) geomagnetic storms are likely on 09
 Oct due to the anticipated arrival of a CME from 06 Oct.
@@ -78,26 +78,26 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Oct 07-Oct 09 2026
+Solar Radiation Storm Forecast for Oct 08-Oct 10 2026
 
-              Oct 07  Oct 08  Oct 09
+              Oct 08  Oct 09  Oct 10
 S1 or greater   10%     10%     10%
 
 Rationale: There is a slight chance (10%) for a greater than 10 MeV
-proton event exceeding the 10 pfu (S1-Minor) threshold through 09 Oct.
+proton event exceeding the 10 pfu (S1-Minor) threshold through 10 Oct.
 
 C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Oct 07-Oct 09 2026
+Radio Blackout Forecast for Oct 08-Oct 10 2026
 
-              Oct 07        Oct 08        Oct 09
-R1-R2           45%           45%           45%
+              Oct 08        Oct 09        Oct 10
+R1-R2           40%           40%           40%
 R3 or greater    5%            5%            5%
 
 Rationale: Solar activity is expected to be at low levels with a strong
-chance (45%) for further M-class flares (R1-R2, Minor-Moderate) through
-09 Oct, particularly from Region 4549 and possibly Region 4545.
+chance(40%) for further M-class flares (R1-R2, Minor-Moderate) through
+10 Oct, particularly from Region 4549.
 
 ```
