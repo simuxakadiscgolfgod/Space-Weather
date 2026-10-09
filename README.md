@@ -1,9 +1,9 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2026-10-08
+<br />**Date image released:**  2026-10-09
 <br />**Title of the image:**  NASA Science
-<br />**Description for the image:**  How was the Saturn system imaged so clearly? Astrophotographer Tom Williams captured such exquisite details due to one night of exceptional atmospheric conditions above the United Kingdom. This means more than a cloudless sky. Pockets of air at different temperatures and densities move around and bend light as it travels through Earth’s atmosphere, distorting astronomy images. This is called “seeing.” Less atmospheric turbulence means clearer images. The astrophotographer reduced the impact of seeing with the lucky imaging technique: thousands of short-exposure images are taken very quickly with a high-speed camera and the clearest images are added up. Which object in this smörgåsbord interests you? Perhaps Titan or the icy stripes of Enceladus? Maybe the gaps and spokes in Saturn’s rings? Saturn's opposition, when Earth passes in between the planet and the Sun, occurred on October 4th. Due to the planet's proximity and full illumination from the Sun, now is a great time of year to observe it!Tomorrow's picture: bumpy						
+<br />**Description for the image:**  Stickney Crater, the largest crater on the martian moon Phobos, is named for Chloe Angeline Stickney Hall, mathematician and wife of astronomer Asaph Hall. Asaph Hall discovered both the Red Planet's moons in 1877. Over 9 kilometers across, Stickney is nearly half the diameter of Phobos itself, so large that the impact that blasted out the crater likely came close to shattering the tiny moon. This enhanced-color image of Stickney and surroundings was recorded by the HiRISE camera onboard the Mars Reconnaissance Orbiter as it passed within some six thousand kilometers of Phobos in March of 2008. Even though the surface gravity of asteroid-like Phobos is less than 1/1000th Earth's gravity, streaks suggest loose material slid down inside the crater walls over time. Light bluish regions near the crater's rim could indicate a relatively freshly exposed surface. The origin of the curious grooves along the surface is mysterious but may be related to tidal stresses experienced by close-orbiting Phobos or the crater-forming impact itself.Tomorrow's picture: farside						
 <br />**URL for this image:**  https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png
 
 ## X-Ray Flux
@@ -48,56 +48,60 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2026 Oct 08 1230 UTC
+:Issued: 2026 Oct 09 1230 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Oct 08-Oct 10 2026 is 5.67 (NOAA Scale
+The greatest expected 3 hr Kp for Oct 09-Oct 11 2026 is 6.00 (NOAA Scale
 G2).
 
-NOAA Kp index breakdown Oct 08-Oct 10 2026
+NOAA Kp index breakdown Oct 09-Oct 11 2026
 
-             Oct 08       Oct 09       Oct 10
-00-03UT       1.00         1.67         4.00     
-03-06UT       1.67         5.00 (G1)    3.67     
-06-09UT       1.00         4.33         3.00     
-09-12UT       2.00         5.67 (G2)    3.00     
-12-15UT       1.00         4.00         2.67     
-15-18UT       1.67         3.00         2.33     
-18-21UT       1.67         3.00         2.33     
-21-00UT       1.67         4.00         2.67     
+             Oct 09       Oct 10       Oct 11
+00-03UT       3.33         4.00         4.67 (G1)    
+03-06UT       2.67         3.67         5.67 (G2)    
+06-09UT       3.00         3.00         4.33         
+09-12UT       3.67         3.00         3.00         
+12-15UT       4.67 (G1)    1.67         2.67         
+15-18UT       5.00 (G1)    2.33         2.33         
+18-21UT       6.00 (G2)    2.67         2.00         
+21-00UT       5.67 (G2)    2.67         2.67         
 
-Rationale: G1-G2 (Minor-Moderate) geomagnetic storms are likely on 09
-Oct due to the anticipated arrival of a CME from 06 Oct.
+Rationale: G1-G2 (Minor-Moderate) geomagnetic storming conditions are
+expected late on 09 Oct and early on 11 Oct due to the anticipated
+arrivals of several different CMEs with some potential negative polarity
+coronal hole high speed stream influences.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Oct 08-Oct 10 2026
+Solar Radiation Storm Forecast for Oct 09-Oct 11 2026
 
-              Oct 08  Oct 09  Oct 10
+              Oct 09  Oct 10  Oct 11
 S1 or greater   10%     10%     10%
 
-Rationale: There is a slight chance (10%) for a greater than 10 MeV
-proton event exceeding the 10 pfu (S1-Minor) threshold through 10 Oct.
+Rationale: There is a slight chance for S1 (Minor) or greater solar
+radiation storms through 11 Oct, largely due to the flaring potential of
+Region 4549.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-No radio blackouts were observed over the past 24 hours.
+Radio blackouts reaching the R2 levels were observed over the past 24
+hours. The largest was at 08/1548Z UTC.
 
-Radio Blackout Forecast for Oct 08-Oct 10 2026
+Radio Blackout Forecast for Oct 09-Oct 11 2026
 
-              Oct 08        Oct 09        Oct 10
-R1-R2           40%           40%           40%
-R3 or greater    5%            5%            5%
+              Oct 09        Oct 10        Oct 11
+R1-R2           55%           55%           55%
+R3 or greater   10%           10%           10%
 
-Rationale: Solar activity is expected to be at low levels with a strong
-chance(40%) for further M-class flares (R1-R2, Minor-Moderate) through
-10 Oct, particularly from Region 4549.
+Rationale: R1-R2 (Minor-Moderate) radio blackouts are likely, with a
+slight chance for R3 (Strong) or greater events, through 11 Oct, largely
+due to the flaring potential of Region 4549.
 
 ```
