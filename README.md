@@ -1,9 +1,9 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2026-10-09
+<br />**Date image released:**  2026-10-10
 <br />**Title of the image:**  NASA Science
-<br />**Description for the image:**  Stickney Crater, the largest crater on the martian moon Phobos, is named for Chloe Angeline Stickney Hall, mathematician and wife of astronomer Asaph Hall. Asaph Hall discovered both the Red Planet's moons in 1877. Over 9 kilometers across, Stickney is nearly half the diameter of Phobos itself, so large that the impact that blasted out the crater likely came close to shattering the tiny moon. This enhanced-color image of Stickney and surroundings was recorded by the HiRISE camera onboard the Mars Reconnaissance Orbiter as it passed within some six thousand kilometers of Phobos in March of 2008. Even though the surface gravity of asteroid-like Phobos is less than 1/1000th Earth's gravity, streaks suggest loose material slid down inside the crater walls over time. Light bluish regions near the crater's rim could indicate a relatively freshly exposed surface. The origin of the curious grooves along the surface is mysterious but may be related to tidal stresses experienced by close-orbiting Phobos or the crater-forming impact itself.Tomorrow's picture: farside						
+<br />**Description for the image:**  Tidally locked in synchronous rotation, the Moon always presents its familiar nearside to denizens of planet Earth. From lunar orbit, the Moon's farside can become familiar, though. In fact this sharp picture, a mosaic from the Lunar Reconnaissance Orbiter's wide angle camera, is centered on the lunar farside. Part of a global mosaic of over 15,000 images acquired between November 2009 and February 2011, the highest resolution version shows features at a scale of 100 meters per pixel. Surprisingly, the rough and battered surface of the farside looks very different from the nearside covered with smooth dark lunar maria. A likely explanation is that the farside crust is thicker, making it harder for molten material from the interior to flow to the surface and form dark, smooth maria.Tomorrow's picture: Sunday's Childe						
 <br />**URL for this image:**  https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png
 
 ## X-Ray Flux
@@ -48,60 +48,63 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2026 Oct 09 1230 UTC
+:Issued: 2026 Oct 10 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Oct 09-Oct 11 2026 is 6.00 (NOAA Scale
+The greatest expected 3 hr Kp for Oct 10-Oct 12 2026 is 5.67 (NOAA Scale
 G2).
 
-NOAA Kp index breakdown Oct 09-Oct 11 2026
+NOAA Kp index breakdown Oct 10-Oct 12 2026
 
-             Oct 09       Oct 10       Oct 11
-00-03UT       3.33         4.00         4.67 (G1)    
-03-06UT       2.67         3.67         5.67 (G2)    
-06-09UT       3.00         3.00         4.33         
-09-12UT       3.67         3.00         3.00         
-12-15UT       4.67 (G1)    1.67         2.67         
-15-18UT       5.00 (G1)    2.33         2.33         
-18-21UT       6.00 (G2)    2.67         2.00         
-21-00UT       5.67 (G2)    2.67         2.67         
+             Oct 10       Oct 11       Oct 12
+00-03UT       2.33         2.67         5.33 (G1)
+03-06UT       2.67         2.67         5.67 (G2)
+06-09UT       3.33         3.33         5.33 (G1)
+09-12UT       3.33         3.33         4.33     
+12-15UT       3.33         3.67         3.67     
+15-18UT       3.67         4.00         3.67     
+18-21UT       4.00         4.67 (G1)    3.67     
+21-00UT       4.67 (G1)    4.67 (G1)    3.67     
 
-Rationale: G1-G2 (Minor-Moderate) geomagnetic storming conditions are
-expected late on 09 Oct and early on 11 Oct due to the anticipated
-arrivals of several different CMEs with some potential negative polarity
-coronal hole high speed stream influences.
+Rationale: G1 (Minor) geomagnetic storming conditions are expected late
+on 10 Oct and on 11 Oct due to the anticipated arrivals of several
+different CMEs with some potential negative polarity coronal hole high
+speed stream influences. G1-G2 (Minor-Moderate) geomagnetic storm
+conditions are expected early on 12 Oct due to the anticipated arrival
+of additional CMEs with some potential negative polarity coronal hole
+high speed stream influences.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Oct 09-Oct 11 2026
+Solar Radiation Storm Forecast for Oct 10-Oct 12 2026
 
-              Oct 09  Oct 10  Oct 11
+              Oct 10  Oct 11  Oct 12
 S1 or greater   10%     10%     10%
 
 Rationale: There is a slight chance for S1 (Minor) or greater solar
-radiation storms through 11 Oct, largely due to the flaring potential of
+radiation storms through 12 Oct, largely due to the flaring potential of
 Region 4549.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-Radio blackouts reaching the R2 levels were observed over the past 24
-hours. The largest was at 08/1548Z UTC.
+Radio blackouts reaching the R1 levels were observed over the past 24
+hours. The largest was at Oct 09 2026 1409 UTC.
 
-Radio Blackout Forecast for Oct 09-Oct 11 2026
+Radio Blackout Forecast for Oct 10-Oct 12 2026
 
-              Oct 09        Oct 10        Oct 11
+              Oct 10        Oct 11        Oct 12
 R1-R2           55%           55%           55%
 R3 or greater   10%           10%           10%
 
 Rationale: R1-R2 (Minor-Moderate) radio blackouts are likely, with a
-slight chance for R3 (Strong) or greater events, through 11 Oct, largely
+slight chance for R3 (Strong) or greater events, through 12 Oct, largely
 due to the flaring potential of Region 4549.
 
 ```
