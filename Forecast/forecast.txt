@@ -1,58 +1,89 @@
 ```
 :Product: 3-Day Forecast
-:Issued: 2026 Oct 11 1230 UTC
+:Issued: 2026 Oct 12 1230 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 7 (NOAA Scale
-G3).
-The greatest expected 3 hr Kp for Oct 11-Oct 13 2026 is 5.67 (NOAA Scale
-G2).
+The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
+Scale levels).
+The greatest expected 3 hr Kp for Oct 12-Oct 14 2026 is 5.00 (NOAA Scale
+G1).
 
-NOAA Kp index breakdown Oct 11-Oct 13 2026
+NOAA Kp index breakdown Oct 12-Oct 14 2026
 
-             Oct 11       Oct 12       Oct 13
-00-03UT       4.00         5.33 (G1)    4.00         
-03-06UT       3.67         5.67 (G2)    4.00         
-06-09UT       2.67         4.67 (G1)    4.00         
-09-12UT       5.67 (G2)    3.67         3.67         
-12-15UT       5.33 (G1)    3.67         4.00         
-15-18UT       4.67 (G1)    3.33         3.33         
-18-21UT       4.67 (G1)    2.67         3.33         
-21-00UT       4.33         3.33         2.67         
+             Oct 12       Oct 13       Oct 14
+00-03UT       1.67         4.00         3.67     
+03-06UT       2.33         4.67 (G1)    4.00     
+06-09UT       3.33         5.00 (G1)    2.67     
+09-12UT       2.33         4.33         3.67     
+12-15UT       2.33         4.00         3.67     
+15-18UT       2.67         3.67         3.67     
+18-21UT       3.67         3.33         3.33     
+21-00UT       4.00         2.67         2.67     
 
-Rationale: G1-G2 (Minor-Moderate) are expected on 11-12 Oct, due to
-anticipated continued influence of several different CMEs along with
-some potential negative polarity coronal hole high speed stream
-influences.
+Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
+significant transient or recurrent solar wind features are forecast.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Oct 11-Oct 13 2026
+Product: 3-Day Forecast
+Issued: 2026 Oct 12 1230 UTC
+Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction
+Center
 
-              Oct 11  Oct 12  Oct 13
-S1 or greater   10%     10%      5%
+A. NOAA Geomagnetic Activity Observation and Forecast
 
-Rationale: There is a slight chance for S1 (Minor) or greater solar
-radiation storms through 13 Oct, primarily due to the flaring potential
-of Region 4549.
+The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
+Scale levels).
+The greatest expected 3 hr Kp for Oct 12-Oct 14 2026 is 5.00 (NOAA Scale
+G1).
+
+NOAA Kp index breakdown Oct 12-Oct 14 2026
+
+             Oct 12       Oct 13       Oct 14
+00-03UT       1.67         4.00         3.67         
+03-06UT       2.33         4.67 (G1)    4.00         
+06-09UT       3.33         5.00 (G1)    2.67         
+09-12UT       2.33         4.33         3.67         
+12-15UT       2.33         4.00         3.67         
+15-18UT       2.67         3.67         3.67         
+18-21UT       3.67         3.33         3.33         
+21-00UT       4.00         2.67         2.67         
+
+Rationale: G1 (Minor) storms are expected on 14 Oct, due to the
+influence of a geoeffective negative polarity coronal hole high speed
+stream and potential grazing influences from a CME that left the Sun on
+12 Oct.
+
+B. NOAA Solar Radiation Activity Observation and Forecast
+
+Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
+below S-scale storm level thresholds.
+
+Solar Radiation Storm Forecast for Oct 12-Oct 14 2026
+
+              Oct 12  Oct 13  Oct 14
+S1 or greater   10%      5%      5%
+
+Rationale: There is a decreasing slight chance for S1 (Minor) or greater
+solar radiation storms through 14 Oct.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-Radio blackouts reaching the R2 levels were observed over the past 24
-hours. The largest was at 10/1510Z UTC.
+No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Oct 11-Oct 13 2026
+Radio Blackout Forecast for Oct 12-Oct 14 2026
 
-              Oct 11        Oct 12        Oct 13
-R1-R2           65%           65%           55%
-R3 or greater   15%           15%           10%
+              Oct 12        Oct 13        Oct 14
+R1-R2           55%           50%           45%
+R3 or greater   15%           10%            5%
 
-Rationale: R1-R2 (Minor-Moderate) radio blackouts are likely, with a
-slight chance for R3 (Strong) events, through 13 Oct.
+Rationale: R1-R2 (Minor-Moderate) radio blackouts are likely on 12 Oct
+and become decreasingly likely through 14 Oct. There is a decreasing
+slight chance for R3 (Strong) or greater events through 14 Oct.
 
 ```

@@ -1,9 +1,9 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2026-10-11
+<br />**Date image released:**  2026-10-12
 <br />**Title of the image:**  NASA Science
-<br />**Description for the image:**  Scientists are melting holes in the bottom of the world. In fact, almost 100 holes melted near the South Pole are now being used as an astronomical observatory. Astronomers with the IceCube Neutrino Observatory lowered a long string knotted with basketball-sized light detectors into each vertical lake. The water in each hole soon refreezes. The detectors attached to the strings are sensitive to blue light emitted in the surrounding clear ice. Such light results from fast-moving secondary particles liberated when high-energy neutrinos emitted by powerful processes out in the universe collide with ice molecules. IceCube has now detected many illuminating neutrinos. Pictured in 2010, one of the last of IceCube's detector strings is lowered into the freezing abyss, making IceCube the largest neutrino detector ever created. In recognition of unprecedented discoveries, it was announced earlier this week that a founding leader of the IceCube Collaboration will be awarded the Nobel Prize in Physics.Tomorrow's picture: Moons Planet						
+<br />**Description for the image:**  How many moons can you see? The best answer is five: four orbiting Jupiter and Luna orbiting Earth. This multi-moon picture was possible because Earth's Moon moved directly in front of Jupiter last week. The featured image is a series of exposures near alignment taken from Westchester, New York, USA. The sunlit crescent of Earth's Moon, on the lower left, is overexposed, while the Moon's night side, on the upper right, is faintly illuminated by Earthshine. Lined up nearly vertically above our Moon, listed from bottom to top, are Jupiter's bright Galilean satellites: Ganymede, Io, Callisto, and Europa. Callisto, Ganymede, and Io are larger than Earth's Moon, while Europa is only slightly smaller. NASA's robotic spacecraft Juno is currently orbiting Jupiter and has made close passes near three of these moons.Tomorrow's picture: stairway to heaven						
 <br />**URL for this image:**  https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png
 
 ## X-Ray Flux
@@ -48,59 +48,90 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2026 Oct 11 1230 UTC
+:Issued: 2026 Oct 12 1230 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 7 (NOAA Scale
-G3).
-The greatest expected 3 hr Kp for Oct 11-Oct 13 2026 is 5.67 (NOAA Scale
-G2).
+The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
+Scale levels).
+The greatest expected 3 hr Kp for Oct 12-Oct 14 2026 is 5.00 (NOAA Scale
+G1).
 
-NOAA Kp index breakdown Oct 11-Oct 13 2026
+NOAA Kp index breakdown Oct 12-Oct 14 2026
 
-             Oct 11       Oct 12       Oct 13
-00-03UT       4.00         5.33 (G1)    4.00         
-03-06UT       3.67         5.67 (G2)    4.00         
-06-09UT       2.67         4.67 (G1)    4.00         
-09-12UT       5.67 (G2)    3.67         3.67         
-12-15UT       5.33 (G1)    3.67         4.00         
-15-18UT       4.67 (G1)    3.33         3.33         
-18-21UT       4.67 (G1)    2.67         3.33         
-21-00UT       4.33         3.33         2.67         
+             Oct 12       Oct 13       Oct 14
+00-03UT       1.67         4.00         3.67     
+03-06UT       2.33         4.67 (G1)    4.00     
+06-09UT       3.33         5.00 (G1)    2.67     
+09-12UT       2.33         4.33         3.67     
+12-15UT       2.33         4.00         3.67     
+15-18UT       2.67         3.67         3.67     
+18-21UT       3.67         3.33         3.33     
+21-00UT       4.00         2.67         2.67     
 
-Rationale: G1-G2 (Minor-Moderate) are expected on 11-12 Oct, due to
-anticipated continued influence of several different CMEs along with
-some potential negative polarity coronal hole high speed stream
-influences.
+Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
+significant transient or recurrent solar wind features are forecast.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Oct 11-Oct 13 2026
+Product: 3-Day Forecast
+Issued: 2026 Oct 12 1230 UTC
+Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction
+Center
 
-              Oct 11  Oct 12  Oct 13
-S1 or greater   10%     10%      5%
+A. NOAA Geomagnetic Activity Observation and Forecast
 
-Rationale: There is a slight chance for S1 (Minor) or greater solar
-radiation storms through 13 Oct, primarily due to the flaring potential
-of Region 4549.
+The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
+Scale levels).
+The greatest expected 3 hr Kp for Oct 12-Oct 14 2026 is 5.00 (NOAA Scale
+G1).
+
+NOAA Kp index breakdown Oct 12-Oct 14 2026
+
+             Oct 12       Oct 13       Oct 14
+00-03UT       1.67         4.00         3.67         
+03-06UT       2.33         4.67 (G1)    4.00         
+06-09UT       3.33         5.00 (G1)    2.67         
+09-12UT       2.33         4.33         3.67         
+12-15UT       2.33         4.00         3.67         
+15-18UT       2.67         3.67         3.67         
+18-21UT       3.67         3.33         3.33         
+21-00UT       4.00         2.67         2.67         
+
+Rationale: G1 (Minor) storms are expected on 14 Oct, due to the
+influence of a geoeffective negative polarity coronal hole high speed
+stream and potential grazing influences from a CME that left the Sun on
+12 Oct.
+
+B. NOAA Solar Radiation Activity Observation and Forecast
+
+Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
+below S-scale storm level thresholds.
+
+Solar Radiation Storm Forecast for Oct 12-Oct 14 2026
+
+              Oct 12  Oct 13  Oct 14
+S1 or greater   10%      5%      5%
+
+Rationale: There is a decreasing slight chance for S1 (Minor) or greater
+solar radiation storms through 14 Oct.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-Radio blackouts reaching the R2 levels were observed over the past 24
-hours. The largest was at 10/1510Z UTC.
+No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Oct 11-Oct 13 2026
+Radio Blackout Forecast for Oct 12-Oct 14 2026
 
-              Oct 11        Oct 12        Oct 13
-R1-R2           65%           65%           55%
-R3 or greater   15%           15%           10%
+              Oct 12        Oct 13        Oct 14
+R1-R2           55%           50%           45%
+R3 or greater   15%           10%            5%
 
-Rationale: R1-R2 (Minor-Moderate) radio blackouts are likely, with a
-slight chance for R3 (Strong) events, through 13 Oct.
+Rationale: R1-R2 (Minor-Moderate) radio blackouts are likely on 12 Oct
+and become decreasingly likely through 14 Oct. There is a decreasing
+slight chance for R3 (Strong) or greater events through 14 Oct.
 
 ```
