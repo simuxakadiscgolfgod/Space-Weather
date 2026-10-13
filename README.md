@@ -1,9 +1,9 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2026-10-12
+<br />**Date image released:**  2026-10-13
 <br />**Title of the image:**  NASA Science
-<br />**Description for the image:**  How many moons can you see? The best answer is five: four orbiting Jupiter and Luna orbiting Earth. This multi-moon picture was possible because Earth's Moon moved directly in front of Jupiter last week. The featured image is a series of exposures near alignment taken from Westchester, New York, USA. The sunlit crescent of Earth's Moon, on the lower left, is overexposed, while the Moon's night side, on the upper right, is faintly illuminated by Earthshine. Lined up nearly vertically above our Moon, listed from bottom to top, are Jupiter's bright Galilean satellites: Ganymede, Io, Callisto, and Europa. Callisto, Ganymede, and Io are larger than Earth's Moon, while Europa is only slightly smaller. NASA's robotic spacecraft Juno is currently orbiting Jupiter and has made close passes near three of these moons.Tomorrow's picture: stairway to heaven						
+<br />**Description for the image:**  This stairway in Chile brings you only a little bit closer to heaven. But ooh, the sky above it makes you wonder. For example, you may wonder about the dark lane of our own Milky Way galaxy rising behind the expansive Atacama Desert in Chile, the band of zodiacal light on the upper left, the green and red airglow just above the horizon, the star Spica in the zodiacal light stripe, and, at the very top on the right, the Small Magellanic Cloud galaxy. The Desert Staircase sculpture is in the foreground, and this image was timed to catch the picturesque peering perch just in front of the near-vertical Milky Way band. Upon close inspection of the horizon you can find, left to right, some Andes Mountains, the Licancabur volcano, and the town lights of San Pedro de Atacama. The featured wide-angle composite was captured in July 2025.Tomorrow's picture: open space						
 <br />**URL for this image:**  https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png
 
 ## X-Ray Flux
@@ -48,90 +48,57 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2026 Oct 12 1230 UTC
+:Issued: 2026 Oct 13 1230 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Oct 12-Oct 14 2026 is 5.00 (NOAA Scale
+The greatest expected 3 hr Kp for Oct 13-Oct 15 2026 is 4.67 (NOAA Scale
 G1).
 
-NOAA Kp index breakdown Oct 12-Oct 14 2026
+NOAA Kp index breakdown Oct 13-Oct 15 2026
 
-             Oct 12       Oct 13       Oct 14
-00-03UT       1.67         4.00         3.67     
-03-06UT       2.33         4.67 (G1)    4.00     
-06-09UT       3.33         5.00 (G1)    2.67     
-09-12UT       2.33         4.33         3.67     
-12-15UT       2.33         4.00         3.67     
-15-18UT       2.67         3.67         3.67     
-18-21UT       3.67         3.33         3.33     
-21-00UT       4.00         2.67         2.67     
+             Oct 13       Oct 14       Oct 15
+00-03UT       3.33         3.67         2.67     
+03-06UT       3.33         4.00         3.33     
+06-09UT       2.00         2.67         3.00     
+09-12UT       3.00         3.67         2.33     
+12-15UT       3.33         3.67         1.67     
+15-18UT       3.67         3.67         1.00     
+18-21UT       4.00         3.33         1.33     
+21-00UT       4.67 (G1)    2.67         2.33     
 
-Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
-significant transient or recurrent solar wind features are forecast.
+Rationale: G1 (Minor) geomagnetic storming is likely on 13 Oct due to
+negative polarity CH HSS influences combined with possible flanking CME
+influences.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Product: 3-Day Forecast
-Issued: 2026 Oct 12 1230 UTC
-Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction
-Center
+Solar Radiation Storm Forecast for Oct 13-Oct 15 2026
 
-A. NOAA Geomagnetic Activity Observation and Forecast
+              Oct 13  Oct 14  Oct 15
+S1 or greater    5%      5%      5%
 
-The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
-Scale levels).
-The greatest expected 3 hr Kp for Oct 12-Oct 14 2026 is 5.00 (NOAA Scale
-G1).
-
-NOAA Kp index breakdown Oct 12-Oct 14 2026
-
-             Oct 12       Oct 13       Oct 14
-00-03UT       1.67         4.00         3.67         
-03-06UT       2.33         4.67 (G1)    4.00         
-06-09UT       3.33         5.00 (G1)    2.67         
-09-12UT       2.33         4.33         3.67         
-12-15UT       2.33         4.00         3.67         
-15-18UT       2.67         3.67         3.67         
-18-21UT       3.67         3.33         3.33         
-21-00UT       4.00         2.67         2.67         
-
-Rationale: G1 (Minor) storms are expected on 14 Oct, due to the
-influence of a geoeffective negative polarity coronal hole high speed
-stream and potential grazing influences from a CME that left the Sun on
-12 Oct.
-
-B. NOAA Solar Radiation Activity Observation and Forecast
-
-Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
-below S-scale storm level thresholds.
-
-Solar Radiation Storm Forecast for Oct 12-Oct 14 2026
-
-              Oct 12  Oct 13  Oct 14
-S1 or greater   10%      5%      5%
-
-Rationale: There is a decreasing slight chance for S1 (Minor) or greater
-solar radiation storms through 14 Oct.
+Rationale: No S1 (Minor) or greater solar radiation storms are expected.
+No significant active region activity favorable for radiation storm
+production is forecast.
 
 C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Oct 12-Oct 14 2026
+Radio Blackout Forecast for Oct 13-Oct 15 2026
 
-              Oct 12        Oct 13        Oct 14
-R1-R2           55%           50%           45%
-R3 or greater   15%           10%            5%
+              Oct 13        Oct 14        Oct 15
+R1-R2           35%           35%           35%
+R3 or greater    5%            5%            5%
 
-Rationale: R1-R2 (Minor-Moderate) radio blackouts are likely on 12 Oct
-and become decreasingly likely through 14 Oct. There is a decreasing
-slight chance for R3 (Strong) or greater events through 14 Oct.
+Rationale: A chance for R1-R2 (Minor-Moderate) radio blackouts due to
+isolated M-class flare activity will persist through 15 Oct.
 
 ```
