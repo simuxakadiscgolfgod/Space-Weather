@@ -1,9 +1,9 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2026-10-14
+<br />**Date image released:**  2026-10-15
 <br />**Title of the image:**  NASA Science
-<br />**Description for the image:**  What a cosmic coincidence! In today’s image, Mars joins the Beehive cluster (M44 or Praesepe) below an auroral curtain and above a horizon of happy little trees near Lansjärv, Sweden. An eruption off the Sun reached Earth on October 10th, 2026 causing strong disturbances in Earth’s magnetic field. Energetic particles from the eruption collide with and energize the molecules in Earth’s atmosphere, which release that extra energy as the colorful aurora captured here. Auroras, or guovssahasat in North Sámi, is traditionally viewed with respect by the Sámi people indigenous to Sweden and other Arctic regions. Coincidentally, Mars appeared closest to the center of the Beehive cluster in the sky at the time. Although bees have been to space, the Beehive cluster is actually a swarm of young stars. Their rotation periods have helped humanity learn about how stars spin slower over time as they lose mass through their stellar winds.Tomorrow's picture: open space						
+<br />**Description for the image:**  The city lights outshine the stars in the City That Never Sleeps. Who would have thought that the Milky Way could be visible in this sky? This image was taken with a filter that blocks most visible light, capturing instead only light in the near-infrared region of the electromagnetic spectrum (with lower energy than visible light). The astrophotographer's clever setup blocks most of the light pollution from the city: old incandescent light bulbs and some neon lights are still bright in the near-infrared, but fluorescent and LED light bulbs are not. Of course, stars are also bright in the near-infrared! This image is a reminder that we all live under the same sky, and astronomy allows all of us to learn more about humanity's place in the Cosmos.
 <br />**URL for this image:**  https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png
 
 ## X-Ray Flux
@@ -48,29 +48,29 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2026 Oct 14 0030 UTC
+:Issued: 2026 Oct 15 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Oct 14-Oct 16 2026 is 3.67 (below NOAA
+The greatest expected 3 hr Kp for Oct 15-Oct 17 2026 is 3.33 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Oct 14-Oct 16 2026
+NOAA Kp index breakdown Oct 15-Oct 17 2026
 
-             Oct 14       Oct 15       Oct 16
-00-03UT       3.67         2.67         1.67     
-03-06UT       3.33         3.33         1.67     
-06-09UT       3.67         3.00         1.33     
-09-12UT       2.67         2.33         1.33     
-12-15UT       2.67         1.67         1.33     
-15-18UT       3.33         1.00         1.33     
-18-21UT       3.33         1.33         1.67     
-21-00UT       3.33         2.33         1.33     
+             Oct 15       Oct 16       Oct 17
+00-03UT       2.67         2.33         1.67         
+03-06UT       3.33         2.67         1.67         
+06-09UT       3.00         2.00         1.33         
+09-12UT       2.33         1.67         1.33         
+12-15UT       1.67         1.67         1.33         
+15-18UT       1.00         2.00         1.33         
+18-21UT       1.33         2.00         1.33         
+21-00UT       2.33         2.67         1.67         
 
-Rationale: No G1 (Minor) or greater geomagnetic storms are expected.  No
+Rationale: No G1 (Minor) or greater geomagnetic storms are expected. No
 significant transient or recurrent solar wind features are forecast.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
@@ -78,9 +78,9 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Oct 14-Oct 16 2026
+Solar Radiation Storm Forecast for Oct 15-Oct 17 2026
 
-              Oct 14  Oct 15  Oct 16
+              Oct 15  Oct 16  Oct 17
 S1 or greater    5%      1%      1%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -91,13 +91,13 @@ C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Oct 14-Oct 16 2026
+Radio Blackout Forecast for Oct 15-Oct 17 2026
 
-              Oct 14        Oct 15        Oct 16
-R1-R2           10%           10%           10%
-R3 or greater    1%            1%            1%
+              Oct 15        Oct 16        Oct 17
+R1-R2           20%           20%           20%
+R3 or greater    5%            5%            5%
 
-Rationale: No R1 (Minor) or greater radio blackouts are expected.  No
-significant active region flare activity is forecast.
+Rationale: There is a slight chance for R1-R2 (Minor-Moderate) radio
+blackouts through 17 Oct.
 
 ```
