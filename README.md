@@ -1,9 +1,9 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2026-10-16
+<br />**Date image released:**  2026-10-17
 <br />**Title of the image:**  NASA Science
-<br />**Description for the image:**  To view this video please enable JavaScript, and consider upgrading to a web browser that 					supports HTML5 vide
+<br />**Description for the image:**  Put on your red/blue glasses and float next to the jagged and double-lobed nucleus of Churyumov-Gerasimenko, also known as Comet 67P . The stereo anaglyph was created by combining two images from the Rosetta spacecraft's narrow angle OSIRIS camera taken on July 25, 2015 from a distance of 184 kilometers. Numerous jets are emanating from the small solar system world's active surface near its closest approach to the Sun. The larger lobe is around 4 kilometers in diameter, joined to a smaller, 2.5 kilometer diameter lobe by a narrow neck. Rosetta's mission to the comet ended in September 2016 when the spacecraft was commanded to a controlled impact with the comet's surface . Keep those 3D glasses on though. You can check out a catalog of nearly 1400 stereo anaglyphs created from Rosetta image data on this website.Tomorrow's picture: open space
 <br />**URL for this image:**  https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png
 
 ## X-Ray Flux
@@ -48,27 +48,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2026 Oct 16 0030 UTC
+:Issued: 2026 Oct 17 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Oct 16-Oct 18 2026 is 2.67 (below NOAA
+The greatest expected 3 hr Kp for Oct 17-Oct 19 2026 is 4.00 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Oct 16-Oct 18 2026
+NOAA Kp index breakdown Oct 17-Oct 19 2026
 
-             Oct 16       Oct 17       Oct 18
-00-03UT       2.33         1.67         1.67         
-03-06UT       2.67         1.67         1.67         
+             Oct 17       Oct 18       Oct 19
+00-03UT       4.00         1.67         1.67         
+03-06UT       3.33         1.67         1.33         
 06-09UT       2.00         1.33         1.33         
-09-12UT       1.67         1.33         1.33         
-12-15UT       1.67         1.33         1.33         
-15-18UT       2.00         1.33         1.33         
-18-21UT       2.00         1.33         1.33         
-21-00UT       2.67         1.67         1.67         
+09-12UT       1.33         1.33         1.33         
+12-15UT       1.33         1.33         1.33         
+15-18UT       1.33         1.33         1.33         
+18-21UT       2.00         1.33         1.67         
+21-00UT       1.67         1.67         1.67         
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected. No
 significant transient or recurrent solar wind features are forecast.
@@ -78,27 +78,27 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Oct 16-Oct 18 2026
+Solar Radiation Storm Forecast for Oct 17-Oct 19 2026
 
-              Oct 16  Oct 17  Oct 18
-S1 or greater   10%     10%     10%
+              Oct 17  Oct 18  Oct 19
+S1 or greater    5%      5%      5%
 
-Rationale: There is a slight chance for an S1 (Minor) solar radiation
-storm through 18 Oct due to the flare potential of Region 4551.
+Rationale: No S1 (Minor) or greater solar radiation storms are expected.
+No significant active region activity favorable for radiation storm
+production is forecast.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-No radio blackouts were observed over the past 24 hours.
+Radio blackouts reaching the R1 levels were observed over the past 24
+hours. The largest was at 16/1542Z UTC.
 
-Radio Blackout Forecast for Oct 16-Oct 18 2026
+Radio Blackout Forecast for Oct 17-Oct 19 2026
 
-              Oct 16        Oct 17        Oct 18
-R1-R2           25%           25%           25%
-R3 or greater   10%           10%           10%
+              Oct 17        Oct 18        Oct 19
+R1-R2           20%           20%           20%
+R3 or greater    5%            5%            5%
 
-Rationale: Solar activity is expected to be at low levels through 18
-Oct, with a chance (25%) for M-class flares (R1-R2, Minor-Moderate) and
-a slight chance for an X-class flare (R3-Strong) due mainly to the flare
-potential of Region 4551.
+Rationale: There is a slight chance for R1-R2 (Minor-Moderate) radio
+blackouts on 17-19 Oct.
 
 ```
