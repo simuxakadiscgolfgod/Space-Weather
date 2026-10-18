@@ -1,9 +1,9 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2026-10-17
+<br />**Date image released:**  2026-10-18
 <br />**Title of the image:**  NASA Science
-<br />**Description for the image:**  Put on your red/blue glasses and float next to the jagged and double-lobed nucleus of Churyumov-Gerasimenko, also known as Comet 67P . The stereo anaglyph was created by combining two images from the Rosetta spacecraft's narrow angle OSIRIS camera taken on July 25, 2015 from a distance of 184 kilometers. Numerous jets are emanating from the small solar system world's active surface near its closest approach to the Sun. The larger lobe is around 4 kilometers in diameter, joined to a smaller, 2.5 kilometer diameter lobe by a narrow neck. Rosetta's mission to the comet ended in September 2016 when the spacecraft was commanded to a controlled impact with the comet's surface . Keep those 3D glasses on though. You can check out a catalog of nearly 1400 stereo anaglyphs created from Rosetta image data on this website.Tomorrow's picture: open space
+<br />**Description for the image:**  Yes, but have you ever experienced the Eagle Nebula with your ears? The famous nebula M16 is best known for the feast it gives your eyes, highlighting bright young stars forming deep inside dark towering structures. These light-years long columns of cold gas and dust are some 6,500 light-years distant toward the constellation of the Serpent (Serpens). Sculpted and eroded by the energetic ultraviolet light and powerful winds from M16's cluster of massive stars, the cosmic pillars themselves are destined for destruction. But the turbulent environment of star formation within M16, whose spectacular details are captured in this combined Hubble (visible) and Chandra (X-ray) image, is likely similar to the environment that formed our own Sun. In the featured video, listen for stars and dust sounding off as the line of sonification moves left to right, with vertical position determining pitch.Tomorrow's picture: what could it be?						
 <br />**URL for this image:**  https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png
 
 ## X-Ray Flux
@@ -48,39 +48,39 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2026 Oct 17 0030 UTC
+:Issued: 2026 Oct 18 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Oct 17-Oct 19 2026 is 4.00 (below NOAA
+The greatest expected 3 hr Kp for Oct 17-Oct 19 2026 is 2.67 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Oct 17-Oct 19 2026
+NOAA Kp index breakdown Oct 18-Oct 20 2026
 
-             Oct 17       Oct 18       Oct 19
-00-03UT       4.00         1.67         1.67         
-03-06UT       3.33         1.67         1.33         
-06-09UT       2.00         1.33         1.33         
-09-12UT       1.33         1.33         1.33         
-12-15UT       1.33         1.33         1.33         
-15-18UT       1.33         1.33         1.33         
-18-21UT       2.00         1.33         1.67         
-21-00UT       1.67         1.67         1.67         
+             Oct 18       Oct 19       Oct 20
+00-03UT       1.67         1.67         4.00         
+03-06UT       1.67         2.00         5.00 (G1)    
+06-09UT       1.33         1.00         3.00         
+09-12UT       1.33         1.33         4.33         
+12-15UT       1.33         1.33         3.00         
+15-18UT       1.33         3.33         2.00         
+18-21UT       1.33         4.00         3.67         
+21-00UT       1.67         4.00         2.67         
 
-Rationale: No G1 (Minor) or greater geomagnetic storms are expected. No
-significant transient or recurrent solar wind features are forecast.
+Rationale: Periods of G1 (Minor) geomagnetic storming are likely on 20
+Oct due to the influences of a positive polarity CH HSS.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Oct 17-Oct 19 2026
+Solar Radiation Storm Forecast for Oct 18-Oct 20 2026
 
-              Oct 17  Oct 18  Oct 19
+              Oct 18  Oct 19  Oct 20
 S1 or greater    5%      5%      5%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -92,13 +92,13 @@ C. NOAA Radio Blackout Activity and Forecast
 Radio blackouts reaching the R1 levels were observed over the past 24
 hours. The largest was at 16/1542Z UTC.
 
-Radio Blackout Forecast for Oct 17-Oct 19 2026
+Radio Blackout Forecast for Oct 18-Oct 20 2026
 
-              Oct 17        Oct 18        Oct 19
+              Oct 18        Oct 19        Oct 20
 R1-R2           20%           20%           20%
 R3 or greater    5%            5%            5%
 
 Rationale: There is a slight chance for R1-R2 (Minor-Moderate) radio
-blackouts on 17-19 Oct.
+blackouts through 20 Oct.
 
 ```
