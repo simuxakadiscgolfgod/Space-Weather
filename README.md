@@ -1,9 +1,9 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2026-10-18
+<br />**Date image released:**  2026-10-19
 <br />**Title of the image:**  NASA Science
-<br />**Description for the image:**  Yes, but have you ever experienced the Eagle Nebula with your ears? The famous nebula M16 is best known for the feast it gives your eyes, highlighting bright young stars forming deep inside dark towering structures. These light-years long columns of cold gas and dust are some 6,500 light-years distant toward the constellation of the Serpent (Serpens). Sculpted and eroded by the energetic ultraviolet light and powerful winds from M16's cluster of massive stars, the cosmic pillars themselves are destined for destruction. But the turbulent environment of star formation within M16, whose spectacular details are captured in this combined Hubble (visible) and Chandra (X-ray) image, is likely similar to the environment that formed our own Sun. In the featured video, listen for stars and dust sounding off as the line of sonification moves left to right, with vertical position determining pitch.Tomorrow's picture: what could it be?						
+<br />**Description for the image:**  What is Treble Clef? This unusual radio structure extends over 2 million light-years and resembles a common musical symbol -- but has its visible light hidden by our own Milky Way Galaxy. Examined in 2004, the nature of VLSS J0318.9+5755, dubbed Treble Clef, remained unknown. Recent observations by the Chandra X-ray Observatory and eROSITA, however, have led to the hypothesis that the Treble Clef central cloud of charged particles was originally expelled by a supermassive black hole at the center of a galaxy. After the radio emission from those particles faded, they may have been reinvigorated by a shock wave from the collision of two clusters of galaxies. The featured composite image shows radio emission in red, while recently discovered X-rays are shown in blue. Unusual objects like Treble Clef give humanity unexpected clues about how whole clusters of galaxies interact as well as the general evolution of our universe.Tomorrow's picture: backwards rainbow						
 <br />**URL for this image:**  https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png
 
 ## X-Ray Flux
@@ -48,39 +48,39 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2026 Oct 18 0030 UTC
+:Issued: 2026 Oct 19 1230 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Oct 17-Oct 19 2026 is 2.67 (below NOAA
-Scale levels).
+The greatest expected 3 hr Kp for Oct 19-Oct 21 2026 is 4.67 (NOAA Scale
+G1).
 
-NOAA Kp index breakdown Oct 18-Oct 20 2026
+NOAA Kp index breakdown Oct 19-Oct 21 2026
 
-             Oct 18       Oct 19       Oct 20
-00-03UT       1.67         1.67         4.00         
-03-06UT       1.67         2.00         5.00 (G1)    
-06-09UT       1.33         1.00         3.00         
-09-12UT       1.33         1.33         4.33         
-12-15UT       1.33         1.33         3.00         
-15-18UT       1.33         3.33         2.00         
-18-21UT       1.33         4.00         3.67         
-21-00UT       1.67         4.00         2.67         
+             Oct 19       Oct 20       Oct 21
+00-03UT       0.33         4.33         3.33         
+03-06UT       0.33         4.67 (G1)    3.67         
+06-09UT       0.33         3.67         3.00         
+09-12UT       1.00         3.00         2.67         
+12-15UT       3.00         3.00         2.33         
+15-18UT       3.67         3.00         2.00         
+18-21UT       4.67 (G1)    3.33         3.33         
+21-00UT       4.33         3.67         3.00         
 
-Rationale: Periods of G1 (Minor) geomagnetic storming are likely on 20
-Oct due to the influences of a positive polarity CH HSS.
+Rationale: G1 (Minor) geomagnetic storms are likely late 19 Oct and
+early 20 Oct due to the anticipated influences of a positive CH HSS.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Oct 18-Oct 20 2026
+Solar Radiation Storm Forecast for Oct 19-Oct 21 2026
 
-              Oct 18  Oct 19  Oct 20
+              Oct 19  Oct 20  Oct 21
 S1 or greater    5%      5%      5%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -90,15 +90,16 @@ production is forecast.
 C. NOAA Radio Blackout Activity and Forecast
 
 Radio blackouts reaching the R1 levels were observed over the past 24
-hours. The largest was at 16/1542Z UTC.
+hours. The largest was at 19/0903Z UTC.
 
-Radio Blackout Forecast for Oct 18-Oct 20 2026
+Radio Blackout Forecast for Oct 19-Oct 21 2026
 
-              Oct 18        Oct 19        Oct 20
-R1-R2           20%           20%           20%
-R3 or greater    5%            5%            5%
+              Oct 19        Oct 20        Oct 21
+R1-R2           30%           30%           30%
+R3 or greater   10%           10%           10%
 
-Rationale: There is a slight chance for R1-R2 (Minor-Moderate) radio
-blackouts through 20 Oct.
+Rationale: There is a chance for R1-R2 (Minor-Moderate) radio blackouts
+and a slight chance for R3 (Strong) or greater radio blackouts through
+21 Oct, mostly due to the flare potential of Regions 4551 and 4557.
 
 ```
