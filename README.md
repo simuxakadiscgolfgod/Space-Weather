@@ -1,9 +1,9 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2026-10-19
+<br />**Date image released:**  2026-10-20
 <br />**Title of the image:**  NASA Science
-<br />**Description for the image:**  What is Treble Clef? This unusual radio structure extends over 2 million light-years and resembles a common musical symbol -- but has its visible light hidden by our own Milky Way Galaxy. Examined in 2004, the nature of VLSS J0318.9+5755, dubbed Treble Clef, remained unknown. Recent observations by the Chandra X-ray Observatory and eROSITA, however, have led to the hypothesis that the Treble Clef central cloud of charged particles was originally expelled by a supermassive black hole at the center of a galaxy. After the radio emission from those particles faded, they may have been reinvigorated by a shock wave from the collision of two clusters of galaxies. The featured composite image shows radio emission in red, while recently discovered X-rays are shown in blue. Unusual objects like Treble Clef give humanity unexpected clues about how whole clusters of galaxies interact as well as the general evolution of our universe.Tomorrow's picture: backwards rainbow						
+<br />**Description for the image:**   This is an unusual rainbow. For one thing, the rainbow is not complete, appearing only in a sunlit fan -- but that by itself is not very unusual. What is most unusual is the fake location of the Sun. The Sun appears to be toward the front, just below those hills -- but it is not. That is not how rainbows work. Rainbows involve a backward reflection from falling rain, so that the Sun must really be behind you. In this case, gaps between clouds near the setting Sun allowed rays to cross the entire sky and appear to converge in front, an unusual phenomenon called anticrepuscular rays. The photo was taken with a phone last week at sunset in Presenzano, Italy. The seemingly reverse rainbow was noticed when hanging up laundry.Tomorrow's picture: open space						
 <br />**URL for this image:**  https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png
 
 ## X-Ray Flux
@@ -48,39 +48,39 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2026 Oct 19 1230 UTC
+:Issued: 2026 Oct 20 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 1 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Oct 19-Oct 21 2026 is 4.67 (NOAA Scale
+The greatest expected 3 hr Kp for Oct 20-Oct 22 2026 is 4.67 (NOAA Scale
 G1).
 
-NOAA Kp index breakdown Oct 19-Oct 21 2026
+NOAA Kp index breakdown Oct 20-Oct 22 2026
 
-             Oct 19       Oct 20       Oct 21
-00-03UT       0.33         4.33         3.33         
-03-06UT       0.33         4.67 (G1)    3.67         
-06-09UT       0.33         3.67         3.00         
-09-12UT       1.00         3.00         2.67         
-12-15UT       3.00         3.00         2.33         
-15-18UT       3.67         3.00         2.00         
-18-21UT       4.67 (G1)    3.33         3.33         
-21-00UT       4.33         3.67         3.00         
+             Oct 20       Oct 21       Oct 22
+00-03UT       1.33         3.33         2.67         
+03-06UT       1.33         3.67         2.67         
+06-09UT       1.33         3.00         2.67         
+09-12UT       2.33         2.67         2.33         
+12-15UT       3.33         2.33         2.67         
+15-18UT       3.33         2.00         2.00         
+18-21UT       4.00         3.33         2.00         
+21-00UT       4.67 (G1)    3.00         2.67         
 
-Rationale: G1 (Minor) geomagnetic storms are likely late 19 Oct and
-early 20 Oct due to the anticipated influences of a positive CH HSS.
+Rationale: G1 (Minor) geomagnetic storming is likely 20 Oct due to
+positive polarity coronal hole high speed stream effects.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Oct 19-Oct 21 2026
+Solar Radiation Storm Forecast for Oct 20-Oct 22 2026
 
-              Oct 19  Oct 20  Oct 21
+              Oct 20  Oct 21  Oct 22
 S1 or greater    5%      5%      5%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -92,14 +92,13 @@ C. NOAA Radio Blackout Activity and Forecast
 Radio blackouts reaching the R1 levels were observed over the past 24
 hours. The largest was at 19/0903Z UTC.
 
-Radio Blackout Forecast for Oct 19-Oct 21 2026
+Radio Blackout Forecast for Oct 20-Oct 22 2026
 
-              Oct 19        Oct 20        Oct 21
-R1-R2           30%           30%           30%
-R3 or greater   10%           10%           10%
+              Oct 20        Oct 21        Oct 22
+R1-R2           25%           25%           25%
+R3 or greater    5%            5%            5%
 
 Rationale: There is a chance for R1-R2 (Minor-Moderate) radio blackouts
-and a slight chance for R3 (Strong) or greater radio blackouts through
-21 Oct, mostly due to the flare potential of Regions 4551 and 4557.
+through 22 Oct due to the flare potential of Regions 4551 and 4557.
 
 ```
