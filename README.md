@@ -1,9 +1,9 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2026-10-20
+<br />**Date image released:**  2026-10-21
 <br />**Title of the image:**  NASA Science
-<br />**Description for the image:**   This is an unusual rainbow. For one thing, the rainbow is not complete, appearing only in a sunlit fan -- but that by itself is not very unusual. What is most unusual is the fake location of the Sun. The Sun appears to be toward the front, just below those hills -- but it is not. That is not how rainbows work. Rainbows involve a backward reflection from falling rain, so that the Sun must really be behind you. In this case, gaps between clouds near the setting Sun allowed rays to cross the entire sky and appear to converge in front, an unusual phenomenon called anticrepuscular rays. The photo was taken with a phone last week at sunset in Presenzano, Italy. The seemingly reverse rainbow was noticed when hanging up laundry.Tomorrow's picture: open space						
+<br />**Description for the image:**  Jinkies, look at all those ghosts! It took 100 hours of observation and a special oxygen filter for today’s image to capture three faint nebulas hidden in the Cassiopeia constellation. IC 59 and IC 63, the original Ghosts of Cassiopeia, haunt the region near multi-star system γ Cassiopeia. Energetic light from γ Cassiopeia causes the hydrogen gas in IC 59 and 63 to glow red. Their dust reflects and scatters some blue-ish white starlight. Newly discovered Objects 1, 2, and 3 appear as blue phantoms, revealing the presence of ionized oxygen. But ionized by what? Like at the bow of a speeding boat, γ Cassiopeia may be piling up material as the system moves through interstellar gas and dust. It follows that Object 3 may be the compressed and heated oxygen of that bow shock. Object 1 could be a planetary nebula if a central white dwarf is identified. The origins of these astronomical apparitions remain a mystery to be solved.Tomorrow's picture: it's not easy being green						
 <br />**URL for this image:**  https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png
 
 ## X-Ray Flux
@@ -48,39 +48,39 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2026 Oct 20 0030 UTC
+:Issued: 2026 Oct 21 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 1 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Oct 20-Oct 22 2026 is 4.67 (NOAA Scale
+The greatest expected 3 hr Kp for Oct 21-Oct 23 2026 is 4.67 (NOAA Scale
 G1).
 
-NOAA Kp index breakdown Oct 20-Oct 22 2026
+NOAA Kp index breakdown Oct 21-Oct 23 2026
 
-             Oct 20       Oct 21       Oct 22
-00-03UT       1.33         3.33         2.67         
-03-06UT       1.33         3.67         2.67         
-06-09UT       1.33         3.00         2.67         
-09-12UT       2.33         2.67         2.33         
-12-15UT       3.33         2.33         2.67         
-15-18UT       3.33         2.00         2.00         
-18-21UT       4.00         3.33         2.00         
-21-00UT       4.67 (G1)    3.00         2.67         
+             Oct 21       Oct 22       Oct 23
+00-03UT       4.67 (G1)    2.67         1.67         
+03-06UT       4.00         3.67         1.67         
+06-09UT       4.67 (G1)    2.33         1.33         
+09-12UT       3.00         2.00         1.33         
+12-15UT       2.33         1.67         1.33         
+15-18UT       2.00         2.00         1.33         
+18-21UT       3.33         2.00         1.33         
+21-00UT       3.00         2.67         1.67         
 
-Rationale: G1 (Minor) geomagnetic storming is likely 20 Oct due to
-positive polarity coronal hole high speed stream effects.
+Rationale: G1 (Minor) geomagnetic storming is likely on 21 Oct due to CH
+HSS effects.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Oct 20-Oct 22 2026
+Solar Radiation Storm Forecast for Oct 21-Oct 23 2026
 
-              Oct 20  Oct 21  Oct 22
+              Oct 21  Oct 22  Oct 23
 S1 or greater    5%      5%      5%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -89,16 +89,16 @@ production is forecast.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-Radio blackouts reaching the R1 levels were observed over the past 24
-hours. The largest was at 19/0903Z UTC.
+No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Oct 20-Oct 22 2026
+Radio Blackout Forecast for Oct 21-Oct 23 2026
 
-              Oct 20        Oct 21        Oct 22
-R1-R2           25%           25%           25%
+              Oct 21        Oct 22        Oct 23
+R1-R2           25%           25%           20%
 R3 or greater    5%            5%            5%
 
-Rationale: There is a chance for R1-R2 (Minor-Moderate) radio blackouts
-through 22 Oct due to the flare potential of Regions 4551 and 4557.
+Rationale: A chance for R1-R2 (Minor-Moderate) radio blackouts will
+persist through 22 Oct and then decrease to a slight chance for an event
+as Region 4551 exits the visible disk.
 
 ```
