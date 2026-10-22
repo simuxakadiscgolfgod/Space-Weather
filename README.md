@@ -1,9 +1,9 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2026-10-21
+<br />**Date image released:**  2026-10-22
 <br />**Title of the image:**  NASA Science
-<br />**Description for the image:**  Jinkies, look at all those ghosts! It took 100 hours of observation and a special oxygen filter for today’s image to capture three faint nebulas hidden in the Cassiopeia constellation. IC 59 and IC 63, the original Ghosts of Cassiopeia, haunt the region near multi-star system γ Cassiopeia. Energetic light from γ Cassiopeia causes the hydrogen gas in IC 59 and 63 to glow red. Their dust reflects and scatters some blue-ish white starlight. Newly discovered Objects 1, 2, and 3 appear as blue phantoms, revealing the presence of ionized oxygen. But ionized by what? Like at the bow of a speeding boat, γ Cassiopeia may be piling up material as the system moves through interstellar gas and dust. It follows that Object 3 may be the compressed and heated oxygen of that bow shock. Object 1 could be a planetary nebula if a central white dwarf is identified. The origins of these astronomical apparitions remain a mystery to be solved.Tomorrow's picture: it's not easy being green						
+<br />**Description for the image:**  Star light, star bright: is there a green star out tonight? Other than the Sun, all stars are so far from Earth that they appear as points in the sky. They are mostly white, but sometimes noticeably red or blue. This color typically relates to the temperature: blue stars are hotter than red stars. What about other colors? The featured image is an illustration showing WD J1330+6435, a white dwarf star, surrounded by an accretion disk with gas and rocks orbiting the star. White dwarfs are small, faint stars that are left over when a star like the Sun exhausts its nuclear fuel. Astronomers recently found that some white dwarf stars, despite their name, would appear yellow, green, cyan, pink, or purple. In these cases, trace elements that were accreted to these stars interact with the stellar atmosphere and shift its normally white color. But, alas! I wish I may, I wish I might, but they are too faint to see tonight...
 <br />**URL for this image:**  https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png
 
 ## X-Ray Flux
@@ -48,39 +48,39 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2026 Oct 21 0030 UTC
+:Issued: 2026 Oct 22 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
-Scale levels).
-The greatest expected 3 hr Kp for Oct 21-Oct 23 2026 is 4.67 (NOAA Scale
+The greatest observed 3 hr Kp over the past 24 hours was 5 (NOAA Scale
+G1).
+The greatest expected 3 hr Kp for Oct 22-Oct 24 2026 is 4.67 (NOAA Scale
 G1).
 
-NOAA Kp index breakdown Oct 21-Oct 23 2026
+NOAA Kp index breakdown Oct 22-Oct 24 2026
 
-             Oct 21       Oct 22       Oct 23
-00-03UT       4.67 (G1)    2.67         1.67         
-03-06UT       4.00         3.67         1.67         
-06-09UT       4.67 (G1)    2.33         1.33         
-09-12UT       3.00         2.00         1.33         
-12-15UT       2.33         1.67         1.33         
-15-18UT       2.00         2.00         1.33         
-18-21UT       3.33         2.00         1.33         
-21-00UT       3.00         2.67         1.67         
+             Oct 22       Oct 23       Oct 24
+00-03UT       4.00         2.33         2.33         
+03-06UT       3.67         2.00         2.00         
+06-09UT       4.67 (G1)    1.67         1.67         
+09-12UT       3.33         1.00         1.33         
+12-15UT       2.67         1.33         3.00         
+15-18UT       2.00         1.67         3.67         
+18-21UT       2.33         2.00         4.33         
+21-00UT       2.67         2.00         4.00         
 
-Rationale: G1 (Minor) geomagnetic storming is likely on 21 Oct due to CH
-HSS effects.
+Rationale: G1 (Minor) geomagnetic storm levels are expected early on 22
+Oct due to CH HSS activity.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Oct 21-Oct 23 2026
+Solar Radiation Storm Forecast for Oct 22-Oct 24 2026
 
-              Oct 21  Oct 22  Oct 23
+              Oct 22  Oct 23  Oct 24
 S1 or greater    5%      5%      5%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -91,14 +91,14 @@ C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Oct 21-Oct 23 2026
+Radio Blackout Forecast for Oct 22-Oct 24 2026
 
-              Oct 21        Oct 22        Oct 23
-R1-R2           25%           25%           20%
-R3 or greater    5%            5%            5%
+              Oct 22        Oct 23        Oct 24
+R1-R2           20%           15%           15%
+R3 or greater    5%            1%            1%
 
-Rationale: A chance for R1-R2 (Minor-Moderate) radio blackouts will
-persist through 22 Oct and then decrease to a slight chance for an event
-as Region 4551 exits the visible disk.
+Rationale: Solar activity is expected to be at low levels through 24
+Oct, with a slight chance (15-20%) for isolated M-class flares (R1-R2,
+Minor-Moderate).
 
 ```
