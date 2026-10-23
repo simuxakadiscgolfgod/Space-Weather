@@ -1,9 +1,9 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2026-10-22
+<br />**Date image released:**  2026-10-23
 <br />**Title of the image:**  NASA Science
-<br />**Description for the image:**  Star light, star bright: is there a green star out tonight? Other than the Sun, all stars are so far from Earth that they appear as points in the sky. They are mostly white, but sometimes noticeably red or blue. This color typically relates to the temperature: blue stars are hotter than red stars. What about other colors? The featured image is an illustration showing WD J1330+6435, a white dwarf star, surrounded by an accretion disk with gas and rocks orbiting the star. White dwarfs are small, faint stars that are left over when a star like the Sun exhausts its nuclear fuel. Astronomers recently found that some white dwarf stars, despite their name, would appear yellow, green, cyan, pink, or purple. In these cases, trace elements that were accreted to these stars interact with the stellar atmosphere and shift its normally white color. But, alas! I wish I may, I wish I might, but they are too faint to see tonight...
+<br />**Description for the image:**  Looking toward the north from Mullion, New South Wales, Australia, the Andromeda Galaxy never gets more than a few degrees above the horizon. During the southern hemisphere spring, Andromeda is highest in the sky around midnight though. And in this telephoto scene from October 10/11, multiple exposures were used to reveal the spiral galaxy in tantalizing detail as it climbed above rolling Australian hills. Also known as M31, the Andromeda Galaxy is one of the brightest objects in the Messier catalog, but is only visible to the unaided eye as a small, faint, fuzzy patch. Digitally tracked and stacked frames were combined with a foreground shot in the deep astro-image composite to reveal the galaxy's greater extent in planet Earth's night. In the springtime night skyscape,the closest large spiral galaxy spans nearly 6 full moons.Tomorrow's picture: pixels in space
 <br />**URL for this image:**  https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png
 
 ## X-Ray Flux
@@ -48,39 +48,39 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2026 Oct 22 0030 UTC
+:Issued: 2026 Oct 23 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 5 (NOAA Scale
-G1).
-The greatest expected 3 hr Kp for Oct 22-Oct 24 2026 is 4.67 (NOAA Scale
-G1).
+The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
+Scale levels).
+The greatest expected 3 hr Kp for Oct 23-Oct 25 2026 is 3.67 (below NOAA
+Scale levels).
 
-NOAA Kp index breakdown Oct 22-Oct 24 2026
+NOAA Kp index breakdown Oct 23-Oct 25 2026
 
-             Oct 22       Oct 23       Oct 24
-00-03UT       4.00         2.33         2.33         
-03-06UT       3.67         2.00         2.00         
-06-09UT       4.67 (G1)    1.67         1.67         
-09-12UT       3.33         1.00         1.33         
-12-15UT       2.67         1.33         3.00         
-15-18UT       2.00         1.67         3.67         
-18-21UT       2.33         2.00         4.33         
-21-00UT       2.67         2.00         4.00         
+             Oct 23       Oct 24       Oct 25
+00-03UT       3.67         2.67         3.00         
+03-06UT       3.33         2.33         3.33         
+06-09UT       3.00         2.00         3.67         
+09-12UT       2.67         2.00         3.33         
+12-15UT       2.33         2.00         3.67         
+15-18UT       2.00         1.67         3.00         
+18-21UT       2.33         1.67         3.33         
+21-00UT       2.33         1.67         3.00         
 
-Rationale: G1 (Minor) geomagnetic storm levels are expected early on 22
-Oct due to CH HSS activity.
+Rationale: No G1 (Minor) or greater geomagnetic storms are expected. No
+significant transient or recurrent solar wind features are forecast.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Oct 22-Oct 24 2026
+Solar Radiation Storm Forecast for Oct 23-Oct 25 2026
 
-              Oct 22  Oct 23  Oct 24
+              Oct 23  Oct 24  Oct 25
 S1 or greater    5%      5%      5%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -91,14 +91,13 @@ C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Oct 22-Oct 24 2026
+Radio Blackout Forecast for Oct 23-Oct 25 2026
 
-              Oct 22        Oct 23        Oct 24
-R1-R2           20%           15%           15%
-R3 or greater    5%            1%            1%
+              Oct 23        Oct 24        Oct 25
+R1-R2           20%           20%           20%
+R3 or greater    5%            5%            5%
 
-Rationale: Solar activity is expected to be at low levels through 24
-Oct, with a slight chance (15-20%) for isolated M-class flares (R1-R2,
-Minor-Moderate).
+Rationale: There is a slight chance for R1-R2 (Minor-Moderate) radio
+blackouts on 23-25 Oct.
 
 ```
