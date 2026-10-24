@@ -1,9 +1,9 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2026-10-23
+<br />**Date image released:**  2026-10-24
 <br />**Title of the image:**  NASA Science
-<br />**Description for the image:**  Looking toward the north from Mullion, New South Wales, Australia, the Andromeda Galaxy never gets more than a few degrees above the horizon. During the southern hemisphere spring, Andromeda is highest in the sky around midnight though. And in this telephoto scene from October 10/11, multiple exposures were used to reveal the spiral galaxy in tantalizing detail as it climbed above rolling Australian hills. Also known as M31, the Andromeda Galaxy is one of the brightest objects in the Messier catalog, but is only visible to the unaided eye as a small, faint, fuzzy patch. Digitally tracked and stacked frames were combined with a foreground shot in the deep astro-image composite to reveal the galaxy's greater extent in planet Earth's night. In the springtime night skyscape,the closest large spiral galaxy spans nearly 6 full moons.Tomorrow's picture: pixels in space
+<br />**Description for the image:**  This Rosetta spacecraft selfie was snapped on October 7th, 2014. At the time the comet-chasing spacecraft was about 472 million kilometers from planet Earth, but only 16 kilometers from the surface of comet 67P/Churyumov-Gerasimenko. Looming beyond the spacecraft near the top of the frame, dust and gas stream away from the comet's curious double-lobed nucleus. Bright sunlight glints off one of Rosetta's 14 meter long solar arrays. In fact, two exposures, one short and one long, were combined to record the dramatic high contrast scene using the CIVA camera system on Rosetta's still-attached Philae lander. Its chosen primary landing site was on the visible hemisphere of the smaller lobe of the nucleus. This was the last image from Philae's camera before the lander separated from Rosetta on November 12. Shortly after separation Philae took another image looking back toward the orbiter and began its descent to the nucleus of the comet.Tomorrow's picture: dark matters
 <br />**URL for this image:**  https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png
 
 ## X-Ray Flux
@@ -48,27 +48,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2026 Oct 23 0030 UTC
+:Issued: 2026 Oct 24 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Oct 23-Oct 25 2026 is 3.67 (below NOAA
+The greatest expected 3 hr Kp for Oct 24-Oct 26 2026 is 3.67 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Oct 23-Oct 25 2026
+NOAA Kp index breakdown Oct 24-Oct 26 2026
 
-             Oct 23       Oct 24       Oct 25
-00-03UT       3.67         2.67         3.00         
-03-06UT       3.33         2.33         3.33         
-06-09UT       3.00         2.00         3.67         
-09-12UT       2.67         2.00         3.33         
-12-15UT       2.33         2.00         3.67         
-15-18UT       2.00         1.67         3.00         
-18-21UT       2.33         1.67         3.33         
-21-00UT       2.33         1.67         3.00         
+             Oct 24       Oct 25       Oct 26
+00-03UT       2.67         3.00         2.33         
+03-06UT       2.33         3.33         2.00         
+06-09UT       3.67         3.67         2.00         
+09-12UT       2.00         3.33         2.00         
+12-15UT       1.00         3.67         2.00         
+15-18UT       0.67         3.00         2.00         
+18-21UT       1.67         3.33         2.00         
+21-00UT       1.67         3.00         2.33         
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected. No
 significant transient or recurrent solar wind features are forecast.
@@ -78,10 +78,10 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Oct 23-Oct 25 2026
+Solar Radiation Storm Forecast for Oct 24-Oct 26 2026
 
-              Oct 23  Oct 24  Oct 25
-S1 or greater    5%      5%      5%
+              Oct 24  Oct 25  Oct 26
+S1 or greater    1%      1%      1%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
 No significant active region activity favorable for radiation storm
@@ -91,13 +91,13 @@ C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Oct 23-Oct 25 2026
+Radio Blackout Forecast for Oct 24-Oct 26 2026
 
-              Oct 23        Oct 24        Oct 25
-R1-R2           20%           20%           20%
-R3 or greater    5%            5%            5%
+              Oct 24        Oct 25        Oct 26
+R1-R2           15%           15%           15%
+R3 or greater    1%            1%            1%
 
-Rationale: There is a slight chance for R1-R2 (Minor-Moderate) radio
-blackouts on 23-25 Oct.
+Rationale: There is a slight chance for isolated R1-R2 (Minor-Moderate)
+radio blackouts over 24-26 Oct.
 
 ```
