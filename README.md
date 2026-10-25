@@ -1,9 +1,9 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2026-10-24
+<br />**Date image released:**  2026-10-25
 <br />**Title of the image:**  NASA Science
-<br />**Description for the image:**  This Rosetta spacecraft selfie was snapped on October 7th, 2014. At the time the comet-chasing spacecraft was about 472 million kilometers from planet Earth, but only 16 kilometers from the surface of comet 67P/Churyumov-Gerasimenko. Looming beyond the spacecraft near the top of the frame, dust and gas stream away from the comet's curious double-lobed nucleus. Bright sunlight glints off one of Rosetta's 14 meter long solar arrays. In fact, two exposures, one short and one long, were combined to record the dramatic high contrast scene using the CIVA camera system on Rosetta's still-attached Philae lander. Its chosen primary landing site was on the visible hemisphere of the smaller lobe of the nucleus. This was the last image from Philae's camera before the lander separated from Rosetta on November 12. Shortly after separation Philae took another image looking back toward the orbiter and began its descent to the nucleus of the comet.Tomorrow's picture: dark matters
+<br />**Description for the image:**  Is our universe haunted? It might look that way on this dark matter map. The gravity of unseen dark matter is the leading explanation for why galaxies rotate so fast, why galaxies orbit clusters so fast, why gravitational lenses so strongly deflect light, and how visible matter is distributed. The featured image from the American Museum of Natural History's Hayden Planetarium Space Show, Dark Universe, highlights one example of how pervasive dark matter might haunt our universe. In this frame from a detailed computer simulation, complex filaments of dark matter, shown in black, are strewn about the universe like spider webs, while the relatively rare clumps of familiar baryonic matter are colored orange. These simulations are good statistical matches to astronomical observations. In what is perhaps a scarier turn of events, dark matter -- although quite strange and in an unknown form -- is no longer thought to be the strangest source of gravity in the universe. That honor now falls to dark energy, a more uniform source of repulsive gravity that seems to now dominate the expansion of the entire universe.Tomorrow's picture: Orion the Great						
 <br />**URL for this image:**  https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png
 
 ## X-Ray Flux
@@ -48,27 +48,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2026 Oct 24 0030 UTC
+:Issued: 2026 Oct 25 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Oct 24-Oct 26 2026 is 3.67 (below NOAA
+The greatest expected 3 hr Kp for Oct 25-Oct 27 2026 is 4.00 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Oct 24-Oct 26 2026
+NOAA Kp index breakdown Oct 25-Oct 27 2026
 
-             Oct 24       Oct 25       Oct 26
-00-03UT       2.67         3.00         2.33         
-03-06UT       2.33         3.33         2.00         
-06-09UT       3.67         3.67         2.00         
-09-12UT       2.00         3.33         2.00         
-12-15UT       1.00         3.67         2.00         
-15-18UT       0.67         3.00         2.00         
-18-21UT       1.67         3.33         2.00         
-21-00UT       1.67         3.00         2.33         
+             Oct 25       Oct 26       Oct 27
+00-03UT       2.00         3.00         1.67         
+03-06UT       3.00         2.00         1.33         
+06-09UT       3.00         2.00         1.33         
+09-12UT       3.33         2.00         1.33         
+12-15UT       4.00         2.00         1.33         
+15-18UT       3.33         2.00         1.33         
+18-21UT       4.00         2.00         1.67         
+21-00UT       3.00         2.33         1.67         
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected. No
 significant transient or recurrent solar wind features are forecast.
@@ -78,9 +78,9 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Oct 24-Oct 26 2026
+Solar Radiation Storm Forecast for Oct 25-Oct 27 2026
 
-              Oct 24  Oct 25  Oct 26
+              Oct 25  Oct 26  Oct 27
 S1 or greater    1%      1%      1%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -91,13 +91,13 @@ C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Oct 24-Oct 26 2026
+Radio Blackout Forecast for Oct 25-Oct 27 2026
 
-              Oct 24        Oct 25        Oct 26
-R1-R2           15%           15%           15%
+              Oct 25        Oct 26        Oct 27
+R1-R2           10%           10%           10%
 R3 or greater    1%            1%            1%
 
-Rationale: There is a slight chance for isolated R1-R2 (Minor-Moderate)
-radio blackouts over 24-26 Oct.
+Rationale: There is a slight chance for an isolated R1-R2
+(Minor-Moderate) radio blackout over 25-27 Oct.
 
 ```
