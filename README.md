@@ -1,9 +1,9 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2026-10-25
+<br />**Date image released:**  2026-10-26
 <br />**Title of the image:**  NASA Science
-<br />**Description for the image:**  Is our universe haunted? It might look that way on this dark matter map. The gravity of unseen dark matter is the leading explanation for why galaxies rotate so fast, why galaxies orbit clusters so fast, why gravitational lenses so strongly deflect light, and how visible matter is distributed. The featured image from the American Museum of Natural History's Hayden Planetarium Space Show, Dark Universe, highlights one example of how pervasive dark matter might haunt our universe. In this frame from a detailed computer simulation, complex filaments of dark matter, shown in black, are strewn about the universe like spider webs, while the relatively rare clumps of familiar baryonic matter are colored orange. These simulations are good statistical matches to astronomical observations. In what is perhaps a scarier turn of events, dark matter -- although quite strange and in an unknown form -- is no longer thought to be the strangest source of gravity in the universe. That honor now falls to dark energy, a more uniform source of repulsive gravity that seems to now dominate the expansion of the entire universe.Tomorrow's picture: Orion the Great						
+<br />**Description for the image:**  The Great Nebula in Orion, an immense, nearby starbirth region, is one the most famous of all astronomical nebulas. Here, glowing gas surrounds hot young stars at the edge of an immense interstellar molecular cloud only 1500 light-years away. In the featured deep image in assigned colors highlighted by emission in hydrogen, wisps and sheets of dust and gas are particularly evident. The Great Nebula in Orion can be found with the unaided eye near the easily identifiable belt of three stars in the popular constellation Orion. In addition to housing a bright open cluster of stars known as the Trapezium, the Orion Nebula contains many stellar nurseries. These nurseries contain much hydrogen gas, hot young stars, proplyds, and stellar jets spewing material at high speeds. Also known as M42, the Orion Nebula spans about 40 light years and is located in the same spiral arm of our Galaxy as the Sun.Tomorrow's picture: open space						
 <br />**URL for this image:**  https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png
 
 ## X-Ray Flux
@@ -48,27 +48,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2026 Oct 25 0030 UTC
+:Issued: 2026 Oct 26 1230 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Oct 25-Oct 27 2026 is 4.00 (below NOAA
+The greatest expected 3 hr Kp for Oct 26-Oct 28 2026 is 2.00 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Oct 25-Oct 27 2026
+NOAA Kp index breakdown Oct 26-Oct 28 2026
 
-             Oct 25       Oct 26       Oct 27
-00-03UT       2.00         3.00         1.67         
-03-06UT       3.00         2.00         1.33         
-06-09UT       3.00         2.00         1.33         
-09-12UT       3.33         2.00         1.33         
-12-15UT       4.00         2.00         1.33         
-15-18UT       3.33         2.00         1.33         
-18-21UT       4.00         2.00         1.67         
-21-00UT       3.00         2.33         1.67         
+             Oct 26       Oct 27       Oct 28
+00-03UT       0.33         1.67         1.33         
+03-06UT       1.00         1.33         1.33         
+06-09UT       1.00         1.33         1.67         
+09-12UT       2.00         1.33         1.33         
+12-15UT       1.33         1.33         1.33         
+15-18UT       1.33         1.33         1.33         
+18-21UT       1.67         1.67         1.67         
+21-00UT       1.67         1.67         1.67         
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected. No
 significant transient or recurrent solar wind features are forecast.
@@ -78,9 +78,9 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Oct 25-Oct 27 2026
+Solar Radiation Storm Forecast for Oct 26-Oct 28 2026
 
-              Oct 25  Oct 26  Oct 27
+              Oct 26  Oct 27  Oct 28
 S1 or greater    1%      1%      1%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -91,13 +91,13 @@ C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Oct 25-Oct 27 2026
+Radio Blackout Forecast for Oct 26-Oct 28 2026
 
-              Oct 25        Oct 26        Oct 27
-R1-R2           10%           10%           10%
+              Oct 26        Oct 27        Oct 28
+R1-R2           15%           10%            5%
 R3 or greater    1%            1%            1%
 
-Rationale: There is a slight chance for an isolated R1-R2
-(Minor-Moderate) radio blackout over 25-27 Oct.
+Rationale: There is a slight chance for R1-R2 (Minor-Moderate) radio
+blackouts on 26-27 Oct.
 
 ```
