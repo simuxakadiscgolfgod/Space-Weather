@@ -1,9 +1,9 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2026-10-27
+<br />**Date image released:**  2026-10-28
 <br />**Title of the image:**  NASA Science
-<br />**Description for the image:**   Sometimes it's night on the ground but day in the air. As the Earth rotates to eclipse the Sun, sunset rises upfrom the ground. Therefore, at sunset on the ground, sunlight still shines on clouds above. Under usual circumstances, a pretty sunset might be visible, but unusual noctilucent clouds float so high up they can be seen well after dark. Normally too dim to be seen, they may become visible just after sunset during the summer when illuminated by sunlight from below the horizon. Noctilucent clouds are the highest clouds and are known more technically as polar mesospheric clouds. Featured here as they appeared in early August, a network of blue noctilucent clouds was captured in the distant sky above a field of green grass near Linköping, Sweden, with trees in stark silhouette across the horizon. Much about noctilucent clouds has been discovered only in the past two decades, while how they form and evolve remains a topic of active research.Tomorrow's picture: round and round						
+<br />**Description for the image:**  To view this video please enable JavaScript, and consider upgrading to a web browser that 					supports HTML5 vide
 <br />**URL for this image:**  https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png
 
 ## X-Ray Flux
@@ -48,27 +48,27 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2026 Oct 27 0030 UTC
+:Issued: 2026 Oct 28 1230 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Oct 27-Oct 29 2026 is 2.33 (below NOAA
+The greatest expected 3 hr Kp for Oct 28-Oct 30 2026 is 3.00 (below NOAA
 Scale levels).
 
-NOAA Kp index breakdown Oct 27-Oct 29 2026
+NOAA Kp index breakdown Oct 28-Oct 30 2026
 
-             Oct 27       Oct 28       Oct 29
-00-03UT       1.00         1.33         1.67         
-03-06UT       0.67         1.33         1.33         
-06-09UT       0.67         1.67         1.33         
-09-12UT       1.00         1.33         1.33         
-12-15UT       1.00         1.33         1.33         
-15-18UT       1.33         1.33         1.33         
-18-21UT       1.67         1.67         1.67         
-21-00UT       2.33         1.67         1.67         
+             Oct 28       Oct 29       Oct 30
+00-03UT       2.33         1.67         2.33         
+03-06UT       1.67         1.33         2.33         
+06-09UT       2.33         1.33         2.33         
+09-12UT       1.67         1.33         1.00         
+12-15UT       0.67         1.33         1.33         
+15-18UT       1.33         1.33         1.67         
+18-21UT       1.67         1.67         2.33         
+21-00UT       1.67         1.67         3.00         
 
 Rationale: No G1 (Minor) or greater geomagnetic storms are expected. No
 significant transient or recurrent solar wind features are forecast.
@@ -78,9 +78,9 @@ B. NOAA Solar Radiation Activity Observation and Forecast
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Oct 27-Oct 29 2026
+Solar Radiation Storm Forecast for Oct 28-Oct 30 2026
 
-              Oct 27  Oct 28  Oct 29
+              Oct 28  Oct 29  Oct 30
 S1 or greater    1%      1%      1%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -91,12 +91,13 @@ C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Oct 27-Oct 29 2026
+Radio Blackout Forecast for Oct 28-Oct 30 2026
 
-              Oct 27        Oct 28        Oct 29
-R1-R2           10%            5%            5%
+              Oct 28        Oct 29        Oct 30
+R1-R2            5%            5%            5%
 R3 or greater    1%            1%            1%
 
-Rationale: There is a slight chance for R1-R2 radio blackouts on 27 Oct.
+Rationale: No R1 (Minor) or greater radio blackouts are expected. No
+significant active region flare activity is forecast.
 
 ```
