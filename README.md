@@ -1,9 +1,9 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2026-10-28
+<br />**Date image released:**  2026-10-29
 <br />**Title of the image:**  NASA Science
-<br />**Description for the image:**  To view this video please enable JavaScript, and consider upgrading to a web browser that 					supports HTML5 vide
+<br />**Description for the image:**  That's no moon. But you could be forgiven for thinking it was a crescent Moon in the sky. It is a lesser known fact that Venus also has phases. (What about other planets?) The featured image shows Venus seen almost directly between the Sun and the Earth. This happens once every year and a half, and it is like the alignment that happens every month during a new Moon. But the new Moon is dark, while Venus' backlit atmosphere refracts and scatters the sunlight, creating a glowing crescent arc that extends beyond 180 degrees: the tips of this arc are called the "horns". The crescent can be seen with a small telescope or binoculars during twilight, but those with exceptionally acute eyesight may be able to see it with the unaided eye. Ancient Babylonian astronomers may have been the first to study Venus' brightness changes, which are related to its phases. Many other cultures have similar astronomical records, including the oldest surviving Maya book.
 <br />**URL for this image:**  https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png
 
 ## X-Ray Flux
@@ -48,56 +48,56 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2026 Oct 28 1230 UTC
+:Issued: 2026 Oct 29 1230 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Oct 28-Oct 30 2026 is 3.00 (below NOAA
-Scale levels).
+The greatest expected 3 hr Kp for Oct 29-Oct 31 2026 is 5.00 (NOAA Scale
+G1).
 
-NOAA Kp index breakdown Oct 28-Oct 30 2026
+NOAA Kp index breakdown Oct 29-Oct 31 2026
 
-             Oct 28       Oct 29       Oct 30
-00-03UT       2.33         1.67         2.33         
-03-06UT       1.67         1.33         2.33         
-06-09UT       2.33         1.33         2.33         
-09-12UT       1.67         1.33         1.00         
-12-15UT       0.67         1.33         1.33         
-15-18UT       1.33         1.33         1.67         
-18-21UT       1.67         1.67         2.33         
-21-00UT       1.67         1.67         3.00         
+             Oct 29       Oct 30       Oct 31
+00-03UT       1.67         2.00         5.00 (G1)    
+03-06UT       2.33         1.67         4.67 (G1)    
+06-09UT       1.67         1.67         4.33         
+09-12UT       1.33         1.00         4.00         
+12-15UT       1.33         1.33         3.00         
+15-18UT       1.33         3.00         3.00         
+18-21UT       1.67         3.33         3.67         
+21-00UT       2.33         4.33         4.00         
 
-Rationale: No G1 (Minor) or greater geomagnetic storms are expected. No
-significant transient or recurrent solar wind features are forecast.
+Rationale: G1 (Minor) or greater geomagnetic storms are expected on 31
+Oct due to the anticipated arrival of a recurrent positive polarity
+coronal hole high speed stream.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Oct 28-Oct 30 2026
+Solar Radiation Storm Forecast for Oct 29-Oct 31 2026
 
-              Oct 28  Oct 29  Oct 30
+              Oct 29  Oct 30  Oct 31
 S1 or greater    1%      1%      1%
 
-Rationale: No S1 (Minor) or greater solar radiation storms are expected.
-No significant active region activity favorable for radiation storm
-production is forecast.
+Rationale: No S1 (Minor) or greater solar radiation storms are expected
+through 31 Oct.
 
 C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Oct 28-Oct 30 2026
+Radio Blackout Forecast for Oct 29-Oct 31 2026
 
-              Oct 28        Oct 29        Oct 30
-R1-R2            5%            5%            5%
+              Oct 29        Oct 30        Oct 31
+R1-R2            1%            1%            1%
 R3 or greater    1%            1%            1%
 
-Rationale: No R1 (Minor) or greater radio blackouts are expected. No
-significant active region flare activity is forecast.
+Rationale: No R1 (Minor) or greater radio blackouts are expected through
+31 Oct.
 
 ```
