@@ -1,9 +1,9 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2026-10-29
+<br />**Date image released:**  2026-10-31
 <br />**Title of the image:**  NASA Science
-<br />**Description for the image:**  That's no moon. But you could be forgiven for thinking it was a crescent Moon in the sky. It is a lesser known fact that Venus also has phases. (What about other planets?) The featured image shows Venus seen almost directly between the Sun and the Earth. This happens once every year and a half, and it is like the alignment that happens every month during a new Moon. But the new Moon is dark, while Venus' backlit atmosphere refracts and scatters the sunlight, creating a glowing crescent arc that extends beyond 180 degrees: the tips of this arc are called the "horns". The crescent can be seen with a small telescope or binoculars during twilight, but those with exceptionally acute eyesight may be able to see it with the unaided eye. Ancient Babylonian astronomers may have been the first to study Venus' brightness changes, which are related to its phases. Many other cultures have similar astronomical records, including the oldest surviving Maya book.
+<br />**Description for the image:**  What spooky planet is this? Planet Earth on a dark and stormy night, of course. The ghostly scene was photographed at Hverir, a geothermally active area found along northeastern Iceland's volcanic landscape. Triggered by solar activity, geomagnetic storms have unleashed energetic particles trapped in Earth's magnetic field. Penetrating the planet's upper atmosphere at high latitudes, the particles create auroral displays in the starry night sky. Ghostly towers of steam and gas are venting from local fumaroles to dance against the eerie, greenish northern lights. For now, auroral activity on planet Earth remains in a high state as the Sun is only in early phases of decline from the peak of its solar activity cycle. And soon, other ghostly apparitions may dance in your neighborhood. Happy Halloween!Tomorrow's picture: Sunday's Childe
 <br />**URL for this image:**  https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png
 
 ## X-Ray Flux
@@ -48,56 +48,58 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2026 Oct 29 1230 UTC
+:Issued: 2026 Oct 31 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Oct 29-Oct 31 2026 is 5.00 (NOAA Scale
+The greatest expected 3 hr Kp for Oct 31-Nov 02 2026 is 5.00 (NOAA Scale
 G1).
 
-NOAA Kp index breakdown Oct 29-Oct 31 2026
+NOAA Kp index breakdown Oct 31-Nov 02 2026
 
-             Oct 29       Oct 30       Oct 31
-00-03UT       1.67         2.00         5.00 (G1)    
-03-06UT       2.33         1.67         4.67 (G1)    
-06-09UT       1.67         1.67         4.33         
-09-12UT       1.33         1.00         4.00         
-12-15UT       1.33         1.33         3.00         
-15-18UT       1.33         3.00         3.00         
-18-21UT       1.67         3.33         3.67         
-21-00UT       2.33         4.33         4.00         
+             Oct 31       Nov 01       Nov 02
+00-03UT       5.00 (G1)    3.67         2.67         
+03-06UT       4.67 (G1)    4.67 (G1)    2.33         
+06-09UT       4.33         3.33         2.33         
+09-12UT       4.00         2.67         2.33         
+12-15UT       3.00         2.33         2.33         
+15-18UT       3.00         3.33         2.00         
+18-21UT       3.67         3.67         2.33         
+21-00UT       4.00         3.33         2.67         
 
-Rationale: G1 (Minor) or greater geomagnetic storms are expected on 31
-Oct due to the anticipated arrival of a recurrent positive polarity
-coronal hole high speed stream.
+Rationale: The geomagnetic field is likely to reach G1 (Minor)
+geomagnetic storm levels on 31 Oct - 01 Nov due to influence from a
+positive polarity CH HSS. Unsettled conditions are likely on 02 Nov as
+CH HSS influence wanes.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Oct 29-Oct 31 2026
+Solar Radiation Storm Forecast for Oct 31-Nov 02 2026
 
-              Oct 29  Oct 30  Oct 31
+              Oct 31  Nov 01  Nov 02
 S1 or greater    1%      1%      1%
 
-Rationale: No S1 (Minor) or greater solar radiation storms are expected
-through 31 Oct.
+Rationale: No S1 (Minor) or greater solar radiation storms are expected.
+No significant active region activity favorable for radiation storm
+production is forecast.
 
 C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Oct 29-Oct 31 2026
+Radio Blackout Forecast for Oct 31-Nov 02 2026
 
-              Oct 29        Oct 30        Oct 31
+              Oct 31        Nov 01        Nov 02
 R1-R2            1%            1%            1%
 R3 or greater    1%            1%            1%
 
-Rationale: No R1 (Minor) or greater radio blackouts are expected through
-31 Oct.
+Rationale: No R1 (Minor) or greater radio blackouts are expected. No
+significant active region flare activity is forecast.
 
 ```
