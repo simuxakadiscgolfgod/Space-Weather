@@ -1,9 +1,9 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2026-10-31
+<br />**Date image released:**  2026-11-01
 <br />**Title of the image:**  NASA Science
-<br />**Description for the image:**  What spooky planet is this? Planet Earth on a dark and stormy night, of course. The ghostly scene was photographed at Hverir, a geothermally active area found along northeastern Iceland's volcanic landscape. Triggered by solar activity, geomagnetic storms have unleashed energetic particles trapped in Earth's magnetic field. Penetrating the planet's upper atmosphere at high latitudes, the particles create auroral displays in the starry night sky. Ghostly towers of steam and gas are venting from local fumaroles to dance against the eerie, greenish northern lights. For now, auroral activity on planet Earth remains in a high state as the Sun is only in early phases of decline from the peak of its solar activity cycle. And soon, other ghostly apparitions may dance in your neighborhood. Happy Halloween!Tomorrow's picture: Sunday's Childe
+<br />**Description for the image:**  What color is the Moon? It depends on the night -- and the time. Outside of the Earth's atmosphere, the dark Moon, which shines by reflected sunlight, appears a magnificently brown-tinged gray. The featured image highlights a collection of apparent colors of the full moon on Earth, documented by one astrophotographer over 10 years from different locations across Italy. A red- or yellow-colored moon usually indicates a moon seen near the horizon. There, some of the blue light has been scattered away by a long path through the Earth's atmosphere, sometimes laden with fine dust. A blue-colored moon is more rare and can indicate an atmosphere carrying larger dust particles. What created the purple moon is unclear -- it may be a combination of several effects. The last image captures the total lunar eclipse of 2018 July -- where the moon, in Earth's shadow, appeared a faint red -- due to light refracted through air around the Earth. Have you ever seen an unusually colorful Moon?Tomorrow's picture: open space
 <br />**URL for this image:**  https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png
 
 ## X-Ray Flux
@@ -48,41 +48,39 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2026 Oct 31 0030 UTC
+:Issued: 2026 Nov 01 1230 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
-Scale levels).
-The greatest expected 3 hr Kp for Oct 31-Nov 02 2026 is 5.00 (NOAA Scale
+The greatest observed 3 hr Kp over the past 24 hours was 6 (NOAA Scale
+G2).
+The greatest expected 3 hr Kp for Nov 01-Nov 03 2026 is 4.67 (NOAA Scale
 G1).
 
-NOAA Kp index breakdown Oct 31-Nov 02 2026
+NOAA Kp index breakdown Nov 01-Nov 03 2026
 
-             Oct 31       Nov 01       Nov 02
-00-03UT       5.00 (G1)    3.67         2.67         
-03-06UT       4.67 (G1)    4.67 (G1)    2.33         
-06-09UT       4.33         3.33         2.33         
-09-12UT       4.00         2.67         2.33         
-12-15UT       3.00         2.33         2.33         
-15-18UT       3.00         3.33         2.00         
-18-21UT       3.67         3.67         2.33         
-21-00UT       4.00         3.33         2.67         
+             Nov 01       Nov 02       Nov 03
+00-03UT       4.67 (G1)    2.67         1.67         
+03-06UT       4.33         3.00         2.00         
+06-09UT       3.33         3.00         1.67         
+09-12UT       3.33         2.67         1.33         
+12-15UT       3.67         2.00         0.67         
+15-18UT       2.67         2.00         0.67         
+18-21UT       2.67         1.67         1.67         
+21-00UT       2.67         2.00         1.33         
 
-Rationale: The geomagnetic field is likely to reach G1 (Minor)
-geomagnetic storm levels on 31 Oct - 01 Nov due to influence from a
-positive polarity CH HSS. Unsettled conditions are likely on 02 Nov as
-CH HSS influence wanes.
+Rationale: Periods of G1 (Minor) geomagnetic storming are likely on 01
+Nov due to positive polarity CH HSS influences.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Oct 31-Nov 02 2026
+Solar Radiation Storm Forecast for Nov 01-Nov 03 2026
 
-              Oct 31  Nov 01  Nov 02
+              Nov 01  Nov 02  Nov 03
 S1 or greater    1%      1%      1%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -93,9 +91,9 @@ C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Oct 31-Nov 02 2026
+Radio Blackout Forecast for Nov 01-Nov 03 2026
 
-              Oct 31        Nov 01        Nov 02
+              Nov 01        Nov 02        Nov 03
 R1-R2            1%            1%            1%
 R3 or greater    1%            1%            1%
 
