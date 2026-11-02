@@ -1,9 +1,9 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2026-11-01
+<br />**Date image released:**  2026-11-02
 <br />**Title of the image:**  NASA Science
-<br />**Description for the image:**  What color is the Moon? It depends on the night -- and the time. Outside of the Earth's atmosphere, the dark Moon, which shines by reflected sunlight, appears a magnificently brown-tinged gray. The featured image highlights a collection of apparent colors of the full moon on Earth, documented by one astrophotographer over 10 years from different locations across Italy. A red- or yellow-colored moon usually indicates a moon seen near the horizon. There, some of the blue light has been scattered away by a long path through the Earth's atmosphere, sometimes laden with fine dust. A blue-colored moon is more rare and can indicate an atmosphere carrying larger dust particles. What created the purple moon is unclear -- it may be a combination of several effects. The last image captures the total lunar eclipse of 2018 July -- where the moon, in Earth's shadow, appeared a faint red -- due to light refracted through air around the Earth. Have you ever seen an unusually colorful Moon?Tomorrow's picture: open space
+<br />**Description for the image:**  What’s causing this unusually long cloud on Mars? Known as the Arsia Mons Elongated Cloud (AMEC) and first recorded by NASA’s Viking Orbiter 2 in 1977, the strange cloud has been imaged in greater detail more recently by ESA’s robotic Mars Express spacecraft. The featured image is from 2018. The cloud forms only during spring and summer seasons and then only during morning hours. Made of water-ice, the most familiar process that causes cloud crystals to form around bits of dust would fail due to the thinness and lack of dust high in the Martian atmosphere. Leading speculation holds that dust is not involved. After the cloud forms near the volcano Arsia Mons, wind blows the cloud downstream — creating a tail that can extend over 1500 kilometers. Efforts to better understand AMECs will continue, an understanding that may bolster a more complete view of cloud formation on Earth.Tomorrow's picture: eyeing a cat						
 <br />**URL for this image:**  https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png
 
 ## X-Ray Flux
@@ -48,39 +48,39 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2026 Nov 01 1230 UTC
+:Issued: 2026 Nov 02 1230 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 6 (NOAA Scale
-G2).
-The greatest expected 3 hr Kp for Nov 01-Nov 03 2026 is 4.67 (NOAA Scale
-G1).
+The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
+Scale levels).
+The greatest expected 3 hr Kp for Nov 02-Nov 04 2026 is 3.00 (below NOAA
+Scale levels).
 
-NOAA Kp index breakdown Nov 01-Nov 03 2026
+NOAA Kp index breakdown Nov 02-Nov 04 2026
 
-             Nov 01       Nov 02       Nov 03
-00-03UT       4.67 (G1)    2.67         1.67         
-03-06UT       4.33         3.00         2.00         
-06-09UT       3.33         3.00         1.67         
-09-12UT       3.33         2.67         1.33         
-12-15UT       3.67         2.00         0.67         
-15-18UT       2.67         2.00         0.67         
-18-21UT       2.67         1.67         1.67         
-21-00UT       2.67         2.00         1.33         
+             Nov 02       Nov 03       Nov 04
+00-03UT       1.00         1.67         1.67         
+03-06UT       2.00         2.00         2.00         
+06-09UT       3.00         1.67         1.67         
+09-12UT       2.33         1.33         1.33         
+12-15UT       2.00         0.67         1.33         
+15-18UT       2.00         0.67         0.67         
+18-21UT       1.67         1.67         0.67         
+21-00UT       2.00         1.33         1.67         
 
-Rationale: Periods of G1 (Minor) geomagnetic storming are likely on 01
-Nov due to positive polarity CH HSS influences.
+Rationale: No G1 (Minor) or greater geomagnetic storms are expected. No
+significant transient or recurrent solar wind features are forecast.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Nov 01-Nov 03 2026
+Solar Radiation Storm Forecast for Nov 02-Nov 04 2026
 
-              Nov 01  Nov 02  Nov 03
+              Nov 02  Nov 03  Nov 04
 S1 or greater    1%      1%      1%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -91,9 +91,9 @@ C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Nov 01-Nov 03 2026
+Radio Blackout Forecast for Nov 02-Nov 04 2026
 
-              Nov 01        Nov 02        Nov 03
+              Nov 02        Nov 03        Nov 04
 R1-R2            1%            1%            1%
 R3 or greater    1%            1%            1%
 
