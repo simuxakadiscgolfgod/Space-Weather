@@ -1,9 +1,9 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-<br />**Date image released:**  2026-11-03
+<br />**Date image released:**  2026-11-25
 <br />**Title of the image:**  NASA Science
-<br />**Description for the image:**   Did this meteor come from that comet? Probably not. Although many meteors do originate from comets, there are thousands of comets that have visited the inner Solar System recently, and matching meteors to them can be tricky. And to be clear, the pictured comet is far behind the streaking meteor. Comet C/2025 R3 (PanSTARRS) was captured from Hautacam, France in April when the giant space iceberg sported impressive ion (blue) and dust tails. Sand-sized rocky debris that enters Earth’s atmosphere typically appears as meteors, while the colorful foreground streak here may indicate a complicated composition. This month three notable meteor showers will reach their peaks. Over the next few days, the Southern Taurids will be reaching their apex, while the Northern Taurids will top out about a week later. Both originate from Comet 2P/Encke. November is most famous for the Leonids Meteor Shower, though, which originates from Comet 55P/Tempel-Tuttle and will reach its crescendo in about two weeks.Tomorrow's picture: a hidden gem						
+<br />**Description for the image:**  To view this video please enable JavaScript, and consider upgrading to a web browser that 					supports HTML5 vide
 <br />**URL for this image:**  https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png
 
 ## X-Ray Flux
@@ -48,39 +48,39 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2026 Nov 03 1230 UTC
+:Issued: 2026 Nov 25 1230 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 3 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Nov 03-Nov 05 2026 is 3.67 (below NOAA
-Scale levels).
+The greatest expected 3 hr Kp for Nov 25-Nov 27 2026 is 5.00 (NOAA Scale
+G1).
 
-NOAA Kp index breakdown Nov 03-Nov 05 2026
+NOAA Kp index breakdown Nov 25-Nov 27 2026
 
-             Nov 03       Nov 04       Nov 05
-00-03UT       0.67         1.67         2.67         
-03-06UT       1.67         2.00         3.00         
-06-09UT       2.00         1.67         3.67         
-09-12UT       1.67         1.33         2.67         
-12-15UT       1.00         1.33         2.67         
-15-18UT       1.33         0.67         1.67         
-18-21UT       1.67         0.67         1.67         
-21-00UT       2.00         1.67         2.67         
+             Nov 25       Nov 26       Nov 27
+00-03UT       3.00         3.00         4.33         
+03-06UT       2.33         3.33         5.00 (G1)    
+06-09UT       2.33         2.67         3.67         
+09-12UT       2.00         2.00         3.00         
+12-15UT       2.67         2.33         2.67         
+15-18UT       3.00         2.67         2.67         
+18-21UT       3.33         3.67         2.67         
+21-00UT       4.00         5.00 (G1)    3.67         
 
-Rationale: No G1 (Minor) or greater geomagnetic storms are expected. No
-significant transient or recurrent solar wind features are forecast.
+Rationale: G1 (Minor) geomagnetic storms are likely on 26 and 27 Nov due
+to positive polarity coronal hole high speed stream effects.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Nov 03-Nov 05 2026
+Solar Radiation Storm Forecast for Nov 25-Nov 27 2026
 
-              Nov 03  Nov 04  Nov 05
+              Nov 25  Nov 26  Nov 27
 S1 or greater    1%      1%      1%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -91,10 +91,10 @@ C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Nov 03-Nov 05 2026
+Radio Blackout Forecast for Nov 25-Nov 27 2026
 
-              Nov 03        Nov 04        Nov 05
-R1-R2            5%            5%            5%
+              Nov 25        Nov 26        Nov 27
+R1-R2            1%            1%            1%
 R3 or greater    1%            1%            1%
 
 Rationale: No R1 (Minor) or greater radio blackouts are expected. No
