@@ -1,10 +1,9 @@
 nasapy==0.2.7
 numpy==1.26.4
-pandas==1.5.3
+pandas==2.2.3
 pandas-datareader==0.10.0
-pandas-gbq==0.17.9
-pandas-stubs==1.5.3.230304
+pandas-gbq==0.29.2
 pytz==2023.3.post1
-matplotlib==3.7.1
+matplotlib==3.9.2
 matplotlib-inline==0.1.6
 matplotlib-venn==0.11.9
