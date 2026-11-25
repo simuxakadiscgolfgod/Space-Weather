@@ -1,80 +1,88 @@
-import nasapy
+
 import os
-import pytz
-from datetime import datetime, timedelta
+import re
 import urllib.request
-import random
+import xml.etree.ElementTree as ET
+from html import unescape
+
+FEED = "https://science.nasa.gov/feed/apod-basic/"
+FOLDER = "Astro_Images"
 
 
-#For API
-try:
-    SOME_SECRET = os.environ["SOME_SECRET"]
-except KeyError:
-    SOME_SECRET = "Token not available!"
+def get(url):
+    req = urllib.request.Request(
+        url, headers={"User-Agent": "SpaceWeather/1.0"}
+    )
+    with urllib.request.urlopen(req, timeout=30) as r:
+        return r.read()
 
-#Initialize nasa class by creating an object:
-nasa = nasapy.Nasa(key=SOME_SECRET)
 
-def random_date(start_date, end_date):
-    time_between = end_date - start_date
-    days_between = time_between.days
-    random_days = random.randint(0, days_between)
-    random_date = start_date + timedelta(days=random_days)
-    return random_date
+def main():
+    os.makedirs(FOLDER, exist_ok=True)
 
-#Specify US east coast timezone
-eastern_timezone = pytz.timezone('US/Eastern')
+    root = ET.fromstring(get(FEED))
+    item = root.find(".//item")
 
-# Get the current time in the specified timezone
-d = datetime.now(eastern_timezone).strftime('%Y-%m-%d')
-            
-#Get information
-apod = nasa.picture_of_the_day(date=d, hd=True)
+    if item is None:
+        raise RuntimeError("No APOD entry found")
 
-#Get another one if its not an image
-while apod["media_type"] != "image":
-    
-    # Define the date range
-    start = datetime(1995, 6, 16)
-    end = datetime(2025, 10, 1)
-    
-    # Generate a random date
-    apod_date = random_date(start, end).strftime('%Y-%m-%d')                                 
-    #Get random image
-    apod = nasa.picture_of_the_day(date=apod_date, hd=True)
+    def field(name):
+        node = item.find(name)
+        return node.text.strip() if node is not None and node.text else ""
 
-#Removes image and log every run
-try:
-    os.remove("Astro_Images/image.jpg")
-    os.remove("Astro_Images/image_log.txt")
-except OSError:
-    pass
-    
-#Saving name for image:
-title = "image.jpg"
+    title = field("title")
+    description = field("description")
+    date = field("pubDate")
+    page = field("link")
 
-#Path of the directory:
-image_dir = "Astro_Images"
+    # Find the image in the RSS content
+    content = item.find(
+        "{http://purl.org/rss/1.0/modules/content/}encoded"
+    )
+    html = content.text if content is not None else description
 
-#Checking if the directory already exists?
-dir_res = os.path.exists(image_dir)
+    match = re.search(
+        r'<img[^>]+src=["\']([^"\']+)["\']',
+        html,
+        re.IGNORECASE
+    )
 
-#If it doesn't exist then make a new directory:
-if (dir_res==False):
-  os.makedirs(image_dir)
+    if not match:
+        raise RuntimeError("No APOD image found in RSS entry")
 
-#Writing in log
-with open("Astro_Images/image_log.txt", "a") as f:
-  if("date" in apod.keys()):
-    print("<br />**Date image released:** ", apod["date"], file=f)
-  if("copyright" in apod.keys()):
-    print("<br />**This image is owned by:** ", apod["copyright"], file=f)
-  if("title" in apod.keys()):
-    print("<br />**Title of the image:** ", apod["title"], file=f)
-  if("explanation" in apod.keys()):
-    print("<br />**Description for the image:** ", apod["explanation"], file=f)
-  if("hdurl" in apod.keys()):
-    print("<br />**URL for this image:** ", apod["hdurl"], file=f)
+    image_url = unescape(match.group(1))
 
-#Saving the image:
-urllib.request.urlretrieve(url = apod["hdurl"], filename = os.path.join(image_dir, title))
+    if "nasa-logo" in image_url.lower():
+        raise RuntimeError("NASA logo detected; keeping previous image")
+
+    image = get(image_url)
+
+    # Validate that the download is an actual image
+    if not (
+        image.startswith(b"\xff\xd8") or
+        image.startswith(b"\x89PNG") or
+        image.startswith(b"RIFF")
+    ):
+        raise RuntimeError("Downloaded file is not a valid image")
+
+    path = os.path.join(FOLDER, "image.jpg")
+    temp = path + ".tmp"
+
+    with open(temp, "wb") as f:
+        f.write(image)
+
+    os.replace(temp, path)
+
+    with open(os.path.join(FOLDER, "image_log.txt"), "w",
+              encoding="utf-8") as f:
+        f.write(f"**Date image released:** {date}\n")
+        f.write(f"**Title of the image:** {title}\n")
+        f.write(f"**Description for the image:** {description}\n")
+        f.write(f"**URL for this image:** {image_url}\n")
+        f.write(f"**NASA APOD page:** {page}\n")
+
+    print("APOD successfully updated:", title)
+
+
+if __name__ == "__main__":
+    main()
