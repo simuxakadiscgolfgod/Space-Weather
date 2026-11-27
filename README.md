@@ -1,11 +1,11 @@
 # Space Weather App
 ## Astronomical Picture of the Day
 ![Image](Astro_Images/image.jpg)
-**Date image released:** Thu, 26 Nov 2026 05:05:00 +0000
-**Title of the image:** Eye in the Sky: The Milky Way over Lençóis
-**Description for the image:** <strong>Explanation:</strong> <a href="https://www.phrases.org.uk/meanings/beauty-is-in-the-eye-of-the-beholder.html">Beauty is in the eye of the beholder.</a> And there is much to behold in today's <a href="https://www.instagram.com/p/Df2wxeQD--8/?img_index=1">featured image</a>. The Milky Way shines bright in the sky of <a href="https://wikitravel.org/en/Brazil">Brazil</a>, over the <a href="https://www.youtube.com/watch?v=7Ikc0bRgwHw">white sand dunes and dark lagoons</a> of <a href="https://science.nasa.gov/earth/earth-observatory/the-paradox-of-lencois-maranhenses-national-park/">Lençóis Maranhenses National Park</a>. We can see different parts of  the <a href="https://science.nasa.gov/universe/galaxies/">Milky Way</a> as it  apparently rotates in the sky every night and throughout the year. This composite image was taken later in the night in July from a <a href="https://science.nasa.gov/learn/basics-of-space-flight/chapter2-1/">latitude</a> of approximately 2º south. It shows some prominent Milky Way features, such as dark <a href="https://en.wikipedia.org/wiki/Dust_lane">dust lanes</a> and colorful <a href="https://science.nasa.gov/universe/stories/quick-reads/decoding-nebulae/">nebulas</a>. But does the Galaxy really appear <a href="https://science.nasa.gov/image-article/apod/apod-2026-august-16-milky-way-over-yellowstone/">arched like a rainbow</a> in the sky? No, this is an <a href="https://www.instagram.com/p/DMD62WQow9I/">artifact</a> of a picture taken with a wide-angle lens. As the Galaxy was artfully framed by the photographer, it matches the contour of the dark lagoon creating the illusion of a <a href="https://science.nasa.gov/image-article/apod-2026-april-19-eye-on-the-milky-way/">cosmic eye</a>, half in space and half on the ground. Is this <a href="https://www.youtube.com/watch?v=56hqrlQxMMI&amp;list=RD56hqrlQxMMI">eye in the sky</a> looking back at you?<br><br><strong>Tomorrow's picture:</strong> what's next?
-**URL for this image:** https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/Milky_Way_Lencois.jpg
-**NASA APOD page:** https://science.nasa.gov/image-article/apod-2026-november-26-eye-in-the-sky-the-milky-way-over-lencois/
+**Date image released:** Fri, 27 Nov 2026 05:05:00 +0000
+**Title of the image:** The Moon Watchers
+**Description for the image:** <strong>Explanation:</strong> <a href="https://www.instagram.com/marcella_giulia_pace/reel/DgIka7aRZzJ/">On November 24</a>, all denizens of our fair planet could watch the Moon rise opposite the setting Sun. Easy to spot in twilight skies above fields, fences, backyards, and even stone walls, the Moon was big and bright, and at its <a href="https://science.nasa.gov/image-article/apod-2026-january-3-full-moonlight/">full phase</a>. Known to some as a Beaver Moon, <a href="https://earthsky.org/moon-phases/november-full-moon/">November's Full Moon</a> was also near perigee, the closest point in its elliptical orbit around planet Earth. That made it one of the biggest and brightest Full Moons, also known as <a href="https://science.nasa.gov/moon/supermoons/">a supermoon</a>. In fact, November's Full Moon was the first in a series of four consecutive Full Moons near perigee. So your next chance to watch a supermoon rise will be when the <a href="https://science.nasa.gov/image-article/apod-2023-december-30-the-persistence-of-moonlight/">Cold Moon</a> rises on December 23.<br><br><strong>Tomorrow's picture: </strong>remember where you parked
+**URL for this image:** https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/Plenilunio1_2048r.jpg
+**NASA APOD page:** https://science.nasa.gov/image-article/apod-2026-november-27-the-moon-watchers/
 
 ## X-Ray Flux
 The GOES X-ray plots shown here are used to track solar activity and solar flares. Large solar X-ray flares can change the Earth’s ionosphere, which blocks high-frequency (HF) radio transmissions on the sunlit side of the Earth. Solar flares are also associated with Coronal Mass Ejections (CMEs) which can ultimately lead to geomagnetic storms. SWPC sends out space weather alerts at the M5 (5x10^-5 Watts/mw) level. Some large flares are accompanied by strong radio bursts that may interfere with other radio frequencies and cause problems for satellite communication and radio navigation (GPS).
@@ -49,40 +49,39 @@ Scale | Description | Effect
 ## 3-day Forecast
 ```
 :Product: 3-Day Forecast
-:Issued: 2026 Nov 26 1230 UTC
+:Issued: 2026 Nov 27 1230 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Nov 26-Nov 28 2026 is 5.00 (NOAA Scale
+The greatest expected 3 hr Kp for Nov 27-Nov 29 2026 is 4.67 (NOAA Scale
 G1).
 
-NOAA Kp index breakdown Nov 26-Nov 28 2026
+NOAA Kp index breakdown Nov 27-Nov 29 2026
 
-             Nov 26       Nov 27       Nov 28
-00-03UT       0.33         4.33         3.67         
-03-06UT       2.00         5.00 (G1)    3.33         
-06-09UT       0.67         3.67         3.00         
-09-12UT       0.67         3.00         3.00         
-12-15UT       2.33         2.67         2.33         
-15-18UT       3.33         2.67         3.00         
-18-21UT       3.67         2.67         3.33         
-21-00UT       5.00 (G1)    3.67         3.33         
+             Nov 27       Nov 28       Nov 29
+00-03UT       2.00         3.67         2.67         
+03-06UT       1.00         3.33         2.00         
+06-09UT       0.33         3.00         2.33         
+09-12UT       4.00         3.00         2.33         
+12-15UT       3.67         2.33         2.00         
+15-18UT       4.67 (G1)    3.00         2.00         
+18-21UT       2.67         3.33         2.00         
+21-00UT       3.67         3.33         2.00         
 
-Rationale: G1 (Minor) geomagnetic storms are likely by late on 26 Nov
-and continuing into the early portions of the 27 Nov UTC-day due to
-recurrent, positive polarity CH HSS effects.
+Rationale: G1 (Minor) geomagnetic storms are likely on 27 Nov due to
+anticipated coronal hole influence.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
 Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
-Solar Radiation Storm Forecast for Nov 26-Nov 28 2026
+Solar Radiation Storm Forecast for Nov 27-Nov 29 2026
 
-              Nov 26  Nov 27  Nov 28
+              Nov 27  Nov 28  Nov 29
 S1 or greater    1%      1%      1%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
@@ -93,9 +92,9 @@ C. NOAA Radio Blackout Activity and Forecast
 
 No radio blackouts were observed over the past 24 hours.
 
-Radio Blackout Forecast for Nov 26-Nov 28 2026
+Radio Blackout Forecast for Nov 27-Nov 29 2026
 
-              Nov 26        Nov 27        Nov 28
+              Nov 27        Nov 28        Nov 29
 R1-R2            1%            1%            1%
 R3 or greater    1%            1%            1%
 
